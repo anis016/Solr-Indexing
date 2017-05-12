@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8' ?>
+<config>
+	<luceneMatchVersion>4.10.3</luceneMatchVersion>
+
+    <!-- Adding Solr Cell library and Apache Tike -->
+	<lib dir="${solr.install.dir:../../../..}/contrib/extraction/lib" regex=".*\.jar" />
+    <lib dir="${solr.install.dir:../../../..}/dist/" regex="solr-cell-\d.*\.jar" />
+
+	<codecFactory name="CodecFactory" class="solr.SchemaCodecFactory" />
+	<directoryFactory name='DirectoryFactory' class='solr.MMapDirectoryFactory' />
+
+	<requestHandler name='standard' class='solr.StandardRequestHandler' default='true' />
+	<requestHandler name='/update' class='solr.UpdateRequestHandler' />
+
+	<requestHandler name='/update/extract' class='solr.extraction.ExtractingRequestHandler' >
+		
+	</requestHandler>
+
+	<requestHandler name='/admin/' class='org.apache.solr.handler.admin.AdminHandlers' />
+
+	<admin>
+		<defaultQuery>*:*</defaultQuery>
+	</admin>
+
+</config>

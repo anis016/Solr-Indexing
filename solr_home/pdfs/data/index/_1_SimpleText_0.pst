@@ -1,0 +1,21 @@
+field fullText
+  term Adding more Document
+    doc 0
+      freq 1
+      pos 0
+  term Hello Part 2
+    doc 0
+      freq 1
+      pos 1
+field text
+  term Hello Part 2
+    doc 0
+      freq 1
+      pos 0
+field title
+  term Adding more Document
+    doc 0
+      freq 1
+      pos 0
+END
+checksum 00000000000983590361

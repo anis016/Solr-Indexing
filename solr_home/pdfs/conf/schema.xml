@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schema name='pdf_simple' version='1.1'>
+
+	<types>
+		<fieldType name="string_simpletext" class="solr.StrField" postingsFormat="SimpleText" />
+		<fieldType name="text" class="solr.TextField">
+			<analyzer>
+				<tokenizer class='solr.WhitespaceTokenizerFactory' />
+				<filter class='solr.LowerCaseFilterFactory' />
+			</analyzer>
+		</fieldType>
+	</types>
+
+	<fields>
+		<dynamicField name='*' type='string_simpletext' multiValued='true' indexed='true' stored='true' />
+		<copyField source='*' dest='fullText' />
+		<field name='fullText' type='text' multiValued='true' />
+	</fields>
+
+	<defaultSearchField>fullText</defaultSearchField>
+	<solrQueryParser defaultOperator='OR' />
+
+</schema>

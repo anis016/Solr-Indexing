@@ -1,0 +1,21 @@
+field fullText
+  term Dummy Test Document
+    doc 0
+      freq 1
+      pos 0
+  term Hello World
+    doc 0
+      freq 1
+      pos 1
+field text
+  term Hello World
+    doc 0
+      freq 1
+      pos 0
+field title
+  term Dummy Test Document
+    doc 0
+      freq 1
+      pos 0
+END
+checksum 00000000000320934977
