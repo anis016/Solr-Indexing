@@ -1,0 +1,8 @@
+
+1. Check if working:
+
+curl -X POST 'http://localhost:8983/solr/pdfs/update?commit=true&wt=json' -H 'Content-Type: application/xml' -d '<add><doc><field name="title">Dummy Test Document</field><field name="text">Hello World</field></doc></add>'
+
+2. Post some pdfs:
+
+curl -X POST 'http://localhost:8983/solr/pdfs/update/extract?extractFormat=text&literal.annotation=Cloudera+Challenge&commit=true' -F 'Lucene.pdf=@/home/sayed/apache/solr-4.10.3/solr-app/solr_home/pdfs/pdfs_res/Cloudera_challenges.pdf'
