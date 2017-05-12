@@ -3,17 +3,32 @@
 	<luceneMatchVersion>4.10.3</luceneMatchVersion>
 
     <!-- Adding Solr Cell library and Apache Tike -->
-	<lib dir="${solr.install.dir:../../../..}/contrib/extraction/lib" regex=".*\.jar" />
-    <lib dir="${solr.install.dir:../../../..}/dist/" regex="solr-cell-\d.*\.jar" />
-
+    <!-- Match with the path.. 
+         solr.install.dir: resolves to the current solr home i.e: ../solr_home/..
+         ../ -> one step backward i.e:  ../solr-app/..-->
+    <lib dir="${solr.install.dir:../../..}/dist/" regex="solr-cell-\d.*\.jar" />
+	<lib dir="${solr.install.dir:../../..}/contrib/extraction/lib/" regex=".*\.jar" />
+    
 	<codecFactory name="CodecFactory" class="solr.SchemaCodecFactory" />
 	<directoryFactory name='DirectoryFactory' class='solr.MMapDirectoryFactory' />
 
 	<requestHandler name='standard' class='solr.StandardRequestHandler' default='true' />
-	<requestHandler name='/update' class='solr.UpdateRequestHandler' />
+	<requestHandler name="/update" class="solr.UpdateRequestHandler" />
 
-	<requestHandler name='/update/extract' class='solr.extraction.ExtractingRequestHandler' >
-		
+	<!-- Make new RequestHandler for the pdf extraction with setting the input parameters.
+	     This instucts Tika on how to emit metadata from the binary PDF file. -->
+	<requestHandler name='/update/extract'
+		            class="solr.extraction.ExtractingRequestHandler" >
+		<!-- https://wiki.apache.org/solr/ExtractingRequestHandler -->
+		<lst name='defaults'>
+			<str name='lowernames'>true</str>
+			<str name='overwrite'>true</str> <!-- Default is true. Indicates if the unique key constraints should be checked to overwrite previous versions of the same document -->
+			<str name='literalsOverride'>true</str>
+			
+			<!-- capture link hrefs -->
+			<str name='captureAttr'>true</str>
+			<str name='fmap.a'>link</str>
+		</lst>
 	</requestHandler>
 
 	<requestHandler name='/admin/' class='org.apache.solr.handler.admin.AdminHandlers' />
