@@ -5,13 +5,22 @@
     <!-- Adding Solr Cell library and Apache Tike -->
     <!-- Match with the path.. 
          solr.install.dir: resolves to the current solr home i.e: ../solr_home/..
-         ../ -> one step backward i.e:  ../solr-app/..-->
+         ../ -> one step backward i.e:  ../solr-app/.. 
+         ../ -> one step back i.e: ../solr-4.10./.. -->
     <lib dir="${solr.install.dir:../../..}/dist/" regex="solr-cell-\d.*\.jar" />
 	<lib dir="${solr.install.dir:../../..}/contrib/extraction/lib/" regex=".*\.jar" />
     
 	<codecFactory name="CodecFactory" class="solr.SchemaCodecFactory" />
 	<directoryFactory name='DirectoryFactory' class='solr.MMapDirectoryFactory' />
 
+	<!-- Issue#1 Index large pdf files. Currently this is not working -->
+	<!-- Change "multipartUploadLimitInKB" property for changing the upload size.
+	     Default is 2MB  -->
+	<!-- <requestDispatcher handleSelect="false" >
+	    <requestParsers enableRemoteStreaming="true" 
+                        multipartUploadLimitInKB="2048000" />
+    </requestDispatcher> -->
+	
 	<requestHandler name='standard' class='solr.StandardRequestHandler' default='true' />
 	<requestHandler name="/update" class="solr.UpdateRequestHandler" />
 
