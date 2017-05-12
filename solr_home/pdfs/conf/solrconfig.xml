@@ -33,12 +33,34 @@
 			<str name='lowernames'>true</str>
 			<str name='overwrite'>true</str> <!-- Default is true. Indicates if the unique key constraints should be checked to overwrite previous versions of the same document -->
 			<str name='literalsOverride'>true</str>
+			<str name='update.chain'>check_duplication_document_entries</str>
 			
 			<!-- capture link hrefs -->
 			<str name='captureAttr'>true</str>
 			<str name='fmap.a'>link</str>
 		</lst>
 	</requestHandler>
+
+    <!-- Read: https://cwiki.apache.org/confluence/display/solr/Update+Request+Processors
+               https://wiki.apache.org/solr/UpdateRequestProcessor -->
+	<!-- Idea: Find if a document has already been added.
+	     "check_duplication_document_entries" is the name that is used for the process by
+	     which redundant information or duplicated files can be found, so that we can delete the copies
+	     and maintain an archive with only a single instance of every document. -->
+	<updateRequestProcessorChain name='check_duplication_document_entries'>
+		<!-- SignatureUpdateProcessorFactory: Uses a defined set of fields to generate a hash "signature" for the document. Useful for only indexing one copy of "similar" documents. -->
+		<processor class='org.apache.solr.update.processor.SignatureUpdateProcessorFactory'>
+			<bool name='overwriteDupes'>false</bool>
+			<str name='signatureField'>uid</str>
+			<bool name='enabled'>true</bool>
+			<str name='fields'>content</str>
+			<str name='minTokenLen'>10</str>
+			<str name='quantRate'>.2</str>
+			<str name='signatureClass'>solr.update.processor.TextProfileSignature</str>
+		</processor>
+		<processor class='solr.LogUpdateProcessorFactory' />
+		<processor class='solr.RunUpdateProcessorFactory' />
+	</updateRequestProcessorChain>
 
 	<requestHandler name='/admin/' class='org.apache.solr.handler.admin.AdminHandlers' />
 
