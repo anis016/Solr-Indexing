@@ -5,9 +5,9 @@ curl -X POST 'http://localhost:8983/solr/pdfs/update?commit=true&wt=json' -H 'Co
 
 2. Post some pdfs:
 
-curl -X POST 'http://localhost:8983/solr/pdfs/update/extract?extractFormat=text&literal.annotation=Cloudera+Challenge&commit=true' -F 'Lucene.pdf=@/home/sayed/apache/solr-4.10.3/solr-app/solr_home/pdfs/pdfs_res/Cloudera_challenges.pdf'
+curl -X POST 'http://localhost:8983/solr/pdfs/update/extract?extractFormat=text&literal.annotation=Cloudera+Challenge&commit=true' -F 'Lucene.pdf=@/home/anis016/apache/solr-4.10.3/solr-app/solr_home/pdfs/pdfs_res/Cloudera_challenges.pdf'
 
 3. Updatig with no duplicate pdfs. (Restart the server first)
 
 : give a uid for the document
-curl -X POST 'http://localhost:8983/solr/pdfs/update/extract?extractFormat=text&literal.uid=11111&commit=true' -F 'Lucene.pdf=@/home/sayed/apache/solr-4.10.3/solr-app/solr_home/pdfs/pdfs_res/Cloudera_challenges.pdf'
+curl -X POST 'http://localhost:8983/solr/pdfs/update/extract?extractFormat=text&commit=true' -F 'Lucene.pdf=@/home/anis016/apache/solr-4.10.3/solr-app/solr_home/pdfs/pdfs_res/Cloudera_challenges.pdf'

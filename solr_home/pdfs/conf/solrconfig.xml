@@ -49,6 +49,7 @@
 	     and maintain an archive with only a single instance of every document. -->
 	<updateRequestProcessorChain name='check_duplication_document_entries'>
 		<!-- SignatureUpdateProcessorFactory: Uses a defined set of fields to generate a hash "signature" for the document. Useful for only indexing one copy of "similar" documents. -->
+		<!-- https://cwiki.apache.org/confluence/display/solr/De-Duplication -->
 		<processor class='org.apache.solr.update.processor.SignatureUpdateProcessorFactory'>
 			<bool name='overwriteDupes'>false</bool>
 			<str name='signatureField'>uid</str>
