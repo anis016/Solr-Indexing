@@ -11,3 +11,7 @@ curl -X POST 'http://localhost:8983/solr/pdfs/update/extract?extractFormat=text&
 
 : give a uid for the document
 curl -X POST 'http://localhost:8983/solr/pdfs/update/extract?extractFormat=text&commit=true' -F 'Lucene.pdf=@/home/anis016/apache/solr-4.10.3/solr-app/solr_home/pdfs/pdfs_res/Cloudera_challenges.pdf'
+
+another way:
+java -Durl=http://localhost:8983/solr/pdfs/update/extract -Dcommit=yes -Dtype=application/pdf -jar exampledocs/post.jar ~/apache/solr-4.10.3/solr-app/solr_home/pdfs/pdfs_res/Apache_Solr.pdf
+

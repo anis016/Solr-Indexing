@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schema name='dbpedia' version='1.1'>
+	<types>
+		<fieldType name="string" class="solr.StrField" />
+		<fieldType name='long' class="solr.TrieLongField" />
+
+		<fieldType name='text_general' class='solr.TextField' positionIncrementGap='100'>
+			<analyzer>
+				<charFilter class='solr.MappingCharFilterFactory' mapping='mapping-ISOLatin1Accent.txt' />
+				<tokenizer class='solr.StandardTokenizerFactory' />
+				<filter class='solr.LowerCaseFilterFactory' />
+			</analyzer>
+		</fieldType>
+	</types>
+
+	<fields>
+		<field name="uri" type="string" indexed="true" stored="true" multiValued="false" required="true" />
+		<field name="_version_" type="long" indexed="true" stored="true" multiValued="false" />
+		<filed name="id" type="string" indexed="true" stored="true" multiValued="false" required="false" />
+
+		<dynamicField name="*" type="string" multiValued="true" stored="true" indexed="true" />
+		<field name="fullText" type="text_general" indexed="true" stored="false" multiValued="true" />
+		<copyField source="*" dest="fullText" />
+	</fields>
+
+	<defaultSearchField>fullText</defaultSearchField>
+	<solrQueryParser defaultOperator="OR" />
+	<uniqueKey>uri</uniqueKey>
+
+</schema>

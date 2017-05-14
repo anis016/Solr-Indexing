@@ -11,6 +11,10 @@
 	<lib dir="${solr.install.dir:../../..}/contrib/extraction/lib/" regex=".*\.jar" />
     
 	<codecFactory name="CodecFactory" class="solr.SchemaCodecFactory" />
+
+	<!-- https://cwiki.apache.org/confluence/display/solr/DataDir+and+DirectoryFactory+in+SolrConfig -->
+	<!-- https://www.packtpub.com/books/content/apache-solr-configuration
+		 solr.MMapDirectoryFactory was the default directory factory for Solr for the 64-bit Linux systems from Solr 3.1 till 4.0. This directory implementation uses virtual memory and a kernel feature called mmap to access index files stored on disk. This allows Lucene (and thus Solr) to directly access the I/O cache. This is desirable and you should stick to that directory if near real-time searching is not needed. -->
 	<directoryFactory name='DirectoryFactory' class='solr.MMapDirectoryFactory' />
 
 	<!-- Issue#1 Index large pdf files. Currently this is not working -->
@@ -64,7 +68,6 @@
 	</updateRequestProcessorChain>
 
 	<requestHandler name='/admin/' class='org.apache.solr.handler.admin.AdminHandlers' />
-
 	<admin>
 		<defaultQuery>*:*</defaultQuery>
 	</admin>

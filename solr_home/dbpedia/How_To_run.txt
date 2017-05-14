@@ -1,0 +1,9 @@
+1. Cleaning index:
+
+curl 'http://localhost:8983/solr/dbpedia/update?commit=true' -H 'Content-Type: application/json' -d '{"delete": {"query": "*:*"}}'
+
+2. Add data:
+
+curl 'http://localhost:8983/solr/dbpedia/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://en.wikipedia.org/wiki/Mona_Lisa... hey hey hey", "title": "Mona Lisa 1", "museum": "unknown became known", "id": "11" }]'
+
+curl 'http://localhost:8983/solr/dbpedia/update?commit=true&wt=json&literal.id=12312' -H 'Content-Type: application/json' -d '[{"uri": "http://en.wikipedia.org/wiki/Mona_Lisa... adding literal 12312", "title": "Mona Lisa adding literal 12312", "museum": "unknown became known adding literal 12312"}]'

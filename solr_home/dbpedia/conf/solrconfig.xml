@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<config>
+	<luceneMatchVersion>4.10.3</luceneMatchVersion>
+
+	<lib dir="${solr.install.dir:../../..}/dist/" regex="solr-cell-\d.*\.jar" />
+	<lib dir="${solr.install.dir:../../..}/contrib/extraction/lib/" regex=".*\.jar" />
+
+	<codecFactory name='CodecFactory' class='solr.SchemaCodecFactory' />
+	<directoryFactory name='DirectoryFactory' class='solr.MMapDirectoryFactory' />
+
+	<requestHandler name='standard' class='solr.StandardRequestHandler' default='true' />
+	<requestHandler name='/update'  class='solr.UpdateRequestHandler' />
+	<requestHandler name='/admin/'  class='org.apache.solr.handler.admin.AdminHandlers' />
+	<admin>
+		<defaultQuery>*:*</defaultQuery>
+	</admin>
+
+	<requestHandler name='/analysis/field' class='solr.FieldAnalysisRequestHandler' />
+
+	<!-- DirectUpdateHandler2 is needed by Solr for handling internal calls to the update process -->
+	<updateHandler class='solr.DirectUpdateHandler2'>
+		<updateLog>
+			<str name='dir'>${solr.ulog.dir:}</str>
+		</updateLog>
+		<autoCommit>
+			<maxTime>60000</maxTime>
+			<maxDocs>100</maxDocs>
+		</autoCommit>
+	</updateHandler>
+
+</config>
