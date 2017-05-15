@@ -3,6 +3,6 @@
 	<cores adminPath="/admin/cores" hostPort="${jetty.port:8983}" hostContext="${hostContext:solr}">
 		<core default="true" instanceDir="simple" name="simple"/>
 		<core default="false" instanceDir="pdfs" name="pdfs"/>
-		<core default="false" instanceDir="dbpedia" name="dbpedia"/>
+		<core default="false" instanceDir="paintings" name="paintings"/>
 	</cores>
 </solr>
