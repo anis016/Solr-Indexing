@@ -1,0 +1,92 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Swimming_Hole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swimming_Hole</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Swimming_Hole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/The_Swimming_Hole</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Natatio_(Eakins)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Swimming_Hole</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Swimming_Hole</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Swimming_Hole</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q766212</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.053bntc</field>
+<field name="sameAs">http://bn.dbpedia.org/resource/দ্য_সুইমিং_হোল</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Swimming</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swimming_Hole</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="abstract">The Swimming Hole (also known as Swimming and The Old Swimming Hole) is an 1884–85 painting by the American artist Thomas Eakins (1844–1916), Goodrich catalog #190, in the collection of the Amon Carter Museum in Fort Worth, Texas. Executed in oil on canvas, it depicts six men swimming naked in a lake, and is considered a masterpiece of American painting. According to art historian Doreen Bolger it is "perhaps Eakins' most accomplished rendition of the nude figure", and has been called "the most finely designed of all his outdoor pictures". Since the Renaissance, the human body has been considered both the basis of artists' training and the most challenging subject to depict in art, and the nude was the centerpiece of Eakins' teaching program at the Pennsylvania Academy of the Fine Arts. For Eakins, this picture was an opportunity to display his mastery of the human form. In this work, Eakins took advantage of an exception to the generally prudish Victorian attitude to nudity: swimming naked was widely accepted, and for males was seen as normal, even in public spaces. Eakins was the first American artist to portray one of the few occasions in 19th-century life when nudity was on display. The Swimming Hole develops themes raised in his earlier work, in particular his treatment of buttocks and his ambiguous treatment of the human form; in some cases it is uncertain as to whether the forms portrayed are male or female. Such themes had earlier been examined in his The Gross Clinic (1875) and William Rush (1877), and would continue to be explored in his paintings of boxers and wrestlers. Although the theme of male bathers was familiar in Western art, having been explored by artists from Michelangelo to Daumier, Eakins' treatment was novel in American art at the time. The Swimming Hole has been "widely cited as a prime example of homoeroticism in American art". In 2008, the art critic Tom Lubbock described Eakins' work as: a classic of American painting. It shows a scene of healthy, manly, outdoor activity: a group of young fellows having stripped off for a dip. It is based on the swimming excursions that were enjoyed by the artist and his students. Eakins himself appears in the water at bottom right – in signature position, so to speak."</field>
+<field name="label">The Swimming Hole</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/50/Swimming_hole.jpg</field>
+<field name="comment">The Swimming Hole (also known as Swimming and The Old Swimming Hole) is an 1884–85 painting by the American artist Thomas Eakins (1844–1916), Goodrich catalog #190, in the collection of the Amon Carter Museum in Fort Worth, Texas. Executed in oil on canvas, it depicts six men swimming naked in a lake, and is considered a masterpiece of American painting.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Swimming_hole.jpg/200px-Swimming_hole.jpg</field>
+<field name="link_external">http://www.cartermuseum.org/artworks/491</field>
+<field name="artist">http://dbpedia.org/resource/Thomas_Eakins</field>
+<field name="city">http://dbpedia.org/resource/Fort_Worth,_Texas</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Amon_Carter_Museum_of_American_Art</field>
+<field name="title">The Swimming Hole</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Swimming_Hole</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Swimming_Hole</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Swimming</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swimming_Hole</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/The_Swimming_Hole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swimming_Hole</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Swimming_Hole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Old_Swimming_Hole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Swimming_Hole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Swimming_Hole</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q766212</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swimming_Hole</field>
+</doc>
+<doc>
+<field name="uri">http://bn.dbpedia.org/resource/দ্য_সুইমিং_হোল</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swimming_Hole</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Natatio_(Eakins)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swimming_Hole</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Swimming_Hole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swimming_Hole</field>
+</doc>
+</add>

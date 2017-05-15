@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Judgment_(Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Last_Judgment_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Judgment_(Fra_Angelico,_Florence)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cgvsw</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Jugement_dernier_(Fra_Angelico)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3223807</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Last_Judgment_(Fra_Angelico,_Florence)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Fra_Angelico,_Florence)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Giudizio_universale_(Angelico)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1420s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Fra_Angelico</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="abstract">The Last Judgment is a painting by the Renaissance artist Fra Angelico. It was commissioned by the Camaldolese Order for the newly elected abbot, the humanist scholar Ambrogio Traversari. It is variously dated to c1425, 1425-1430 and 1431. It was originally sited in the church of Santa Maria degli Angeli and now is in the museum of San Marco, Florence. It is not to be confused with another Fra Angelico Last Judgement in the Gemäldegalerie, Berlin.</field>
+<field name="label">The Last Judgment (Fra Angelico, Florence)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3b/Fra_Angelico_009.jpg</field>
+<field name="comment">The Last Judgment is a painting by the Renaissance artist Fra Angelico. It was commissioned by the Camaldolese Order for the newly elected abbot, the humanist scholar Ambrogio Traversari. It is variously dated to c1425, 1425-1430 and 1431. It was originally sited in the church of Santa Maria degli Angeli and now is in the museum of San Marco, Florence. It is not to be confused with another Fra Angelico Last Judgement in the Gemäldegalerie, Berlin.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Fra_Angelico_009.jpg/200px-Fra_Angelico_009.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Fra_Angelico</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/San_Marco,_Florence</field>
+<field name="title">The Last Judgment</field>
+<field name="type">tempera on panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Last_Judgment_(Fra_Angelico,_Florence)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Last_Judgment_(Fra_Angelico,_Florence)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Jugement_dernier_(Fra_Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Fra_Angelico,_Florence)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Last_Judgment_(Fra_Angelico,_Florence)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Last_Judgment_(Fra_Angelico,_Florence)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Giudizio_universale_(Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Fra_Angelico,_Florence)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3223807</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Fra_Angelico,_Florence)</field>
+</doc>
+</add>

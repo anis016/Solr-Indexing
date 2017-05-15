@@ -1,0 +1,111 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Netherlands)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7617208</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Netherlands)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Netherlands)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtxl1z</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1884_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="abstract">Still life paintings by Vincent van Gogh (Netherlands) is the subject of many drawings, sketches and paintings made during Vincent van Gogh's early artistic career. Most still lifes made in the Netherlands are dated from 1884 to 1885, when he lived in Nuenen. His works were often in somber colors. Van Gogh experimented with the use of light falling across objects. The next two years (1886-1887), transformed the subjects, color and techniques that Van Gogh used in creating still life paintings. In Paris he painted many still life paintings of flowers, experimenting with color, light and techniques he learned from modern artists.</field>
+<field name="label">Still life paintings by Vincent van Gogh (Netherlands)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/39/Van_Gogh_-_Stillleben_mit_Bartmannkrug,_Kaffeemühle_und_Pfeifenetui.jpeg</field>
+<field name="comment">Still life paintings by Vincent van Gogh (Netherlands) is the subject of many drawings, sketches and paintings made during Vincent van Gogh's early artistic career. Most still lifes made in the Netherlands are dated from 1884 to 1885, when he lived in Nuenen. His works were often in somber colors. Van Gogh experimented with the use of light falling across objects. The next two years (1886-1887), transformed the subjects, color and techniques that Van Gogh used in creating still life paintings.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Van_Gogh_-_Stillleben_mit_Bartmannkrug,_Kaffeemühle_und_Pfeifenetui.jpeg/200px-Van_Gogh_-_Stillleben_mit_Bartmannkrug,_Kaffeemühle_und_Pfeifenetui.jpeg</field>
+<field name="link_external">http://www.vangoghmuseum.nl/vgm/index.jsp?page=1493&amp;collection=1297&amp;lang=en</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Still_life_paintings_by_Vincent_van_Gogh_(Netherlands)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Still_life_paintings_by_Vincent_van_Gogh_(Netherlands)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Still_life_paintings_by_Vincent_van_Gogh_(Netherlands)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Netherlands)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_by_Vincent_van_Gogh_(Holland)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Bible</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Bottles_and_a_Cowrie_Shell</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Clogs_and_Pots</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Coffee_Mill,_Pipe_Case_and_Jug</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Five_Bottles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Four_Stone_Bottles,_Flask_and_White_Cup</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Paintbrushes_in_a_Pot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Pots,_Jar_and_Bottles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Pottery,_Beer_Glass_and_a_Bottle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Pottery_and_Two_Bottles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Two_Sacks_and_a_Bottle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_life_by_Vincent_van_Gogh_(Holland)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Holland)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vase_with_Dead_Leaves</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7617208</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Netherlands)</field>
+</doc>
+</add>

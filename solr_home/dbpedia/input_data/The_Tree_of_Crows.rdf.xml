@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/L'albero_dei_corvi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tree_of_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Δέντρο_με_κοράκια</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tree_of_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Tree_of_Crows</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/L'albero_dei_corvi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q24213</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Δέντρο_με_κοράκια</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0drx08p</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tree_of_Crows</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Tree_of_Crows</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caspar_David_Friedrich</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Tree of Crows is an oil painting of 1822 by the German Romantic artist Caspar David Friedrich. It is currently housed in the Musée du Louvre in Paris.</field>
+<field name="label">The Tree of Crows</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9c/Caspar_David_Friedrich_The_Tree_of_Crows.jpg</field>
+<field name="comment">The Tree of Crows is an oil painting of 1822 by the German Romantic artist Caspar David Friedrich. It is currently housed in the Musée du Louvre in Paris.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Caspar_David_Friedrich_The_Tree_of_Crows.jpg/200px-Caspar_David_Friedrich_The_Tree_of_Crows.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Caspar_David_Friedrich</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Tree of Crows</field>
+<field name="year">c. 1822</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Tree_of_Crows</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Tree_of_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Tree_of_Crows</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Tree_of_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tree_of_Crows</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q24213</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tree_of_Crows</field>
+</doc>
+</add>

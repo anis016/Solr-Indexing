@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Roseto_(Michelino_da_Besozzo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Rose_Garden</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_Garden</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_the_Rose_Garden</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3842637</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvr3d1</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Roseto_(Michelino_da_Besozzo)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gothic_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_paintings</field>
+<field name="abstract">The Madonna of the Rose Garden is a Gothic painting attributed to Michelino da Besozzo or Stefano da Verona. Dating to c. 1420-1435, it is currently housed in the Castelvecchio Museum of Verona, northern Italy.</field>
+<field name="label">Madonna of the Rose Garden</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/ff/Mizhelino_da_besozzo_o_stefano_da_zevio,_madonna_del_roseto,_castelvecchio,_verona.jpg</field>
+<field name="comment">The Madonna of the Rose Garden is a Gothic painting attributed to Michelino da Besozzo or Stefano da Verona. Dating to c. 1420-1435, it is currently housed in the Castelvecchio Museum of Verona, northern Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mizhelino_da_besozzo_o_stefano_da_zevio,_madonna_del_roseto,_castelvecchio,_verona.jpg/200px-Mizhelino_da_besozzo_o_stefano_da_zevio,_madonna_del_roseto,_castelvecchio,_verona.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna of the Rose Garden</field>
+<field name="year">c. 1420-1435</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_the_Rose_Garden</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_the_Rose_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Roseto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_roseto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Roseto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Rose_Garden_(Stefano_da_Verona)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_the_Rose_Garden</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_the_Rose_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3842637</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_Garden</field>
+</doc>
+</add>

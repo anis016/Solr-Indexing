@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Spirit_of_Indiana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Spirit_of_Indiana</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Spirit_of_Indiana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Spirit_of_Indiana</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7577974</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fq0ltm</field>
+<field name="sameAs">http://dbpedia.org/resource/Spirit_of_Indiana</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1964_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_of_Indianapolis,_Indiana</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Indiana_Statehouse_Public_Art_Collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_in_Indiana</field>
+<field name="abstract">Spirit of Indiana is a public artwork by American artist Eugene Francis Savage, located in the Indiana State House, which is in Indianapolis, Indiana, USA. The mural is 21 feet high by 41.5 feet wide, oil on linen canvas. It was commissioned in 1961 and installation was finished in 1964.</field>
+<field name="label">Spirit of Indiana</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8d/Spirit_of_Indiana_full_below.jpg</field>
+<field name="comment">Spirit of Indiana is a public artwork by American artist Eugene Francis Savage, located in the Indiana State House, which is in Indianapolis, Indiana, USA. The mural is 21 feet high by 41.5 feet wide, oil on linen canvas. It was commissioned in 1961 and installation was finished in 1964.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Spirit_of_Indiana_full_below.jpg/200px-Spirit_of_Indiana_full_below.jpg</field>
+<field name="link_external">http://www.in.gov/idoa/2371.htm/</field>
+<field name="link_external">http://www.flickr.com/groups/indiana_statehouse/</field>
+<field name="link_external">http://www.lib.purdue.edu/hsse/infopages/news/spiritlandgrant.html</field>
+<field name="artist">http://dbpedia.org/resource/Eugene_Savage</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Spirit of Indiana</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Spirit_of_Indiana</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Spirit_of_Indiana</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7577974</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spirit_of_Indiana</field>
+</doc>
+</add>

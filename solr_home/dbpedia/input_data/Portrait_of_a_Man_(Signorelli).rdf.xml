@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Man_(Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Man_(Signorelli)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_d'uomo_(Signorelli)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937404</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmg0lw</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_(Signorelli)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Luca_Signorelli</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="abstract">The Portrait of a Man is a painting by the Italian Renaissance artist Luca Signorelli, dated to c. 1492 and housed in the Gemäldegalerie, Berlin.</field>
+<field name="label">Portrait of a Man (Signorelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e3/Luca_Signorelli_099.jpg</field>
+<field name="comment">The Portrait of a Man is a painting by the Italian Renaissance artist Luca Signorelli, dated to c. 1492 and housed in the Gemäldegalerie, Berlin.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Luca_Signorelli_099.jpg/200px-Luca_Signorelli_099.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Luca_Signorelli</field>
+<field name="city">http://dbpedia.org/resource/Berlin</field>
+<field name="height">50</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="title">Portrait of a Man</field>
+<field name="type">Tempera on panel</field>
+<field name="width">32</field>
+<field name="year">c. 1492</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Man_(Signorelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Man_(Signorelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_d'uomo_(Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_(Signorelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Man_(Luca_Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Man_(Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Man_(Signorelli)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937404</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_(Signorelli)</field>
+</doc>
+</add>

@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_dell'imperatore_Massimiliano_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Emperor_Maximilian_I</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Emperor_Maximilian_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937442</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Emperor_Maximilian_I</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvsrx8</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_del_emperador_Maximiliano_I</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_dell'imperatore_Massimiliano_I</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Emperor_Maximilian_I</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1519_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="abstract">The Portrait of Emperor Maximilian I is an oil painting by Albrecht Dürer, dating to 1519 and now at the Kunsthistorisches Museum of Vienna, Austria. It portrays the emperor Maximilian I.</field>
+<field name="label">Portrait of Emperor Maximilian I</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/ce/Albrecht_Dürer_084b.jpg</field>
+<field name="comment">The Portrait of Emperor Maximilian I is an oil painting by Albrecht Dürer, dating to 1519 and now at the Kunsthistorisches Museum of Vienna, Austria. It portrays the emperor Maximilian I.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Albrecht_Dürer_084b.jpg/200px-Albrecht_Dürer_084b.jpg</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=617</field>
+<field name="artist">http://dbpedia.org/resource/Albrecht_D%C3%BCrer</field>
+<field name="city"/>
+<field name="height">74</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Portrait of Emperor Maximilian I</field>
+<field name="type">Oil on linden wood</field>
+<field name="width">62</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Emperor_Maximilian_I</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Emperor_Maximilian_I</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Emperor_Maximilian_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Emperor_Maximilian_I</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Maximilian_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Maximilian_I,_Holy_Roman_Emperor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_emperor_Maximilian_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_del_emperador_Maximiliano_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Emperor_Maximilian_I</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937442</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Emperor_Maximilian_I</field>
+</doc>
+</add>

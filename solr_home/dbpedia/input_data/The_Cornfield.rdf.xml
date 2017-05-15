@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_campo_di_grano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cornfield</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Cornfield</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cornfield</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_campo_di_grano</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_maizal</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/The_Cornfield</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Cornfield</field>
+<field name="sameAs">http://bn.dbpedia.org/resource/দ্যা_কর্নফিল্ড</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2272625</field>
+<field name="sameAs">http://mk.dbpedia.org/resource/Пченкарно_поле</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04jhgz</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1826_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Constable</field>
+<field name="abstract">The Cornfield is an oil-on-canvas painting by the English artist John Constable. It was finished in 1826 and was first exhibited at the Royal Academy that same year. It measures 143 by 122 cm. It is in the National Gallery, London. Constable referred to the painting as "The Drinking Boy" and it is thought to show a lane leading from East Bergholt towards Dedham, Essex</field>
+<field name="label">The Cornfield</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3a/Constable_-_The_Cornfield.jpg</field>
+<field name="comment">The Cornfield is an oil-on-canvas painting by the English artist John Constable. It was finished in 1826 and was first exhibited at the Royal Academy that same year. It measures 143 by 122 cm. It is in the National Gallery, London. Constable referred to the painting as "The Drinking Boy" and it is thought to show a lane leading from East Bergholt towards Dedham, Essex</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Constable_-_The_Cornfield.jpg/200px-Constable_-_The_Cornfield.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/john-constable-the-cornfield</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/47943</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Cornfield</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Cornfield</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_maizal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cornfield</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Cornfield</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Cornfield</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2272625</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cornfield</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/The_Cornfield</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cornfield</field>
+</doc>
+<doc>
+<field name="uri">http://bn.dbpedia.org/resource/দ্যা_কর্নফিল্ড</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cornfield</field>
+</doc>
+<doc>
+<field name="uri">http://mk.dbpedia.org/resource/Пченкарно_поле</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cornfield</field>
+</doc>
+</add>

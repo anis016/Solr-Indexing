@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Snail</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Snail</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Snail</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7764966</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vnvn9</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1953_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="abstract">The Snail (L'escargot) is a collage by Henri Matisse, The work was created from summer 1952 to early 1953. It is pigmented with gouache on paper, cut and pasted onto a base layer of white paper measuring 9'4⁄4" × 9' 5" (287 × 288 cm). The piece is in the Tate Gallery collection in London. It consists of a number of colored shapes arranged in a spiral pattern, as suggested by the title. Matisse first drew the snail, then used the colored paper to interpret it. The composition pairs complementary colors: Matisse gave the work the alternative title La Composition Chromatique (chromatic composition). From the early-to-mid-1940s Matisse was in increasingly poor health, and was suffering from arthritis. Eventually by 1950 he stopped painting in favor of gouaches découpées, paper cutouts. The Snail is a major example of this final body of works.</field>
+<field name="label">The Snail</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7d/Matissesnail.jpg</field>
+<field name="comment">The Snail (L'escargot) is a collage by Henri Matisse, The work was created from summer 1952 to early 1953. It is pigmented with gouache on paper, cut and pasted onto a base layer of white paper measuring 9'4⁄4" × 9' 5" (287 × 288 cm). The piece is in the Tate Gallery collection in London. It consists of a number of colored shapes arranged in a spiral pattern, as suggested by the title. Matisse first drew the snail, then used the colored paper to interpret it.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Matissesnail.jpg/200px-Matissesnail.jpg</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&amp;workid=9396&amp;searchid=8955&amp;tabview=image</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">287</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Tate</field>
+<field name="title">The Snail</field>
+<field name="type">Gouache on paper</field>
+<field name="width">288</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Snail</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Snail</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Snail_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Snail</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Snail</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7764966</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Snail</field>
+</doc>
+</add>

@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Polittico_di_Valle_Romita</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Valle_Romita_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Valle_Romita_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Valle_Romita_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Valle_Romita_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3907532</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Valle_Romita_Polyptych</field>
+<field name="sameAs">http://dbpedia.org/resource/Valle_Romita_Polyptych</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqt0nr</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Polittico_di_Valle_Romita</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1410s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Pinacoteca_di_Brera</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gentile_da_Fabriano_paintings</field>
+<field name="abstract">The Valle Romita Polyptych is a painting by the Italian late Gothic painter Gentile da Fabriano, dating from c. 1410-1412 and now housed in the Pinacoteca di Brera in Milan. It was originally executed for the Franciscan hermitage of Valle Romita near Gentile's birthplace, Fabriano.</field>
+<field name="label">Valle Romita Polyptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d1/Gentile_da_Fabriano_048.jpg</field>
+<field name="comment">The Valle Romita Polyptych is a painting by the Italian late Gothic painter Gentile da Fabriano, dating from c. 1410-1412 and now housed in the Pinacoteca di Brera in Milan. It was originally executed for the Franciscan hermitage of Valle Romita near Gentile's birthplace, Fabriano.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Gentile_da_Fabriano_048.jpg/200px-Gentile_da_Fabriano_048.jpg</field>
+<field name="link_external">http://www.cultura.marche.it/CMDirector.aspx?id=1082</field>
+<field name="artist">http://dbpedia.org/resource/Gentile_da_Fabriano</field>
+<field name="city">http://dbpedia.org/resource/Milan</field>
+<field name="height">280</field>
+<field name="image"/>
+<field name="imageSize">380</field>
+<field name="museum">http://dbpedia.org/resource/Pinacoteca_di_Brera</field>
+<field name="title">Valle Romita Polyptych</field>
+<field name="width">250</field>
+<field name="year">c. 1410-1412</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Valle_Romita_Polyptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Valle_Romita_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Polittico_di_Valle_Romita</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3907532</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Valle_Romita_Polyptych</field>
+</doc>
+</add>

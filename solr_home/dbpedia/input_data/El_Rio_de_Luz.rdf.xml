@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Rio_de_Luz_''(The_River_of_Light)''</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Rio_de_Luz_(The_River_of_Light)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Morning_in_the_Tropics</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Rio_de_Luz</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hr799v</field>
+<field name="sameAs">http://yago-knowledge.org/resource/El_Rio_de_Luz</field>
+<field name="sameAs">http://dbpedia.org/resource/El_Rio_de_Luz</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5352030</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1877_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Frederic_Edwin_Church</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="abstract">El Rio de Luz (The River of Light) (1887) is an oil on canvas landscape by Frederic Edwin Church acquired by the National Gallery of Art in 1965. According to the NGA, the work is a "fanciful pastiche" of the many sketches and drawings Church made while traveling in South America in 1857. The NGA notes that "the tightly focused realism, the overall tonal harmony and restrained coloration, and the compositional unity all lend a remarkable cohesiveness to the work. " William Earl Dodge, Jr. (d. 1903) was the original owner of the work and passed it to his descendants. In 1965 it was given to the Preservation Society of Newport County, Rhode Island, and purchased in December 1965 by the National Gallery of Art. The painting was restored in 1988.</field>
+<field name="label">El Rio de Luz</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/39/El_Rio_de_Luz_(The_River_of_Light)_Frederic_Edwin_Church.jpg</field>
+<field name="comment">El Rio de Luz (The River of Light) (1887) is an oil on canvas landscape by Frederic Edwin Church acquired by the National Gallery of Art in 1965. According to the NGA, the work is a "fanciful pastiche" of the many sketches and drawings Church made while traveling in South America in 1857. The NGA notes that "the tightly focused realism, the overall tonal harmony and restrained coloration, and the compositional unity all lend a remarkable cohesiveness to the work. " William Earl Dodge, Jr. (d.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/El_Rio_de_Luz_(The_River_of_Light)_Frederic_Edwin_Church.jpg/200px-El_Rio_de_Luz_(The_River_of_Light)_Frederic_Edwin_Church.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=50299&amp;detail=none</field>
+<field name="artist">http://dbpedia.org/resource/Frederic_Edwin_Church</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">138.1</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">El Rio de Luz</field>
+<field name="width">213.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/El_Rio_de_Luz</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/El_Rio_de_Luz</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/El_Rio_de_Luz</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/El_Rio_de_Luz</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5352030</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/El_Rio_de_Luz</field>
+</doc>
+</add>

@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/The_Black_Brunswicker</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Black_Brunswicker_(Millais)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Black_Brunswicker_(Millais)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/A_fekete_brunswicki</field>
+<field name="sameAs">http://de.dbpedia.org/resource/The_Black_Brunswicker</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Black_Brunswicker_(Millais)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05mygk4</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Чёрный_брауншвейгский_гусар</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Black_Brunswicker_(Millais)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q326887</field>
+<field name="sameAs">http://vep.dbpedia.org/resource/Must_braunšvaigalaine</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1860_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Lady_Lever_Art_Gallery</field>
+<field name="abstract">The Black Brunswicker (1860) is a painting by John Everett Millais. It was inspired in part by the exploits of the Black Brunswickers, a volunteer corps of the Napoleonic Wars, during the Waterloo campaign and in part by the contrasts of black broadcloth and pearl-white satin in a moment of tender conflict. The painting was originally exhibited with the plural title The Black Brunswickers, but is most commonly known by the singular form of the title.</field>
+<field name="label">The Black Brunswicker (Millais)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a6/John_Everett_Millais_The_Black_Brunswicker.jpg</field>
+<field name="comment">The Black Brunswicker (1860) is a painting by John Everett Millais. It was inspired in part by the exploits of the Black Brunswickers, a volunteer corps of the Napoleonic Wars, during the Waterloo campaign and in part by the contrasts of black broadcloth and pearl-white satin in a moment of tender conflict. The painting was originally exhibited with the plural title The Black Brunswickers, but is most commonly known by the singular form of the title.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/John_Everett_Millais_The_Black_Brunswicker.jpg/200px-John_Everett_Millais_The_Black_Brunswicker.jpg</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="city">http://dbpedia.org/resource/Merseyside</field>
+<field name="city">http://dbpedia.org/resource/Port_Sunlight</field>
+<field name="height">104</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Lady_Lever_Art_Gallery</field>
+<field name="title">The Black Brunswicker</field>
+<field name="width">68.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Black_Brunswicker_(Millais)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Black_Brunswicker_(Millais)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Black_Brunswicker</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Black_Brunswicker_(Millais)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Black_Brunswicker_(Millais)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Чёрный_брауншвейгский_гусар</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Black_Brunswicker_(Millais)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q326887</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Black_Brunswicker_(Millais)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/A_fekete_brunswicki</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Black_Brunswicker_(Millais)</field>
+</doc>
+<doc>
+<field name="uri">http://vep.dbpedia.org/resource/Must_braunšvaigalaine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Black_Brunswicker_(Millais)</field>
+</doc>
+</add>

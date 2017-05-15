@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Francesco_Gonzaga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Francesco_Gonzaga</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Francesco_Gonzaga</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Francesco_Gonzaga</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h52tf2</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937533</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="abstract">Portrait of Francesco Gonzaga (c. 1461) is a painting by the Italian Renaissance artist Andrea Mantegna. It is housed in the National Museum of Capodimonte, Naples, Italy. Francesco Gonzaga was the second son of Ludovico Gonzaga, Marquess of Mantua, who had been appointed as cardinal by Pope Pius II aged seventeen, just after the Council of Mantua. The painting is one of the first portraits executed by Mantegna at the Mantuan court, where he had moved in 1460.</field>
+<field name="label">Portrait of Francesco Gonzaga</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cd/Andrea_Mantegna_111.jpg</field>
+<field name="comment">Portrait of Francesco Gonzaga (c. 1461) is a painting by the Italian Renaissance artist Andrea Mantegna. It is housed in the National Museum of Capodimonte, Naples, Italy. Francesco Gonzaga was the second son of Ludovico Gonzaga, Marquess of Mantua, who had been appointed as cardinal by Pope Pius II aged seventeen, just after the Council of Mantua. The painting is one of the first portraits executed by Mantegna at the Mantuan court, where he had moved in 1460.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Andrea_Mantegna_111.jpg/200px-Andrea_Mantegna_111.jpg</field>
+<field name="link_external">http://museodicapodimonte.campaniabeniculturali.it/itinerari-tematici/galleria-di-immagini/OA900066</field>
+<field name="artist"/>
+<field name="height">25</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Francesco Gonzaga</field>
+<field name="type">Tempera on panel</field>
+<field name="width">18</field>
+<field name="year">c. 1461</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Francesco_Gonzaga</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Francesco_Gonzaga</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Francesco_Gonzaga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Francesco_Gonzaga</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Francesco_Gonzaga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Francesco_Gonzaga</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937533</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Francesco_Gonzaga</field>
+</doc>
+</add>

@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_in_White</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Girl_in_White</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5564475</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_in_White</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gjbnwx</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="abstract">Girl in White (also known as Young Girl Standing Against a Background of Wheat and Woman in a Cornfield) was painted by Vincent van Gogh in 1890 in Auvers-sur-Oise, France, during the last months of his life. Girl in White has been part of the Chester Dale Collection in the National Gallery of Art, Washington D.C. since 1963.</field>
+<field name="label">Girl in White</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/Van_Gogh_2.jpg</field>
+<field name="comment">Girl in White (also known as Young Girl Standing Against a Background of Wheat and Woman in a Cornfield) was painted by Vincent van Gogh in 1890 in Auvers-sur-Oise, France, during the last months of his life. Girl in White has been part of the Chester Dale Collection in the National Gallery of Art, Washington D.C. since 1963.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Van_Gogh_2.jpg/200px-Van_Gogh_2.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">66.7</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">Girl in White</field>
+<field name="type">Oil on canvas</field>
+<field name="width">45.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Girl_in_White</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Girl_in_White</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Girl_in_White</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Girl_in_White</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5564475</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_in_White</field>
+</doc>
+</add>

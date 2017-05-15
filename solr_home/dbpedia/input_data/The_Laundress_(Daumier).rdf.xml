@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_lavandera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Laundress_(Daumier)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Laundress_(Daumier)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5220825</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Laundress_(Daumier)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Laundress_(Daumier)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h_b84t</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_lavandera</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Realist_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1860s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_painters</field>
+<field name="abstract">The Laundress (La Blanchisseuse) (also known in En. as The Washerwoman) is an oil-on-panel painted by French artist Honoré Daumier in 1863. It is currently held and exhibited at the Musée d'Orsay in Paris.</field>
+<field name="label">The Laundress (Daumier)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ae/Honoré_Daumier_-_The_Washerwoman_-_WGA05957.jpg</field>
+<field name="comment">The Laundress (La Blanchisseuse) (also known in En. as The Washerwoman) is an oil-on-panel painted by French artist Honoré Daumier in 1863. It is currently held and exhibited at the Musée d'Orsay in Paris.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Honoré_Daumier_-_The_Washerwoman_-_WGA05957.jpg/200px-Honoré_Daumier_-_The_Washerwoman_-_WGA05957.jpg</field>
+<field name="link_external">http://www.daumier.org/</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/60027/rec/1</field>
+<field name="link_external">http://www.artble.com/artists/honore_daumier</field>
+<field name="link_external">http://musee-orsay.fr/en/collections/index-of-works/resultat-collection.html?no_cache=1&amp;S=0&amp;zsz=1&amp;zs_r_2_z=3&amp;zs_r_2_w=Daumier%2C%20Honore&amp;zs_ah=oeuvre&amp;zs_rf=mos_a&amp;zs_mf=20&amp;zs_sf=0&amp;zs_send_x=1&amp;zs_liste_only=1</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/d/daumier/index.html</field>
+<field name="link_external">http://www.musee-orsay.fr/en/collections/index-of-works/notice.html?no_cache=1&amp;nnumid=10052&amp;cHash=524ba61249</field>
+<field name="link_external">http://www.mutualart.com/Artist/Honor%c3%a9-Daumier/9B5C554FCC1A3B2D</field>
+<field name="artist">http://dbpedia.org/resource/Honor%C3%A9_Daumier</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">490</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">The Laundress</field>
+<field name="type">Oil on panel</field>
+<field name="width">335</field>
+<field name="year">c.1863</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Laundress_(Daumier)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Laundress_(Daumier)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Laundress_(Daumier)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Laundress_(Daumier)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5220825</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Laundress_(Daumier)</field>
+</doc>
+</add>

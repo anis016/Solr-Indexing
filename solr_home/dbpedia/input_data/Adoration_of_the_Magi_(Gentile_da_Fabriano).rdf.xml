@@ -1,0 +1,87 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_dei_Magi_(Gentile_da_Fabriano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_dei_Magi_(Gentile_da_Fabriano)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1055117</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pokłon_Trzech_Króli_(obraz_Gentile_da_Fabriano)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הערצת_המאגים</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Adoración_de_los_Reyes_Magos_(Gentile_da_Fabriano)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026dxp_</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1423_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gentile_da_Fabriano_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Adoration_of_the_Magi_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="abstract">The Adoration of the Magi is a painting by the Italian artist Gentile da Fabriano. The work, housed in the Uffizi Gallery in Florence, Italy, is considered his finest work, and has been described as "the culminating work of International Gothic painting". The painting was commissioned by the Florentine literate and patron of the arts Palla Strozzi, at the arrival of the artist in the city in 1420. Palla paid 30,000 florins for the altarpiece, or about six times the annual salary of a skilled laborer. Both Palla Strozzi and his father, Onofrio, appear in the painting- Palla as the man in the red hat in the forefront of the painting, and Onofrio as the falcon trainer situated behind the youngest king. Finished in 1423, the painting was placed in the new chapel of the church of Santa Trinita which Lorenzo Ghiberti was executing in these years. The works shows both the international and Sienese schools' influences on Gentile's art, combined with the Renaissance novelties he knew in Florence. The panel portrays the path of the three Magi, in several scenes which start from the upper left corner (the voyage and the entrance into Bethlehem) and continue clockwise, to the larger meeting with the Virgin Mary and the newborn Jesus which occupies the lowest part of the picture. All the figures wear splendid Renaissance costumes, brocades richly decorated with real gold and precious stones inserted in the panel. Gentile's typical attention for detail is also evident in the exotic animals, such as a leopard, a dromedary, some apes and a lion, as well as the magnificent horses and a hound. The frame is also a work of art, characterized by three cusps with tondoes portraying Christ Blessing (centre) and the Annunciation (with the Archangel Gabriel on the left and the Madonna on the right). The predella has three rectangular paintings with scenes of Jesus' childhood: the Nativity, the Flight into Egypt and the Presentation at the Temple (the latter a copy, the original being in the Louvre in Paris).</field>
+<field name="label">Adoration of the Magi (Gentile da Fabriano)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b2/Gentile_da_Fabriano_Adoration.jpg</field>
+<field name="comment">The Adoration of the Magi is a painting by the Italian artist Gentile da Fabriano. The work, housed in the Uffizi Gallery in Florence, Italy, is considered his finest work, and has been described as "the culminating work of International Gothic painting". The painting was commissioned by the Florentine literate and patron of the arts Palla Strozzi, at the arrival of the artist in the city in 1420.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Gentile_da_Fabriano_Adoration.jpg/200px-Gentile_da_Fabriano_Adoration.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">203</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="museum"/>
+<field name="title">Adoration of the Magi</field>
+<field name="type">Tempera on panel</field>
+<field name="width">282</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Adoración_de_los_Reyes_Magos_(Gentile_da_Fabriano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pokłon_Trzech_Króli_(obraz_Gentile_da_Fabriano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Strozzi_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Three_Kings_(Gentile_da_Fabriano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Three_Kings_(Gentile_da_Fabriano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הערצת_המאגים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1055117</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Gentile_da_Fabriano)</field>
+</doc>
+</add>

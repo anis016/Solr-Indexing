@@ -1,0 +1,82 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Powstanie_Drogi_Mlecznej</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Происхождение_Млечного_Пути_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Origine_della_Via_Lattea_(Tintoretto)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2274267</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Происхождение_Млечного_Пути_(картина)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03hgv9b</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_origen_de_la_Vía_Láctea_(Tintoretto)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Powstanie_Drogi_Mlecznej</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1570s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tintoretto</field>
+<field name="abstract">The Origin of the Milky Way is a painting by the Italian late Renaissance master Jacopo Tintoretto (1575-1580), in the National Gallery, London, formerly in the Orleans Collection. According to myth, the infant Heracles was brought to Hera by his half-sister Athena, who later played an important role as a goddess of protection. Hera nursed Heracles out of pity, but he suckled so strongly that he caused Hera pain, and she pushed him away. Her milk sprayed across the heavens and there formed the Milky Way. With divine milk, Heracles acquired supernatural powers.</field>
+<field name="label">The Origin of the Milky Way (Tintoretto)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/28/Jacopo_Tintoretto_011.jpg</field>
+<field name="comment">The Origin of the Milky Way is a painting by the Italian late Renaissance master Jacopo Tintoretto (1575-1580), in the National Gallery, London, formerly in the Orleans Collection. According to myth, the infant Heracles was brought to Hera by his half-sister Athena, who later played an important role as a goddess of protection. Hera nursed Heracles out of pity, but he suckled so strongly that he caused Hera pain, and she pushed him away.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Jacopo_Tintoretto_011.jpg/200px-Jacopo_Tintoretto_011.jpg</field>
+<field name="link_external">http://www.googleartproject.com/museums/nationalgallery/the-origin-of-the-milky-way-194</field>
+<field name="link_external">http://www.nationalgallery.org.uk/rich-media/audio/ng1313-the-origin-of-the-milky-way-jacopo-tintoretto-episode-28-segment-2/*/showTranscript/1</field>
+<field name="link_external">http://smarthistory.khanacademy.org/tintoretto-the-origin-of-the-milky-way.html</field>
+<field name="artist">http://dbpedia.org/resource/Tintoretto</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">148</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Origin of the Milky Way</field>
+<field name="width">165</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Origin_of_the_Milky_Way_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_origen_de_la_Vía_Láctea_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Origine_della_Via_Lattea_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Origin_of_the_Milky_Way</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2274267</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Origin_of_the_Milky_Way_(Tintoretto)</field>
+</doc>
+</add>

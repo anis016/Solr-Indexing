@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Girl_in_the_Street,_Two_Coaches_in_the_Background</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Girl_in_the_Street,_Two_Coaches_in_the_Background</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4657041</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Girl_in_the_Street,_Two_Coaches_in_the_Background</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bs8sk_</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">A Girl in the Street, Two Coaches in the Background is an oil painting created in 1882 by Vincent van Gogh is part of a private collection.</field>
+<field name="label">A Girl in the Street, Two Coaches in the Background</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e3/Girl_in_the_Street,_Two_Coaches_in_the_Background,_A.jpg</field>
+<field name="comment">A Girl in the Street, Two Coaches in the Background is an oil painting created in 1882 by Vincent van Gogh is part of a private collection.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Girl_in_the_Street,_Two_Coaches_in_the_Background,_A.jpg/200px-Girl_in_the_Street,_Two_Coaches_in_the_Background,_A.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Girl_in_the_Street,_Two_Coaches_in_the_Background</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Girl_in_the_Street,_Two_Coaches_in_the_Background</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_in_the_Street,_Two_Coaches_in_the_Background,_A</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Girl_in_the_Street,_Two_Coaches_in_the_Background</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Girl_in_the_Street,_Two_Coaches_in_the_Background</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4657041</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Girl_in_the_Street,_Two_Coaches_in_the_Background</field>
+</doc>
+</add>

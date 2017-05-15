@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_battaglia_di_Trafalgar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Trafalgar_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Bitwa_pod_Trafalgarem_(obraz_Williama_Turnera)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Trafalgar_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Bataille_de_Trafalgar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Trafalgar_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Battle_of_Trafalgar_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1772871</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Trafalgar_(painting)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Bataille_de_Trafalgar</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Battle_of_Trafalgar_(painting)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_battaglia_di_Trafalgar</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Bitwa_pod_Trafalgarem_(obraz_Williama_Turnera)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06vmg0</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_J._M._W._Turner</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Maritime_Museum,_Greenwich</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1824_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horatio_Nelson</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Donations_from_the_Royal_Collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="abstract">The Battle of Trafalgar is an oil-on-canvas painting, created by J.M.W. Turner in 1824. The painting was ordered by King George IV for the Painted Hall at Greenwich, as a pendant for Louthebourg's Lord Howe's action, or the Glorious First of June. It shows the Royal Navy ship HMS Victory at the Battle of Trafalgar. It was controversial at the time, since it was not considered to be historically accurate. Turner chose to combine events from several times during the battle: Lord Nelson's famous signal flies from the Victory . Turner shows the signal flags flying from the main-mast, though in reality they would have been flown from the mizzen-mast and were replaced with the signal for "engage the enemy more closely" once the battle commenced. The mizzen-topmast falls . The Achille is on fire in the background (late afternoon). The Redoutable sinks in the foreground (following day).</field>
+<field name="label">The Battle of Trafalgar (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/29/Turner,_The_Battle_of_Trafalgar_(1822).jpg</field>
+<field name="comment">The Battle of Trafalgar is an oil-on-canvas painting, created by J.M.W. Turner in 1824. The painting was ordered by King George IV for the Painted Hall at Greenwich, as a pendant for Louthebourg's Lord Howe's action, or the Glorious First of June. It shows the Royal Navy ship HMS Victory at the Battle of Trafalgar. It was controversial at the time, since it was not considered to be historically accurate.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Turner,_The_Battle_of_Trafalgar_(1822).jpg/200px-Turner,_The_Battle_of_Trafalgar_(1822).jpg</field>
+<field name="link_external">http://www.nmm.ac.uk/mag/pages/mnuExplore/PaintingDetail.cfm?ID=BHC0565</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Battle_of_Trafalgar_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Battle_of_Trafalgar_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Battle_of_Trafalgar_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Battle_of_Trafalgar_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1772871</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Trafalgar_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_della_Vittoria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Vittoria</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Matka_Boska_Zwycięska</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Vittoria</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_della_Vittoria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_de_la_Victoire</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Vittoria</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q965822</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_della_Vittoria</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Matka_Boska_Zwycięska</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtthz2</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_della_Vittoria</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1496_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="abstract">The Madonna della Vittoria is a painting by the Italian Renaissance painter Andrea Mantegna; the painting was executed in 1496.</field>
+<field name="label">Madonna della Vittoria</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/87/Mantegna,_madonna_della_vittoria.jpg</field>
+<field name="comment">The Madonna della Vittoria is a painting by the Italian Renaissance painter Andrea Mantegna; the painting was executed in 1496.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Mantegna,_madonna_della_vittoria.jpg/200px-Mantegna,_madonna_della_vittoria.jpg</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&amp;idNotice=13654</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">280</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna della Vittoria</field>
+<field name="type">Tempera on canvas</field>
+<field name="width">166</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_della_Vittoria</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_della_Vittoria</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_de_la_Victoire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Vittoria</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_della_Vittoria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_della_Vittoria</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q965822</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Vittoria</field>
+</doc>
+</add>

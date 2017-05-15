@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Love_Potion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4271772</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02prvdf</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Potion</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Любовное_зелье</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Love_Potion</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1903_paintings</field>
+<field name="abstract">The Love Potion is a 1903 painting by Evelyn de Morgan depicting a witch with a black cat familiar at her feet. According to Elise Lawton Smith, the painting "exhibits a Pre-Raphaelite fascination with medieval subjects and decorative detailing."</field>
+<field name="label">The Love Potion</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5c/The_Love_Potion.jpg</field>
+<field name="comment">The Love Potion is a 1903 painting by Evelyn de Morgan depicting a witch with a black cat familiar at her feet. According to Elise Lawton Smith, the painting "exhibits a Pre-Raphaelite fascination with medieval subjects and decorative detailing."</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/The_Love_Potion.jpg/200px-The_Love_Potion.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Evelyn_De_Morgan</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">104.1</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/De_Morgan_Centre</field>
+<field name="title">The Love Potion</field>
+<field name="width">52.1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Love_Potion</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Love_Potion</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Love_Potion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Love_Potion</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Любовное_зелье</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Potion</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Love_potion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4271772</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Potion</field>
+</doc>
+</add>

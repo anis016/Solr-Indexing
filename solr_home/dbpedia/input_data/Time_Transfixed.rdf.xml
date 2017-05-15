@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Time_Transfixed</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Time_Transfixed</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02pj7gv</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7805163</field>
+<field name="sameAs">http://dbpedia.org/resource/Time_Transfixed</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1938_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="abstract">Time Transfixed (La Durée poignardée, 1938) is an oil on canvas painting by the Belgian surrealist René Magritte. It is part of the permanent collection of the Art Institute of Chicago and is usually on display in the museum's new Modern Wing. The painting was one of many done for surrealist patron and Magritte supporter Edward James. This was the second painting delivered to James for his London ballroom. The first was the portrait of James, Not to be Reproduced. Time Transfixed was purchased by the Art Institute from James in 1970 when he was raising capital to build his surrealist sculpture garden Las Pozas. The painting depicts a "Black Five" locomotive jutting out of a fireplace, at full steam, in an empty room. Above the mantlepiece is a tall mirror. Only the clock and one candlestick standing on the mantlepiece are reflected in the mirror, suggesting that there are neither people nor furniture in the room.</field>
+<field name="label">Time Transfixed</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b0/Time_transfixed.jpg</field>
+<field name="comment">Time Transfixed (La Durée poignardée, 1938) is an oil on canvas painting by the Belgian surrealist René Magritte. It is part of the permanent collection of the Art Institute of Chicago and is usually on display in the museum's new Modern Wing. The painting was one of many done for surrealist patron and Magritte supporter Edward James. This was the second painting delivered to James for his London ballroom. The first was the portrait of James, Not to be Reproduced.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Time_transfixed.jpg/200px-Time_transfixed.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="city">http://dbpedia.org/resource/Chicago</field>
+<field name="height">147</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Art_Institute_of_Chicago</field>
+<field name="title">La Durée poignardée</field>
+<field name="width">98.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Time_Transfixed</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Time_Transfixed</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Dur%C3%A9e_poignard%C3%A9e</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Time_Transfixed</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Time_Transfixed</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7805163</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Time_Transfixed</field>
+</doc>
+</add>

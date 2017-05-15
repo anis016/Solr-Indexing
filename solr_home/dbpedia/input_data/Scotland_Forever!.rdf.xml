@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Scotland_Forever!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scotland_Forever!</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09rtl1l</field>
+<field name="sameAs">http://sco.dbpedia.org/resource/Scotland_Forever!</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Scotland_Forever!</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7435638</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Elizabeth_Thompson</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1881_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Scottish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Military_of_Scotland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Battle_of_Waterloo</field>
+<field name="abstract">Scotland Forever! is an 1881 painting by Lady Butler depicting the start of the cavalry charge of the Royal Scots Greys who charged alongside the British heavy cavalry at the Battle of Waterloo in 1815 during the Napoleonic wars. In actuality, it appears that Scots Greys never started the charge at a gallop, due to the broken ground, and instead advanced at a quick walk. The horses which dominate the picture are the heavy grey mounts used by the regiment throughout its history until mechanization. Two hundred men and 224 horses of the Greys were killed or wounded during the charge portrayed. The painting is now housed at the Leeds Art Gallery, having been one of its earliest acquisitions, a gift from Colonel Thomas Walter Harding (1843–1927) http://www. leeds. gov. uk/artgallery/Leeds_Art_Gallery/Watercolours_Drawings_and_Prints. aspx. It was also an inspiration for the depiction of the same charge in the film Waterloo.</field>
+<field name="label">Scotland Forever!</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e3/Scotland_Forever!.jpg</field>
+<field name="comment">Scotland Forever! is an 1881 painting by Lady Butler depicting the start of the cavalry charge of the Royal Scots Greys who charged alongside the British heavy cavalry at the Battle of Waterloo in 1815 during the Napoleonic wars. In actuality, it appears that Scots Greys never started the charge at a gallop, due to the broken ground, and instead advanced at a quick walk.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Scotland_Forever!.jpg/200px-Scotland_Forever!.jpg</field>
+<field name="link_external">http://www.leeds.gov.uk/artgallery/Leeds_Art_Gallery/Watercolours_Drawings_and_Prints.aspx</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Scotland_Forever!</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Scotland_Forever!</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Scotland_Forever!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Scotland_Forever!</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Scotland_Forever</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7435638</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scotland_Forever!</field>
+</doc>
+<doc>
+<field name="uri">http://sco.dbpedia.org/resource/Scotland_Forever!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scotland_Forever!</field>
+</doc>
+</add>

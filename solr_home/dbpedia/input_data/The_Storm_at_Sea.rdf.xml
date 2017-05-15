@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Storm_at_Sea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7766701</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Storm_at_Sea</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j25b5x</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Sztorm_na_morzu</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Storm_at_Sea</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Kunsthistorisches_Museum</field>
+<field name="abstract">Storm at Sea is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder, painted in c. 1569. It is currently held and exhibited at the Kunsthistorisches Museum in Vienna.</field>
+<field name="label">The Storm at Sea</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/dd/Joos_de_Momper_the_Younger_-_Storm_at_Sea_-_WGA3342.jpg</field>
+<field name="comment">Storm at Sea is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder, painted in c. 1569. It is currently held and exhibited at the Kunsthistorisches Museum in Vienna.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Joos_de_Momper_the_Younger_-_Storm_at_Sea_-_WGA3342.jpg/200px-Joos_de_Momper_the_Younger_-_Storm_at_Sea_-_WGA3342.jpg</field>
+<field name="link_external">http://www.boschbruegel.com</field>
+<field name="link_external">http://www.khm.at/en/</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=1239</field>
+<field name="link_external">http://www.pieter-bruegel-the-elder.org</field>
+<field name="link_external">http://www.pieter-bruegel.com</field>
+<field name="link_external">http://www.art-drawing.ru/biographies/brief-biographies/199-bruegel-peter</field>
+<field name="artist">http://dbpedia.org/resource/Pieter_Bruegel_the_Elder</field>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="height">70.3</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Storm at Sea</field>
+<field name="type">Oil on panel</field>
+<field name="width">97</field>
+<field name="year">c. 1569</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Storm_at_Sea</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Storm_at_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Storm_at_Sea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Storm_at_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Sztorm_na_morzu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Storm_at_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7766701</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Storm_at_Sea</field>
+</doc>
+</add>

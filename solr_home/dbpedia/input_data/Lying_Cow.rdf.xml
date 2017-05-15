@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lying_Cow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«Liggende_koe»</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lying_Cow</field>
+<field name="sameAs">http://dbpedia.org/resource/Lying_Cow</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6707826</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmg5p_</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cattle_in_art</field>
+<field name="abstract">Lying Cow is the name of two oil paintings created by Vincent van Gogh around 1882 when he was living at The Hague. In the 1970 catalogue raisonné, based on Jacob Baart de la Faille's researches, the paintings were dated 1882. Jan Hulsker, however, feels they must be associated with his 1883 painting Cows in the Meadow, a painting known only by a very poor photograph, and accordingly dates them as August 1883, thus executed shortly before van Gogh broke with his mistress Sien Hoornik and left for Drenthe.</field>
+<field name="label">Lying Cow</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ed/Lying_Cow1.jpg</field>
+<field name="comment">Lying Cow is the name of two oil paintings created by Vincent van Gogh around 1882 when he was living at The Hague. In the 1970 catalogue raisonné, based on Jacob Baart de la Faille's researches, the paintings were dated 1882.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Lying_Cow1.jpg/200px-Lying_Cow1.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">Lying Cow</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lying_Cow</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lying_Cow</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lying_Cow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lying_Cow</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6707826</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lying_Cow</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«Liggende_koe»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lying_Cow</field>
+</doc>
+</add>

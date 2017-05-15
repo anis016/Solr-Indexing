@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ferdinand_Lured_by_Ariel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ferdinand_Lured_by_Ariel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ferdinand_Lured_by_Ariel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Ariel_Ferdinándot_csábítja</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06w5drb</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q777080</field>
+<field name="sameAs">http://dbpedia.org/resource/Ferdinand_Lured_by_Ariel</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ferdinand_Lured_by_Ariel</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Фердинанд,_соблазняемый_Ариэлем</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_based_on_The_Tempest</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1850_paintings</field>
+<field name="abstract">Ferdinand Lured by Ariel is a painting by John Everett Millais which depicts an episode from Act I, Scene II of Shakespeare's play The Tempest. It illustrates Ferdinand's lines "Where should this music be? i' the air or the earth?". He is listening to Ariel singing the lyric "Full fathom five thy father lies". Ariel is tipping Ferdinand's hat from his head, while Ferdinand holds on to its string and strains to hear the song. Ferdinand looks straight at Ariel, but the latter is invisible to him. The painting was Millais' first attempt at the plein air Pre-Raphaelite style, which he did at Shotover Park near Oxford. He wrote to his close friend and Pre-Raphaelite colleague Holman Hunt that he had painted a "ridiculously elaborate" landscape. Referring to Hunt's belief in devotion to detail he wrote that "you will find it very minute, yet not near enough for nature. To paint it as it ought to be would take me a month a weed — as it is, I have done every blade of grass and leaf distinct. " He painted the face of Ferdinand from another Pre-Raphaelite, Frederic George Stephens. The clothing and the pose are derived from plate 6 of Camille Bonnard's Costumes Historiques, which represents the costume of a "young Italian" of the fifteenth century. The supernatural green bats were the last additions to the composition. Their grotesque poses put off the patron who had originally undertaken to buy it, since they were a radical departure from the standard sylph-like fairy figures of the day. They adopt the poses of "see, hear, speak no evil. " The invisibility of Ariel and the bats is suggested by their semi-merger with the green background. The connection with natural camouflage is implied by the presence of the green lizards hiding in front of the clump in the right foreground. The painting was bought by the collector Richard Ellison, and later entered the collection of Roger Makins, 1st Baron Sherfield who acquired several Millais paintings.</field>
+<field name="label">Ferdinand Lured by Ariel</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/51/Millais_ferdy.jpg</field>
+<field name="comment">Ferdinand Lured by Ariel is a painting by John Everett Millais which depicts an episode from Act I, Scene II of Shakespeare's play The Tempest. It illustrates Ferdinand's lines "Where should this music be? i' the air or the earth?". He is listening to Ariel singing the lyric "Full fathom five thy father lies". Ariel is tipping Ferdinand's hat from his head, while Ferdinand holds on to its string and strains to hear the song. Ferdinand looks straight at Ariel, but the latter is invisible to him.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Millais_ferdy.jpg/200px-Millais_ferdy.jpg</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Private_Collection</field>
+<field name="title">Ferdinand Lured by Ariel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ferdinand_Lured_by_Ariel</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ferdinand_Lured_by_Ariel</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Фердинанд,_соблазняемый_Ариэлем</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ferdinand_Lured_by_Ariel</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q777080</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ferdinand_Lured_by_Ariel</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Ariel_Ferdinándot_csábítja</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ferdinand_Lured_by_Ariel</field>
+</doc>
+</add>

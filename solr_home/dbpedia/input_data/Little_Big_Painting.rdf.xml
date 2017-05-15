@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Little_Big_Painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6649095</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0479gkd</field>
+<field name="sameAs">http://dbpedia.org/resource/Little_Big_Painting</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Little_Big_Painting</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Whitney_Museum_of_American_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1965_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pop_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Roy_Lichtenstein</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Little Big Painting is a 1965 oil and Magna on canvas pop art painting by Roy Lichtenstein. It is part of the Brushstrokes series of artworks that includes several paintings and sculptures. It is located at the Whitney Museum of American Art in New York City. As with all of his Brushstrokes works, it is in part a satirical response to the gestural painting of Abstract Expressionism.</field>
+<field name="label">Little Big Painting</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/19/Little_Big_Painting.jpg</field>
+<field name="comment">Little Big Painting is a 1965 oil and Magna on canvas pop art painting by Roy Lichtenstein. It is part of the Brushstrokes series of artworks that includes several paintings and sculptures. It is located at the Whitney Museum of American Art in New York City. As with all of his Brushstrokes works, it is in part a satirical response to the gestural painting of Abstract Expressionism.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Little_Big_Painting.jpg/200px-Little_Big_Painting.jpg</field>
+<field name="link_external">http://whitney.org/Collection/RoyLichtenstein/662</field>
+<field name="link_external">http://whitney.org/Collection/RoyLichtenstein/662/Audio</field>
+<field name="link_external">http://image-duplicator.com/main.php?work_id=0390&amp;year=1965&amp;decade=60</field>
+<field name="link_external">http://www.lichtensteinfoundation.org/0390.htm</field>
+<field name="artist">http://dbpedia.org/resource/Roy_Lichtenstein</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Whitney_Museum_of_American_Art</field>
+<field name="title">Little Big Painting</field>
+<field name="type">Oil and Magna on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Little_Big_Painting</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Little_Big_Painting</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Little_Big</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Little_Big_Painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Little_Big_Painting</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6649095</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Little_Big_Painting</field>
+</doc>
+</add>

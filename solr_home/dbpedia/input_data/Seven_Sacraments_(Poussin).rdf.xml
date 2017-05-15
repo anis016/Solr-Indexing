@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Seven_Sacraments_(Poussin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Seven_Sacraments_(Poussin)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Seven_Sacraments_(Poussin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sacraments_(Poussin)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7457394</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Seven_Sacraments_(Poussin)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqpld4</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Galleries_of_Scotland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1640_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1645_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Nicolas_Poussin</field>
+<field name="abstract">The Seven Sacraments refers to two series of paintings of the seven sacraments by the French painter Nicholas Poussin.</field>
+<field name="label">Seven Sacraments (Poussin)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/75/'Ordination'_by_Nicolas_Poussin,_1630s.jpg</field>
+<field name="comment">The Seven Sacraments refers to two series of paintings of the seven sacraments by the French painter Nicholas Poussin.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/'Ordination'_by_Nicolas_Poussin,_1630s.jpg/200px-'Ordination'_by_Nicolas_Poussin,_1630s.jpg</field>
+<field name="link_external">http://www.wga.hu/art/p/poussin/3a/2sacram2.jpg</field>
+<field name="link_external">http://www.wga.hu/art/p/poussin/3a/2sacram3.jpg</field>
+<field name="link_external">http://www.wga.hu/art/p/poussin/3a/2sacram4.jpg</field>
+<field name="link_external">http://www.wga.hu/art/p/poussin/3a/2sacram1.jpg</field>
+<field name="link_external">http://www.wga.hu/art/p/poussin/3a/1sacram1.jpg</field>
+<field name="link_external">http://www.wga.hu/art/p/poussin/3a/1sacram2.jpg</field>
+<field name="link_external">http://www.wga.hu/art/p/poussin/3a/1sacram3.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Seven_Sacraments_(Poussin)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Seven_Sacraments_(Poussin)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7457394</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sacraments_(Poussin)</field>
+</doc>
+</add>

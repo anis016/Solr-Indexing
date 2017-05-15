@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_Bartolini_Salimbeni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bartolini_Salimbeni_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bartolini_Salimbeni_Annunciation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx26my</field>
+<field name="sameAs">http://dbpedia.org/resource/Bartolini_Salimbeni_Annunciation</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q729197</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bartolini_Salimbeni_Annunciation</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_Bartolini_Salimbeni</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lorenzo_Monaco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1420s_paintings</field>
+<field name="abstract">The Bartolini Salimbeni Annunciation is a painting by the Italian Gothic painter Lorenzo Monaco, executed just before his death (1420–1424) and housed in the Bartolini Salimbeni Chapel of the church of Santa Trinita, Florence, Italy.</field>
+<field name="label">Bartolini Salimbeni Annunciation</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/44/Cappella_bartolini_salimbeni,_annunciazione_di_lorenzo_monaco_01.JPG</field>
+<field name="comment">The Bartolini Salimbeni Annunciation is a painting by the Italian Gothic painter Lorenzo Monaco, executed just before his death (1420–1424) and housed in the Bartolini Salimbeni Chapel of the church of Santa Trinita, Florence, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Cappella_bartolini_salimbeni,_annunciazione_di_lorenzo_monaco_01.JPG/200px-Cappella_bartolini_salimbeni,_annunciazione_di_lorenzo_monaco_01.JPG</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">410</field>
+<field name="museum"/>
+<field name="title">Bartolini Salimbeni Annunciation</field>
+<field name="type">Tempera on panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bartolini_Salimbeni_Annunciation</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bartolini_Salimbeni_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Lorenzo_Monaco)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bertolini_Salimbeni_Annunciation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bartolini_Salimbeni_Annunciation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bartolini_Salimbeni_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q729197</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bartolini_Salimbeni_Annunciation</field>
+</doc>
+</add>

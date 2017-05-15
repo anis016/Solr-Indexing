@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cappella_Baroncelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Baroncelli_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Baroncelli_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3657323</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvs4pr</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Baroncelli_Chapel</field>
+<field name="sameAs">http://dbpedia.org/resource/Baroncelli_Chapel</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cappella_Baroncelli</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giotto</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Chapels_in_Florence</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1320s_paintings</field>
+<field name="abstract">The Baroncelli Chapel is a chapel located at the transept's end of the church of Santa Croce, Florence, central Italy. It has frescoes by Taddeo Gaddi executed between 1328 and 1338.</field>
+<field name="label">Baroncelli Chapel</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e9/Cappella_baroncelli_001.JPG</field>
+<field name="comment">The Baroncelli Chapel is a chapel located at the transept's end of the church of Santa Croce, Florence, central Italy. It has frescoes by Taddeo Gaddi executed between 1328 and 1338.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Cappella_baroncelli_001.JPG/200px-Cappella_baroncelli_001.JPG</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Baroncelli_Chapel</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Baroncelli_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Baroncelli_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cappella_Baroncelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Baroncelli_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Baroncelli_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3657323</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Baroncelli_Chapel</field>
+</doc>
+</add>

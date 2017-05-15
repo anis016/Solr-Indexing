@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Battle_of_Lepanto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Battle_of_Lepanto_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Battle_of_Lepanto_(Luna_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q10985764</field>
+<field name="sameAs">http://sq.dbpedia.org/resource/Beteja_e_Lepantit</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Battle_of_Lepanto_(Luna_painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmbzbp</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Lepanto_(Luna_painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Juan_Luna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="abstract">The Battle of Lepanto is a famous painting by award-winning Filipino master painter and hero Juan Luna. Luna is one of the first Filipinos to excel and earn recognition in the international field of arts and culture (the other was Félix Resurrección Hidalgo). Painted by Luna in 1887, the masterpiece is about the Battle of Lepanto of October 7, 1571. The painting features Don Juan of Austria (also known as Don John of Austria) in battle while at the bow of a ship. It is one of the “huge epic canvasses” painted by Luna. The painting is also known as The Battle of Lepanto of 1571.</field>
+<field name="label">The Battle of Lepanto (Luna painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fd/The_Battle_of_Lepanto_of_1571_full_version_by_Juan_Luna.jpg</field>
+<field name="comment">The Battle of Lepanto is a famous painting by award-winning Filipino master painter and hero Juan Luna. Luna is one of the first Filipinos to excel and earn recognition in the international field of arts and culture (the other was Félix Resurrección Hidalgo). Painted by Luna in 1887, the masterpiece is about the Battle of Lepanto of October 7, 1571. The painting features Don Juan of Austria (also known as Don John of Austria) in battle while at the bow of a ship.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/The_Battle_of_Lepanto_of_1571_full_version_by_Juan_Luna.jpg/200px-The_Battle_of_Lepanto_of_1571_full_version_by_Juan_Luna.jpg</field>
+<field name="artist"/>
+<field name="museum"/>
+<field name="title">The Battle of Lepanto</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Battle_of_Lepanto_(Luna_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Battle_of_Lepanto_(Luna_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Batalla_de_Lepanto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Battle_of_Lepanto_of_1571</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Batalla_de_Lepanto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Battle_of_Lepanto_of_1571</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Battle_of_Lepanto_(Luna_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Battle_of_Lepanto_(Luna_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q10985764</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Lepanto_(Luna_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://sq.dbpedia.org/resource/Beteja_e_Lepantit</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Lepanto_(Luna_painting)</field>
+</doc>
+</add>

@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jews_Praying_in_the_Synagogue_on_Yom_Kippur</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06405sk</field>
+<field name="sameAs">http://dbpedia.org/resource/Jews_Praying_in_the_Synagogue_on_Yom_Kippur</field>
+<field name="sameAs">http://he.dbpedia.org/resource/יהודים_מתפללים_בבית_הכנסת_ביום_הכיפורים</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Jews_Praying_in_the_Synagogue_on_Yom_Kippur</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Neoclassical_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Jewish_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1878_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maurycy_Gottlieb_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Tel_Aviv_Museum_of_Art</field>
+<field name="abstract">Jews Praying in the Synagogue on Yom Kippur or Jews pray, is a painting by Maurycy Gottlieb of 1878, depicting Ashkenazi Jews praying in the synagogue on Yom Kippur, the Jewish day of atonement. Traditional elements shown include tallitot, kippot, the Torah, and the segregation of men and women in the synagogue. The artist has painted himself (to the right of the seated rabbi, looking outwards) among the people of his hometown of Drohobych. From reproductions published as prints and in the press in Poland and Germany it become a well-known example of Jewish art.</field>
+<field name="label">Jews Praying in the Synagogue on Yom Kippur</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/51/Gottlieb-Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg</field>
+<field name="comment">Jews Praying in the Synagogue on Yom Kippur or Jews pray, is a painting by Maurycy Gottlieb of 1878, depicting Ashkenazi Jews praying in the synagogue on Yom Kippur, the Jewish day of atonement. Traditional elements shown include tallitot, kippot, the Torah, and the segregation of men and women in the synagogue. The artist has painted himself (to the right of the seated rabbi, looking outwards) among the people of his hometown of Drohobych.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Gottlieb-Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg/200px-Gottlieb-Jews_Praying_in_the_Synagogue_on_Yom_Kippur.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Maurycy_Gottlieb</field>
+<field name="city">http://dbpedia.org/resource/Tel_Aviv</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tel_Aviv_Museum_of_Art</field>
+<field name="title">Jews Praying in the Synagogue on Yom Kippur</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Jews_Praying_in_the_Synagogue_on_Yom_Kippur</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jews_Praying_in_the_Synagogue_on_Yom_Kippur</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jews_pray</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Jews_Praying_in_the_Synagogue_on_Yom_Kippur</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Jews_Praying_in_the_Synagogue_on_Yom_Kippur</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q13577130</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jews_Praying_in_the_Synagogue_on_Yom_Kippur</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/יהודים_מתפללים_בבית_הכנסת_ביום_הכיפורים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jews_Praying_in_the_Synagogue_on_Yom_Kippur</field>
+</doc>
+</add>

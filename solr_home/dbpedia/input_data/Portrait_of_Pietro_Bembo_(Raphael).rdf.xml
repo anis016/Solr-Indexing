@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Pietro_Bembo_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pietro_Bembo_(Raphael)</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Портрет_на_Пиетро_Бембо</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2444277</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_giovane_(Raffaello)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Pietro_Bembo_(Raphael)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_jeune_homme_(Raphaël,_Budapest)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08xtz0</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_młodzieńca_(obraz_Rafaela)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1506_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_of_Fine_Arts_(Budapest)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="abstract">Portrait of Pietro Bembo, also called Portrait of the Young Pietro Bembo, is an oil painting by Italian artist Raphael. Completed ca. 1506, the painting hangs in the Museum of Fine Arts in Budapest. The image is ostensibly a portrait of Venetian Cardinal Pietro Bembo, Raphael's long-time friend. Raphael did make a black chalk drawing of Bembo during Bembo's visit to Urbino in 1506. The picture hung in Bembo's home for years before it disappeared. The lack of resemblance of this picture to its namesake, particularly in the nose, has led to other subjects being proposed, including Agnolo Doni, whom Raphael painted around the same time. In a 2004 biography of Bembo, Carol Kidwell states that the subject "appears a happy courtier, not a man set on making his mark in the world, and he wears a red beret while Venetian noblemen wore black."</field>
+<field name="label">Portrait of Pietro Bembo (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d5/Raffaello_Sanzio_-_Pietro_Bembo.jpg</field>
+<field name="comment">Portrait of Pietro Bembo, also called Portrait of the Young Pietro Bembo, is an oil painting by Italian artist Raphael. Completed ca. 1506, the painting hangs in the Museum of Fine Arts in Budapest. The image is ostensibly a portrait of Venetian Cardinal Pietro Bembo, Raphael's long-time friend. Raphael did make a black chalk drawing of Bembo during Bembo's visit to Urbino in 1506. The picture hung in Bembo's home for years before it disappeared.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Raffaello_Sanzio_-_Pietro_Bembo.jpg/200px-Raffaello_Sanzio_-_Pietro_Bembo.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Budapest</field>
+<field name="height">54</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts_(Budapest)</field>
+<field name="title">Portrait of Pietro Bembo</field>
+<field name="width">69</field>
+<field name="year">c. 1506</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Pietro_Bembo_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Pietro_Bembo_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_młodzieńca_(obraz_Rafaela)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pietro_Bembo_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Pietro_Bembo_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Pietro_Bembo_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_giovane_(Raffaello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pietro_Bembo_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_jeune_homme_(Raphaël,_Budapest)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pietro_Bembo_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2444277</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pietro_Bembo_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Портрет_на_Пиетро_Бембо</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pietro_Bembo_(Raphael)</field>
+</doc>
+</add>

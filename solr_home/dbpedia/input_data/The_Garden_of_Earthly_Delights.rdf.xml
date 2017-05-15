@@ -1,0 +1,275 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Zahrada_pozemských_rozkoší</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_jardín_de_las_delicias</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Сад_земных_наслаждений_(триптих_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Hieronymus_Boschs_Triptychen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_del_Giardino_delle_delizie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/人間樂園</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/حديقة_المباهج_الأرضية</field>
+<field name="sameAs">http://he.dbpedia.org/resource/גן_התענוגות_הארציים</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Zahrada_pozemských_rozkoší</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Градината_на_земните_удоволствия</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/O_xardín_das_delicias</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Tuin_der_lusten</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q321303</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_del_Giardino_delle_delizie</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Vrt_naslade</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/快楽の園</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Lysternes_have</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Hieronymus_Boschs_Triptychen</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ogród_ziemskich_rozkoszy</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Garden_of_Earthly_Delights</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Lystenes_hage</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05fpzk</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Сад_земных_наслаждений_(триптих_Босха)</field>
+<field name="sameAs">http://cy.dbpedia.org/resource/Gardd_y_Pleserau_Daearol</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Gyönyörök_kertje</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/باغ_لذت_دنیوی</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Dünyevi_Zevkler_Bahçesi</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Jardin_des_délices</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_jardín_de_las_delicias</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/O_Jardim_das_Delícias_Terrenas</field>
+<field name="sameAs">http://lv.dbpedia.org/resource/Pasaulīgo_baudu_dārzs</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/La_ĝardeno_de_la_delicoj</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Dünyəvi_zövqlər_bağı</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Atseginen_baratzea</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/ტკბობის_ბაღი</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_jardí_de_les_delícies</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Liorzh_ar_plijadurezhioù</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1504_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Garden_of_Eden</field>
+<field name="abstract">The Garden of Earthly Delights is the modern title given to a triptych painted by the Early Netherlandish master Hieronymus Bosch. It has been housed in the Museo del Prado in Madrid since 1939. Dating from between 1490 and 1510, when Bosch was between about 40 and 60 years old, it is his best-known and most ambitious complete work. It reveals the artist at the height of his powers; in no other painting does he achieve such complexity of meaning or such vivid imagery. The triptych is painted in oil on oak and is formed from a square middle panel flanked by two other oak rectangular wings that close over the center as shutters. The outer wings, when folded, show a grisaille painting of the earth during the biblical narrative of Creation. The three scenes of the inner triptych are probably (but not necessarily) intended to be read chronologically from left to right. The left panel depicts God presenting Eve to Adam, the central panel is a broad panorama of socially engaged nude figures, fantastical animals, oversized fruit and hybrid stone formations. The right panel is a hellscape and portrays the torments of damnation. Art historians and critics frequently interpret the painting as a didactic warning on the perils of life's temptations. However, the intricacy of its symbolism, particularly that of the central panel, has led to a wide range of scholarly interpretations over the centuries. Twentieth-century art historians are divided as to whether the triptych's central panel is a moral warning or a panorama of paradise lost. American writer Peter S. Beagle describes it as an "erotic derangement that turns us all into voyeurs, a place filled with the intoxicating air of perfect liberty". During his lifetime, Bosch painted three large triptychs that can be read from left to right and in which each panel was essential to the meaning of the whole. Each of these three works presents distinct yet linked themes addressing history and faith. Triptychs from this period were generally intended to be read sequentially, the left and right panels often portraying Eden and the Last Judgment respectively, while the main subject was contained in the center piece. It is not known whether "The Garden" was intended as an altarpiece, but the general view is that the extreme subject matter of the inner center and right panels make it unlikely that it was intended to function in a church or monastery, but was instead commissioned by a lay patron.</field>
+<field name="label">The Garden of Earthly Delights</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/38/Jheronimus_Bosch_023.jpg</field>
+<field name="comment">The Garden of Earthly Delights is the modern title given to a triptych painted by the Early Netherlandish master Hieronymus Bosch. It has been housed in the Museo del Prado in Madrid since 1939. Dating from between 1490 and 1510, when Bosch was between about 40 and 60 years old, it is his best-known and most ambitious complete work. It reveals the artist at the height of his powers; in no other painting does he achieve such complexity of meaning or such vivid imagery.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jheronimus_Bosch_023.jpg/200px-Jheronimus_Bosch_023.jpg</field>
+<field name="link_external">http://www.doremishock.com/bosch/bosch.htm</field>
+<field name="link_external">http://www.percontra.net/5silver.htm</field>
+<field name="link_external">http://www.jheronimusbosch-artcenter.nl/gfx/content/vermet.pdf</field>
+<field name="link_external">http://www.museodelprado.es/en/the-collection/online-gallery/on-line-gallery/obra/the-garden-of-earthly-delights/</field>
+<field name="width">240</field>
+<field name="width">237</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Analogy_(band)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Jardin_des_délices</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/快楽の園</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ogród_ziemskich_rozkoszy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/O_Jardim_das_Delícias_Terrenas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Garden_of_Earthly_Delights</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Garden_of_Earthly_Delights</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Garden_of_Delights</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Garden_Of_Earthly_Delights</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Garden_of_Earthly_Delights_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Earthly_Delights</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Tuin_der_lusten</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Atseginen_baratzea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q321303</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/人間樂園</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/حديقة_المباهج_الأرضية</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Dünyəvi_zövqlər_bağı</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Градината_на_земните_удоволствия</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Liorzh_ar_plijadurezhioù</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_jardí_de_les_delícies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://cy.dbpedia.org/resource/Gardd_y_Pleserau_Daearol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Lysternes_have</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/La_ĝardeno_de_la_delicoj</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/باغ_لذت_دنیوی</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/O_xardín_das_delicias</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/גן_התענוגות_הארציים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Vrt_naslade</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Gyönyörök_kertje</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/ტკბობის_ბაღი</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://lv.dbpedia.org/resource/Pasaulīgo_baudu_dārzs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Lystenes_hage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Dünyevi_Zevkler_Bahçesi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Garden_of_Earthly_Delights</field>
+</doc>
+</add>

@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Captain_George_K._H._Coussmaker</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5036652</field>
+<field name="sameAs">http://dbpedia.org/resource/Captain_George_K._H._Coussmaker</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hrg921</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Captain_George_K._H._Coussmaker</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Captain_George_K._H._Coussmaker</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horses_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1782_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joshua_Reynolds</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1782_works</field>
+<field name="abstract">Captain George K. H. Coussmaker (1782) is an oil on canvas portrait by Joshua Reynolds. Coussmaker was born in London in 1759 to Evert and Mary Coussmaker, and entered the military in 1776. He was promoted several times but never saw active service and retired in 1795. He married Catherine Southwell in 1790 and fathered two children, George and Sophia. He died in 1801. Coussmaker sat for Reynolds 21 times and his horse 8 times between February 9 and April 16, 1782 - an exceptional number of times. Reynolds was paid 205 pounds, plus 10 guineas for the frame. The portrait remained with Coussmaker and his descendants until 1884 when it was sold to William K. Vanderbilt and bequeathed to the Metropolitan Museum of Art in 1920. Museum curators describe the picture as "an exceptionally fine work ... The composition is complex and the whole vigorously painted."</field>
+<field name="label">Captain George K. H. Coussmaker</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e5/Colonel_George_K._H._Coussmaker,_Grenadier_Guards_by_Joshua_Reynolds_1782.jpeg</field>
+<field name="comment">Captain George K. H. Coussmaker (1782) is an oil on canvas portrait by Joshua Reynolds. Coussmaker was born in London in 1759 to Evert and Mary Coussmaker, and entered the military in 1776. He was promoted several times but never saw active service and retired in 1795. He married Catherine Southwell in 1790 and fathered two children, George and Sophia. He died in 1801.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Colonel_George_K._H._Coussmaker,_Grenadier_Guards_by_Joshua_Reynolds_1782.jpeg/200px-Colonel_George_K._H._Coussmaker,_Grenadier_Guards_by_Joshua_Reynolds_1782.jpeg</field>
+<field name="link_external">http://www.metmuseum.org/Collections/search-the-collections/110001898</field>
+<field name="artist">http://dbpedia.org/resource/Joshua_Reynolds</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">238.1</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">Captain George K. H. Coussmaker</field>
+<field name="width">145.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Captain_George_K._H._Coussmaker</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Captain_George_K._H._Coussmaker</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Captain_George_K._H._Coussmaker</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Captain_George_K._H._Coussmaker</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/George_K._H._Coussmaker</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5036652</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Captain_George_K._H._Coussmaker</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Captain_George_K._H._Coussmaker</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Captain_George_K._H._Coussmaker</field>
+</doc>
+</add>

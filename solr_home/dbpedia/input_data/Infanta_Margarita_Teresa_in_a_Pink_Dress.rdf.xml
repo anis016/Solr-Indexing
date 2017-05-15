@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_infanta_doña_Margarita_de_Austria_(pintura)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05p142w</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1130759</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_dell'Infanta_doña_Margherita_d'Austria</field>
+<field name="sameAs">http://th.dbpedia.org/resource/เจ้าหญิงมาร์การิตา_เทเรซาในชุดสีชมพู</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Museo_del_Prado</field>
+<field name="abstract">Infanta Margarita Teresa in a Pink Dress is a portrait of Margaret Theresa of Spain by the Spanish painter Diego Velázquez, though his identification as its author is not considered secure. It is now in the Prado Museum in Madrid. It was generally considered to be the last work in his oeuvre, with the dress by Velázquez himself and the head (left unfinished on Velázquez's death) and the bottom of the curtains completed by his pupil Juan Bautista del Mazo. However, recent studies by experts suggest it may be entirely by Mazo. Its subject was the royal most frequently portrayed by Velázquez, also appearing in his Las Meninas and Infanta Margarita Teresa in a Blue Dress. In the final years of his life he spent long periods producing portraits of her to send to the Austrian court for political reasons and in response to certain matrimonial arrangements made between the two courts. Infanta Margarita Teresa in a Blue Dress is still in Vienna, as are two 1652-53 portraits of her aged one or two, in a silver and pink dress. A replica of the latter, with variations, of the latter two is in the Liria Palace in Madrid, though this is attributed to another painter.</field>
+<field name="label">Infanta Margarita Teresa in a Pink Dress</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/68/Diego_Velázquez_026.jpg</field>
+<field name="comment">Infanta Margarita Teresa in a Pink Dress is a portrait of Margaret Theresa of Spain by the Spanish painter Diego Velázquez, though his identification as its author is not considered secure. It is now in the Prado Museum in Madrid. It was generally considered to be the last work in his oeuvre, with the dress by Velázquez himself and the head (left unfinished on Velázquez's death) and the bottom of the curtains completed by his pupil Juan Bautista del Mazo.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Diego_Velázquez_026.jpg/200px-Diego_Velázquez_026.jpg</field>
+<field name="link_external">http://www.elmundo.es/larevista/num105/textos/meninac.html</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of the Infanta Margaret Theresa</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_pink_dress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Infanta_Margaret_Theresa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_infanta_doña_Margarita_de_Austria_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_dell'Infanta_doña_Margherita_d'Austria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1130759</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/เจ้าหญิงมาร์การิตา_เทเรซาในชุดสีชมพู</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Pink_Dress</field>
+</doc>
+</add>

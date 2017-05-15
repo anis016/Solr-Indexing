@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/View_of_Geelong</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/View_of_Geelong</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7928775</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08m17b</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_Geelong</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Visitor_attractions_in_Geelong</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1856_paintings</field>
+<field name="abstract">Throughout this article, the $ symbol refers to the Australian dollar. View Of Geelong is an 1856 oil painting on canvas by Eugene von Guerard. The painting is currently owned by the City of Greater Geelong after being purchased from English composer Andrew Lloyd Webber for $3.8M. The purchase is the second highest ever for an Australian work of art, with the top being $5.3M paid by the National Gallery of Australia for a portrait of Captain James Cook by John Webber. http://www. heraldsun. news. com. au/common/story_page/0,5478,19709055%255E2902,00. html Lloyd Webber paid $1.98 million in 1997. http://www. vic. liberal. org. au/MediaCentre/StateMedia/03112005painting. htm In 1996, the painting was loaned to the Geelong Art Gallery, where it proved popular. In 2005, Lloyd Webber offered the painting for sale via auction house Christie's of London, giving the City of Greater Geelong first right of refusal. On July 7, 2006, the City of Greater Geelong purchased the painting for permanent display in the Geelong Art Gallery, after being offered $1.5 million from the Victorian state government and the remainder being sought via a community fundraising appeal.</field>
+<field name="label">View of Geelong</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a6/View_of_Geelong_1856_painting.jpg</field>
+<field name="comment">Throughout this article, the $ symbol refers to the Australian dollar. View Of Geelong is an 1856 oil painting on canvas by Eugene von Guerard. The painting is currently owned by the City of Greater Geelong after being purchased from English composer Andrew Lloyd Webber for $3.8M. The purchase is the second highest ever for an Australian work of art, with the top being $5.3M paid by the National Gallery of Australia for a portrait of Captain James Cook by John Webber. http://www. heraldsun.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/View_of_Geelong_1856_painting.jpg/200px-View_of_Geelong_1856_painting.jpg</field>
+<field name="link_external">http://www.vic.liberal.org.au/MediaCentre/StateMedia/03112005painting.htm</field>
+<field name="link_external">http://www.vic.liberal.org.au/mediacentre/StateMedia/03112005painting.htm</field>
+<field name="link_external">http://www.theage.com.au/articles/2006/04/14/1144521505593.html</field>
+<field name="link_external">http://www.theage.com.au/news/arts/lloyd-webber-sells-geelong-masterpiece/2006/05/12/1146940719620.html&amp;cid=0&amp;ei=nBhwRIz2C4W6pwK9qZWOCw</field>
+<field name="link_external">http://www.heraldsun.news.com.au/common/story_page/0,5478,19709055%255E2902,00.html</field>
+<field name="link_external">http://www.geelongaustralia.com.au/Media_Releases/October_2005/Its_time_to_bring_historic_painting_home_says_Cr_McMullin/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/View_of_Geelong</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/View_of_Geelong</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/View_of_Geelong</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/View_of_Geelong</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/View_Of_Geelong</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7928775</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_Geelong</field>
+</doc>
+</add>

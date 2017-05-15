@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Scène_à_la_signature_de_la_Constitution_des_États-Unis</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Scena_della_firma_della_Costituzione_degli_Stati_Uniti</field>
+<field name="sameAs">http://dbpedia.org/resource/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2701637</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Scenen_vid_undertecknandet_av_Amerikas_förenta_staters_konstitution</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04hvjf</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Escena_de_la_firma_de_la_Constitución_de_los_Estados_Unidos</field>
+<field name="sameAs">http://he.dbpedia.org/resource/סצנה_ממעמד_החתימה_על_חוקת_ארצות_הברית</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1940_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Scene at the Signing of the Constitution of the United States is a famous oil-on-canvas painting by Howard Chandler Christy, depicting the Constitutional Convention signing the U.S. Constitution at Independence Hall in Philadelphia on September 17, 1787. Along with Washington Crossing the Delaware by Emanuel Leutze, the painting is one of the most famous depictions of the early days of the United States. Christy created the painting in April 1940; it is so large that he painted it in a sail loft. It currently is displayed along the east stairway in the House of Representatives wing in the Capitol building.</field>
+<field name="label">Scene at the Signing of the Constitution of the United States</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9d/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg</field>
+<field name="comment">Scene at the Signing of the Constitution of the United States is a famous oil-on-canvas painting by Howard Chandler Christy, depicting the Constitutional Convention signing the U.S. Constitution at Independence Hall in Philadelphia on September 17, 1787. Along with Washington Crossing the Delaware by Emanuel Leutze, the painting is one of the most famous depictions of the early days of the United States.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg/200px-Scene_at_the_Signing_of_the_Constitution_of_the_United_States.jpg</field>
+<field name="link_external">http://www.teachingamericanhistory.org/convention/christy-about.html</field>
+<field name="link_external">http://www.aoc.gov/cc/art/sign_constitution.cfm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Scène_à_la_signature_de_la_Constitution_des_États-Unis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Escena_de_la_firma_de_la_Constitución_de_los_Estados_Unidos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Scene_at_the_signing_of_the_constitution_of_the_united_states</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Scena_della_firma_della_Costituzione_degli_Stati_Uniti</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/סצנה_ממעמד_החתימה_על_חוקת_ארצות_הברית</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Scenen_vid_undertecknandet_av_Amerikas_förenta_staters_konstitution</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2701637</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scene_at_the_Signing_of_the_Constitution_of_the_United_States</field>
+</doc>
+</add>

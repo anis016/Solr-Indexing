@@ -1,0 +1,95 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Raphael_Cartoons</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Raphael_Cartoons</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Raphael_Cartoons</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ラファエロのカルトン</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Cartões_de_Rafael</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.021c8h</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q936852</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Arazzi_di_Raffaello</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Raphael_Cartoons</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/拉斐爾漫畫</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Cartons_de_Raphaël</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cartones_de_Rafael</field>
+<field name="sameAs">http://dbpedia.org/resource/Raphael_Cartoons</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Tapestries</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1516_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paul_the_Apostle_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Victoria_and_Albert_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Collection_of_the_United_Kingdom</field>
+<field name="abstract">The Raphael Cartoons are seven large cartoons for tapestries, belonging to the British Royal Collection but since 1865 on loan to the Victoria and Albert Museum in London, designed by the High Renaissance painter Raphael in 1515–16 and showing scenes from the Gospels and Acts of the Apostles. They are the only surviving members of a set of ten cartoons commissioned by Pope Leo X for tapestries for the Sistine Chapel in the Vatican Palace, which are still (on special occasions) hung below Michelangelo's famous ceiling. Reproduced in the form of prints, they rivalled Michelangelo's ceiling as the most famous and influential designs of the Renaissance, and were well known to all artists of the Renaissance and Baroque. Admiration of them reached its highest pitch in the 18th and 19th centuries; they were described as "the Parthenon sculptures of modern art".</field>
+<field name="label">Raphael Cartoons</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bf/V&amp;A_-_Raphael,_The_Miraculous_Draught_of_Fishes_(1515).jpg</field>
+<field name="comment">The Raphael Cartoons are seven large cartoons for tapestries, belonging to the British Royal Collection but since 1865 on loan to the Victoria and Albert Museum in London, designed by the High Renaissance painter Raphael in 1515–16 and showing scenes from the Gospels and Acts of the Apostles.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/V&amp;A_-_Raphael,_The_Miraculous_Draught_of_Fishes_(1515).jpg/200px-V&amp;A_-_Raphael,_The_Miraculous_Draught_of_Fishes_(1515).jpg</field>
+<field name="link_external">http://www.childsgallery.com/work.php?work_id=1316517947</field>
+<field name="link_external">http://www.vam.ac.uk/collections/paintings/features/raphael/index.html</field>
+<field name="link_external">http://www.royalcollection.org.uk/microsites/raphaelcartoons/MicroSection.asp?themeid=1204</field>
+<field name="link_external">http://www.thecityreview.com/tapest.html</field>
+<field name="link_external">http://www.metmuseum.org/toah/hd/taps/taps_1.htm</field>
+<field name="link_external">http://rubens.anu.edu.au/new/books_and_papers/classical_tradition_book/chap6.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Raphael_Cartoons</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Raphael_Cartoons</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Arazzi_di_Raffaello</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Raphael_Cartoons</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Cartões_de_Rafael</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Raphael_Cartoons</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cartones_de_Rafael</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Raphael_Cartoons</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Raphael_cartoons</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Cartons_de_Raphaël</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Raphael_Cartoons</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Miraculous_Draught_of_Fishes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q936852</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Raphael_Cartoons</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ラファエロのカルトン</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Raphael_Cartoons</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/拉斐爾漫畫</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Raphael_Cartoons</field>
+</doc>
+</add>

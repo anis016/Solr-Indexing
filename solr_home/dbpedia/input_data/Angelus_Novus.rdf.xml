@@ -1,0 +1,82 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Angelus_Novus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Angelus_Novus</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Angelus_Novus_(Klee)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Angelus_Novus</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Angelus_Novus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Angelus_Novus</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Angelus_Novus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Angelus_Novus</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Angelus_Novus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Angelus_Novus</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Angelus_Novus</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q537640</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Angelus_Novus</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Angelus_Novus</field>
+<field name="sameAs">http://dbpedia.org/resource/Angelus_Novus</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Angelus_Novus</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cnmx3</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Angelus_Novus_(Klee)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Angelus_Novus</field>
+<field name="sameAs">http://he.dbpedia.org/resource/אנגלוס_נובוס</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1920_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Israel_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Walter_Benjamin</field>
+<field name="abstract">Angelus Novus is a copper etching plate, Intaglio printing with acidic watercolor on drypoint by Paul Klee, painted in 1920, and now in the collection of the Israel Museum in Jerusalem. In his ninth thesis in the essay “Theses on the Philosophy of History,” Walter Benjamin, who owned the print for many years, describes: "A Klee painting named Angelus Novus shows an angel looking as though he is about to move away from something he is fixedly contemplating. His eyes are staring, his mouth is open, his wings are spread. This is how one pictures the angel of history. His face is turned toward the past. Where we perceive a chain of events, he sees one single catastrophe which keeps piling wreckage upon wreckage and hurls it in front of his feet. The angel would like to stay, awaken the dead, and make whole what has been smashed. But a storm is blowing from Paradise; it has got caught in his wings with such violence that the angel can no longer close them. The storm irresistibly propels him into the future to which his back is turned, while the pile of debris before him grows skyward. This storm is what we call progress. " Otto Karl Werckmeister has commented that Benjamin's interpretation of the angel has led to it becoming "an icon of the left". The name and concept of the angel has inspired works by other artists and musicians.</field>
+<field name="label">Angelus Novus</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4b/Klee,_paul,_angelus_novus,_1920.jpg</field>
+<field name="comment">Angelus Novus is a copper etching plate, Intaglio printing with acidic watercolor on drypoint by Paul Klee, painted in 1920, and now in the collection of the Israel Museum in Jerusalem. In his ninth thesis in the essay “Theses on the Philosophy of History,” Walter Benjamin, who owned the print for many years, describes: "A Klee painting named Angelus Novus shows an angel looking as though he is about to move away from something he is fixedly contemplating.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Klee,_paul,_angelus_novus,_1920.jpg/200px-Klee,_paul,_angelus_novus,_1920.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Angelus_Novus</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Angelus_Novus</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Angelus_Novus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Angelus_Novus</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Angelus_Novus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Angelus_Novus</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Angelus_Novus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Angelus_Novus</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q537640</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Angelus_Novus</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/אנגלוס_נובוס</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Angelus_Novus</field>
+</doc>
+</add>

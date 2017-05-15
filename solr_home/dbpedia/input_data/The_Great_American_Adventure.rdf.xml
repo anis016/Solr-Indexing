@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Great_American_Adventure</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.091hp9</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7737627</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Great_American_Adventure</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Great_American_Adventure</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Books_about_visual_art</field>
+<field name="abstract">The Great American Adventure is a mural painting created by Victor Horvath in 1976. It was formulated into a media history of US-America on September 17, 2001. The book was published upon request April, 2003 by Thorton Publishing. The Great American Adventure spawned Adventur-Cation which is a patent pending education method used to teach children and adults the history of US-America. It is the belief of the book's author that US-America is, at its center, a great country, but too many individuals lack knowledge of US-America's past.</field>
+<field name="label">The Great American Adventure</field>
+<field name="comment">The Great American Adventure is a mural painting created by Victor Horvath in 1976. It was formulated into a media history of US-America on September 17, 2001. The book was published upon request April, 2003 by Thorton Publishing. The Great American Adventure spawned Adventur-Cation which is a patent pending education method used to teach children and adults the history of US-America.</field>
+<field name="link_external">http://www.VictorHorvath.com</field>
+<field name="link_external">http://www.adventur-cation.com/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Great_American_Adventure</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Great_American_Adventure</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Great_American_Adventure</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Great_American_Adventure</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7737627</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Great_American_Adventure</field>
+</doc>
+</add>

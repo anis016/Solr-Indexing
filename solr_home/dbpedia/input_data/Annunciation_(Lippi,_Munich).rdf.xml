@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Filippo_Lippi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Annunciation_(Lippi,_Munich)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Lippi,_Munich)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Annunciation_(Lippi,_Munich)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_delle_Murate</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Lippi,_Munich)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f678n</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3618194</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippo_Lippi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1440s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="abstract">The Annunciation is a painting by the Italian Renaissance painter Filippo Lippi, finished around 1443-1450. It is housed in the Alte Pinakothek, Munich, Germany. It depicts the Virgin humbly accepting her role as mother of Jesus, with a hand on her breast, while the dove, symbol of the Holy Spirit, is given to her. The angel is kneeling next to her, also with a hand on his breast a greeting sign. The scene is framed into a portico opening to a close garden.</field>
+<field name="label">Annunciation (Lippi, Munich)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/68/Fra_Filippo_Lippi_014.jpg</field>
+<field name="comment">The Annunciation is a painting by the Italian Renaissance painter Filippo Lippi, finished around 1443-1450. It is housed in the Alte Pinakothek, Munich, Germany. It depicts the Virgin humbly accepting her role as mother of Jesus, with a hand on her breast, while the dove, symbol of the Holy Spirit, is given to her. The angel is kneeling next to her, also with a hand on his breast a greeting sign. The scene is framed into a portico opening to a close garden.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Fra_Filippo_Lippi_014.jpg/200px-Fra_Filippo_Lippi_014.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">203</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum"/>
+<field name="title">Annunciation</field>
+<field name="type">Oil on panel</field>
+<field name="width">186</field>
+<field name="year">c. 1443-1450</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Annunciation_(Lippi,_Munich)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Annunciation_(Lippi,_Munich)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_delle_Murate</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Lippi,_Munich)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Annunciation_(Lippi,_Munich)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Annunciation_(Lippi,_Munich)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3618194</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Lippi,_Munich)</field>
+</doc>
+</add>

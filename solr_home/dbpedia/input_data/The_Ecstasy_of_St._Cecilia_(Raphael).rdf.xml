@@ -1,0 +1,84 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Verzückung_der_Heiligen_Cäcilia</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Müqəddəs_Sisilyanın_ekstazı_(Rafael)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08n3y8</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Estasi_di_santa_Cecilia</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Extase_de_sainte_Cécile</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1103801</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1516_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="abstract">The St. Cecilia Altarpiece is an oil painting by Italian High Renaissance painter Raphael. Completed in his later years, around 1516-1517, the painting depicts Saint Cecilia, the patron saint of musicians and Church music, listening to a choir of angels in the company of St. Paul, St. John the Evangelist, St. Augustine and Mary Magdalene. Commissioned for a church in Bologna, the painting now hangs there in the Pinacoteca Nazionale, or National Painting Gallery. According to Vasari the musical instruments strewn about Cecilia's feet were not painted by Raphael, but by his student, Giovanni da Udine. In 1880, English Romantic poet Percy Shelley described the painting as follows: The central figure, St. Cecilia, seems rapt in such inspiration as produced her image in the painter's mind; her deep, dark, eloquent eyes lifted up; her chestnut hair flung back from her forehead — she holds an organ in her hands — her countenance, as it were, calmed by the depth of its passion and rapture, and penetrated throughout with the warm and radiant light of life. She is listening to the music of heaven, and, as I imagine, has just ceased to sing, for the four figures that surround her evidently point, by their attitudes, towards her; particularly St. John, who, with a tender yet impassioned gesture, bends his countenance towards her, languid with the depth of emotion. At her feet lie various instruments of music, broken and unstrung.</field>
+<field name="label">The Ecstasy of St. Cecilia (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f0/Cecilia_Raphael.jpg</field>
+<field name="comment">The St. Cecilia Altarpiece is an oil painting by Italian High Renaissance painter Raphael. Completed in his later years, around 1516-1517, the painting depicts Saint Cecilia, the patron saint of musicians and Church music, listening to a choir of angels in the company of St. Paul, St. John the Evangelist, St. Augustine and Mary Magdalene. Commissioned for a church in Bologna, the painting now hangs there in the Pinacoteca Nazionale, or National Painting Gallery.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Cecilia_Raphael.jpg/200px-Cecilia_Raphael.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">220</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">St. Cecilia Altarpiece</field>
+<field name="type">Oil transferred from panel to canvas</field>
+<field name="width">136</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Estasi_di_santa_Cecilia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Extase_de_sainte_Cécile</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ecstasis_of_St._Cecilia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ecstasy_of_St._Cecilia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Ecstasy_of_St._Cecilia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Verzückung_der_Heiligen_Cäcilia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Müqəddəs_Sisilyanın_ekstazı_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1103801</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ecstasy_of_St._Cecilia_(Raphael)</field>
+</doc>
+</add>

@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Della_Strada</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.030p90</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_Della_Strada</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_Della_Strada</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6728373</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Titles_of_Mary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="abstract">Madonna Della Strada or Santa Maria Della Strada — the Italian for Our Lady of the Way, or Our Lady of the Road — is the name of a late 15th or 16th century image of the Blessed Virgin Mary, enshrined at the Church of the Gesu in Rome, motherchurch of the Society of Jesus religious order of the Roman Catholic Church. The Madonna Della Strada is the patroness of the Society of Jesus. Its founder, Ignatius of Loyola, was said to have been protected by the intercession of the Blessed Virgin Mary during battle in his service as a soldier.</field>
+<field name="label">Madonna Della Strada</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c7/Madonna_della_strada.jpg</field>
+<field name="comment">Madonna Della Strada or Santa Maria Della Strada — the Italian for Our Lady of the Way, or Our Lady of the Road — is the name of a late 15th or 16th century image of the Blessed Virgin Mary, enshrined at the Church of the Gesu in Rome, motherchurch of the Society of Jesus religious order of the Roman Catholic Church. The Madonna Della Strada is the patroness of the Society of Jesus.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Madonna_della_strada.jpg/200px-Madonna_della_strada.jpg</field>
+<field name="link_external">http://puffin.creighton.edu/jesuit/andre/strada_o.html</field>
+<field name="link_external">http://contemplatioadamorem.blogspot.com/2006/12/restored-image-of-madonna-della-strada.html</field>
+<field name="link_external">http://www.companysj.com/v261/fa08_dellastrada.pdf</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_Della_Strada</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_Della_Strada</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_della_Strada</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Santa_Maria_Della_Strada</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_Della_Strada</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_Della_Strada</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Della_Strada_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6728373</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_Della_Strada</field>
+</doc>
+</add>

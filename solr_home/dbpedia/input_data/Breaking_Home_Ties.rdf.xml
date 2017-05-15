@@ -1,0 +1,34 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Breaking_Home_Ties</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Breaking_Home_Ties</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026xftl</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4959552</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Breaking_Home_Ties</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1954_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_originally_published_in_The_Saturday_Evening_Post</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Norman_Rockwell</field>
+<field name="abstract">Breaking Home Ties was painted by Norman Rockwell for the September 25, 1954 cover of The Saturday Evening Post.</field>
+<field name="label">Breaking Home Ties</field>
+<field name="comment">Breaking Home Ties was painted by Norman Rockwell for the September 25, 1954 cover of The Saturday Evening Post.</field>
+<field name="link_external">http://www.nrm.org/</field>
+<field name="link_external">http://www.worldofportraitpainting.com/commentary-sanden/rockwell.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Breaking_Home_Ties</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Breaking_Home_Ties</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Breaking_Home_Ties</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Breaking_Home_Ties</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4959552</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Breaking_Home_Ties</field>
+</doc>
+</add>

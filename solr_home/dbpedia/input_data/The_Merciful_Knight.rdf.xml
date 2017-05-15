@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Merciful_Knight</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j28g4s</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Merciful_Knight</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Merciful_Knight</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7751053</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1863_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edward_Burne-Jones</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Birmingham_Museum_and_Art_Gallery</field>
+<field name="abstract">The Merciful Knight is a watercolour by the Pre-Raphaelite artist Edward Burne-Jones which was completed in 1863 and is currently housed at the Birmingham Museum &amp; Art Gallery.</field>
+<field name="label">The Merciful Knight</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/be/Edward_Burne-Jones_-_The_Merciful_Knight.jpg</field>
+<field name="comment">The Merciful Knight is a watercolour by the Pre-Raphaelite artist Edward Burne-Jones which was completed in 1863 and is currently housed at the Birmingham Museum &amp; Art Gallery.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Edward_Burne-Jones_-_The_Merciful_Knight.jpg/200px-Edward_Burne-Jones_-_The_Merciful_Knight.jpg</field>
+<field name="link_external">http://www.schoolsliaison.org.uk/2004/bmag/resources/pre_raphs_web.pdf</field>
+<field name="link_external">http://www.bmagic.org.uk</field>
+<field name="link_external">http://www.bmag.org.uk</field>
+<field name="link_external">http://www.preraphaelites.org</field>
+<field name="link_external">http://www.bmagic.org.uk/objects/1973P84</field>
+<field name="link_external">http://www.bmagic.org.uk/objects/1900P30</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Birmingham</field>
+<field name="height">101.4</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Birmingham_Museum_and_Art_Gallery</field>
+<field name="title">The Merciful Knight</field>
+<field name="type">watercolour with bodycolour on paper</field>
+<field name="width">58.6</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Merciful_Knight</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Merciful_Knight</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Merciful_Knight</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Merciful_Knight</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7751053</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Merciful_Knight</field>
+</doc>
+</add>

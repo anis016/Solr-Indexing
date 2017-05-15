@@ -1,0 +1,166 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/アイリス_(絵画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Irysy_(obraz_van_Gogha)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Irises_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Iris_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Iris</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Irises_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Irises_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Iris_(Van_Gogh)</field>
+<field name="sameAs">http://pnb.dbpedia.org/resource/سوسن</field>
+<field name="sameAs">http://id.dbpedia.org/resource/Bunga-bunga_Iris</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Irises_(painting)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/アイリス_(絵画)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2282256</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Iriser</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Irises_(1889_painting)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Iris_(Van_Gogh)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Irysy_(obraz_van_Gogha)</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Ириси_(картина)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/鳶尾花_(梵谷)</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Hoa_diên_vĩ_(tranh)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Irissen_(Van_Gogh)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ไอริส_(ฟาน_ก็อกฮ์)</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Касачы,_карціна_ван_Гога</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Iris_(Van_Gogh)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.037t7s</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Ирисы_(картина_ван_Гога)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Saint-R%C3%A9my</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_J._Paul_Getty_Museum</field>
+<field name="abstract">Irises is a painting of irises by the Dutch artist Vincent van Gogh. Irises was painted while Vincent van Gogh was living at the asylum at Saint Paul-de-Mausole in Saint-Rémy-de-Provence, France, in the last year before his death in 1890. It was painted before his first attack at the asylum. There is a lack of the high tension which is seen in his later works. He called the painting "the lightning conductor for my illness", because he felt that he could keep himself from going insane by continuing to paint. The painting was influenced by Japanese ukiyo-e woodblock prints, like many of his works and those by other artists of the time. The similarities occur with strong outlines, unusual angles, including close-up views and also flattish local colour (not modelled according to the fall of light). He considered this painting a study, which is probably why there are no known drawings for it, although Theo, Van Gogh's brother, thought better of it and quickly submitted it to the annual exhibition of the Société des Artistes Indépendants in September 1889, together with Starry Night Over the Rhone. He wrote to Vincent of the exhibition: "[It It] strikes the eye from afar. The Irises are a beautiful study full of air and life."</field>
+<field name="label">Irises (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/98/VanGoghIrises2.jpg</field>
+<field name="comment">Irises is a painting of irises by the Dutch artist Vincent van Gogh. Irises was painted while Vincent van Gogh was living at the asylum at Saint Paul-de-Mausole in Saint-Rémy-de-Provence, France, in the last year before his death in 1890. It was painted before his first attack at the asylum. There is a lack of the high tension which is seen in his later works.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/VanGoghIrises2.jpg/200px-VanGoghIrises2.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">71</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/J._Paul_Getty_Museum</field>
+<field name="title">Irises</field>
+<field name="type">Oil on canvas</field>
+<field name="width">93</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Irises_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Ирисы_(картина_ван_Гога)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Iris_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Irissen_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2282256</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/鳶尾花_(梵谷)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Касачы,_карціна_ван_Гога</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Ириси_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Iris_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Iriser</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://id.dbpedia.org/resource/Bunga-bunga_Iris</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pnb.dbpedia.org/resource/سوسن</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Irises_(1889_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ไอริส_(ฟาน_ก็อกฮ์)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Hoa_diên_vĩ_(tranh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Irises_(painting)</field>
+</doc>
+</add>

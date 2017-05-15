@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_Vincenzo_Anastagi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincenzo_Anastagi</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Vincenzo_Anastagi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Vincenzo_Anastagi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Vincenzo_Anastagi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232313</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincenzo_Anastagi</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_Vincenzo_Anastagi</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Vincenzo_Anastagi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h526qk</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Frick_Collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_El_Greco</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1575_paintings</field>
+<field name="abstract">The Portrait of Vincenzo Anastagi is a portrait of Vincenzo Anastagi by El Greco, painted in 1575 during the artist's time in Rome and now shown in the Frick Collection.</field>
+<field name="label">Portrait of Vincenzo Anastagi</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/79/Retrato_de_Vincenzo_Anastagi_Greco.jpg</field>
+<field name="comment">The Portrait of Vincenzo Anastagi is a portrait of Vincenzo Anastagi by El Greco, painted in 1575 during the artist's time in Rome and now shown in the Frick Collection.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Retrato_de_Vincenzo_Anastagi_Greco.jpg/200px-Retrato_de_Vincenzo_Anastagi_Greco.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Vincenzo_Anastagi</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Vincenzo_Anastagi</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232313</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincenzo_Anastagi</field>
+</doc>
+</add>

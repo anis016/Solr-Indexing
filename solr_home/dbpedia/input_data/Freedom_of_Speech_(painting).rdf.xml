@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Freedom_of_Speech_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Freedom_of_Speech_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q713211</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Freedom_of_Speech_(Norman_Rockwell)</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Freedom_of_Speech_(Norman_Rockwell)</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_of_Speech_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0409c60</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/言論自由_(油畫)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Freedom_of_speech</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:World_War_II_media</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_originally_published_in_The_Saturday_Evening_Post</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1943_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Four_Freedoms</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Norman_Rockwell</field>
+<field name="abstract">Freedom of Speech is one of Four Freedoms paintings by Norman Rockwell that were inspired by United States President Franklin D. Roosevelt in the State of the Union Address, known as Four Freedoms, he delivered to the 77th United States Congress on January 6, 1941. The other paintings in this series were, Freedom from Fear Freedom to Worship Freedom from Want Freedom of Speech was published in the February 20, 1943 Issue of The Saturday Evening Post with a matching essay by Booth Tarkington as part of the Four Freedoms series. Rockwell felt that this and Freedom to Worship were the most successful of the set. Since Rockwell liked to depict life as he experienced it or envisioned it, it is not surprising that this image depicts an actual occurrence. This is a scene of a local town meeting in which one person spoke out in lone dissent but was accorded the floor as a matter of protocol. Once he envisioned this scene to depict freedom of speech, Rockwell decided to use his Vermont neighbors as models for a Four Freedoms series. The painting took four attempts. Earlier versions were troubled by the distraction of multiple subjects and the improper placement and perspective of the subject for the message to be clear. An Arlington, Vermont Rockwell neighbor, Carl Hess, stood as the model for the shy, brave young workman, and another neighbor, Jim Martin, who appears in each painting in the series, is in the scene.</field>
+<field name="label">Freedom of Speech (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3c/Freedom_of_Speech.jpg</field>
+<field name="comment">Freedom of Speech is one of Four Freedoms paintings by Norman Rockwell that were inspired by United States President Franklin D. Roosevelt in the State of the Union Address, known as Four Freedoms, he delivered to the 77th United States Congress on January 6, 1941.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Freedom_of_Speech.jpg/200px-Freedom_of_Speech.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Norman_Rockwell</field>
+<field name="city">http://dbpedia.org/resource/United_States</field>
+<field name="city">http://dbpedia.org/resource/Stockbridge,_Massachusetts</field>
+<field name="height">116.2</field>
+<field name="image"/>
+<field name="imageSize">159</field>
+<field name="museum">http://dbpedia.org/resource/Norman_Rockwell_Museum</field>
+<field name="title">Freedom of Speech</field>
+<field name="width">90</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Freedom_of_Speech_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Freedom_of_Speech_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Freedom_of_speech_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Freedom_of_Speech_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Freedom_of_Speech_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Freedom_of_Speech_(Norman_Rockwell)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_of_Speech_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q713211</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_of_Speech_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/言論自由_(油畫)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_of_Speech_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Freedom_of_Speech_(Norman_Rockwell)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_of_Speech_(painting)</field>
+</doc>
+</add>

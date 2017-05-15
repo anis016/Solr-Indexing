@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Golden_Fleece_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7737036</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bs77h9</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Golden_Fleece_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Golden_Fleece_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1894_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Art_Gallery_of_New_South_Wales</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sheep_wool</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tom_Roberts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="abstract">The Golden Fleece, originally known as Shearing at Newstead, is an 1894 painting by the Australian artist Tom Roberts. The painting depicts sheep shearers plying their trade in a timber shearing shed at Newstead North, a sheep station near Inverell on the Northern Tablelands of New South Wales. The same shed is depicted in another of Roberts' works, Shearing Shed, Newstead (1894). The painting was originally titled Shearing at Newstead but was renamed The Golden Fleece after the Golden Fleece of Greek mythology to honour the wool industry and the nobility of the shearers. This was in keeping with Roberts' conscious idealisation of the Australian pastoral worker and landscape. The painting, said to be "an icon of Australian art", is part of the collection of the Art Gallery of New South Wales.</field>
+<field name="label">The Golden Fleece (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5d/Tom_Roberts_-_The_Golden_Fleece_-_Google_Art_Project.jpg</field>
+<field name="comment">The Golden Fleece, originally known as Shearing at Newstead, is an 1894 painting by the Australian artist Tom Roberts. The painting depicts sheep shearers plying their trade in a timber shearing shed at Newstead North, a sheep station near Inverell on the Northern Tablelands of New South Wales. The same shed is depicted in another of Roberts' works, Shearing Shed, Newstead (1894).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Tom_Roberts_-_The_Golden_Fleece_-_Google_Art_Project.jpg/200px-Tom_Roberts_-_The_Golden_Fleece_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.artgallery.nsw.gov.au/work/648/</field>
+<field name="link_external">http://www.abc.net.au/local/audio/2009/10/28/2726650.htm</field>
+<field name="artist">http://dbpedia.org/resource/Tom_Roberts</field>
+<field name="city">http://dbpedia.org/resource/Sydney</field>
+<field name="height">104</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Art_Gallery_of_New_South_Wales</field>
+<field name="title">The Golden Fleece</field>
+<field name="type">oil on canvas</field>
+<field name="width">158.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Golden_Fleece_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Golden_Fleece_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shearing_at_Newstead</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Golden_Fleece_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Golden_Fleece_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Golden_Fleece_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7737036</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Golden_Fleece_(painting)</field>
+</doc>
+</add>

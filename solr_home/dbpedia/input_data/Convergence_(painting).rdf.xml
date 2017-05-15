@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Convergence</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Convergence_jackson_pollock</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Convergence_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zn4l0</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Convergence_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Convergence_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5166368</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Convergence is a 1952 oil painting by Jackson Pollock.</field>
+<field name="label">Convergence (painting)</field>
+<field name="comment">Convergence is a 1952 oil painting by Jackson Pollock.</field>
+<field name="name"/>
+<field name="artist">http://dbpedia.org/resource/Jackson_Pollock</field>
+<field name="imageSize">175</field>
+<field name="museum">http://dbpedia.org/resource/Albright%E2%80%93Knox_Art_Gallery</field>
+<field name="title">Convergence</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Convergence_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Convergence_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Convergence_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Convergence_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5166368</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Convergence_(painting)</field>
+</doc>
+</add>

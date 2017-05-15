@@ -1,0 +1,17 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Boat_Builders_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Boat_Builders_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Boat_Builders_(painting)</field>
+<field name="label">Boat Builders (painting)</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Boat_Builders_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Boat_Builders_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Boat_Builders_(painting)</field>
+</doc>
+</add>

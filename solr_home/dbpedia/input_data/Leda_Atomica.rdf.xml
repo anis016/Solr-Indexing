@@ -1,0 +1,90 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Leda_Atomica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Leda_Atomica</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Leda_atómica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Leda_Atomica</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Атомная_Леда</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Leda_Atomica</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Leda_Atomica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Leda_atomica</field>
+<field name="sameAs">http://dbpedia.org/resource/Leda_Atomica</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Атомна_Леда</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q133508</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Атомная_Леда</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Leda_atomica</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Leda_atómica</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04jj812</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Leda_atòmica</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Leda_Atomica</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1949_paintings</field>
+<field name="abstract">Leda Atomica is a painting by Salvador Dalí, made in 1949. The picture depicts Leda, the mythological queen of Sparta, with the swan. Leda is a frontal portrait of Dalí's wife, Gala, who is seated on a pedestal with a swan suspended behind and to her left. Different objects such as a book, a set square, two stepping stools and an egg float around the main figure. In the background on both sides the rocks of Cap Norfeu, (located on the Costa Brava in Catalonia, between Roses and Cadaqués intend to define the location of the image. The painting is exhibited in the Dalí Theatre and Museum in Figueres.</field>
+<field name="label">Leda Atomica</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/38/Leda_atomica.jpg</field>
+<field name="comment">Leda Atomica is a painting by Salvador Dalí, made in 1949. The picture depicts Leda, the mythological queen of Sparta, with the swan. Leda is a frontal portrait of Dalí's wife, Gala, who is seated on a pedestal with a swan suspended behind and to her left. Different objects such as a book, a set square, two stepping stools and an egg float around the main figure.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Leda_atomica.jpg/200px-Leda_atomica.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/Figueres</field>
+<field name="height">61.1</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Dal%C3%AD_Theatre_and_Museum</field>
+<field name="title">Leda Atomica</field>
+<field name="width">45.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Leda_Atomica</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Leda_Atomica</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Leda_atomica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Leda_atomica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Leda_Atomica</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q133508</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Leda_Atomica</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Leda_atòmica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Leda_Atomica</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Leda_atomica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Leda_Atomica</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Атомна_Леда</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Leda_Atomica</field>
+</doc>
+</add>

@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Last_Supper_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glnpx1</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Perugino)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3208044</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ultima_cena_(Perugino)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Last_Supper_(Perugino)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Cène_(Le_Pérugin)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="abstract">The Last Supper (1493-1496) is a fresco by the Italian Renaissance artist Pietro Perugino. It depicts Jesus and the Apostles during the Last Supper, with Judas sitting separately on the near side of the table, as is common in depictions of the Last Supper in Christian art. It is considered on of Perugino's best works. As in some other cases, Perugino reused the details of the delicate figures here in other works, drawing later complaints from Giorgio Vasari. The convent of Fuligno originally had housed a number of Franciscan nuns since 1419. Later it became a convent for noble Florentine girls, and received the patronage of Lorenzo de' Medici and the Lapaccini family. Pietro Perugino, who by 1493 had settled mainly in Florence started to paint there. The fresco was "discovered" and open to the public in the 19th century. It was originally attributed to Raphael, who was a pupil of Perugino later, and whose early style is very similar to his, but it was eventually realized that it was a work by Perugino.</field>
+<field name="label">Last Supper (Perugino)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/84/Cenacolo_di_Fuligno,_pietro_perugino.JPG</field>
+<field name="comment">The Last Supper (1493-1496) is a fresco by the Italian Renaissance artist Pietro Perugino. It depicts Jesus and the Apostles during the Last Supper, with Judas sitting separately on the near side of the table, as is common in depictions of the Last Supper in Christian art. It is considered on of Perugino's best works. As in some other cases, Perugino reused the details of the delicate figures here in other works, drawing later complaints from Giorgio Vasari.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Cenacolo_di_Fuligno,_pietro_perugino.JPG/200px-Cenacolo_di_Fuligno,_pietro_perugino.JPG</field>
+<field name="artist">http://dbpedia.org/resource/Pietro_Perugino</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">440</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Cenacolo_di_Foligno</field>
+<field name="title">Last Supper</field>
+<field name="type">Fresco</field>
+<field name="width">800</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Last_Supper_(Perugino)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Last_Supper_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Cène_(Le_Pérugin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Last_Supper_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Last_Supper_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ultima_cena_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3208044</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Perugino)</field>
+</doc>
+</add>

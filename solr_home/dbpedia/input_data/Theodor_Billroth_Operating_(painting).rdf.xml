@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Theodor_Billroth_Operating_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Theodor_Billroth_Operating_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7781570</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Theodor_Billroth_Operating_(painting)</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/لوحة_تيودور_بيلروث_في_العمل</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03c7298</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surgery</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Austrian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="abstract">The Theodor Billroth Operating painting by Adalbert Franz Seligmann (1890?) shows the German surgeon Theodor Billroth operating in the auditorium of Vienna General Hospital (Allgemeine Krankenhaus). The painting is exhibited in the Österreichische Galerie Belvedere in Vienna, Austria.</field>
+<field name="label">Theodor Billroth Operating (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/99/Seligmann_-_Billroth_operating.jpg</field>
+<field name="comment">The Theodor Billroth Operating painting by Adalbert Franz Seligmann (1890?) shows the German surgeon Theodor Billroth operating in the auditorium of Vienna General Hospital (Allgemeine Krankenhaus). The painting is exhibited in the Österreichische Galerie Belvedere in Vienna, Austria.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Seligmann_-_Billroth_operating.jpg/200px-Seligmann_-_Billroth_operating.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Theodor_Billroth_Operating_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Theodor_Billroth_Operating_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Theodor_Billroth_operating,_by_Seligmann</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Theodor_Billroth_Operating_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Theodor_Billroth_Operating_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7781570</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Theodor_Billroth_Operating_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/لوحة_تيودور_بيلروث_في_العمل</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Theodor_Billroth_Operating_(painting)</field>
+</doc>
+</add>

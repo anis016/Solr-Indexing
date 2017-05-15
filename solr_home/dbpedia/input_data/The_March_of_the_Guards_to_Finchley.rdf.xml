@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_March_of_the_Guards_to_Finchley</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03hmfdr</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_March_of_the_Guards_to_Finchley</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7750292</field>
+<field name="sameAs">http://dbpedia.org/resource/The_March_of_the_Guards_to_Finchley</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1750_paintings</field>
+<field name="abstract">The March of the Guards to Finchley, also known as The March to Finchley or The March of the Guards, is a 1750 oil-on-canvas painting by English artist William Hogarth, owned by the Thomas Coram Foundation for Children since 1750 and now housed at the Foundling Museum. Hogarth was well known for his satirical works, and The March of the Guards to Finchley has been said to have given full scope to this sense of satire; it was described by Hogarth himself as "steeped in humour". The painting is a depiction of a fictional mustering of troops on the Tottenham Court Road to march north to Finchley to defend the capital from the second Jacobite rebellion of 1745, which was part of a series of uprisings that had been occurring since the late 17th century and were aimed at returning the Stuart Dynasty to the throne after the Glorious Revolution of 1688. It portrays the soldiers in a humorous light, placing exaggerated emphasis on their lack of training and respect for discipline. The March of the Guards to Finchley was originally intended to be a gift to the incumbent King of England, George II. However, George II was insulted by the apparent jab at his best troops, and rejected it when it was offered to him. Upset at the King's spurning of his work, Hogarth opted to change the engraving and present the painting instead to the King of Prussia, Frederick II, who, being known for his skills as a soldier rather than an artist, was reportedly much more satisfied with the gift.</field>
+<field name="label">The March of the Guards to Finchley</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/66/William_Hogarth_007.jpg</field>
+<field name="comment">The March of the Guards to Finchley, also known as The March to Finchley or The March of the Guards, is a 1750 oil-on-canvas painting by English artist William Hogarth, owned by the Thomas Coram Foundation for Children since 1750 and now housed at the Foundling Museum. Hogarth was well known for his satirical works, and The March of the Guards to Finchley has been said to have given full scope to this sense of satire; it was described by Hogarth himself as "steeped in humour".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/William_Hogarth_007.jpg/200px-William_Hogarth_007.jpg</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="height">101.5</field>
+<field name="image"/>
+<field name="title">The March of the Guards to Finchley</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">133.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_March_of_the_Guards_to_Finchley</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_March_of_the_Guards_to_Finchley</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/March_of_the_Guards_to_Finchley</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/March_to_Finchley</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_March_to_Finchley</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_March_of_the_Guards_to_Finchley</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_March_of_the_Guards_to_Finchley</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7750292</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_March_of_the_Guards_to_Finchley</field>
+</doc>
+</add>

@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Jacopo_Pesaro_presentato_a_san_Pietro_da_papa_Alessandro_VI</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jacopo_Pesaro_being_presented_by_Pope_Alexander_VI_to_Saint_Peter</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jacopo_Pesaro_being_presented_by_Pope_Alexander_VI_to_Saint_Peter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3rkky</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Jacopo_Pesaro_being_presented_by_Pope_Alexander_VI_to_Saint_Peter</field>
+<field name="sameAs">http://dbpedia.org/resource/Jacopo_Pesaro_being_presented_by_Pope_Alexander_VI_to_Saint_Peter</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Jacopo_Pesaro_presentato_a_san_Pietro_da_papa_Alessandro_VI</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3805922</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1503_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Museum_of_Fine_Arts,_Antwerp</field>
+<field name="abstract">Jacopo Pesaro being presented by Pope Alexander VI to Saint Peter is a painting by Titian, now housed at the Royal Museum of Fine Arts in Antwerp. It is signed "Titiano F. C."</field>
+<field name="label">Jacopo Pesaro being presented by Pope Alexander VI to Saint Peter</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f7/Tizian_105.jpg</field>
+<field name="comment">Jacopo Pesaro being presented by Pope Alexander VI to Saint Peter is a painting by Titian, now housed at the Royal Museum of Fine Arts in Antwerp. It is signed "Titiano F. C."</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Tizian_105.jpg/200px-Tizian_105.jpg</field>
+<field name="link_external">http://www.kmska.be/en/collectie/highlights/Jacopo_Pesaro.html</field>
+<field name="link_external">http://www.vlaamsekunstcollectie.be/index.aspx?local=en&amp;p=object&amp;query=identifier=%22357%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%22&amp;</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Antwerp</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Royal_Museum_of_Fine_Arts,_Antwerp</field>
+<field name="title">Jacopo Pesaro being presented by Pope Alexander VI to Saint Peter</field>
+<field name="type">oil on canvas</field>
+<field name="year">c. 1503–1506</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Jacopo_Pesaro_being_presented_by_Pope_Alexander_VI_to_Saint_Peter</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jacopo_Pesaro_being_presented_by_Pope_Alexander_VI_to_Saint_Peter</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Jacopo_Pesaro_being_presented_by_Pope_Alexander_VI_to_Saint_Peter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Jacopo_Pesaro_being_presented_by_Pope_Alexander_VI_to_Saint_Peter</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3805922</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jacopo_Pesaro_being_presented_by_Pope_Alexander_VI_to_Saint_Peter</field>
+</doc>
+</add>

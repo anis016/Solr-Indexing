@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Midvinterblot_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Midvinterblot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Midvinterblot</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/冬至の生贄</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Midvinterblot</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Midvinterblot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Midvinterblot</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Midvinterblot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03y9hkb</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Midvinterblot</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Midvinterblot</field>
+<field name="sameAs">http://dbpedia.org/resource/Midvinterblot</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q761681</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Midvinterblot</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/冬至の生贄</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Midvinterblot</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Swedish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1915_paintings</field>
+<field name="abstract">Midvinterblot is a painting created for the hall of the central staircase in Nationalmuseum in Stockholm by the Swedish painter Carl Larsson in 1915. It is Sweden's most debated painting. The painting depicts a legend from Norse mythology in which the Swedish king Domalde was sacrificed in order to avert a famine. After a long controversy it was rejected by the museum, but the debate resurfaced again in the late 20th century, after which it was finally honoured with the place where Carl Larsson intended it to be.</field>
+<field name="label">Midvinterblot</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/64/Midvinterblot.jpeg</field>
+<field name="comment">Midvinterblot is a painting created for the hall of the central staircase in Nationalmuseum in Stockholm by the Swedish painter Carl Larsson in 1915. It is Sweden's most debated painting. The painting depicts a legend from Norse mythology in which the Swedish king Domalde was sacrificed in order to avert a famine.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Midvinterblot.jpeg/200px-Midvinterblot.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Carl_Larsson</field>
+<field name="city">http://dbpedia.org/resource/Stockholm</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Nationalmuseum</field>
+<field name="title">Midvinterblot</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Midvinterblot</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Midvinterblot</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q761681</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Midvinterblot</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Midvinterblot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Midvinterblot</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Midvinterblot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Midvinterblot</field>
+</doc>
+</add>

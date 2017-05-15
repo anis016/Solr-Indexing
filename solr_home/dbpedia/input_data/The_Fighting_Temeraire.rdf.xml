@@ -1,0 +1,137 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ostatnia_droga_Temeraire'a</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Dernier_Voyage_du_Téméraire</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Последний_рейс_корабля_«Отважный»</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/The_Fighting_Temeraire</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/تمرر_جنگجو</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Fighting_Temeraire</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07vkdf</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/The_Fighting_Temeraire</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_Temerario_remolcado_a_dique_seco</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_valorosa_Téméraire</field>
+<field name="sameAs">http://de.dbpedia.org/resource/The_Fighting_Temeraire</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q257580</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_J._M._W._Turner</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1839_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1910_poems</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Military_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="abstract">The Fighting Temeraire tugged to her last berth to be broken up is an oil painting executed in 1839 by the English artist J. M. W. Turner. It depicts one of the last second-rate ships of the line which played a distinguished role in the Battle of Trafalgar in 1805, the 98-gun ship HMS Temeraire, being towed towards its final berth in Rotherhithe south east London in 1838 to be broken up for scrap. The painting hangs in the National Gallery, London, having been bequeathed to the nation by the artist in 1851. Sir Henry Newbolt wrote a ballad titled The Fighting Temeraire, referencing the scenario depicted: "And she's fading down the river, But in England's song for ever, She's the Fighting Téméraire. " Turner himself presented the painting for display in 1839 accompanied by an altered excerpt from Thomas Campbell's poem Ye Mariners of England, reading: "The flag which braved the battle and the breeze, "No longer owns her."</field>
+<field name="label">The Fighting Temeraire</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/94/Turner,_J._M._W._-_The_Fighting_Téméraire_tugged_to_her_last_Berth_to_be_broken.jpg</field>
+<field name="comment">The Fighting Temeraire tugged to her last berth to be broken up is an oil painting executed in 1839 by the English artist J. M. W. Turner. It depicts one of the last second-rate ships of the line which played a distinguished role in the Battle of Trafalgar in 1805, the 98-gun ship HMS Temeraire, being towed towards its final berth in Rotherhithe south east London in 1838 to be broken up for scrap.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Turner,_J._M._W._-_The_Fighting_Téméraire_tugged_to_her_last_Berth_to_be_broken.jpg/200px-Turner,_J._M._W._-_The_Fighting_Téméraire_tugged_to_her_last_Berth_to_be_broken.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/server.php?show=conObject.177</field>
+<field name="link_external">http://www.artble.com/artists/joseph_mallord_william_turner/paintings/the_fighting_temeraire</field>
+<field name="link_external">http://www.poemhunter.com/poem/the-fighting-t-m-raire</field>
+<field name="artist">http://dbpedia.org/resource/J._M._W._Turner</field>
+<field name="height">91</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">The Fighting Temeraire tugged</field>
+<field name="title">to her last Berth to be broken up</field>
+<field name="type">Oil on canvas</field>
+<field name="width">122</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Fighting_Temeraire</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_Temerario_remolcado_a_dique_seco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Dernier_Voyage_du_Téméraire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_valorosa_Téméraire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Temeraire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/The_Fighting_Temeraire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fighting_Temeraire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fighting_T%C3%A9m%C3%A9raire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fighting_T%C3%A9m%C3%A9raire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fighting_Temeraire_Tugged_To_Her_Last_Berth_To_Be_Broken_Up</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Fighting_Temeraire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/The_Fighting_Temeraire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Последний_рейс_корабля_«Отважный»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q257580</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/The_Fighting_Temeraire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ostatnia_droga_Temeraire'a</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/تمرر_جنگجو</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fighting_Temeraire</field>
+</doc>
+</add>

@@ -1,0 +1,106 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Uczta_w_domu_Lewiego</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Пир_в_доме_Левия</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Gastmahl_im_Hause_des_Levi</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Пир_в_доме_Левия</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Uczta_w_domu_Lewiego</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03c7584</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Repas_chez_Levi_(Véronèse)</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Posljednja_večera_(Veronese)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q951105</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Feast_in_the_House_of_Levi</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Cena_apud_Levi_celebrata</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cena_en_casa_de_Leví</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cena_a_casa_di_Levi</field>
+<field name="sameAs">http://sh.dbpedia.org/resource/Posljednja_večera_(Veronese)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gallerie_dell'Accademia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paolo_Veronese</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1573_paintings</field>
+<field name="abstract">The Feast in the House of Levi or Christ in the House of Levi is a 1573 painting by Italian painter Paolo Veronese and one of the largest canvases of the 16th century measuring 555 x 1280 cm (18 x 42 feet). It is now in the Gallerie dell'Accademia, in Venice. It was painted by Veronese for the Dominican order of SS. Giovanni Paolo as a Last Supper, to replace an earlier work by Titian destroyed in the fire of 1571. However the painting led to an investigation by the Roman Catholic Inquisition. Veronese was called to answer for irreverence and indecorum, and the serious offence of heresy was mentioned. He was asked to explain why the painting contained "buffoons, drunken Germans, dwarfs and other such scurrilities" as well as extravagant costumes and settings, in what is indeed a fantasy version of a Venetian patrician feast. Veronese was told that he must change his painting within a three month period; instead, he simply changed the title to The Feast in the House of Levi, still an episode from the Gospels, but a less doctrinally central one, and no more was said.</field>
+<field name="label">The Feast in the House of Levi</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f1/Paolo_Veronese_007.jpg</field>
+<field name="comment">The Feast in the House of Levi or Christ in the House of Levi is a 1573 painting by Italian painter Paolo Veronese and one of the largest canvases of the 16th century measuring 555 x 1280 cm (18 x 42 feet). It is now in the Gallerie dell'Accademia, in Venice. It was painted by Veronese for the Dominican order of SS. Giovanni Paolo as a Last Supper, to replace an earlier work by Titian destroyed in the fire of 1571. However the painting led to an investigation by the Roman Catholic Inquisition.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Paolo_Veronese_007.jpg/200px-Paolo_Veronese_007.jpg</field>
+<field name="link_external">http://www.law.harvard.edu/faculty/martin/art_law/feast_in_the_house_of_levi.htm</field>
+<field name="artist">http://dbpedia.org/resource/Paolo_Veronese</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="height">555</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Accademia</field>
+<field name="title">Christ in the House of Levi</field>
+<field name="width">1280</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Feast_in_the_House_of_Levi</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Gastmahl_im_Hause_des_Levi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Repas_chez_Levi_(Véronèse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Feast_in_the_House_of_Levi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cena_a_casa_di_Levi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cena_en_casa_de_Leví</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q951105</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Posljednja_večera_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Cena_apud_Levi_celebrata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+<doc>
+<field name="uri">http://sh.dbpedia.org/resource/Posljednja_večera_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_in_the_House_of_Levi</field>
+</doc>
+</add>

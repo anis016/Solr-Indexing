@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/John_Ruskin_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/John_Ruskin_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6255949</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09gly2q</field>
+<field name="sameAs">http://yago-knowledge.org/resource/John_Ruskin_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_English_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1854_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Waterfalls_of_Scotland</field>
+<field name="abstract">John Ruskin is a painting of the leading Victorian art critic John Ruskin (1819–1900). It was painted by the Pre-Raphaelite artist John Everett Millais (1829–1896) during 1853–4. John Ruskin was an early advocate of the Pre-Raphaelite group of artists and part of their success was due to his efforts. The painting depicts Ruskin in front of a waterfall in Glenfinlas, Scotland. Ruskin and Millais spent the summer of 1853 together at Glenfinlas in the Trossachs. Ruskin was especially interested in the rock formations and undertook his own studies of these. The painting of Ruskin was started during this visit, during which the details of the landscape were painted. The last stages of work on the painting were undertaken in Millais' studio in London. By that time Ruskin's wife Effie had fallen in love with Millais. She left Ruskin and sued him for an annulment of the marriage. She and Millais were married the following year. Millais found it very difficult to be in the same room as Ruskin when he was completing the work in London. As soon as the portrait was finished he broke off contact with Ruskin. Ruskin himself temporarily moved the portrait so that his father would not see it, since he was concerned that he would damage or destroy it. It is currently held by a private collection, but was displayed at an exhibition on the Pre-Raphaelites at Tate Britain in London during 2004 and was loaned to the Ashmolean Museum, Oxford in 2012.</field>
+<field name="label">John Ruskin (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b7/Millais_Ruskin.jpg</field>
+<field name="comment">John Ruskin is a painting of the leading Victorian art critic John Ruskin (1819–1900). It was painted by the Pre-Raphaelite artist John Everett Millais (1829–1896) during 1853–4. John Ruskin was an early advocate of the Pre-Raphaelite group of artists and part of their success was due to his efforts. The painting depicts Ruskin in front of a waterfall in Glenfinlas, Scotland. Ruskin and Millais spent the summer of 1853 together at Glenfinlas in the Trossachs.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Millais_Ruskin.jpg/200px-Millais_Ruskin.jpg</field>
+<field name="artist"/>
+<field name="height">78.7</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">John Ruskin</field>
+<field name="width">68</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/John_Ruskin_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/John_Ruskin_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/John_Ruskin_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/John_Ruskin_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_John_Ruskin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6255949</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/John_Ruskin_(painting)</field>
+</doc>
+</add>

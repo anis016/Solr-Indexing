@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Four_Seasons_(Poussin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Four_Seasons_(Poussin)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Four_Seasons_(Poussin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06w27xv</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Four_Seasons_(Poussin)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7735033</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Four_Seasons_(Poussin)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Nicolas_Poussin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660s_paintings</field>
+<field name="abstract">The Four Seasons (fr Les Quatre Saisons) was the last set of four oil paintings completed by the French painter Nicolas Poussin (1594–1665). The set was painted in Rome between 1660 and 1664 for the Duc de Richelieu, the nephew of Cardinal Richelieu. Each painting is an elegiac landscape with Old Testament figures conveying the different seasons and times of the day. Executed when the artist was in failing health suffering from a tremor in his hands, the Seasons are a philosophical reflection on order in the natural world. The iconography evokes not only the Christian themes of death and resurrection but also the pagan imagery of classical antiquity: the poetic worlds of Milton's Paradise Lost and Virgil's Georgics. The paintings currently hang in a room on their own in the Louvre in Paris. “ By his absolute humility, by his effacement of himself, by his refusal to use any tricks or overstate himself, Poussin has succeeded in identifying himself with nature, conceived as a manifestation of the divine reason. The Seasons are among the supreme examples of pantheistic landscape painting. ” “ Jamais peut-être, dans toute la peinture occidentale, des choses aussi nombreuses et parfois si difficiles n'avaient été dites avec une telle simplicité. Jamais un peintre ne s'était aussi pleinement identifié à l'ordre du monde. Mais cette identification n'est ni « une projection » ni une confidence : là est le sens de cette impersonalité que l'on a pu reprocher à Poussin, et qui fait sa grandeur. ”</field>
+<field name="label">The Four Seasons (Poussin)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/29/Poussin-selfportrait.jpg</field>
+<field name="comment">The Four Seasons (fr Les Quatre Saisons) was the last set of four oil paintings completed by the French painter Nicolas Poussin (1594–1665). The set was painted in Rome between 1660 and 1664 for the Duc de Richelieu, the nephew of Cardinal Richelieu. Each painting is an elegiac landscape with Old Testament figures conveying the different seasons and times of the day.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Poussin-selfportrait.jpg/200px-Poussin-selfportrait.jpg</field>
+<field name="link_external">http://cartelfr.louvre.fr/cartelfr/visite?srv=sal_frame&amp;idSalle=346</field>
+<field name="width">30</field>
+<field name="width">20</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Four_Seasons_(Poussin)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Four_Seasons_(Poussin)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Four_Seasons</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7735033</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Four_Seasons_(Poussin)</field>
+</doc>
+</add>

@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Surrender_of_Lord_Cornwallis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bx_7qb</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Hầu_tước_Cornwallis_đầu_hàng</field>
+<field name="sameAs">http://dbpedia.org/resource/Surrender_of_Lord_Cornwallis</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Reddition_de_Lord_Cornwallis</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Surrender_of_Lord_Cornwallis</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3212180</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:United_States_Capitol</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_about_the_American_Revolution</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:New_York_in_the_American_Revolution</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Trumbull</field>
+<field name="abstract">The Surrender of Lord Cornwallis is an oil painting by John Trumbull. The painting was completed in 1820, and hangs in the rotunda of the United States Capitol in Washington, D. C. The painting depicts the surrender of British Major General Charles, Earl Cornwallis at Yorktown, Virginia on October 19, 1781, ending the Siege of Yorktown, and virtually guaranteeing American independence. Included in the depiction are many leaders of the American troops that took part in the siege.</field>
+<field name="label">Surrender of Lord Cornwallis</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/Surrender_of_Lord_Cornwallis.jpg</field>
+<field name="comment">The Surrender of Lord Cornwallis is an oil painting by John Trumbull. The painting was completed in 1820, and hangs in the rotunda of the United States Capitol in Washington, D. C. The painting depicts the surrender of British Major General Charles, Earl Cornwallis at Yorktown, Virginia on October 19, 1781, ending the Siege of Yorktown, and virtually guaranteeing American independence. Included in the depiction are many leaders of the American troops that took part in the siege.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Surrender_of_Lord_Cornwallis.jpg/200px-Surrender_of_Lord_Cornwallis.jpg</field>
+<field name="link_external">http://www.aoc.gov/cc/art/rotunda/surrender_cornwallis.cfm</field>
+<field name="link_external">http://books.google.com/books?id=V5xGAAAAMAAJ&amp;dq=Trumbull%20%22Surrender%20of%20General%20Burgoyne%22&amp;pg=PA36#v=onepage&amp;q=Burgoyne&amp;f=false</field>
+<field name="artist">http://dbpedia.org/resource/John_Trumbull</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/United_States_Capitol_rotunda</field>
+<field name="title">Surrender of Lord Cornwallis</field>
+<field name="year">&amp;ndash;</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Surrender_of_Lord_Cornwallis</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Surrender_of_Lord_Cornwallis</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Reddition_de_Lord_Cornwallis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Surrender_of_Lord_Cornwallis</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Surrender_of_Lord_Cornwallis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Surrender_of_Lord_Cornwallis</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Hầu_tước_Cornwallis_đầu_hàng</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Surrender_of_Lord_Cornwallis</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3212180</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Surrender_of_Lord_Cornwallis</field>
+</doc>
+</add>

@@ -1,0 +1,274 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fayum_portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Fajjúmské_mumiové_portréty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Mumienporträt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retratos_de_El_Fayum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Πορτραίτα_Φαγιούμ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portrety_fajumskie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portraits_du_Fayoum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Фаюмские_портреты</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fayum_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Fayyum-porträtt</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Fayum-portret</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Фаюмские_портреты</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Πορτραίτα_Φαγιούμ</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/لوحات_مومياوات_الفيوم</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Mumienporträt</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retratos_de_El_Fayum</field>
+<field name="sameAs">http://sh.dbpedia.org/resource/Fajumski_portreti</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Fajjúmské_mumiové_portréty</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/파이윰_미라_초상화</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portraits_du_Fayoum</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Faijumin_muumiomuotokuvat</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratti_del_Fayyum</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Retratos_de_Fayum</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Feyyum_mumya_portreleri</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ミイラ肖像画</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q646420</field>
+<field name="sameAs">http://he.dbpedia.org/resource/דיוקנאות_המומיות_מפיום</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portrety_fajumskie</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/ფაიუმის_პორტრეტი</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Fayyum-portrettene</field>
+<field name="sameAs">http://hy.dbpedia.org/resource/Ֆայյումյան_դիմանկար</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Фаюмски_портрети</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Fayum_mummy_portraits</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Fajjúmske_portréty</field>
+<field name="sameAs">http://sr.dbpedia.org/resource/Фајумски_портрети</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.013566</field>
+<field name="sameAs">http://id.dbpedia.org/resource/Potret-potret_mumi_Fayum</field>
+<field name="sameAs">http://arz.dbpedia.org/resource/بورتريهات_الفيوم</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ancient_Greek_painting</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_of_ancient_Egypt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Greco-Roman_Egypt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Empire_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Coptic_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_of_ancient_Greece_and_Rome</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Hellenistic_art</field>
+<field name="abstract">Mummy portraits or Fayum mummy portraits (also Faiyum mummy portraits) is the modern term given to a type of naturalistic painted portraits on wooden boards attached to mummies from the Coptic period. They belong to the tradition of panel painting, one of the most highly regarded forms of art in the Classical world. In fact, the Fayum portraits are the only large body of art from that tradition to have survived. Mummy portraits have been found across Egypt, but are most common in the Faiyum Basin, particularly from Hawara and Antinoopolis, hence the common name. "Faiyum Portraits" is generally thought of as a stylistic, rather than a geographic, description. While painted Cartonnage mummy cases date back to pharaonic times, the Faiyum mummy portraits were an innovation dating to the Coptic period on time of the Roman occupation of Egypt. They date to the Roman period, from the late 1st century BCE or the early 1st century CE onwards. It is not clear when their production ended, but recent research suggests the middle of the 3rd century. They are among the largest groups among the very few survivors of the highly prestigious panel painting tradition of the classical world, which was continued into Byzantine and Western traditions in the post-classical world, including the local tradition of Coptic iconography in Egypt. The portraits covered the faces of bodies that were mummified for burial. Extant examples indicate that they were mounted into the bands of cloth that were used to wrap the bodies. Almost all have now been detached from the mummies. They usually depict a single person, showing the head, or head and upper chest, viewed frontally. In terms of artistic tradition, the images clearly derive more from Graeco-Roman traditions than Egyptian ones. Two groups of portraits can be distinguished by technique: one of encaustic (wax) paintings, the other in tempera. The former are usually of higher quality. About 900 mummy portraits are known at present. The majority were found in the necropoleis of Faiyum. Due to the hot dry Egyptian climate, the paintings are frequently very well preserved, often retaining their brilliant colours seemingly unfaded by time.</field>
+<field name="label">Fayum mummy portraits</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c6/Fayum-34.jpg</field>
+<field name="comment">Mummy portraits or Fayum mummy portraits (also Faiyum mummy portraits) is the modern term given to a type of naturalistic painted portraits on wooden boards attached to mummies from the Coptic period. They belong to the tradition of panel painting, one of the most highly regarded forms of art in the Classical world. In fact, the Fayum portraits are the only large body of art from that tradition to have survived.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Fayum-34.jpg/200px-Fayum-34.jpg</field>
+<field name="link_external">http://www.thebritishmuseum.ac.uk/bmsaes/issue3/prag.html</field>
+<field name="link_external">http://www.casa.ucl.ac.uk/digital_egypt/hawara/portraits/index.html</field>
+<field name="link_external">http://www.bergerfoundation.ch/Fayoum/english/dynamicContent.html</field>
+<field name="link_external">http://library.case.edu/ksl/ecoll/books/petrom00/petrom00.html</field>
+<field name="link_external">http://www.encaustic.ca/html/history.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Fayum_mummy_portraits</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Fayum_mummy_portraits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fayum_portraits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fayum_mummy_portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fayyum_mummy_portraits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fayum_Portraits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Faiyum_mummy_portraits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fayoum_mummy_portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fayoum_mummy_portraits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portraits_of_Faiyum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratti_del_Fayyum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ミイラ肖像画</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/파이윰_미라_초상화</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Retratos_de_Fayum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Fayum-portret</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q646420</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/لوحات_مومياوات_الفيوم</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://arz.dbpedia.org/resource/بورتريهات_الفيوم</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Фаюмски_портрети</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Faijumin_muumiomuotokuvat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/דיוקנאות_המומיות_מפיום</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://hy.dbpedia.org/resource/Ֆայյումյան_դիմանկար</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://id.dbpedia.org/resource/Potret-potret_mumi_Fayum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/ფაიუმის_პორტრეტი</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Fayyum-portrettene</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://sh.dbpedia.org/resource/Fajumski_portreti</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Fajjúmske_portréty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://sr.dbpedia.org/resource/Фајумски_портрети</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Fayyum-porträtt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Feyyum_mumya_portreleri</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fayum_mummy_portraits</field>
+</doc>
+</add>

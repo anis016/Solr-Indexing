@@ -1,0 +1,155 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Juan_Bautista_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Johannes_der_Täufer_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Jean-Baptiste_(Léonard_de_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Jan_Chrzciciel_(obraz_Leonarda_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/São_João_Batista_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._John_the_Baptist_(Leonardo)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Jan_Chrzciciel_(obraz_Leonarda_da_Vinci)</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Svätý_Ján_Krstiteľ_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07ljj3</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Johannes_der_Täufer_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Sant_Joan_Baptista_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Giovanni_Battista_(Leonardo)</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/يوحنا_المعمدان_(لوحة)</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Йоан_Кръстител_(Леонардо)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Иоанн_Креститель_(Леонардо_да_Винчи)</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/施洗者圣约翰_(达芬奇)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q783215</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Johannes_de_Doper_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Jean-Baptiste_(Léonard_de_Vinci)</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Sfântul_Ioan_Botezătorul_(pictură_de_Leonardo_da_Vinci)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/São_João_Batista_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Juan_Bautista_(Leonardo)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1516_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:John_the_Baptist</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Leonardo_da_Vinci</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">St. John the Baptist is an oil painting on walnut wood by Leonardo da Vinci. Completed from 1513 to 1516, when the High Renaissance was metamorphosing into Mannerism, it is believed to be his last painting. The original size of the work was 69x57 cm. It is now exhibited at the Musée du Louvre in Paris, France. The piece depicts St. John the Baptist in isolation. St. John is dressed in pelts, has long curly hair, and is smiling in an enigmatic manner which is reminiscent of Leonardo's famous Mona Lisa. He holds a reed cross in his left hand while his right hand points up toward heaven (like St Anne in Leonardo's cartoon The Virgin and Child with St Anne and St John the Baptist). It is believed that the cross and wool skins were added at a later date by another painter. The pointing gesture of St. John toward the heavens suggests the importance of salvation through baptism that John the Baptist represents. The work is often quoted by later painters, especially those in the late Renaissance and Mannerist schools. The inclusion of a gesture similar to John's would increase the importance of a work with a religious conceit.</field>
+<field name="label">St. John the Baptist (Leonardo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/56/Saint_Jean-Baptiste,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg</field>
+<field name="comment">St. John the Baptist is an oil painting on walnut wood by Leonardo da Vinci. Completed from 1513 to 1516, when the High Renaissance was metamorphosing into Mannerism, it is believed to be his last painting. The original size of the work was 69x57 cm. It is now exhibited at the Musée du Louvre in Paris, France. The piece depicts St. John the Baptist in isolation. St.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Saint_Jean-Baptiste,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg/200px-Saint_Jean-Baptiste,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/84801/rec/2</field>
+<field name="link_external">http://merovingio.c2rmf.cnrs.fr/iipimage/showcase/StJohnTheBaptist/</field>
+<field name="link_external">http://www.leonardomilano.it</field>
+<field name="link_external">http://www.lairweb.org.nz/leonardo/john.html</field>
+<field name="artist">http://dbpedia.org/resource/Leonardo_da_Vinci</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">69</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">St. John the Baptist</field>
+<field name="width">57</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._John_the_Baptist_(Leonardo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Giovanni_Battista_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Иоанн_Креститель_(Леонардо_да_Винчи)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._John_the_Baptist_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._John_the_Baptist_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/John_the_Baptist_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Johannes_de_Doper_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q783215</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/施洗者圣约翰_(达芬奇)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/يوحنا_المعمدان_(لوحة)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Йоан_Кръстител_(Леонардо)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Sant_Joan_Baptista_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Sfântul_Ioan_Botezătorul_(pictură_de_Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Svätý_Ján_Krstiteľ_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_(Leonardo)</field>
+</doc>
+</add>

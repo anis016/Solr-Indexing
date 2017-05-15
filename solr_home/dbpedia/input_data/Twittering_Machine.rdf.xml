@@ -1,0 +1,82 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Machine_à_gazouiller</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Twittering_Machine</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Twittering_Machine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Twittering_Machine</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Die_Zwitscher-Maschine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Die_Zwitschermaschine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Twittering_Machine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Zwitscher-Maschine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Twittering_Machine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3pj43</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Twittering_Machine</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3210239</field>
+<field name="sameAs">http://dbpedia.org/resource/Twittering_Machine</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Machine_à_gazouiller</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1922_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Censorship_in_Germany</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_Klee</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Expressionist_paintings</field>
+<field name="abstract">Twittering Machine (Die Zwitscher-Maschine) is a 1922 watercolor and pen and ink oil transfer on paper by Swiss-German painter Paul Klee. Like other artworks by Klee, it blends biology and machinery, depicting a loosely sketched group of birds on a wire or branch connected to a hand-crank. Interpretations of the work vary widely: it has been perceived as a nightmarish lure for the viewer or a depiction of the helplessness of the artist, but also as a triumph of nature over mechanical pursuits. It has been seen as a visual representation of the mechanics of sound. Originally displayed in Germany, the image was declared "degenerate art" by Adolf Hitler in 1933 and sold by the Nazi party to an art dealer in 1939, whence it made its way to New York. One of the better known of more than 9,000 works produced by Klee, it is among the more famous images of the New York Museum of Modern Art (MoMA). It has inspired several musical compositions and, according to a 1987 magazine profile in New York Magazine, has been a popular piece to hang in children's bedrooms.</field>
+<field name="label">Twittering Machine</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/09/Die_Zwitscher-Maschine_(Twittering_Machine).jpg</field>
+<field name="comment">Twittering Machine (Die Zwitscher-Maschine) is a 1922 watercolor and pen and ink oil transfer on paper by Swiss-German painter Paul Klee. Like other artworks by Klee, it blends biology and machinery, depicting a loosely sketched group of birds on a wire or branch connected to a hand-crank. Interpretations of the work vary widely: it has been perceived as a nightmarish lure for the viewer or a depiction of the helplessness of the artist, but also as a triumph of nature over mechanical pursuits.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Die_Zwitscher-Maschine_(Twittering_Machine).jpg/200px-Die_Zwitscher-Maschine_(Twittering_Machine).jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/twittering-machine.html</field>
+<field name="link_external">http://pqasb.pqarchiver.com/washingtonpost/access/73808788.html?dids=73808788:73808788&amp;FMT=ABS&amp;FMTS=ABS:FT&amp;type=current&amp;date=Mar+29%2C+1987&amp;author=Paul+Richard&amp;pub=The+Washington+Post+(pre-1997+Fulltext)&amp;desc=Klee%3BThe+Magical+Exhibit+at+MOMA&amp;pqatl=google</field>
+<field name="link_external">http://www.time.com/time/magazine/article/0,9171,873250-1,00.html</field>
+<field name="link_external">http://pqasb.pqarchiver.com/courant/access/856837602.html?dids=856837602:856837602&amp;FMT=ABS&amp;FMTS=ABS:AI&amp;type=historic&amp;date=Jan+19%2C+1941&amp;author=&amp;pub=Hartford+Courant&amp;desc=Klee+Paintings+Exhibited+At+Smith+College</field>
+<field name="artist">http://dbpedia.org/resource/Paul_Klee</field>
+<field name="city"/>
+<field name="height">63.8</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Twittering Machine</field>
+<field name="type">Watercolor and ink; oil transfer on paper with gouache and ink on border</field>
+<field name="width">210</field>
+<field name="width">48.1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Twittering_Machine</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Twittering_Machine</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Twitter_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3210239</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Twittering_Machine</field>
+</doc>
+</add>

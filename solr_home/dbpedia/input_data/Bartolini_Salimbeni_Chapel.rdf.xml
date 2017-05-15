@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bartolini-Salimbeni_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cappella_Bartolini_Salimbeni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bartolini_Salimbeni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bartolini_Salimbeni_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3657324</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cappella_Bartolini_Salimbeni</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bartolini_Salimbeni_Chapel</field>
+<field name="sameAs">http://dbpedia.org/resource/Bartolini_Salimbeni_Chapel</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gty40s</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gothic_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lorenzo_Monaco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1420s_paintings</field>
+<field name="abstract">The Bartolini Salimbeni Chapel is a chapel in the church of Santa Trinita, Florence, central Italy. Its decoration by Lorenzo Monaco, dating to the 1420s, are one of the few surviving examples of International Gothic frescoes in Italy. The chapels has kept other original elements, such as its altarpiece, an Annunciation, also by Lorenzo Monaco, and the railings.</field>
+<field name="label">Bartolini Salimbeni Chapel</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d9/Santa_Trinita_4_Bartolini.jpg</field>
+<field name="comment">The Bartolini Salimbeni Chapel is a chapel in the church of Santa Trinita, Florence, central Italy. Its decoration by Lorenzo Monaco, dating to the 1420s, are one of the few surviving examples of International Gothic frescoes in Italy. The chapels has kept other original elements, such as its altarpiece, an Annunciation, also by Lorenzo Monaco, and the railings.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Santa_Trinita_4_Bartolini.jpg/200px-Santa_Trinita_4_Bartolini.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bartolini_Salimbeni_Chapel</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bartolini_Salimbeni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bartolini_Salimbeni_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bartolini_Salimbeni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3657324</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bartolini_Salimbeni_Chapel</field>
+</doc>
+</add>

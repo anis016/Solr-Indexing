@@ -1,0 +1,34 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Louis_Guillaume</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gls691</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Louis_Guillaume</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Louis_Guillaume</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232289</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_C%C3%A9zanne</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="abstract">Portrait of Louis Guillaume is an oil on canvas portrait by Paul Cézanne painted c. 1882. Guillaume was the son of friends of the artist and a friend of Cézanne's son, Paul. Here he is portrayed in a highly sculpted manner with a near-expressionless, uncommunicative face, and an immobile, lifeless body. In form and complexity, the painting is ahead of its time. It contains many abstractions, mostly in its presentation of the head and body as simple, solid shapes, a technique later taken up and developed by Henri Matisse. The work's low-key colours, mostly greys, whites and dark greens, achieve a sombre tone, echoed by the shy reserve on the boy's face. While his skin is rendered with pearly white paint, giving the surface a lively sheen or glow, this contrasts with his black, severely cropped hair and dark clothes, while his eyes are only black hollows. Heavy-lidded, they are, according to art critic Meyer Schapiro, "without spiritual light ... they belong to a world of shadow. " One critic famously wrote that Cézanne painted the heads of friends as if they were apples, and that sense of cool detachment is evident in this work. Its formal qualities are reminiscent of a still-life or landscape, however while at first look there is evidence of the artist's awareness of the "abyss between human beings", there are signs of hope and connection in the delicately rendered tones of the cheeks, the ornament of the wall, the folds of the dress, and the cravat which echoes the verticals of the folds of the face and wall. The painting was purchased by Ambroise Vollard by 1906. It was sold to a Florentine collector c 1907 before it was sold in 1927 to Chester Dale in New York. In 1963 Dale donated the work to the National Gallery of Art in Washington, D.C. where it is on permanent display.</field>
+<field name="label">Portrait of Louis Guillaume</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/62/Portrait_of_Louis_Guillaume_Cézanne.jpg</field>
+<field name="comment">Portrait of Louis Guillaume is an oil on canvas portrait by Paul Cézanne painted c. 1882. Guillaume was the son of friends of the artist and a friend of Cézanne's son, Paul. Here he is portrayed in a highly sculpted manner with a near-expressionless, uncommunicative face, and an immobile, lifeless body. In form and complexity, the painting is ahead of its time.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Portrait_of_Louis_Guillaume_Cézanne.jpg/200px-Portrait_of_Louis_Guillaume_Cézanne.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Louis_Guillaume</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Louis_Guillaume</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Louis_Guillaume</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Louis_Guillaume</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232289</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Louis_Guillaume</field>
+</doc>
+</add>

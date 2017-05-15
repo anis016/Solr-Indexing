@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Funeral_of_St._Jerome_(Filippo_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3732905</field>
+<field name="sameAs">http://dbpedia.org/resource/Funeral_of_St._Jerome_(Filippo_Lippi)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtw4yt</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Funeral_of_St._Jerome_(Filippo_Lippi)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Esequie_di_san_Girolamo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippo_Lippi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Prato</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="abstract">The Funel of St. Jerome is a painting by the Italian Renaissance painter Filippo Lippi. It is housed in the Museo dell'Opera del Duomo next to the Cathedral of Prato, central Italy.</field>
+<field name="label">Funeral of St. Jerome (Filippo Lippi)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6e/Lippi,_esequie_di_san_girolamo.jpg</field>
+<field name="comment">The Funel of St. Jerome is a painting by the Italian Renaissance painter Filippo Lippi. It is housed in the Museo dell'Opera del Duomo next to the Cathedral of Prato, central Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Lippi,_esequie_di_san_girolamo.jpg/200px-Lippi,_esequie_di_san_girolamo.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">268</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum"/>
+<field name="title">Funeral of St. Jerome</field>
+<field name="type">Tempera on panel</field>
+<field name="width">165</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Funeral_of_St._Jerome_(Filippo_Lippi)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Funeral_of_St._Jerome_(Filippo_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Funeral_of_St._Jerome_(Fra_Lippo_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Funerals_of_St._Jerome_(Filippo_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Funeral_of_St._Jerome_(Filippo_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Funeral_of_St._Jerome_(Filippo_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Esequie_di_san_Girolamo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Funeral_of_St._Jerome_(Filippo_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3732905</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Funeral_of_St._Jerome_(Filippo_Lippi)</field>
+</doc>
+</add>

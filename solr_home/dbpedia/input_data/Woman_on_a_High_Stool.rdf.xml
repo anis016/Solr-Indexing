@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_on_a_High_Stool</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h56_4</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Woman_on_a_High_Stool</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_on_a_High_Stool</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q8030744</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1914_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="abstract">Woman on a High Stool is an oil painting by the French artist Henri Matisse from early 1914. It is a portrait of Germaine Raynal, who was married to Maurice Raynal, an art critic. The piece is influenced by analytical cubism.</field>
+<field name="label">Woman on a High Stool</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8a/Matisse_Woman_on_a_high_stool.jpg</field>
+<field name="comment">Woman on a High Stool is an oil painting by the French artist Henri Matisse from early 1914. It is a portrait of Germaine Raynal, who was married to Maurice Raynal, an art critic. The piece is influenced by analytical cubism.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Matisse_Woman_on_a_high_stool.jpg/200px-Matisse_Woman_on_a_high_stool.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Woman_on_a_High_Stool</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Woman_on_a_High_Stool</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Woman_on_a_High_Stool</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Woman_on_a_High_Stool</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q8030744</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_on_a_High_Stool</field>
+</doc>
+</add>

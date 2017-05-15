@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Chess_Players</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Chess_Players</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Chess_Players_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/The_Chess_Players_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chess_Players</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Chess_Players</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://hi.dbpedia.org/resource/शतरंज_के_खिलाड़ी</field>
+<field name="sameAs">http://bn.dbpedia.org/resource/শতরঞ্জ_কি_খিলাড়ি</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1196533</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Chess_Players</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Шахматисты_(картина)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chess_Players</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04_1yt</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/The_Chess_Players_(pintura)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1876_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_chess</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="abstract">The Chess Players is a genre painting of 1876 by American artist Thomas Eakins (1844–1916). It is a small oil on wood panel depicting Eakins' father Benjamin observing a chess match. The two players are Bertrand Gardel (at left), an elderly French teacher, and the somewhat younger George Holmes, a painter. The men are in a dark, wood-panelled Victorian parlour with a quality of light suggesting late afternoon. The game is well in progress, as many pieces have been removed from the board. Holmes, the younger player, seems to be winning the match, as he has taken the queen of his opponent (the top of which pokes out of the table's drawer), and his own black queen is well-positioned in the centre of the board. Eakins painted The Chess Players for his father, and signed the painting in Latin, "BENJAMINI. EAKINS. FILIUS. PINXIT. '76"—"the son of Benjamin Eakins painted this"—in small letters on the drawer of the table. Author Martin Berger has analyzed the content of the painting in detail, finding it an evocation of the passage of time and ascribing it a highly personal meaning in Eakins' life. The younger chess player's attempt to kill the older player's king is analogous to the Oedipal complex. In the way that his father Benjamin is placed in opposition to Eakins the painter, the two may be envisioned as playing out a psychological "conflict" across the other axis of the chess board. In this light it is not coincidental that the painting was made on wood panel rather than canvas. While Eakins has humbled himself before his father in signing the painting only by reference to being Benjamin's son, he also presents his father ambivalently. Elevating his father's status, he places Benjamin centrally, with the vanishing point behind Benjamin's head. Yet Eakins has obscured his father's face by shadow and by the angle at which he looks down upon the game. Although the painting was dedicated to Benjamin, the title "The Chess Players" curiously leaves Eakins' father out of the narrative of the picture.</field>
+<field name="label">The Chess Players</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/84/The_chess_players_thomas_eakins.jpeg</field>
+<field name="comment">The Chess Players is a genre painting of 1876 by American artist Thomas Eakins (1844–1916). It is a small oil on wood panel depicting Eakins' father Benjamin observing a chess match. The two players are Bertrand Gardel (at left), an elderly French teacher, and the somewhat younger George Holmes, a painter. The men are in a dark, wood-panelled Victorian parlour with a quality of light suggesting late afternoon. The game is well in progress, as many pieces have been removed from the board.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/The_chess_players_thomas_eakins.jpeg/200px-The_chess_players_thomas_eakins.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Thomas_Eakins</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">The Chess Players</field>
+<field name="type">Oil on wood panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Chess_Players</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Chess_Players</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Шахматисты_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chess_Players</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1196533</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chess_Players</field>
+</doc>
+<doc>
+<field name="uri">http://bn.dbpedia.org/resource/শতরঞ্জ_কি_খিলাড়ি</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chess_Players</field>
+</doc>
+<doc>
+<field name="uri">http://hi.dbpedia.org/resource/शतरंज_के_खिलाड़ी</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chess_Players</field>
+</doc>
+</add>

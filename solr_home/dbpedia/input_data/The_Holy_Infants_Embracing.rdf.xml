@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Holy_Infants_Embracing</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Holy_Infants_Embracing</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Holy_Infants_Embracing</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02815wd</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Sfinții_sugari_îmbrățișându-se</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5237905</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Ar_vugale_oc'h_ober_pecheroù</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Leonardo_da_Vinci</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Museum_of_Capodimonte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Holy Infants Embracing is a painting ascribed to Leonardo da Vinci, housed in the Capodimonte Gallery in Naples, southern Italy. It is thought to represent the infant Christ embracing his cousin John the Baptist. The subject matter relates to the two paintings of the Virgin of the Rocks by Leonardo and numerous other Renaissance works by Raphael and others of the meeting of the two children on the road to Egypt while escaping the Massacre of the Innocents.</field>
+<field name="label">The Holy Infants Embracing</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1f/Holy-infs.jpg</field>
+<field name="comment">The Holy Infants Embracing is a painting ascribed to Leonardo da Vinci, housed in the Capodimonte Gallery in Naples, southern Italy. It is thought to represent the infant Christ embracing his cousin John the Baptist. The subject matter relates to the two paintings of the Virgin of the Rocks by Leonardo and numerous other Renaissance works by Raphael and others of the meeting of the two children on the road to Egypt while escaping the Massacre of the Innocents.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Holy-infs.jpg/200px-Holy-infs.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Holy_Infants_Embracing</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Holy_Infants_Embracing</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Holy_Infants_Embracing</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Holy_Infants_Embracing</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5237905</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Holy_Infants_Embracing</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Ar_vugale_oc'h_ober_pecheroù</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Holy_Infants_Embracing</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Sfinții_sugari_îmbrățișându-se</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Holy_Infants_Embracing</field>
+</doc>
+</add>

@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Federico_da_Montefeltro_col_figlio_Guidobaldo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Federico_da_Montefeltro_with_His_Son_Guidobaldo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Federico_da_Montefeltro_and_His_Son_Guidobaldo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Federico_da_Montefeltro_and_His_Son_Guidobaldo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Federico_da_Montefeltro_with_His_Son_Guidobaldo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Federico_da_Montefeltro_with_His_Son_Guidobaldo</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Federico_da_Montefeltro_with_His_Son_Guidobaldo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937523</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Federico_da_Montefeltro_col_figlio_Guidobaldo</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h66yd_</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Spanish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Galleria_Nazionale_delle_Marche</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Spanish_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_paintings</field>
+<field name="abstract">The Portrait of Federico da Montefeltro and His Son Guidobaldo is a painting by Spanish Renaissance artist Pedro Berruguete, dating from c. 1475 and housed in the Galleria nazionale delle Marche in Urbino, Italy. It is one of the main works executed by the Spanish painter at the court of condottiero and Duke of Urbino Federico III da Montefeltro, where he had been called to in 1474 together with another painter of the Flemish school, Justus van Gent.</field>
+<field name="label">Portrait of Federico da Montefeltro with His Son Guidobaldo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/94/Federico_montefeltro_and_son.jpg</field>
+<field name="comment">The Portrait of Federico da Montefeltro and His Son Guidobaldo is a painting by Spanish Renaissance artist Pedro Berruguete, dating from c. 1475 and housed in the Galleria nazionale delle Marche in Urbino, Italy. It is one of the main works executed by the Spanish painter at the court of condottiero and Duke of Urbino Federico III da Montefeltro, where he had been called to in 1474 together with another painter of the Flemish school, Justus van Gent.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Federico_montefeltro_and_son.jpg/200px-Federico_montefeltro_and_son.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pedro_Berruguete</field>
+<field name="city">http://dbpedia.org/resource/Urbino</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Ducale,_Urbino</field>
+<field name="title">Portrait of Ferderico da Montefeltro and His Son Guidobaldo</field>
+<field name="year">c. 1475</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Federico_da_Montefeltro_with_His_Son_Guidobaldo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Federico_da_Montefeltro_with_His_Son_Guidobaldo</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Federico_da_Montefeltro_with_His_Son_Guidobaldo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Federico_da_Montefeltro_with_His_Son_Guidobaldo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Guidobaldo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937523</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Federico_da_Montefeltro_with_His_Son_Guidobaldo</field>
+</doc>
+</add>

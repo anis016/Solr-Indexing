@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Prato)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Prato)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Crowning_with_Thorns_(Prato)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_coronación_de_espinas_(Caravaggio,_Prato)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1448701</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09fg69</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Incoronazione_di_spine_(Caravaggio_Prato)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Couronnement_d'épines_(Le_Caravage,_Prato)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Prato</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="abstract">The Crowning with Thorns was the subject of two paintings by the Italian master Caravaggio. The first version, dated to around 1604–1605, is now in the Cassa di Risparmi e Depositi of Palazzo degli Alberti, Prato. The attribution to Caravaggio is disputed. On June 25, 1605, Caravaggio wrote out, in his own hand, a contract to paint "a picture of the same size and value as the one I have already done for him of Christ's crowning", which restricts the Crowning to a period prior to this date. There is no firm evidence for a more precise dating, but the figure of Christ has been clearly influenced by the Christ in Ruben's altarpiece of The Crowning with Thorns in the Church of Santa Croce in Gerusalemme, Rome, completed in April 1602. The recipient of both the Crowning with Thorns and the Ecce Homo—the painting to which the contract relates—was Massimo Massimi, a wealthy financier and art collector in the circle of Caravaggio's patron Marchese Vincenzo Giustiniani. The actual date is disputed—John Gash (see References below) places it in 1601–1603. Stylistically the painting is based on Rubens's altarpiece for the pose of Christ and on Titian's treatment of the same subject (now in the Louvre) for the soldier with the staff behind Christ. But Caravaggio has reverted to the compact, symmetrical approach employed by 15th century artists, visible in, for example, the work of Hieronymous Bosch in Christ Mocked. The gestures which define the situation are restrained and understated—the almost imperceptible actions of the tormentors focus attention on Christ, who looks up, his bound hands slightly raised almost in forgiveness.</field>
+<field name="label">The Crowning with Thorns (Prato)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8f/CaravaggioCrowning01.jpg</field>
+<field name="comment">The Crowning with Thorns was the subject of two paintings by the Italian master Caravaggio. The first version, dated to around 1604–1605, is now in the Cassa di Risparmi e Depositi of Palazzo degli Alberti, Prato. The attribution to Caravaggio is disputed. On June 25, 1605, Caravaggio wrote out, in his own hand, a contract to paint "a picture of the same size and value as the one I have already done for him of Christ's crowning", which restricts the Crowning to a period prior to this date.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/CaravaggioCrowning01.jpg/200px-CaravaggioCrowning01.jpg</field>
+<field name="artist"/>
+<field name="height">178</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Crowning with Thorns I</field>
+<field name="type">Oil on canvas</field>
+<field name="width">125</field>
+<field name="year">c. 1604</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Crowning_with_Thorns_(Prato)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Crowning_with_Thorns_(Prato)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Crowning_with_Thorns_(Prato)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Prato)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Couronnement_d'épines_(Le_Caravage,_Prato)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Prato)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Prato)_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crowning_with_Thorns_I_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Incoronazione_di_spine_(Caravaggio_Prato)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Prato)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_coronación_de_espinas_(Caravaggio,_Prato)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Prato)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1448701</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Prato)</field>
+</doc>
+</add>

@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vase_with_Red_Poppies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmdcph</field>
+<field name="sameAs">http://dbpedia.org/resource/Vase_with_Red_Poppies</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7916475</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Vase_with_Red_Poppies</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Paris</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1886_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="abstract">Vase with Red Poppies was a painting made by Vincent van Gogh in Paris in 1886.</field>
+<field name="label">Vase with Red Poppies</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/58/Van_Gogh_-_Vase_mit_rotem_Klatschmohn.jpeg</field>
+<field name="comment">Vase with Red Poppies was a painting made by Vincent van Gogh in Paris in 1886.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Van_Gogh_-_Vase_mit_rotem_Klatschmohn.jpeg/200px-Van_Gogh_-_Vase_mit_rotem_Klatschmohn.jpeg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Vase with Red Poppies</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Vase_with_Red_Poppies</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Vase_with_Red_Poppies</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Vase_with_Red_Poppies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Vase_with_Red_Poppies</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7916475</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vase_with_Red_Poppies</field>
+</doc>
+</add>

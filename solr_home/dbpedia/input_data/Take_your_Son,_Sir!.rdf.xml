@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Take_your_Son,_Sir!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qsvqr</field>
+<field name="sameAs">http://dbpedia.org/resource/Take_your_Son,_Sir!</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7677949</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Take_your_Son,_Sir!</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ford_Madox_Brown</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Unfinished_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1856_paintings</field>
+<field name="abstract">Take Your Son, Sir! (1851-6) is an unfinished painting by Ford Madox Brown which depicts a woman showing her newborn son to its father. She is offering her baby towards the viewer of the painting, who is implicitly equated with the father - seen in the mirror behind, opening his arms to receive the baby. The mirror also forms a halo behind the mother's head, and the pattern on the wallpaper suggests the starry heavens. Brown's principal influence was Jan van Eyck's painting the Arnolfini Marriage Portrait, recently acquired by the National Gallery. The mirror resembles the circular mirror in van Eyck's painting, which reflects an image of the artist looking at the couple in the image. The woman is wearing crinolines, which expand to cover the whole of the lower part of the painting. Brown has left this part incomplete, roughly squaring up and sketching the dress in outline. The title is written on the unfinished dress, underneath the child at the right. Brown's own wife was pregnant whilst he was painting this picture and she gave birth to a son which they named Arthur. Arthur then died at just ten months old and it is considered Brown was unable to complete the painting through grief for his son, so he abandoned it.</field>
+<field name="label">Take your Son, Sir!</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5d/Take_your_son.jpg</field>
+<field name="comment">Take Your Son, Sir! (1851-6) is an unfinished painting by Ford Madox Brown which depicts a woman showing her newborn son to its father. She is offering her baby towards the viewer of the painting, who is implicitly equated with the father - seen in the mirror behind, opening his arms to receive the baby. The mirror also forms a halo behind the mother's head, and the pattern on the wallpaper suggests the starry heavens.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Take_your_son.jpg/200px-Take_your_son.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ford_Madox_Brown</field>
+<field name="city"/>
+<field name="height">38.1</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum"/>
+<field name="title">Take your son, Sir!</field>
+<field name="width">70.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Take_your_Son,_Sir!</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Take_your_Son,_Sir!</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Take_Your_Son,_Sir</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Take_your_Son,_Sir%3F</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Take_your_Son,_Sir!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Take_your_Son,_Sir!</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7677949</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Take_your_Son,_Sir!</field>
+</doc>
+</add>

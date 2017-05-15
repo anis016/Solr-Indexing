@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Fra_Angelico,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c3wz3_</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2378567</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Annunciation_(Fra_Angelico,_Madrid)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Благовещение_(Фра_Анжелико,_Прадо)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Anunciación_(Fra_Angelico,_Madrid)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_(Angelico_Prado)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Annonciation_(Fra_Angelico,_Madrid)</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Fra_Angelico,_Madrid)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Zwiastowanie_(obraz_Fra_Angelica)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Fra_Angelico</field>
+<field name="abstract">The Annunciation is a panel-painting altarpiece or retable by Fra Angelico, produced for the Convent of San Domenico in Fiesole and now in the Prado in Madrid. 30px External video 16px Smarthistory - Fra Angelico's The Annunciation (Prado)</field>
+<field name="label">Annunciation (Fra Angelico, Madrid)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fe/Angelico,_prado.jpg</field>
+<field name="comment">The Annunciation is a panel-painting altarpiece or retable by Fra Angelico, produced for the Convent of San Domenico in Fiesole and now in the Prado in Madrid. 30px External video 16px Smarthistory - Fra Angelico's The Annunciation (Prado)</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Angelico,_prado.jpg/200px-Angelico,_prado.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/fra-angelico-annunciation.html</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Annunciation_(Fra_Angelico,_Madrid)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Annunciation_(Fra_Angelico,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_(Angelico_Prado)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Fra_Angelico,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Zwiastowanie_(obraz_Fra_Angelica)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Fra_Angelico,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Благовещение_(Фра_Анжелико,_Прадо)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Fra_Angelico,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Anunciación_(Fra_Angelico,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Fra_Angelico,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Annunciation_(Fra_Angelico,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Annunciation_(Fra_Angelico,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Annonciation_(Fra_Angelico,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Fra_Angelico,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2378567</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Fra_Angelico,_Madrid)</field>
+</doc>
+</add>

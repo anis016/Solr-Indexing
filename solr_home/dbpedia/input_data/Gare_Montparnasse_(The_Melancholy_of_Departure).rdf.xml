@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gare_Montparnasse_(The_Melancholy_of_Departure)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Gare_Montparnasse_(The_Melancholy_of_Departure)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5522671</field>
+<field name="sameAs">http://dbpedia.org/resource/Gare_Montparnasse_(The_Melancholy_of_Departure)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d80h8</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1914_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">Gare Montparnasse (The Melancholy of Departure) (1914) is a painting by the Greek-Italian metaphysical painter Giorgio de Chirico. Many of de Chirico’s works were inspired by the introspective feelings evoked by travel. He was born in Greece to Italian parents. This work was painted during a period when he lived in Paris. The painting depicts the Gare Montparnasse train station in Paris, France. It is a classic example of de Chirico’s style, depicting an angular perspective on an outdoor architectural setting in the long shadows and deep colors of early evening. On the horizon is a steam train with a plume of white smoke billowing away from it. The train image appears several times in de Chirico's work. In the foreground is a bunch of bananas, another recurring image in de Chirico's work. In 1916, de Chirico painted another work simply titled The Melancholy of Departure. In 1987, the American jazz musicians Mark Isham and Art Lande released a song titled "The Melancholy of Departure" on their collaborative album We Begin.</field>
+<field name="label">Gare Montparnasse (The Melancholy of Departure)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e6/Gare_Montparnasse.jpg</field>
+<field name="comment">Gare Montparnasse (The Melancholy of Departure) (1914) is a painting by the Greek-Italian metaphysical painter Giorgio de Chirico. Many of de Chirico’s works were inspired by the introspective feelings evoked by travel. He was born in Greece to Italian parents. This work was painted during a period when he lived in Paris. The painting depicts the Gare Montparnasse train station in Paris, France.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Gare_Montparnasse.jpg/200px-Gare_Montparnasse.jpg</field>
+<field name="link_external">http://www.moma.org/collection/object.php?object_id=80538</field>
+<field name="artist">http://dbpedia.org/resource/Giorgio_de_Chirico</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">140</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Gare Montparnasse</field>
+<field name="width">184.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Gare_Montparnasse_(The_Melancholy_of_Departure)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Gare_Montparnasse_(The_Melancholy_of_Departure)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Gare_Montparnasse_(The_Melancholy_of_Departure)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Gare_Montparnasse_(The_Melancholy_of_Departure)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5522671</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gare_Montparnasse_(The_Melancholy_of_Departure)</field>
+</doc>
+</add>

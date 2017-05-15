@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Penis_Landscape</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Penis_Landscape</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05mb7s</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7163005</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Penis_Landscape</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Penis</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1973_paintings</field>
+<field name="abstract">Penis Landscape, or Work 219: Landscape XX is a painting by H. R. Giger. Created in 1973, airbrushed acrylic on paper-covered wood, it measures 70 by 100 centimetres (by in). It depicts a number of penises entering vaginas, arranged in a alternating pattern. One is wearing a condom. It came to fame for the part it played in the trial of Jello Biafra after the Dead Kennedys featured it as a poster included with their album Frankenchrist. The choice of the painting came as the result of a comment by Jello Biafra to his then roommate DK artist, Jayed Scotti, art partners with Winston Smith. Biafra showed Scotti a copy of Omni magazine showing several works of art by Giger, including "Penis Landscape", printed in 1977, for a Paris art collection. Biafra said he wanted to use the piece on the upcoming album cover. Scotti phoned New York agent, Les Bareny and explained the project. Bareny contacted Giger to ask permission, then contacted Mike Bananno of Alternative Tentacles Records, Giger agreed to let the label use a reproduction chrome of the artwork for $600, half the usual price. Biafra presented the idea to the other members of the band but the idea was rejected as the album cover and as an interior gatefold double LP album. Finally it was accepted as an inserted poster. Jayed Scotti created the production mechanicals by hand for the poster. The poster was printed and inserted in the Frankenchrist album with an additional sticker on the outside shrinkwrap, warning buyers of the contents. The resulting trial for obscenity nearly drove the label into bankruptcy.</field>
+<field name="label">Penis Landscape</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/17/Penis_Landscape.jpg</field>
+<field name="comment">Penis Landscape, or Work 219: Landscape XX is a painting by H. R. Giger. Created in 1973, airbrushed acrylic on paper-covered wood, it measures 70 by 100 centimetres (by in). It depicts a number of penises entering vaginas, arranged in a alternating pattern. One is wearing a condom. It came to fame for the part it played in the trial of Jello Biafra after the Dead Kennedys featured it as a poster included with their album Frankenchrist.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Penis_Landscape.jpg/200px-Penis_Landscape.jpg</field>
+<field name="link_external">http://www.wired.com/underwire/2010/02/hr-gigers-cyborg-horror-merges-sex-tech-legend/7/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Penis_Landscape</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Penis_Landscape</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Work_219:_Landscape_XX</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Penis_Landscape</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Penis_Landscape</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7163005</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Penis_Landscape</field>
+</doc>
+</add>

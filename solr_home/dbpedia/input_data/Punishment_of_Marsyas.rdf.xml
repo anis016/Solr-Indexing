@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Punishment_of_Marsyas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Punishment_of_Marsyas</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Punizione_di_Marsia_(Tiziano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Punishment_of_Marsyas</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Punishment_of_Marsyas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3925598</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Punishment_of_Marsyas</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fq2d20</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Punizione_di_Marsia_(Tiziano)</field>
+<field name="sameAs">http://dbpedia.org/resource/Punishment_of_Marsyas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1570s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="abstract">The Punishment of Marsyas (also known as The Flaying of Marsyas) is a painting by the Italian late Renaissance artist Titian, executed around 1570-1576. It is currently housed in National Museum in Kroměříž, in the Czech Republic. It's Titian's last finished work.</field>
+<field name="label">Punishment of Marsyas</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/40/TItian_-_The_Flaying_of_Marsyas.jpg</field>
+<field name="comment">The Punishment of Marsyas (also known as The Flaying of Marsyas) is a painting by the Italian late Renaissance artist Titian, executed around 1570-1576. It is currently housed in National Museum in Kroměříž, in the Czech Republic. It's Titian's last finished work.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/TItian_-_The_Flaying_of_Marsyas.jpg/200px-TItian_-_The_Flaying_of_Marsyas.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Krom%C4%9B%C5%99%C3%AD%C5%BE</field>
+<field name="height">212</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Punishment of Marsyas</field>
+<field name="width">207</field>
+<field name="year">c. 1570-1576</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Punishment_of_Marsyas</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Punishment_of_Marsyas</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Flaying_of_Marsyas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Punishment_of_Marsyas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3925598</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Punishment_of_Marsyas</field>
+</doc>
+</add>

@@ -1,0 +1,111 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_Bücherwurm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bookworm_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ο_βιβλιοφάγος</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Rat_de_bibliothèque</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Книжный_червь_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_ratón_de_biblioteca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Bookworm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Книжковий_хробак_(картина)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Rat_de_bibliothèque</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Кніжны_чарвяк,_карціна</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_Bücherwurm</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Книжный_червь_(картина)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Bookworm</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/A_könyvmoly</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q468217</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_ratón_de_biblioteca</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ο_βιβλιοφάγος</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03gx5lm</field>
+<field name="sameAs">http://ta.dbpedia.org/resource/புத்தகப்புழு_(ஓவியம்)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1850_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:German_paintings</field>
+<field name="abstract">The Bookworm is an 1850 oil-on-canvas painting by the German painter and poet Carl Spitzweg. The picture is typical of Spitzweg's humorous, anecdotal style and it is characteristic of Biedermeier art in general. The painting is representative of the introspective and conservative mood in Europe during the period between the end of the Napoleonic Wars and the revolutions of 1848, but at the same time pokes fun at those attitudes by embodying them in the fusty old scholar unconcerned with the affairs of the mundane world.</field>
+<field name="label">The Bookworm</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/04/Carl_Spitzweg_021.jpg</field>
+<field name="comment">The Bookworm is an 1850 oil-on-canvas painting by the German painter and poet Carl Spitzweg. The picture is typical of Spitzweg's humorous, anecdotal style and it is characteristic of Biedermeier art in general.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Carl_Spitzweg_021.jpg/200px-Carl_Spitzweg_021.jpg</field>
+<field name="link_external">http://findarticles.com/p/articles/mi_m2242/is_n1542_v265/ai_15695159/pg_1</field>
+<field name="artist">http://dbpedia.org/resource/Carl_Spitzweg</field>
+<field name="city">http://dbpedia.org/resource/Schweinfurt</field>
+<field name="city">http://dbpedia.org/resource/Germany</field>
+<field name="height">49.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_Georg_Sch%C3%A4fer</field>
+<field name="title">The Bookworm</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">26.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Bookworm</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Bookworm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q468217</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Кніжны_чарвяк,_карціна</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/A_könyvmoly</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://ta.dbpedia.org/resource/புத்தகப்புழு_(ஓவியம்)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Книжковий_хробак_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bookworm</field>
+</doc>
+</add>

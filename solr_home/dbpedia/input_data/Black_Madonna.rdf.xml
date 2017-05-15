@@ -1,0 +1,197 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_mary</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Schwarze_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_Nera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/黒い聖母</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_Madona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Virgen_Morena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.01pl8j</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Black_Madonna</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Siyah_Meryem</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Den_sorte_madonna</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Чёрная_мадонна</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Virgem_Negra</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Đức_Bà_Đen</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Schwarze_Madonna</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Черна_Мадона</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_Nera</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Zwarte_madonna</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Vierge_noire</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/مریم_عذرای_سیاه</field>
+<field name="sameAs">http://lb.dbpedia.org/resource/Schwaarz_Muttergottes</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Vírgenes_negras</field>
+<field name="sameAs">http://th.dbpedia.org/resource/แม่พระฉวีดำ</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/黒い聖母</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Czarna_Madonna</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/Nigra_madono</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1435706</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Musta_madonna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Catholic_Church_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Catholic_Church_sculpture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Virgin_Mary_in_art</field>
+<field name="abstract">A Black Madonna or Black Virgin is a statue or painting of Mary in which she is depicted with dark skin, especially those created in Europe in the medieval period or earlier. These are the original paintings and statue of Madonna. However, they were changed from a dark image to a white image in North America.</field>
+<field name="label">Black Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/30/Czestochowska.jpg</field>
+<field name="comment">A Black Madonna or Black Virgin is a statue or painting of Mary in which she is depicted with dark skin, especially those created in Europe in the medieval period or earlier. These are the original paintings and statue of Madonna. However, they were changed from a dark image to a white image in North America.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Czestochowska.jpg/200px-Czestochowska.jpg</field>
+<field name="link_external">http://www.udayton.edu/mary/meditations/olmont.html</field>
+<field name="link_external">http://web.archive.org/web/20060525045502/http:/www.jasnagora.pl/english/</field>
+<field name="link_external">http://www.flickr.com/groups/blackmadonnas/</field>
+<field name="link_external">http://web.archive.org/web/20080212140921/http:/www.dominicos.org/atocha/</field>
+<field name="link_external">http://web.archive.org/web/20080207173131/http:/shell.amigo.net/~ma3/BVshortlist.html</field>
+<field name="link_external">http://www.theworkofgod.org/Aparitns/Others2.htm#Black%20Madonna</field>
+<field name="link_external">http://web.archive.org/web/20071208094245/http:/www.gate-travel.org/Articles/France_Pilgrimage</field>
+<field name="link_external">http://www.udayton.edu/mary/resources/blackm/blackm.html</field>
+<field name="link_external">http://www.ancientquest.com/embark/blackvirgin.html</field>
+<field name="link_external">http://www.udayton.edu/mary/meditations/blackmdn.html</field>
+<field name="link_external">http://www.msgr.ca/msgr%2D3/black%5Fmadonna%5Fczestochowa.htm</field>
+<field name="link_external">http://web.archive.org/web/20060628065047/http:/www.bbc.co.uk/religion/religions/christianity/features/black_madonna/</field>
+<field name="link_external">http://www.interfaithmary.net/pages/blackmadonna.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Black_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_Virgin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Vírgenes_negras</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Vierge_noire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Czarna_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Black_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Virgem_Negra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Чёрная_мадонна</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Zwarte_madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_Madonna_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1435706</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Черна_Мадона</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Den_sorte_madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/Nigra_madono</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/مریم_عذرای_سیاه</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Musta_madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://lb.dbpedia.org/resource/Schwaarz_Muttergottes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/แม่พระฉวีดำ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Siyah_Meryem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Đức_Bà_Đen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Madonna</field>
+</doc>
+</add>

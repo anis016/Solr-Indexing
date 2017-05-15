@@ -1,0 +1,77 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medusa_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Meduza_(obraz_Leonarda_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Meduza_(obraz_Leonarda_da_Vinci)</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci_painting)</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Medusa_(pictură_de_Leonardo_da_Vinci)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026qg59</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3492887</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Medusa_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Medusa_(Leonardo_da_Vinci_painting)</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/ميدوسا_(لوحة)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Leonardo_da_Vinci</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lost_paintings</field>
+<field name="abstract">Medusa is either of two paintings described in Giorgio Vasari's Life of Leonardo da Vinci as being among Leonardo's earliest works. Neither painting survives.</field>
+<field name="label">Medusa (Leonardo da Vinci painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/44/Medusa_uffizi.jpg</field>
+<field name="comment">Medusa is either of two paintings described in Giorgio Vasari's Life of Leonardo da Vinci as being among Leonardo's earliest works. Neither painting survives.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Medusa_uffizi.jpg/200px-Medusa_uffizi.jpg</field>
+<field name="link_external">http://www-class.unl.edu/ahis398b/classmats/vasari.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Medusa_(Leonardo_da_Vinci_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Medusa_(Leonardo_da_Vinci_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Medusa_(Leonardo_da_Vinci_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medusa_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3492887</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/ميدوسا_(لوحة)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Medusa_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Medusa_(pictură_de_Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Leonardo_da_Vinci_painting)</field>
+</doc>
+</add>

@@ -1,0 +1,95 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Golconda_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09_6ys</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Golconde</field>
+<field name="sameAs">http://sl.dbpedia.org/resource/Golconda_(slika)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Golconde_(Magritte)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Golconda_(Bild)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Golconda_(painting)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Golconda_(Magritte)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q663481</field>
+<field name="sameAs">http://dbpedia.org/resource/Golconda_(painting)</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/گولکوند</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1953_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">Golconda is an oil painting on canvas by Belgian surrealist René Magritte, painted in 1953. It is usually housed at the Menil Collection in Houston, Texas. The piece depicts a scene of nearly identical men dressed in dark overcoats and bowler hats, who seem to be drops of heavy rain (or to be floating like helium balloons, though there is no actual indication of motion), against a backdrop of buildings and blue sky. The men are spaced in hexagonal grids facing the viewpoint and receding back in grid layers. Magritte himself lived in a similar suburban environment, and dressed in a similar fashion. The bowler hat was a common feature of much of his work, and appears in paintings like The Son of Man. Charly Herscovici, who was bequeathed copyright on the artist's works, commented on Golconda: "Magritte was fascinated by the seductiveness of images. Ordinarily, you see a picture of something and you believe in it, you are seduced by it; you take its honesty for granted. But Magritte knew that representations of things can lie. These images of men aren't men, just pictures of them, so they don't have to follow any rules. This painting is fun, but it also makes us aware of the falsity of representation. " One interpretation is that Magritte is demonstrating the line between individuality and group association, and how it is blurred. All of these men are dressed the same, have the same bodily features and are all floating/falling. This leaves us to look at the men as a group. Whereas if we look at each person, we can predict that they may be completely different to another figure. As was often the case with Magritte's works, the title Golconda was found by his poet friend Louis Scutenaire. Golkonda is a ruined city in the state of Andhra Pradesh, India, near Hyderabad, which from the mid-14th century until the end of the 17th was the capital of two successive kingdoms; the fame it acquired through being the center of the region's legendary diamond industry was such that its name remains, according to the Oxford English Dictionary, "a synonym for 'mine of wealth'. " Magritte included a likeness of Scutenaire in the painting – his face is used for the large man by the chimney of the house on the right of the picture.</field>
+<field name="label">Golconda (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/71/Golconde.jpg</field>
+<field name="comment">Golconda is an oil painting on canvas by Belgian surrealist René Magritte, painted in 1953. It is usually housed at the Menil Collection in Houston, Texas. The piece depicts a scene of nearly identical men dressed in dark overcoats and bowler hats, who seem to be drops of heavy rain (or to be floating like helium balloons, though there is no actual indication of motion), against a backdrop of buildings and blue sky.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Golconde.jpg/200px-Golconde.jpg</field>
+<field name="link_external">http://www.museumnetwork.com/entertainment/_talking_points/magritte_herscovici/magritte_herscovici_home.asp</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="city">http://dbpedia.org/resource/Houston</field>
+<field name="height">81</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Menil_Collection</field>
+<field name="title">Golconde</field>
+<field name="width">100</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Golconda_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Golconda_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Golconda_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Golconda_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Golconde_(Magritte)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Golconda_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Golconde</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Golconda_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Golconda_(Bild)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Golconda_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Golconda_(Magritte)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Golconda_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q663481</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Golconda_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/گولکوند</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Golconda_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://sl.dbpedia.org/resource/Golconda_(slika)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Golconda_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Golconde</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Golconda_(painting)</field>
+</doc>
+</add>

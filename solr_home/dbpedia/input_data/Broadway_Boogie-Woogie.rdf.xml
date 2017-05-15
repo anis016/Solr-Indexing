@@ -1,0 +1,87 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Broadway_Boogie_Woogie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+<field name="sameAs">http://dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2915406</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04tj_q</field>
+<field name="sameAs">http://he.dbpedia.org/resource/ברודוויי_בוגי_ווגי</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Broadway_Boogie_Woogie</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/百老匯爵士樂</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Broadway_Boogie-Woogie</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1943_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:De_Stijl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piet_Mondrian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="abstract">Broadway Boogie-Woogie is a painting by Piet Mondrian completed in 1943, shortly after he moved to New York in 1940. Compared to his earlier work, the canvas is divided into a much larger number of squares. Although he spent most of his career creating abstract work, this painting is inspired by clear real-world examples: the city grid of Manhattan, and the boogie woogie music to which Mondrian loved to dance. The painting is owned by the Museum of Modern Art in New York City.</field>
+<field name="label">Broadway Boogie-Woogie</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/13/Mondrian_Broadway_Boogie_Woogie.jpg</field>
+<field name="comment">Broadway Boogie-Woogie is a painting by Piet Mondrian completed in 1943, shortly after he moved to New York in 1940. Compared to his earlier work, the canvas is divided into a much larger number of squares. Although he spent most of his career creating abstract work, this painting is inspired by clear real-world examples: the city grid of Manhattan, and the boogie woogie music to which Mondrian loved to dance. The painting is owned by the Museum of Modern Art in New York City.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Mondrian_Broadway_Boogie_Woogie.jpg/200px-Mondrian_Broadway_Boogie_Woogie.jpg</field>
+<field name="link_external">http://www.pietmondrian.info/how-to-see-bbw/how-to-see-broadway-boogie-woogie.html</field>
+<field name="link_external">http://www.moma.org/collection/browse_results.php?object_id=78682''Broadway</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">127</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Broadway Boogie Woogie</field>
+<field name="type">Oil on canvas</field>
+<field name="width">127</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Broadway_Boogie-Woogie</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Broadway_Boogie-Woogie</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Broadway_Boogie-Woogie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/百老匯爵士樂</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/ברודוויי_בוגי_ווגי</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Broadway_Boogie_Woogie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2915406</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Broadway_Boogie-Woogie</field>
+</doc>
+</add>

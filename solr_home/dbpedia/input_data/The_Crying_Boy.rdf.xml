@@ -1,0 +1,98 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crying_Boy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Bruno_Amadio</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Плачущий_мальчик</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0f35bt</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_niño_que_llora</field>
+<field name="sameAs">http://ms.dbpedia.org/resource/Lukisan_the_crying_boy</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/لوحة_الطفل_الباكي</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Gråtande_barn</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2461258</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Quadros_das_Crianças_Chorando</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הילד_הבוכה</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Ağlayan_Çocuk</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crying_Boy</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Crying_Boy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Curses</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="abstract">The Crying Boy is a mass-produced print of a painting by Italian painter Bruno Amadio, also known as Giovanni Bragolin. It was widely distributed from the 1950s onwards. There are numerous alternative versions, all portraits of tearful young boys or girls.</field>
+<field name="label">The Crying Boy</field>
+<field name="comment">The Crying Boy is a mass-produced print of a painting by Italian painter Bruno Amadio, also known as Giovanni Bragolin. It was widely distributed from the 1950s onwards. There are numerous alternative versions, all portraits of tearful young boys or girls.</field>
+<field name="link_external">http://www.forteantimes.com/features/articles/1308/the_curse_of_the_crying_boy.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Crying_Boy</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Crying_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crying_Boy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Quadros_das_Crianças_Chorando</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crying_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Плачущий_мальчик</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crying_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Crying_Boy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Crying_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crying_Boys</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2461258</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crying_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_niño_que_llora</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crying_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/لوحة_الطفل_الباكي</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crying_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הילד_הבוכה</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crying_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://ms.dbpedia.org/resource/Lukisan_the_crying_boy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crying_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Gråtande_barn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crying_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Ağlayan_Çocuk</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crying_Boy</field>
+</doc>
+</add>

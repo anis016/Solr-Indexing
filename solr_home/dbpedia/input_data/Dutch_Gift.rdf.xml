@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Holländisches_Geschenk</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dutch_Gift</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dutch_Gift</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Dutch_Gift</field>
+<field name="sameAs">http://dbpedia.org/resource/Dutch_Gift</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Holländisches_Geschenk</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03ccvl6</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Dutch_Gift</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ของขวัญดัตช์</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1165096</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Netherlands%E2%80%93United_Kingdom_relations</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sculptures_of_the_Royal_Collection_of_the_United_Kingdom</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Foreign_relations_of_England</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Collection_of_the_United_Kingdom</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Charles_II_of_England</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660_in_international_relations</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="abstract">The Dutch Gift of 1660 was a collection of 28 mostly Italian Renaissance paintings and 12 classical sculptures, along with a yacht, the Mary, and furniture, which was presented to King Charles II of England by the States-General of the Netherlands in 1660. In July 1660 Louis of Nassau arrived in London; his countrymen Simon van Hoorn, curator of the Athenaeum Illustre, Michiel van Gogh from Vlissingen and the (catholic) Joachim Ripperda arrived in November to negotiate the Act of Navigation and to present Charles II the Gift The collection was given to Charles II to mark his return to power in the English Restoration, before which Charles had spent many years in exile in Paris, Cologne, and the Spanish Netherlands, during the rule of the English Commonwealth. It was intended to strengthen diplomatic relations between England and the Republic, but only a few years after the gift the two nations would be at war again in the Second Anglo-Dutch War of 1665–67. Most of the paintings and all the Roman sculptures were from the Reynst collection, the most important seventeenth-century Dutch collection of paintings of the Italian sixteenth century, formed in Venice by Jan Reynst (1601–1646) and extended by his brother, Gerrit Reynst (1599–1658). The gift reflected the taste Charles shared with his father, Charles I, whose large collection, one of the most magnificent in Europe, had mostly been sold abroad after he was executed in 1649. Charles II was not as keen a collector as his father, but appreciated art and was later able to recover a good number of the items from the pre-war collection that remained in England, as well as purchasing many further paintings, and many significant old master drawings. Some decades later, there was a reverse movement when 36 paintings from the English Royal Collection, including at least one of those given in 1660, were taken by the Dutch King William III of England to his Dutch palace of Het Loo. His English successor, Queen Anne, tried to recover these after William's death in 1702, but failed, and they mostly remain in Dutch public collections. Fourteen paintings from the 1660 gift remain in the Royal Collection, with others now in different collections around the world.</field>
+<field name="label">Dutch Gift</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d9/Andrea_Odoni_(1527);_Lorenzo_Lotto.JPG</field>
+<field name="comment">The Dutch Gift of 1660 was a collection of 28 mostly Italian Renaissance paintings and 12 classical sculptures, along with a yacht, the Mary, and furniture, which was presented to King Charles II of England by the States-General of the Netherlands in 1660.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Andrea_Odoni_(1527);_Lorenzo_Lotto.JPG/200px-Andrea_Odoni_(1527);_Lorenzo_Lotto.JPG</field>
+<field name="link_external">http://www.jstor.org/pss/870206</field>
+<field name="link_external">http://www.jstor.org/pss/870311</field>
+<field name="link_external">http://www.jstor.org/pss/870340</field>
+<field name="link_external">http://www.jstor.org/pss/870401</field>
+<field name="link_external">http://www.royalcollection.org.uk/egallery/searchResults.asp?searchText=&amp;title=&amp;rccode=&amp;makerName=&amp;category=AAPICTURES&amp;collector=KC2&amp;theme=&amp;startYear=&amp;endYear=&amp;row=0</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Dutch_Gift</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dutch_Gift</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Dutch_Gift</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Dutch_Gift</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Dutch_Gift</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dutch_Gift</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1165096</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dutch_Gift</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ของขวัญดัตช์</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dutch_Gift</field>
+</doc>
+</add>

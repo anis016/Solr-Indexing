@@ -1,0 +1,87 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Bélisaire_demandant_l'aumône</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Belisarius_Begging_for_Alms</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Belisario_chiede_l'elemosina</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Belisarius_Begging_for_Alms</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Belisario_(David)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Belisarius_Begging_for_Alms</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Belisarius_Begging_for_Alms</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Bélisaire_demandant_l'aumône</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Belizarie_cerșind</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Belisario_(David)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f83m_</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Велізарій_просить_милостиню</field>
+<field name="sameAs">http://dbpedia.org/resource/Belisarius_Begging_for_Alms</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2698149</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Belisarius_Begging_for_Alms</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Belisario_chiede_l'elemosina</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Byzantine_Empire_in_art_and_culture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1781_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jacques-Louis_David</field>
+<field name="abstract">Belisarius Begging for Alms (French: Bélisaire demandant l'aumône) is a large-format (288 × 312 cm) history painting in oil on canvas by Jacques-Louis David. It depicts the Byzantine general Belisarius, who heroically defeated the Vandals in North Africa in AD 533–534 on behalf of Justinian I, and (according to an apocryphal account probably added to his biography in the Middle Ages) was later blinded by the emperor and reduced to begging for alms on the street. David exhibited the work at the Salon of 1781 after returning from Italy and it proved a great success. It is now on show at the Palais des Beaux-Arts in Lille.</field>
+<field name="label">Belisarius Begging for Alms</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b1/David_-_Belisarius.jpg</field>
+<field name="comment">Belisarius Begging for Alms (French: Bélisaire demandant l'aumône) is a large-format (288 × 312 cm) history painting in oil on canvas by Jacques-Louis David. It depicts the Byzantine general Belisarius, who heroically defeated the Vandals in North Africa in AD 533–534 on behalf of Justinian I, and (according to an apocryphal account probably added to his biography in the Middle Ages) was later blinded by the emperor and reduced to begging for alms on the street.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/David_-_Belisarius.jpg/200px-David_-_Belisarius.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Jacques-Louis_David</field>
+<field name="city">http://dbpedia.org/resource/Lille</field>
+<field name="height">288</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Palais_des_Beaux-Arts_de_Lille</field>
+<field name="title">Belisarius Begging for Alms</field>
+<field name="type">oil on canvas</field>
+<field name="width">312</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Belisarius_Begging_for_Alms</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Belisarius_Begging_for_Alms</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Belisarius_Begging_for_Alms</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Belisarius_Begging_for_Alms</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Belisarius_begging_alms</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Belisarius_begging_for_alms</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Belizarie_cerșind</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Belisarius_Begging_for_Alms</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Велізарій_просить_милостиню</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Belisarius_Begging_for_Alms</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2698149</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Belisarius_Begging_for_Alms</field>
+</doc>
+</add>

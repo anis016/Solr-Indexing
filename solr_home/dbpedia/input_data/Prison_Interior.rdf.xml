@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Prison_Interior</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Prison_Interior</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Prison_Interior</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Prison_Interior</field>
+<field name="sameAs">http://dbpedia.org/resource/Prison_Interior</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7245744</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b76v5b</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1808_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1812_paintings</field>
+<field name="abstract">Prison Interior is an oil on canvas painting completed by the Spanish artist Francisco Goya (1746–1828) between 1793-94. The painting is bathed in a dim, cold light which gives it look feeling of purgatory. It is one of a number of works the artist made of scenes set in lunatic asylums, including Yard with Lunatics (1793–1794) and The Madhouse (1812-1813). These works were painted at a time when mad-houses were 'holes in the social surface, small dumps into which the psychotic could be thrown without the smallest attempt to discover, classify, or treat the nature of their illness. " Goya often feared for his own sanity, a fact which underscores these works with feelings of dread.</field>
+<field name="label">Prison Interior</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ea/Prison_Interior_Goya.jpg</field>
+<field name="comment">Prison Interior is an oil on canvas painting completed by the Spanish artist Francisco Goya (1746–1828) between 1793-94. The painting is bathed in a dim, cold light which gives it look feeling of purgatory. It is one of a number of works the artist made of scenes set in lunatic asylums, including Yard with Lunatics (1793–1794) and The Madhouse (1812-1813).</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Prison_Interior_Goya.jpg/200px-Prison_Interior_Goya.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Prison_Interior</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Prison_Interior</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7245744</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prison_Interior</field>
+</doc>
+</add>

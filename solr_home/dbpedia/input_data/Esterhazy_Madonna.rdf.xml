@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Esterhazy_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h40nw</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Madonna_Esterhazy</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Esterhazy_Madonna</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Madonna_Esterxazi</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_Esterhazy</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_Esterházy</field>
+<field name="sameAs">http://dbpedia.org/resource/Esterhazy_Madonna</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2283808</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nude_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1508_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_of_Fine_Arts_(Budapest)</field>
+<field name="abstract">The Esterhazy Madonna is a 1508 painting by Raphael, held at the Museum of Fine Arts in Budapest, in Hungary. It was stolen on the night of 5 November 1983, along with other works by Raphael, Giorgione, Tintoretto and Tiepolo - all the works, including this one, were recovered by the Italian Carabinieri in an abandoned Greek convent near Aigio.</field>
+<field name="label">Esterhazy Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/23/Raffael_029.jpg</field>
+<field name="comment">The Esterhazy Madonna is a 1508 painting by Raphael, held at the Museum of Fine Arts in Budapest, in Hungary. It was stolen on the night of 5 November 1983, along with other works by Raphael, Giorgione, Tintoretto and Tiepolo - all the works, including this one, were recovered by the Italian Carabinieri in an abandoned Greek convent near Aigio.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Raffael_029.jpg/200px-Raffael_029.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Budapest</field>
+<field name="height">29</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts_(Budapest)</field>
+<field name="title">Esterhazy Madonna</field>
+<field name="type">oil on canvas</field>
+<field name="width">21.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Esterhazy_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Esterhazy_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_Esterhazy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Esterhazy_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Esterhazy_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Esterhazy_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_Esterházy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Esterhazy_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2283808</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Esterhazy_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Madonna_Esterxazi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Esterhazy_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Madonna_Esterhazy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Esterhazy_Madonna</field>
+</doc>
+</add>

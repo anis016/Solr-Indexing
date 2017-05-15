@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Paesaggio_vicino_Figueres</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_Near_Figueras</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Пейзаж_близ_Фигераса</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_Near_Figueras</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_Near_Figueras</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Paesaggio_vicino_Figueres</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Пейзаж_поблизу_Фігераса</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d1wzv</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Пейзаж_близ_Фигераса</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_Near_Figueras</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Paisatge_prop_de_Figueres</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2471159</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Landscape_Near_Figueras</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1910_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Impressionist_paintings</field>
+<field name="abstract">Landscape Near Figueras (1910) is a painting by the Spanish artist Salvador Dalí. This is one of the earliest known works by Dalí, having been painted when he was about six years old. This work was done during Dali's first, "Developmental Period" which roughly lasted until 1928-1929. This period predates Surrealism and during this time he emulated and mastered existing styles of art, most notably the Baroque, Classical, Impressionistic, Cubist forms. Accordingly, the work exemplifies Dalí's early interest in impressionism. Landscape Near Figueras was painted in oil over a 14 x 9 cm postcard. The sky was painted thinly, allowing part of the design of the postcard to show through. It was part of the private collection of Mr. Albert Field in Astoria, Queens, New York but now is part of the permanent collection of the Salvador Dalí Museum in St. Petersburg, Florida.</field>
+<field name="label">Landscape Near Figueras</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/76/Landscape_Near_Figueras.jpg</field>
+<field name="comment">Landscape Near Figueras (1910) is a painting by the Spanish artist Salvador Dalí. This is one of the earliest known works by Dalí, having been painted when he was about six years old. This work was done during Dali's first, "Developmental Period" which roughly lasted until 1928-1929. This period predates Surrealism and during this time he emulated and mastered existing styles of art, most notably the Baroque, Classical, Impressionistic, Cubist forms.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Landscape_Near_Figueras.jpg/200px-Landscape_Near_Figueras.jpg</field>
+<field name="link_external">http://www.dali-gallery.com/html/galleries/painting01.htm</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/Astoria,_Queens</field>
+<field name="height">14</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Landscape Near Figueras</field>
+<field name="width">9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Landscape_Near_Figueras</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Landscape_Near_Figueras</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Landscape_Near_Figueras</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Landscape_Near_Figueras</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2471159</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_Near_Figueras</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Paisatge_prop_de_Figueres</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_Near_Figueras</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Пейзаж_поблизу_Фігераса</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_Near_Figueras</field>
+</doc>
+</add>

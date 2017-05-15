@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bull-Leaping_Fresco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ταυροκαθάψια_(τοιχογραφία)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05n_vjc</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bull-Leaping_Fresco</field>
+<field name="sameAs">http://dbpedia.org/resource/Bull-Leaping_Fresco</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Affresco_della_taurocatapsia</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3566545</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Bullfighting</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Minoan_frescos</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cattle_in_art</field>
+<field name="abstract">The Bull-Leaping Fresco, as it has come to be called, is the most completely restored of several stucco panels originally sited on the upper-story portion of the east wall of the palace at Knossos, Crete. Although they were frescos, they were painted on stucco relief scenes and therefore are classified as plastic art. They were difficult to produce. The artist had to manage not only the altitude of the panel but also the simultaneous molding and painting of fresh stucco. The panels, therefore, do not represent the formative stages of the technique. Their polychrome hues – white, pale red, dark red, blue, black – exclude them from the Early Minoan (EM) and early Middle Minoan (MM) Periods. They are, in other words, instances of the "mature art" created no earlier than MM III. The flakes of the destroyed panels fell to the ground from the upper story during the destruction of the palace, probably by earthquake, in Late Minoan (LM) II. By that time the east stairwell, near which they fell, was disused, being partly ruinous. The theme is a stock scene, one of a few depicting the handling of bulls. Arthur Evans, Keeper of the Ashmolean Museum, owner of the palace and director of excavation, presents the topic in Chapter III of his monumental work on Knossos and Minoan Civilization, Palace of Minos. There he calls the several frescos "The Taureador Frescos."</field>
+<field name="label">Bull-Leaping Fresco</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/79/Knossos_-_06.jpg</field>
+<field name="comment">The Bull-Leaping Fresco, as it has come to be called, is the most completely restored of several stucco panels originally sited on the upper-story portion of the east wall of the palace at Knossos, Crete. Although they were frescos, they were painted on stucco relief scenes and therefore are classified as plastic art. They were difficult to produce. The artist had to manage not only the altitude of the panel but also the simultaneous molding and painting of fresh stucco.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Knossos_-_06.jpg/200px-Knossos_-_06.jpg</field>
+<field name="link_external">http://diglit.ub.uni-heidelberg.de/diglit/evans1930?sid=2d606e44392a6d47e07149c09559ef42</field>
+<field name="link_external">http://diglit.ub.uni-heidelberg.de/diglit/evans1935?sid=2d606e44392a6d47e07149c09559ef42</field>
+<field name="link_external">http://diglit.ub.uni-heidelberg.de/diglit/evans1935a?sid=2d606e44392a6d47e07149c09559ef42</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Heraklion_Archaeological_Museum</field>
+<field name="year">Some time in MM III or LM I</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bull-Leaping_Fresco</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bull-Leaping_Fresco</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ταυροκαθάψια_(τοιχογραφία)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bull-Leaping_Fresco</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Affresco_della_taurocatapsia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bull-Leaping_Fresco</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bull-Leaping_Fresco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bull-Leaping_Fresco</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3566545</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bull-Leaping_Fresco</field>
+</doc>
+</add>

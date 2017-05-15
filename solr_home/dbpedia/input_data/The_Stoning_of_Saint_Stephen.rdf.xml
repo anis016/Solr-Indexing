@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Stoning_of_Saint_Stephen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Stoning_of_Saint_Stephen</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stoning_of_Saint_Stephen</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_steniging_van_de_Heilige_Stefanus</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2646680</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ukamienowanie_Szczepana</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_lapidación_de_san_Esteban</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bh7_6l</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1625_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_of_Fine_Arts_of_Lyon</field>
+<field name="abstract">The Stoning of Saint Stephen is the first painting by Dutch artist Rembrandt, painted in 1625 at the age of 19. It is currently kept in the Musée des Beaux-Arts de Lyon. This work is inspired by the martyrdom of Saint Stephen which is recounted in Acts 7. This young deacon in the Christian community of Jerusalem was sentenced to death by stoning. The painting was influenced by the art of Caravaggio and Adam Elsheimer. It represents the moment when Stephen was stoned outside the city by his many tormentors (about twenty characters), and he utters his last words to Christ as the light around him shows that the heavens are open. The painting is divided into two distinct zones with a diagonal creating an effect of chiaroscuro: on the left, a man on horseback is in the shadow, and on the right, Stephen and his persecutors are in the light. Saul of Tarsus can be seen seated in the background holding in his lap the coats of the stoners. Some inaccuracies in the drawing can be seen. The character behind Stephen seems to be a self-portrait done into a wider composition, as Spanish painter Diego Velázquez did in Las Meninas. John Durham suggests that Rembrandt "presents himself as a somewhat alarmed presence, a participant who may be having second thoughts about what was taking place."</field>
+<field name="label">The Stoning of Saint Stephen</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0b/Rembrandt_Harmensz._van_Rijn_150.jpg</field>
+<field name="comment">The Stoning of Saint Stephen is the first painting by Dutch artist Rembrandt, painted in 1625 at the age of 19. It is currently kept in the Musée des Beaux-Arts de Lyon. This work is inspired by the martyrdom of Saint Stephen which is recounted in Acts 7. This young deacon in the Christian community of Jerusalem was sentenced to death by stoning. The painting was influenced by the art of Caravaggio and Adam Elsheimer.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Rembrandt_Harmensz._van_Rijn_150.jpg/200px-Rembrandt_Harmensz._van_Rijn_150.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Rembrandt</field>
+<field name="city"/>
+<field name="height">89</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon</field>
+<field name="title">The Stoning of Saint Stephen</field>
+<field name="type">Oil on canvas</field>
+<field name="width">123</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Stoning_of_Saint_Stephen</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Stoning_of_Saint_Stephen</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Stoning_of_Saint_Stephen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Stoning_of_Saint_Stephen</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ukamienowanie_Szczepana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stoning_of_Saint_Stephen</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_lapidación_de_san_Esteban</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stoning_of_Saint_Stephen</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_steniging_van_de_Heilige_Stefanus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stoning_of_Saint_Stephen</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2646680</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stoning_of_Saint_Stephen</field>
+</doc>
+</add>

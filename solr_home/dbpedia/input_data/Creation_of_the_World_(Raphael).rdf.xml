@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Creation_of_the_World_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3208003</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Création_du_monde_(Raphaël)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระเจ้าสร้างโลก_(ราฟาเอล)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Creation_of_the_World_(Raphael)</field>
+<field name="sameAs">http://dbpedia.org/resource/Creation_of_the_World_(Raphael)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q_680</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="abstract">Creation of the World is a mosaic in the dome of the Chigi Chapel in Santa Maria del Popolo, Rome, designed by Raphael. The Chigi Chapel in Santa Maria del Popolo was designed by Raphael for his friend and patron, banker Agostino Chigi as a private chapel and family burial place. The dome of the church was decorated with mosaics, a somewhat unusual and old-fashioned technique in the 16th century. Raphael's cartoons were executed by a Venetian craftsman, Luigi di Pace in 1516. The mosaic panels are situated between the golden stuccoes of the dome. Seven images show the personifications of the know six planets and a zodiac in front of the blue background. Every planet is held by winged angels. The eights panel represents the star studded sky, also held by an angel. In the central medaillon we can see God in the act of creating the World. The central figure is surrounded by playful putti. The mosaic is somewhat resembling to Michelangelo's famous fresco in the Sistine Chapel, the Creation which was painted only five years before the Chigi mosaics of Raphael, and certainly gave inspiration for the artist. The mosaics of the Chigi Chapel are the only known mosaic works of Raphael, and notable examples of High Renaissance mosaic art.</field>
+<field name="label">Creation of the World (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d9/Roma-santa_maria_del_popolo.jpg</field>
+<field name="comment">Creation of the World is a mosaic in the dome of the Chigi Chapel in Santa Maria del Popolo, Rome, designed by Raphael. The Chigi Chapel in Santa Maria del Popolo was designed by Raphael for his friend and patron, banker Agostino Chigi as a private chapel and family burial place. The dome of the church was decorated with mosaics, a somewhat unusual and old-fashioned technique in the 16th century. Raphael's cartoons were executed by a Venetian craftsman, Luigi di Pace in 1516.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Roma-santa_maria_del_popolo.jpg/200px-Roma-santa_maria_del_popolo.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Creation_of_the_World_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Creation_of_the_World_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Creation_of_the_World_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Creation_of_the_World_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Création_du_monde_(Raphaël)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Creation_of_the_World_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระเจ้าสร้างโลก_(ราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Creation_of_the_World_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3208003</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Creation_of_the_World_(Raphael)</field>
+</doc>
+</add>

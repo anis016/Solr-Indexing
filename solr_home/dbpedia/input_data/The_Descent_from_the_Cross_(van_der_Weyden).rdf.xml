@@ -1,0 +1,161 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Deposizione_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Descendimiento_de_la_cruz_(Roger_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Kreuzabnahme_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/十字架降架_(ファン・デル・ウェイデンの絵画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Deposição_da_Cruz_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Снятие_с_креста_(Рогир_ван_дер_Вейден)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Descent_from_the_Cross_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Descente_de_Croix_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Zdjęcie_z_krzyża_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Deposição_da_Cruz_(Rogier_van_der_Weyden)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Zdjęcie_z_krzyża_(Rogier_van_der_Weyden)</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/Descendemento_da_cruz</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Kruisafneming_(Rogier_van_der_Weyden)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/十字架降架_(ファン・デル・ウェイデンの絵画)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q568847</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/Malsupreniro_de_la_kruco_(Roger_van_der_Weyden)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Descendimiento_de_la_cruz_(Roger_van_der_Weyden)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Descente_de_Croix_(Rogier_van_der_Weyden)</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Skidanje_s_križa_(Van_der_Weyden)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Снятие_с_креста_(Рогир_ван_дер_Вейден)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zpgpb</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Kreuzabnahme_(Rogier_van_der_Weyden)</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Nedtagelsen_fra_korset_(van_der_Weyden)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_davallament_de_la_Creu_(Van_der_Weyden)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Deposizione_(Rogier_van_der_Weyden)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_of_the_Passion</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rogier_van_der_Weyden</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="abstract">The Descent from the Cross (or Deposition of Christ, or Descent of Christ from the Cross) is a panel painting by the Flemish artist Rogier van der Weyden created c. 1435, now in the Museo del Prado, Madrid. The crucified Christ is lowered from the cross, his lifeless body held by Joseph of Arimathea and Nicodemus. The c. 1435 date is estimated based on the work's style, and because the artist acquired wealth and renown around this time, most likely from the prestige this work allowed him. It was painted early in his career, shortly after he completed his apprenticeship with Robert Campin and shows the older painter's influence, most notable in the hard sculpted surfaces, realistic facial features and vivid primary colours, mostly reds, whites and blues. The work was a self-conscious attempt by van der Weyden to create a masterpiece that would establish an international reputation. Van der Weyden positioned Christ's body in the T-shape of a crossbow to reflect the commission from the Leuven guild of archers for their chapel Onze-Lieve-Vrouw-van-Ginderbuiten (Notre-Dame-hors-les-Murs). Art historians have commented that this work was arguably the most influential Netherlandish painting of Christ's crucifixion, and that it was copied and adapted on a large scale in the two centuries after its completion. The emotional impact of the weeping mourners grieving over Christ's body, and the subtle depiction of space in van der Weyden's work have generated extensive critical comments, one of the most famous being, that of Erwin Panofsky: "It may be said that the painted tear, a shining pearl born of the strongest emotion, epitomizes that which Italian most admired in Early Flemish painting: pictorial brilliance and sentiment".</field>
+<field name="label">The Descent from the Cross (van der Weyden)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1a/Weyden_Deposition.jpg</field>
+<field name="comment">The Descent from the Cross (or Deposition of Christ, or Descent of Christ from the Cross) is a panel painting by the Flemish artist Rogier van der Weyden created c. 1435, now in the Museo del Prado, Madrid. The crucified Christ is lowered from the cross, his lifeless body held by Joseph of Arimathea and Nicodemus. The c. 1435 date is estimated based on the work's style, and because the artist acquired wealth and renown around this time, most likely from the prestige this work allowed him.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Weyden_Deposition.jpg/200px-Weyden_Deposition.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/weyden-deposition.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Descent_of_Christ_from_the_Cross</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Escorial_Deposition</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Kruisafneming_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_davallament_de_la_Creu_(Van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/Malsupreniro_de_la_kruco_(Roger_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/Descendemento_da_cruz</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Skidanje_s_križa_(Van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Nedtagelsen_fra_korset_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q568847</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross_(van_der_Weyden)</field>
+</doc>
+</add>

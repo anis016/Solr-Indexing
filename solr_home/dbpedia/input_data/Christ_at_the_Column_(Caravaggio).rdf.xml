@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Flagellazione_di_Cristo_(Caravaggio_Rouen)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_at_the_Column_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_at_the_Column_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_at_the_Column_(Caravaggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_at_the_Column_(Caravaggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09djql</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Flagellazione_di_Cristo_(Caravaggio_Rouen)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Christ_à_la_colonne</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cristo_en_la_columna_(Caravaggio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q931837</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">Christ at the Column (also known as The Flagellation of Christ; c. 1606/1607), is a painting by the Italian Baroque painter Caravaggio, currently housed in the Musée des Beaux-Arts de Rouen, Rouen, France. This is one of two versions of the Flagellation of Christ by Caravaggio painted late in 1606 or early in 1607, soon after his arrival in Naples. The painting shows the flagellation of Christ following his arrest and trial and before his crucifixion. The scene was traditionally depicted in front of a column, possibly alluding to the judgement hall of Pilate. The snub-nosed torturer on the far right is recognisably the same figure who modelled as one of the torturers in The Flagellation of Christ, and as the executioner in Salome with the Head of John the Baptist. The most famous treatment of the theme at the time was Sebastiano del Piombo's High Renaissance Flagellation of Christ in the church of San Pietro in Montorio in Rome. Piombo's Flagellation, much imitated by later artists, shows multiple idealised figures twisting through complex layers of space. Caravaggio has flattened the space, reduced the figures to a minimum, and used light to direct attention to the crucial parts of his composition - Christ's face and torso, the faces of the two torturers, and the hand holding the out-of-frame whip.</field>
+<field name="label">Christ at the Column (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9f/Caravaggio_flagellation.jpg</field>
+<field name="comment">Christ at the Column (also known as The Flagellation of Christ; c. 1606/1607), is a painting by the Italian Baroque painter Caravaggio, currently housed in the Musée des Beaux-Arts de Rouen, Rouen, France. This is one of two versions of the Flagellation of Christ by Caravaggio painted late in 1606 or early in 1607, soon after his arrival in Naples. The painting shows the flagellation of Christ following his arrest and trial and before his crucifixion.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Caravaggio_flagellation.jpg/200px-Caravaggio_flagellation.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">134.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Christ at the Column</field>
+<field name="type">Oil on canvas</field>
+<field name="width">175.4</field>
+<field name="year">c. 1607</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_at_the_Column_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_at_the_Column_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cristo_en_la_columna_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_at_the_Column_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_at_the_Column_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_at_the_Column_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Christ_à_la_colonne</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_at_the_Column_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q931837</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_at_the_Column_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_at_the_Column_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Floating_Shadows_(triptych)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Floating_Shadows_(triptych)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Floating_Shadows_(triptych)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx1_gx</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7734488</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1986_paintings</field>
+<field name="abstract">The Floating Shadows is a triptych made by Nabil Kanso in 1986 on the brutality and suffering inflicted during the Lebanese Civil War. The painting is oil on canvas and measures 2.75 x 7.60 meters (9 X 25 feet). It forms part of the Cluster Paintings series that Kanso began in 1986 and marks the transition to a new approach in his compositional framework. The pictorial layout divides the canvas space into various sections reflecting a cluster of interlinked planes depicting floating figures of predominantly dark-blue set against deep orange ground and demarcated by white grayish areas.</field>
+<field name="label">The Floating Shadows (triptych)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/25/Floating_Shadows_triptych.jpg</field>
+<field name="comment">The Floating Shadows is a triptych made by Nabil Kanso in 1986 on the brutality and suffering inflicted during the Lebanese Civil War. The painting is oil on canvas and measures 2.75 x 7.60 meters (9 X 25 feet). It forms part of the Cluster Paintings series that Kanso began in 1986 and marks the transition to a new approach in his compositional framework.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Floating_Shadows_triptych.jpg/200px-Floating_Shadows_triptych.jpg</field>
+<field name="link_external">http://nabilkanso.com/CLUSTER.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Floating_Shadows_(triptych)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Floating_Shadows_(triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Floating_Shadows_(triptych)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Floating_Shadows_(triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Floating_Shadows_(triptych)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7734488</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Floating_Shadows_(triptych)</field>
+</doc>
+</add>

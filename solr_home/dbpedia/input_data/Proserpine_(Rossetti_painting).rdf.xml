@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Proserpine_(Rossetti_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Proserpine_(Rossetti_painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j28vs_</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4982934</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Прозерпина_(картина)</field>
+<field name="sameAs">http://dbpedia.org/resource/Proserpine_(Rossetti_painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_goddesses</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1874_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Underworld_goddesses</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Death_goddesses</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Life-death-rebirth_goddesses</field>
+<field name="abstract">Proserpine (also Proserpina) is an oil painting on canvas by English artist and poet Dante Gabriel Rossetti, painted in 1874 and currently housed at Tate Britain.</field>
+<field name="label">Proserpine (Rossetti painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d1/Dante_Gabriel_Rossetti00.jpg</field>
+<field name="comment">Proserpine (also Proserpina) is an oil painting on canvas by English artist and poet Dante Gabriel Rossetti, painted in 1874 and currently housed at Tate Britain.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Dante_Gabriel_Rossetti00.jpg/200px-Dante_Gabriel_Rossetti00.jpg</field>
+<field name="link_external">http://www.victorianweb.org/painting/dgr/drawings/ringel4.html</field>
+<field name="link_external">http://www.victorianweb.org/painting/dgr/drawings/marecki4.html</field>
+<field name="link_external">http://www.preraphaelites.org/the-collection/artist-biography/dante-gabriel-rossetti/</field>
+<field name="link_external">http://www.rossettiarchive.org</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=12804</field>
+<field name="link_external">http://www.victorianweb.org/painting/dgr/drawings/5.html</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">125.1</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">Proserpine</field>
+<field name="type">oil on canvas</field>
+<field name="width">61</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Proserpine_(Rossetti_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Proserpine_(Rossetti_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Proserpine_(Rossetti_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Proserpine_(Rossetti_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Proserpine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Прозерпина_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Proserpine_(Rossetti_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4982934</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Proserpine_(Rossetti_painting)</field>
+</doc>
+</add>

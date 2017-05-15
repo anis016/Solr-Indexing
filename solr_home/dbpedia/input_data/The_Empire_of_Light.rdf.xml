@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Empire_Des_Lumi%C3%A8res</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Empire_of_Light</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Empire_of_Light</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Empire_of_Light</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Reich_der_Lichter</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h7nn5_</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Empire_of_Light</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Empire_of_Light</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7583707</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="abstract">The Empire of Light (French: L'Empire des lumières) is a series of paintings by René Magritte painted between 1950 and 1954. 		 			The Empire of Light Guggenheim. jpg 			 The Empire of Lights in The Guggenheim 			 		 		 			The Empire of Light MOMA. jpg 			 The Empire of Lights in the Museum of Modern Art 			 		 		 			The Empire of Light Belgium. jpg 			 The Empire of Lights in the Royal Museums of Fine Arts of Belgium</field>
+<field name="label">The Empire of Light</field>
+<field name="comment">The Empire of Light (French: L'Empire des lumières) is a series of paintings by René Magritte painted between 1950 and 1954. 		 			The Empire of Light Guggenheim. jpg 			 The Empire of Lights in The Guggenheim 			 		 		 			The Empire of Light MOMA. jpg 			 The Empire of Lights in the Museum of Modern Art 			 		 		 			The Empire of Light Belgium. jpg 			 The Empire of Lights in the Royal Museums of Fine Arts of Belgium</field>
+<field name="link_external">http://www.fine-arts-museum.be/fabritiusweb/FullBB.csp?WebAction=ShowFullBB&amp;RequestId=120811_3&amp;Profile=Default&amp;OpacLanguage=dut&amp;NumberToRetrieve=10&amp;StartValue=5&amp;WebPageNr=1&amp;SearchTerm1=MAGRITTERENE%20.2.273&amp;SearchT1=&amp;Index1=Index18&amp;SearchMethod=Find_1&amp;ItemNr=5</field>
+<field name="link_external">http://kranidiotis.gr/?p=1015</field>
+<field name="link_external">http://www.guggenheim.org/new-york/collections/collection-online/show-full/piece/?search=Empire%20of%20Light&amp;page=&amp;f=Title&amp;object=76.2553.102</field>
+<field name="link_external">http://www.moma.org/collection/browse_results.php?criteria=O%3AAD%3AE%3A3692&amp;page_number=6&amp;template_id=1&amp;sort_order=1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Empire_of_Light</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Empire_of_Light</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Empire_of_Lights</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Empire_Des_Lumieres</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Empire_of_Light_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Empire_of_Lights</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Reich_der_Lichter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Empire_of_Light</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7583707</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Empire_of_Light</field>
+</doc>
+</add>

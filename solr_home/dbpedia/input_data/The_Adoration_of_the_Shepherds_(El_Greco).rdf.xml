@@ -1,0 +1,77 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pokłon_pasterzy_(obraz_El_Greca_z_1614)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026jdrn</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Adoration_des_bergers_(El_Greco)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1114913</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_dei_pastori_(El_Greco)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Adoración_de_los_pastores_(El_Greco,_Madrid)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mannerist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nativity_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_El_Greco</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1609_paintings</field>
+<field name="abstract">The Adoration of the Shepherds is a painting of the traditional subject which was painted during the last year of El Greco's life. The painting is a smaller version of a work which the artist made to hang over his own tomb in the church of Santo Domingo el Antiguo in Toledo. El Greco's signature, in Greek, may be seen in the lower left corner. Extreme distortion of body characterizes the Adoration of the Shepherds like all the last paintings of El Greco. The brilliant, "dissonant" colours and the strange shapes and poses create a sense of wonder and ecstasy, as the shepherd and angels celebrate the miracle of the newly born child. The infant Christ seems to emit a light which plays off the faces of the barefoot shepherds who have gathered to pay homage to his miraculous birth. A rhythmic energy animates the painting, expressed in the dance-like motions of the figures. Striking contrasts between light and dark passages heighten the sense of drama. The group of angels which hovers over the scene may resemble the missing section of The Opening of the Fifth Seal. In 1618, El Greco's assistant, Luis Tristán, said that his teacher was working The Adoration of the Shepherds until his death. The painting was later transferred to the high altar of the Monastery Santo Domingo El Antiguo. In 1954 it was acquired by the Museo del Prado in Madrid.</field>
+<field name="label">The Adoration of the Shepherds (El Greco)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c6/Adoracion_de_los_Reyes_magos1.jpg</field>
+<field name="comment">The Adoration of the Shepherds is a painting of the traditional subject which was painted during the last year of El Greco's life. The painting is a smaller version of a work which the artist made to hang over his own tomb in the church of Santo Domingo el Antiguo in Toledo. El Greco's signature, in Greek, may be seen in the lower left corner. Extreme distortion of body characterizes the Adoration of the Shepherds like all the last paintings of El Greco.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Adoracion_de_los_Reyes_magos1.jpg/200px-Adoracion_de_los_Reyes_magos1.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">319</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Adoration of the Shepherds</field>
+<field name="type">oil on canvas</field>
+<field name="width">180</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Adoración_de_los_pastores_(El_Greco,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Adoration_des_bergers_(El_Greco)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_dei_pastori_(El_Greco)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(El_Greco)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pokłon_pasterzy_(obraz_El_Greca_z_1614)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1114913</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Adoration_of_the_Shepherds_(El_Greco)</field>
+</doc>
+</add>

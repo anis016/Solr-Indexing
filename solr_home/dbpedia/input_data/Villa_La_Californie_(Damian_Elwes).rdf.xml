@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Villa_La_Californie_(Damian_Elwes)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Villa_La_Californie_(Damian_Elwes)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Villa_La_Californie_(by_Damian_Elwes)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Villa_La_Californie_(Damian_Elwes)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Villa_La_Californie_(Damian_Elwes)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7930376</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Villa_La_Californie_(Damian_Elwes)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05s_k9p</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:2006_paintings</field>
+<field name="abstract">The Villa La Californie is a series of paintings by the English artist, Damian Elwes (born 1960). They link together to describe almost the entire ground floor of the Picasso's Villa La Californie in Cannes, southern France. In the series, architectural forms portrayed in one painting continue into the next, thereby inferring that as the eye of the viewer moves from painting to painting that you are physically moving from room to room in the master’s studio. As such, this group of paintings functions as an installation. Elwes envelops the viewer as a way of enhancing the experience of what it would have been like to be in Picasso’s studio in Cannes in 1956. He has assembled all extant documentation on any and every item that Picasso surrounded himself with. These include all the notebooks, sketches, African masks, works in production (such as paintings, prints, ceramics and sculpture), as well as gifts from friends, articles of clothing and even artworks by his own children. All of these “things” have been included in Elwes’ work with the goal of accurately documenting the conditions in which the master worked.</field>
+<field name="label">Villa La Californie (Damian Elwes)</field>
+<field name="comment">The Villa La Californie is a series of paintings by the English artist, Damian Elwes (born 1960). They link together to describe almost the entire ground floor of the Picasso's Villa La Californie in Cannes, southern France. In the series, architectural forms portrayed in one painting continue into the next, thereby inferring that as the eye of the viewer moves from painting to painting that you are physically moving from room to room in the master’s studio.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Villa_La_Californie_(Damian_Elwes)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Villa_La_Californie_(Damian_Elwes)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Villa_La_Californie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7930376</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Villa_La_Californie_(Damian_Elwes)</field>
+</doc>
+</add>

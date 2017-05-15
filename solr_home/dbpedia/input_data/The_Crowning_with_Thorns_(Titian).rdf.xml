@@ -1,0 +1,93 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Возложение_тернового_венца_(картина_Тициана)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Cierniem_koronowanie_(obrazy_Tycjana)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Titian)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Crowning_with_Thorns_(Titian)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Incoronazione_di_spine_(Tiziano_Parigi)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q24090</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b741y4</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_coronación_de_espinas_(Tiziano,_Louvre)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1542_paintings</field>
+<field name="abstract">The Crowning with Thorns is a painting by the Italian Renaissance master Titian. It is housed in the Musée du Louvre in Paris, France. It was commissioned by the confraternity of Santa Maria delle Grazie in Milan. It was brought to France after the Napoleonic conquest of the city in 1797.</field>
+<field name="label">The Crowning with Thorns (Titian)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/01/Tizian_019.jpg</field>
+<field name="comment">The Crowning with Thorns is a painting by the Italian Renaissance master Titian. It is housed in the Musée du Louvre in Paris, France. It was commissioned by the confraternity of Santa Maria delle Grazie in Milan. It was brought to France after the Napoleonic conquest of the city in 1797.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tizian_019.jpg/200px-Tizian_019.jpg</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&amp;idNotice=22909</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Crowning with Thorns</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Crowning_with_Thorns_(Titian)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Crowning_with_Thorns_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Возложение_тернового_венца_(картина_Тициана)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crowning_with_Thorns</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Crowning_with_Thorns_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Crowned_with_Thorns</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Cierniem_koronowanie_(obrazy_Tycjana)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Crowned_with_Thorns_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crowning_with_Thorns_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_crowning_with_thorns_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_coronación_de_espinas_(Tiziano,_Louvre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Incoronazione_di_spine_(Tiziano_Parigi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q24090</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Titian)</field>
+</doc>
+</add>

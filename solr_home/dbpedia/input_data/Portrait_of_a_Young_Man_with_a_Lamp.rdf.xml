@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_giovane_con_lucerna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_a_Lamp</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_a_Lamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_giovane_con_lucerna</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_a_Lamp</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937719</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Young_Man_with_a_Lamp</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmgbfx</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lorenzo_Lotto</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="abstract">The Portrait of a Young Man with a Lamp is a painting by the Italian High Renaissance painter Lorenzo Lotto, dating to c. 1506. It is housed in the Kunsthistorisches Museum of Vienna, Austria. The work is generally ascribed to Lotto's stay in Treviso. In was acquired by the Viennese museum in 1816.</field>
+<field name="label">Portrait of a Young Man with a Lamp</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/51/Lorenzo_Lotto_052b.jpg</field>
+<field name="comment">The Portrait of a Young Man with a Lamp is a painting by the Italian High Renaissance painter Lorenzo Lotto, dating to c. 1506. It is housed in the Kunsthistorisches Museum of Vienna, Austria. The work is generally ascribed to Lotto's stay in Treviso. In was acquired by the Viennese museum in 1816.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Lorenzo_Lotto_052b.jpg/200px-Lorenzo_Lotto_052b.jpg</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=1125</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">42.3</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of a Young Man with a Lamp</field>
+<field name="type">Oil on canvas</field>
+<field name="width">35.3</field>
+<field name="year">c. 1506</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_with_a_Lamp</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Young_Man_with_a_Lamp</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_with_a_Lamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_a_Lamp</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_White_Drape</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Young_Man_against_a_White_Curtain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937719</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_a_Lamp</field>
+</doc>
+</add>

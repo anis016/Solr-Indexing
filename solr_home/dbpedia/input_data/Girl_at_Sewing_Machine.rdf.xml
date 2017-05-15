@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_at_Sewing_Machine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5564463</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_at_Sewing_Machine</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Girl_at_Sewing_Machine</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Girl_at_Sewing_Machine</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dgnb2j</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edward_Hopper</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1921_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Thyssen-Bornemisza_Museum</field>
+<field name="abstract">Girl at Sewing Machine is a 1921 painting by Edward Hopper, currently housed in the Museo Thyssen-Bornemisza in Madrid, Spain. It portrays a young girl sitting at a sewing machine facing a window on a beautiful sunny day. The location appears to be New York as is evident from the yellow bricks in the window. The exterior vantage point although present only aids in putting the interior activity in perspective. It is one of the first of many of Hopper's "window paintings". Hopper's repeated decision to pose a young woman against her sewing is said to be his commentary on solitude. The painting is the inspiration for Mary Leader's poem of the same name.</field>
+<field name="label">Girl at Sewing Machine</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/89/Girl_at_Sewing_Machine_by_Edward_Hopper.jpg</field>
+<field name="comment">Girl at Sewing Machine is a 1921 painting by Edward Hopper, currently housed in the Museo Thyssen-Bornemisza in Madrid, Spain. It portrays a young girl sitting at a sewing machine facing a window on a beautiful sunny day. The location appears to be New York as is evident from the yellow bricks in the window. The exterior vantage point although present only aids in putting the interior activity in perspective. It is one of the first of many of Hopper's "window paintings".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Girl_at_Sewing_Machine_by_Edward_Hopper.jpg/200px-Girl_at_Sewing_Machine_by_Edward_Hopper.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Edward_Hopper</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Girl at Sewing Machine</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Girl_at_Sewing_Machine</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Girl_at_Sewing_Machine</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Girl_at_Sewing_Machine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Girl_at_Sewing_Machine</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Girl_at_Sewing_Machine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_at_Sewing_Machine</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_at_a_Sewing_Machine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_at_the_Sewing_Machine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5564463</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_at_Sewing_Machine</field>
+</doc>
+</add>

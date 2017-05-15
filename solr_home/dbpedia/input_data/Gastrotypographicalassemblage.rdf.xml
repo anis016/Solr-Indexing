@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gastrotypographicalassemblage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5526886</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04y8_2c</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Gastrotypographicalassemblage</field>
+<field name="sameAs">http://dbpedia.org/resource/Gastrotypographicalassemblage</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:New_York_City_cultural_history</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Typography</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Graphic_design</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:CBS_Television_Network</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1966_paintings</field>
+<field name="abstract">Gastrotypographicalassemblage is a 35 feet wide by 8.5 feet tall work of art designed by Lou Dorfsman to decorate the cafeteria in Eero Saarinen's CBS Building on 52nd Street and Sixth Avenue, New York City, New York, USA. As the senior vice president and creative director for marketing communications and design for the Columbia Broadcasting System, Dorfsman was responsible for all aspects of the building's graphics, designating the type, design and spacing for wall clocks, elevator buttons, and elevator inspection stickers. He designed what he called Gastrotypographicalassemblage for the building's cafeteria, using varied typefaces to list all of the foods offered to patrons in hand-milled wood type. The completed work was based on ideas conceived in the mid-1960s. The project was ultimately completed in 1966 with assistance from graphic designer Herb Lubalin, and Tom Carnase, who crafted the typography from Dorfsman's original design. Dorfsman considered this work to be "his magnum opus, his gift to the world". Gastrotypographicalassemblage was discarded in the early 1990s by CBS, but the work's nine panels were retrieved by designer Nick Fasciano. It was in an advanced state of disrepair, aggravated by improper storage. The piece was acquired by the Atlanta-based Center for Design Study, which has undertaken an effort to raise the funds needed to support the restoration of the work of art. The group's goal is to restore Gastrotypographicalassemblage and to use it in a permanent traveling exhibition focusing on historical American design, and using the piece as an example of the value of intelligently applied design.</field>
+<field name="label">Gastrotypographicalassemblage</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/02/Gastrotypographicalassemblage.jpg</field>
+<field name="comment">Gastrotypographicalassemblage is a 35 feet wide by 8.5 feet tall work of art designed by Lou Dorfsman to decorate the cafeteria in Eero Saarinen's CBS Building on 52nd Street and Sixth Avenue, New York City, New York, USA.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Gastrotypographicalassemblage.jpg/200px-Gastrotypographicalassemblage.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Lou_Dorfsman</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="museum">http://dbpedia.org/resource/CBS_Building</field>
+<field name="title">Gastrotypographicalassemblage</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Gastrotypographicalassemblage</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Gastrotypographicalassemblage</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Gastrotypographicalassemblage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Gastrotypographicalassemblage</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5526886</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gastrotypographicalassemblage</field>
+</doc>
+</add>

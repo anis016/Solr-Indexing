@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Armour</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1115403</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f3vns</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Filippo_IV_da_giovane</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Philip_IV_in_Armour</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Felipe_IV_(1626-1628)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Philippe_IV_(Vélasquez,_1626-1628)</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Armour</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1623_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_of_Philip_IV</field>
+<field name="abstract">The Portrait of Philip IV in Armour is a portrait of Philip IV of Spain by Velázquez now in the Museo del Prado in Madrid. It is one of the artist's most realistic portraits of Philip IV and was one of the first he produced after being made painter to the king in 1623. Its style corresponds to the artist's beginnings in Seville and shows its subject in a sculptural style like a portrait bust, with abrupt colour contrasts.</field>
+<field name="label">Portrait of Philip IV in Armour</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e3/Diego_Velázquez_052.jpg</field>
+<field name="comment">The Portrait of Philip IV in Armour is a portrait of Philip IV of Spain by Velázquez now in the Museo del Prado in Madrid. It is one of the artist's most realistic portraits of Philip IV and was one of the first he produced after being made painter to the king in 1623. Its style corresponds to the artist's beginnings in Seville and shows its subject in a sculptural style like a portrait bust, with abrupt colour contrasts.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Diego_Velázquez_052.jpg/200px-Diego_Velázquez_052.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">57</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Philip IV in Armour</field>
+<field name="type">Oil on canvas</field>
+<field name="width">44</field>
+<field name="year">c. 1623</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Philip_IV_in_Armour</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Philip_IV_in_Armour</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Felipe_IV_(1626-1628)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Armour</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_a_cuirass</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_armour</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Philip_IV_in_Armour</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Armour</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Filippo_IV_da_giovane</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Armour</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Philippe_IV_(Vélasquez,_1626-1628)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Armour</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1115403</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Armour</field>
+</doc>
+</add>

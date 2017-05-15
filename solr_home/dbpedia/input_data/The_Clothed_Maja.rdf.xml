@@ -1,0 +1,115 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_maja_vestida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Maja_vêtue</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Clothed_Maja</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fcj0d</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Clothed_Maja</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Giyinik_Maya</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/着衣的玛哈</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_maja_vestida</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Den_påklædte_Maja</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2735507</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Maja_vêtue</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_maja_vestida</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/着衣のマハ</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Η_ντυμένη_μάχα</field>
+<field name="sameAs">http://tl.dbpedia.org/resource/Ang_Marikit_na_May-damit</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1805_paintings</field>
+<field name="abstract">The Clothed Maja is a painting by the Spanish painter Francisco de Goya between 1798 and 1805. It is a clothed version of La maja desnuda and is exhibited next to it in the same room at the Prado Museum in Madrid. The painting, which was first owned by Prime Minister Manuel de Godoy, who was known as an avid womanizer, was originally hung in his home in front of the naked maja in a way that the naked maja could be revealed at any time with the help of a pulley mechanism. It was held twice at the Royal Academy of Fine Arts of San Fernando, and is now held in the Museo del Prado, since 1901.</field>
+<field name="label">The Clothed Maja</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a6/Goya_Maja_ubrana2.jpg</field>
+<field name="comment">The Clothed Maja is a painting by the Spanish painter Francisco de Goya between 1798 and 1805. It is a clothed version of La maja desnuda and is exhibited next to it in the same room at the Prado Museum in Madrid. The painting, which was first owned by Prime Minister Manuel de Godoy, who was known as an avid womanizer, was originally hung in his home in front of the naked maja in a way that the naked maja could be revealed at any time with the help of a pulley mechanism.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Goya_Maja_ubrana2.jpg/200px-Goya_Maja_ubrana2.jpg</field>
+<field name="link_external">http://museoprado.mcu.es/63.html</field>
+<field name="artist"/>
+<field name="height">97</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">La maja vestida</field>
+<field name="type">Oil on canvas</field>
+<field name="width">190</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Clothed_Maja</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_maja_vestida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/着衣のマハ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Clothed_Maja</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Maja_Vestida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Η_ντυμένη_μάχα</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2735507</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/着衣的玛哈</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_maja_vestida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Den_påklædte_Maja</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://tl.dbpedia.org/resource/Ang_Marikit_na_May-damit</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Giyinik_Maya</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clothed_Maja</field>
+</doc>
+</add>

@@ -1,0 +1,94 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Beata_Beatrix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beata_Beatrix</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Beata_Beatrix_(картина_Россетти)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beata_Beatrix</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Love_School</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Beata_Beatrix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beata_Beatrix</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beata_Beatrix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2712679</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Beata_Beatrix</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Beata_Beatrix</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Beata_Beatrix_(картина_Россетти)</field>
+<field name="sameAs">http://dbpedia.org/resource/Beata_Beatrix</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Beata_Beatrix</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Beata_Beatrix</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03mdtvg</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Beata_Beatrix</field>
+<field name="sameAs">http://th.dbpedia.org/resource/บีเอต้าเบียทริกซ์_(รอสเซ็ตติ)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dante_Alighieri</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1870_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Unfinished_paintings</field>
+<field name="abstract">Beata Beatrix is an oil on canvas painting by Pre-Raphaelite artist Dante Gabriel Rossetti, completed in 1870. It depicts Beatrice Portinari from Dante Alighieri's poem La Vita Nuova at the moment of her death. The painting's title in English translates to 'Blessed Beatrice'. La Vita Nuova had been a story that Rossetti had found of interest from childhood and he had begun work translating it into English in 1845 and published it in his work, The Early Italian Poets. Rossetti modeled Beatrice after his deceased wife and frequent model, Elizabeth Siddal, who died in 1862. The painting was created from the numerous drawings that Rossetti had made of Siddal during their time together. The symbolism in the painting of a red dove, a messenger of love, relates back to Rossetti's love for Siddal with the white poppy representing laudanum and the means of her death. Several of Siddal's friends found the painting to bear little resemblance to the drawings of her—the facial features were harder and the neck is out of proportion. Beata Beatrix is one of Rossetti's most recognized works and has made Siddal's name to be one that is frequently linked with Dante Alighieri's Beatrice. In an 1873 letter to his friend William Morris, Rossetti said he intended the painting "not as a representation of the incident of the death of Beatrice, but as an ideal of the subject, symbolized by a trance or sudden spiritual transfiguration. " This painting is on display in the Tate Britain. It was a gift in memory of Francis, Baron Mount-Temple by his wife, Georgiana in 1889.</field>
+<field name="label">Beata Beatrix</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cf/Dante_Gabriel_Rossetti_-_Beata_Beatrix,_1864-1870.jpg</field>
+<field name="comment">Beata Beatrix is an oil on canvas painting by Pre-Raphaelite artist Dante Gabriel Rossetti, completed in 1870. It depicts Beatrice Portinari from Dante Alighieri's poem La Vita Nuova at the moment of her death. The painting's title in English translates to 'Blessed Beatrice'. La Vita Nuova had been a story that Rossetti had found of interest from childhood and he had begun work translating it into English in 1845 and published it in his work, The Early Italian Poets.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Dante_Gabriel_Rossetti_-_Beata_Beatrix,_1864-1870.jpg/200px-Dante_Gabriel_Rossetti_-_Beata_Beatrix,_1864-1870.jpg</field>
+<field name="link_external">http://www.rossettiarchive.org/docs/s168.rap.html</field>
+<field name="artist">http://dbpedia.org/resource/Dante_Gabriel_Rossetti</field>
+<field name="city"/>
+<field name="height">86.4</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">Beata Beatrix</field>
+<field name="type">Oil on canvas</field>
+<field name="width">66</field>
+<field name="year">c. 1864-1870</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Beata_Beatrix</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Beata_Beatrix</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Beata_Beatrix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Beata_Beatrix</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Beata_Beatrix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beata_Beatrix</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Beata_Beatrix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beata_Beatrix</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/บีเอต้าเบียทริกซ์_(รอสเซ็ตติ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beata_Beatrix</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2712679</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beata_Beatrix</field>
+</doc>
+</add>

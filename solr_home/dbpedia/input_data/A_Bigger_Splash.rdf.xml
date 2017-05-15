@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Bigger_Splash</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Bigger_Splash</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/A_Bigger_Splash</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q673984</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b76xns</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Bigger_Splash</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pop_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1967_paintings</field>
+<field name="abstract">A Bigger Splash is a large pop art painting by British artist David Hockney. Measuring 242.5 centimetres by 243.9 centimetres, it depicts a swimming pool beside a modern house, disturbed by a large splash of water created by an unseen figure who has apparently just jumped in from a diving board. It was painted in California between April and June 1967, when Hockney was teaching at the University of California, Berkeley, United States. Jack Hazan's 1975 film A Bigger Splash, a fictionalised biopic concentrating on the breakup of Hockney's relationship with Peter Schlesinger, was named after the painting.</field>
+<field name="label">A Bigger Splash</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/53/Hockney,_A_Bigger_Splash.jpg</field>
+<field name="comment">A Bigger Splash is a large pop art painting by British artist David Hockney. Measuring 242.5 centimetres by 243.9 centimetres, it depicts a swimming pool beside a modern house, disturbed by a large splash of water created by an unseen figure who has apparently just jumped in from a diving board. It was painted in California between April and June 1967, when Hockney was teaching at the University of California, Berkeley, United States.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hockney,_A_Bigger_Splash.jpg/200px-Hockney,_A_Bigger_Splash.jpg</field>
+<field name="link_external">http://news.bbc.co.uk/local/nottingham/hi/people_and_places/arts_and_culture/newsid_8386000/8386805.stm</field>
+<field name="link_external">http://www.independent.co.uk/arts-entertainment/art/great-works/hockney-david-a-bigger-splash-1967-744412.html</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&amp;workid=6539&amp;searchid=11652&amp;roomid=false&amp;tabview=text&amp;texttype=8</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/hockney/splash/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Bigger_Splash</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Bigger_Splash</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Bigger_Splash</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Bigger_Splash</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bigger_Splash</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Bigger_Splash</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/A_Bigger_Splash</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Bigger_Splash</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q673984</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Bigger_Splash</field>
+</doc>
+</add>

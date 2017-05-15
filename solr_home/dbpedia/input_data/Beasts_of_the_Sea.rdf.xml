@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Beasts_of_the_Sea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Beasts_of_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beasts_of_the_sea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beasts_of_the_Sea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Beasts_of_the_Sea</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4876888</field>
+<field name="sameAs">http://dbpedia.org/resource/Beasts_of_the_Sea</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q9w8f</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1950_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="abstract">Beasts of the Sea is a painting by Henri Matisse from 1950. It is a paper collage on canvas. It is currently in the collection of the National Gallery of Art, Washington, DC.. During the early-to-mid-1940s Matisse was in poor health. Eventually by 1950 he stopped painting in favor of his paper cutouts. Beasts of the Sea, is an example of Matisse's final body of works known as the cutouts.</field>
+<field name="label">Beasts of the Sea</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8c/Beasts_of_the_Sea.jpg</field>
+<field name="comment">Beasts of the Sea is a painting by Henri Matisse from 1950. It is a paper collage on canvas. It is currently in the collection of the National Gallery of Art, Washington, DC.. During the early-to-mid-1940s Matisse was in poor health. Eventually by 1950 he stopped painting in favor of his paper cutouts. Beasts of the Sea, is an example of Matisse's final body of works known as the cutouts.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Beasts_of_the_Sea.jpg/200px-Beasts_of_the_Sea.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">295.5</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">Beasts of the Sea</field>
+<field name="width">154</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Beasts_of_the_Sea</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Beasts_of_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4876888</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beasts_of_the_Sea</field>
+</doc>
+</add>

@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Бурлаки_на_Волге</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Wolgatreidler</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Бурлаки_на_Волге</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b74yb5</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Edecarii_de_pe_Volga</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Barge_Haulers_on_the_Volga</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Burlaci_na_Volge</field>
+<field name="sameAs">http://et.dbpedia.org/resource/Burlakid_Volgal</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Wolgatreidler</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Bateliers_de_la_Volga_(Repine)</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Volgan_lautturit_(maalaus)</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Burlaci_na_Volgi</field>
+<field name="sameAs">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q175628</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ilya_Repin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1873_paintings</field>
+<field name="abstract">Barge Haulers on the Volga or Burlaki is a 1870–1873 oil-on-canvas painting by the Russian realist painter and sculptor Ilya Repin. The work depicts 11 labouring men dragging a barge on the Volga River. The men seem to almost collapse forward in exhaustion under the burden of hauling a large boat upstream in heavy, hot weather. The work is both a celebration of the men's dignity and fortitude, and a highly emotional condemnation of those who sanctioned such inhumane labour. Although they are presented as stoical and accepting, the men are largely defeated; only one stands out: in the centre of both the row and canvas, a brightly coloured youth fights against his leather binds and takes on a heroic poise. Repin conceived the painting during his travels through Russia as a young man and depicts actual characters he encountered. It drew international praise for its realistic portrayal of the hardships of working men, and launched his career. Soon after its completion, the painting was purchased by Grand Duke Vladimir Alexandrovich and exhibited widely throughout Europe as a landmark of Russian realist painting. Barge Haulers on the Volga has been described as "perhaps the most famous painting of the Peredvizhniki movement [for for].... its unflinching portrayal of backbreaking labour".</field>
+<field name="label">Barge Haulers on the Volga</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ae/Ilia_Efimovich_Repin_(1844-1930)_-_Volga_Boatmen_(1870-1873).jpg</field>
+<field name="comment">Barge Haulers on the Volga or Burlaki is a 1870–1873 oil-on-canvas painting by the Russian realist painter and sculptor Ilya Repin. The work depicts 11 labouring men dragging a barge on the Volga River. The men seem to almost collapse forward in exhaustion under the burden of hauling a large boat upstream in heavy, hot weather. The work is both a celebration of the men's dignity and fortitude, and a highly emotional condemnation of those who sanctioned such inhumane labour.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Ilia_Efimovich_Repin_(1844-1930)_-_Volga_Boatmen_(1870-1873).jpg/200px-Ilia_Efimovich_Repin_(1844-1930)_-_Volga_Boatmen_(1870-1873).jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Barge_Haulers_on_the_Volga</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Barge_Haulers_on_the_Volga</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Barge_Haulers_on_the_Volga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Bateliers_de_la_Volga_(Repine)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q175628</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+</doc>
+<doc>
+<field name="uri">http://et.dbpedia.org/resource/Burlakid_Volgal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Volgan_lautturit_(maalaus)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Burlaci_na_Volgi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Edecarii_de_pe_Volga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Burlaci_na_Volge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barge_Haulers_on_the_Volga</field>
+</doc>
+</add>

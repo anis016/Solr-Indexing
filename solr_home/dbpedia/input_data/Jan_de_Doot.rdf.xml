@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jan_de_Doot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jan_de_Doot</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Jan_de_Doot</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06n56n</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6150303</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_Amsterdam</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_Golden_Age_paintings</field>
+<field name="abstract">Jan de Doot is the subject of a painting from 1655 by Carel van Savoyen. It shows de Doot, a smith, holding in one hand a kitchen knife, and in the other a large bladder stone the size and shape of an egg, set in gold. This 17th-century Dutch blacksmith is said to have performed a successful lithotomy on himself in 1651. The painting is part of the Portrait Collection of the Laboratory of Pathology, which is part of the University of Leiden. The story on which the painting is based is from Nicolaes Tulp's book entitled Observationes medicae (1672 edition). In this book, which is a list of 231 'cases' from the Amsterdam practice of Dr. Tulp, the smith is named Joannes Lethaeus, which was a Latinized version of de Doot's name (Doot means 'dead' in Dutch). It is not clear from the story if he lived long afterwards. Here is the text: Observations, Book IV, Chapter 31. Wherein a patient cuts a stone out of himself. “ Joannes Lethaeus, a Smith, a courageous man, and very astute, who had already been treated twice by a stonecutter, desired so little to be treated a third time by such a man among his daily trials and repeated slayings, that he decided any wild adventure was more attractive to him than subjecting himself to the knife of the stonecutter ever again. Convincing himself that his health could only improve, and having decided that no one but himself would cut into his flesh, he sent his wife to the fish market, which she didn't mind doing. Only letting his brother help him, he instructed him to pull aside his scrotum while he grabbed the stone in his left hand and cut bravely in the perineum with a knife he had secretly prepared, and by standing again and again managed to make the wound long enough to allow the stone to pass. To get the stone out was more difficult, and he had to stick two fingers into the wound on either side to remove it with leveraged force, and it finally popped out of hiding with an explosive noise and tearing of the bladder. Now the more courageous than careful operation was completed, and the enemy that had declared war on him was safely on the ground, he sent for a healer who sewed up the two sides of the wound together, and the opening that he had cut himself, and properly bound it up; the flesh of which grew so happily that there no small hope of health was, but the wound was too big, and the bladder too torn, not to have ulcers forming. But this stone weighing 4 ounces and the size of a hen's egg was a wonder how it came out with the help of one hand, without the proper tools, and then from the patient himself, whose greatest help was courage and impatience embedded in a truly impenetrable faith which caused a brave deed as none other. So was he no less than those whose deeds are related in the old scriptures. Sometimes daring helps when reason doesn't. ” —Geneeskundige Waarnemingen van Nicolaas Tulp Doot apparently suffered from the intolerable pain that is caused by a bladder stone. According to date of the portrait, he survived at least until 5 years after the book came out, but 'Doot' could also mean dead. Murphy doubts the details of the story. He points out that de Doot had previously had two stones removed from his bladder. Therefore the stone may have extruded through the former incisions into the subcutaneous tissue, from which it would have been far easier for de Doot to remove it.</field>
+<field name="label">Jan de Doot</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/00/Carel_van_Savoyen_-_Jan_de_Doot.JPG</field>
+<field name="comment">Jan de Doot is the subject of a painting from 1655 by Carel van Savoyen. It shows de Doot, a smith, holding in one hand a kitchen knife, and in the other a large bladder stone the size and shape of an egg, set in gold. This 17th-century Dutch blacksmith is said to have performed a successful lithotomy on himself in 1651. The painting is part of the Portrait Collection of the Laboratory of Pathology, which is part of the University of Leiden.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Carel_van_Savoyen_-_Jan_de_Doot.JPG/200px-Carel_van_Savoyen_-_Jan_de_Doot.JPG</field>
+<field name="link_external">http://www.unesco.org/webworld/mdm/visite/vilnius/knygos/knygos/medicina/tulpe/anglu/emtulpe.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Jan_de_Doot</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jan_de_Doot</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Doot_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/De_Doot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Doot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Jan_de_Doot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Jan_de_Doot</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6150303</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jan_de_Doot</field>
+</doc>
+</add>

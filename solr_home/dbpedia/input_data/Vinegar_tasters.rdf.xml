@@ -1,0 +1,91 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vinegar_tasters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Vinegar_tasters</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3537225</field>
+<field name="sameAs">http://dbpedia.org/resource/Vinegar_tasters</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Sirkə_içənlər</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.094fdm</field>
+<field name="sameAs">http://ta.dbpedia.org/resource/நவ_கன்பூசியம்</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Sirke_Tadanlar</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Los_catadores_de_vinagre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Religion_in_China</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Chinese_paintings</field>
+<field name="abstract">The Vinegar Tasters (三酸圖, three sours; 嘗醋翁, vinegar tasting old-men; 嘗醋圖, 尝醋图), is a traditional subject in Chinese religious painting. The allegorical composition depicts the three founders of China's major religious and philosophical traditions: Confucianism, Buddhism, and Taoism. The theme in the painting has been interpreted as favoring Taoism and critical of the others. The three men are dipping their fingers in a vat of vinegar and tasting it; one man reacts with a sour expression, one reacts with a bitter expression, and one reacts with a sweet expression. The three men are Confucius, Buddha, and Laozi, respectively. Each man's expression represents the predominant attitude of his religion: Confucianism saw life as sour, in need of rules to correct the degeneration of people; Buddhism saw life as bitter, dominated by pain and suffering; and Taoism saw life as fundamentally good in its natural state. Another interpretation of the painting is that, since the three men are gathered around one vat of vinegar, the "three teachings" are one. The painting and its theme was featured in the book The Tao of Pooh by American Taoist writer Benjamin Hoff.</field>
+<field name="label">Vinegar tasters</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/09/Vinegar_tasters.jpg</field>
+<field name="comment">The Vinegar Tasters (三酸圖, three sours; 嘗醋翁, vinegar tasting old-men; 嘗醋圖, 尝醋图), is a traditional subject in Chinese religious painting. The allegorical composition depicts the three founders of China's major religious and philosophical traditions: Confucianism, Buddhism, and Taoism. The theme in the painting has been interpreted as favoring Taoism and critical of the others.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Vinegar_tasters.jpg/200px-Vinegar_tasters.jpg</field>
+<field name="link_external">http://www.taoism.net/sanctuary/books/vintaste.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Vinegar_tasters</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Vinegar_tasters</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Vinegar_tasters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Vinegar_tasters</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Three_Vinegar_Tasters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Three_vinegar_tasters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Three_Vinegar_Tasters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Vinegar_Tasters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_three_vinegar_tasters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_vinegar_tasters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Los_catadores_de_vinagre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vinegar_tasters</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3537225</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vinegar_tasters</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Sirkə_içənlər</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vinegar_tasters</field>
+</doc>
+<doc>
+<field name="uri">http://ta.dbpedia.org/resource/நவ_கன்பூசியம்</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vinegar_tasters</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Sirke_Tadanlar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vinegar_tasters</field>
+</doc>
+</add>

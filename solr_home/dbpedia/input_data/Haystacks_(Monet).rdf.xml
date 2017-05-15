@@ -1,0 +1,102 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Claude_Monet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Haystack_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Almiares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q557000</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Pallers_(Monet)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0265mfh</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Almiares</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Haystacks_(Monet)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/積みわら</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Hooibergen_(Monet)</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Kazlak_(Monet_festményei)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Meules</field>
+<field name="sameAs">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="abstract">Haystacks is a title of a series of impressionist paintings by Claude Monet. The primary subjects of all of the paintings in the series are stacks of hay in the field after the harvest season. The title refers primarily to a twenty-five canvas series begun in the end of summer of 1890 and continued through the following spring, using that year's harvest. Some use a broader definition of the title to refer to other paintings by Monet with this same theme. The series is known for its thematic use of repetition to show differences in perception of light across various times of day, seasons, and types of weather. The subjects were painted in fields near Monet's home in Giverny, France. The series is among Monet's most notable works. Although the largest collections of Monet's work is held in Paris at the Musée d'Orsay and Musée Marmottan Monet, other notable Monet collections are in Boston, Massachusetts at the Museum of Fine Arts, New York City at the Metropolitan Museum and Museum of Modern Art, and Tokyo at the National Museum of Western Art, six of the twenty-five haystacks pieces in this series are currently housed at the Art Institute of Chicago in Chicago, Illinois, United States. In addition, the Museum of Fine Arts in Boston, Massachusetts, United States holds two, and the Musée d'Orsay in Paris, France holds one. Other museums that hold parts of this series in their collection include: the Getty Center in Los Angeles, the Hill-Stead Museum in Farmington, Connecticut (which also has one of five from the earlier 1888-9 harvest), the National Gallery of Scotland in Edinburgh, Scotland, United Kingdom, the Minneapolis Institute of Arts in Minneapolis, Minnesota, United States, Kunsthaus Zürich in Zürich, Switzerland, and the Shelburne Museum, Shelburne, Vermont, United States. Several private collections also hold Haystack paintings.</field>
+<field name="label">Haystacks (Monet)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/Wheatstacks_(End_of_Summer),_1890-91_(190_Kb);_Oil_on_canvas,_60_x_100_cm_(23_5-8_x_39_3-8_in),_The_Art_Institute_of_Chicago.jpg</field>
+<field name="comment">Haystacks is a title of a series of impressionist paintings by Claude Monet. The primary subjects of all of the paintings in the series are stacks of hay in the field after the harvest season. The title refers primarily to a twenty-five canvas series begun in the end of summer of 1890 and continued through the following spring, using that year's harvest. Some use a broader definition of the title to refer to other paintings by Monet with this same theme.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Wheatstacks_(End_of_Summer),_1890-91_(190_Kb);_Oil_on_canvas,_60_x_100_cm_(23_5-8_x_39_3-8_in),_The_Art_Institute_of_Chicago.jpg/200px-Wheatstacks_(End_of_Summer),_1890-91_(190_Kb);_Oil_on_canvas,_60_x_100_cm_(23_5-8_x_39_3-8_in),_The_Art_Institute_of_Chicago.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/85352</field>
+<field name="link_external">http://www.hillstead.org/collection/paint_monet.html</field>
+<field name="artist">http://dbpedia.org/resource/Claude_Monet</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Art_Institute_of_Chicago</field>
+<field name="title">Wheatstacks</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Haystacks_(Monet)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Haystacks_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Meules</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/積みわら</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Grainstacks_Snow_Effect</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Haystacks_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Hooibergen_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q557000</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Pallers_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Kazlak_(Monet_festményei)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Haystacks_(Monet)</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/On_the_wallaby_track</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/On_the_wallaby_track</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/On_the_wallaby_track</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/On_the_wallaby_track</field>
+<field name="sameAs">http://yago-knowledge.org/resource/On_the_wallaby_track</field>
+<field name="label">On the wallaby track</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/On_the_wallaby_track</field>
+</doc>
+</add>

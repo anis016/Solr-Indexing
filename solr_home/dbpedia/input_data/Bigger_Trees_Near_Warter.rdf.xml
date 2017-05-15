@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bigger_Trees_Near_Warter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bigger_Trees_Near_Warter</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bigger_Trees_Near_Warter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bigger_Trees_Near_Warter</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4906903</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fpjfg0</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bigger_Trees_Near_Warter</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:2007_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="abstract">Bigger Trees Near Warter or ou Peinture en Plein Air pour l'age Post-Photographique is a large landscape painting by British artist David Hockney. Measuring 15 feet by 40 feet, it depicts a coppice near Warter, Pocklington in the East Riding of Yorkshire and is the largest painting Hockney has completed. It was painted in the East Riding of Yorkshire between February and March 2007. The painting’s alternative title alludes to the technique Hockney used to create the work, a combination of painting out of doors and in front of the subject (called in French ‘sur le motif’) whilst also using the techniques of digital photography.</field>
+<field name="label">Bigger Trees Near Warter</field>
+<field name="comment">Bigger Trees Near Warter or ou Peinture en Plein Air pour l'age Post-Photographique is a large landscape painting by British artist David Hockney. Measuring 15 feet by 40 feet, it depicts a coppice near Warter, Pocklington in the East Riding of Yorkshire and is the largest painting Hockney has completed. It was painted in the East Riding of Yorkshire between February and March 2007.</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=100047&amp;searchid=11159&amp;roomid=5999&amp;tabview=text</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bigger_Trees_Near_Warter</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bigger_Trees_Near_Warter</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4906903</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bigger_Trees_Near_Warter</field>
+</doc>
+</add>

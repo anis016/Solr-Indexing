@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lucretia_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Lucrecia_(Veronés)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Lucrezia_(Veronese)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Lucrezia_(Veronese)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lucretia_(Veronese)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qbs6z</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucretia_(Veronese)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1103170</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paolo_Veronese</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1580s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="abstract">Lucretia is a painting by Paolo Veronese from circa 1585.</field>
+<field name="label">Lucretia (Veronese)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/36/Veronese.Lucretia01.jpg</field>
+<field name="comment">Lucretia is a painting by Paolo Veronese from circa 1585.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Veronese.Lucretia01.jpg/200px-Veronese.Lucretia01.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Paolo_Veronese</field>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="height">109</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Lucretia</field>
+<field name="type">Oil on canvas</field>
+<field name="width">90.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lucretia_(Veronese)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lucretia_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Lucrezia_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucretia_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lucretia_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lucretia_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lucretia_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Lucrecia_(Veronés)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucretia_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Lucrezia_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucretia_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1103170</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucretia_(Veronese)</field>
+</doc>
+</add>

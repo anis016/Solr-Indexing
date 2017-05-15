@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Seven_Sacraments_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3wqx3</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Triptyque_des_sept_sacrements</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Tríptico_de_los_Siete_Sacramentos</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Seven_Sacraments_Altarpiece</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q434461</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sacraments_Altarpiece</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ołtarz_Siedmiu_Sakramentów</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Altar_der_sieben_Sakramente_(Rogier_van_der_Weyden)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Museum_of_Fine_Arts,_Antwerp</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1440s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rogier_van_der_Weyden</field>
+<field name="abstract">The Seven Sacraments Altarpiece is a fixed-wing triptych by the Early Netherlandish artist Rogier van der Weyden and his workshop. It was painted from 1445 to 1450, probably for a church in Poligny, and is now in the Royal Museum of Fine Arts, Antwerp. It depicts the seven sacraments of the Roman Catholic Church. On the left panel are baptism, confirmation and confession and on the right hand panel the ordination of a priest, marriage and the last rites. The central panel (possibly the only autograph part of the work) is dominated by a crucifixion in the foreground, with the sacrament of the Eucharist in the background. Angels hover over each sacrament with scrolls, with clothes colour-matched to the sacraments, from white for baptism to black for the last rites. The side panels also depict the altarpiece's commissioners, along with some portrait heads only added shortly before the work was completed. A coat of arms (probably that of the commissioner) is painted in the spandrels of the painting's inner frame.</field>
+<field name="label">Seven Sacraments Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/21/Seven_Sacraments_Rogier.jpg</field>
+<field name="comment">The Seven Sacraments Altarpiece is a fixed-wing triptych by the Early Netherlandish artist Rogier van der Weyden and his workshop. It was painted from 1445 to 1450, probably for a church in Poligny, and is now in the Royal Museum of Fine Arts, Antwerp. It depicts the seven sacraments of the Roman Catholic Church. On the left panel are baptism, confirmation and confession and on the right hand panel the ordination of a priest, marriage and the last rites.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Seven_Sacraments_Rogier.jpg/200px-Seven_Sacraments_Rogier.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Rogier_van_der_Weyden</field>
+<field name="city">http://dbpedia.org/resource/Antwerp</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Royal_Museum_of_Fine_Arts,_Antwerp</field>
+<field name="title">Seven Sacraments Altarpiece</field>
+<field name="type">oil on panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Seven_Sacraments_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Seven_Sacraments_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Altar_der_sieben_Sakramente_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sacraments_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Tríptico_de_los_Siete_Sacramentos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sacraments_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Seven_Sacraments_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Seven_Sacraments_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Triptyque_des_sept_sacrements</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sacraments_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Seven_Sacraments_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Seven_Sacraments_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ołtarz_Siedmiu_Sakramentów</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sacraments_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q434461</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sacraments_Altarpiece</field>
+</doc>
+</add>

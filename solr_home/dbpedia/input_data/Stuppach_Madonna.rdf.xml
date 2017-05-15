@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Stuppach_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_ze_Stuppach</field>
+<field name="sameAs">http://dbpedia.org/resource/Stuppach_Madonna</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Madonna_van_Stuppach</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_de_Stuppach</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ddbzv8</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Stuppach_Madonna</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q315716</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Stuppacher_Madonna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1519_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Matthias_Gr%C3%BCnewald</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="abstract">The Stuppach Madonna is a 1514 - 1519 painting of the Madonna and Child by the German Renaissance painter Matthias Grünewald. It is located today in the Parish Church of the Coronation of the Virgin (Pfarrkirche Mariä Krönung) in Stuppach. Along with the Isenheim Altarpiece, it is considered one of Grünewald's main works.</field>
+<field name="label">Stuppach Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/91/Mathis_Gothart_Grünewald_001.jpg</field>
+<field name="comment">The Stuppach Madonna is a 1514 - 1519 painting of the Madonna and Child by the German Renaissance painter Matthias Grünewald. It is located today in the Parish Church of the Coronation of the Virgin (Pfarrkirche Mariä Krönung) in Stuppach. Along with the Isenheim Altarpiece, it is considered one of Grünewald's main works.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Mathis_Gothart_Grünewald_001.jpg/200px-Mathis_Gothart_Grünewald_001.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Matthias_Gr%C3%BCnewald</field>
+<field name="city">http://dbpedia.org/resource/Bad_Mergentheim</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">The Stuppach Madonna</field>
+<field name="type">Mixed media on wood</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Stuppach_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Stuppach_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_de_Stuppach</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stuppach_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_ze_Stuppach</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stuppach_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Stuppach_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Stuppach_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Stuppacher_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stuppach_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Madonna_van_Stuppach</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stuppach_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q315716</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stuppach_Madonna</field>
+</doc>
+</add>

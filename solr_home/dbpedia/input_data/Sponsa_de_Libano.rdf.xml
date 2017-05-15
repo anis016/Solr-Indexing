@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sponsa_de_Libano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7579027</field>
+<field name="sameAs">http://dbpedia.org/resource/Sponsa_de_Libano</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sponsa_de_Libano</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bs6_bw</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1891_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Walker_Art_Gallery_Liverpool</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edward_Burne-Jones</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="abstract">Sponsa de Libano (The Bride of Lebanon) is a painting by the Pre-Raphaelite artist Edward Burne-Jones dated 1891. The painting is based on extracts from the Song of Solomon in the Bible. "Come with me from Lebanon, my spouse ... " "Awake, O north wind; and come thou south; blow upon my garden ... " It shows the bride walking in the garden with female personifications of the two winds blowing towards her. On each side of the bride are white lilies, symbolising her virginity. The pose of the bride is inspired by Botticelli's figures. The painting is based on an earlier design by Burne-Jones for a tapestry. Sponsa de Libano forms part of the Victorian collection in the Walker Art Gallery, Liverpool, Merseyside, England. It is painted in gouache and tempera on paper and measures 332.5 centimetres by 155.5 centimetres . The picture was purchased by the gallery in 1896. In the same year the gallery purchased a study for the painting. This had been prepared in about 1891, drawn in chalk on paper, and shows the head used for one of the winds. The model was a twelve-year old Jewish girl, who modelled for both winds, and was told to "look wild and blow with your lips". The study is now held by the Lady Lever Art Gallery in Port Sunlight, Merseyside.</field>
+<field name="label">Sponsa de Libano</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8e/Sponsa_de_Libano.jpg</field>
+<field name="comment">Sponsa de Libano (The Bride of Lebanon) is a painting by the Pre-Raphaelite artist Edward Burne-Jones dated 1891. The painting is based on extracts from the Song of Solomon in the Bible. "Come with me from Lebanon, my spouse ... " "Awake, O north wind; and come thou south; blow upon my garden ... " It shows the bride walking in the garden with female personifications of the two winds blowing towards her. On each side of the bride are white lilies, symbolising her virginity.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Sponsa_de_Libano.jpg/200px-Sponsa_de_Libano.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Edward_Burne-Jones</field>
+<field name="city">http://dbpedia.org/resource/Liverpool</field>
+<field name="height">332.5</field>
+<field name="image"/>
+<field name="imageSize">180</field>
+<field name="museum">http://dbpedia.org/resource/Walker_Art_Gallery</field>
+<field name="title">Sponsa de Libano</field>
+<field name="type">Gouache and tempera on paper</field>
+<field name="width">155.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sponsa_de_Libano</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sponsa_de_Libano</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sponsa_de_Libano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sponsa_de_Libano</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7579027</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sponsa_de_Libano</field>
+</doc>
+</add>

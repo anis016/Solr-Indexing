@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bonaparte,_First_Consul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bonaparte,_First_Consul</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Bonaparte_jako_pierwszy_konsul</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte,_First_Consul</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2909911</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czcsl7</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Bonaparte,_Premier_Consul_(Ingres)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_Napoleon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean_Auguste_Dominique_Ingres</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1804_paintings</field>
+<field name="abstract">Bonaparte, First Consul (Bonaparte, Premier Consul) is an 1804 portrait of Napoleon Bonaparte as First Consul by Jean-Auguste-Dominique Ingres. The painting is now in the collection of the Curtius Museum in Liège.</field>
+<field name="label">Bonaparte, First Consul</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/43/Jean_Auguste_Dominique_Ingres,_Portrait_de_Napoléon_Bonaparte_en_premier_consul.jpg</field>
+<field name="comment">Bonaparte, First Consul (Bonaparte, Premier Consul) is an 1804 portrait of Napoleon Bonaparte as First Consul by Jean-Auguste-Dominique Ingres. The painting is now in the collection of the Curtius Museum in Liège.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Jean_Auguste_Dominique_Ingres,_Portrait_de_Napoléon_Bonaparte_en_premier_consul.jpg/200px-Jean_Auguste_Dominique_Ingres,_Portrait_de_Napoléon_Bonaparte_en_premier_consul.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Jean_Auguste_Dominique_Ingres</field>
+<field name="city">http://dbpedia.org/resource/Li%C3%A8ge</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Curtius_Museum</field>
+<field name="title">Bonaparte, First Consul</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bonaparte,_First_Consul</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bonaparte,_First_Consul</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bonaparte,_First_Consul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bonaparte,_First_Consul</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Bonaparte_jako_pierwszy_konsul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte,_First_Consul</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bonaparte,_Premier_Consul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Bonaparte,_Premier_Consul_(Ingres)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte,_First_Consul</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2909911</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte,_First_Consul</field>
+</doc>
+</add>

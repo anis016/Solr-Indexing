@@ -1,0 +1,104 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Sebastián_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Sébastien_(Raphaël)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Sebastiano_(Raffaello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Sebastián_(Rafael)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2343939</field>
+<field name="sameAs">http://th.dbpedia.org/resource/นักบุญเซบาสเตียน_(ราฟาเอล)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Müqəddəs_Sebastian_(Rafael)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Sant_Sebastià_(Rafael)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Aziz_Sebastian_(Rafael)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Sebastiano_(Raffaello)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Sebastian_(Raphael)</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Святий_Севастіан_(Рафаель)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Святой_Себастьян_(Рафаэль)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08pvdz</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Sébastien_(Raphaël)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Accademia_Carrara</field>
+<field name="abstract">St. Sebastian is a painting by the Italian High Renaissance artist Raphael, circa 1501-1502. Part of his early works, it is housed in the Accademia Carrara of Bergamo, Italy.</field>
+<field name="label">St. Sebastian (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a7/Raffael_021.jpg</field>
+<field name="comment">St. Sebastian is a painting by the Italian High Renaissance artist Raphael, circa 1501-1502. Part of his early works, it is housed in the Accademia Carrara of Bergamo, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Raffael_021.jpg/200px-Raffael_021.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Bergamo</field>
+<field name="height">43</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">St. Sebastian</field>
+<field name="width">34</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Sebastian_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Sebastian_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Святой_Себастьян_(Рафаэль)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2343939</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Müqəddəs_Sebastian_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Sant_Sebastià_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/นักบุญเซบาสเตียน_(ราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Aziz_Sebastian_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Святий_Севастіан_(Рафаель)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Raphael)</field>
+</doc>
+</add>

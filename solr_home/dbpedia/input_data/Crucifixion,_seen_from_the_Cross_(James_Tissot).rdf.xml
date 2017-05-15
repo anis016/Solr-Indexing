@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion,_seen_from_the_Cross_(James_Tissot)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הצליבה,_מבט_מן_הצלב</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion,_seen_from_the_Cross_(James_Tissot)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5189805</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Crucifixion,_seen_from_the_Cross_(James_Tissot)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gg4yy6</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crucifixion_of_Jesus_in_art</field>
+<field name="abstract">The Crucifixion, seen from the Cross is a c. 1890 watercolor painting with an unusual depiction of the Crucifixion of Jesus, by the French painter James Tissot. The approach used in the work is unusual in that it shows the Crucifixion from the perspective of Jesus. It is part of the series The Life of Jesus Christ, a series of 350 watercolors completed by Tissot after extensive travels in the Middle East to study details of contemporary life there, which he used in the paintings. Prints were also published of the compositions. The whole watercolor series, completed between 1886-1894, was acquired by the Brooklyn Museum in New York in 1900.</field>
+<field name="label">Crucifixion, seen from the Cross (James Tissot)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7f/Asseenfromthecross-vi.jpg</field>
+<field name="comment">The Crucifixion, seen from the Cross is a c. 1890 watercolor painting with an unusual depiction of the Crucifixion of Jesus, by the French painter James Tissot. The approach used in the work is unusual in that it shows the Crucifixion from the perspective of Jesus. It is part of the series The Life of Jesus Christ, a series of 350 watercolors completed by Tissot after extensive travels in the Middle East to study details of contemporary life there, which he used in the paintings.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Asseenfromthecross-vi.jpg/200px-Asseenfromthecross-vi.jpg</field>
+<field name="link_external">http://www.artbible.info/art/large/495.html</field>
+<field name="link_external">http://www.brooklynmuseum.org/exhibitions/james_tissot/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Crucifixion,_seen_from_the_Cross_(James_Tissot)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Crucifixion,_seen_from_the_Cross_(James_Tissot)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Crucifixion,_seen_from_the_Cross_(James_Tissot)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Crucifixion,_seen_from_the_Cross_(James_Tissot)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion,_seen_from_the_Cross_(James_Tissot.)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5189805</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion,_seen_from_the_Cross_(James_Tissot)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הצליבה,_מבט_מן_הצלב</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion,_seen_from_the_Cross_(James_Tissot)</field>
+</doc>
+</add>

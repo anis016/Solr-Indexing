@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jazz_(Kanso_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvv9jv</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Jazz_(Kanso_series)</field>
+<field name="sameAs">http://dbpedia.org/resource/Jazz_(Kanso_series)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6168165</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1978_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1979_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Jazz (Kanso series) is a series of 20 paintings made by Nabil Kanso in 1978-79. The subjects of the works are based on the jazz music and the entertainments night life in New York and New Orleans. The paintings are done in oil and acrylic on canvas measuring 224 X 182 cm (88 X 72 inches) each. Their compositions reflect predominant red tonality built with broad brushstrokes. Works from the series were exhibited in Atlanta in 1985.</field>
+<field name="label">Jazz (Kanso series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f0/Jazz_Piano_Forte.jpg</field>
+<field name="comment">Jazz (Kanso series) is a series of 20 paintings made by Nabil Kanso in 1978-79. The subjects of the works are based on the jazz music and the entertainments night life in New York and New Orleans. The paintings are done in oil and acrylic on canvas measuring 224 X 182 cm (88 X 72 inches) each. Their compositions reflect predominant red tonality built with broad brushstrokes. Works from the series were exhibited in Atlanta in 1985.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Jazz_Piano_Forte.jpg/200px-Jazz_Piano_Forte.jpg</field>
+<field name="link_external">http://nabilkanso.com/JAZZ.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Jazz_(Kanso_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jazz_(Kanso_series)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Jazz_(Kanso_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Jazz_(Kanso_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jazz_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6168165</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jazz_(Kanso_series)</field>
+</doc>
+</add>

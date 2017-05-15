@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pastoral_Concert</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pastoral_Concert</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Pastoral_Concert</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmcmh6</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Koncert_wiejski</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3686086</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Concerto_campestre</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Concerto_Campestre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgione</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1509_paintings</field>
+<field name="abstract">The Pastoral Concert is a circa 1509 oil painting attributed to either one of the Italian Renaissance masters, Titian or Giorgione. It is located in the Musée du Louvre in Paris, France.</field>
+<field name="label">Pastoral Concert</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/61/Fiesta_campestre.jpg</field>
+<field name="comment">The Pastoral Concert is a circa 1509 oil painting attributed to either one of the Italian Renaissance masters, Titian or Giorgione. It is located in the Musée du Louvre in Paris, France.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Fiesta_campestre.jpg/200px-Fiesta_campestre.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Pastoral Concert</field>
+<field name="type">Oil on canvas</field>
+<field name="year">c. 1509</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Pastoral_Concert</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pastoral_Concert</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pastoral_Concert_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Pastoral_Concert</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Concert_Champ%C3%AAtre_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Concerto_campestre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pastoral_Concert</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Pastoral_Concert</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Pastoral_Concert</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Concerto_Campestre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pastoral_Concert</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Koncert_wiejski</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pastoral_Concert</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3686086</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pastoral_Concert</field>
+</doc>
+</add>

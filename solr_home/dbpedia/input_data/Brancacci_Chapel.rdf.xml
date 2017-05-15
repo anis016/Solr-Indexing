@@ -1,0 +1,154 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Chapelle_Brancacci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Capilla_Brancacci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cappella_Brancacci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Kaplica_Brancaccich</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Капелла_Бранкаччи</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Brancacci_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Capella_Brancacci</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Chapelle_Brancacci</field>
+<field name="sameAs">http://id.dbpedia.org/resource/Kapel_Brancacci</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Capilla_Brancacci</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Cappela_Brancacci</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Kaplica_Brancaccich</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cappella_Brancacci</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Капелла_Бранкаччи</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1996075</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b_3w6</field>
+<field name="sameAs">http://he.dbpedia.org/resource/קפלת_בראנקאצ'י</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Chapel_Brancacci</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Brancacci_Şapeli</field>
+<field name="sameAs">http://th.dbpedia.org/resource/โบสถ์น้อยบรันกัชชี</field>
+<field name="sameAs">http://sr.dbpedia.org/resource/Капела_Бранкачи</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Brancacci_Chapel</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/布兰卡契小堂</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Catholic_Church_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Religious_museums_in_Italy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Chapels_in_Florence</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippino_Lippi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1386_establishments_in_Italy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_museums_and_galleries_in_Florence</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Masaccio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1420s_paintings</field>
+<field name="abstract">The Brancacci Chapel (in Italian, "Cappella dei Brancacci") is a chapel in the Church of Santa Maria del Carmine in Florence, central Italy. It is sometimes called the "Sistine Chapel of the early Renaissance" for its painting cycle, among the most famous and influential of the period. Construction of the chapel was commissioned by Pietro Brancacci and begun in 1386. Public access is currently gained via the neighbouring convent, designed by Brunelleschi. The church and the chapel are treated as separate places to visit and as such have different opening times and it is quite difficult to see the rest of the church from the chapel. The patron of the pictorial decoration was Felice Brancacci, descendant of Pietro, who had served as the Florentine ambassador to Cairo until 1423. Upon his return to Florence, he hired Masolino da Panicale to paint his chapel. Masolino's associate, 21-year-old Masaccio, 18 years younger than Masolino, assisted, but during painting Masolino left to Hungary, where he was painter to the king, and the commission was given to Masaccio. By the time Masolino returned he was learning from his talented former student. However, Masaccio was called to Rome before he could finish the chapel, and died in Rome at the age of 27. Portions of the chapel were completed later by Filippino Lippi. Unfortunately during the Baroque period some of the paintings were seen as unfashionable and a tomb was placed in front of them.</field>
+<field name="label">Brancacci Chapel</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cb/Izokefalizm.jpg</field>
+<field name="comment">The Brancacci Chapel (in Italian, "Cappella dei Brancacci") is a chapel in the Church of Santa Maria del Carmine in Florence, central Italy. It is sometimes called the "Sistine Chapel of the early Renaissance" for its painting cycle, among the most famous and influential of the period. Construction of the chapel was commissioned by Pietro Brancacci and begun in 1386. Public access is currently gained via the neighbouring convent, designed by Brunelleschi.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Izokefalizm.jpg/200px-Izokefalizm.jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/l/lippi/flippino/brancacc/index.html</field>
+<field name="link_external">http://www.wga.hu/html_m/m/masaccio/brancacc/index.html</field>
+<field name="link_external">http://www.casasantapia.com/art/masaccio/brancaccichapel.htm</field>
+<field name="link_external">http://www.museicivicifiorentini.it/en/brancacci/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Brancacci_Chapel</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Cappela_Brancacci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Brancacci_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cappella_Brancacci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Tribute_Money_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="museum">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1996075</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/布兰卡契小堂</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Chapel_Brancacci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Capella_Brancacci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/קפלת_בראנקאצ'י</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://id.dbpedia.org/resource/Kapel_Brancacci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://sr.dbpedia.org/resource/Капела_Бранкачи</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/โบสถ์น้อยบรันกัชชี</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Brancacci_Şapeli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brancacci_Chapel</field>
+</doc>
+</add>

@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Menaced_Assassin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03czzl6</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Menaced_Assassin</field>
+<field name="sameAs">http://it.dbpedia.org/resource/L'assassino_minacciato</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Menaced_Assassin</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3818801</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1927_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="abstract">The Menaced Assassin is a 1927 oil on canvas painting by Belgian surrealist artist René Magritte. The main subject of the painting, a blood-smeared nude woman, is seen lying on a couch. The assassin of the painting's title, a well-dressed man, stands ready to leave, his coat and hat on a chair next to his bag. He is however delayed by the sound of music, and in an unhurriedly relaxed manner, listens to a gramophone. In the meantime, two men armed with club and net wait in the foyer to ensnare him, whilst three more men also watch from over the balcony.</field>
+<field name="label">The Menaced Assassin</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/54/The_Menaced_Assassin.jpg</field>
+<field name="comment">The Menaced Assassin is a 1927 oil on canvas painting by Belgian surrealist artist René Magritte. The main subject of the painting, a blood-smeared nude woman, is seen lying on a couch. The assassin of the painting's title, a well-dressed man, stands ready to leave, his coat and hat on a chair next to his bag. He is however delayed by the sound of music, and in an unhurriedly relaxed manner, listens to a gramophone.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/The_Menaced_Assassin.jpg/200px-The_Menaced_Assassin.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="city">http://dbpedia.org/resource/New_York</field>
+<field name="height">150.4</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">The Menaced Assassin</field>
+<field name="width">195.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Menaced_Assassin</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Menaced_Assassin</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/L'assassino_minacciato</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Menaced_Assassin</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Assassin_menac%C3%A9</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Menaced_Assassin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Menaced_Assassin</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Assassin_menace</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3818801</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Menaced_Assassin</field>
+</doc>
+</add>

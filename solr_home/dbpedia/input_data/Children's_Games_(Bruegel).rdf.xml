@@ -1,0 +1,104 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Zabawy_dziecięce</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Kinderspiele</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Giochi_di_bambini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Jeux_d’enfants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Children's_Games_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Zabawy_dziecięce</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Kinderspelen</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Giochi_di_bambini</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/子供の遊戯</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j2bb5b</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Kinderspiele</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Jeux_d’enfants</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Children's_Games_(Bruegel)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q697332</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Çocuk_Oyunları_(tablo)</field>
+<field name="sameAs">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/משחקי_ילדים_(ציור)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Children's_games</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Kunsthistorisches_Museum</field>
+<field name="abstract">Children's Games is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder, painted in 1560. It is currently held and exhibited at the Kunsthistorisches Museum in Vienna.</field>
+<field name="label">Children's Games (Bruegel)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e5/Pieter_Bruegel_d._Ä._041b.jpg</field>
+<field name="comment">Children's Games is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder, painted in 1560. It is currently held and exhibited at the Kunsthistorisches Museum in Vienna.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Pieter_Bruegel_d._Ä._041b.jpg/200px-Pieter_Bruegel_d._Ä._041b.jpg</field>
+<field name="link_external">http://www.khm.at/en/</field>
+<field name="link_external">http://www.pieter-bruegel-the-elder.org</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=321</field>
+<field name="link_external">http://www.art-drawing.ru/biographies/brief-biographies/199-bruegel-peter</field>
+<field name="link_external">http://www.boschbruegel.com</field>
+<field name="artist">http://dbpedia.org/resource/Pieter_Bruegel_the_Elder</field>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="height">118</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Children's Games</field>
+<field name="type">Oil on panel</field>
+<field name="width">161</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Children's_Games_(Bruegel)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Children's_Games_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/子供の遊戯</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Kinderspelen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q697332</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/משחקי_ילדים_(ציור)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Çocuk_Oyunları_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Children's_Games_(Bruegel)</field>
+</doc>
+</add>

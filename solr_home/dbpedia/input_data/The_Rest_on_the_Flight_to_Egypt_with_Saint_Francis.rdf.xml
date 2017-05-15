@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Rest_on_the_Flight_to_Egypt_with_Saint_Francis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3936375</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqqmz2</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Rest_on_the_Flight_to_Egypt_with_Saint_Francis</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Riposo_in_Egitto_con_san_Francesco</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Rest_on_the_Flight_to_Egypt_with_Saint_Francis</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Correggio</field>
+<field name="abstract">The Rest on the Flight to Egypt with Saint Francis is a painting by the Italian Renaissance master Correggio, dated to c. 1520 and housed in the Uffizi Gallery of Florence.</field>
+<field name="label">The Rest on the Flight to Egypt with Saint Francis</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/65/Correggio_059.jpg</field>
+<field name="comment">The Rest on the Flight to Egypt with Saint Francis is a painting by the Italian Renaissance master Correggio, dated to c. 1520 and housed in the Uffizi Gallery of Florence.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Correggio_059.jpg/200px-Correggio_059.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Antonio_da_Correggio</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">123.5</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum">http://dbpedia.org/resource/Uffizi</field>
+<field name="title">The Rest on the Flight to Egypt with Saint Francis</field>
+<field name="type">Oil on canvas</field>
+<field name="width">106.5</field>
+<field name="year">c. 1520</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Rest_on_the_Flight_to_Egypt_with_Saint_Francis</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Rest_on_the_Flight_to_Egypt_with_Saint_Francis</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Riposo_in_Egitto_con_san_Francesco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Rest_on_the_Flight_to_Egypt_with_Saint_Francis</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Rest_on_the_Flight_to_Egypt_with_Saint_Francis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Rest_on_the_Flight_to_Egypt_with_Saint_Francis</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rest_in_Egypt_with_St._Francis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rest_on_the_Flight_to_Egypt_with_Saint_Francis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Rest_on_the_Flight_to_Egypt_with_St._Francis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3936375</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Rest_on_the_Flight_to_Egypt_with_Saint_Francis</field>
+</doc>
+</add>

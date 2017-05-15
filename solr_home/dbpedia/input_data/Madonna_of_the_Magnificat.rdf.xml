@@ -1,0 +1,99 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Magnificat_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_the_Magnificat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_the_Magnificat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Magnificat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Madona_s_Dieťaťom_a_piatimi_anjelmi</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_du_Magnificat</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rhvls</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_del_Magnificat</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_the_Magnificat</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Madonna_del_Magnificat</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Magnificat</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2551625</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Magnificat</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_Madonnas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_paintings_in_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1481_paintings</field>
+<field name="abstract">The Madonna of the Magnificat is the painting in a circular tondo form by the Italian Renaissance master Sandro Botticelli, painted in 1481, and now in the Uffizi in Florence. This work portrays the Virgin Mary crowned by two angels. The Child Jesus is keeping in a hand the pomegranate, symbol of the Resurrection. The painting is said to portray the family of Piero de' Medici, de facto lord of Florence from 1464. His wife Lucrezia Tornabuoni as Mary, Lorenzo de' Medici as the young man with the ink-pot, flanked by his brother Giuliano de' Medici who is holding a book. Behind the two boys is Maria, while the two older sisters are holding the crown in the background: Bianca on the left and Nannina on the right. The newborn would be the daughter of Lorenzo, Lucrezia de' Medici.</field>
+<field name="label">Madonna of the Magnificat</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a5/Botticelli_Uffizi_37.jpg</field>
+<field name="comment">The Madonna of the Magnificat is the painting in a circular tondo form by the Italian Renaissance master Sandro Botticelli, painted in 1481, and now in the Uffizi in Florence. This work portrays the Virgin Mary crowned by two angels. The Child Jesus is keeping in a hand the pomegranate, symbol of the Resurrection. The painting is said to portray the family of Piero de' Medici, de facto lord of Florence from 1464.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Botticelli_Uffizi_37.jpg/200px-Botticelli_Uffizi_37.jpg</field>
+<field name="link_external">http://www.polomuseale.firenze.it/catalogo/scheda.asp?nctn=00188562&amp;value=1</field>
+<field name="link_external">http://www.googleartproject.com/museums/uffizi/madonna-of-the-magnificat-73</field>
+<field name="artist">http://dbpedia.org/resource/Sandro_Botticelli</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">118</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Uffizi</field>
+<field name="title">Madonna of the Magnificat</field>
+<field name="type">Tempera</field>
+<field name="width">118</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_the_Magnificat</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_the_Magnificat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Magnificat_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_du_Magnificat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Magnificat</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_del_Magnificat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Magnificat</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Magnificat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Magnificat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Magnificat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Magnificat_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2551625</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Magnificat</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Madonna_del_Magnificat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Magnificat</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Madona_s_Dieťaťom_a_piatimi_anjelmi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Magnificat</field>
+</doc>
+</add>

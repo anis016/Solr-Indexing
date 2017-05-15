@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Eight_Elvises</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Aštuoni_Elviai</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmc8r_</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Eight_Elvises</field>
+<field name="sameAs">http://he.dbpedia.org/resource/שמונה_אלביסים</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2906387</field>
+<field name="sameAs">http://dbpedia.org/resource/Eight_Elvises</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pop_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Elvis_Presley</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1963_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:20th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andy_Warhol</field>
+<field name="abstract">Eight Elvises is a 1963 silkscreen painting by American pop artist Andy Warhol of Elvis Presley. On November 26, 2009, The Economist reported that the painting was sold by Italian collector Annibale Berlingieri to a private collector brokered by Philippe Ségalot, a French art consultant for $100 million, making it one of the most expensive paintings ever sold. The report described Warhol as the "bellwether of the art market."</field>
+<field name="label">Eight Elvises</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/be/Eight_Elvises.jpg</field>
+<field name="comment">Eight Elvises is a 1963 silkscreen painting by American pop artist Andy Warhol of Elvis Presley. On November 26, 2009, The Economist reported that the painting was sold by Italian collector Annibale Berlingieri to a private collector brokered by Philippe Ségalot, a French art consultant for $100 million, making it one of the most expensive paintings ever sold. The report described Warhol as the "bellwether of the art market."</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Eight_Elvises.jpg/200px-Eight_Elvises.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum"/>
+<field name="title">Eight Elvises</field>
+<field name="type">Silkscreen on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Eight_Elvises</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Eight_Elvises</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Eight_Elvises</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Eight_Elvises</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2906387</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Eight_Elvises</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/שמונה_אלביסים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Eight_Elvises</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Aštuoni_Elviai</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Eight_Elvises</field>
+</doc>
+</add>

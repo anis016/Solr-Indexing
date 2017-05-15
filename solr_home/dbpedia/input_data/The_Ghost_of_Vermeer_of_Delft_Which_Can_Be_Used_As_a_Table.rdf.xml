@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Призрак_Вермера_Делфтского,_способный_послужить_и_столом</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Призрак_Вермера_Делфтского,_способный_послужить_и_столом</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Привид_Вермера_Делфтського,_здатний_послужити_й_столом</field>
+<field name="sameAs">http://he.dbpedia.org/resource/רוחו_של_ורמר_מדלפט_היכולה_לשמש_כשולחן</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.064xgh</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2067674</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Fantôme_de_Vermeer_de_Delft,_pouvant_être_utilisé_comme_table</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1934_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">The Ghost of Vermeer of Delft Which Can Be Used As a Table (1934) is a painting by Spanish surrealist Salvador Dalí. The title refers to the Dutch painter Johannes Vermeer and the image of Vermeer viewed from his back is a reference to Vermeer's paintings The Art of Painting and The Little Street. In this image Vermeer is represented as a dark spindly figure in a kneeling position. The figure’s outstretched leg serves as a table top surface, on which sits a bottle and a small glass. This leg tapers to a baluster-like stub, however there is a shoe nearby.</field>
+<field name="label">The Ghost of Vermeer of Delft Which Can Be Used As a Table</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3d/The_Ghost_of_Vermeer.jpg</field>
+<field name="comment">The Ghost of Vermeer of Delft Which Can Be Used As a Table (1934) is a painting by Spanish surrealist Salvador Dalí. The title refers to the Dutch painter Johannes Vermeer and the image of Vermeer viewed from his back is a reference to Vermeer's paintings The Art of Painting and The Little Street. In this image Vermeer is represented as a dark spindly figure in a kneeling position. The figure’s outstretched leg serves as a table top surface, on which sits a bottle and a small glass.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/The_Ghost_of_Vermeer.jpg/200px-The_Ghost_of_Vermeer.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/St._Petersburg,_Florida</field>
+<field name="height">24</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Salvador_Dali_Museum</field>
+<field name="title">The Ghost of Vermeer of Delft Which Can Be Used As a Table</field>
+<field name="width">18</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Fantôme_de_Vermeer_de_Delft,_pouvant_être_utilisé_comme_table</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2067674</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/רוחו_של_ורמר_מדלפט_היכולה_לשמש_כשולחן</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Привид_Вермера_Делфтського,_здатний_послужити_й_столом</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_Vermeer_of_Delft_Which_Can_Be_Used_As_a_Table</field>
+</doc>
+</add>

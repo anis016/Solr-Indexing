@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Old_Vineyard_with_Peasant_Woman_(van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Old_Vineyard_with_Peasant_Woman_(van_Gogh)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7085379</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j3fbbw</field>
+<field name="sameAs">http://dbpedia.org/resource/Old_Vineyard_with_Peasant_Woman_(van_Gogh)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Van_Gogh_Museum</field>
+<field name="abstract">Old Vineyard with Peasant Woman is a drawing by Vincent van Gogh that he made in May 1890 when he lived in Auvers-sur-Oise, France. Van Gogh spent the last few months of his life in Auvers-sur-Oise, a small town just north of Paris, after he left the asylum in Saint-Rémy in May 1890. Old Vineyard with Peasant Woman is the drawing he mentions in his letter of 25 May 1890 to his brother Theo and wife Jo shortly after arriving in Auvers, in which he says he plans to paint a large no. 30 canvas from it. However there is no known no. 30 canvas of this scene, although the same house and garden appear in The House of Pere Eloi. The drawing is washed in diluted oils and watercolour, predominantly in violet tones (in his preceding letter to Theo and Jo he says he saw violets more often following his return from the south). A red roof provides a contrasting accent in the manner he had learned from Delacroix in his early 1887 Paris days and repeated in some of the still lifes he made in Saint-Rémy. The drawing is in the collection of the Van Gogh Museum, Amsterdam.</field>
+<field name="label">Old Vineyard with Peasant Woman (van Gogh)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/91/Vincent_van_Gogh_-_Old_vineyard_with_peasant_woman.jpg</field>
+<field name="comment">Old Vineyard with Peasant Woman is a drawing by Vincent van Gogh that he made in May 1890 when he lived in Auvers-sur-Oise, France. Van Gogh spent the last few months of his life in Auvers-sur-Oise, a small town just north of Paris, after he left the asylum in Saint-Rémy in May 1890. Old Vineyard with Peasant Woman is the drawing he mentions in his letter of 25 May 1890 to his brother Theo and wife Jo shortly after arriving in Auvers, in which he says he plans to paint a large no.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Vincent_van_Gogh_-_Old_vineyard_with_peasant_woman.jpg/200px-Vincent_van_Gogh_-_Old_vineyard_with_peasant_woman.jpg</field>
+<field name="artist"/>
+<field name="height">44</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Amsterdam</field>
+<field name="museum">http://dbpedia.org/resource/Van_Gogh_Museum</field>
+<field name="title">Old Vineyard with Peasant Woman</field>
+<field name="type">Brush in oil and watercolour, pencil on laid paper</field>
+<field name="width">54</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Old_Vineyard_with_Peasant_Woman_(van_Gogh)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Old_Vineyard_with_Peasant_Woman_(van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Old_Vineyard_with_Peasant_Woman_(van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Old_Vineyard_with_Peasant_Woman_(van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7085379</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Old_Vineyard_with_Peasant_Woman_(van_Gogh)</field>
+</doc>
+</add>

@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ancient_Rome_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ancient_Rome_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Ancient_Rome_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09gd2mg</field>
+<field name="sameAs">http://si.dbpedia.org/resource/ඒන්ෂන්ට්_රෝම්_(සිත්තම)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3094657</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Galerie_de_vues_de_la_Rome_antique</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1750s_paintings</field>
+<field name="abstract">Ancient Rome is an oil on canvas painting by Giovanni Paolo Panini. It is currently owned and on display at the Metropolitan Museum of Art in New York City. Panini painted the piece as a pendant painting to Modern Rome for the Count de Stainville in 1757. The painting depicts many of the most significant architectural sites and sculptures from Ancient Rome, such as the Colosseum, the Pantheon, Laocoön and His Sons, and Farnese Hercules. Both Panini and Panini's patron the Count de Stainville make an appearance in the work. Panini sits in the armchair and the Count de Stainville stands holding a guidebook.</field>
+<field name="label">Ancient Rome (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d5/Ancient_Rome_Panini.jpg</field>
+<field name="comment">Ancient Rome is an oil on canvas painting by Giovanni Paolo Panini. It is currently owned and on display at the Metropolitan Museum of Art in New York City. Panini painted the piece as a pendant painting to Modern Rome for the Count de Stainville in 1757. The painting depicts many of the most significant architectural sites and sculptures from Ancient Rome, such as the Colosseum, the Pantheon, Laocoön and His Sons, and Farnese Hercules.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Ancient_Rome_Panini.jpg/200px-Ancient_Rome_Panini.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ancient_Rome_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ancient_Rome_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ancient_Rome_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ancient_Rome_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ancient_Rome_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Galerie_de_vues_de_la_Rome_antique</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ancient_Rome_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3094657</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ancient_Rome_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://si.dbpedia.org/resource/ඒන්ෂන්ට්_රෝම්_(සිත්තම)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ancient_Rome_(painting)</field>
+</doc>
+</add>

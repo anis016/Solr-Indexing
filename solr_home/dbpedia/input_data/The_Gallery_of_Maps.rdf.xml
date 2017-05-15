@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Gallery_of_Maps</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Galleria_delle_carte_geografiche</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.080h3mk</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Galerie_des_cartes_géographiques</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallery_of_Maps</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Gallery_of_Maps</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Галерея_географічних_карт</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q634691</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Галерея_географических_карт</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/地图廊</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Buildings_and_structures_in_Vatican_City</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1580s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Vatican_Museums</field>
+<field name="abstract">The Gallery of Maps is a gallery located on the west side of the Belvedere Courtyard in the Vatican containing a series of painted topographical maps of Italy based on drawings by friar and geographer Ignazio Danti. The galley was commissioned in 1580 by Pope Gregory XIII as part of other artistic works commissioned by the Pope to decorate the Vatican. It took Danti three years (1580–1583) to complete the 40 panels of the 120 m long gallery.</field>
+<field name="label">The Gallery of Maps</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5d/0_Galleria_delle_carte_geografiche_(1).JPG</field>
+<field name="comment">The Gallery of Maps is a gallery located on the west side of the Belvedere Courtyard in the Vatican containing a series of painted topographical maps of Italy based on drawings by friar and geographer Ignazio Danti. The galley was commissioned in 1580 by Pope Gregory XIII as part of other artistic works commissioned by the Pope to decorate the Vatican. It took Danti three years (1580–1583) to complete the 40 panels of the 120 m long gallery.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/0_Galleria_delle_carte_geografiche_(1).JPG/200px-0_Galleria_delle_carte_geografiche_(1).JPG</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Gallery_of_Maps</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Gallery_of_Maps</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gallery_of_Maps</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Gallery_of_Maps</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Gallery_of_Maps</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Galleria_delle_carte_geografiche</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallery_of_Maps</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Galerie_des_cartes_géographiques</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallery_of_Maps</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q634691</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallery_of_Maps</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Галерея_географических_карт</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallery_of_Maps</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/地图廊</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallery_of_Maps</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Галерея_географічних_карт</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallery_of_Maps</field>
+</doc>
+</add>

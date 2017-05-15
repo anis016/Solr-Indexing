@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shakuntala,_Raja_Ravi_Varma</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shakuntala_(Raja_Ravi_Varma)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0405ljp</field>
+<field name="sameAs">http://pa.dbpedia.org/resource/ਸ਼ਕੁੰਤਲਾ_(ਰਾਜਾ_ਰਵੀ_ਵਰਮਾ)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7487097</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Shakuntala_(Raja_Ravi_Varma)</field>
+<field name="sameAs">http://dbpedia.org/resource/Shakuntala_(Raja_Ravi_Varma)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Indian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1870_paintings</field>
+<field name="abstract">Shakuntala or Shakuntala looking for Dushyanta is an epic painting by celebrated Indian painter, Raja Ravi Varma. Ravi Varma, depicts Shakuntala, a prominent character of Mahabaratha, pretending to remove a thorn from her foot, while actually looking for her husband/lover, Dushyantha, while her friends call her bluff.</field>
+<field name="label">Shakuntala (Raja Ravi Varma)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fd/Ravi_Varma-Shakuntala_stops_to_look_back.jpg</field>
+<field name="comment">Shakuntala or Shakuntala looking for Dushyanta is an epic painting by celebrated Indian painter, Raja Ravi Varma. Ravi Varma, depicts Shakuntala, a prominent character of Mahabaratha, pretending to remove a thorn from her foot, while actually looking for her husband/lover, Dushyantha, while her friends call her bluff.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ravi_Varma-Shakuntala_stops_to_look_back.jpg/200px-Ravi_Varma-Shakuntala_stops_to_look_back.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raja_Ravi_Varma</field>
+<field name="city">http://dbpedia.org/resource/Kilimanoor</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="title">Shakuntala</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Shakuntala_(Raja_Ravi_Varma)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Shakuntala_(Raja_Ravi_Varma)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Shakuntala_(Raja_Ravi_Varma)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Shakuntala_(Raja_Ravi_Varma)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7487097</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Shakuntala_(Raja_Ravi_Varma)</field>
+</doc>
+<doc>
+<field name="uri">http://pa.dbpedia.org/resource/ਸ਼ਕੁੰਤਲਾ_(ਰਾਜਾ_ਰਵੀ_ਵਰਮਾ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Shakuntala_(Raja_Ravi_Varma)</field>
+</doc>
+</add>

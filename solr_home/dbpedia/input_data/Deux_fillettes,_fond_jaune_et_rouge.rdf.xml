@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Deux_fillettes,_fond_jaune_et_rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Deux_fillettes,_fond_jaune_et_rouge</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deux_fillettes,_fond_jaune_et_rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Deux_fillettes,_fond_jaune_et_rouge</field>
+<field name="sameAs">http://dbpedia.org/resource/Deux_fillettes,_fond_jaune_et_rouge</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5266370</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q9wkc</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1947_paintings</field>
+<field name="abstract">Deux fillettes, fond jaune et rouge (Two Girls in a Yellow and Red Interior) (1947), oil on canvas, 61 x 49.8 cm (24 x 19 5/8 inches) is a painting by Henri Matisse in the collection of the Barnes Foundation, Merion, Pennsylvania. Alfred Barnes became one of Matisse's most important patrons. In addition to a commissioned mural in 1932 Dance II, 1932 Barnes acquired many paintings and drawings by Matisse. Pierre Matisse who was Matisse's son living in New York was instrumental in facilitating Barnes in purchasing works from his father. During the early-to-mid-1940s Matisse was in poor health. Eventually by 1950 he stopped painting in favor of his paper cutouts. This painting in the Barnes collection is an example of one of the final group of oil paintings in Matisse's career.</field>
+<field name="label">Deux fillettes, fond jaune et rouge</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5b/Deux_Fillettes.jpg</field>
+<field name="comment">Deux fillettes, fond jaune et rouge (Two Girls in a Yellow and Red Interior) (1947), oil on canvas, 61 x 49.8 cm (24 x 19 5/8 inches) is a painting by Henri Matisse in the collection of the Barnes Foundation, Merion, Pennsylvania. Alfred Barnes became one of Matisse's most important patrons. In addition to a commissioned mural in 1932 Dance II, 1932 Barnes acquired many paintings and drawings by Matisse.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Deux_Fillettes.jpg/200px-Deux_Fillettes.jpg</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/matisse/matisse.fillettes-jaune-rouge.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Merion,_Pennsylvania</field>
+<field name="height">61</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Barnes_Foundation</field>
+<field name="title">Deux fillettes, fond jaune et rouge</field>
+<field name="width">49.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Deux_fillettes,_fond_jaune_et_rouge</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Deux_fillettes,_fond_jaune_et_rouge</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5266370</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Deux_fillettes,_fond_jaune_et_rouge</field>
+</doc>
+</add>

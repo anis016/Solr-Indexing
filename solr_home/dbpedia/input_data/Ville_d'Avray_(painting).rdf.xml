@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ville_d'Avray_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ville_d'Avray_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qw2_s</field>
+<field name="sameAs">http://dbpedia.org/resource/Ville_d'Avray_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7931023</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1865_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean-Baptiste-Camille_Corot</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="abstract">Ville d’Avray is a 1865 painting by French artist Jean-Baptiste-Camille Corot. The painting is an Oil on canvas is currently on display at the National Gallery of Art in Washington D.C.. The painting is of the commune where Corot lived in Ville d'Avray.</field>
+<field name="label">Ville d'Avray (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/80/Corot.villedavray.750pix.jpg</field>
+<field name="comment">Ville d’Avray is a 1865 painting by French artist Jean-Baptiste-Camille Corot. The painting is an Oil on canvas is currently on display at the National Gallery of Art in Washington D.C.. The painting is of the commune where Corot lived in Ville d'Avray.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Corot.villedavray.750pix.jpg/200px-Corot.villedavray.750pix.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">65</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">Ville d’Avray</field>
+<field name="type">oil on canvas</field>
+<field name="width">35</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ville_d'Avray_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ville_d'Avray_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ville_d%E2%80%99Avray</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ville_d'Avray_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ville_d'Avray_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7931023</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ville_d'Avray_(painting)</field>
+</doc>
+</add>

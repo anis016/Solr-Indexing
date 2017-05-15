@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Hat_Makes_the_Man</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_Hut_macht_den_Mann</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1194502</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dc0t5</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Hat_Makes_the_Man</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hat_Makes_the_Man</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1920_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Max_Ernst</field>
+<field name="abstract">The Hat Makes the Man (1920) is a collage by the German dadaist/surrealist Max Ernst. It is composed of cut out images of hats from catalogues linked by gouache and pencil outlines to create abstract anthropomorphic figures. There are inscriptions in ink that read "seed-covered stacked-up man seedless waterformer ('edelformer') well fitting nervous system also tightly fitting nerves! (the hat makes the man) (style is the tailor). " The idea for this work began as a sculpture made from wooden hat molds. Ernst was an important figure in the dada movement, which often criticized the tastes of mainstream culture and depicted modern man as a conformist automaton.</field>
+<field name="label">The Hat Makes the Man</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/02/The_Hat_Makes_the_Man.jpg</field>
+<field name="comment">The Hat Makes the Man (1920) is a collage by the German dadaist/surrealist Max Ernst. It is composed of cut out images of hats from catalogues linked by gouache and pencil outlines to create abstract anthropomorphic figures. There are inscriptions in ink that read "seed-covered stacked-up man seedless waterformer ('edelformer') well fitting nervous system also tightly fitting nerves! (the hat makes the man) (style is the tailor).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/The_Hat_Makes_the_Man.jpg/200px-The_Hat_Makes_the_Man.jpg</field>
+<field name="link_external">http://www.moma.org/collection/browse_results.php?object_id=35478</field>
+<field name="artist">http://dbpedia.org/resource/Max_Ernst</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">35.6</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">The Hat Makes the Man</field>
+<field name="type">Gouache, Pencil, Collage and Pen and ink on board</field>
+<field name="width">45.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Hat_Makes_the_Man</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Hat_Makes_the_Man</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Hat_Makes_the_Man</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Hat_Makes_the_Man</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_Hut_macht_den_Mann</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hat_Makes_the_Man</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1194502</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hat_Makes_the_Man</field>
+</doc>
+</add>

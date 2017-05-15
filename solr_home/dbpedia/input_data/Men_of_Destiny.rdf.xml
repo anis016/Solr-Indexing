@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Men_of_destiny</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Men_of_Destiny</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h941yh</field>
+<field name="sameAs">http://dbpedia.org/resource/Men_of_Destiny</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Men_of_Destiny</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6816279</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1946_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Irish_paintings</field>
+<field name="abstract">Men of Destiny is a painting by Irish artist, Jack Butler Yeats, painted in 1946. An oil artwork on canvas, the modernist piece is noted for the strength and vibrancy of its colour palette and is considered to rank amongst Yeats' best work. The painting is on permanent display at the National Gallery of Ireland.</field>
+<field name="label">Men of Destiny</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/59/Men-of-destiny.jpg</field>
+<field name="comment">Men of Destiny is a painting by Irish artist, Jack Butler Yeats, painted in 1946. An oil artwork on canvas, the modernist piece is noted for the strength and vibrancy of its colour palette and is considered to rank amongst Yeats' best work. The painting is on permanent display at the National Gallery of Ireland.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Men-of-destiny.jpg/200px-Men-of-destiny.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Jack_Butler_Yeats</field>
+<field name="city">http://dbpedia.org/resource/Dublin</field>
+<field name="height">51</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Ireland</field>
+<field name="title">Men of Destiny</field>
+<field name="type">Oil on canvas</field>
+<field name="width">69</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Men_of_Destiny</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Men_of_Destiny</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Men_of_Destiny</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Men_of_Destiny</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6816279</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Men_of_Destiny</field>
+</doc>
+</add>

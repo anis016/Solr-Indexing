@@ -1,0 +1,91 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Przerwana_lekcja_muzyki_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_Interrupted_at_her_Music</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_Interrupted_at_her_Music</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_lección_de_música_interrumpida</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Concerto_interrotto</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Onderbreking_van_de_muziek</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09rxyw</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1219698</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_unterbrochene_Musikstunde</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_Interrupted_at_her_Music</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Girl_Interrupted_at_her_Music</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Flicka_som_blir_avbruten_vid_musicerande</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Przerwana_lekcja_muzyki_(obraz)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Frick_Collection</field>
+<field name="abstract">Girl Interrupted in her Music is a painting by the Dutch artist Johannes Vermeer. It was painted in the baroque style between the years 1660 and 1661, using oil on canvas. In this painting, Vermeer depicts a young woman at her music with an older gentleman. This painting shows the typical courtship during the 17th century in Europe. It also focuses on the importance of music when it comes to love. The room that they are shown in is one of higher class, most likely belonging to a person of haute bourgeoisie. The painting is very reminiscent of Vermeer’s other works. Girl Interrupted at her Music 300px Artist Johannes Vermeer Year 1660-1661 Type Oil on canvas Dimensions 39,4 cm × 44,5 cm Location Frick Collection, New York City</field>
+<field name="label">Girl Interrupted at her Music</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/14/Vermeer_Girl_Interrupted_at_Her_Music.jpg</field>
+<field name="comment">Girl Interrupted in her Music is a painting by the Dutch artist Johannes Vermeer. It was painted in the baroque style between the years 1660 and 1661, using oil on canvas. In this painting, Vermeer depicts a young woman at her music with an older gentleman. This painting shows the typical courtship during the 17th century in Europe. It also focuses on the importance of music when it comes to love.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Vermeer_Girl_Interrupted_at_Her_Music.jpg/200px-Vermeer_Girl_Interrupted_at_Her_Music.jpg</field>
+<field name="link_external">http://www.essentialvermeer.com/</field>
+<field name="link_external">http://collections.frick.org/Obj1009$14108</field>
+<field name="link_external">http://www.metmuseum.org/toah/hd/verm/hd_verm.htm</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">394</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Frick_Collection</field>
+<field name="title">Girl Interrupted at her Music</field>
+<field name="width">445</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Girl_Interrupted_at_her_Music</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Girl_Interrupted_at_her_Music</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Girl_Interrupted_at_her_Music</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Girl_Interrupted_at_her_Music</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_lección_de_música_interrumpida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_Interrupted_at_her_Music</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Concerto_interrotto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_Interrupted_at_her_Music</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_interrupted_at_her_music</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_unterbrochene_Musikstunde</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_Interrupted_at_her_Music</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Onderbreking_van_de_muziek</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_Interrupted_at_her_Music</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1219698</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_Interrupted_at_her_Music</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Flicka_som_blir_avbruten_vid_musicerande</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_Interrupted_at_her_Music</field>
+</doc>
+</add>

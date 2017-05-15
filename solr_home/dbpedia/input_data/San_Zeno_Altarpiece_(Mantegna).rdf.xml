@@ -1,0 +1,102 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/San-Zeno-Altar</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retablo_de_San_Zenón</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_di_San_Zeno</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Poliptyk_San_Zeno</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2066739</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/San_Zeno_poliptikas_(Mantegna)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rsdb2</field>
+<field name="sameAs">http://yago-knowledge.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_de_San_Zeno</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Visitor_attractions_in_Verona</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Verona</field>
+<field name="abstract">The San Zeno Altarpiece is a triptych by the Italian Renaissance painter Andrea Mantegna, from c. 1457-1460. It is located in the Basilica di San Zeno, the main church of Verona. The three predellas were stripped by the French in 1797, and are now replaced by copies. The originals are now in the Louvre and in the Museum of Tours. The work was commissioned by the Abbot Gregorio Correr. In the centre is the Madonna enthroned with the Child, portrayed according the Byzantine iconography of the Victorious Madonna and surrounded by chanting angels. Eight saints are placed at the sides, according the commissioner's preferences: on the left are Peter, Paul, John the Evangelist and Zeno; on the right, Benedict, Lawrence, Gregory and John the Baptist. The entire composition is full of detail referring to classical Antiquity: the frieze with the angels which hold two garlands or the throne, which reminds the viewer of a sarcophagus. The frame, probably designed by Mantegna himself, is the original one. It was probably the first good example of the Renaissance art in Verona. It was a model for painters, for example Girolamo dai Libri.</field>
+<field name="label">San Zeno Altarpiece (Mantegna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bc/MantegnaSanZeno.jpg</field>
+<field name="comment">The San Zeno Altarpiece is a triptych by the Italian Renaissance painter Andrea Mantegna, from c. 1457-1460. It is located in the Basilica di San Zeno, the main church of Verona. The three predellas were stripped by the French in 1797, and are now replaced by copies. The originals are now in the Louvre and in the Museum of Tours. The work was commissioned by the Abbot Gregorio Correr.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/MantegnaSanZeno.jpg/200px-MantegnaSanZeno.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=978</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">212</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">San Zeno Altarpiece</field>
+<field name="type">Panel</field>
+<field name="width">460</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/San_Zeno_Altarpiece_(Mantegna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/San_Zeno_Altarpiece_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_di_San_Zeno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Poliptyk_San_Zeno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retablo_de_San_Zenón</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/San-Zeno-Altar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_de_San_Zeno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Altarpiece_of_San_Zero_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Zeno_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Zero_Altarpiece_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/San_Zeno_Altarpiece_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2066739</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/San_Zeno_poliptikas_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Zeno_Altarpiece_(Mantegna)</field>
+</doc>
+</add>

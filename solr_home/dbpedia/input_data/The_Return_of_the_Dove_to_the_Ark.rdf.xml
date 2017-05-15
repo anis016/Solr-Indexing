@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Return_of_the_Dove_to_the_Ark</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07kf555</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q465894</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Return_of_the_Dove_to_the_Ark</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Dove_to_the_Ark</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/A_galamb_visszatérése_Noé_bárkájára</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1851_paintings</field>
+<field name="abstract">The Return of the Dove to the Ark is a painting by Sir John Everett Millais, completed in 1851. It is now displayed in the Ashmolean Museum, Oxford. The painting portrays a scene from the Bible. Two of Noah's daughters-in-law nurture the dove that has returned to the Ark bearing an olive branch. The Return of the Dove to the Ark was first put on public display at the Royal Academy in 1851. It was praised by John Ruskin and Théophile Gautier, amont others. Ruskin was so taken with it that he wished to buy it when he first saw it, but it had already been sold to the collector Thomas Combe, superintendent of the Clarendon Press, who owned many other Pre-Raphaelite works of art. It passed to the Ashmolean as part of the Combe Bequest in 1893.</field>
+<field name="label">The Return of the Dove to the Ark</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9e/Millais_-_Die_Rückkehr_der_Taube_zur_Arche_Noah.jpg</field>
+<field name="comment">The Return of the Dove to the Ark is a painting by Sir John Everett Millais, completed in 1851. It is now displayed in the Ashmolean Museum, Oxford. The painting portrays a scene from the Bible. Two of Noah's daughters-in-law nurture the dove that has returned to the Ark bearing an olive branch. The Return of the Dove to the Ark was first put on public display at the Royal Academy in 1851. It was praised by John Ruskin and Théophile Gautier, amont others.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Millais_-_Die_Rückkehr_der_Taube_zur_Arche_Noah.jpg/200px-Millais_-_Die_Rückkehr_der_Taube_zur_Arche_Noah.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Return_of_the_Dove_to_the_Ark</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Return_of_the_Dove_to_the_Ark</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Return_of_the_Dove_to_the_Ark</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Return_of_the_Dove_to_the_Ark</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q465894</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Dove_to_the_Ark</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/A_galamb_visszatérése_Noé_bárkájára</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Dove_to_the_Ark</field>
+</doc>
+</add>

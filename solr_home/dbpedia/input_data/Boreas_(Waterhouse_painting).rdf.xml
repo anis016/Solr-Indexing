@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Boreas_(Waterhouse_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Boreas_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Boreas_(Waterhouse_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qdc32</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Boreas_(Waterhouse_painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4944794</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Bóreas_(Waterhouse)</field>
+<field name="sameAs">http://dbpedia.org/resource/Boreas_(Waterhouse_painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1903_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_William_Waterhouse</field>
+<field name="abstract">Boreas is an oil painting in the Pre-Raphaelite style created in 1903 by John William Waterhouse.</field>
+<field name="label">Boreas (Waterhouse painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f5/Boreas.jpg</field>
+<field name="comment">Boreas is an oil painting in the Pre-Raphaelite style created in 1903 by John William Waterhouse.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Boreas.jpg/200px-Boreas.jpg</field>
+<field name="artist">http://dbpedia.org/resource/John_William_Waterhouse</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">Boreas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Boreas_(Waterhouse_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Boreas_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Boreas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Bóreas_(Waterhouse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Boreas_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4944794</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Boreas_(Waterhouse_painting)</field>
+</doc>
+</add>

@@ -1,0 +1,101 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Madonna_Manchester</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Manchester_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Madone_de_Manchester</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Manchester_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Manchester_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_di_Manchester</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047rfmp</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Madonna_de_Manchester</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Madone_de_Manchester</field>
+<field name="sameAs">http://dbpedia.org/resource/Manchester_Madonna</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Madonna_Manchester</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Manchester'li_Madonna</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Manchester_Madonna</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1684762</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Madonna_de_Manchester</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Madonna_met_kind_en_St._Johannes_en_de_engelen</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Borghese_Collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Michelangelo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Unfinished_paintings</field>
+<field name="abstract">Madonna and Child with St John and Angels 300px Artist Michelangelo Year c.  1497 Type Tempera on panel Dimensions 105 cm × 76 cm Location National Gallery, London The Madonna and Child with St John and Angels (c.  1497), also known as The Manchester Madonna, is an unfinished painting attributed to Michelangelo in the National Gallery, London. It is one of three surviving panel paintings attributed to the artist and is dated to his first period in Rome. The painting's attribution to Michelangelo was in doubt for much of the 19th and 20th centuries, but now most scholars are in agreement. The work first came to public attention in the Art Treasures Exhibition in Manchester in 1857, hence the title the “Manchester Madonna”. Like other Renaissance paintings of the Madonna and Child which include John the Baptist, the subject arises from a non-Biblical tradition that Virgin Mary and the Child Jesus met with Christ's cousin St John the Baptist, on the Holy Family's Flight into Egypt. The Virgin is depicted with one breast bared, as if she has recently been suckling her infant son; this recalls the theme of the Virgin breastfeeding common in medieval painting. In her hands is a book which she attempts to hold away from her son, the contents of which probably foretell his future sacrifice. She looks over her left shoulder onto a scroll being read by a pair of angels; this is likely to be the scroll reading Ecce Agnus Dei ('Behold the Lamb of God'), usually an attribute of John the Baptist. The figures are arranged as if in a frieze, revealing Michelangelo's sculptor's mindset. The frieze becomes more convex at its centre with the figures of Virgin and Child, as in the later Pitti Tondo. Another similarity to relief sculpture is in the plain background: rather than the landscapes more common for exterior settings, Michelangelo has simply painted an expanse of sky. He also eschewed the richly-decorated throne typical of sacra conversazione altarpieces, and de-emphasised the angels' wings. Many areas of the painting are in a preliminary state; the black of the Virgin's robe was meant to be overpainted with the rich blue pigment lapis lazuli, and the angels on the left are indicated only by the green underpaint used for flesh tones.</field>
+<field name="label">Manchester Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/01/MICHELANGELO_-_Manchester_Madonna_adjusted.JPG</field>
+<field name="comment">Madonna and Child with St John and Angels 300px Artist Michelangelo Year c.  1497 Type Tempera on panel Dimensions 105 cm × 76 cm Location National Gallery, London The Madonna and Child with St John and Angels (c.  1497), also known as The Manchester Madonna, is an unfinished painting attributed to Michelangelo in the National Gallery, London. It is one of three surviving panel paintings attributed to the artist and is dated to his first period in Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/MICHELANGELO_-_Manchester_Madonna_adjusted.JPG/200px-MICHELANGELO_-_Manchester_Madonna_adjusted.JPG</field>
+<field name="link_external">http://www.guardian.co.uk/artanddesign/2007/oct/05/art</field>
+<field name="artist">http://dbpedia.org/resource/Michelangelo</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">105</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Madonna and Child with St John and Angels</field>
+<field name="type">Tempera on panel</field>
+<field name="width">76</field>
+<field name="year">c. 1497</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Manchester_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Manchester_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Manchester_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Manchester_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_and_Child_with_Saint_John_and_the_Angels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Madonna_de_Manchester</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Manchester_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_di_Manchester</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Manchester_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Madonna_met_kind_en_St._Johannes_en_de_engelen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Manchester_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1684762</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Manchester_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Madonna_de_Manchester</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Manchester_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Manchester'li_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Manchester_Madonna</field>
+</doc>
+</add>

@@ -1,0 +1,92 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Castigo_de_los_rebeldes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Punishment_of_the_Rebels</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Punition_des_rebelles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Punishment_of_the_Rebels</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Punizione_dei_ribelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Punishment_of_the_Rebels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Punishment_of_the_Rebels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Punishment_of_the_Rebels</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Punizione_dei_ribelli</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2268688</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Punishment_of_the_Rebels</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Vzbura_proti_Mojžišovým_zákonom</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Punition_des_rebelles</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmg3yb</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Castigo_de_los_rebeldes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Sandro_Botticelli</field>
+<field name="abstract">The Punishment of the Rebels is a fresco by the Italian Renaissance painter Sandro Botticelli, executed in 1480-1482 and located in the Sistine Chapel, Rome.</field>
+<field name="label">Punishment of the Rebels</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2f/Botticcelli,_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg</field>
+<field name="comment">The Punishment of the Rebels is a fresco by the Italian Renaissance painter Sandro Botticelli, executed in 1480-1482 and located in the Sistine Chapel, Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Botticcelli,_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg/200px-Botticcelli,_Sandro_-_The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron_-_1481-82.jpg</field>
+<field name="link_external">http://www.italian-renaissance-art.com/Botticelli-in-the-Sistine-Chapel.html</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">348.5</field>
+<field name="image"/>
+<field name="imageSize">360</field>
+<field name="museum"/>
+<field name="title">Punishment of the Rebels</field>
+<field name="type">Fresco</field>
+<field name="width">570</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Punishment_of_the_Rebels</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Punishment_of_the_Rebels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Punishment_of_the_Rebels_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Punishment_of_Korah_and_the_Stoning_of_Moses_and_Aaron</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Punishment_of_the_Rebels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Punishment_of_the_Sons_of_Korah</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Punishment_of_the_Rebels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Punishment_of_the_Rebels</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2268688</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Punishment_of_the_Rebels</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Vzbura_proti_Mojžišovým_zákonom</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Punishment_of_the_Rebels</field>
+</doc>
+</add>

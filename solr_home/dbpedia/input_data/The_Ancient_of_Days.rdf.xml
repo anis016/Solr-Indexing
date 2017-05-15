@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Ancient_of_Days</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Eurooppa:_Ennustus</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2324840</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Ancient_of_Days</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ancient_of_Days</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Великий_архитектор_(картина)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bbvt0d</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_by_William_Blake</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Prints_and_drawings_in_the_British_Museum</field>
+<field name="abstract">The Ancient of Days is the title of a design by William Blake, originally published as the frontispiece to a 1794 work, Europe a Prophecy. It shows Urizen crouching in a circular design with a cloud-like background. His outstretched hand holds a compass over the darker void below. As noted in Gilchrist's Life of William Blake, the design was "a singular favourite with Blake and as one it was always a happiness to him to copy. " As such there are many versions of the work extant, including one completed for Frederick Tatham only weeks before Blake's death. The British Museum notes that one copy, accessioned in 1885, was excluded from Martin Butlin's 1982 catalogue raisonné of Blake's paintings and drawings, suggesting the author doubted that attribution. Early critics of Blake noted the work as amongst his best, and a favourite of the artist himself. A description by Richard Thompson in John Thomas Smith's Nollekens and His Times, was of "... an uncommonly fine specimen of art, and approaches almost to the sublimity of Raffaelle or Michel Angelo. " and as representing the event given in the Book of Proverbs viii. 25, "when he set a compass upon the face of the earth. " The subject is said to have been one of the 'visions' experienced by Blake and that he took an especial pleasure in producing the prints. The copy commissioned by Tatham in the last days of Blake's life, for a sum of money exceeding any previous payment for his work, was tinted by the artist while propped up in his bed. After his revisions, Blake is said to have, threw it from him, and with an air of exulting triumph exclaimed, "There, that will do! I cannot mend it."</field>
+<field name="label">The Ancient of Days</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ac/Europe_a_Prophecy_copy_K_plate_01.jpg</field>
+<field name="comment">The Ancient of Days is the title of a design by William Blake, originally published as the frontispiece to a 1794 work, Europe a Prophecy. It shows Urizen crouching in a circular design with a cloud-like background. His outstretched hand holds a compass over the darker void below. As noted in Gilchrist's Life of William Blake, the design was "a singular favourite with Blake and as one it was always a happiness to him to copy.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Europe_a_Prophecy_copy_K_plate_01.jpg/200px-Europe_a_Prophecy_copy_K_plate_01.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Ancient_of_Days</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Ancient_of_Days</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Великий_архитектор_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ancient_of_Days</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Ancient_of_Days</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Ancient_of_Days</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2324840</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ancient_of_Days</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Eurooppa:_Ennustus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ancient_of_Days</field>
+</doc>
+</add>

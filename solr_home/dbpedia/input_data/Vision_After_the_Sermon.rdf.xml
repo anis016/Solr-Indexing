@@ -1,0 +1,111 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_visión_tras_el_sermón</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Видение_после_проповеди</field>
+<field name="sameAs">http://he.dbpedia.org/resource/חיזיון_לאחר_הדרשה:_יעקב_נאבק_עם_המלאך</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zjn50</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Ar_weledigezh_war-lerc'h_ar_sarmon</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Vision_After_the_Sermon</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wizja_po_kazaniu</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_visión_tras_el_sermón</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_visione_dopo_il_sermone</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1764395</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_visió_després_del_sermó</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Het_visioen_na_de_preek</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/佈道後的視覺</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Galleries_of_Scotland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_Gauguin</field>
+<field name="abstract">Vision after the Sermon is an oil painting by French artist Paul Gauguin in 1888. It is now in the National Gallery of Scotland, Edinburgh. It depicts a scene from The Bible, where Jacob wrestles an angel. It depicts this indirectly, through a vision or hallucination that the women depicted see after a sermon in church. It was painted in Pont-Aven, Brittany, France.</field>
+<field name="label">Vision After the Sermon</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5e/Paul_Gauguin_137.jpg</field>
+<field name="comment">Vision after the Sermon is an oil painting by French artist Paul Gauguin in 1888. It is now in the National Gallery of Scotland, Edinburgh. It depicts a scene from The Bible, where Jacob wrestles an angel. It depicts this indirectly, through a vision or hallucination that the women depicted see after a sermon in church. It was painted in Pont-Aven, Brittany, France.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Paul_Gauguin_137.jpg/200px-Paul_Gauguin_137.jpg</field>
+<field name="link_external">http://sunsite.icm.edu.pl/wm/paint/auth/gauguin/sermon/</field>
+<field name="link_external">http://www.artbible.info/art/large/603.html</field>
+<field name="artist">http://dbpedia.org/resource/Paul_Gauguin</field>
+<field name="city">http://dbpedia.org/resource/Edinburgh</field>
+<field name="height">72.2</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Scottish_National_Gallery</field>
+<field name="title">Vision after the Sermon</field>
+<field name="width">91</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Vision_After_the_Sermon</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wizja_po_kazaniu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_visione_dopo_il_sermone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vision_after_the_Sermon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Vision_After_the_Sermon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Видение_после_проповеди</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Het_visioen_na_de_preek</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1764395</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/佈道後的視覺</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Ar_weledigezh_war-lerc'h_ar_sarmon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_visió_després_del_sermó</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/חיזיון_לאחר_הדרשה:_יעקב_נאבק_עם_המלאך</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_After_the_Sermon</field>
+</doc>
+</add>

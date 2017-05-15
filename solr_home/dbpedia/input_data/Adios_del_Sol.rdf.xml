@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adios_del_Sol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4682928</field>
+<field name="sameAs">http://dbpedia.org/resource/Adios_del_Sol</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adios_del_Sol</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmc294</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1893_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_F%C3%A9lix_Resurrecci%C3%B3n_Hidalgo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Philippine_art</field>
+<field name="abstract">Adios del Sol (Farewell to the Sun) or Adios al Sol (Farewell from the Sun) is an 1893 historical painting by award-winning Filipino painter and hero Félix Resurrección Hidalgo. The painting won Hidalgo a silver medal during the 1893 Chicago Universal Exposition in the United States. Although created in the “grand manner” style of painting, Adios del Sol is a “seascape with figure” that marked Hidalgo’s departure from the traditional way of painting. The masterpiece is also one of the paintings that marked Hidalgo as a reputable painter in Philippine history of art and in the so-called “popular mind” (the other painting is Jovenes Cristianas Expuestas al Populacho).</field>
+<field name="label">Adios del Sol</field>
+<field name="comment">Adios del Sol (Farewell to the Sun) or Adios al Sol (Farewell from the Sun) is an 1893 historical painting by award-winning Filipino painter and hero Félix Resurrección Hidalgo. The painting won Hidalgo a silver medal during the 1893 Chicago Universal Exposition in the United States. Although created in the “grand manner” style of painting, Adios del Sol is a “seascape with figure” that marked Hidalgo’s departure from the traditional way of painting.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adios_del_Sol</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adios_del_Sol</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adios_del_Sol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adios_del_Sol</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adios_al_Sol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Farewell_from_the_Sun</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Farewell_to_the_Sun</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4682928</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adios_del_Sol</field>
+</doc>
+</add>

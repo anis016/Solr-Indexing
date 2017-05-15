@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Esther_(Millais_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Esther_(Millais_painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q9dpx</field>
+<field name="sameAs">http://dbpedia.org/resource/Esther_(Millais_painting)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/เอสเธอร์_(มิเล)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/אסתר_(ציור)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2911543</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Esther</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1865_paintings</field>
+<field name="abstract">Esther (1865) is a painting by John Everett Millais depicting the central character from the Biblical Book of Esther. It is from Millais's Aesthetic phase, when he was influenced by the work of Frederic Leighton and James McNeill Whistler. The painting depicts Esther, the Jewish wife of the Persian king Ahasuerus, as she prepares to enter the presence of her husband. As she is uninvited, she risks death, but does so to inform him of a plot against the Jews. Millais borrowed the Yellow Jacket, a gown given to General Gordon by the Chinese emperor after his defeat of the Taiping rebellion. In order to create a culturally unspecific effect, he turned it inside out, producing the abstract patterns visible in the painting. Millais creates a dramatic visual effect by vivid contrasts of colours, setting the deep blue of the curtain against the yellow dress and the white columns. The minimising of the narrative aspect of the scene is also in line with the Aestheticist approach of the artists he is imitating and challenging. Esther is depicted adjusting pearls in her hair, as she prepares to place her crown on her head. This gesture is derived from paintings by Titian, whose techniques of colouring Millais imitates, along with the modelling of the face and the characteristic "Titian blonde" hair. This also compares with the lush red locks of Millais's earlier picture The Bridesmaid and with some contemporary works by Dante Gabriel Rossetti. Millais's biographer Marion Spielmann wrote that the painting was "the most modernly treated of Millais's early works... more consonant in its strong harmony with the audacious brilliancy of the present day [1898 1898] than the more solid strength of forty years ago."</field>
+<field name="label">Esther (Millais painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/de/Esthermillais.jpg</field>
+<field name="comment">Esther (1865) is a painting by John Everett Millais depicting the central character from the Biblical Book of Esther. It is from Millais's Aesthetic phase, when he was influenced by the work of Frederic Leighton and James McNeill Whistler. The painting depicts Esther, the Jewish wife of the Persian king Ahasuerus, as she prepares to enter the presence of her husband. As she is uninvited, she risks death, but does so to inform him of a plot against the Jews.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Esthermillais.jpg/200px-Esthermillais.jpg</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum"/>
+<field name="title">Esther</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Esther_(Millais_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Esther_(Millais_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Esther_(Millais_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Esther_(Millais_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Esther_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2911543</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Esther_(Millais_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/אסתר_(ציור)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Esther_(Millais_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/เอสเธอร์_(มิเล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Esther_(Millais_painting)</field>
+</doc>
+</add>

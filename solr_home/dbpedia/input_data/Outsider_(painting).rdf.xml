@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Outsider_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7113003</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02py_cg</field>
+<field name="sameAs">http://dbpedia.org/resource/Outsider_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Outsider_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1988_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="abstract">Outsider is a painting dated from 1988 by post-modern indigenous Australian artist Gordon Bennett. The painting focuses on issues of the increasing isolation Indigenous Australians feel in their own country, with the date the painting was painted in (1988) being the bicentennial anniversary of white settlement in Australia. The painting is 290 × 180 cm, and was painted on canvas using oil and acrylic. "Outsider" was painted while Bennett was in art school. Bennett appropriates famous works Van Gogh, including "Vincent's Bedroom in Arles" and "Starry Night", and uses the paintings to represent his own life. Bennett identifies with Van Gogh’s metaphysical quest for meaning and identity, in such a way that the decapitated figure could be interpreted to be either Bennett or Van Gogh. "Outsider" is a painting charged with feelings of the frustration and confusion of the Aboriginal peoples. He got his inspiration from the tragic things that happen between Indigenous Aboriginal people from Australia and the white settler.</field>
+<field name="label">Outsider (painting)</field>
+<field name="comment">Outsider is a painting dated from 1988 by post-modern indigenous Australian artist Gordon Bennett. The painting focuses on issues of the increasing isolation Indigenous Australians feel in their own country, with the date the painting was painted in (1988) being the bicentennial anniversary of white settlement in Australia. The painting is 290 × 180 cm, and was painted on canvas using oil and acrylic. "Outsider" was painted while Bennett was in art school.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Outsider_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Outsider_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Outsider</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Outsider_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Outsider_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Outsider_(Painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7113003</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Outsider_(painting)</field>
+</doc>
+</add>

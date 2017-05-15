@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Study_(Flandrin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Study_(Flandrin)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Study_(Flandrin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://he.dbpedia.org/resource/צעיר_ערום_יושב_על_שפת_הים</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07s44n4</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Study_(Flandrin)</field>
+<field name="sameAs">http://dbpedia.org/resource/Study_(Flandrin)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7628395</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1830s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">Study (Young Male Nude Seated beside the Sea) is a painting by Hippolyte Flandrin executed between 1835 and 1836. Flandrin had won France's Prix de Rome in 1832, a bursary which provided the winner with a trip to Rome to concentrate on their vocation. There, Flandrin produced this study, which he sent back to Paris in 1837, in fulfillment of the bursary's requirements for the student to submit works in the tradition of various genres. In 1857, Napoleon III purchased the painting, which is now in the collection of Paris's Louvre. The painting gained attention among contemporary French art critics, and remains one of Flandrin's best-known works, despite being produced relatively early in his career. The subject is an unidentified youth, an "ephebe", who sits nude on a rock with his arms wrapped around his legs and his head resting on his knees, eyes closed. There is a sea in the background, and no distinguishable landmarks locate the figure. The enigmatic scene provides no explanation for the figure's pose: Théophile Gautier (1811–1872) commented that the young man could be shipwrecked on a deserted island, or be a shepherd who has lost his flock. Ultimately, any explanation for this scene is left to the imagination, leading to comparisons with Surrealist art in the twentieth century. In examining the influence of German aesthetic theory on French art, critic Elizabeth Prettejohn finds that the roundedness of form and "flawless" modeling of flesh would have met with Johann Joachim Winckelmann's approval as an examplar of the beautiful. Prettejohn compares the figure's almost circular pose and sparse framing with that of Leonardo da Vinci's Vitruvian Man. Vital to the painting's spread were reproductions based on an 1887 engraving by Jean-Baptiste Danguin that was commissioned by the state. As awareness of the work grew, the painting became an icon of homosexual culture in the 20th century, although the work would not have been intended to evoke such a theme. The scene is intimate, yet the figure is, according to one author, "self-absorbed, passive, alienated—undoubtedly contribut[ing ing] to the persistence of certain homophobic clichés. " Photographers Marcel Moore and Claude Cahun adopted the pose in a photograph of the lesbian Cahun, c. 1911. The painting was similarly evoked in early twentieth-century art photography by F. Holland Day and Wilhelm von Gloeden, and later by Robert Mapplethorpe.</field>
+<field name="label">Study (Flandrin)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/22/Flandrin,_Hippolyte_(1805-1864)_-_Jeune_homme_nu_assis.._1855_-_Louvre.jpg</field>
+<field name="comment">Study (Young Male Nude Seated beside the Sea) is a painting by Hippolyte Flandrin executed between 1835 and 1836. Flandrin had won France's Prix de Rome in 1832, a bursary which provided the winner with a trip to Rome to concentrate on their vocation. There, Flandrin produced this study, which he sent back to Paris in 1837, in fulfillment of the bursary's requirements for the student to submit works in the tradition of various genres.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Flandrin,_Hippolyte_(1805-1864)_-_Jeune_homme_nu_assis.._1855_-_Louvre.jpg/200px-Flandrin,_Hippolyte_(1805-1864)_-_Jeune_homme_nu_assis.._1855_-_Louvre.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Study_(Flandrin)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Study_(Flandrin)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7628395</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Study_(Flandrin)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/צעיר_ערום_יושב_על_שפת_הים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Study_(Flandrin)</field>
+</doc>
+</add>

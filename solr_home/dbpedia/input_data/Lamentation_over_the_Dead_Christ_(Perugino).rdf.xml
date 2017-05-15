@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Compianto_sul_Cristo_morto_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Complainte_sur_le_Christ_mort</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glr6qf</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3207678</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Complainte_sur_le_Christ_mort</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lamentation_over_the_Dead_Christ_(Perugino)</field>
+<field name="sameAs">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_(Perugino)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Compianto_sul_Cristo_morto_(Perugino)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1495_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="abstract">The Lamentation over the Dead Christ is a painting by the Italian Renaissance painter Pietro Perugino, executed in 1495 and housed in the Galleria Palatina of Palazzo Pitti, Florence, Italy.</field>
+<field name="label">Lamentation over the Dead Christ (Perugino)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/31/Pietro_Perugino_cat40.jpg</field>
+<field name="comment">The Lamentation over the Dead Christ is a painting by the Italian Renaissance painter Pietro Perugino, executed in 1495 and housed in the Galleria Palatina of Palazzo Pitti, Florence, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Pietro_Perugino_cat40.jpg/200px-Pietro_Perugino_cat40.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">220</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Lamentation over the Dead Christ</field>
+<field name="type">Oil on wood</field>
+<field name="width">195</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lamentation_over_the_Dead_Christ_(Perugino)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lamentation_over_the_Dead_Christ_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_(Pietro_Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lamentation_over_the_Dead_Christ_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3207678</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_(Perugino)</field>
+</doc>
+</add>

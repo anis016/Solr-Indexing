@@ -1,0 +1,77 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ganymede_abducted_by_the_Eagle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ganymede_Abducted_by_the_Eagle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Ganímedes_raptat_per_l'àguila</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q939962</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ganymede_Abducted_by_the_Eagle</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Porwanie_Ganimedesa</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h51klg</field>
+<field name="sameAs">http://dbpedia.org/resource/Ganymede_Abducted_by_the_Eagle</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ratto_di_Ganimede_(Correggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_rapto_de_Ganimedes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Correggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="abstract">Ganymede Abducted by the Eagle (c. 1531-1532) is a painting by the Italian late Renaissance artist Antonio Allegri da Correggio. It is housed in the Kunsthistorisches Museum, Vienna, Austria. The work was part of a series executed by Correggio for Federico II Gonzaga in Mantua, about the loves of Jupiter.</field>
+<field name="label">Ganymede Abducted by the Eagle</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/09/Correggio_-_Ganymede_-_WGA05343.jpg</field>
+<field name="comment">Ganymede Abducted by the Eagle (c. 1531-1532) is a painting by the Italian late Renaissance artist Antonio Allegri da Correggio. It is housed in the Kunsthistorisches Museum, Vienna, Austria. The work was part of a series executed by Correggio for Federico II Gonzaga in Mantua, about the loves of Jupiter.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Correggio_-_Ganymede_-_WGA05343.jpg/200px-Correggio_-_Ganymede_-_WGA05343.jpg</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=41</field>
+<field name="artist"/>
+<field name="height">163.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Ganymede Abducted by the Eagle</field>
+<field name="type">Oil on canvas</field>
+<field name="width">70.5</field>
+<field name="year">c. 1531-1532</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ganymede_Abducted_by_the_Eagle</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ganymede_Abducted_by_the_Eagle</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ganymede_Abducted_by_the_Eagle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ganymede_Abducted_by_the_Eagle</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ratto_di_Ganimede_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ganymede_Abducted_by_the_Eagle</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q939962</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ganymede_Abducted_by_the_Eagle</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_rapto_de_Ganimedes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ganymede_Abducted_by_the_Eagle</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Porwanie_Ganimedesa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ganymede_Abducted_by_the_Eagle</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Ganímedes_raptat_per_l'àguila</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ganymede_Abducted_by_the_Eagle</field>
+</doc>
+</add>

@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Francisco_Lezcano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Francisco_Lezcano</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1133457</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Francisco_Lezcano,_el_Niño_de_Vallecas</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Francisco_Lezcano</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05pct78</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Francisco_Lezcano</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Francisco_Lezcano,_l'Enfant_de_Vallecas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1645_paintings</field>
+<field name="abstract">Portrait of Francisco Lezcano or The "Niño de Vallecas" is the 1645 portrait by Diego Velázquez of Francisco Lezcano (died 1649), also known as Lezcanillo or el Vizcaíno, a jester at the court of Philip IV of Spain. It has been in the Prado since 1819. The mountains round Madrid can be seen in the right background, whilst the subject holds cards in his hands. He is shown with his head slightly tilted and his right leg stuck out, in a pose possibly meant to imply his physical or psychological disability. The painting is part of a series of paintings of jesters at the court, and this one was possibly painted whilst the subject was accompanying the king on a hunt, since he is shown in hunting attire in the open air. It was produced for display in the Torre de la Parada. On 28 July 1714 it was moved to the Palacio del Pardo, before appearing in 1772 at the home of infante Javier in the new Palacio Real in Madrid. In 1794 it was in the "Pieza de Trucos" of the same palace, at which time it gained its alternative name of "Niño de Vallecas".</field>
+<field name="label">Portrait of Francisco Lezcano</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/75/Velázquez_-_Francisco_Lezcano,_el_Niño_de_Vallecas_(Museo_del_Prado,_1643-45).jpg</field>
+<field name="comment">Portrait of Francisco Lezcano or The "Niño de Vallecas" is the 1645 portrait by Diego Velázquez of Francisco Lezcano (died 1649), also known as Lezcanillo or el Vizcaíno, a jester at the court of Philip IV of Spain. It has been in the Prado since 1819. The mountains round Madrid can be seen in the right background, whilst the subject holds cards in his hands.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Velázquez_-_Francisco_Lezcano,_el_Niño_de_Vallecas_(Museo_del_Prado,_1643-45).jpg/200px-Velázquez_-_Francisco_Lezcano,_el_Niño_de_Vallecas_(Museo_del_Prado,_1643-45).jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">106</field>
+<field name="image"/>
+<field name="imageSize">180</field>
+<field name="museum"/>
+<field name="title">Francisco Lezcano, el Niño de Vallecas</field>
+<field name="type">Oil on canvas</field>
+<field name="width">83</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Francisco_Lezcano</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Francisco_Lezcano</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Francisco_Lezcano,_el_Niño_de_Vallecas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Francisco_Lezcano</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Francisco_Lezcano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Francisco_Lezcano</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Francisco_Lezcano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Francisco_Lezcano</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Francisco_Lezcano,_l'Enfant_de_Vallecas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Francisco_Lezcano</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1133457</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Francisco_Lezcano</field>
+</doc>
+</add>

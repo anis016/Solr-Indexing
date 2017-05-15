@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Morning_at_Grand_Manan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Morning_at_Grand_Manan</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Morning_at_Grand_Manan</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0jt0k3v</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6912917</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1898_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Indianapolis_Museum_of_Art_artworks</field>
+<field name="abstract">Morning at Grand Manan is an oil painting by Alfred Thompson Bricher. It is part of the permanent collection at the Indianapolis Museum of Art, and is currently on view in the Paine Early American Painting Gallery.</field>
+<field name="label">Morning at Grand Manan</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/70/Morning_at_Grand_Manan_by_Alfred_Thompson_Bricher.jpg</field>
+<field name="comment">Morning at Grand Manan is an oil painting by Alfred Thompson Bricher. It is part of the permanent collection at the Indianapolis Museum of Art, and is currently on view in the Paine Early American Painting Gallery.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Morning_at_Grand_Manan_by_Alfred_Thompson_Bricher.jpg/200px-Morning_at_Grand_Manan_by_Alfred_Thompson_Bricher.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Alfred_Thompson_Bricher</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="title">Morning at Grand Manan</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Morning_at_Grand_Manan</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Morning_at_Grand_Manan</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Morning_at_Grand_Manan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Morning_at_Grand_Manan</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6912917</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Morning_at_Grand_Manan</field>
+</doc>
+</add>

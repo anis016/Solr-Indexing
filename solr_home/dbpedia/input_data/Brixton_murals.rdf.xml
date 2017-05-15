@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Brixton_murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Brixtons_muralmåleri</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4971730</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Brixton_murals</field>
+<field name="sameAs">http://dbpedia.org/resource/Brixton_murals</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04665hn</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Buildings_and_structures_in_Lambeth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals_in_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Visitor_attractions_in_Lambeth</field>
+<field name="abstract">The Brixton murals are a series of murals by local artists in the Brixton area, in London, UK. Most of the murals were funded by Lambeth London Borough Council and the Greater London Council after the Brixton riots in 1981. The murals portray politics, community and ideas. Many are now in a state of disrepair and some are no longer there. The remaining murals are within walking distance of each other.</field>
+<field name="label">Brixton murals</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/55/Thebigsplash.jpg</field>
+<field name="comment">The Brixton murals are a series of murals by local artists in the Brixton area, in London, UK. Most of the murals were funded by Lambeth London Borough Council and the Greater London Council after the Brixton riots in 1981. The murals portray politics, community and ideas. Many are now in a state of disrepair and some are no longer there. The remaining murals are within walking distance of each other.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Thebigsplash.jpg/200px-Thebigsplash.jpg</field>
+<field name="link_external">http://flickr.com/search/?q=brixtonmurals&amp;m=tags&amp;z=t&amp;ct=0&amp;s=rec</field>
+<field name="link_external">http://www.urban75.org/brixton/history/riot.html</field>
+<field name="link_external">http://positivearts.co.uk/</field>
+<field name="link_external">http://www.flickr.com/photos/8865295@N02/2076004090/in/photostream/</field>
+<field name="link_external">http://www.decorative-artist.com/Murals.html</field>
+<field name="link_external">http://www.flickr.com/photos/8865295@N02/2076003074/in/photostream/</field>
+<field name="link_external">http://www.hlf.org.uk/Pages/Home.aspx</field>
+<field name="link_external">http://flickr.com/photos/8865295@N02/2512901443/</field>
+<field name="link_external">http://www.stephenpusey.com/</field>
+<field name="link_external">http://www.muralsandbanners.com/</field>
+<field name="link_external">http://www.londonmuralpreservationsociety.com/</field>
+<field name="link_external">http://landmark.lambeth.gov.uk/</field>
+<field name="link_external">http://www.guardian.co.uk/uk/2005/nov/28/july7.menezes</field>
+<field name="link_external">http://www.stockwellpark.com/slade-gardens.htm</field>
+<field name="link_external">http://www.urban75.net/vbulletin/showthread.php?t=246517</field>
+<field name="link_external">http://www.timeout.com/london/features/1647/3.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Brixton_murals</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Brixton_murals</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Brixton_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Brixton_murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Brixton_murals</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4971730</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brixton_murals</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Brixtons_muralmåleri</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brixton_murals</field>
+</doc>
+</add>

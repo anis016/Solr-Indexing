@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/See_No_Evil_(artwork)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/See_No_Evil_(artwork)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/See_No_Evil_(artwork)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hht6b9</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Articles_created_via_the_Article_Wizard</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:2011_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Graffiti_in_England</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Arts_in_Bristol</field>
+<field name="abstract">See No Evil is a collection of works of public art by multiple graffiti artists, located around Nelson Street, Bristol, UK. The initial event to create the artwork took place over the weekend of 20/21 August 2011 and was Europe's largest street art festival at the time. It culminated with a block party. The street was mostly repainted in a repeat event in 2012.</field>
+<field name="label">See No Evil (artwork)</field>
+<field name="comment">See No Evil is a collection of works of public art by multiple graffiti artists, located around Nelson Street, Bristol, UK. The initial event to create the artwork took place over the weekend of 20/21 August 2011 and was Europe's largest street art festival at the time. It culminated with a block party. The street was mostly repainted in a repeat event in 2012.</field>
+<field name="name"/>
+<field name="link_external">http://www.telegraph.co.uk/culture/culturepicturegalleries/8711647/The-See-No-Evil-graffiti-project-in-Bristol-Britains-largest-street-art-project.html</field>
+<field name="link_external">http://www.youtube.com/watch?v=O2Mqeqg4guc</field>
+<field name="city">http://dbpedia.org/resource/Bristol</field>
+<field name="imageSize">250</field>
+<field name="title">See No Evil</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/See_No_Evil_(artwork)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/See_No_Evil_(artwork)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/See_No_Evil_(artwork)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/See_No_Evil_(artwork)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/See_No_Evil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

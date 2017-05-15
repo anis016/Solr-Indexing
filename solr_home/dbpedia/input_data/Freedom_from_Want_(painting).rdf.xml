@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Freedom_from_Want_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Freedom_from_Want_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q713199</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Freedom_from_Want</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Freedom_from_Want_(Norman_Rockwell)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0409d3t</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_from_Want_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:World_War_II_media</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_originally_published_in_The_Saturday_Evening_Post</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1943_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Four_Freedoms</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Norman_Rockwell</field>
+<field name="abstract">Freedom from Want or The Thanksgiving Picture is one of Four Freedoms paintings by Norman Rockwell that were inspired by United States President Franklin D. Roosevelt in the State of the Union Address, known as Four Freedoms, he delivered to the 77th United States Congress on January 6, 1941. The other paintings in this series were Freedom of Speech, Freedom from Fear, and Freedom of Worship. Freedom from Want was published in the March 6, 1943, issue of The Saturday Evening Post with a matching essay by Carlos Bulosan as part of the Four Freedoms series. The image was included as the cover image of the 1946 book Norman Rockwell, Illustrator, written when Rockwell was "at the height of his fame as America's most popular illustrator. " Rockwell claims to have painted the turkey on Thanksgiving, and unlike Freedom of Speech and Freedom of Worship, this painting was not difficult to execute.</field>
+<field name="label">Freedom from Want (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/db/Freedom_From_Want.jpg</field>
+<field name="comment">Freedom from Want or The Thanksgiving Picture is one of Four Freedoms paintings by Norman Rockwell that were inspired by United States President Franklin D. Roosevelt in the State of the Union Address, known as Four Freedoms, he delivered to the 77th United States Congress on January 6, 1941. The other paintings in this series were Freedom of Speech, Freedom from Fear, and Freedom of Worship.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Freedom_From_Want.jpg/200px-Freedom_From_Want.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Norman_Rockwell</field>
+<field name="city">http://dbpedia.org/resource/United_States</field>
+<field name="city">http://dbpedia.org/resource/Stockbridge,_Massachusetts</field>
+<field name="height">116.2</field>
+<field name="image"/>
+<field name="imageSize">140</field>
+<field name="museum">http://dbpedia.org/resource/Norman_Rockwell_Museum</field>
+<field name="title">Freedom from Want</field>
+<field name="width">90</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Freedom_from_Want_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Freedom_from_Want_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Freedom_from_Want_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Freedom_from_Want_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Thanksgiving_Picture</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Thanksgiving_Picture</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Freedom_from_Want</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_from_Want_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q713199</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_from_Want_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Freedom_from_Want_(Norman_Rockwell)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_from_Want_(painting)</field>
+</doc>
+</add>

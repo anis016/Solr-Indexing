@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Jack_Pine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7742839</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jack_Pine</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Jack_Pine</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0619py</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Canada</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Canadian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1917_paintings</field>
+<field name="abstract">The Jack Pine is a well-known oil painting by Canadian artist Tom Thomson. A representation of the most broadly distributed pine species in Canada, it is considered an iconic image of the country's landscape, and is one of the country's most widely recognized and reproduced artworks. The painting was completed in 1917, the year of Thomson's death. It is a roughly square canvas that measures 127.9 × 139.8 cm. It has been in the collection of the National Gallery of Canada in Ottawa, Ontario since 1918.</field>
+<field name="label">The Jack Pine</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/16/Jackpine.jpeg</field>
+<field name="comment">The Jack Pine is a well-known oil painting by Canadian artist Tom Thomson. A representation of the most broadly distributed pine species in Canada, it is considered an iconic image of the country's landscape, and is one of the country's most widely recognized and reproduced artworks. The painting was completed in 1917, the year of Thomson's death. It is a roughly square canvas that measures 127.9 × 139.8 cm.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Jackpine.jpeg/200px-Jackpine.jpeg</field>
+<field name="link_external">http://www.cbc.ca/arts/story/2004/09/09/thomsonhermitage040909.html</field>
+<field name="link_external">http://cybermuse.gallery.ca/cybermuse/search/artwork_e.jsp?mkey=11056</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Jack_Pine</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Jack_Pine</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jack_Pine_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Jack_Pine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Jack_Pine</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7742839</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jack_Pine</field>
+</doc>
+</add>

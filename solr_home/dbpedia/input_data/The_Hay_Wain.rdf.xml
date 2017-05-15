@@ -1,0 +1,133 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Haywain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Hay_Wain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_carreta_de_heno</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hay_Wain</field>
+<field name="sameAs">http://bn.dbpedia.org/resource/দ্যা_হে_ওয়েইন</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2366825</field>
+<field name="sameAs">http://de.dbpedia.org/resource/The_Hay_Wain</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Belar_gurdia</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Charrette_de_foin</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Hay_Wain</field>
+<field name="sameAs">http://mk.dbpedia.org/resource/Кола_сено</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03zx20</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wóz_na_siano_(obraz_Johna_Constable'a)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_carro_da_fieno</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1821_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Constable</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="abstract">The Hay Wain is a painting by John Constable, finished in 1821. The painting depicts a rural scene on the River Stour in Suffolk. It hangs in the National Gallery London, and is regarded as one of the greatest British paintings.</field>
+<field name="label">The Hay Wain</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d9/John_Constable_The_Hay_Wain.jpg</field>
+<field name="comment">The Hay Wain is a painting by John Constable, finished in 1821. The painting depicts a rural scene on the River Stour in Suffolk. It hangs in the National Gallery London, and is regarded as one of the greatest British paintings.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/John_Constable_The_Hay_Wain.jpg/200px-John_Constable_The_Hay_Wain.jpg</field>
+<field name="link_external">http://www.vam.ac.uk/collections/paintings/stories/Constable_Hay-Wain/index.html</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/47943</field>
+<field name="link_external">http://smarthistory.khanacademy.org/constables-the-hay-wain.html</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=NG1207</field>
+<field name="artist">http://dbpedia.org/resource/John_Constable</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">130</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">The Hay Wain</field>
+<field name="type">Oil on canvas</field>
+<field name="width">185</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Hay_Wain</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Hay_Wain</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_carro_da_fieno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hay_Wain</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_carreta_de_heno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hay_Wain</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Charrette_de_foin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hay_Wain</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Hay_Wain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Hay_Wain</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hay_Wain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hay_wain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Haywain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Hay-Wain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Wain_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/The_Hay_Wain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hay_Wain</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wóz_na_siano_(obraz_Johna_Constable'a)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hay_Wain</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Belar_gurdia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hay_Wain</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2366825</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hay_Wain</field>
+</doc>
+<doc>
+<field name="uri">http://bn.dbpedia.org/resource/দ্যা_হে_ওয়েইন</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hay_Wain</field>
+</doc>
+<doc>
+<field name="uri">http://mk.dbpedia.org/resource/Кола_сено</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hay_Wain</field>
+</doc>
+</add>

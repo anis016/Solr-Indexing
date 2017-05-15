@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Allegory_of_Love_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Allegory_of_Love_(Veronese)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hrctmg</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Allégorie_de_l'Amour</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Allegory_of_Love_(Veronese)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2839019</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1570s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paolo_Veronese</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="abstract">The Allegory of Love is a series of four paintings by Paolo Veronese, produced around 1570 as ceiling paintings. Some experts have established that they were commissioned by Rudolph II, Holy Roman Emperor (1552-1612) for Prague Castle. They are now part of the collection of the National Gallery in London.</field>
+<field name="label">The Allegory of Love (Veronese)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b2/Paolo_Veronese_020.jpg</field>
+<field name="comment">The Allegory of Love is a series of four paintings by Paolo Veronese, produced around 1570 as ceiling paintings. Some experts have established that they were commissioned by Rudolph II, Holy Roman Emperor (1552-1612) for Prague Castle. They are now part of the collection of the National Gallery in London.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Paolo_Veronese_020.jpg/200px-Paolo_Veronese_020.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=ng1318</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=NG1324</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=NG1325</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=NG1326</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Allegory_of_Love_(Veronese)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Allegory_of_Love_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Allégorie_de_l'Amour</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Allegory_of_Love_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Allegory_of_Love:_Unfaithfulness</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Allegory_of_Love_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Allegory_of_Love_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2839019</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Allegory_of_Love_(Veronese)</field>
+</doc>
+</add>

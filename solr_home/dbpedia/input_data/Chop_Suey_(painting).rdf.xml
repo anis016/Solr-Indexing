@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chop_Suey_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Chop_Suey_(pintura)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Chop_Suey_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0281sym</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5104805</field>
+<field name="sameAs">http://dbpedia.org/resource/Chop_Suey_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1929_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edward_Hopper</field>
+<field name="abstract">Chop Suey is a painting by Edward Hopper which portrays two women in conversation at a restaurant. According to some art scholars, one "striking detail of Chop Suey is that its female subject faces her doppelgänger. " Others have pointed out it would not be so unusual for two women to be wearing similar hats, and that it is presumptuous to claim doppelgängers when one of subject's face is not visible to the viewer. The painting has an interior subject matter, being inside of a cafe and not specifying on any one given figure. As with many of Hopper's works, the painting features a close attention to the effects of light on his subjects. A similar painting, Composition I was completed by Mark Rothko in 1931. A bumper played on the cable channel Turner Classic Movies, titled The Sunny Side of Life, was inspired by Chop Suey and other Hopper paintings.</field>
+<field name="label">Chop Suey (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b6/HopperChopSuey.jpg</field>
+<field name="comment">Chop Suey is a painting by Edward Hopper which portrays two women in conversation at a restaurant. According to some art scholars, one "striking detail of Chop Suey is that its female subject faces her doppelgänger. " Others have pointed out it would not be so unusual for two women to be wearing similar hats, and that it is presumptuous to claim doppelgängers when one of subject's face is not visible to the viewer.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/HopperChopSuey.jpg/200px-HopperChopSuey.jpg</field>
+<field name="link_external">http://www.smithsonianmag.com/arts-culture/hopper.html</field>
+<field name="link_external">http://artchive.com/artchive/H/hopper/chopsuey.jpg.html</field>
+<field name="link_external">http://americanart.si.edu/exhibitions/online/hopper/p13-suey.html</field>
+<field name="artist">http://dbpedia.org/resource/Edward_Hopper</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Chop Suey</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Chop_Suey_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Chop_Suey_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chop_suey_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Chop_Suey_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Chop_Suey_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Chop_Suey_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Chop_Suey_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5104805</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Chop_Suey_(painting)</field>
+</doc>
+</add>

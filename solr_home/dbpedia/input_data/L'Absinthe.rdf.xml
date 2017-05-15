@@ -1,0 +1,161 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Absinthe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1239950</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Absinthe</field>
+<field name="sameAs">http://it.dbpedia.org/resource/L'assenzio</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Absent_İçenler</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Абсент_(Деґа)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/האבסינת</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_absintdrinkster_(Degas)</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0blgzt</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Абсент_(картина)</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Absinthium_(tabula)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/L'absenta</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Čaša_absinta</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Absynt_(obraz_Edgara_Degasa)</field>
+<field name="sameAs">http://zh_min_nan.dbpedia.org/resource/Tī_Ka-pi-thiaⁿ</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_ajenjo</field>
+<field name="sameAs">http://yago-knowledge.org/resource/L'Absinthe</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edgar_Degas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Absinthe</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1876_paintings</field>
+<field name="abstract">L'Absinthe is a painting by Edgar Degas. Some original title translations are A sketch of a French Café, then Figures at Café, the title was finally changed in 1893 to L'Absinthe (the name the piece is known by today). It is now in the permanent collection of the Musée d'Orsay in Paris.</field>
+<field name="label">L'Absinthe</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e8/Edgar_Degas_-_In_a_Café_-_Google_Art_Project_2.jpg</field>
+<field name="comment">L'Absinthe is a painting by Edgar Degas. Some original title translations are A sketch of a French Café, then Figures at Café, the title was finally changed in 1893 to L'Absinthe (the name the piece is known by today). It is now in the permanent collection of the Musée d'Orsay in Paris.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Edgar_Degas_-_In_a_Café_-_Google_Art_Project_2.jpg/200px-Edgar_Degas_-_In_a_Café_-_Google_Art_Project_2.jpg</field>
+<field name="link_external">http://www.absinthefever.com/green-fairy</field>
+<field name="link_external">http://www.musee-orsay.fr/en/collections/works-in-focus/search/commentaire/commentaire_id/dans-un-cafe-167.html?no_cache=1&amp;cHash=18c0b5fa01</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/60673/rec/6</field>
+<field name="artist">http://dbpedia.org/resource/Edgar_Degas</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">92</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">L'Absinthe</field>
+<field name="width">68</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/L'Absinthe</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/L'assenzio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/L'Absinthe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Absinthe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Абсент_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L%E2%80%99Absinthe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L%E2%80%99absinthe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Glass_of_Absinthe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'absinthe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_ajenjo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Absynt_(obraz_Edgara_Degasa)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Absinthe_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_absintdrinkster_(Degas)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1239950</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/L'absenta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/האבסינת</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Čaša_absinta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Absinthium_(tabula)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Absent_İçenler</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Абсент_(Деґа)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+<doc>
+<field name="uri">http://zh_min_nan.dbpedia.org/resource/Tī_Ka-pi-thiaⁿ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Absinthe</field>
+</doc>
+</add>

@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Woman_Peeling_Apples</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rc7q</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4660736</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Woman_Peeling_Apples</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Woman_Peeling_Apples</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Wallace_Collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1663_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_de_Hooch</field>
+<field name="abstract">A Woman Peeling Apples (c. 1663) is a painting by the Dutch Golden Age painter Pieter de Hooch in the Wallace Collection in London. It is a genre painting showing a quiet domestic scene from the time, like most of de Hooch's works. The elaborate fireplace and fur and embroidery in the mother's clothes show a prosperous household, and the cupid between the two figures implies a happy one. Its sensitive handling of light—in particular, natural light filtered into an otherwise unlit interior space—led 19th century art historians to attribute it to Johannes Vermeer, with whose work the painting does bear strong similarities. However, Vermeer's work typically portrayed a woman working alone instead of a family scene as in A Woman Peeling Apples. Most scholars also now believe that de Hooch was influenced by Vermeer instead of Vermeer by de Hooch. The painting is in oil on canvas (67 cm × 55 cm). It is also sometimes referred to as A Woman Peeling Apples, with a Small Child.</field>
+<field name="label">A Woman Peeling Apples</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c0/Pieter_de_Hooch_-_A_Woman_Peeling_Apples.jpg</field>
+<field name="comment">A Woman Peeling Apples (c. 1663) is a painting by the Dutch Golden Age painter Pieter de Hooch in the Wallace Collection in London. It is a genre painting showing a quiet domestic scene from the time, like most of de Hooch's works. The elaborate fireplace and fur and embroidery in the mother's clothes show a prosperous household, and the cupid between the two figures implies a happy one.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Pieter_de_Hooch_-_A_Woman_Peeling_Apples.jpg/200px-Pieter_de_Hooch_-_A_Woman_Peeling_Apples.jpg</field>
+<field name="link_external">http://wallacelive.wallacecollection.org/eMuseumPlus?service=direct/1/ResultDetailView/result.tab.link&amp;sp=10&amp;sp=Scollection&amp;sp=SelementList&amp;sp=0&amp;sp=1&amp;sp=999&amp;sp=SdetailView&amp;sp=0&amp;sp=Sdetail&amp;sp=1&amp;sp=F&amp;sp=SdetailBlockKey&amp;sp=0</field>
+<field name="artist">http://dbpedia.org/resource/Pieter_de_Hooch</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Wallace_Collection</field>
+<field name="title">A Woman Peeling Apples</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Woman_Peeling_Apples</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Woman_Peeling_Apples</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Woman_Peeling_Apples,_with_a_Small_Child</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Woman_Peeling_Apples</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Woman_Peeling_Apples</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_peeling_apples</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4660736</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Woman_Peeling_Apples</field>
+</doc>
+</add>

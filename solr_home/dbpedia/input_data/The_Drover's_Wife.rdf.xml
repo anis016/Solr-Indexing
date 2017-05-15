@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Campfire_Yarns_of_Henry_Lawson</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Drover's_Wife</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dsbkwf</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Drover's_Wife</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7731062</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Drover's_Wife</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Australia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1945_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Russell_Drysdale</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Deniliquin</field>
+<field name="abstract">The Drover's Wife is a 1945 painting by Australian artist Russell Drysdale. The painting depicts a flat, barren landscape with a woman in a plain dress in the foreground—a man, a wagon and two horses are in the background. The painting has been described as "an allegory of the white Australian people’s relationship with this ancient land. " The title of the painting comes from a 1896 sketch story written by Henry Lawson. The painting is now part of the collection of the National Gallery of Australia in Canberra.</field>
+<field name="label">The Drover's Wife</field>
+<field name="comment">The Drover's Wife is a 1945 painting by Australian artist Russell Drysdale. The painting depicts a flat, barren landscape with a woman in a plain dress in the foreground—a man, a wagon and two horses are in the background. The painting has been described as "an allegory of the white Australian people’s relationship with this ancient land. " The title of the painting comes from a 1896 sketch story written by Henry Lawson.</field>
+<field name="name"/>
+<field name="artist">http://dbpedia.org/resource/Russell_Drysdale</field>
+<field name="city">http://dbpedia.org/resource/Canberra</field>
+<field name="height">51.5</field>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Australia</field>
+<field name="title">The Drover's Wife</field>
+<field name="type">oil on canvas</field>
+<field name="width">61.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Drover's_Wife</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Drover's_Wife</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Drover's_Wife</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Drover's_Wife</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_drover's_wife</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7731062</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Drover's_Wife</field>
+</doc>
+</add>

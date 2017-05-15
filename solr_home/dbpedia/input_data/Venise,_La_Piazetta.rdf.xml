@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Venise,_La_Piazetta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7920022</field>
+<field name="sameAs">http://dbpedia.org/resource/Venise,_La_Piazetta</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qy6fq</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Venise,_La_Piazetta</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1835_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean-Baptiste-Camille_Corot</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Venice</field>
+<field name="abstract">Venise, La Piazetta is a 1835 painting by French artist Jean-Baptiste-Camille Corot. The painting is currently on display at the Musée du Louvre in Paris. The painting depicts a promenade in Venice.</field>
+<field name="label">Venise, La Piazetta</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6b/Venise,_La_Piazetta_(Camille_Corot).jpg</field>
+<field name="comment">Venise, La Piazetta is a 1835 painting by French artist Jean-Baptiste-Camille Corot. The painting is currently on display at the Musée du Louvre in Paris. The painting depicts a promenade in Venice.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Venise,_La_Piazetta_(Camille_Corot).jpg/200px-Venise,_La_Piazetta_(Camille_Corot).jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Venise, La Piazetta</field>
+<field name="type">oil on paper</field>
+<field name="year">c. 1835</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Venise,_La_Piazetta</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Venise,_La_Piazetta</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Venise,_La_Piazetta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Venise,_La_Piazetta</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7920022</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Venise,_La_Piazetta</field>
+</doc>
+</add>

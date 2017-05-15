@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Anunciación_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Annonciation_(Le_Caravage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Annunciation_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Annunciation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Annunciation_(Caravaggio)</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Caravaggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Anunciación_(Caravaggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_(Caravaggio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1448728</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09g42n</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Annonciation_(Le_Caravage)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1608_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">The Annunciation is an oil painting by the Italian master Michelangelo Merisi da Caravaggio, finished around 1608. It housed in the Musée des Beaux-Arts de Nancy. The painting has been considerably damaged and retouched, and what remains of Caravaggio's brushwork is the angel, who bears a resemblance to the figure in John the Baptist at the Fountain. The illusionistic treatment of the angel, floating on his cloud and seeming to protrude outside the picture plane, is more Baroque than is normal for Caravaggio, but the contrast between the energetic pose of the heavenly messenger and the receptive Mary is dramatically and psychologically effective. The loose brushwork is typical of Caravaggio's later period. The painting was given by Henry II, Duke of Lorraine, to his primatial church in Nancy as the main altarpiece, and was perhaps acquired by one of the Duke's sons in the course of a visit to Malta in 1608.</field>
+<field name="label">Annunciation (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6c/Caravaggio_-_The_Annunciation.JPG</field>
+<field name="comment">The Annunciation is an oil painting by the Italian master Michelangelo Merisi da Caravaggio, finished around 1608. It housed in the Musée des Beaux-Arts de Nancy. The painting has been considerably damaged and retouched, and what remains of Caravaggio's brushwork is the angel, who bears a resemblance to the figure in John the Baptist at the Fountain.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Caravaggio_-_The_Annunciation.JPG/200px-Caravaggio_-_The_Annunciation.JPG</field>
+<field name="artist">http://dbpedia.org/resource/Caravaggio</field>
+<field name="city">http://dbpedia.org/resource/Nancy,_France</field>
+<field name="height">285</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Nancy</field>
+<field name="title">Annunciation</field>
+<field name="width">205</field>
+<field name="year">c. 1608</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Annunciation_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Annunciation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Annunciation_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1448728</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Caravaggio)</field>
+</doc>
+</add>

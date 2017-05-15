@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Супрематическая_композиция</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Suprematist_Composition</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Suprematist_Composition</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bxz3gy</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Suprematist_Composition</field>
+<field name="sameAs">http://be_x_old.dbpedia.org/resource/Супрэматычная_кампазыцыя</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1523466</field>
+<field name="sameAs">http://dbpedia.org/resource/Suprematist_Composition</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Супрематическая_композиция</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Kompozycja_suprematyczna</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Супрэматычная_кампазіцыя</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1916_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Abstract_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Suprematist Composition (blue rectangle over the red beam) is a painting by Kazimir Malevich, a Russian painter known as a pioneer of geometric abstract art. The painting represents a constellation of geometry and color in space with remarkable austerity. Malevich's masterpiece was sold at a Sotheby's auction for $60 million to an anonymous buyer; it is the most expensive work in the history of Russian art. The painting was created in 1916 and stayed with the artist until June 1927. Malevich exhibited his work in the Grosse Berliner Kunstausstellung in Berlin, but was soon to leave for the USSR. The painting soon went to German architect Hugo Hering, who then sold it to the Stedelijk Museum in Amsterdam. It stayed there for the next 50 years. It has been shown at various expositions, mostly in Europe. After an extended legal battle over the painting's ownership, which endured for 17 years, the painting was returned to heirs of the artist. In November 2008 they sold it at auction.</field>
+<field name="label">Suprematist Composition</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/13/Suprematist_Composition_-_Kazimir_Malevich.jpg</field>
+<field name="comment">Suprematist Composition (blue rectangle over the red beam) is a painting by Kazimir Malevich, a Russian painter known as a pioneer of geometric abstract art. The painting represents a constellation of geometry and color in space with remarkable austerity. Malevich's masterpiece was sold at a Sotheby's auction for $60 million to an anonymous buyer; it is the most expensive work in the history of Russian art. The painting was created in 1916 and stayed with the artist until June 1927.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Suprematist_Composition_-_Kazimir_Malevich.jpg/200px-Suprematist_Composition_-_Kazimir_Malevich.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Kazimir_Malevich</field>
+<field name="height">88.5</field>
+<field name="image"/>
+<field name="imageSize">175</field>
+<field name="museum"/>
+<field name="title">Suprematist Composition</field>
+<field name="type">Oil on canvas</field>
+<field name="width">71</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Suprematist_Composition</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Suprematist_Composition</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Suprematist_Composition</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Suprematist_Composition</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Kompozycja_suprematyczna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Suprematist_Composition</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1523466</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Suprematist_Composition</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Супрэматычная_кампазіцыя</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Suprematist_Composition</field>
+</doc>
+<doc>
+<field name="uri">http://be_x_old.dbpedia.org/resource/Супрэматычная_кампазыцыя</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Suprematist_Composition</field>
+</doc>
+</add>

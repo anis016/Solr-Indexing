@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Последний_день_Помпеи</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Day_of_Pompeii</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Day_of_Pompeii</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/L'ultimo_giorno_di_Pompei</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Posledný_deň_Pompejí_(Briullov)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2521909</field>
+<field name="sameAs">http://sh.dbpedia.org/resource/Posljednji_dan_Pompeja</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Last_Day_of_Pompeii</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Day_of_Pompeii</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04mrkh</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Останній_день_Помпеї</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Последний_день_Помпеи</field>
+<field name="sameAs">http://it.dbpedia.org/resource/L'ultimo_giorno_di_Pompei</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Karl_Briullov</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1833_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pompeii_in_popular_culture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Russian_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Visitor_attractions_in_Saint_Petersburg</field>
+<field name="abstract">For other uses, see The Last Days of Pompeii (disambiguation). The Last Day of Pompeii 300px Artist Karl Briullov Year 1830-1833 Type Oil-on-canvas Dimensions 465.5 cm × 651 cm Location State Russian Museum, St. Petersburg The Last Day of Pompeii is a large canvas painted by Russian artist Karl Briullov in 1830-33. Briullov visited the site of Pompeii in 1828, making numerous sketches depicting the AD 79 Vesuvius eruption. The completed canvas was exhibited in Rome to rapturous reviews of critics and thereafter transported to Paris to be displayed in the Louvre. The first Russian artwork to cause such an interest abroad, it gave birth to an anthologic poem by Alexander Pushkin, and inspired the hugely successful novel The Last Days of Pompeii by Edward Bulwer-Lytton, who saw it in Rome. Another British author, Sir Walter Scott declared that it was not an ordinary painting but an epic in colours. The topic is classical, but Briullov's dramatic treatment and generous use of chiaroscuro render it farther advanced from the neoclassical style. In fact, The Last Day of Pompeii exemplifies many of the characteristics of Romanticism as it manifests itself in Russian art, including drama, realism tempered with idealism, increased interest in nature, and a zealous fondness for historical subjects. The commissioner, Prince Anatole Demidov, donated the painting to Nicholas I of Russia who displayed it at the Imperial Academy of Arts for the instruction of young painters. To present the painting to a wider audience the canvas was transferred to the Russian Museum for the museum's opening in 1895. Briullov included a self portrait in the upper left corner of the painting, under the steeple, one of the several foci in the picture, but not easy to identify.</field>
+<field name="label">The Last Day of Pompeii</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ec/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg</field>
+<field name="comment">For other uses, see The Last Days of Pompeii (disambiguation). The Last Day of Pompeii 300px Artist Karl Briullov Year 1830-1833 Type Oil-on-canvas Dimensions 465.5 cm × 651 cm Location State Russian Museum, St. Petersburg The Last Day of Pompeii is a large canvas painted by Russian artist Karl Briullov in 1830-33. Briullov visited the site of Pompeii in 1828, making numerous sketches depicting the AD 79 Vesuvius eruption.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg/200px-Karl_Brullov_-_The_Last_Day_of_Pompeii_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://artclassic.edu.ru/catalog.asp?ob_no=16565&amp;cat_ob_no=14042</field>
+<field name="artist">http://dbpedia.org/resource/Karl_Bryullov</field>
+<field name="city">http://dbpedia.org/resource/Saint_Petersburg</field>
+<field name="height">465.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Russian_Museum</field>
+<field name="title">The Last Day of Pompeii</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">651</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Last_Day_of_Pompeii</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Last_Day_of_Pompeii</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Last_Day_of_Pompeii</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Last_Day_of_Pompeii</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/L'ultimo_giorno_di_Pompei</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Day_of_Pompeii</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/L'ultimo_giorno_di_Pompei</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Day_of_Pompeii</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2521909</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Day_of_Pompeii</field>
+</doc>
+<doc>
+<field name="uri">http://sh.dbpedia.org/resource/Posljednji_dan_Pompeja</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Day_of_Pompeii</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Posledný_deň_Pompejí_(Briullov)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Day_of_Pompeii</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Останній_день_Помпеї</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Day_of_Pompeii</field>
+</doc>
+</add>

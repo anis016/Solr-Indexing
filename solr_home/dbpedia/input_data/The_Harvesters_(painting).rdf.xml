@@ -1,0 +1,107 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Harvester</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Kornernte</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_cosecha_(Brueghel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Mietitura_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Żniwa_(obraz_Bruegla)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Mietitura_(Bruegel)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/คนเกี่ยวข้าว_(บรูเกลผู้พ่อ)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05x2vz</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הקוצרים</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Hasat_Zamanı_(tablo)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_cosecha_(Brueghel)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Aratók_(Bruegel_festménye)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Kornernte</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Harvesters_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q776175</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Żniwa_(obraz_Bruegla)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1565_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="abstract">The Harvesters is an oil on wood painting by Pieter Bruegel in 1565. The painting is one in a series of six works, five of which are still extant, that depict different times of the year. As in many of his paintings, the focus is on peasants and their work. Notably, some of the peasants are shown eating while others are harvesting, a diachronic (relating to phenomena — ideas/language/culture — as they occur or change over a period of time) depiction of both the production and consumption of food. In the center left of the painting, a group of villagers can be seen participating in the blood sport of cock throwing. The painting is currently located in the Metropolitan Museum of Art, located in New York City.</field>
+<field name="label">The Harvesters (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/05/Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg</field>
+<field name="comment">The Harvesters is an oil on wood painting by Pieter Bruegel in 1565. The painting is one in a series of six works, five of which are still extant, that depict different times of the year. As in many of his paintings, the focus is on peasants and their work.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg/200px-Pieter_Bruegel_the_Elder-_The_Harvesters_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.metmuseum.org/toah/ho/08/euwl/hod_19.164.htm</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/97318</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">119</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">The Harvesters</field>
+<field name="type">Oil on wood</field>
+<field name="width">162</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Harvesters_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Harvesters_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Harvesters_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q776175</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הקוצרים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Aratók_(Bruegel_festménye)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/คนเกี่ยวข้าว_(บรูเกลผู้พ่อ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Hasat_Zamanı_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvesters_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,77 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Jerónimo_en_meditación</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Jérôme_en_méditation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Girolamo_in_meditazione</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Girolamo_in_meditazione</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Jérôme_en_méditation</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09by3x</field>
+<field name="sameAs">http://th.dbpedia.org/resource/นักบุญเยโรมรำพึงธรรม_(การาวัจโจ)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Jerónimo_en_meditación</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q626791</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Sant_Jeroni_penitent_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">Saint Jerome penitent (c. 1605) is a painting by the Italian Baroque master Caravaggio, now in the Museum of Montserrat, next to the Monastery of Santa Maria, Montserrat (Museu del Monestir de Santa Maria). Saint Jerome, hermit, Father of the Church, and responsible for the translation of the Bible into Latin, was a popular figure in Caravaggio's time, and the artist painted him at least eight times (only three survive). Whether this was from personal choice or at the request of patrons is unknown, but it gave Caravaggio the opportunity to explore the potential - from an artist's perspective - of aged and wrinkled flesh. Jerome is shown here contemplating one of his symbols, the skull, a reminder of the inevitability of death and the vanity of worldly things. The painting is probably from the Giustiniani collection (the collection of Caravaggio's patron the banker Vincenzo Giustiniani and his brother the cardinal Benedetto). Benedetto built up a large collection of religious works by the artist, and a St Jerome of the same dimensions as this one is in the Giustiniani inventory of 1638. Caravaggio biographer Peter Robb points out that the brooding, introverted mood of this painting is strikingly similar to that of a John the Baptist, now in Kansas City, painted at about the same time.</field>
+<field name="label">Saint Jerome in Meditation (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/39/Michelangelo_Merisi_da_Caravaggio_-_St_Jerome_-_WGA04157.jpg</field>
+<field name="comment">Saint Jerome penitent (c. 1605) is a painting by the Italian Baroque master Caravaggio, now in the Museum of Montserrat, next to the Monastery of Santa Maria, Montserrat (Museu del Monestir de Santa Maria). Saint Jerome, hermit, Father of the Church, and responsible for the translation of the Bible into Latin, was a popular figure in Caravaggio's time, and the artist painted him at least eight times (only three survive).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Michelangelo_Merisi_da_Caravaggio_-_St_Jerome_-_WGA04157.jpg/200px-Michelangelo_Merisi_da_Caravaggio_-_St_Jerome_-_WGA04157.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">140.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Saint Jerome penitent</field>
+<field name="type">Oil on canvas</field>
+<field name="width">101.5</field>
+<field name="year">c. 1605</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q626791</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Sant_Jeroni_penitent_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/นักบุญเยโรมรำพึงธรรม_(การาวัจโจ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Jerome_in_Meditation_(Caravaggio)</field>
+</doc>
+</add>

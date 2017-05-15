@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-Portrait_in_a_Striped_T-shirt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self-Portrait_in_a_Striped_T-shirt</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7447987</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_in_a_Striped_T-shirt</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vpztv</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:20th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1906_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fauvism</field>
+<field name="abstract">Self-Portrait in a Striped T-shirt (1906) is a painting in oil on canvas by Henri Matisse from his Fauvism period, in the collection of Statens Museum for Kunst, Copenhagen, Denmark.</field>
+<field name="label">Self-Portrait in a Striped T-shirt</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8f/Henri_Matisse_Self-Portrait_in_a_Striped_T-shirt_(1906).jpg</field>
+<field name="comment">Self-Portrait in a Striped T-shirt (1906) is a painting in oil on canvas by Henri Matisse from his Fauvism period, in the collection of Statens Museum for Kunst, Copenhagen, Denmark.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Henri_Matisse_Self-Portrait_in_a_Striped_T-shirt_(1906).jpg/200px-Henri_Matisse_Self-Portrait_in_a_Striped_T-shirt_(1906).jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Copenhagen</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Statens_Museum_for_Kunst</field>
+<field name="title">Self-Portrait in a Striped T-shirt</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self-Portrait_in_a_Striped_T-shirt</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self-Portrait_in_a_Striped_T-shirt</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self-Portrait_in_a_Striped_T-shirt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self-Portrait_in_a_Striped_T-shirt</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7447987</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_in_a_Striped_T-shirt</field>
+</doc>
+</add>

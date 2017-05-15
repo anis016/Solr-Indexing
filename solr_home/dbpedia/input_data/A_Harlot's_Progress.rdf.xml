@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Harlot's_Progress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Harlots_progress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Карьера_проститутки</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Harlot's_Progress</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Carrière_d'une_prostituée</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Harlot's_Progress</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Harlot's_Progress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Harlot's_Progress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08xn98</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Harlot's_Progress</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3207063</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Carrière_d'une_prostituée</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Карьера_проститутки</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Harlot's_Progress</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1731_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lost_paintings</field>
+<field name="abstract">A Harlot's Progress (also known as The Harlot's Progress) is a series of six paintings (1731, now lost) and engravings (1732) by William Hogarth. The series shows the story of a young woman, M. (Moll or Mary) Hackabout, who arrives in London from the country and becomes a prostitute. The series was developed from the third image: having painted a prostitute in her boudoir in a garret on Drury Lane, Hogarth struck upon the idea of creating scenes from her earlier and later life. The title and rich allegory are reminiscent of John Bunyan's Pilgrim's Progress. In the first scene, an old woman praises her beauty and suggests a profitable occupation, procuring her for the gentleman shown to the back of the image. She is a mistress with two lovers in the second, has become a common prostitute on the point of being arrested in the third, and is beating hemp in Bridewell Prison in the fourth. By the fifth, she is dying from venereal disease, and she is dead aged only 23 in the last.</field>
+<field name="label">A Harlot's Progress</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a5/Hogarth-Harlot-1.png</field>
+<field name="comment">A Harlot's Progress (also known as The Harlot's Progress) is a series of six paintings (1731, now lost) and engravings (1732) by William Hogarth. The series shows the story of a young woman, M. (Moll or Mary) Hackabout, who arrives in London from the country and becomes a prostitute. The series was developed from the third image: having painted a prostitute in her boudoir in a garret on Drury Lane, Hogarth struck upon the idea of creating scenes from her earlier and later life.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hogarth-Harlot-1.png/200px-Hogarth-Harlot-1.png</field>
+<field name="link_external">http://www.nytimes.com/2009/05/31/arts/music/31gure.html?pagewanted=1&amp;_r=1</field>
+<field name="link_external">http://web.archive.org/web/20070324030717/http:/www.stuartbingham.info/pages/research/hogarth.html</field>
+<field name="link_external">http://www.litencyc.com/php/sworks.php?rec=true&amp;UID=7146</field>
+<field name="link_external">http://www.infopt.demon.co.uk/grub/disorder.htm</field>
+<field name="link_external">http://www.ackland.org/art/exhibitions/reasonfantasy/harlot1.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Harlot's_Progress</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Harlot's_Progress</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Harlot's_Progress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Harlot's_Progress</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3207063</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Harlot's_Progress</field>
+</doc>
+</add>

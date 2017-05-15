@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lackawanna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Lackawanna_Valley</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7745074</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lackawanna_Valley</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Lackawanna_Valley</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bh7mm7</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Delaware,_Lackawanna_and_Western_Railroad</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1855_paintings</field>
+<field name="abstract">The Lackawanna Valley is a c. 1855 painting by the American artist George Inness. Painted in oil on canvas, it is one of Inness's best and most well-known works. It is in the collection of the National Gallery of Art in Washington, D.C. The painting was commissioned from Inness by John Jay Phelps the first president of the Delaware, Lackawanna and Western Railroad, and depicts the Lackawanna Valley in Pennsylvania at the site of the railroad's first roundhouse in Scranton.</field>
+<field name="label">The Lackawanna Valley</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6c/George_Inness_003.jpg</field>
+<field name="comment">The Lackawanna Valley is a c. 1855 painting by the American artist George Inness. Painted in oil on canvas, it is one of Inness's best and most well-known works. It is in the collection of the National Gallery of Art in Washington, D.C. The painting was commissioned from Inness by John Jay Phelps the first president of the Delaware, Lackawanna and Western Railroad, and depicts the Lackawanna Valley in Pennsylvania at the site of the railroad's first roundhouse in Scranton.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/George_Inness_003.jpg/200px-George_Inness_003.jpg</field>
+<field name="link_external">http://books.google.com/books?id=HAq5whz07vIC&amp;pg=PA108&amp;lpg=PA108&amp;dq=the+lackawanna+valley+inness&amp;source=bl&amp;ots=8xN7OsfIMc&amp;sig=h8ad9hQoCioLXh-2CgICEdrRjGA&amp;hl=en&amp;ei=X49vS7DpLpTM8Qbv9diOBg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5&amp;ved=0CBUQ6AEwBDg8#v=onepage&amp;q=the%20lackawanna%20valley%20inness&amp;f=false</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=30776</field>
+<field name="artist">http://dbpedia.org/resource/George_Inness</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">The Lackawanna Valley</field>
+<field name="year">c. 1855</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Lackawanna_Valley</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Lackawanna_Valley</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Lackawanna_Valley</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Lackawanna_Valley</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7745074</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lackawanna_Valley</field>
+</doc>
+</add>

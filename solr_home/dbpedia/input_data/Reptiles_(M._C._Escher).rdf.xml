@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Рептилии_(литография)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Reptiles_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Reptiles_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Reptiles_(M._C._Escher)</field>
+<field name="sameAs">http://dbpedia.org/resource/Reptiles_(M._C._Escher)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Рептилии_(литография)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7314351</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03t6gc</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1943_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="abstract">Reptiles is a lithograph print by the Dutch artist M. C. Escher which was first printed in March, 1943. It depicts a desk on which is a drawing of a tessellated pattern of reptiles. The reptiles come to life and crawl around the desk and over the objects on it to eventually re-enter the drawing. Although the desk is covered with ordinary objects, there is a metal dodecahedron which the reptiles climb over. Although only the size of small lizards, these reptiles appear to have tusks and the one standing on the dodecahedron blows smoke from its nostrils. Like many of Escher's works, this image was intended to depict a paradoxical and slightly humorous concept with no real philosophical meaning. There were, however, many popular misconceptions about the image’s meaning. Once a woman telephoned Escher and told him that she thought the image was a “striking illustration of reincarnation”. The most common myth revolves around a small book on the desk with the letters JOB printed on it. Many people believed it to be the biblical Book of Job, when in fact it was a book of JOB brand cigarette papers. The lithograph was used by rock band Mott the Hoople as the sleeve artwork for their eponymous first album, released in 1969.</field>
+<field name="label">Reptiles (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8f/Escher's_Reptiles.jpg</field>
+<field name="comment">Reptiles is a lithograph print by the Dutch artist M. C. Escher which was first printed in March, 1943. It depicts a desk on which is a drawing of a tessellated pattern of reptiles. The reptiles come to life and crawl around the desk and over the objects on it to eventually re-enter the drawing. Although the desk is covered with ordinary objects, there is a metal dodecahedron which the reptiles climb over.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Escher's_Reptiles.jpg/200px-Escher's_Reptiles.jpg</field>
+<field name="link_external">http://www.eschertile.com/lizard.htm</field>
+<field name="artist"/>
+<field name="height">33.4</field>
+<field name="image"/>
+<field name="title">Reptiles</field>
+<field name="width">38.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Reptiles_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Reptiles_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Reptiles_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Reptiles_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Reptile_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7314351</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Reptiles_(M._C._Escher)</field>
+</doc>
+</add>

@@ -1,0 +1,103 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_del_Giudizio_di_Vienna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Weltgerichtstriptychon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/O_Juízo_Final_(Hieronymus_Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Tríptico_del_Juicio_de_Viena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Jugement_dernier_(Bosch,_Vienne)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/O_Juízo_Final_(Hieronymus_Bosch)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Страшный_суд_(триптих_Босха)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cq1ss</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Tríptico_del_Juicio_de_Viena</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Weltgerichtstriptychon</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Laatste_Oordeel-drieluik_(Jheronimus_Bosch)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1387483</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Jugement_dernier_(Bosch,_Vienne)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_del_Giudizio_di_Vienna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Academy_of_Fine_Arts_Vienna</field>
+<field name="abstract">The Last Judgment is a triptych by Hieronymus Bosch, created after 1482. The Last Judgment 350px Artist Hieronymus Bosch Type Oil-on-wood triptych Location Akademie der Bildenden Künste The triptych currently resides at the Academie für Bildenden Künste in Vienna. The outside of the shutters are Grisaille on panel, while the inside shutters and center are oil on panel. The left and right panels measure 167.7 x 60 cm and the center panel measures 164 x 127 cm. It is not to be confused with either a fragmented piece of art by Bosch under the same title, or another full painting by Bosch or possibly a painter in his workshop. It has many similarities to The Haywain Triptych, the left panel shows the Garden of Eden, at the top God is shown seated in Heaven while the Rebel Angels are cast out of Heaven are transformed into insects. At the bottom, God created Eve out of the rib of Adam, and as the panel goes higher while Eve is tempted by the Serpent and are finally chased by the Angel into the dark forest signifying and dark sinful humanity, in the central panel where Jesus judges the souls while surrounded by the Saints, below is an earth ending by fire, where Demons seize the souls, and on the right panel is Hell where the wicked souls are punished.</field>
+<field name="label">The Last Judgment (Bosch triptych)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/47/Last_judgement_Bosch.jpg</field>
+<field name="comment">The Last Judgment is a triptych by Hieronymus Bosch, created after 1482. The Last Judgment 350px Artist Hieronymus Bosch Type Oil-on-wood triptych Location Akademie der Bildenden Künste The triptych currently resides at the Academie für Bildenden Künste in Vienna. The outside of the shutters are Grisaille on panel, while the inside shutters and center are oil on panel. The left and right panels measure 167.7 x 60 cm and the center panel measures 164 x 127 cm.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Last_judgement_Bosch.jpg/200px-Last_judgement_Bosch.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Hieronymus_Bosch</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Academy_of_Fine_Arts_Vienna</field>
+<field name="title">The Last Judgment</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Last_Judgment_(Bosch_triptych)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Last_Judgment_(Bosch_triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Страшный_суд_(триптих_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Judgement_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Last_Judgment_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Last_Judgment_(Bosch_triptych)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Judgment_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Laatste_Oordeel-drieluik_(Jheronimus_Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1387483</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych)</field>
+</doc>
+</add>

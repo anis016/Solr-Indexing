@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/First_Reading_of_the_Emancipation_Proclamation_of_Abraham_Lincoln</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/First_Reading_of_the_Emancipation_Proclamation_of_President_Lincoln</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/First_Reading_of_the_Emancipation_Proclamation_of_President_Lincoln</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/First_Reading_of_the_Emancipation_Proclamation_of_President_Lincoln</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/First_Reading_of_the_Emancipation_Proclamation_of_President_Lincoln</field>
+<field name="sameAs">http://dbpedia.org/resource/First_Reading_of_the_Emancipation_Proclamation_of_President_Lincoln</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5453737</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j29dzk</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1864_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_about_the_American_Civil_War</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Abraham_Lincoln_in_art</field>
+<field name="abstract">First Reading of the Emancipation Proclamation of President Lincoln is an 1864 oil-on-canvas painting by Francis Bicknell Carpenter. In the painting, Carpenter depicts Abraham Lincoln, the 16th President of the United States, and his Cabinet members reading over the Emancipation Proclamation, which proclaimed the freedom of slaves in the ten states rebelling against the Union in the American Civil War. Lincoln first presented the Emancipation Proclamation to his Cabinet on July 22, 1862, and issued the Proclamation on September 22, 1862, which took effect on January 1, 1863. Carpenter spent six months in the White House while he painted. The painting is currently displayed at the United States Capitol in Washington, D.C..</field>
+<field name="label">First Reading of the Emancipation Proclamation of President Lincoln</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6c/Emancipation_proclamation.jpg</field>
+<field name="comment">First Reading of the Emancipation Proclamation of President Lincoln is an 1864 oil-on-canvas painting by Francis Bicknell Carpenter. In the painting, Carpenter depicts Abraham Lincoln, the 16th President of the United States, and his Cabinet members reading over the Emancipation Proclamation, which proclaimed the freedom of slaves in the ten states rebelling against the Union in the American Civil War.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Emancipation_proclamation.jpg/200px-Emancipation_proclamation.jpg</field>
+<field name="link_external">http://opinionator.blogs.nytimes.com/2012/07/25/the-painter-and-the-president/</field>
+<field name="artist">http://dbpedia.org/resource/Francis_Bicknell_Carpenter</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">274.32</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/United_States_Capitol</field>
+<field name="title">First Reading of the Emancipation Proclamation of President Lincoln</field>
+<field name="width">457.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/First_Reading_of_the_Emancipation_Proclamation_of_President_Lincoln</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/First_Reading_of_the_Emancipation_Proclamation_of_President_Lincoln</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5453737</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/First_Reading_of_the_Emancipation_Proclamation_of_President_Lincoln</field>
+</doc>
+</add>

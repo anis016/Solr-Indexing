@@ -1,0 +1,91 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Song_of_Love_(Giorgio_de_Chirico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pieśń_miłosna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Song_of_Love</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Canto_d'amore_(De_Chirico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Song_of_Love</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Song_of_Love</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Song_of_Love</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1154410</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Song_of_Love</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_canción_de_amor</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pieśń_miłosna</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08gm2f</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Canto_d'amore_(De_Chirico)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Chant_d'amour_(De_Chirico)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Song_of_Love</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1914_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="abstract">The Song of Love (also known as Le chant d'amour or Love Song; 1914) is a painting by the Italian metaphysical painter Giorgio de Chirico. It is one of the most famous works by de Chirico and an early example of the surrealist style, though it was painted ten years before the movement was "founded" by André Breton in 1924. It depicts an outdoor architectural setting similar to other works by de Chirico at this time. This time however, the main focus is a small wall on which is mounted a Greek sculpted head and a surgeon's glove. Below it is a green ball. On the horizon is the outline of a locomotive, an image that recurs several times during this period of de Chirico's career.</field>
+<field name="label">The Song of Love</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1b/De_Chirico's_Love_Song.jpg</field>
+<field name="comment">The Song of Love (also known as Le chant d'amour or Love Song; 1914) is a painting by the Italian metaphysical painter Giorgio de Chirico. It is one of the most famous works by de Chirico and an early example of the surrealist style, though it was painted ten years before the movement was "founded" by André Breton in 1924. It depicts an outdoor architectural setting similar to other works by de Chirico at this time.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/De_Chirico's_Love_Song.jpg/200px-De_Chirico's_Love_Song.jpg</field>
+<field name="link_external">http://www.moma.org/collection/object.php?object_id=80419</field>
+<field name="artist">http://dbpedia.org/resource/Giorgio_de_Chirico</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">73</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Love Song</field>
+<field name="width">59.1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Song_of_Love</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Song_of_Love</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Love_song_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Song_of_Love</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Song_of_Love</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Love_Song_(Giorgio_de_Chirico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_canción_de_amor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Song_of_Love</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Chant_d'amour_(De_Chirico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Song_of_Love</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1154410</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Song_of_Love</field>
+</doc>
+</add>

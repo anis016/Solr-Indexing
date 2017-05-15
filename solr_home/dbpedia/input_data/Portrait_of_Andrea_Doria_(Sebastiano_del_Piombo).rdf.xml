@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Andrea_Doria_(Sebastiano_del_Piombo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Andrea_Doria_(Sebastiano_del_Piombo)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232252</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Andrea_Doria_(Sebastiano_del_Piombo)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08tcn_</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1526_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Sebastiano_del_Piombo</field>
+<field name="abstract">The Portrait of Andrea Doria is a painting finished circa 1526 by the Italian High Renaissance painter Sebastiano Del Piombo. It is housed in the Doria Pamphilj Gallery of Rome.</field>
+<field name="label">Portrait of Andrea Doria (Sebastiano del Piombo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fd/Doria_del_piombo.jpg</field>
+<field name="comment">The Portrait of Andrea Doria is a painting finished circa 1526 by the Italian High Renaissance painter Sebastiano Del Piombo. It is housed in the Doria Pamphilj Gallery of Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Doria_del_piombo.jpg/200px-Doria_del_piombo.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">153</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Andrea Doria</field>
+<field name="type">Oil on panel</field>
+<field name="width">107</field>
+<field name="year">c. 1526</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Andrea_Doria_(Sebastiano_del_Piombo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Andrea_Doria_(Sebastiano_del_Piombo)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Andrea_Doria_(Sebastiano_del_Piombo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Andrea_Doria_(Sebastiano_del_Piombo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Andrea_Doria_(Del_Piombo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232252</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Andrea_Doria_(Sebastiano_del_Piombo)</field>
+</doc>
+</add>

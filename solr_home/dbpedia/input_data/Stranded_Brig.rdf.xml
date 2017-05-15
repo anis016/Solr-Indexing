@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Stranded_Brig</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Stranded_Brig</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Stranded_Brig</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7621272</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Stranded_Brig</field>
+<field name="sameAs">http://dbpedia.org/resource/Stranded_Brig</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3rw0t</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1934_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Stranded Brig is a painting by the American artist Edwin Dickinson (1891–1978). Painted in oils on a canvas measuring 40 x 50 inches, it was created in 1934 for the federal government's first Depression-era program for artists, the half-year Public Works of Art Project. In October 1934 it entered the collection of the Museum of Fine Arts, Springfield, Massachusetts.</field>
+<field name="label">Stranded Brig</field>
+<field name="comment">Stranded Brig is a painting by the American artist Edwin Dickinson (1891–1978). Painted in oils on a canvas measuring 40 x 50 inches, it was created in 1934 for the federal government's first Depression-era program for artists, the half-year Public Works of Art Project. In October 1934 it entered the collection of the Museum of Fine Arts, Springfield, Massachusetts.</field>
+<field name="link_external">http://priweb.org/ed/finger_lakes/watkins_glen.html</field>
+<field name="link_external">http://www.aaa.si.edu/collections/oralhistories/transcripts/dickin62.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Stranded_Brig</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Stranded_Brig</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7621272</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stranded_Brig</field>
+</doc>
+</add>

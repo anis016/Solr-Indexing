@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Butterflies_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glsfzc</field>
+<field name="sameAs">http://dbpedia.org/resource/Butterflies_(Van_Gogh_series)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Butterflies_(Van_Gogh_series)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5002906</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Saint-R%C3%A9my</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="abstract">Butterflies is a series paintings made by Vincent van Gogh in 1889 and 1890. Van Gogh made at least four paintings of butterflies and one of a moth. The metamorphosis of the caterpillar into a butterfly was symbolic to Van Gogh of men and women's capability for transformation.</field>
+<field name="label">Butterflies (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/34/WLANL_-_artanonymous_-_Nachtpauwoog.jpg</field>
+<field name="comment">Butterflies is a series paintings made by Vincent van Gogh in 1889 and 1890. Van Gogh made at least four paintings of butterflies and one of a moth. The metamorphosis of the caterpillar into a butterfly was symbolic to Van Gogh of men and women's capability for transformation.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/34/WLANL_-_artanonymous_-_Nachtpauwoog.jpg/200px-WLANL_-_artanonymous_-_Nachtpauwoog.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Van_Gogh_Museum</field>
+<field name="title">Great Peacock Moth</field>
+<field name="year">May, 1889</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Butterflies_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Butterflies_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Butterflies_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Butterflies_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Butterflies_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Butterflies_(van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5002906</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Butterflies_(Van_Gogh_series)</field>
+</doc>
+</add>

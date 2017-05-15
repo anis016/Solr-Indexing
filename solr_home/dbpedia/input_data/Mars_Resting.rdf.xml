@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_dios_Marte</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Resting</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Marte_(Velázquez)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Resting</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mars_Resting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mars_Resting</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mars_Resting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mars_Resting</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_dios_Marte</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1133875</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Marte_(Velázquez)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f4ctc</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Repos_de_Mars</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Resting</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1640_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_paintings_in_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mythological_paintings_by_Velazquez</field>
+<field name="abstract">Mars or Resting Mars (Descanso de Marte, literally The Rest of Mars) is a 1640 painting by Diego Velázquez. It is now in the Prado Museum. The painting was inspired by Il Pensieroso, one of Michelangelo's sculptures for the Medici in the new sacristy of the Basilica of San Lorenzo. This painting is a satirical depiction of the god Mars. It is thought to have been finished around 1639-1640.</field>
+<field name="label">Mars Resting</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1c/Velázquez_-_Dios_Marte_(Museo_del_Prado,_c._1638).jpg</field>
+<field name="comment">Mars or Resting Mars (Descanso de Marte, literally The Rest of Mars) is a 1640 painting by Diego Velázquez. It is now in the Prado Museum. The painting was inspired by Il Pensieroso, one of Michelangelo's sculptures for the Medici in the new sacristy of the Basilica of San Lorenzo. This painting is a satirical depiction of the god Mars. It is thought to have been finished around 1639-1640.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Velázquez_-_Dios_Marte_(Museo_del_Prado,_c._1638).jpg/200px-Velázquez_-_Dios_Marte_(Museo_del_Prado,_c._1638).jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">179</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">Mars Resting</field>
+<field name="type">Oil on canvas</field>
+<field name="width">95</field>
+<field name="year">c.1640</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mars_Resting</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mars_Resting</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Repos_de_Mars</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Resting</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1133875</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Resting</field>
+</doc>
+</add>

@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Book_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2269585</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_the_Book_(Botticelli)</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Madonna_del_Libro</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Libro_(Botticelli)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_du_livre_(Botticelli)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_del_libro_(Botticelli)</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Book_(Botticelli)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08r1t6</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_Madonnas</field>
+<field name="abstract">The Madonna of the Book, also known as the Madonna del Libro, is a small painting by the Italian Renaissance artist Sandro Botticelli, circa 1483. It is housed in the Museo Poldi Pezzoli in Milan, Italy. A larger, more detailed version is currently on display at the Museum of Biblical Art in Dallas, Texas.</field>
+<field name="label">Madonna of the Book (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8a/Sandro_Botticelli_065.jpg</field>
+<field name="comment">The Madonna of the Book, also known as the Madonna del Libro, is a small painting by the Italian Renaissance artist Sandro Botticelli, circa 1483. It is housed in the Museo Poldi Pezzoli in Milan, Italy. A larger, more detailed version is currently on display at the Museum of Biblical Art in Dallas, Texas.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Sandro_Botticelli_065.jpg/200px-Sandro_Botticelli_065.jpg</field>
+<field name="link_external">http://www.biblicalarts.org/</field>
+<field name="link_external">http://www.uiw.edu/thewordonline/fall06/languagemaster.html</field>
+<field name="artist"/>
+<field name="height">58</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna of the Book</field>
+<field name="type">Tempera on panel</field>
+<field name="width">395</field>
+<field name="year">c. 1483</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_the_Book_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_the_Book_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Libro_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Book_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_du_livre_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Book_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_del_libro_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Book_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_the_Book_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_the_Book_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2269585</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Book_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Madonna_del_Libro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Book_(Botticelli)</field>
+</doc>
+</add>

@@ -1,0 +1,96 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Battle_of_Grunwald_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Battle_of_Grunwald_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Bitwa_pod_Grunwaldem_(obraz_Jana_Matejki)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Battle_of_Grunwald_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bitwa_pod_Grunwaldem_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Battle_of_Grunwald_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Bătălia_de_la_Grunwald_(pictură)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2636368</field>
+<field name="sameAs">http://dbpedia.org/resource/Battle_of_Grunwald_(painting)</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Žalgirio_mūšis_(paveikslas)</field>
+<field name="sameAs">http://be_x_old.dbpedia.org/resource/Бітва_пад_Грунвальдам_(карціна_Яна_Матэйкі)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Грюнвальдская_битва_(картина)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Battle_of_Grunwald_(painting)</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Грунвальдская_бітва,_карціна</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.027qm03</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Bitwa_pod_Grunwaldem_(obraz_Jana_Matejki)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Polish_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jan_Matejko</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1878_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:National_Museum,_Warsaw</field>
+<field name="abstract">The Battle of Grunwald is a painting by Jan Matejko depicting the Battle of Grunwald and the victory of the allied Crown of the Kingdom of Poland and Grand Duchy of Lithuania over the Teutonic Order in 1410. The canvas dates to 1878 and is one of the most heroic representations of the history of Poland. It is displayed in the National Museum in Warsaw. The painting's main focus is the death scene of the Grand Master of the Teutonic Order, Ulrich von Jungingen; another central figure is the Lithuanian duke Vytautas (Witold), dressed in red with a raised sword. The painting has been both hailed and criticized for its complexity. It is one of Matejko's most recognizable works, and has likely contributed to the popular image of the battle of Grunwald, and its enduring fame in Polish consciousness.</field>
+<field name="label">Battle of Grunwald (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/64/Grunwald_bitwa.jpg</field>
+<field name="comment">The Battle of Grunwald is a painting by Jan Matejko depicting the Battle of Grunwald and the victory of the allied Crown of the Kingdom of Poland and Grand Duchy of Lithuania over the Teutonic Order in 1410. The canvas dates to 1878 and is one of the most heroic representations of the history of Poland. It is displayed in the National Museum in Warsaw.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Grunwald_bitwa.jpg/200px-Grunwald_bitwa.jpg</field>
+<field name="link_external">http://info-poland.buffalo.edu/classroom/JM/GT.html</field>
+<field name="artist">http://dbpedia.org/resource/Jan_Matejko</field>
+<field name="city">http://dbpedia.org/resource/Warsaw</field>
+<field name="height">426</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Museum,_Warsaw</field>
+<field name="title">Battle of Grunwald</field>
+<field name="width">987</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Battle_of_Grunwald_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Battle_of_Grunwald_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Грюнвальдская_битва_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Battle_of_Grunwald_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Battle_of_Grunwald_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2636368</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Battle_of_Grunwald_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Грунвальдская_бітва,_карціна</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Battle_of_Grunwald_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Žalgirio_mūšis_(paveikslas)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Battle_of_Grunwald_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Bătălia_de_la_Grunwald_(pictură)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Battle_of_Grunwald_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://be_x_old.dbpedia.org/resource/Бітва_пад_Грунвальдам_(карціна_Яна_Матэйкі)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Battle_of_Grunwald_(painting)</field>
+</doc>
+</add>

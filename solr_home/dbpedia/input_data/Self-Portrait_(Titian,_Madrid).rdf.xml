@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-Portrait_(Titian,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmhm1b</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Autorretrato_(Tiziano)</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_(Titian,_Madrid)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self-Portrait_(Titian,_Madrid)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7447991</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Titian_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="abstract">Self-Portrait is an oil-on-canvas painting by the Italian painter Titian. Dating to about 1560, when Titian was at least 70 years old, it is the latter of two surviving self-portraits by the artist. The work is a realistic and unflattering depiction of the physical effects of old age, and as such shows none of the self-confidence seen in his earlier self-portrait (c. 1546–47) now in Berlin. That painting shows Titian in three-quarter view in an alert pose. Here, he has rendered himself as remote and gaunt, staring into the middle distance, seemingly lost in thought. Still, this portrait projects dignity, authority and the mark of a master painter to a greater extent than the earlier surviving self-portrait. The artist is dressed in simple but expensive clothes. In the lower left corner of the canvas he holds a paintbrush. Although the presence of the paintbrush is understated, it is the element that gives legitimacy to his implied status. Titian gave no indication as to his craft or profession in the Berlin portrait or any other earlier works; indeed this is one of the earliest self-portraits in western art in which the artist reveals himself as a painter. Titian's influence was such that the work led to numerous self-portraits by later generations of artists, including Velázquez and Goya, who in, respectively, Las Meninas (1656) and Charles IV of Spain and His Family (1800 - 1801) depicted themselves in the act of painting. The portrait is composed of deep shades of rich and distinguished black and brown, with small touches of white around his face and hair, and on his neckline and chain. Given the relatively flat pictorial plane, the viewer's attention is drawn to the sitter's sharp facial features: his high forehead, hooked nose, long beard and penetrating, deeply set eyes. Here, Titian's command of paint and shade marks a high point of his late period, and while the physical charisma seen in the Berlin picture has been diminished by age, it is now replaced with a sense of authority. Titian was keenly aware of how others perceived him, and sought to control his reputation by keeping to a minimum public knowledge of his life. Giorgio Vasari noted that by this stage in his life Titian had amassed enough wealth to not depend on commissioned work, or be beholden to any patron. His self-portrait was intended to enhance how he was viewed by others. It draws attention to both his advanced age and—through his fine clothes and portrait in profile (a view then reserved for only the most noble)—his status. Titian inserted a similar self-portrait in which he wore a skull cap in his The Virgin and Child with Saints Titian and Andrew, which he intended for his tomb in Pieve di Cadore.</field>
+<field name="label">Self-Portrait (Titian, Madrid)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/53/Tizian_090.jpg</field>
+<field name="comment">Self-Portrait is an oil-on-canvas painting by the Italian painter Titian. Dating to about 1560, when Titian was at least 70 years old, it is the latter of two surviving self-portraits by the artist. The work is a realistic and unflattering depiction of the physical effects of old age, and as such shows none of the self-confidence seen in his earlier self-portrait (c. 1546–47) now in Berlin. That painting shows Titian in three-quarter view in an alert pose.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Tizian_090.jpg/200px-Tizian_090.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self-Portrait_(Titian,_Madrid)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self-Portrait_(Titian,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self-Portrait_(Titian,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self-Portrait_(Titian,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Autorretrato_(Tiziano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_(Titian,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7447991</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_(Titian,_Madrid)</field>
+</doc>
+</add>

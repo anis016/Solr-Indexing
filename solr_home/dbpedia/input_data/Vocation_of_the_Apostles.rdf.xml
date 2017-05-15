@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Vocation_of_the_Apostles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Vocation_of_the_Apostles</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_calling_Peter_and_Andrew_to_their_Apostleship_(Ghirlandaio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vocation_of_the_Apostles_(Sistine_Chapel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vocation_of_the_Apostles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Vocation_of_the_Apostles</field>
+<field name="sameAs">http://dbpedia.org/resource/Vocation_of_the_Apostles</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3tcn3</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Domenico_Ghirlandaio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="abstract">The Vocation of the Apostles is a fresco by the Italian Renaissance painter Domenico Ghirlandaio, executed in 1481-1482 and located in the Sistine Chapel, Rome.</field>
+<field name="label">Vocation of the Apostles</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ac/Ghirlandaio,_Domenico_-_Calling_of_the_Apostles_-_1481.jpg</field>
+<field name="comment">The Vocation of the Apostles is a fresco by the Italian Renaissance painter Domenico Ghirlandaio, executed in 1481-1482 and located in the Sistine Chapel, Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/Ghirlandaio,_Domenico_-_Calling_of_the_Apostles_-_1481.jpg/200px-Ghirlandaio,_Domenico_-_Calling_of_the_Apostles_-_1481.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">349</field>
+<field name="image"/>
+<field name="imageSize">380</field>
+<field name="museum"/>
+<field name="title">Vocation of the Apostles</field>
+<field name="type">Fresco</field>
+<field name="width">570</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Vocation_of_the_Apostles</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Vocation_of_the_Apostles</field>
+</doc>
+</add>

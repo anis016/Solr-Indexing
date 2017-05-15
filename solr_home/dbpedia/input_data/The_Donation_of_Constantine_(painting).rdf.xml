@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Donazione_di_Roma</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Donation_of_Constantine_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Donation_of_Constantine_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Donation_of_Constantine_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Donation_of_Constantine_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://th.dbpedia.org/resource/จักรพรรดิคอนแสตนตินอุทิศดินแดน_(ห้องราฟาเอล)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Donation_de_Rome</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Donación_de_Roma</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q9msg</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Donation_of_Constantine_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2485424</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Donation_of_Constantine_(painting)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Donazione_di_Roma</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1524_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_rooms</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Apostolic_Palace</field>
+<field name="abstract">The Donation of Constantine or Donation of Rome is a painting by assistants of the Italian renaissance artist Raphael. It was most likely painted by Gianfrancesco Penni or Giulio Romano, somewhere between 1520 and 1524. After the master's death in 1520, they worked together with other members of Raphael's workshop to finish the commission to decorate with frescoes the rooms that are now known as the Stanze di Raffaello, in the Apostolic Palace in the Vatican. The Donation of Constantine is located in the Sala di Costantino ("Hall of Constantine"). It was inspired by the famous forged documents that granted the Popes sovereignty over their territorial dominions. The painting depicts an apocryphal historical event: Emperor Constantine kneels before Pope Sylvester I and offers the Pope and his successors control of the city of Rome and the entire Western Roman Empire. The depiction of Sylvester is modeled after Pope Clement VII who became pope in 1523. http://mv. vatican. va/3_EN/pages/x-Schede/SDRs/SDRs_01_04_006. html#page-top The painting (anachronistically) shows the interior of the original Saint Peter's Basilica,http://mv. vatican. va/3_EN/pages/x-Schede/SDRs/SDRs_01_04_006. html#page-top which was in the process of being rebuilt at the time the painting was made. In the center background of the painting is the altar with its twisted, Solomonic columns. These columns were a gift from Constantine who supposedly took them from the ruined Jewish temple.</field>
+<field name="label">The Donation of Constantine (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/29/Donationconstantine.jpg</field>
+<field name="comment">The Donation of Constantine or Donation of Rome is a painting by assistants of the Italian renaissance artist Raphael. It was most likely painted by Gianfrancesco Penni or Giulio Romano, somewhere between 1520 and 1524. After the master's death in 1520, they worked together with other members of Raphael's workshop to finish the commission to decorate with frescoes the rooms that are now known as the Stanze di Raffaello, in the Apostolic Palace in the Vatican.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Donationconstantine.jpg/200px-Donationconstantine.jpg</field>
+<field name="link_external">http://mv.vatican.va/3_EN/pages/x-Schede/SDRs/SDRs_01_04_006.html#page-top</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Vatican_City</field>
+<field name="height">?</field>
+<field name="image"/>
+<field name="imageSize">450</field>
+<field name="museum">http://dbpedia.org/resource/Apostolic_Palace</field>
+<field name="title">The Donation of Constantine</field>
+<field name="width">?</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Donation_of_Constantine_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Donation_of_Constantine_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Donation_of_Rome</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Donation_de_Rome</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Donation_of_Constantine_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Donación_de_Roma</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Donation_of_Constantine_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2485424</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Donation_of_Constantine_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/จักรพรรดิคอนแสตนตินอุทิศดินแดน_(ห้องราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Donation_of_Constantine_(painting)</field>
+</doc>
+</add>

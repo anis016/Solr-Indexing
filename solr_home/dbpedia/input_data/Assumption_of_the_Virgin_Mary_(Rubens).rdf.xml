@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wniebowzięcie_Najświętszej_Marii_Panny_(obraz_Rubensa)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Успение_Пресвятой_Девы_Марии_(картина_Рубенса)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06lm22</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Успение_Пресвятой_Девы_Марии_(картина_Рубенса)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wniebowzięcie_Najświętszej_Marii_Panny_(obraz_Rubensa)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Assunzione_della_Vergine_(Rubens)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2067336</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1626_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Peter_Paul_Rubens</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="abstract">The Assumption of the Virgin Mary or Assumption of the Holy Virgin, is a painting by Peter Paul Rubens, completed in 1626 as an altarpiece for the high altar of the Cathedral of Our Lady, Antwerp, where it remains. In Rubens' depiction of the Assumption of Mary, a choir of angels lifts her in a spiraling motion toward a burst of divine light. Around her tomb are gathered the 12 apostles — some with their arms raised in awe; others reaching to touch her discarded shroud. The women in the painting are thought to be Mary Magdalene and the Virgin Mary's two sisters. A kneeling woman holds a flower, referring to the lilies that miraculously filled the empty coffin. The Antwerp Cathedral of Our Lady opened a competition for an Assumption altar in 1611. Rubens submitted models to the clergy on February 16, 1618. In September 1626, 15 years later, he completed the piece. There is a smaller studio version, with some differences, in the National Gallery of Art, Washington, D.C.</field>
+<field name="label">Assumption of the Virgin Mary (Rubens)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ed/Baroque_Rubens_Assumption-of-Virgin-3.jpg</field>
+<field name="comment">The Assumption of the Virgin Mary or Assumption of the Holy Virgin, is a painting by Peter Paul Rubens, completed in 1626 as an altarpiece for the high altar of the Cathedral of Our Lady, Antwerp, where it remains. In Rubens' depiction of the Assumption of Mary, a choir of angels lifts her in a spiraling motion toward a burst of divine light. Around her tomb are gathered the 12 apostles — some with their arms raised in awe; others reaching to touch her discarded shroud.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Baroque_Rubens_Assumption-of-Virgin-3.jpg/200px-Baroque_Rubens_Assumption-of-Virgin-3.jpg</field>
+<field name="link_external">http://www.nga.gov/collection/gallery/gg45/gg45-45848.0.html</field>
+<field name="artist">http://dbpedia.org/resource/Peter_Paul_Rubens</field>
+<field name="city">http://dbpedia.org/resource/Antwerp</field>
+<field name="height">490</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Cathedral_of_Our_Lady_(Antwerp)</field>
+<field name="title">Assumption of the Virgin</field>
+<field name="width">325</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Assunzione_della_Vergine_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2067336</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_Mary_(Rubens)</field>
+</doc>
+</add>

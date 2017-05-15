@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Castrovalva_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Кастровальва</field>
+<field name="sameAs">http://dbpedia.org/resource/Castrovalva_(M._C._Escher)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03s87f</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2899660</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Castrovalva_(M._C._Escher)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/קסטרוולווה</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1930_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Abruzzo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="abstract">Castrovalva is a lithograph print by the Dutch artist M. C. Escher, first printed in February 1930. Like many of Escher's early works, it depicts a place that he visited on a tour of Italy. It depicts the Abruzzo village of Castrovalva, which lies at the top of a sheer slope. The perspective is toward the northwest, from the narrow trail on the left which, at the point from which this view is seen, makes a hairpin turn to the right, descending to the valley. In the foreground at the side of the trail, there are several flowering plants, grasses, ferns, a beetle and a snail. In the expansive valley below there are cultivated fields and two more towns, the nearest of which is Anversa degli Abruzzi, with Casale in the distance.</field>
+<field name="label">Castrovalva (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/83/Castrovalva.jpg</field>
+<field name="comment">Castrovalva is a lithograph print by the Dutch artist M. C. Escher, first printed in February 1930. Like many of Escher's early works, it depicts a place that he visited on a tour of Italy. It depicts the Abruzzo village of Castrovalva, which lies at the top of a sheer slope. The perspective is toward the northwest, from the narrow trail on the left which, at the point from which this view is seen, makes a hairpin turn to the right, descending to the valley.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Castrovalva.jpg/200px-Castrovalva.jpg</field>
+<field name="artist"/>
+<field name="height">53</field>
+<field name="image"/>
+<field name="title">Castrovalva</field>
+<field name="width">42.1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Castrovalva_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Castrovalva_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Кастровальва</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castrovalva_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Castrovalva</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Castrovalva_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Castrovalva_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Castrovalva_(M.C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2899660</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castrovalva_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/קסטרוולווה</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castrovalva_(M._C._Escher)</field>
+</doc>
+</add>

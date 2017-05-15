@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Procuress_(Dirck_van_Baburen)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Procuress_(Dirck_van_Baburen)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gy1ncm</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procuress_(Dirck_van_Baburen)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_koppelaarster_(Dirck_van_Baburen)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/取り持ち女_(ディルク・ファン・バビューレンの絵画)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q63341</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1620s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_Golden_Age_paintings</field>
+<field name="abstract">The Procuress is the name given to a number of similar paintings by the Dutch Golden Age painter Dirck van Baburen. The painting is in the Caravaggiesque style of the Utrecht school.</field>
+<field name="label">The Procuress (Dirck van Baburen)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/15/The_Procuress.jpg</field>
+<field name="comment">The Procuress is the name given to a number of similar paintings by the Dutch Golden Age painter Dirck van Baburen. The painting is in the Caravaggiesque style of the Utrecht school.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/The_Procuress.jpg/200px-The_Procuress.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Dirck_van_Baburen</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston</field>
+<field name="title">The Procuress</field>
+<field name="year">c. 1622</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Procuress_(Dirck_van_Baburen)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Procuress_(Dirck_van_Baburen)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Procuress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Procuress_by_Dirck_van_Baburen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Procuress_(Dirck_van_Baburen)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Procuress_(Dirck_van_Baburen)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/取り持ち女_(ディルク・ファン・バビューレンの絵画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procuress_(Dirck_van_Baburen)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_koppelaarster_(Dirck_van_Baburen)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procuress_(Dirck_van_Baburen)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q63341</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procuress_(Dirck_van_Baburen)</field>
+</doc>
+</add>

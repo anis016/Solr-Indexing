@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bocca_Baciata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4936154</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Bocca_Baciata</field>
+<field name="sameAs">http://dbpedia.org/resource/Bocca_Baciata</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07k8p9q</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bocca_Baciata</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1859_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="abstract">Bocca Baciata (1859) is a painting by Dante Gabriel Rossetti which represents a turning point in his career. It was the first of his pictures of single female figures, and established the style that was later to become a signature of his work. The model was Fanny Cornforth, the principal inspiration for Rossetti's sensuous figures. The title, meaning "mouth that has been kissed", refers to the sexual experience of the subject and is taken from the Italian proverb written on the back of the painting: Bocca baciata non perde ventura, anzi rinnova come fa la luna. ‘The mouth that has been kissed does not lose its savour,indeed it renews itself just as the moon does. ’ Rossetti, an accomplished translator of early Italian literature, probably knew the proverb from Boccaccio’s Decameron where it is used as the culmination of the tale of Alatiel: a beautiful Saracen princess who, despite having had sex on perhaps ten thousand occasions with eight separate lovers in the space of four years, successfully presents herself to the King of the Algarve as his virgin bride. Rossetti explained in a letter to William Bell Scott that he was attempting to paint flesh more fully, and to "avoid what I know to be a besetting fault of mine - &amp; indeed rather common to PR painting - that of stipple in the flesh... Even among the old good painters, their portraits and simpler pictures are almost always their masterpieces for colour and execution; and I fancy if one kept this in view, one might have a better chance of learning to paint at last. " The painting may have been influenced by Millais' portrait of his sister-in-law Sophie Gray, completed two years earlier.</field>
+<field name="label">Bocca Baciata</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/91/Dante_Gabriel_Rossetti_Bocca_Baciata_1859.png</field>
+<field name="comment">Bocca Baciata (1859) is a painting by Dante Gabriel Rossetti which represents a turning point in his career. It was the first of his pictures of single female figures, and established the style that was later to become a signature of his work. The model was Fanny Cornforth, the principal inspiration for Rossetti's sensuous figures.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Dante_Gabriel_Rossetti_Bocca_Baciata_1859.png/200px-Dante_Gabriel_Rossetti_Bocca_Baciata_1859.png</field>
+<field name="artist">http://dbpedia.org/resource/Dante_Gabriel_Rossetti</field>
+<field name="city">http://dbpedia.org/resource/Boston</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston</field>
+<field name="title">Bocca Baciata</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bocca_Baciata</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bocca_Baciata</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bocca_Baciata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bocca_Baciata</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4936154</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bocca_Baciata</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Bocca_Baciata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bocca_Baciata</field>
+</doc>
+</add>

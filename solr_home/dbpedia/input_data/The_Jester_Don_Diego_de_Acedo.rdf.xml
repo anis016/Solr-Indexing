@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_bufón_don_Diego_de_Acedo,_el_Primo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jester_Don_Diego_de_Acedo</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Jester_Don_Diego_de_Acedo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Jester_Don_Diego_de_Acedo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_jester_Don_Diego_de_Acedo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Jester_Don_Diego_de_Acedo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f4b4l</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Bouffon_don_Diego_de_Acedo,_le_cousin</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Diego_de_Acedo,_el_Primo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q390713</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Jester_Don_Diego_de_Acedo</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_bufón_don_Diego_de_Acedo,_el_Primo</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jester_Don_Diego_de_Acedo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1645_paintings</field>
+<field name="abstract">The Jester Don Diego de Acedo is one of a series of portraits of jesters at the court of Philip IV of Spain by Diego Velázquez. Its subject is the dwarf Don Diego de Acedo, known as "el Primo" (the Cousin). The 1645 oil painting is currently housed at the Prado Museum. The work measures 106 cm high and 83 cm wide. Velázquez painted a series of portraits of dwarfs and jesters of the court of Philip IV, depicted with realism and respect. The portraits were intended to be displayed in the king's hunting lodge, the Torre de la Parada. Don Diego de Acebo was a figure of fun whose physical deformity provided entertainment for the court. As with another subject, Don Sebastian de Morra, Velázquez pictured de Acebo's whole body seated on the ground. Don Diego de Acedo is pictured looking at the observer. Dressed in black, he is reading a book, which is the traditional representation of a gentleman. The size of the tome in his lap emphasizes the dwarf's smallness. The eyes, high forehead and attitude of the model conveys a sense of his intelligence. At his feet lay a pile of books with an inkwell and feather. The bottom is possibly unfinished, as a foggy landscape can be seen.</field>
+<field name="label">The Jester Don Diego de Acedo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ea/Velázquez_-_El_bufón_don_Diego_de_Acedo,_el_Primo_(Museo_del_Prado,_c._1645).jpg</field>
+<field name="comment">The Jester Don Diego de Acedo is one of a series of portraits of jesters at the court of Philip IV of Spain by Diego Velázquez. Its subject is the dwarf Don Diego de Acedo, known as "el Primo" (the Cousin). The 1645 oil painting is currently housed at the Prado Museum. The work measures 106 cm high and 83 cm wide. Velázquez painted a series of portraits of dwarfs and jesters of the court of Philip IV, depicted with realism and respect.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Velázquez_-_El_bufón_don_Diego_de_Acedo,_el_Primo_(Museo_del_Prado,_c._1645).jpg/200px-Velázquez_-_El_bufón_don_Diego_de_Acedo,_el_Primo_(Museo_del_Prado,_c._1645).jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">106</field>
+<field name="image"/>
+<field name="imageSize">150</field>
+<field name="museum"/>
+<field name="title">The Jester Don Diego de Acedo</field>
+<field name="type">oil on canvas</field>
+<field name="width">83</field>
+<field name="year">c. 1645</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Jester_Don_Diego_de_Acedo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Jester_Don_Diego_de_Acedo</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Bouffon_don_Diego_de_Acedo,_le_cousin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jester_Don_Diego_de_Acedo</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Diego_de_Acedo,_el_Primo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jester_Don_Diego_de_Acedo</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q390713</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jester_Don_Diego_de_Acedo</field>
+</doc>
+</add>

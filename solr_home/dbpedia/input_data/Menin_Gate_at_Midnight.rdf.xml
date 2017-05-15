@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Menin_Gate_at_Midnight</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Menin_Gate_at_Midnight</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Menin_Gate_at_Midnight</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6817062</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Menin_Gate_at_Midnight</field>
+<field name="sameAs">http://dbpedia.org/resource/Menin_Gate_at_Midnight</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ds16b0</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1927_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="abstract">Menin Gate at Midnight (also known as Ghosts of Menin Gate) is a 1927 painting by Australian artist Will Longstaff. The painting depicts a host of ghostly soldiers marching across a field in front of the Menin Gate war memorial. The painting is part of the collection of the Australian War Memorial in Canberra. Longstaff painted the work after attending the unveiling of the Menin Gate memorial, at Ypres in Belgium, on 24 July 1927. The memorial commemorated those men of the British Empire, including Australia, who died in the battles of the First World War around the town. Walking around the streets of Ypres after the ceremony, Longstaff was said to have seen a "vision of steel-helmeted spirits rising from the moonlit cornfields around him". Returning to London, Longstaff was reported to have painted the work in a single session, while "still under psychic influence". The painting was immediately popular. It was purchased by Lord Woolavington for 2,000 Guineas and presented to the Australian government. After a royal command viewing for George V and the Royal family at Buckingham Palace, the painting was displayed in Manchester and Glasgow. It was then taken around Australia, where record crowds paid to view the work. Longstaff oversaw the making of 2,000 prints and 400 of these were given to the nascent Australian War Memorial to sell to raise funds. The success of this work lead Longstaff to paint three later companion pieces with a similar ghostly, spiritualist theme: Immortal Shrine (Eternal Silence) – showing ghostly soldiers marching past the Cenotaph in London on Remembrance Day Ghosts of Vimy Ridge (1931) – depicting men of the Canadian Corps at Vimy Ridge. Carillon (1932) – with New Zealand soldiers in Belgium hearing the bells in their native country.</field>
+<field name="label">Menin Gate at Midnight</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ef/Menin_Gate_at_midnight_(Will_Longstaff).jpg</field>
+<field name="comment">Menin Gate at Midnight (also known as Ghosts of Menin Gate) is a 1927 painting by Australian artist Will Longstaff. The painting depicts a host of ghostly soldiers marching across a field in front of the Menin Gate war memorial. The painting is part of the collection of the Australian War Memorial in Canberra. Longstaff painted the work after attending the unveiling of the Menin Gate memorial, at Ypres in Belgium, on 24 July 1927.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Menin_Gate_at_midnight_(Will_Longstaff).jpg/200px-Menin_Gate_at_midnight_(Will_Longstaff).jpg</field>
+<field name="artist">http://dbpedia.org/resource/Will_Longstaff</field>
+<field name="city">http://dbpedia.org/resource/Canberra</field>
+<field name="height">137</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Australian_War_Memorial</field>
+<field name="title">Menin Gate at Midnight</field>
+<field name="type">oil on canvas</field>
+<field name="width">170</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Menin_Gate_at_Midnight</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Menin_Gate_at_Midnight</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ghosts_of_Menin_Gate</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Menin_Gate_at_midnight</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6817062</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Menin_Gate_at_Midnight</field>
+</doc>
+</add>

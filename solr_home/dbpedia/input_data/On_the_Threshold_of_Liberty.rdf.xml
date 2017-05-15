@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/On_the_Threshold_of_Liberty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/On_the_Threshold_of_Liberty</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09v5hs</field>
+<field name="sameAs">http://dbpedia.org/resource/On_the_Threshold_of_Liberty</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q12797191</field>
+<field name="sameAs">http://sl.dbpedia.org/resource/Na_pragu_svobode</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1929_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1937_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">On the Threshold of Liberty (in French, Au seuil de la liberté) refers to two oil on canvas paintings by the Belgian surrealist René Magritte. The work depicts a large room with the walls paneled with different scenes or windows. Each panel reveals a different subject: a sky, fire, wood, a forest, the front of a building, an ornamental pattern, a female torso and a strange metallic texture featuring spherical bells (a common Magritte element). Inside the room is a cannon. The original painting was completed in 1929 and is currently part of the collection at the Museum Boymans-van Beuningen in Rotterdam. A second version was commissioned in 1937 by Magritte patron Edward James. For this version, the orientation was changed from horizontal to vertical leading to an increase in the area of the room depicted. It is currently on display at the Art Institute of Chicago. In 1983 the American composer and trumpeter Mark Isham composed a piece of music titled after this painting. From 1996 through 2008, National Public Radio used Isham's composition as the background music for the annual July 4 reading of the Declaration of Independence on the NPR program Morning Edition.</field>
+<field name="label">On the Threshold of Liberty</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3b/On_the_Threshold_of_Liberty_1937.jpg</field>
+<field name="comment">On the Threshold of Liberty (in French, Au seuil de la liberté) refers to two oil on canvas paintings by the Belgian surrealist René Magritte. The work depicts a large room with the walls paneled with different scenes or windows. Each panel reveals a different subject: a sky, fire, wood, a forest, the front of a building, an ornamental pattern, a female torso and a strange metallic texture featuring spherical bells (a common Magritte element). Inside the room is a cannon.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/On_the_Threshold_of_Liberty_1937.jpg/200px-On_the_Threshold_of_Liberty_1937.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="city">http://dbpedia.org/resource/Chicago</field>
+<field name="height">238.8</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Art_Institute_of_Chicago</field>
+<field name="title">On the Threshold of Liberty</field>
+<field name="width">185.4</field>
+<field name="year">February–March 1937</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/On_the_Threshold_of_Liberty</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/On_the_Threshold_of_Liberty</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/On_the_Threshold_of_Liberty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/On_the_Threshold_of_Liberty</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/On_the_threshold_of_liberty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q12797191</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/On_the_Threshold_of_Liberty</field>
+</doc>
+<doc>
+<field name="uri">http://sl.dbpedia.org/resource/Na_pragu_svobode</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/On_the_Threshold_of_Liberty</field>
+</doc>
+</add>

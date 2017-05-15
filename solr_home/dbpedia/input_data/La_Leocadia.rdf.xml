@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Leocadia_(Goya)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Leocadia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b6m2yl</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Leokadia_Zorrilla,_służąca_artysty</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Leocadia</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Донья_Леокадия_Соррилья</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_Leocadia</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Una_manola:_doña_Leocadia_Zorrilla</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Донья_Леокардия_Зорилла</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4901871</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Francisco_Goya_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="abstract">La Leocadia or The Seductress are names given to a mural by the Spanish artist Francisco Goya (1746–1828), completed sometime between 1819–23, as one of his series of 14 "Black Paintings". It shows a woman commonly identified as Goya's maid, companion and, most likely lover, Leocadia Weiss. She is dressed in a dark, almost funeral maja dress, and leans against what is either a mantelpiece or burial mound, as she looks outward at the viewer with a sorrowful expression. Leocadia is one of the final of the "Black Paintings", which he painted in his seventies at a time when he was consumed by political, physical and psychological turmoil, after he fled to the country from his position as court painter in Madrid. According to the c. 1828–30 inventory of his friend Antonio Brugada, Leocadia was situated in the ground floor of his villa which Lawrence Gowing observes was thematically divided: a male side of Saturn Devouring His Son, A Pilgrimage to San Isidro; and a female side compromising Judith and Holofernes, Aquelarre and Leocadia. All the works in the series were transferred to canvas after Goya's death and are now in the Museo del Prado in Madrid.</field>
+<field name="label">La Leocadia</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/36/La_Leocadia_(Goya).jpg</field>
+<field name="comment">La Leocadia or The Seductress are names given to a mural by the Spanish artist Francisco Goya (1746–1828), completed sometime between 1819–23, as one of his series of 14 "Black Paintings". It shows a woman commonly identified as Goya's maid, companion and, most likely lover, Leocadia Weiss. She is dressed in a dark, almost funeral maja dress, and leans against what is either a mantelpiece or burial mound, as she looks outward at the viewer with a sorrowful expression.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/La_Leocadia_(Goya).jpg/200px-La_Leocadia_(Goya).jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_Leocadia</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_Leocadia</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_Leocadia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_Leocadia</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Una_manola:_doña_Leocadia_Zorrilla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Leocadia</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Leokadia_Zorrilla,_służąca_artysty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Leocadia</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4901871</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Leocadia</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Донья_Леокадия_Соррилья</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Leocadia</field>
+</doc>
+</add>

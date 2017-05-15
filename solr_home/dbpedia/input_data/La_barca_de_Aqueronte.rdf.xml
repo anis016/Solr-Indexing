@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Charon%E2%80%99s_Boat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_barca_de_Aqueronte</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_barca_de_Aqueronte</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6465971</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmj7xc</field>
+<field name="sameAs">http://dbpedia.org/resource/La_barca_de_Aqueronte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_F%C3%A9lix_Resurrecci%C3%B3n_Hidalgo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Philippine_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_paintings</field>
+<field name="abstract">La barca de Aqueronte, translated in English as The Boat of Charon or Charon’s Boat, is an 1887 oil on canvas and allegorical painting by award-winning Filipino painter Félix Resurrección Hidalgo. The work was a gold medalist during the Exposicion General de las Filipinas (International Philippine Exposition) in Madrid. In 1889, an international jury made the painting a silver medalist during the Paris Exposition, a distinct recognition that no other Filipino painter had achieved at the major art arena in Paris. The painting also won other awards such as a diploma of honor from the 1891 Exposicion General de Bellas Artes in Barcelona, a gold medal prize at the 1893 Madrid Exposicion Internacional de Bellas Artes during the 400th Anniversary of the Discovery of America. The Government of Spain bought the work of art through a royal decree for the amount of 7,500 pesetas on March 7, 1893. After displaying the artwork at the Museo-Biblioteca de Ultramar (Ultramar Library Museum) and at the Museo de Arte Moderno. , La barca de Aqueronte is currently placed at Madrid’s Museo Nacional de Pintura (National Museum of Paintings), after the Philippines became a United States territory in 1898. A smaller study of the same painting is at the Hidalgo Hall of the Lopez Museum in the Philippines. La barca de Aqueronte became Hidalgo's most awarded work of art. By winning in international exhibitions through La barca de Aqueronte and his other paintings Las Virgenes Cristianas Expuestas al Populacho and Adios del Sol during the last quarter of the nineteenth century, Hidalgo's “mark of having arrived as a painter” and his place in Philippine Art, history of Philippine Art, and the “popular mind” became secured. Hidalgo was also a recipient of the 1889 Chevalier de la Légion d'honneur.</field>
+<field name="label">La barca de Aqueronte</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/77/La_Barca_de_Aqueronte_by_Felix_Resurreccion_Hidalgo_1887.jpg</field>
+<field name="comment">La barca de Aqueronte, translated in English as The Boat of Charon or Charon’s Boat, is an 1887 oil on canvas and allegorical painting by award-winning Filipino painter Félix Resurrección Hidalgo. The work was a gold medalist during the Exposicion General de las Filipinas (International Philippine Exposition) in Madrid.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/77/La_Barca_de_Aqueronte_by_Felix_Resurreccion_Hidalgo_1887.jpg/200px-La_Barca_de_Aqueronte_by_Felix_Resurreccion_Hidalgo_1887.jpg</field>
+<field name="link_external">http://pezseum.blogspot.com/2009/11/navigating-underworld-felix.html</field>
+<field name="artist"/>
+<field name="height">80.65</field>
+<field name="museum"/>
+<field name="title">La barca de Aqueronte</field>
+<field name="type">Oil on canvas</field>
+<field name="width">108.59</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_barca_de_Aqueronte</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_barca_de_Aqueronte</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_barca_de_Aqueronte</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_barca_de_Aqueronte</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Boat_of_Charon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Barca_de_Aqueronte</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Boat_of_Charon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6465971</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_barca_de_Aqueronte</field>
+</doc>
+</add>

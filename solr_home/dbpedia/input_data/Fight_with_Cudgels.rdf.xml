@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Duello_rusticano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fight_with_Cudgels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fight_with_Cudgels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fight_with_Cudgels</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Duello_rusticano</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Bójka_na_kije</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1747282</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.080gv65</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Поединок_на_дубинах</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Fight_with_Cudgels</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Duelo_a_garrotazos</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="abstract">Fight with Cudgels (Spanish: Riña a garrotazos or Duelo a garrotazos), called The Strangers or Cowherds in the inventories, is the name given to a painting by Spanish artist Francisco Goya, now in the Museo del Prado, Madrid. One of the series of Black Paintings Goya painted directly onto the walls of his house sometime between 1820 and 1823, it depicts two men fighting one another with cudgels, as they seem to be trapped knee-deep in a quagmire of mud or sand. According to Francisco-Xavier de Salas Bosch, Goya may have been referencing an allegory (number 75) that appears in the work by Diego de Saavedra Fajardo, the emblem book Empresas Políticos [Political Maxims], Idea de un príncipe político cristiano, which contained a hundred short essays on the education of a prince. The allegory referred to the Greek myth of Cadmus and the dragon's teeth. By the instructions of Athena, Cadmus sowed the dragon's teeth in the ground, from which there sprang a race of fierce armed men, called Spartes ("sown"). By throwing a stone among them, Cadmus caused them to fall upon one another until only five survived, who assisted him to build the Cadmea or citadel of Thebes. Saavedra used this imagery to discuss how some rulers stir up discord in order to ultimately establish peace in their kingdoms. Goya's use of this allegory may have referred to the policies and politics of Ferdinand VII. In 1819, Goya purchased a house on the banks of the Manzanares near Madrid named Quinta del Sordo ("Villa of the Deaf Man"). It was a small two-story house which was named after a previous occupant who had been deaf, although Goya had also been left deaf after contracting a fever in 1792. Between 1819 and 1823, when he moved to Bordeaux, Goya produced a series of 14 works, which he painted with oils directly onto the walls of the house. Fight with Cudgels had been situated in the upper room of Quinta del Sordo.</field>
+<field name="label">Fight with Cudgels</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8c/Francisco_de_Goya_y_Lucientes_-_Duelo_a_garrotazos.jpg</field>
+<field name="comment">Fight with Cudgels (Spanish: Riña a garrotazos or Duelo a garrotazos), called The Strangers or Cowherds in the inventories, is the name given to a painting by Spanish artist Francisco Goya, now in the Museo del Prado, Madrid. One of the series of Black Paintings Goya painted directly onto the walls of his house sometime between 1820 and 1823, it depicts two men fighting one another with cudgels, as they seem to be trapped knee-deep in a quagmire of mud or sand.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Francisco_de_Goya_y_Lucientes_-_Duelo_a_garrotazos.jpg/200px-Francisco_de_Goya_y_Lucientes_-_Duelo_a_garrotazos.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Fight_with_Cudgels</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Fight_with_Cudgels</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Duelo_a_garrotazos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fight_with_Cudgels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fight_With_Cudgels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Fight_with_Cudgels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Fight_with_Cudgels</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Bójka_na_kije</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fight_with_Cudgels</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Поединок_на_дубинах</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fight_with_Cudgels</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1747282</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fight_with_Cudgels</field>
+</doc>
+</add>

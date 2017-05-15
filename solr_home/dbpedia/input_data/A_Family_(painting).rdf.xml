@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Family_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Louis_le_Brocquy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/A_Family_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Family_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03c7lvz</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Family_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Family_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4656653</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1951_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Irish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">"A Family" is an oil on canvas by Louis le Brocquy. Depicting a stark human condition in the aftermarth of World War II, Síghle Bhreathnach-Lynch, Curator of Irish Art at the National Gallery of Ireland notes: 'The mother, lying on a table, leaning on one arm, stares out with quiet dignity while a menacing looking cat peers out from beneath the draw sheet. In the background the father sits, head bowed, in a pose suggesting total dejection. He appears to be oblivious to the small child holding a bunch of flowers; a symbol of hope. The three somberly painted figures inhabit a grey concrete bunker, lit by a bare bulb. The theme of this disturbingly bleak work is the nature of individual isolation and the breakdown of societal norms. ' "A Family" sparked controversy when a group of art patrons offered to present the painting to the Dublin Municipal Gallery in 1952. The gift was rejected by the Art Advisory Committee on the grounds of incompetence. Ineffectual protests were led by fellow artists within a small dynamic group supporting contemporary art. The event mobilised modern art haters and open hostility was aired in letters sent to the press. Viewed as an 'unwholesome and satanic distortion of natural beauty', the aversion was summed up in an opinion published by the Dublin Evening Mail: 'There is a place for monstrosities in the College of Surgeons - there are plenty there - and it would give me much pleasure to find a place for things like "The Family" [sic sic] ... It is not given to man to see into the future, but I am quite certain that in another 100 years the works of Turner, Constable, and a Galaxy of true artists, whose work is still with us, will be cherished and admired, while things like "The Family" [sic sic] will have returned to the oblivion from which they never should have emerged. As notes Dr. Síghle Bhreathnach-Lynch, ‘The artist's image of stark reality in the shape of the terrifying uncertainty of the post-War era and the resultant isolation of the family unit shocked rather than comforted. One letter writer to The Irish Times stated unequivocally that the picture in question is as remote from beauty as the utmost stretch of mortal imagination can conceive. The figures are bestial, horribly misshapen with heads and faces of idiots. If ordinary people met such figures in the streets they would flee from them in terror. The critic Tony Gray saw no tenderness in the forms portrayed. Rather he felt that they were "depressing and frightening" and the sombre palette merely "enhanced the despair of his theme. " The Evening Herald headlined its review "What is it all about" and castigated the le Brocquy exhibition for representing what it called "the left in art" (an oblique reference to modernism). The artist was accused of having gone the way of everything sensational, shallow and ephemeral. The 'Man About Town' column in the Evening Mail believed that the whole composition was "bewildering and repulsive" (the length of the woman's neck seemed to be especially abhorrent!). A rhetorical question implying a negative reply was posed, "What is the aesthetic value of these distortions"? An editorial in the same newspaper broadened the enquiry to a consideration of the genuine value of modern art in general. John Ryan, however, will write in the Dublin Evening Mail: 'Louis le Brocquy discovered his peculiarly individual mode of expression early in his career and courageously employed it even when doing so meant that he had to discard a style which promised a fashionable and lucrative future as a portrait painter in the traditional manner. That pedestrian opinion has not forgiven him for this revolt against its standards was amply proved by the deplorable attack on the painter in the Evening Herald recently. Le Brocquy's stand and his subsequent development as an artist, however, won him the admiration and respect of intelligent opinion wherever his work has been shown. In great Britain he is accepted as one of the handful of really brilliant painters of this generation, while America in so far as she has had the opportunity to judge has reacted similarly. Despite the strictures of the Evening Herald it is satisfactory to note that the exhibition itself has been an outstanding success in every respect. ' First exhibited in London at Gimpel Fils in June 1951, the painting attracted considerable praise. John Berger observed in Art News and Review: 'Le Brocquy is completely free of contemporary tendency to cosmic megalomania. It has become pretentious to talk of an artist's humility, yet that is what distinguishes his work; his studies testify to his patience, and his final, large picture to his refusal to evade simple but difficult problems by relying on the grandiose cliché ... The right-hand half of the very large Family group is, by itself, the finest bit of contemporary painting I have seen for a long time, and I am now convinced that le Brocquy is one of the really promising (in this case that infuriating word is not an excuse but an achievement) British [sic sic] painters of his generation. ' The picture later received critical acclaim. In June 1956 Louis le Brocquy represented Ireland at the Venice Biennale and "A Family" was awarded the Nestlé-endowed Premio Aquisitato. The painting was subsequently given historical recognition in the exhibition Cinquante Ans d'Art Moderne, held to be one of the most ambitious attempts to trace and categorise the development of painting and sculpture from Cézanne and Rodin to that date. A Family will return to Ireland fifty years later to be displayed in the National Gallery of Ireland. Síghle Bhreathnach-Lynch Curator of Irish Art at the National Gallery of Ireland will observe on this occasion: 'A Family is rightly recognized as a seminal painting in the history of 20th-century Irish art. It is not only an important transitional work in the artist's oeuvre but one anticipating modernism as an everyday style in Irish art. All of this is implicitly acknowledged in its being on display to the public. To date, the exception to the policy of only displaying work by dead artists in the Gallery is the continuous acquisition of portraits by contemporary artists for the National Portrait Collection. Le Brocquy is the only living artist to have a work on show as part of the permanent collection. As Medb Ruane has pointed out, the prophet has finally been honoured in his own land. ’</field>
+<field name="label">A Family (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7c/RokebyVenus.jpg</field>
+<field name="comment">"A Family" is an oil on canvas by Louis le Brocquy. Depicting a stark human condition in the aftermarth of World War II, Síghle Bhreathnach-Lynch, Curator of Irish Art at the National Gallery of Ireland notes: 'The mother, lying on a table, leaning on one arm, stares out with quiet dignity while a menacing looking cat peers out from beneath the draw sheet. In the background the father sits, head bowed, in a pose suggesting total dejection.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/RokebyVenus.jpg/200px-RokebyVenus.jpg</field>
+<field name="link_external">http://www.lebrocquy.com/</field>
+<field name="artist">http://dbpedia.org/resource/Louis_le_Brocquy</field>
+<field name="city">http://dbpedia.org/resource/Dublin</field>
+<field name="height">147</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Ireland</field>
+<field name="title">A Family</field>
+<field name="width">185</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Family_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Family_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Family_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Family_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4656653</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Family_(painting)</field>
+</doc>
+</add>

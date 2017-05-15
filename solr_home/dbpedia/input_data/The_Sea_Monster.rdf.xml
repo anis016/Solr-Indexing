@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sea_Monster</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch42nc</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_Monster</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7762767</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Sea_Monster</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Engravings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_art</field>
+<field name="abstract">The Sea Monster is a c. 1498–1500 engraving by the German Renaissance master Albrecht Dürer. It shows a voluptuous naked middle-aged woman riding on the back of a male creature who is half-man, half-fish. The man wears a beard and antlers, while his body is covered in scales. The woman has seemingly been snatched and dragged away from the river bank; her companions are shown scrambling out of the water in panic, raising their arms in protest or lying down weeping. The woman wears an extravagant Milanese headdress and her mouth is open in a cry as she looks back at her friends in the distance. Despite the woman's gaze back at the bank and her open mouth, her relaxed Venus like pose suggests that she is not overly concerned with her plight. For this reason writer Jonathan Jones described the engraving as a "troubling, wondrous image of the erotic", while historian Walter L. Strauss notes that her abduction may be a device to legitimise her nudity. A fortress is set on the rock high above the river; elements of its structure echo the Kaiserburg in Nuremberg. This engraving is one of Dürer's early studies of anatomy and proportion, before he was able to arrive at what he saw as the canon of human beauty in his 1504 Adam and Eve. The image can be approximately dated due to a similar nude study held in the Albertina in Vienna which Dürer signed and dated 1501. A well regarded Mannerist copy was completed c. 1550 in Germany, which shows the scene in mirror image. The copy is signed IoHann Von Essen. It is not known which specific classical or contemporary tale Dürer sought to illustrate; he is known to have synthesised different sources and bring motifs together in a single image. The abduction of a woman by a water-god is one of the oldest Greek mythological conceptions and a subject that fascinated men through to the Renaissance. Dürer adds a layer of complexity to the scene in that the woman does not seem too upset at her fate. Vasari gave an early description of the work, through a vague description of a picture of a nymph set in the ancient world. Recent interpretations mention the abduction of Scylla by the sea demon Glaucus, or the abduction of Hesione by a monster. Further speculation centres on Anna Perenna, who escapes from Aeneas with the aid of a horned water-god. Art historian Jane Campbell Hutchison suggests that the Milanese headdress may refer to the Lombard queen Theodelinda, who was also abducted by a sea monster. The horned Tritonesque figure echoes a description given by Poggio Bracciolini of a sea monster that had terrorised the Adriatic coast in the early 15th century.</field>
+<field name="label">The Sea Monster</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c2/Dürer_-_Das_Meerwunder.jpg</field>
+<field name="comment">The Sea Monster is a c. 1498–1500 engraving by the German Renaissance master Albrecht Dürer. It shows a voluptuous naked middle-aged woman riding on the back of a male creature who is half-man, half-fish. The man wears a beard and antlers, while his body is covered in scales. The woman has seemingly been snatched and dragged away from the river bank; her companions are shown scrambling out of the water in panic, raising their arms in protest or lying down weeping.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dürer_-_Das_Meerwunder.jpg/200px-Dürer_-_Das_Meerwunder.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Sea_Monster</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Sea_Monster</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Sea_Monster</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Sea_Monster</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Meerwunder</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7762767</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_Monster</field>
+</doc>
+</add>

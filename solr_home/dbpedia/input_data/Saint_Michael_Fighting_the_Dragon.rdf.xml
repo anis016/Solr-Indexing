@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Michael_fighting_the_Dragon_(D%C3%BCrer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Michael_Fighting_the_Dragon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7401917</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_Michael_Fighting_the_Dragon</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Michael_Fighting_the_Dragon</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bxz8n3</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1498_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Woodcuts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="abstract">Saint Michael Fighting the Dragon is a woodcut of 1498 by Albrecht Dürer, part of an Apocalypse series of fifteen engravings that brought the young artist international fame. In addition to sales of the series, many impressions (copies) of the woodcut were sold individually as master prints. Each woodcut in the series depicts a different scene from the Book of Apocalypse or Revelation of St. John. telling the story of the end of the world, and consequently many of the woodcuts contain dark scenes. The series first appeared in an illustrated version of the Book of the Revelation of St. John, and is sometimes referred to as the Revelation of St. John Series. This series brought Durer his first experience with fame and also contains the famous The Four Horseman of the Apocalypse. Other works in the series include the Angel Shows St. John the Heavenly Jerusalem and The Vision of God the Father among the Candle-Holders. Following the release of these woodcuts, Durer quickly gained popularity throughout Europe. In 1511 Durer released another edition of the series, and this time included many new pieces, such as the frontispiece St. John Inspired by the Virgin Mary. Since its release, the Apocalypse series, including Saint Michael Fighting the Dragon, has been reproduced numerous times and is part of the Western Canon. This engraving is currently located in the Staatliche Kunsthalle Karlsruhe.</field>
+<field name="label">Saint Michael Fighting the Dragon</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9b/Dürer_-_Michaels_Kampf_mit_dem_Drachen.jpg</field>
+<field name="comment">Saint Michael Fighting the Dragon is a woodcut of 1498 by Albrecht Dürer, part of an Apocalypse series of fifteen engravings that brought the young artist international fame. In addition to sales of the series, many impressions (copies) of the woodcut were sold individually as master prints. Each woodcut in the series depicts a different scene from the Book of Apocalypse or Revelation of St. John.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Dürer_-_Michaels_Kampf_mit_dem_Drachen.jpg/200px-Dürer_-_Michaels_Kampf_mit_dem_Drachen.jpg</field>
+<field name="link_external">http://www.loc.gov/exhibits/heavenlycraft/heavenly-16th.html</field>
+<field name="link_external">http://www.backtoclassics.com/gallery/albrechtdurer/stmichaelfightingthedragon/</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/d/durer/2/12/2apocaly/11apocal.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_Michael_Fighting_the_Dragon</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_Michael_Fighting_the_Dragon</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Michael_Fighting_the_Dragon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Michael_Fighting_the_Dragon-Albrecht_Durer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_Michael_Fighting_the_Dragon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_Michael_Fighting_the_Dragon</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7401917</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Michael_Fighting_the_Dragon</field>
+</doc>
+</add>

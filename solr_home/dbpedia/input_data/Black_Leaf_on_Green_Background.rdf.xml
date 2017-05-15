@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Black_Leaf_on_Green_Background</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Black_Leaf_on_Green_Background</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_leaf_on_green_background</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_Leaf_on_Green_Background</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4921163</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Black_Leaf_on_Green_Background</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Leaf_on_Green_Background</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q9w9g</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1952_paintings</field>
+<field name="abstract">Black Leaf on Green Background (1952) is a painting by Henri Matisse. It was made by Matisse with Gouache and cut paper on paper. It is currently in the Menil Collection, Houston, Texas. During the early-to-mid-1940s Matisse was in poor health. Eventually by 1950 he stopped painting in favor of his paper cutouts. Black Leaf on Green Background, is an example of Matisse's final body of works known as the cutouts.</field>
+<field name="label">Black Leaf on Green Background</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7f/Black_Leaf.jpg</field>
+<field name="comment">Black Leaf on Green Background (1952) is a painting by Henri Matisse. It was made by Matisse with Gouache and cut paper on paper. It is currently in the Menil Collection, Houston, Texas. During the early-to-mid-1940s Matisse was in poor health. Eventually by 1950 he stopped painting in favor of his paper cutouts. Black Leaf on Green Background, is an example of Matisse's final body of works known as the cutouts.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Black_Leaf.jpg/200px-Black_Leaf.jpg</field>
+<field name="link_external">http://www.menil.org/twentieth.html</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Houston</field>
+<field name="image"/>
+<field name="imageSize">169</field>
+<field name="museum">http://dbpedia.org/resource/Menil_Collection</field>
+<field name="title">Black Leaf on Green Background</field>
+<field name="type">Gouache paint on paper</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Black_Leaf_on_Green_Background</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Black_Leaf_on_Green_Background</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4921163</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Leaf_on_Green_Background</field>
+</doc>
+</add>

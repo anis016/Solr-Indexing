@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Oma_forest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Rừng_Oma</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Bosque_de_Oma</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Oma_forest</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j63hy9</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Omako_basoa</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3754883</field>
+<field name="sameAs">http://dbpedia.org/resource/Oma_forest</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Basque_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings</field>
+<field name="abstract">Oma forest is a work of art created by Agustin Ibarrola, a Basque sculptor and painter. The work is located in a forest near Kortezubi, in the natural reserve of Urdaibai. It is also known as the "painted forest". The work follows the modern art trend called “Land art”. Most of the trees are Monterrey pines. Displays the horrible and ghastly harmony between nature and human presence by painting on the trunks of trees, human figures, animals and geometric shapes, some of which are visible only from certain positions.</field>
+<field name="label">Oma forest</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/59/Bosque_de_Oma_(10).JPG</field>
+<field name="comment">Oma forest is a work of art created by Agustin Ibarrola, a Basque sculptor and painter. The work is located in a forest near Kortezubi, in the natural reserve of Urdaibai. It is also known as the "painted forest". The work follows the modern art trend called “Land art”. Most of the trees are Monterrey pines.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Bosque_de_Oma_(10).JPG/200px-Bosque_de_Oma_(10).JPG</field>
+<field name="link_external">http://www.turismoa.euskadi.net/eu/euskadi-ezagutzeko-planak/omako-basoa/x65-12375/eu/</field>
+<field name="link_external">http://www.bizkaia.net/home2/Temas/DetalleTema.asp?Tem_Codigo=4960</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Oma_forest</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Oma_forest</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Bosque_de_Oma</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oma_forest</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Oma_forest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Oma_forest</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Omako_basoa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oma_forest</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3754883</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oma_forest</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Rừng_Oma</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oma_forest</field>
+</doc>
+</add>

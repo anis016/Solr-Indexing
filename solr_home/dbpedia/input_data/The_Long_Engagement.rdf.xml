@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Long_Engagement</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Long_Engagement</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Долгая_помолвка_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Long_Engagement</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Long_Engagement</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4164441</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q6xp7</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Long_Engagement</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Long_Engagement</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Долгая_помолвка_(картина)</field>
+<field name="sameAs">http://be_x_old.dbpedia.org/resource/Доўгія_заручыны_(карціна)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Arthur_Hughes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1859_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Birmingham_Museum_and_Art_Gallery</field>
+<field name="abstract">The Long Engagement is a painting by the Pre-Raphaelite artist Arthur Hughes which was created between 1854 and 1859. The painting was originally titled "Orlando". The painting depicts a curate and his fiancée in a woodland setting. The title refers to middle class social conventions of the time, in particular the fact that the parents of a girl engaged to a poorly paid curate would typically not allow the marriage until he had secured a more remunerative position - i.e. within the church hierarchy. The girl is depicted looking at her own name (Amy) carved, some while ago, into the trunk of the tree by her fiancé as an expression of his love. The carving, however, is about to be covered by rambling ivy - growing up the trunk; ethereal youthful passion is becoming lost to lassiez-faire worldly capitalist demands. It can be said that this symbolism reflects the stark realities of late 1850s and 1860s Victorian England, which certainly is the observation made by English historian A. N. Wilson. In his book The Victorians, Wilson makes the following observation and analysis of the significance of The Long Engagement: It depicts an emotional predicament stemming directly from an economic situation. The prosperity which had created the vast bourgeoisie with its gradations from lower to upper middle class had also created a code. You could not marry, and maintain the position in society to which you aspired, until you had a certain amount of money in the bank. (p.  260) Hughes had finished an earlier painting, April Love, of a similar theme. The Long Engagement was given to the Birmingham Museum &amp; Art Gallery in the will of a "Dr Griffiths" in 1902, and has remained in the collection to present day.</field>
+<field name="label">The Long Engagement</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fa/LongEngagementAHughes.jpg</field>
+<field name="comment">The Long Engagement is a painting by the Pre-Raphaelite artist Arthur Hughes which was created between 1854 and 1859. The painting was originally titled "Orlando". The painting depicts a curate and his fiancée in a woodland setting. The title refers to middle class social conventions of the time, in particular the fact that the parents of a girl engaged to a poorly paid curate would typically not allow the marriage until he had secured a more remunerative position - i.e.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/LongEngagementAHughes.jpg/200px-LongEngagementAHughes.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Arthur_Hughes_(artist)</field>
+<field name="city">http://dbpedia.org/resource/Birmingham</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Birmingham_Museum_and_Art_Gallery</field>
+<field name="title">The Long Engagement</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Long_Engagement</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Long_Engagement</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4164441</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Long_Engagement</field>
+</doc>
+<doc>
+<field name="uri">http://be_x_old.dbpedia.org/resource/Доўгія_заручыны_(карціна)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Long_Engagement</field>
+</doc>
+</add>

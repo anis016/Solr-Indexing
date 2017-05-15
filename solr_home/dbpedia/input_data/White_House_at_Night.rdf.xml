@@ -1,0 +1,83 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/White_House_at_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_House_at_Night</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06w406j</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_weiße_Haus_bei_Nacht</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Белы_дом_уначы</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/夜の白い家</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Biały_dom_w_nocy</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Белый_дом_ночью</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1171740</field>
+<field name="sameAs">http://yago-knowledge.org/resource/White_House_at_Night</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הבית_הלבן_לעת_לילה</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="abstract">White House at Night is an oil painting created on 16 June 1890 at around 8:00 PM by Vincent van Gogh, in the small town of Auvers-sur-Oise, six weeks before his death. The exact time is known due to the position of planet Venus in the painting. Astronomers Donald Olson and Russell Doescher from the Texas State University-San Marcos calculated that the star in the painting must be Venus, which was bright in the evening sky in June 1890. The painting has a turbulent history. It was considered lost after World War II, but appeared in the Hermitage Museum in 1995 in an exhibition displaying artworks looted by the Soviets at the end of the war.</field>
+<field name="label">White House at Night</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/16/Whitehousenight.jpg</field>
+<field name="comment">White House at Night is an oil painting created on 16 June 1890 at around 8:00 PM by Vincent van Gogh, in the small town of Auvers-sur-Oise, six weeks before his death. The exact time is known due to the position of planet Venus in the painting. Astronomers Donald Olson and Russell Doescher from the Texas State University-San Marcos calculated that the star in the painting must be Venus, which was bright in the evening sky in June 1890. The painting has a turbulent history.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Whitehousenight.jpg/200px-Whitehousenight.jpg</field>
+<field name="artist"/>
+<field name="height">59</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">White House at Night</field>
+<field name="type">Oil on canvas</field>
+<field name="width">72.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/White_House_at_Night</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/White_House_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/夜の白い家</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_House_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_weiße_Haus_bei_Nacht</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_House_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Biały_dom_w_nocy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_House_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Белый_дом_ночью</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_House_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/White_House_at_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/White_House_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1171740</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_House_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Белы_дом_уначы</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_House_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הבית_הלבן_לעת_לילה</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_House_at_Night</field>
+</doc>
+</add>

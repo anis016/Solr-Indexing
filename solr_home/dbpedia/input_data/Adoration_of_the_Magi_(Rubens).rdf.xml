@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Magi_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bh8tf1</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Magi_(Rubens)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4684623</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Rubens)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Peter_Paul_Rubens</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Adoration_of_the_Magi_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_of_Fine_Arts_of_Lyon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1617_paintings</field>
+<field name="abstract">Peter Paul Rubens painted The Adoration of the Magi more often than any other episode from the life of Christ. The adoration of the Magi offered the Counter-Reformation artist the chance to depict the richest worldly panoply, rich textiles, exotic turbans and other incidents, with a range of human types caught up in a dramatic action that expressed the humbling of the world before the Church, embodied in Madonna and child. The horizontal composition of the Adoration of the Magi conserved at the Musée des Beaux-Arts de Lyon arranges full-length figures across the canvas, backed by a frieze-like crowd showing a variety of mature male types, twelve in all. The oldest magus kneels and kisses the foot of the Christ Child with a tender gesture, as the Child, standing on a straw-strewn table, where he is presented by the Virgin Mary, touches the magus' bald head in a gesture of benediction. The dim stable is lit by shafts of light. Peter C. Sutton suggested that, as Rubens' treatments of this subject in vertical formats were for known ecclesiastical commissions as altarpieces, the horizontal format, which is shared with Rubens' Adoration painted for the Statenkamer of Antwerp's town hall, c. 1608-09, might suggest that the Lyon painting was also a secular commission. The painting had a distinguished early history: it was purchased by Maximilian II Emanuel, Prince-Elector of Bavaria in Antwerp in September 1698, from Gijsbert van Ceulen, part of a spectacular group of paintings that included twelve other paintings by Rubens that are now among the Wittelsbach works of art from Schleissheim now in the Alte Pinakothek, Munich. It languished as a copy until Jacques Fouquart resuscitated its reputation, recognized as a major work of Rubens, in the exhibition Le siècle de Rubens, Paris, 1977-78. There is an oil preparatory sketch, long hidden in private collections.</field>
+<field name="label">Adoration of the Magi (Rubens)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/72/Rubens-adoration_des_mages.jpg</field>
+<field name="comment">Peter Paul Rubens painted The Adoration of the Magi more often than any other episode from the life of Christ. The adoration of the Magi offered the Counter-Reformation artist the chance to depict the richest worldly panoply, rich textiles, exotic turbans and other incidents, with a range of human types caught up in a dramatic action that expressed the humbling of the world before the Church, embodied in Madonna and child.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Rubens-adoration_des_mages.jpg/200px-Rubens-adoration_des_mages.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Peter_Paul_Rubens</field>
+<field name="city">http://dbpedia.org/resource/Lyon</field>
+<field name="height">251</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon</field>
+<field name="title">Adoration of the Magi</field>
+<field name="type">Oil on canvas</field>
+<field name="width">338</field>
+<field name="year">ca. 1616-17</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Rubens)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Magi_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Magi_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4684623</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Rubens)</field>
+</doc>
+</add>

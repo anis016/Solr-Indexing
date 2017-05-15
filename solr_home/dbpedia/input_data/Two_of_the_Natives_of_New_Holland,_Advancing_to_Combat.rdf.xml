@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09gjt_g</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7859428</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1773_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1770s_paintings</field>
+<field name="abstract">Two of the Natives of New Holland, Advancing to Combat is a drawing by Sydney Parkinson, drawn in 1770 and published posthumously in 1773. It is the earliest known portrayal of an Australian Aborigine by a European, and a typical example of a painting in the noble savage ideal, showing proud warriors, bravely advancing in defence of their land. The stance of the warriors is said to be based upon the Borghese Gladiator.</field>
+<field name="label">Two of the Natives of New Holland, Advancing to Combat</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f4/Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat.jpg</field>
+<field name="comment">Two of the Natives of New Holland, Advancing to Combat is a drawing by Sydney Parkinson, drawn in 1770 and published posthumously in 1773. It is the earliest known portrayal of an Australian Aborigine by a European, and a typical example of a painting in the noble savage ideal, showing proud warriors, bravely advancing in defence of their land. The stance of the warriors is said to be based upon the Borghese Gladiator.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat.jpg/200px-Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Two_natives_of_New_Holland_advancing_to_combat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7859428</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_of_the_Natives_of_New_Holland,_Advancing_to_Combat</field>
+</doc>
+</add>

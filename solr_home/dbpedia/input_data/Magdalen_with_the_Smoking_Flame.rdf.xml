@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madeleine_à_la_flamme_filante</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Magdalen_with_the_Smoking_Flame</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Magdalen_with_the_Smoking_Flame</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pokutująca_Magdalena</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Magdalen_with_the_Smoking_Flame</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h_c2jk</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madeleine_à_la_flamme_filante</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3210254</field>
+<field name="sameAs">http://dbpedia.org/resource/Magdalen_with_the_Smoking_Flame</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1640_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Baroque_paintings</field>
+<field name="abstract">Saint Mary Magdalen with the Smoking Flame (also titled in French La Madeleine à la veilleuse, and La Madeleine à la flamme filante) is an oil-on-canvas by French Baroque painter Georges de La Tour, painted in 1640. This version of the painting is currently held and exhibited at the Louvre in Paris. Other paintings by La Tour containing the Penitent Magdalene are exhibited at the Los Angeles County Museum of Art, the National Gallery of Art, and the Metropolitan Museum of Art.</field>
+<field name="label">Magdalen with the Smoking Flame</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/ba/Georges_de_La_Tour_-_Magdalen_of_Night_Light_-_WGA12337.jpg</field>
+<field name="comment">Saint Mary Magdalen with the Smoking Flame (also titled in French La Madeleine à la veilleuse, and La Madeleine à la flamme filante) is an oil-on-canvas by French Baroque painter Georges de La Tour, painted in 1640. This version of the painting is currently held and exhibited at the Louvre in Paris. Other paintings by La Tour containing the Penitent Magdalene are exhibited at the Los Angeles County Museum of Art, the National Gallery of Art, and the Metropolitan Museum of Art.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Georges_de_La_Tour_-_Magdalen_of_Night_Light_-_WGA12337.jpg/200px-Georges_de_La_Tour_-_Magdalen_of_Night_Light_-_WGA12337.jpg</field>
+<field name="link_external">http://www.galleryofart.us/Georges_de_La_Tour</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&amp;idNotice=8707&amp;langue=fr</field>
+<field name="link_external">http://www.kimbellart.org/database/index.cfm?detail=yes&amp;ID=AP%201993.04</field>
+<field name="artist">http://dbpedia.org/resource/Georges_de_La_Tour</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">128</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Magdalen with the Smoking Flame</field>
+<field name="type">Oil on canvas</field>
+<field name="width">94</field>
+<field name="year">c. 1640</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Magdalen_with_the_Smoking_Flame</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Magdalen_with_the_Smoking_Flame</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Magdalen_with_the_Smoking_Flame</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Magdalen_with_the_Smoking_Flame</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pokutująca_Magdalena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Magdalen_with_the_Smoking_Flame</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3210254</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Magdalen_with_the_Smoking_Flame</field>
+</doc>
+</add>

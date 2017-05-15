@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Orphan_Girl_at_the_Cemetery</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Orphan_Girl_at_the_Cemetery</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Jong_weesmeisje_op_het_kerkhof</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3119110</field>
+<field name="sameAs">http://tl.dbpedia.org/resource/Ulilang_Dalagita_na_nasa_Sementeryo</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Jeune_orpheline_au_cimetière</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Jove_òrfena_al_cementiri</field>
+<field name="sameAs">http://th.dbpedia.org/resource/เด็กหญิงกำพร้าในสุสาน</field>
+<field name="sameAs">http://dbpedia.org/resource/Orphan_Girl_at_the_Cemetery</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04gs8q0</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Eug%C3%A8ne_Delacroix_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1824_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1823_paintings</field>
+<field name="abstract">The Orphan Girl at the cemetery (also known as Young Orphan Girl in the Cemetery) (c. 1823 or 1824) is a painting by the French artist Eugène Delacroix.</field>
+<field name="label">Orphan Girl at the Cemetery</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/37/Eugène_Delacroix_-_Jeune_orpheline_au_cimetière_(vers_1824).JPG</field>
+<field name="comment">The Orphan Girl at the cemetery (also known as Young Orphan Girl in the Cemetery) (c. 1823 or 1824) is a painting by the French artist Eugène Delacroix.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Eugène_Delacroix_-_Jeune_orpheline_au_cimetière_(vers_1824).JPG/200px-Eugène_Delacroix_-_Jeune_orpheline_au_cimetière_(vers_1824).JPG</field>
+<field name="link_external">http://www.wmofa.com/artists/Delacroix,_Eugene/image/Orphan_Girl_at_the_Cemetery_1824.jpg.html&amp;img=36&amp;tt=</field>
+<field name="artist">http://dbpedia.org/resource/Eug%C3%A8ne_Delacroix</field>
+<field name="city"/>
+<field name="height">66</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Orphan Girl at the Cemetery</field>
+<field name="type">Oil on canvas</field>
+<field name="width">54</field>
+<field name="year">circa 1823&amp;ndash;1824</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Orphan_Girl_at_the_Cemetery</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Orphan_Girl_at_the_Cemetery</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Jeune_orpheline_au_cimetière</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Orphan_Girl_at_the_Cemetery</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Orphan_Girl_at_the_Cemetery</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Orphan_Girl_at_the_Cemetery</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Young_Orphan_Girl_in_the_Cemetery</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3119110</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Orphan_Girl_at_the_Cemetery</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Jong_weesmeisje_op_het_kerkhof</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Orphan_Girl_at_the_Cemetery</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Jove_òrfena_al_cementiri</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Orphan_Girl_at_the_Cemetery</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/เด็กหญิงกำพร้าในสุสาน</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Orphan_Girl_at_the_Cemetery</field>
+</doc>
+<doc>
+<field name="uri">http://tl.dbpedia.org/resource/Ulilang_Dalagita_na_nasa_Sementeryo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Orphan_Girl_at_the_Cemetery</field>
+</doc>
+</add>

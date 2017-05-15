@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Finding_of_the_body_of_St_Mark</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritrovamento_del_corpo_di_san_Marco</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Odnalezienie_ciała_św._Marka</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0jkvw52</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Finding_of_the_body_of_St_Mark</field>
+<field name="sameAs">http://dbpedia.org/resource/Finding_of_the_body_of_St_Mark</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937806</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Pinacoteca_di_Brera</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tintoretto</field>
+<field name="abstract">The Finding of the body of St Mark or Rediscovery of the body of Saint Mark is a painting by Tintoretto. Dated to between 1562 and 1566, it is part of a cycle of paintings of the patron saint of Venice. It is now held in the Pinacoteca di Brera in Milan. Like its companion piece, St Mark's Body Brought to Venice, the composition exemplifies Tintoretto's preference for dramatic effects of perspective and light. According to the art historian Thomas Nichols, "the linear logic of the emptied, boxlike perspective vistas is undermined by an irrational play of light and shade. Both paintings suggest the simultaneous existence of different levels of reality through the use of a range of pictorial techniques."</field>
+<field name="label">Finding of the body of St Mark</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/71/Jacopo_Tintoretto_001.jpg</field>
+<field name="comment">The Finding of the body of St Mark or Rediscovery of the body of Saint Mark is a painting by Tintoretto. Dated to between 1562 and 1566, it is part of a cycle of paintings of the patron saint of Venice. It is now held in the Pinacoteca di Brera in Milan. Like its companion piece, St Mark's Body Brought to Venice, the composition exemplifies Tintoretto's preference for dramatic effects of perspective and light.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Jacopo_Tintoretto_001.jpg/200px-Jacopo_Tintoretto_001.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Tintoretto</field>
+<field name="city">http://dbpedia.org/resource/Milan</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Pinacoteca_di_Brera</field>
+<field name="title">Finding of the body of St Mark</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Finding_of_the_body_of_St_Mark</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Finding_of_the_body_of_St_Mark</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Odnalezienie_ciała_św._Marka</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Finding_of_the_body_of_St_Mark</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Finding_of_the_body_of_St_Mark</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Finding_of_the_body_of_St_Mark</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritrovamento_del_corpo_di_san_Marco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Finding_of_the_body_of_St_Mark</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937806</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Finding_of_the_body_of_St_Mark</field>
+</doc>
+</add>

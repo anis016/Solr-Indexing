@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Św._Jan_Chrzciciel_(obraz_Tycjana)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_John_the_Baptist_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_John_the_Baptist_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_John_the_Baptist_(Titian)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7401482</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Św._Jan_Chrzciciel_(obraz_Tycjana)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3v1hz</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_John_the_Baptist_(Titian)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1540_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:John_the_Baptist</field>
+<field name="abstract">Saint John the Baptist is a 1540 painting of John the Baptist by Titian, with his traditional attributes of the Lamb of God and a staff. In the background is a Giorgionesque landscape with the river Jordan, in which Christ was baptised.</field>
+<field name="label">Saint John the Baptist (Titian)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e9/TitianStJohn.jpg</field>
+<field name="comment">Saint John the Baptist is a 1540 painting of John the Baptist by Titian, with his traditional attributes of the Lamb of God and a staff. In the background is a Giorgionesque landscape with the river Jordan, in which Christ was baptised.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/TitianStJohn.jpg/200px-TitianStJohn.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Saint John the Baptist</field>
+<field name="type">oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_John_the_Baptist_(Titian)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_John_the_Baptist_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_John_the_Baptist_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_John_the_Baptist_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7401482</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_John_the_Baptist_(Titian)</field>
+</doc>
+</add>

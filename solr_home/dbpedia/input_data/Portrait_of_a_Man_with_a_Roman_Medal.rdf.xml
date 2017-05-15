@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_d'uomo_con_una_medaglia_romana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Roman_Medal</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_mężczyzny_z_monetą</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Roman_Medal</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Roman_Medal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Roman_Medal</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqnpzc</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Man_with_a_Roman_Medal</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_d'uomo_con_una_medaglia_romana</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_mężczyzny_z_monetą</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937422</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Museum_of_Fine_Arts,_Antwerp</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hans_Memling</field>
+<field name="abstract">The Portrait of a Man with a Roman Medal is a painting by the German-born Flemish artist Hans Memling, dating to c. 1480 and housed in the Royal Museum of Fine Arts, Antwerp, Belgium.</field>
+<field name="label">Portrait of a Man with a Roman Medal</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/26/Hans_Memling_054_small.jpg</field>
+<field name="comment">The Portrait of a Man with a Roman Medal is a painting by the German-born Flemish artist Hans Memling, dating to c. 1480 and housed in the Royal Museum of Fine Arts, Antwerp, Belgium.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Hans_Memling_054_small.jpg/200px-Hans_Memling_054_small.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">31</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of a Man with a Roman Medal</field>
+<field name="type">Oil on panel</field>
+<field name="width">23.2</field>
+<field name="year">c. 1480</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Roman_Medal</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Man_with_a_Roman_Medal</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Roman_Medal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Roman_Medal</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_man_with_a_Roman_medal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937422</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Roman_Medal</field>
+</doc>
+</add>

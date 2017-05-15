@@ -1,0 +1,80 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Gallant_Conversation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Gallant_Conversation</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cj8lv</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallant_Conversation</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ojcowskie_napomnienie</field>
+<field name="sameAs">http://th.dbpedia.org/resource/การเจรจา_(เทอร์บอร์ค)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5227835</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Conversación_galante</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Rijksmuseum_Amsterdam</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_Golden_Age_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1650s_paintings</field>
+<field name="abstract">The Gallant Conversation is an oil-on-canvas painting from circa 1654 by Gerard ter Borch (the Younger). A late 18th century French print of the work is titled The Paternal Admonition, apparently believing it showed a father reprimanding his daughter, but modern art historians see it as a conversation between two prospective lovers, either a discussion of a betrothal or, more likely, a customer propositioning a prostitute in a brothel.</field>
+<field name="label">The Gallant Conversation</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/41/Gerard_ter_Borch_(II)_019.jpg</field>
+<field name="comment">The Gallant Conversation is an oil-on-canvas painting from circa 1654 by Gerard ter Borch (the Younger). A late 18th century French print of the work is titled The Paternal Admonition, apparently believing it showed a father reprimanding his daughter, but modern art historians see it as a conversation between two prospective lovers, either a discussion of a betrothal or, more likely, a customer propositioning a prostitute in a brothel.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Gerard_ter_Borch_(II)_019.jpg/200px-Gerard_ter_Borch_(II)_019.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Gerard_ter_Borch</field>
+<field name="city">http://dbpedia.org/resource/Netherlands</field>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="height">71</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Rijksmuseum</field>
+<field name="title">The Gallant Conversation</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">73</field>
+<field name="year">c.1654</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Gallant_Conversation</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Gallant_Conversation</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Conversación_galante</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallant_Conversation</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Parental_Admonition</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Parental_Admonition</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Paternal_Admonition</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ojcowskie_napomnienie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallant_Conversation</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Gallant_Conversation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Gallant_Conversation</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5227835</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallant_Conversation</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/การเจรจา_(เทอร์บอร์ค)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gallant_Conversation</field>
+</doc>
+</add>

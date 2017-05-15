@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Quaratesi_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Quaratesi_Polyptych</field>
+<field name="sameAs">http://dbpedia.org/resource/Quaratesi_Polyptych</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Polittico_Quaratesi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gwyp_k</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3907477</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1425_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Polyptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gentile_da_Fabriano_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Vatican_Museums</field>
+<field name="abstract">The Quaratesi Polyptych is a painting by the Italian late medieval painter Gentile da Fabriano, now divided between several museums. It was painted by the artist for the Quaratesi family's chapel in the church of San Niccolò Oltrarno, perhaps not a long time after the Strozzi Altarpiece. Today four of the five original compartments (including the painted cusp) are known, as well as some parts of the predella (which has scenes of the Life of St. Nicholas): Madonna with Child and Angels with, in the cups, Angels and a medallion of the Redeemer (central compartment), 222.70 x 83 cm, The Royal Collection, Hampton Court, stored at the National Gallery, London St. Mary Magdalene, with cusp (left compartment), 200 x 60 cm, Uffizi, Florence St. Nicholas of Bari, with cusp (left compartment), 200 x 60 cm, Uffizi, Florence St. John the Baptist, with cusp (right compartment), 200 x 60 cm, Uffizi, Florence St. George, with cusp (right compartment), 200 x 60 cm, Uffizi, Florence Predella Birth of St. Nicholas, 36.5 x 36.5 cm, Pinacoteca Vaticana, Rome The Gift of St. Nicholas, 36.5 x 36.5 cm, Pinacoteca Vaticana, Rome St. Nicholas Saving a Ship from the Tempest, 36.5 x 36.5 cm, Pinacoteca Vaticana, Rome Birth of St. Nicholas, 39 x 62 cm, Pinacoteca Vaticana, Rome St. Nicholas Saves Three Youths from the Brine, 36.5 x 36.5 cm, Pinacoteca Vaticana, Rome Miracle of the Pilgrims at St. Nicholas' Tomb, 36.5 x 36.5 cm, National Gallery of Art, Washington, D.C.</field>
+<field name="label">Quaratesi Polyptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0c/Gentile_da_Fabriano_070.jpg</field>
+<field name="comment">The Quaratesi Polyptych is a painting by the Italian late medieval painter Gentile da Fabriano, now divided between several museums. It was painted by the artist for the Quaratesi family's chapel in the church of San Niccolò Oltrarno, perhaps not a long time after the Strozzi Altarpiece. Today four of the five original compartments (including the painted cusp) are known, as well as some parts of the predella (which has scenes of the Life of St.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Gentile_da_Fabriano_070.jpg/200px-Gentile_da_Fabriano_070.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="imageSize">180</field>
+<field name="museum"/>
+<field name="title">Quaratesi Polyptych</field>
+<field name="type">Tempera on panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Quaratesi_Polyptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Quaratesi_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Polittico_Quaratesi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Quaratesi_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Quaratesi_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Quaratesi_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3907477</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Quaratesi_Polyptych</field>
+</doc>
+</add>

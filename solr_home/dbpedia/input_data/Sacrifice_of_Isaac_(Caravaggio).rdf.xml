@@ -1,0 +1,101 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Isaac_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Aberzhidigezh_Izaag_(Caravaggio)</field>
+<field name="sameAs">http://dbpedia.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ofiarowanie_Izaaka_(obraz_Caravaggia_z_1603)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2284829</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Sacrificiul_lui_Isaac</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08wl5l</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Sacrifice_d'Isaac_(Le_Caravage,_Florence)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sacrificio_di_Isacco_(Caravaggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_sacrificio_de_Isaac_(Caravaggio,_Florencia)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Isaac</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1598_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1603_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Abraham</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="abstract">The Sacrifice of Isaac is the title of two paintings by the Italian master Caravaggio (1571–1610) depicting the sacrifice of Isaac.</field>
+<field name="label">Sacrifice of Isaac (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/Sacrifice_of_Isaac-Caravaggio_(c._1603).jpg</field>
+<field name="comment">The Sacrifice of Isaac is the title of two paintings by the Italian master Caravaggio (1571–1610) depicting the sacrifice of Isaac.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sacrifice_of_Isaac-Caravaggio_(c._1603).jpg/200px-Sacrifice_of_Isaac-Caravaggio_(c._1603).jpg</field>
+<field name="artist">http://dbpedia.org/resource/Caravaggio</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="city">http://dbpedia.org/resource/Princeton,_New_Jersey</field>
+<field name="height">116</field>
+<field name="height">104</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="museum">http://dbpedia.org/resource/Uffizi</field>
+<field name="title">Sacrifice of Isaac</field>
+<field name="title">Abraham and the sacrifice of his son Isaac</field>
+<field name="width">173</field>
+<field name="width">135</field>
+<field name="year">c. 1598</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sacrifice_of_Isaac_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sacrifice_of_Isaac_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sacrifice_of_Isaac_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_sacrificio_de_Isaac_(Caravaggio,_Florencia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Sacrifice_d'Isaac_(Le_Caravage,_Florence)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sacrificio_di_Isacco_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ofiarowanie_Izaaka_(obraz_Caravaggia_z_1603)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2284829</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Aberzhidigezh_Izaag_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Sacrificiul_lui_Isaac</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sacrifice_of_Isaac_(Caravaggio)</field>
+</doc>
+</add>

@@ -1,0 +1,90 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_di_Loreto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_dei_Pellegrini</field>
+<field name="sameAs">http://he.dbpedia.org/resource/המדונה_של_עולי_הרגל</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_des_pèlerins</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ロレートの聖母_(カラヴァッジョの絵画)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_di_Loreto</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2713203</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025shb4</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Madonna_de_Loreto</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">The Madonna of Loreto (in Italian, Madonna dei Pellegrini or pilgrims) is a famous painting (1604–1606) by the Italian Baroque master Caravaggio, located in the Cavalletti Chapel of the church of Sant'Agostino, near the Piazza Navona in Rome. It depicts the apparition of the barefoot virgin and naked child to two peasants on a pilgrimage; or as some say it is the quickening of the iconic statue of the Virgin. In 1603 the heirs of one Ermete Cavalletti commissioned for the decoration of the family chapel with a painting on the theme of this icon. Giovanni Baglione, a competing painter of lesser talent, but who had successfully obtained Caravaggio's jailing during a libel trial, said that the unveiling of this painting "caused the common people to make a great cackle (schiamazzo) over it". The uproar was not surprising. The Virgin Mary, like her admiring pilgrims, is barefoot. The doorway or niche is not an exalted cumulus or bevy of putti, but a partly decrepit wall of flaking brick is visible. Only the merest halo sanctifies her and the baby. While beautiful, the Virgin Mary could be any woman, emerging from the night shadows. Like many of Caravaggio's Roman paintings, such as the Conversion on the Way to Damascus or the Calling of St Matthew, the scene is a moment where everyday common man (or woman) encounters the divine, whose appearance is also not unlike that of a common man (or woman). The woman modelling Mary appears to be the same as that in the canvas in the Galleria Borghese: The Madonna and Child with St. Anne (Dei Palafrenieri) (1605).</field>
+<field name="label">Madonna di Loreto (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3a/Michelangelo_Caravaggio_001.jpg</field>
+<field name="comment">The Madonna of Loreto (in Italian, Madonna dei Pellegrini or pilgrims) is a famous painting (1604–1606) by the Italian Baroque master Caravaggio, located in the Cavalletti Chapel of the church of Sant'Agostino, near the Piazza Navona in Rome. It depicts the apparition of the barefoot virgin and naked child to two peasants on a pilgrimage; or as some say it is the quickening of the iconic statue of the Virgin.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Michelangelo_Caravaggio_001.jpg/200px-Michelangelo_Caravaggio_001.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">260</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna di Loreto</field>
+<field name="type">Oil on canvas</field>
+<field name="width">150</field>
+<field name="year">c. 1604-1606</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_di_Loreto_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_di_Loreto_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Madonna_de_Loreto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_des_pèlerins</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_dei_Pellegrini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_di_Loreto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_di_Loreto_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ロレートの聖母_(カラヴァッジョの絵画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2713203</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/המדונה_של_עולי_הרגל</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Loreto_(Caravaggio)</field>
+</doc>
+</add>

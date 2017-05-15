@@ -1,0 +1,84 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bonaparte_Crossing_the_Alps</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1224572</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Bonaparte_franchissant_les_Alpes</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte_Crossing_the_Alps</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Napoleo_Alpes_transcendit_(Delaroche)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Bonaparte_cruzando_los_Alpes</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02wyhxv</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Bonaparte_cruzando_os_Alpes</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bonaparte_Crossing_the_Alps</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1848_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_Delaroche</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_Napoleon</field>
+<field name="abstract">Bonaparte Crossing the Alps (also called Napoleon Crossing the Alps, despite the existence of another, more well-known painting with that name) is an 1848–1850 oil-on-canvas portrait of Napoleon Bonaparte, by French artist Hippolyte Delaroche. The painting depicts Bonaparte leading his army through the Alps on a mule, a journey Napoleon and his army of soldiers made in the spring of 1800, in an attempt to surprise the Austrian army in Italy. The two main versions of this painting that exist are in the Louvre in Paris and the Walker Art Gallery in Liverpool, England. Queen Victoria also obtained a reduced version of it. The work was inspired by Jacques-Louis David's series of five Napoleon Crossing the Alps paintings (1801–1805). David's works also show Napoleon's journey through the Great St. Bernard Pass, but there are significant stylistic differences between the two conceptions. Delaroche's Napoleon is cold and downcast, whereas David's wears a pristine uniform, and is idealized as a hero. Delaroche was commissioned to paint a realistic portrait; the style of which was emerging at the time. While the painting largely represented—and was one of the pioneers of—an emerging style, the work was criticised by several authorities on the subject. The reasons for this varied from Delaroche's depiction of the scene to a general disapproval of Delaroche himself. Many of those who were in the latter state of mind felt that Delaroche was trying to match the genius of Napoleon in some way, and had failed miserably in doing so.</field>
+<field name="label">Bonaparte Crossing the Alps</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9d/Paul_Delaroche_-_Napoleon_Crossing_the_Alps_-_Google_Art_Project_2.jpg</field>
+<field name="comment">Bonaparte Crossing the Alps (also called Napoleon Crossing the Alps, despite the existence of another, more well-known painting with that name) is an 1848–1850 oil-on-canvas portrait of Napoleon Bonaparte, by French artist Hippolyte Delaroche. The painting depicts Bonaparte leading his army through the Alps on a mule, a journey Napoleon and his army of soldiers made in the spring of 1800, in an attempt to surprise the Austrian army in Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Paul_Delaroche_-_Napoleon_Crossing_the_Alps_-_Google_Art_Project_2.jpg/200px-Paul_Delaroche_-_Napoleon_Crossing_the_Alps_-_Google_Art_Project_2.jpg</field>
+<field name="link_external">http://artxchangenetwork.com/Image.aspx?PictureID=12091</field>
+<field name="link_external">http://www.pbase.com/bmcmorrow/image/47949756</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/d/delaroch/8delaroc.html</field>
+<field name="link_external">http://www.wga.hu/art/d/delaroch/8delaroc.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Paul_Delaroche</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">270</field>
+<field name="museum">http://dbpedia.org/resource/St_James's_Palace</field>
+<field name="title">Bonaparte Crossing the Alps</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bonaparte_Crossing_the_Alps</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bonaparte_Crossing_the_Alps</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Bonaparte_franchissant_les_Alpes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte_Crossing_the_Alps</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Bonaparte_cruzando_os_Alpes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte_Crossing_the_Alps</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Bonaparte_cruzando_los_Alpes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte_Crossing_the_Alps</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bonaparte_crossing_the_Alps</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bonaparte_crossing_the_alps</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bonaparte_Crossing_the_Alps</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bonaparte_Crossing_the_Alps</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1224572</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte_Crossing_the_Alps</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Napoleo_Alpes_transcendit_(Delaroche)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte_Crossing_the_Alps</field>
+</doc>
+</add>

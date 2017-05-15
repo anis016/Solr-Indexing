@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self-portrait_(Hans_Holbein_the_Younger)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self-portrait_(Hans_Holbein_the_Younger)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-portrait_(Hans_Holbein_the_Younger)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Autoritratto_(Holbein_il_Giovane)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h66d14</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_(Hans_Holbein_the_Younger)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3630726</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self-portrait_(Hans_Holbein_the_Younger)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hans_Holbein_the_Younger</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1542_paintings</field>
+<field name="abstract">The Self-portrait is a painting by the German Renaissance master Hans Holbein the Younger, executed around 1542-1543. It is housed in the Uffizi, Florence. The work was bought in London for Gran Duke Cosimo III de' Medici in 1681. As in other works by the German artist, there is much care for details, such as the hair, painter one by one.</field>
+<field name="label">Self-portrait (Hans Holbein the Younger)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d7/Hans_Holbein_the_Younger,_self-portrait.jpg</field>
+<field name="comment">The Self-portrait is a painting by the German Renaissance master Hans Holbein the Younger, executed around 1542-1543. It is housed in the Uffizi, Florence. The work was bought in London for Gran Duke Cosimo III de' Medici in 1681. As in other works by the German artist, there is much care for details, such as the hair, painter one by one.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Hans_Holbein_the_Younger,_self-portrait.jpg/200px-Hans_Holbein_the_Younger,_self-portrait.jpg</field>
+<field name="link_external">http://www.polomuseale.firenze.it/catalogo/scheda.asp?nctn=00287056&amp;value=1</field>
+<field name="artist">http://dbpedia.org/resource/Hans_Holbein_the_Younger</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">32</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Uffizi</field>
+<field name="title">Self-portrait</field>
+<field name="type">Coloured chalks and pen on paper</field>
+<field name="width">26</field>
+<field name="year">c. 1542-1543</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self-portrait_(Hans_Holbein_the_Younger)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self-portrait_(Hans_Holbein_the_Younger)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Autoritratto_(Holbein_il_Giovane)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_(Hans_Holbein_the_Younger)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-portrait_(Hans_Holbein)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3630726</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_(Hans_Holbein_the_Younger)</field>
+</doc>
+</add>

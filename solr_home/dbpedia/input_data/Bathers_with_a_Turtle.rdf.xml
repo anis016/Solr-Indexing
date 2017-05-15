@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bathers_with_a_Turtle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4869004</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vnvjw</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bathers_with_a_Turtle</field>
+<field name="sameAs">http://dbpedia.org/resource/Bathers_with_a_Turtle</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1908_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Bathers with a Turtle is a painting by Henri Matisse from 1908, collection: The Saint Louis Art Museum, St. Louis. It was purchased by Joseph Pulitzer, Jr. in 1939 at an auction of Nazi plunder and later given by him to the museum. Prior to that it had been in the collection of the Folkwang Museum in Essen, Germany. Pulitzer purchased it at the urging of Matisse's son Pierre Matisse, in order to prevent the artwork from being destroyed, despite the profit from the auction going to the Nazis.</field>
+<field name="label">Bathers with a Turtle</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/41/Bathers_with_a_turtle.jpg</field>
+<field name="comment">Bathers with a Turtle is a painting by Henri Matisse from 1908, collection: The Saint Louis Art Museum, St. Louis. It was purchased by Joseph Pulitzer, Jr. in 1939 at an auction of Nazi plunder and later given by him to the museum. Prior to that it had been in the collection of the Folkwang Museum in Essen, Germany. Pulitzer purchased it at the urging of Matisse's son Pierre Matisse, in order to prevent the artwork from being destroyed, despite the profit from the auction going to the Nazis.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Bathers_with_a_turtle.jpg/200px-Bathers_with_a_turtle.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bathers_with_a_Turtle</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bathers_with_a_Turtle</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bathers_with_a_Turtle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bathers_with_a_Turtle</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bathers_with_a_turtle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4869004</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bathers_with_a_Turtle</field>
+</doc>
+</add>

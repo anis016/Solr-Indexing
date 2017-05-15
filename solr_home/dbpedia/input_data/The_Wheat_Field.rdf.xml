@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Wheat_Field</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Wheat_Field</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wheat_Field</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wheat_Field</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g7_nh</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Wheat_Field</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7774378</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Saint-R%C3%A9my</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="abstract">The Wheat Field is a series of oil paintings executed by Vincent van Gogh in Saint-Rémy-de-Provence. All of them depict the view Van Gogh had from the window of his bedroom on the top floor of the asylum: a field enclosed by stone walls just beneath his window and excluded from normal life by the rear wall of the asylum grounds; beyond this enclosure farm land, accompanied by olive groves and vineyards, ran up to the hills at the foot of the mountain range called Les Alpilles. From May 1889 to May 1890, Van Gogh recorded this view in changing settings: after a storm, with a reaper in the field, with fresh wheat raising in autumn and with flowers in the spring. This is one of Van Gogh's major series from Saint-Rémy, comprising wonderful works such as the Wheat Field at Sunrise in the Kröller-Müller Museum. Van Gogh included the Enclosed Field with Rising Sun (F737) made in December 1889 in his Display at Les XX 1890 in Brussels.</field>
+<field name="label">The Wheat Field</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1c/Vincent_Willem_van_Gogh_007.jpg</field>
+<field name="comment">The Wheat Field is a series of oil paintings executed by Vincent van Gogh in Saint-Rémy-de-Provence. All of them depict the view Van Gogh had from the window of his bedroom on the top floor of the asylum: a field enclosed by stone walls just beneath his window and excluded from normal life by the rear wall of the asylum grounds; beyond this enclosure farm land, accompanied by olive groves and vineyards, ran up to the hills at the foot of the mountain range called Les Alpilles.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Vincent_Willem_van_Gogh_007.jpg/200px-Vincent_Willem_van_Gogh_007.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city">http://dbpedia.org/resource/Otterlo</field>
+<field name="height">72</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kr%C3%B6ller-M%C3%BCller_Museum</field>
+<field name="title">The Wheat Field, Sunrise</field>
+<field name="width">92</field>
+<field name="width">160</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Wheat_Field</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Wheat_Field</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wheat_Field_(series_of_paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wheat_Fields</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7774378</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wheat_Field</field>
+</doc>
+</add>

@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/David_Garrick_as_Richard_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bs1j_3</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5234041</field>
+<field name="sameAs">http://yago-knowledge.org/resource/David_Garrick_as_Richard_III</field>
+<field name="sameAs">http://dbpedia.org/resource/David_Garrick_as_Richard_III</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Richard_III_of_England</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1745_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Walker_Art_Gallery_Liverpool</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="abstract">David Garrick as Richard III is a painting dating from 1745 by the English artist William Hogarth. The painting shows the actor and stage manager David Garrick in the role of Richard III in Shakespeare's play entitled Richard III. It depicts a dramatic moment in the play on the eve of the Battle of Bosworth Field. The king, who had been asleep in his tent on the battlefield, has just woken from a dream in which he has seen the ghosts of the victims he has previously murdered. Hogarth was a friend of Garrick, who had gained a degree of fame through his portrayal of Richard III in this play at the Drury Lane Theatre in London. The painting shows the actor exhibiting emotions of fear and concern, with one arm raised and a shocked expression on his face. Hogarth is best remembered for his satirical prints on social themes, but he was also a skilled painter and portraitist. This painting is more than a portrait as it shows the subject at a key time in history, and also in a theatrical pose. It falls between the commonly accepted genres of portrait and history painting. The pose used by Hogarth was similar to other that used for other portraits of actors, especially those by Zoffany. Having compared Hogarth's painting with those of Garrick by Reynolds, Gill Parry concludes that Hogarth had helped to establish a new sub-genre within portraiture, that of the theatrical portrait. The line of pose adopted by the actor is what Hogarth called "the serpentine line"; he described it as "being composed of two curves contrasted". When he wrote his treatise The Analysis of Beauty in 1753 he stated that this is a particularly beautiful shape which "gives play to the imagination and delights the eye". The painting is in oil on canvas and measures 190.5 centimetres by 250.8 centimetres . It is owned by the Walker Art Gallery in Liverpool, Merseyside, England, and was purchased by them in 1956 with help from the National Art Collections Fund.</field>
+<field name="label">David Garrick as Richard III</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d5/Hogarth,_William_-_David_Garrick_as_Richard_III_-_1745.jpg</field>
+<field name="comment">David Garrick as Richard III is a painting dating from 1745 by the English artist William Hogarth. The painting shows the actor and stage manager David Garrick in the role of Richard III in Shakespeare's play entitled Richard III. It depicts a dramatic moment in the play on the eve of the Battle of Bosworth Field. The king, who had been asleep in his tent on the battlefield, has just woken from a dream in which he has seen the ghosts of the victims he has previously murdered.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Hogarth,_William_-_David_Garrick_as_Richard_III_-_1745.jpg/200px-Hogarth,_William_-_David_Garrick_as_Richard_III_-_1745.jpg</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="city">http://dbpedia.org/resource/Liverpool</field>
+<field name="height">190.5</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Walker_Art_Gallery</field>
+<field name="title">David Garrick as Richard III</field>
+<field name="width">250.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/David_Garrick_as_Richard_III</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/David_Garrick_as_Richard_III</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/David_Garrick_as_Richard_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/David_Garrick_as_Richard_III</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5234041</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/David_Garrick_as_Richard_III</field>
+</doc>
+</add>

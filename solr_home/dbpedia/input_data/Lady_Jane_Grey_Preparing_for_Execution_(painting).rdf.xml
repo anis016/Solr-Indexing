@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lady_Jane_Grey_Preparing_for_Execution_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05xk2d</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Jane_Grey_Preparing_for_Execution_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lady_Jane_Grey_Preparing_for_Execution_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6470266</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lady_Jane_Grey</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1835_paintings</field>
+<field name="abstract">Lady Jane Grey Preparing for Execution is an 1835 oil painting by the American artist George Whiting Flagg which established his early fame. This fame was however to dwindle as a consequence of a decline in the role of historical painting in American art. It was originally meant to represent Mary, Queen of Scots, but Flagg decided to change it to Lady Jane Grey in mid-work. In a letter to Lumen Reed on June 16, 1834, he said: "I have changed the name of my picture to Lady Jane Gray [sic]. I find that Mary was too old at the time of her exicution [sic] to make an interesting picture. " A heroic Lady Jane, Protestant martyr, clad in royal purple, head held high, is blindfolded for execution by sympathetic executioners. Notably absent are any crucifixes, beads, medallions or other signs of "popery" distinguishing the religious life of Catholics from that of Protestants. The painting appears to show her being blindfolded indoors, in reality she was executed outdoors and would probably only have been blindfolded after she was led onto the scaffold.</field>
+<field name="label">Lady Jane Grey Preparing for Execution (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ab/Flagg_-_Lady_Jane_Grey.jpg</field>
+<field name="comment">Lady Jane Grey Preparing for Execution is an 1835 oil painting by the American artist George Whiting Flagg which established his early fame. This fame was however to dwindle as a consequence of a decline in the role of historical painting in American art. It was originally meant to represent Mary, Queen of Scots, but Flagg decided to change it to Lady Jane Grey in mid-work. In a letter to Lumen Reed on June 16, 1834, he said: "I have changed the name of my picture to Lady Jane Gray [sic].</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Flagg_-_Lady_Jane_Grey.jpg/200px-Flagg_-_Lady_Jane_Grey.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lady_Jane_Grey_Preparing_for_Execution_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lady_Jane_Grey_Preparing_for_Execution_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lady_Jane_Grey_Preparing_for_Execution_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lady_Jane_Grey_Preparing_for_Execution_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6470266</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Jane_Grey_Preparing_for_Execution_(painting)</field>
+</doc>
+</add>

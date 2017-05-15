@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/O_Fantasma_de_uma_Pulga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_a_Flea</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Ghost_of_a_Flea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/O_Fantasma_de_uma_Pulga</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7736333</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04yc8vx</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_a_Flea</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Ghost_of_a_Flea</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_by_William_Blake</field>
+<field name="abstract">The Ghost of a Flea is a miniature painting by the English poet, painter and printmaker William Blake, held in the Tate Gallery, London. Measuring only 8.42 inches x 6.3 inches (21.4 x 16.2 cm), it is executed in a tempera mixture with gold, on a mahogany-type tropical hardwood panel. Completed between 1819 and 1820, it is part of a series of works depicting "Visionary Heads" commissioned by the watercolourist and astrologist John Varley (1788–1842). Fantastic, spiritual art was popular in Britain from around 1770 to 1830, and during this time Blake often worked on unearthly, supernatural panels to amuse and amaze his friends. At 21.4 cm x 16.2 cm the work is a greatly reduced miniature portrait. Blake generally worked on a small scale; most of his illuminated pages, engravings and many of his paintings are only inches high. Although Ghost of a Flea is one of Blake's smallest works, it is monumental in its imagination. Its tiny scale achieves drama in contrasting the muscular bulk and apparent power of the creature against its incarnation in the panel as an insect.</field>
+<field name="label">The Ghost of a Flea</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/74/William_Blake_002.jpg</field>
+<field name="comment">The Ghost of a Flea is a miniature painting by the English poet, painter and printmaker William Blake, held in the Tate Gallery, London. Measuring only 8.42 inches x 6.3 inches (21.4 x 16.2 cm), it is executed in a tempera mixture with gold, on a mahogany-type tropical hardwood panel. Completed between 1819 and 1820, it is part of a series of works depicting "Visionary Heads" commissioned by the watercolourist and astrologist John Varley (1788–1842).</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/William_Blake_002.jpg/200px-William_Blake_002.jpg</field>
+<field name="link_external">http://www.tate.org.uk/research/researchservices/printrooms/contact.htm</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=1143</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=1129&amp;searchid=25356</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Ghost_of_a_Flea</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Ghost_of_a_Flea</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Ghost_of_a_Flea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Ghost_of_a_Flea</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ghost_of_a_Flea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7736333</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_a_Flea</field>
+</doc>
+</add>

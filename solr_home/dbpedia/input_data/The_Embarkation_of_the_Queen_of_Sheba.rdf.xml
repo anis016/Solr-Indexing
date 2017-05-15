@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Embarkation_of_the_Queen_of_Sheba</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7731855</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Puerto_con_el_embarque_de_la_Reina_de_Saba</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Embarkation_of_the_Queen_of_Sheba</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Embarkation_of_the_Queen_of_Sheba</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gxz_xq</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Solomon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Lorrain</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1648_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="abstract">Seaport with the Embarkation of the Queen of Sheba is an oil painting by Claude Lorrain (also known as Claude Gellée), in the National Gallery, London, signed and dated 1648. The large oil on canvas painting was commissioned by Frédéric Maurice de La Tour d'Auvergne, Duc de Bouillon, general of the Papal army, together with Claude's Landscape with the Marriage of Isaac and Rebecca. It depicts the departure of the Queen of Sheba to visit to King Solomon in Jerusalem, described in the tenth chapter of the First Book of Kings. A more usual subject would be their meeting; this is one of many scenes of journeying painted by Claude. The Queen is departing from a city with classical buildings, with the early morning sun lighting the sea, as vessels are loaded. The composition draws the eye to a group of people on the steps to the right, at the intersection of a line of perspective (the steps) and a strong vertical (the left column of the building's portico). The Queen wears a pink tunic, royal blue cloak, and golden crown, and is about to board a waiting launch to take her to her ship - perhaps the ship partially concealed by the pillars to the left, or the one further out to sea, over the picture's vanishing point. The painting was one of the first works to be acquired by the National Gallery in 1824, being one of five works by Claude bought from the collection of John Julius Angerstein. It has the catalogue number NG14. This and similar works by Claude work inspired Turner to paint Dido Building Carthage and The Decline of the Carthaginian Empire, which Turner left to the nation as part of the Turner Bequest, on condition that they were hung besides Claude's pair of works. 		 			Claude Lorrain 020. jpg 			 Claude's Landscape with the Marriage of Isaac and Rebecca 			 		 		 			Turner Dido Building Carthage. jpg 			 Turner's Dido Building Carthage 			 		 		 			Joseph Mallord William Turner - The Decline of the Carthaginian Empire - WGA23169. jpg 			 Turner's The Decline of the Carthaginian Empire</field>
+<field name="label">The Embarkation of the Queen of Sheba</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/81/Claude_Lorrain_008.jpg</field>
+<field name="comment">Seaport with the Embarkation of the Queen of Sheba is an oil painting by Claude Lorrain (also known as Claude Gellée), in the National Gallery, London, signed and dated 1648. The large oil on canvas painting was commissioned by Frédéric Maurice de La Tour d'Auvergne, Duc de Bouillon, general of the Papal army, together with Claude's Landscape with the Marriage of Isaac and Rebecca.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Claude_Lorrain_008.jpg/200px-Claude_Lorrain_008.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/claude-seaport-with-the-embarkation-of-the-queen-of-sheba/*/key-facts</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/claude-seaport-with-the-embarkation-of-the-queen-of-sheba</field>
+<field name="link_external">http://books.google.co.uk/books?id=GQBqzmTqJXwC&amp;pg=PA33</field>
+<field name="artist">http://dbpedia.org/resource/Claude_Lorrain</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Seaport with the Embarkation of the Queen of Sheba</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Embarkation_of_the_Queen_of_Sheba</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Embarkation_of_the_Queen_of_Sheba</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Puerto_con_el_embarque_de_la_Reina_de_Saba</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Embarkation_of_the_Queen_of_Sheba</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Seaport_with_the_Embarkation_of_the_Queen_of_Sheba</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Embarkation_of_the_Queen_of_Sheba</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Embarkation_of_the_Queen_of_Sheba</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7731855</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Embarkation_of_the_Queen_of_Sheba</field>
+</doc>
+</add>

@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Circumcision_(Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Circumcision_(Signorelli)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3677599</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Circoncisione_(Signorelli)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Circumcision_(Signorelli)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glrcsd</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Luca_Signorelli</field>
+<field name="abstract">The Circumcision is a painting of the Circumcision of Jesus by the Italian Renaissance painter Luca Signorelli, in the National Gallery in London, dated to c. 1490-1491. The Circumcision was also the occasion of the naming of Jesus, and by this period the emphasis of Catholic devotion was on the Holy Name of Jesus. The work was commissioned by the local Confraternity of the Holy Name of Jesus for the altar of the Circumcision Chapel in the church of St. Francis at Volterra, where Signorelli was working for the Medicis. Like many Renaissance versions of the subject it conflates it with the Presentation of Jesus by including at the rear Simeon. The Renaissance art historian and artist Giorgio Vasari saw the painting and described it as damaged by humidity, the Child having been repainted by Il Sodoma. The painting was acquired by the National Gallery in 1882.</field>
+<field name="label">The Circumcision (Signorelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/db/The_Circumcision,_by_Luca_Signorelli.jpg</field>
+<field name="comment">The Circumcision is a painting of the Circumcision of Jesus by the Italian Renaissance painter Luca Signorelli, in the National Gallery in London, dated to c. 1490-1491. The Circumcision was also the occasion of the naming of Jesus, and by this period the emphasis of Catholic devotion was on the Holy Name of Jesus. The work was commissioned by the local Confraternity of the Holy Name of Jesus for the altar of the Circumcision Chapel in the church of St.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/The_Circumcision,_by_Luca_Signorelli.jpg/200px-The_Circumcision,_by_Luca_Signorelli.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/luca-signorelli-the-circumcision</field>
+<field name="artist">http://dbpedia.org/resource/Luca_Signorelli</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="museum">http://dbpedia.org/resource/London</field>
+<field name="title">The Circumcision</field>
+<field name="type">Oil on panel transferred to canvas and then to panel</field>
+<field name="year">c. 1490-1491</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Circumcision_(Signorelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Circumcision_(Signorelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Circoncisione_(Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Circumcision_(Signorelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Circumcision_(Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Circumcision_(Signorelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Circumcision_(Luca_Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Circumcision_(Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Circumcision_of_Christ_(Luca_Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Circumcision_of_Christ_(Signorelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3677599</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Circumcision_(Signorelli)</field>
+</doc>
+</add>

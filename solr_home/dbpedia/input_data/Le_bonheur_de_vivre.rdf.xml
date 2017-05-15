@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_bonheur_de_vivre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Le_bonheur_de_vivre</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_alegría_de_vivir_(Matisse)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Joie_de_vivre_(Matisse)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_alegria_de_viver</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025dv7v</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Radost_života_(Matisse)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Gioia_di_vivere_(Matisse)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2538580</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_bonheur_de_vivre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1906_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Le bonheur de vivre (The joy of Life), is a painting by Henri Matisse. In the central background of the piece is a group of figures that is similar to the group depicted in his painting The Dance (second version). In the picture, there are different nude bodies of both women and men. According to Hilton Kramer "Le bonheur de vivre owing to its long sequestration in the collection of the Barnes Foundation, which never permitted its reproduction in color, is the least familiar of modern masterpieces. Yet this painting was Matisse's own response to the hostility his work had met with in the Salon d'Automne of 1905, a response that entrenched his art even more deeply in the esthetic principles that had governed his Fauvist paintings which had caused a furor and which did so on a far grander scale, too."</field>
+<field name="label">Le bonheur de vivre</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b9/Bonheur_Matisse.jpg</field>
+<field name="comment">Le bonheur de vivre (The joy of Life), is a painting by Henri Matisse. In the central background of the piece is a group of figures that is similar to the group depicted in his painting The Dance (second version). In the picture, there are different nude bodies of both women and men.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Bonheur_Matisse.jpg/200px-Bonheur_Matisse.jpg</field>
+<field name="link_external">http://www.mcs.csuhayward.edu/~malek/Matisse/Matisse10.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Le_bonheur_de_vivre</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Le_bonheur_de_vivre</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_alegría_de_vivir_(Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_bonheur_de_vivre</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Joie_de_vivre_(Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_bonheur_de_vivre</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Gioia_di_vivere_(Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_bonheur_de_vivre</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_alegria_de_viver</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_bonheur_de_vivre</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Le_bonheur_de_vivre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Le_bonheur_de_vivre</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Bonheur_De_Vivre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Bonheur_de_Vivre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2538580</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_bonheur_de_vivre</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Radost_života_(Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_bonheur_de_vivre</field>
+</doc>
+</add>

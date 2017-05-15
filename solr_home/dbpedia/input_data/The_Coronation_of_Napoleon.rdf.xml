@@ -1,0 +1,160 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Sacre_de_Napoléon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/L'incoronazione_di_Napoleone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Sacre_de_Napol%C3%A9on</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/L'incoronazione_di_Napoleone</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_coronació_de_Napoleó</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Lễ_đăng_quang_của_Napoléon</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/ნაპოლეონის_იმპერატორად_კურთხევა</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Каранацыя_Напалеона</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Le_Sacre_de_Napoléon</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Coronation_of_Napoleon</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Napoleo_coronatus</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047pmjr</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Коронация_Наполеона</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1231009</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Keiserkroningen</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Koronacja_Napoleona</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Sacre_de_Napoléon</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/تتويج_نابليون</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_coronación_de_Napoleón</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Încoronarea_lui_Napoleon</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/تاج‌گذاری_ناپلئون</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/La_kronigo_de_Napoleono</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1800s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jacques-Louis_David</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Neoclassical_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_Napoleon</field>
+<field name="abstract">The Coronation of Napoleon (French: Le Sacre de Napoléon) is a painting completed in 1807 by Jacques-Louis David, the official painter of Napoleon. The painting has imposing dimensions, as it is almost ten metres wide by approximately six metres tall. The crowning and the coronation took place at Notre-Dame de Paris, a way for Napoleon to make it clear that he was a son of the Revolution.</field>
+<field name="label">The Coronation of Napoleon</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/08/Jacques-Louis_David,_The_Coronation_of_Napoleon_edit.jpg</field>
+<field name="comment">The Coronation of Napoleon (French: Le Sacre de Napoléon) is a painting completed in 1807 by Jacques-Louis David, the official painter of Napoleon. The painting has imposing dimensions, as it is almost ten metres wide by approximately six metres tall. The crowning and the coronation took place at Notre-Dame de Paris, a way for Napoleon to make it clear that he was a son of the Revolution.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Jacques-Louis_David,_The_Coronation_of_Napoleon_edit.jpg/200px-Jacques-Louis_David,_The_Coronation_of_Napoleon_edit.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Jacques-Louis_David</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="city">http://dbpedia.org/resource/France</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Coronation of Napoleon</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Coronation_of_Napoleon</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_coronación_de_Napoleón</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Koronacja_Napoleona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Коронация_Наполеона</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Coronation_of_Napoleon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1231009</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/تتويج_نابليون</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Каранацыя_Напалеона</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_coronació_de_Napoleó</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/La_kronigo_de_Napoleono</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/تاج‌گذاری_ناپلئون</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/ნაპოლეონის_იმპერატორად_კურთხევა</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Napoleo_coronatus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Keiserkroningen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Încoronarea_lui_Napoleon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Le_Sacre_de_Napoléon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Lễ_đăng_quang_của_Napoléon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Coronation_of_Napoleon</field>
+</doc>
+</add>

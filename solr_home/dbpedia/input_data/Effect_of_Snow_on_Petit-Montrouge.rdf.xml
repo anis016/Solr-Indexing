@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Effect_of_Snow_on_Petit-Montrouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Effect_of_Snow_on_Petit-Montrouge</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Effet_de_neige_à_Petit-Montrouge</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q978841</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Effet_de_neige_à_Petit-Montrouge</field>
+<field name="sameAs">http://dbpedia.org/resource/Effect_of_Snow_on_Petit-Montrouge</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0by1r8q</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_National_Museum_Cardiff</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_%C3%89douard_Manet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1870_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="abstract">Effect of Snow on Petit-Montrouge is an 1870 landscape painting by the French painter Édouard Manet. The oil on canvas painting shows a winter view of Petit-Montrouge, an area in the 14th arrondissement of Paris. Manet painted this picture while a member of the National Guard during the 1870–71 Siege of Paris of the Franco-Prussian War. As opposed to the history painters of his time, Manet does not show a heroic view of battle, but rather the dusky ambiance of a looming battle. The image reflects Manet's loss of hope about the military situation, his profound loneliness, and the deprivation he suffered during this time. It is one of the few landscapes in Manet's oeuvre, and is one of Manet's first plein air paintings. Today it is in the collection of the National Museum Cardiff.</field>
+<field name="label">Effect of Snow on Petit-Montrouge</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a2/Édoaurd_Manet_-_Effet_de_neige_à_Petit–Montrouge.jpg</field>
+<field name="comment">Effect of Snow on Petit-Montrouge is an 1870 landscape painting by the French painter Édouard Manet. The oil on canvas painting shows a winter view of Petit-Montrouge, an area in the 14th arrondissement of Paris. Manet painted this picture while a member of the National Guard during the 1870–71 Siege of Paris of the Franco-Prussian War. As opposed to the history painters of his time, Manet does not show a heroic view of battle, but rather the dusky ambiance of a looming battle.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Édoaurd_Manet_-_Effet_de_neige_à_Petit–Montrouge.jpg/200px-Édoaurd_Manet_-_Effet_de_neige_à_Petit–Montrouge.jpg</field>
+<field name="artist">http://dbpedia.org/resource/%C3%89douard_Manet</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum">http://dbpedia.org/resource/National_Museum_Cardiff</field>
+<field name="title">Effect of Snow on Petit-Montrouge</field>
+<field name="type">Oil on Canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Effect_of_Snow_on_Petit-Montrouge</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Effect_of_Snow_on_Petit-Montrouge</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Effet_de_neige_à_Petit-Montrouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Effect_of_Snow_on_Petit-Montrouge</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Effet_de_neige_à_Petit-Montrouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Effect_of_Snow_on_Petit-Montrouge</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Effect_of_Snow_on_Petit-Montrouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Effect_of_Snow_on_Petit-Montrouge</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q978841</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Effect_of_Snow_on_Petit-Montrouge</field>
+</doc>
+</add>

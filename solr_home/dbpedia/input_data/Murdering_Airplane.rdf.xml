@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Murdering_Airplane</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dc0xm</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6938166</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Murdering_Airplane</field>
+<field name="sameAs">http://dbpedia.org/resource/Murdering_Airplane</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Aviation_media</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Max_Ernst</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1920_paintings</field>
+<field name="abstract">Murdering Airplane (1920) is a collage by the German dadaist/surrealist Max Ernst. It depicts a monstrous aircraft with human arms flying over an open field. In the lower right-hand corner two soldiers are carrying a third wounded soldier. The Dada movement was created partly as a critical response to World War I. This had a special significance to Ernst who served in the war. This work was a statement on the advent of aerial warfare that occurred in that war.</field>
+<field name="label">Murdering Airplane</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bc/Murdering_Airplane.jpg</field>
+<field name="comment">Murdering Airplane (1920) is a collage by the German dadaist/surrealist Max Ernst. It depicts a monstrous aircraft with human arms flying over an open field. In the lower right-hand corner two soldiers are carrying a third wounded soldier. The Dada movement was created partly as a critical response to World War I. This had a special significance to Ernst who served in the war. This work was a statement on the advent of aerial warfare that occurred in that war.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Murdering_Airplane.jpg/200px-Murdering_Airplane.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Max_Ernst</field>
+<field name="height">6.35</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">Murdering Airplane</field>
+<field name="width">13.97</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Murdering_Airplane</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Murdering_Airplane</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Murdering_Airplane</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Murdering_Airplane</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6938166</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Murdering_Airplane</field>
+</doc>
+</add>

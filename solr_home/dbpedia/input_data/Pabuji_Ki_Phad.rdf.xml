@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pabuji_Ki_Phad</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bs7kv</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7121834</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Pabuji_Ki_Phad</field>
+<field name="sameAs">http://dbpedia.org/resource/Pabuji_Ki_Phad</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Folk_deities_of_Rajasthan</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Rajasthani_arts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Indian_phad_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Indian_paintings</field>
+<field name="abstract">Pabuji Ki Phad is a religious scroll painting of folk deities, which is used for a musical rendition of the only surviving ancient traditional folk art form in the world of the epic of Pabuji, the Rathod Rajput chief. Bhopas of Pabusar are the bards and also priests who are the traditional narrators of this art form. The Phad is also spelt as “Par. ” This art form is popular in the Indian state of Rajasthan. Literally, 'Pabuji Ki Phad' translates into two versions namely, “The Screen of Pabuji or O, Read of Pabuji!. Pabuji is also known as "the Ascetic Deity of Sand Desert". The three basic features associated with this art form are: the epic story of Pabuji, the Rathod chief of Rajasthan in the 14th century, who is extolled as an incarnation of Hindu God, and worshipped by the Rabari tribals of Rajasthan; the Phad or Par, which is a long scroll painting (or sewn) made on cloth, with the martial heroics of Pabuji richly displayed for worship; and the bard priests, known as the Bhopas (who belong to the cult of Pabhuji) of the nomadic tribe of Nayakas and specialists in narrating the story of the Pabuji in their sartorial best through the medium of the Phads used as a portable temple, all over the desert lands of the Thar in Rajasthan.</field>
+<field name="label">Pabuji Ki Phad</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/45/WLANL_-_MicheleLovesArt_-_Tropenmuseum_-_Pabuji-Verteldoek_(4669-1).jpg</field>
+<field name="comment">Pabuji Ki Phad is a religious scroll painting of folk deities, which is used for a musical rendition of the only surviving ancient traditional folk art form in the world of the epic of Pabuji, the Rathod Rajput chief. Bhopas of Pabusar are the bards and also priests who are the traditional narrators of this art form. The Phad is also spelt as “Par. ” This art form is popular in the Indian state of Rajasthan.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/WLANL_-_MicheleLovesArt_-_Tropenmuseum_-_Pabuji-Verteldoek_(4669-1).jpg/200px-WLANL_-_MicheleLovesArt_-_Tropenmuseum_-_Pabuji-Verteldoek_(4669-1).jpg</field>
+<field name="link_external">http://www.phadpaintings.com/</field>
+<field name="link_external">http://www.phadchitrakari.com/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Pabuji_Ki_Phad</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pabuji_Ki_Phad</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Pabuji_Ki_Phad</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Pabuji_Ki_Phad</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7121834</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pabuji_Ki_Phad</field>
+</doc>
+</add>

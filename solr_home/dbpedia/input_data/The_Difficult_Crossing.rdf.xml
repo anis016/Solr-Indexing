@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Difficult_Crossing</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04dz3hq</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Difficult_Crossing</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7730158</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Difficult_Crossing</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1963_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1926_paintings</field>
+<field name="abstract">The Difficult Crossing (La traversée difficile) is the name given to two oil-on-canvas paintings by the Belgian surrealist René Magritte. The original version was completed in 1926 during Magritte's early prolific years of surrealism and is currently held in a private collection. A later version was completed in 1963 and is also held in a private collection.</field>
+<field name="label">The Difficult Crossing</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/62/The_Difficult_Crossing.jpg</field>
+<field name="comment">The Difficult Crossing (La traversée difficile) is the name given to two oil-on-canvas paintings by the Belgian surrealist René Magritte. The original version was completed in 1926 during Magritte's early prolific years of surrealism and is currently held in a private collection. A later version was completed in 1963 and is also held in a private collection.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/The_Difficult_Crossing.jpg/200px-The_Difficult_Crossing.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="height">80</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">La traversée difficile</field>
+<field name="width">65.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Difficult_Crossing</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Difficult_Crossing</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Difficult_Crossing</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Difficult_Crossing</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7730158</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Difficult_Crossing</field>
+</doc>
+</add>

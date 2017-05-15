@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Scènes_de_la_Passion_du_Christ_(Memling)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scenes_from_the_Passion_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Scenes_from_the_Passion_of_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Scenes_from_the_Passion_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Scenes_of_the_Passion_of_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Scenes_from_the_Passion_of_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2446983</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Scenes_from_the_Passion_of_Christ</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Passione_di_Torino</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Męka_Chrystusa_(obraz_Hansa_Memlinga)</field>
+<field name="sameAs">http://dbpedia.org/resource/Scenes_from_the_Passion_of_Christ</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch1_rd</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Escenes_de_la_Passió_de_Crist_(Memling)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Scènes_de_la_Passion_du_Christ_(Memling)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hans_Memling</field>
+<field name="abstract">Scenes from the Passion of Christ is an oil painting on a panel of Baltic oak, painted c.1470 by German-born Early Netherlandish painter Hans Memling. The painting shows 23 vignettes of the Life of Christ combined in one narrative composition without a central dominating scene: 19 episodes from the Passion of Christ, the Resurrection, and 3 later appearances of the risen Christ. The painting was commissioned by Tommaso Portinari, an Italian banker based in Bruges, who is depicted in a donor portrait kneeling and praying in the lower left corner, with his wife, Maria Baroncelli, in a similar attitude in the lower right corner. The painting is relatively small, 56.7 × 92.2 cm, and is unlikely to have been an altarpiece. It may have been intended for Portinari's chapel in the church of St Jacob in Bruges. It was not catalogued in Portinari's belongings when he died in 1501, and is thought to have been moved from Bruges to Florence between 1510 and 1520. It is first recorded in the collection of Cosimo I in Florence in 1550. The painting is now held by the Galleria Sabauda in Turin.</field>
+<field name="label">Scenes from the Passion of Christ</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/af/Hans_Memling_Passione.jpg</field>
+<field name="comment">Scenes from the Passion of Christ is an oil painting on a panel of Baltic oak, painted c.1470 by German-born Early Netherlandish painter Hans Memling. The painting shows 23 vignettes of the Life of Christ combined in one narrative composition without a central dominating scene: 19 episodes from the Passion of Christ, the Resurrection, and 3 later appearances of the risen Christ.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Hans_Memling_Passione.jpg/200px-Hans_Memling_Passione.jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/m/memling/1early2/04passi.html</field>
+<field name="link_external">http://books.google.co.uk/books?id=-yO8wLdlPNYC&amp;pg=PA118</field>
+<field name="link_external">http://books.google.co.uk/books?id=0x24eo3fcLgC&amp;pg=PA5</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/m/memling/1early2/04passi1.html</field>
+<field name="link_external">http://books.google.co.uk/books?id=2xM6jC9aFk4C&amp;pg=PA278</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Scenes_from_the_Passion_of_Christ</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Scenes_from_the_Passion_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Passione_di_Torino</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scenes_from_the_Passion_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Męka_Chrystusa_(obraz_Hansa_Memlinga)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scenes_from_the_Passion_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2446983</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scenes_from_the_Passion_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Escenes_de_la_Passió_de_Crist_(Memling)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scenes_from_the_Passion_of_Christ</field>
+</doc>
+</add>

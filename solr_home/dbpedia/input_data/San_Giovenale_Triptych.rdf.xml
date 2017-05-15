@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Giovenale_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_di_San_Giovenale</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08n3dg</field>
+<field name="sameAs">http://yago-knowledge.org/resource/San_Giovenale_Triptych</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Tríptico_de_San_Juvenal</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giovenale_Triptych</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3999132</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Masaccio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1422_paintings</field>
+<field name="abstract">The San Giovenale Triptych or Cascia Altarpiece is a 1422 painting by Italian Renaissance artist Masaccio, housed in a museum behind the church of Cascia di Reggello, in the Roman Pieve of San Pietro di Cascia near Florence, Italy. This work, discovered in 1961 in a state of poor preservation, in the loft of a house adjacent to the small chapel of San Giovenale two kilometres from Cascia by Juliana Arnetoli. It had allegedly been hidden there before the second world war to prevent the occupying German army from removing it from the chapel. It is probably the first original work by Masaccio. It was commissioned by the Florentine family of Castellani for the Basilica of San Lorenzo, and was later moved to San Giovenale. It is dated at the bottom in modern humanist letters, the first work in Europe not inscribed in Gothic characters, which read, "ANNO DOMINI MCCCCXXII A DI VENTITRE D'AP[RILE RILE]" (April 23, 1422). The central panel shows the Madonna enthroned with two angels and the child Jesus eating some vine, as a symbol of the Eucharist. The left panel depicts Saint Bartholomew and Saint Blaise, and the right panel depicts Saint Anthony and Saint Juvenal (Giovenale). The left and right panels show a marked influence of 14th century models, while the complex perspective of the centre panel would have been something new for its time. Also, the use of three dimensional solidity makes the painting revolutionary for its time.</field>
+<field name="label">San Giovenale Triptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/dd/San_Giovenale_Masaccio.jpg</field>
+<field name="comment">The San Giovenale Triptych or Cascia Altarpiece is a 1422 painting by Italian Renaissance artist Masaccio, housed in a museum behind the church of Cascia di Reggello, in the Roman Pieve of San Pietro di Cascia near Florence, Italy. This work, discovered in 1961 in a state of poor preservation, in the loft of a house adjacent to the small chapel of San Giovenale two kilometres from Cascia by Juliana Arnetoli.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/San_Giovenale_Masaccio.jpg/200px-San_Giovenale_Masaccio.jpg</field>
+<field name="link_external">http://www.masaccio2001.it/cgi-bin/english/trittico.shtml</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">San Giovenale Triptych</field>
+<field name="type">Panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/San_Giovenale_Triptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/San_Giovenale_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Tríptico_de_San_Juvenal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giovenale_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_di_San_Giovenale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giovenale_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/San_Giovenale_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/San_Giovenale_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3999132</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giovenale_Triptych</field>
+</doc>
+</add>

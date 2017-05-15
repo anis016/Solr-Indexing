@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Geraniums</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7617090</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Still_Life_with_Geraniums</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03h0djr</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Geraniums</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1905_paintings</field>
+<field name="abstract">Still Life with Geraniums is a 1910 oil on canvas painting by Henri Matisse. It is in the collection of Pinakothek der Moderne, Munich, Germany, to whom it was given in 1912, thus becoming, according to the museum, the first Matisse to enter a public collection. It was one of six paintings in the museum's collection to survive World War II. The painting should not be confused with Matisse's 1906 painting Still Life with a Geranium, which is held by the Art Institute of Chicago, or his 1912 painting Pot of Geraniums in the National Gallery of Art. (Juan Gris also painted Pot of Geraniums in 1915, sold at auction in 2007.)</field>
+<field name="label">Still Life with Geraniums</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4f/Matisse518.jpg</field>
+<field name="comment">Still Life with Geraniums is a 1910 oil on canvas painting by Henri Matisse. It is in the collection of Pinakothek der Moderne, Munich, Germany, to whom it was given in 1912, thus becoming, according to the museum, the first Matisse to enter a public collection. It was one of six paintings in the museum's collection to survive World War II.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Matisse518.jpg/200px-Matisse518.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Munich</field>
+<field name="height">180</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Pinakothek_der_Moderne</field>
+<field name="title">Still Life with Geraniums</field>
+<field name="width">220</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Still_Life_with_Geraniums</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Still_Life_with_Geraniums</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Still_Life_with_Geraniums</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Still_Life_with_Geraniums</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7617090</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Geraniums</field>
+</doc>
+</add>

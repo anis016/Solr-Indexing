@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fairman_Rogers_Four-in-Hand</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Fairman_Rogers_Four-in-Hand</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7733111</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmd0w8</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fairman_Rogers_Four-in-Hand</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Philadelphia_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horses_in_art</field>
+<field name="abstract">The Fairman Rogers Four-in-Hand (originally titled A May Morning in the Park) is an 1879-80 painting by Thomas Eakins. It shows Fairman Rogers driving a coaching party in his four-in-hand carriage through Philadelphia's Fairmount Park. It is thought to be the first painting to examine precisely, through systematic photographic analysis, how horses move. The Fairman Rogers Four-in-Hand is in the permanent collection of the Philadelphia Museum of Art.</field>
+<field name="label">The Fairman Rogers Four-in-Hand</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1f/A_may_morning_in_the_park_thomas_eakins.jpeg</field>
+<field name="comment">The Fairman Rogers Four-in-Hand (originally titled A May Morning in the Park) is an 1879-80 painting by Thomas Eakins. It shows Fairman Rogers driving a coaching party in his four-in-hand carriage through Philadelphia's Fairmount Park. It is thought to be the first painting to examine precisely, through systematic photographic analysis, how horses move. The Fairman Rogers Four-in-Hand is in the permanent collection of the Philadelphia Museum of Art.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/A_may_morning_in_the_park_thomas_eakins.jpeg/200px-A_may_morning_in_the_park_thomas_eakins.jpeg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Fairman_Rogers_Four-in-Hand</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Fairman_Rogers_Four-in-Hand</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fairman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_May_Morning_in_the_Park</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Fairman_Rogers_Four-in-Hand</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Fairman_Rogers_Four-in-Hand</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7733111</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fairman_Rogers_Four-in-Hand</field>
+</doc>
+</add>

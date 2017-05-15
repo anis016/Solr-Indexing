@@ -1,0 +1,100 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Dam_som_står_vid_en_cembalo</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Kobieta_stojąca_przy_klawesynie</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«Stående_kvinne_ved_virginal»</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Donna_in_piedi_alla_spinetta</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Kvinde_ved_virginal</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Staande_virginaalspeelster</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2624258</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Дама,_стоящая_у_вирджиналя</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ヴァージナルの前に立つ女</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lady_Standing_at_a_Virginal</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0803jb5</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1670s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="abstract">Lady Standing at a Virginal is a genre painting created by Dutch artist Johannes Vermeer in about 1670-1672 and now in the National Gallery, London. The oil painting depicts a richly dressed woman playing a virginal in a home with a tiled floor, paintings on the wall and some of the locally manufactured Delftware blue and white tiles of a type that appear in other Vermeer works. The identities of the paintings on the wall are not certain, according to the National Gallery, but the landscape on the left may be by either Jan Wijnants or Allart van Everdingen. The second painting, showing Cupid holding a card, is attributed to Caesar van Everdingen, Allart's brother. This motif originated in a contemporary emblem and may either represent the idea of faithfulness to a single lover or perhaps, reflecting the presence of the virginal, the traditional association of music and love. The painting has been dated on stylistic grounds and on the evidence of the costume. This work can be related to another Vermeer in the collection, Lady Seated at a Virginal, on a canvas of almost exactly the same size, with which it may form a pair.</field>
+<field name="label">Lady Standing at a Virginal</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8f/Jan_Vermeer_van_Delft_024.jpg</field>
+<field name="comment">Lady Standing at a Virginal is a genre painting created by Dutch artist Johannes Vermeer in about 1670-1672 and now in the National Gallery, London. The oil painting depicts a richly dressed woman playing a virginal in a home with a tiled floor, paintings on the wall and some of the locally manufactured Delftware blue and white tiles of a type that appear in other Vermeer works.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Jan_Vermeer_van_Delft_024.jpg/200px-Jan_Vermeer_van_Delft_024.jpg</field>
+<field name="link_external">http://www.essentialvermeer.com/catalogue/lady_standing_virginal.html</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/65202/rec/17</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">51.7</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Lady Standing at a Virginal</field>
+<field name="width">45.2</field>
+<field name="year">c. 1670–72</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lady_Standing_at_a_Virginal</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lady_Standing_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Kobieta_stojąca_przy_klawesynie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Donna_in_piedi_alla_spinetta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lady_Standing_at_a_Virginal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ヴァージナルの前に立つ女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Дама,_стоящая_у_вирджиналя</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Staande_virginaalspeelster</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2624258</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Kvinde_ved_virginal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«Stående_kvinne_ved_virginal»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Dam_som_står_vid_en_cembalo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Standing_at_a_Virginal</field>
+</doc>
+</add>

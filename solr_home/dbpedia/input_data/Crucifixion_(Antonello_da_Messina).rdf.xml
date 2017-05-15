@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Kreuzigung_(Antonello_da_Messina)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Crucifixion_(Antonello_da_Messina)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3698179</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gv6lg</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Crucifixión_(Antonello_da_Messina)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Crocifissione_(Antonello_da_Messina)</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Antonello_da_Messina)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1475_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Museum_of_Fine_Arts,_Antwerp</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Antonello_da_Messina</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crucifixion_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="abstract">The Crucifixion is the subject of three different paintings by the Italian Renaissance master Antonello da Messina; the first two were completed around 1454/1455, the third in 1475. They are housed in the Brukenthal National Museum; the Royal Museum of Fine Arts of Antwerp and in the National Gallery, respectively. The Sibiu Crucifixion 300px Artist Antonello da Messina Year 1454-1455 Type Oil on wood Dimensions 39 cm × 23.5 cm Location Brukenthal National MuseumSibiu, Romania</field>
+<field name="label">Crucifixion (Antonello da Messina)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/52/Antonello_da_Messina_026.jpg</field>
+<field name="comment">The Crucifixion is the subject of three different paintings by the Italian Renaissance master Antonello da Messina; the first two were completed around 1454/1455, the third in 1475. They are housed in the Brukenthal National Museum; the Royal Museum of Fine Arts of Antwerp and in the National Gallery, respectively. The Sibiu Crucifixion 300px Artist Antonello da Messina Year 1454-1455 Type Oil on wood Dimensions 39 cm × 23.5 cm Location Brukenthal National MuseumSibiu, Romania</field>
+<field name="name"/>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Antonello_da_Messina_026.jpg/200px-Antonello_da_Messina_026.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="image"/>
+<field name="image"/>
+<field name="museum"/>
+<field name="museum"/>
+<field name="museum"/>
+<field name="title">The Sibiu Crucifixion</field>
+<field name="title">The London Crucifixion</field>
+<field name="title">The Antwerp Crucifixion</field>
+<field name="type">Oil on wood</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Crucifixion_(Antonello_da_Messina)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Crucifixion_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Crocifissione_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Crucifixión_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Crucifixion_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Crucifixion_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sibiu_Crucifixion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Kreuzigung_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3698179</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Antonello_da_Messina)</field>
+</doc>
+</add>

@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_with_the_Ashes_of_Phocion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Ashes_of_Phocion</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Les_cendres_de_Foción_recollides_per_la_seva_vídua</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6485133</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Landscape_with_the_Ashes_of_Phocion</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04n38_s</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Nicolas_Poussin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1648_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Walker_Art_Gallery_Liverpool</field>
+<field name="abstract">Landscape with the Ashes of Phocion is a 1648 painting, also known as Landscape with the Ashes of Phocion (Collected by His Widow) and The Ashes of Phocion Collected by his Widow, by French artist Nicolas Poussin. Phocion was an Athenian statesman from the 4th century BC. " It is a picture about exile. Phocion, an Athenian general, was falsely condemned and executed, and his unburied corpse banished, and taken to the outskirts of Megara where it was burnt. At the very front his faithful widow gathers up his ashes. Her servant keeps look out. And the outcasts are placed directly below the mighty nucleus of temple-rock-cloud. But nothing in the scene indicates that the civilisation from which they're excluded is itself evil, corrupt or doomed, that they're well out of it. No, their exile from the good life is sheer tragedy. The majestic symphony of the city continues undiminished. " The painting is housed at the Walker Art Gallery, part of the National Museums Liverpool, England. The same year Poussin painted a companion piece to Landscape with the Ashes of Phocion, The Funeral of Phocion, in three versions.</field>
+<field name="label">Landscape with the Ashes of Phocion</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/81/The_ashes_of_phocion_collected_by_his_widow_1648.jpg</field>
+<field name="comment">Landscape with the Ashes of Phocion is a 1648 painting, also known as Landscape with the Ashes of Phocion (Collected by His Widow) and The Ashes of Phocion Collected by his Widow, by French artist Nicolas Poussin. Phocion was an Athenian statesman from the 4th century BC. " It is a picture about exile. Phocion, an Athenian general, was falsely condemned and executed, and his unburied corpse banished, and taken to the outskirts of Megara where it was burnt.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/The_ashes_of_phocion_collected_by_his_widow_1648.jpg/200px-The_ashes_of_phocion_collected_by_his_widow_1648.jpg</field>
+<field name="link_external">http://www.artcyclopedia.com/feature-2000-08.html</field>
+<field name="link_external">http://www.liverpoolmuseums.org.uk/walker/collections/17c/poussin.aspx</field>
+<field name="link_external">http://www.students.sbc.edu/albanis03/phocion.htm</field>
+<field name="artist">http://dbpedia.org/resource/Nicolas_Poussin</field>
+<field name="city">http://dbpedia.org/resource/Liverpool</field>
+<field name="height">116.5</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Walker_Art_Gallery</field>
+<field name="title">Landscape with the Ashes of Phocion</field>
+<field name="width">178.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Landscape_with_the_Ashes_of_Phocion</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Landscape_with_the_Ashes_of_Phocion</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_with_the_Ashes_of_Phocion_(Collected_by_His_Widow)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Ashes_of_Phocion_Collected_by_his_Widow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Landscape_with_the_Ashes_of_Phocion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Landscape_with_the_Ashes_of_Phocion</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6485133</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Ashes_of_Phocion</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Les_cendres_de_Foción_recollides_per_la_seva_vídua</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Ashes_of_Phocion</field>
+</doc>
+</add>

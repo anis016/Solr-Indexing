@@ -1,0 +1,129 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Son_of_Man_(Magritte)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Fils_de_l'homme_(Magritte)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Son_of_man_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Son_of_Man</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/پسر_انسان</field>
+<field name="sameAs">http://he.dbpedia.org/resource/בנו_של_האדם</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Син_Людський_(картина)</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/The_Son_of_Man</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05q488</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Son_of_Man</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Fils_de_l'homme_(Magritte)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Сын_человеческий_(картина)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1151384</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/ابن_الإنسان_(ماغريت)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Syn_człowieczy_(obraz)</field>
+<field name="sameAs">http://sl.dbpedia.org/resource/Sin_človekov</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1964_paintings</field>
+<field name="abstract">The Son of Man (French: Le fils de l'homme) is a 1964 painting by the Belgian surrealist painter René Magritte. Magritte painted it as a self-portrait. The painting consists of a man in an overcoat and a bowler hat standing in front of a short wall, beyond which is the sea and a cloudy sky. The man's face is largely obscured by a hovering green apple. However, the man's eyes can be seen peeking over the edge of the apple. Another subtle feature is that the man's left arm appears to bend backwards at the elbow. About the painting, Magritte said: At least it hides the face partly. Well, so you have the apparent face, the apple, hiding the visible but hidden, the face of the person. It's something that happens constantly. Everything we see hides another thing, we always want to see what is hidden by what we see. There is an interest in that which is hidden and which the visible does not show us. This interest can take the form of a quite intense feeling, a sort of conflict, one might say, between the visible that is hidden and the visible that is present. The Son of Man resembles The Great War on Façades (La Grande Guerre Façades), another Magritte painting featuring similar imagery. Both feature a person standing in front of a wall overlooking the sea. The Great War on Façades, however, features a woman holding an umbrella, her face covered by a flower. There is also Man in the Bowler Hat, a similar painting where the man's face is obscured by a bird rather than an apple.</field>
+<field name="label">The Son of Man</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e5/Magritte_TheSonOfMan.jpg</field>
+<field name="comment">The Son of Man (French: Le fils de l'homme) is a 1964 painting by the Belgian surrealist painter René Magritte. Magritte painted it as a self-portrait. The painting consists of a man in an overcoat and a bowler hat standing in front of a short wall, beyond which is the sea and a cloudy sky. The man's face is largely obscured by a hovering green apple. However, the man's eyes can be seen peeking over the edge of the apple.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Magritte_TheSonOfMan.jpg/200px-Magritte_TheSonOfMan.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="height">116</field>
+<field name="image"/>
+<field name="imageSize">225</field>
+<field name="museum"/>
+<field name="title">The Son of Man</field>
+<field name="width">89</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Son_of_Man</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Сын_человеческий_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_fils_de_l'homme</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Son_of_Man</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Man_in_Bowler_Hat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Syn_człowieczy_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Krum_Corporate</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1151384</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/ابن_الإنسان_(ماغريت)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/پسر_انسان</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/בנו_של_האדם</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/The_Son_of_Man</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://sl.dbpedia.org/resource/Sin_človekov</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Син_Людський_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Son_of_Man</field>
+</doc>
+</add>

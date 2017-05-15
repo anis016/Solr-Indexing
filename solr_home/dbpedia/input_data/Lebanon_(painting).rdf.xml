@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lebanon_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lebanon_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Lebanon_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047p6zr</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1983_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lebanese_Civil_War</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Lebanon is a mural size painting by Nabil Kanso depicting the Lebanese Civil War in a scene invoking the spirit and character of the people in the midst of horror and violence gripping the country. Amid the scene of chaos and devastation, two central figures reach across toward each other symbolically to represent the appeal for unity in defiance of the forces of division, destruction, and terror.</field>
+<field name="label">Lebanon (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/aa/Kansolebanon83.jpg</field>
+<field name="comment">Lebanon is a mural size painting by Nabil Kanso depicting the Lebanese Civil War in a scene invoking the spirit and character of the people in the midst of horror and violence gripping the country. Amid the scene of chaos and devastation, two central figures reach across toward each other symbolically to represent the appeal for unity in defiance of the forces of division, destruction, and terror.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Kansolebanon83.jpg/200px-Kansolebanon83.jpg</field>
+<field name="link_external">http://nabilkanso.com/LEBANON.html</field>
+<field name="link_external">http://splitoflife.com</field>
+<field name="link_external">http://lebanonpainting.com</field>
+<field name="link_external">http://worksforpeace.com/lebanon.html</field>
+<field name="artist">http://dbpedia.org/resource/Nabil_Kanso</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="title">Lebanon</field>
+<field name="type">oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lebanon_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lebanon_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lebanon_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lebanon_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lebanon_(Painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lebanon_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Emblematical_Print_on_the_South_Sea_Scheme</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Emblematical_Print_on_the_South_Sea_Scheme</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Emblematical_Print_on_the_South_Sea_Scheme</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5370084</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07kg2_g</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1721_works</field>
+<field name="abstract">Emblematical Print on the South Sea Scheme (also known as The South Sea Scheme) is an early print by William Hogarth, created in 1721 and widely published from 1724. It caricatures the financial speculation, corruption and credulity that caused the South Sea Bubble in England in 1720–1.</field>
+<field name="label">Emblematical Print on the South Sea Scheme</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/17/William_Hogarth_-_The_South_Sea_Scheme.png</field>
+<field name="comment">Emblematical Print on the South Sea Scheme (also known as The South Sea Scheme) is an early print by William Hogarth, created in 1721 and widely published from 1724. It caricatures the financial speculation, corruption and credulity that caused the South Sea Bubble in England in 1720–1.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/William_Hogarth_-_The_South_Sea_Scheme.png/200px-William_Hogarth_-_The_South_Sea_Scheme.png</field>
+<field name="link_external">http://books.google.co.uk/books?id=90yQ7EDJD0QC&amp;lpg=PA69&amp;dq=south%20sea%20hogarth&amp;as_brr=3&amp;pg=PA65#v=onepage&amp;q=&amp;f=false</field>
+<field name="link_external">http://books.google.co.uk/books?id=_EUHPkro5fgC&amp;pg=PA8&amp;dq=south+sea+hogarth&amp;as_brr=3#v=onepage&amp;q=&amp;f=false</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="height">22.2</field>
+<field name="image"/>
+<field name="title">Emblematical Print on the South Sea Scheme</field>
+<field name="type">Engraving</field>
+<field name="width">31.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Emblematical_Print_on_the_South_Sea_Scheme</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Emblematical_Print_on_the_South_Sea_Scheme</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Emblematical_Print_on_the_South_Sea_Scheme</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5370084</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Emblematical_Print_on_the_South_Sea_Scheme</field>
+</doc>
+</add>

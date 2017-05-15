@@ -1,0 +1,30 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Events_in_the_Life_of_Harold_Washington</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5416775</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Events_in_the_Life_of_Harold_Washington</field>
+<field name="sameAs">http://dbpedia.org/resource/Events_in_the_Life_of_Harold_Washington</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09gcrmz</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_of_Chicago,_Illinois</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">Events in the Life of Harold Washington is a mural at Chicago’s central library, the Harold Washington Library, named after Harold Washington, who was Chicago’s first Black mayor, by Jacob Lawrence commissioned in 1991. As much as the mural’s message may seem self-explanatory, depicting the various accomplishments of the late-Washington, this mural does not exist as only a commemoration of his life. In an effort to evoke inspiration and empowering progressive recollection, Jacob Lawrence’s mural, Events in the Life of Harold Washington, highlights and patronizes the African diasporic population’s victory against the white power structure of Twentieth Century Chicago while embodying the artist’s lifelong examination of the meaning of Black progress and struggle.</field>
+<field name="label">Events in the Life of Harold Washington</field>
+<field name="comment">Events in the Life of Harold Washington is a mural at Chicago’s central library, the Harold Washington Library, named after Harold Washington, who was Chicago’s first Black mayor, by Jacob Lawrence commissioned in 1991. As much as the mural’s message may seem self-explanatory, depicting the various accomplishments of the late-Washington, this mural does not exist as only a commemoration of his life.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Events_in_the_Life_of_Harold_Washington</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Events_in_the_Life_of_Harold_Washington</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Events_in_the_Life_of_Harold_Washington</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Events_in_the_Life_of_Harold_Washington</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5416775</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Events_in_the_Life_of_Harold_Washington</field>
+</doc>
+</add>

@@ -1,0 +1,92 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nativity_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Piemenų_pagarbinimas_(Correggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_dei_pastori_(Correggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Adoración_de_los_pastores_(Correggio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1527541</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_(Correggio)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Adoracja_Dzieciątka_(obraz_Correggia)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Nativity_(Correggio)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/การประสูติของพระเยซู_(คอร์เรจจิโอ)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Adoration_des_bergers_(Le_Corrège)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cw685</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gem%C3%A4ldegalerie_Alte_Meister</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nativity_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Correggio</field>
+<field name="abstract">The Nativity (also known as The Holy Night or as Adoration of the Shepherds) is a painting finished around 1529-1530 by the Italian painter Antonio da Correggio. It is housed in the Gemäldegalerie Alte Meister, Dresden. The work was commissioned from Correggio in October 1522 by Alberto Pratoneri for the family chapel in the church of San Prospero of Reggio Emilia: completed at the end of the decade, it was placed in the chapel in 1530. In a what was considered a minor sacrilege, the painting was absconded in 1640 by duke Francesco I d'Este and taken to his private gallery, it was moved to Dresden in 1746. The artist, following the trail blazed by a number of celebrated works by Titian, interpreted a scene that is fully 'à la chandell' and produced an outstanding result in the treatment of light. The scene pivots around the Child, surrounded by Mary's arms, with a group of shepherds on the left, of which the bearded figure is portrayed in the same position of Jerome in the Madonna with St. Jerome (c. 1523). On the right are the traditional presepe animals and St. Joseph. The upper left part features several angels reminiscent the ardite positions in Correggio's dome of the Cathedral of Parma, executed in the same years. This work pointed the way toward the future Lombard investigation of luministic effects, and was used as a model by such painters as Camillo Procaccini, Luca Cambiasi, Guido Reni and Domenichino, and even later on, by Barocci and Maratta.</field>
+<field name="label">Nativity (Correggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/43/Correggio_004.jpg</field>
+<field name="comment">The Nativity (also known as The Holy Night or as Adoration of the Shepherds) is a painting finished around 1529-1530 by the Italian painter Antonio da Correggio. It is housed in the Gemäldegalerie Alte Meister, Dresden. The work was commissioned from Correggio in October 1522 by Alberto Pratoneri for the family chapel in the church of San Prospero of Reggio Emilia: completed at the end of the decade, it was placed in the chapel in 1530.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Correggio_004.jpg/200px-Correggio_004.jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/c/correggi/madonna/night.html</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">256.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Nativity</field>
+<field name="type">Oil on canvas</field>
+<field name="width">188</field>
+<field name="year">c. 1529-1530</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Nativity_(Correggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Nativity_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Adoración_de_los_pastores_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Adoracja_Dzieciątka_(obraz_Correggia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Adoration_des_bergers_(Le_Corrège)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_dei_pastori_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Nativity_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Nativity_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Notte_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1527541</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Piemenų_pagarbinimas_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/การประสูติของพระเยซู_(คอร์เรจจิโอ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_(Correggio)</field>
+</doc>
+</add>

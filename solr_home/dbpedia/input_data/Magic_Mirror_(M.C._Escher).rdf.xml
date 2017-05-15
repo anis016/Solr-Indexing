@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Magic_Mirror_(M.C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Magic_Mirror_(M.C._Escher)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03t6jf</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Magic_Mirror_(M.C._Escher)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1946_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="abstract">Magic Mirror is a lithograph print by the Dutch artist M. C. Escher which was first printed in January, 1946. It depicts a mirror standing vertically on wooden supports on a tiled surface. The perspective is looking down at an angle at the right hand side of the mirror. There is a sphere at each side of the mirror. The main focus of the image is a procession of small griffin (winged lion) sculptures which emerge from the surface of the mirror and trail away from it in single file. Both the angular reflection of the tiles and the offset between the reflection of the sphere in front of the mirror and the sphere behind it prove it is a mirror. Yet the reflection of the griffin procession continues to emerge from behind the mirror. The griffin processions of both sides loop around to the front and enter a tessellated pattern on the tile surface.</field>
+<field name="label">Magic Mirror (M.C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f5/Magic_Mirror.jpg</field>
+<field name="comment">Magic Mirror is a lithograph print by the Dutch artist M. C. Escher which was first printed in January, 1946. It depicts a mirror standing vertically on wooden supports on a tiled surface. The perspective is looking down at an angle at the right hand side of the mirror. There is a sphere at each side of the mirror. The main focus of the image is a procession of small griffin (winged lion) sculptures which emerge from the surface of the mirror and trail away from it in single file.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Magic_Mirror.jpg/200px-Magic_Mirror.jpg</field>
+<field name="artist"/>
+<field name="height">28</field>
+<field name="image"/>
+<field name="title">Magic Mirror</field>
+<field name="width">44.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Magic_Mirror_(M.C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Magic_Mirror_(M.C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Magic_Mirror_(M.C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Magic_Mirror_(M.C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Magic_mirror</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

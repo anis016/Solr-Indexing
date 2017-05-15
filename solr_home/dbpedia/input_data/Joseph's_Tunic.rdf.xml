@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Joseph's_Tunic</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Tunique_de_Joseph</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph's_Tunic</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Szata_Józefa</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2273901</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Joseph's_Tunic</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Tunica_di_Giuseppe</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_túnica_de_José</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05p2pwv</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_túnica_de_Josep</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Religious_paintings_by_Velazquez</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1630_paintings</field>
+<field name="abstract">Joseph's Tunic is a 1630 painting by Diego Velázquez, now held in the museum of the Sacristía Mayor del Monasterio de San Lorenzo de El Escorial.</field>
+<field name="label">Joseph's Tunic</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c9/Diego_Velázquez_065.jpg</field>
+<field name="comment">Joseph's Tunic is a 1630 painting by Diego Velázquez, now held in the museum of the Sacristía Mayor del Monasterio de San Lorenzo de El Escorial.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Diego_Velázquez_065.jpg/200px-Diego_Velázquez_065.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/San_Lorenzo_de_El_Escorial</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Joseph's Tunic</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Joseph's_Tunic</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Joseph's_Tunic</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_túnica_de_José</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph's_Tunic</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Tunique_de_Joseph</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph's_Tunic</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Tunica_di_Giuseppe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph's_Tunic</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Joseph's_Tunic</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Joseph's_Tunic</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Szata_Józefa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph's_Tunic</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2273901</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph's_Tunic</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_túnica_de_Josep</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph's_Tunic</field>
+</doc>
+</add>

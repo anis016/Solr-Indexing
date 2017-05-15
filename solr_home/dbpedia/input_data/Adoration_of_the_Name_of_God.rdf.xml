@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Name_of_God</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Name_of_God</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3825362</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Поклонение_имени_Бога</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/L'adoració_del_nom_de_Déu</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Name_of_God</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czcq18</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_adoración_del_nombre_de_Dios</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1770s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Zaragoza</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Catholic_Church_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1772_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">The Adoration of the Name of God (Spanish: Adoración del nombre de Dios) or The Glory (1772) is a fresco painted by Francisco Goya on the ceiling of the cupola over the Small Choir of the Virgin in the Basílica de Nuestra Señora del Pilar in Zaragoza.</field>
+<field name="label">Adoration of the Name of God</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/00/El_nombre_de_Dios_adorado_por_los_angeles.jpg</field>
+<field name="comment">The Adoration of the Name of God (Spanish: Adoración del nombre de Dios) or The Glory (1772) is a fresco painted by Francisco Goya on the ceiling of the cupola over the Small Choir of the Virgin in the Basílica de Nuestra Señora del Pilar in Zaragoza.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/El_nombre_de_Dios_adorado_por_los_angeles.jpg/200px-El_nombre_de_Dios_adorado_por_los_angeles.jpg</field>
+<field name="link_external">http://goya.unizar.es/InfoGoya/Obra/Catalogo_/Pintura_/30p.html</field>
+<field name="artist">http://dbpedia.org/resource/Francisco_Goya</field>
+<field name="city">http://dbpedia.org/resource/Zaragoza</field>
+<field name="city">http://dbpedia.org/resource/Basilica_of_Our_Lady_of_the_Pillar</field>
+<field name="height">700</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">Adoration of the Name of God</field>
+<field name="type">Oil ceiling fresco</field>
+<field name="width">1500</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Name_of_God</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Name_of_God</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Adoration_of_the_Name_of_God</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_adoración_del_nombre_de_Dios</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Name_of_God</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Name_of_God</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Name_of_God</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Поклонение_имени_Бога</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Name_of_God</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3825362</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Name_of_God</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/L'adoració_del_nom_de_Déu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Name_of_God</field>
+</doc>
+</add>

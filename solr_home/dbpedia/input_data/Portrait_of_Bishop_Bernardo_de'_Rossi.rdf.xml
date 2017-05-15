@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_del_vescovo_Bernardo_de'_Rossi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Bishop_Bernardo_de'_Rossi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Bishop_Bernardo_de'_Rossi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937438</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Bishop_Bernardo_de'_Rossi</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_del_vescovo_Bernardo_de'_Rossi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtxd50</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Bishop_Bernardo_de'_Rossi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1505_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Museum_of_Capodimonte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lorenzo_Lotto</field>
+<field name="abstract">The Portrait of Bishop Bernardo de' Rossi is a painting by the Italian High Renaissance painter Lorenzo Lotto, dating to 1505. It is housed in the National Museum of Capodimonte of Naples, southern Italy. The work dates to Lotto's stay in Treviso, and featured a cover (with title, signature and dates, identified as the Allegory of Virtues and Vices now at the National Gallery of Art in Washington, United States. The portrait was brought to Parma by Bernardo de' Rossi when he fled there in 1524. Here it became part of the Farnese collection, which was transferred to Naples in 1760.</field>
+<field name="label">Portrait of Bishop Bernardo de' Rossi</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/de/Lorenzo_Lotto_042.jpg</field>
+<field name="comment">The Portrait of Bishop Bernardo de' Rossi is a painting by the Italian High Renaissance painter Lorenzo Lotto, dating to 1505. It is housed in the National Museum of Capodimonte of Naples, southern Italy. The work dates to Lotto's stay in Treviso, and featured a cover (with title, signature and dates, identified as the Allegory of Virtues and Vices now at the National Gallery of Art in Washington, United States. The portrait was brought to Parma by Bernardo de' Rossi when he fled there in 1524.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Lorenzo_Lotto_042.jpg/200px-Lorenzo_Lotto_042.jpg</field>
+<field name="link_external">http://www.culturacampania.rai.it/site/en-GB/Cultural_Heritage/Museums/Scheda/Main_works/works/napoli_capodimonte_ritratto_del_vescovo_bernardo_de_rossi.html?UrlScheda=napoli_museo_capodimonte</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">54.7</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Bishop Bernardo de' Rossi</field>
+<field name="type">Oil on panel</field>
+<field name="width">31.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Bishop_Bernardo_de'_Rossi</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Bishop_Bernardo_de'_Rossi</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Bishop_Bernardo_de'_Rossi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Bishop_Bernardo_de'_Rossi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Bernardo_de'_Rossi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Bernardo_de'_Rossi,_Bishop_of_Treviso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Bishop_Bernardo_de_Rossi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937438</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Bishop_Bernardo_de'_Rossi</field>
+</doc>
+</add>

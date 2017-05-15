@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Logician_Devil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zrbx9</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Logician_Devil</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Logician_Devil</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1951_paintings</field>
+<field name="abstract">A Logician Devil or The Logician Devil is an illustration of Lucifer created by Salvador Dalí in 1951 for Dante Alighieri's Divine Comedy. The painting is done by the woodcut engraving technique. The woodcut measures 10" in length by 7.5" in width.</field>
+<field name="label">A Logician Devil</field>
+<field name="comment">A Logician Devil or The Logician Devil is an illustration of Lucifer created by Salvador Dalí in 1951 for Dante Alighieri's Divine Comedy. The painting is done by the woodcut engraving technique. The woodcut measures 10" in length by 7.5" in width.</field>
+<field name="link_external">http://www.lockportstreetgallery.com/DivineComedy1.htm</field>
+<field name="link_external">http://www.3d-dali.com/Tour/logician.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Logician_Devil</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Logician_Devil</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Logician_Devil_-_Lucifer._Illustration_for_Dante's_%22Divine_Comedy%22</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Logician_Devil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Logician_Devil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Logician_Devil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Logician_Devil</field>
+</doc>
+</add>

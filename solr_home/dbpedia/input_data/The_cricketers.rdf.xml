@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_cricketers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07k5kyw</field>
+<field name="sameAs">http://dbpedia.org/resource/The_cricketers</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_cricketers</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7776967</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cricket_culture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Russell_Drysdale</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1948_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="abstract">The cricketers is a 1948 painting by the Australian artist Russell Drysdale. The painting depicts three boys set among the buildings in an empty town; two playing cricket and the other watching. The National Gallery of Australia describes the painting as "one of the most original and haunting images in all Australian art. " The Sydney Morning Herald said the work is "possibly the most famous Australian painting of the 20th century."</field>
+<field name="label">The cricketers</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a1/DrysdaleTheCricketers1948.jpg</field>
+<field name="comment">The cricketers is a 1948 painting by the Australian artist Russell Drysdale. The painting depicts three boys set among the buildings in an empty town; two playing cricket and the other watching. The National Gallery of Australia describes the painting as "one of the most original and haunting images in all Australian art. " The Sydney Morning Herald said the work is "possibly the most famous Australian painting of the 20th century."</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/DrysdaleTheCricketers1948.jpg/200px-DrysdaleTheCricketers1948.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Russell_Drysdale</field>
+<field name="height">76</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">The cricketers</field>
+<field name="type">oil on canvas</field>
+<field name="width">101.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_cricketers</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_cricketers</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Cricketers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_cricketers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_cricketers</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7776967</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_cricketers</field>
+</doc>
+</add>

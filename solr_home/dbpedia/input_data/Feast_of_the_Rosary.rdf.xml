@@ -1,0 +1,107 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Růžencová_slavnost</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Festa_del_Rosario</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Święto_Różańcowe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Fiesta_del_Rosario</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_de_la_fête_du_rosaire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Feast_of_the_Rosary_(D%C3%BCrer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Feast_of_the_Rosary_(Albrecht_D%C3%BCrer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Rosenkranzfest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Festa_del_Rosario</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Праздник_венков_из_роз</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Fiesta_del_Rosario</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1170194</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Święto_Różańcowe</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Růžencová_slavnost</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_de_la_fête_du_rosaire</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Rosenkranzfest</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gw_5vd</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Feast_of_the_Rosary</field>
+<field name="sameAs">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1506_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="abstract">The Feast of the Rosary is a 1506 oil painting by Albrecht Dürer, now in the National Gallery, Prague, Czech Republic.</field>
+<field name="label">Feast of the Rosary</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/70/Albrecht_Dürer_099.jpg</field>
+<field name="comment">The Feast of the Rosary is a 1506 oil painting by Albrecht Dürer, now in the National Gallery, Prague, Czech Republic.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Albrecht_Dürer_099.jpg/200px-Albrecht_Dürer_099.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Albrecht_D%C3%BCrer</field>
+<field name="city">http://dbpedia.org/resource/Prague</field>
+<field name="height">162</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum"/>
+<field name="title">Feast of the Rosary</field>
+<field name="type">Oil on panel</field>
+<field name="width">194.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Feast_of_the_Rosary</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Feast_of_the_Rosary</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Feast_of_the_Rosary</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rosenkranzfest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1170194</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Праздник_венков_из_роз</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Feast_of_the_Rosary</field>
+</doc>
+</add>

@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Incendie_de_Borgo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fire_in_the_Borgo</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_incendio_del_Borgo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fire_in_the_Borgo</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Incendio_di_Borgo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fire_in_the_Borgo</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Fire_in_the_Borgo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Fire_in_the_Borgo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fire_in_the_Borgo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://th.dbpedia.org/resource/เพลิงไหม้ในเมือง_(โรมาโน)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_incendio_del_Borgo</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Incendie_de_Borgo</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02600_v</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fire_in_the_Borgo</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Borgo'daki_Yangın</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2531790</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Fire_in_the_Borgo</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Incendio_di_Borgo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1514_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_rooms</field>
+<field name="abstract">The Fire in the Borgo is a painting by the workshop of the Italian renaissance artist Raphael. Though it is assumed that Raphael did make the designs for the complex composition, the fresco was most likely painted by his assistant Giulio Romano. The painting was part of Raphael's commission to decorate the rooms that are now known as the Stanze di Raffaello, in the Apostolic Palace in the Vatican. It is located in the room that was named after it, the Stanza dell'incendio del Borgo ("The Room of the Fire in the Borgo").</field>
+<field name="label">The Fire in the Borgo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a0/0_Chambre_de_Raphaël_-_L'Incendie_du_Borgo_(1).JPG</field>
+<field name="comment">The Fire in the Borgo is a painting by the workshop of the Italian renaissance artist Raphael. Though it is assumed that Raphael did make the designs for the complex composition, the fresco was most likely painted by his assistant Giulio Romano. The painting was part of Raphael's commission to decorate the rooms that are now known as the Stanze di Raffaello, in the Apostolic Palace in the Vatican.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/0_Chambre_de_Raphaël_-_L'Incendie_du_Borgo_(1).JPG/200px-0_Chambre_de_Raphaël_-_L'Incendie_du_Borgo_(1).JPG</field>
+<field name="link_external">http://books.google.com/books?id=aOzohrk8Mm8C&amp;pg=PA117&amp;dq=%22The+Fire+in+the+Borgo%22&amp;hl=en&amp;ei=3FeKTOTsBoH7lwfNq_GoCQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CCwQ6AEwAA#v=onepage&amp;q=%22The%20Fire%20in%20the%20Borgo%22&amp;f=false</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/r/raphael/4stanze/3borgo/1borgo.html</field>
+<field name="artist">http://dbpedia.org/resource/Giulio_Romano</field>
+<field name="city">http://dbpedia.org/resource/Vatican_City</field>
+<field name="height">?</field>
+<field name="museum">http://dbpedia.org/resource/Apostolic_Palace</field>
+<field name="title">The Fire in the Borgo</field>
+<field name="width">670</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Fire_in_the_Borgo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Fire_in_the_Borgo</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2531790</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fire_in_the_Borgo</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/เพลิงไหม้ในเมือง_(โรมาโน)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fire_in_the_Borgo</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Borgo'daki_Yangın</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fire_in_the_Borgo</field>
+</doc>
+</add>

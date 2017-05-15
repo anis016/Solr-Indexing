@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Open_Window</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Open_Window</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Open_Window</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3745698</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Open_Window</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Finestra_aperta</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Open_Window</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q98mv</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1905_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="abstract">The Open Window, also known as Open Window, Collioure, is a painting by Henri Matisse. The work, an oil on canvas, was painted in 1905. It was bequeathed in 1998 by the estate of Mrs. John Hay Whitney to the National Gallery of Art, Washington, DC.. It is an example of the Fauvist style of painting that Matisse became famous for, and for which he was a leader, roughly between the years 1900–1909. The Open Window depicts the view out the window of his apartment in Collioure, on the Southern coast of France. We see sailboats on the water, as viewed from Matisse's hotel window overlooking the harbor. He returned frequently to the theme of the open window in Paris and especially during the years in Nice and Etretat, and in his final years, particularly during the late 1940s.</field>
+<field name="label">The Open Window</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/59/Matisse-Open-Window.jpg</field>
+<field name="comment">The Open Window, also known as Open Window, Collioure, is a painting by Henri Matisse. The work, an oil on canvas, was painted in 1905. It was bequeathed in 1998 by the estate of Mrs. John Hay Whitney to the National Gallery of Art, Washington, DC.. It is an example of the Fauvist style of painting that Matisse became famous for, and for which he was a leader, roughly between the years 1900–1909.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Matisse-Open-Window.jpg/200px-Matisse-Open-Window.jpg</field>
+<field name="link_external">http://cgfa.dotsrc.org/matisse/p-matisse12.htm</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">55.3</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">The Open Window</field>
+<field name="width">46</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Open_Window</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Open_Window</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Open_Window,_Collioure</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Finestra_aperta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Open_Window</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3745698</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Open_Window</field>
+</doc>
+</add>

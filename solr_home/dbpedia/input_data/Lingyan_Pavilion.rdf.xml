@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portraits_at_Lingyan_Pavilion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lingyan_Pavilion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lingyan_Pavilion</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portraits_at_lingyan_pavilion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lingyan_Pavilion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3267631</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lingyan_Pavilion</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/凌煙閣二十四功臣</field>
+<field name="sameAs">http://id.dbpedia.org/resource/Daftar_24_pejabat_paling_berjasa_Dinasti_Tang</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02ql3jm</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Lăng_Yên_các</field>
+<field name="sameAs">http://dbpedia.org/resource/Lingyan_Pavilion</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/凌烟阁</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:643</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_Xi'an</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Tang_Dynasty_paintings</field>
+<field name="abstract">Lingyan Pavilion was a small tower beside Sanqing Hall (三清殿) in the southwest of Taiji Palace (太極宮), Chang'an, the capital of the Chinese Tang Dynasty. Its location in modern China is roughly in the north of Xi'an, Shaanxi. On March 23, 643, during the Zhenguan era of the reign of Emperor Taizong of the Tang Dynasty, the emperor commissioned artist Yan Liben to paint life-sized portraits of 24 government officials to commemorate them for their meritorious service and contributions to the founding of the dynasty. The paintings were displayed in Lingyan Pavilion and all of them faced north. The pavilion was divided into three layers: the innermost held the portraits of chancellors; the middle displayed paintings of princes and dukes; the outermost for the remaining ones. Emperor Taizong often visited the pavilion to view the portraits and indulge in reminiscence. The 24 officials are listed as such: Zhangsun Wuji (長孫無忌) Li Xiaogong (李孝恭) Du Ruhui (杜如晦) Wei Zheng (魏徵) Fang Qiao (房喬) Gao Jian (高儉) Yuchi Gong (尉遲恭) Li Jing (李靖) Xiao Yu (蕭瑀) Duan Zhixuan (段志玄) Liu Hongji (劉弘基) Qutu Tong (屈突通) Yin Jiao (殷嶠) Chai Shao (柴紹) Zhangsun Shunde (長孫順德) Zhang Liang (張亮) Hou Junji (侯君集) Zhang Gongjin (張公謹) Cheng Zhijie (程知節) Yu Shinan (虞世南) Liu Zhenghui (劉政會) Tang Jian (唐儉) Li Shiji (李世勣) Qin Qiong (秦瓊)</field>
+<field name="label">Lingyan Pavilion</field>
+<field name="comment">Lingyan Pavilion was a small tower beside Sanqing Hall (三清殿) in the southwest of Taiji Palace (太極宮), Chang'an, the capital of the Chinese Tang Dynasty. Its location in modern China is roughly in the north of Xi'an, Shaanxi.</field>
+<field name="link_external">http://ef.cdpa.nsysu.edu.tw/ccw/02/tan09.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lingyan_Pavilion</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lingyan_Pavilion</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/凌煙閣二十四功臣</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lingyan_Pavilion</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3267631</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lingyan_Pavilion</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/凌烟阁</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lingyan_Pavilion</field>
+</doc>
+<doc>
+<field name="uri">http://id.dbpedia.org/resource/Daftar_24_pejabat_paling_berjasa_Dinasti_Tang</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lingyan_Pavilion</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Lăng_Yên_các</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lingyan_Pavilion</field>
+</doc>
+</add>

@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_rencontre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_rencontre</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6466384</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g54dwp</field>
+<field name="sameAs">http://dbpedia.org/resource/La_rencontre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Gustave_Courbet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1854_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Wandering_Jew</field>
+<field name="abstract">The Meeting or "Bonjour, Monsieur Courbet" is an 1854 painting by Gustave Courbet. The painting is traditionally interpreted as Courbet greeted by his patron Bruyas, his servant Calas, and his dog while traveling to Montpellier. The composition is based on the Wandering Jew. The Meeting was exhibited in Paris at the 1855 Exhibition Universelle, where critics ridiculed it as "Bonjour, Monsieur Courbet". Bruyas did not exhibit The Meeting until he donated it to the Musée Fabre in Montpellier in 1868.</field>
+<field name="label">La rencontre</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/de/Gustave_Courbet_010.jpg</field>
+<field name="comment">The Meeting or "Bonjour, Monsieur Courbet" is an 1854 painting by Gustave Courbet. The painting is traditionally interpreted as Courbet greeted by his patron Bruyas, his servant Calas, and his dog while traveling to Montpellier. The composition is based on the Wandering Jew. The Meeting was exhibited in Paris at the 1855 Exhibition Universelle, where critics ridiculed it as "Bonjour, Monsieur Courbet".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Gustave_Courbet_010.jpg/200px-Gustave_Courbet_010.jpg</field>
+<field name="artist"/>
+<field name="height">129</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">La rencontre, ou "Bonjour Monsieur Courbet"</field>
+<field name="type">oil on canvas</field>
+<field name="width">149</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_rencontre</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_rencontre</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bonjour,_Monsieur_Courbet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bonjour_Monsieur_Courbet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Good_Day,_Monsieur_Courbet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Recontre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Rencontre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_rencontre,_ou_Bonjour_Monsieur_Courbet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Meeting,_or_Bonjour_Monsieur_Courbet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rencontre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_rencontre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_rencontre</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6466384</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_rencontre</field>
+</doc>
+</add>

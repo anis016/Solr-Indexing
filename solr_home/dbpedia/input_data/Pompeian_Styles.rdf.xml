@@ -1,0 +1,89 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Style_pompéien</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pompeian_Styles</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pittura_pompeiana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pompeian_Styles</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ポンペイの壁画の様式</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pompeian_Styles</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Malarstwo_pompejańskie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pompeian_Styles</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pompeian_Styles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Malarstwo_pompejańskie</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dtv_q</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Style_pompéien</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ポンペイの壁画の様式</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Estils_pompeians</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Pompejilaiset_maalaustyylit</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q740856</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pittura_pompeiana</field>
+<field name="sameAs">http://dbpedia.org/resource/Pompeian_Styles</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Pompeiansk_stil</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Pompeian_Styles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pompeii_(ancient_city)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Empire_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ancient_Roman_Republican_art</field>
+<field name="abstract">The Pompeian Styles are four periods which are distinguished in ancient Roman mural painting. They were originally delineated and described by the German archaeologist August Mau, 1840 – 1909, from the excavation of wall paintings at Pompeii, which is one of the largest group of surviving examples of Roman frescoes. The wall painting styles have allowed art historians to delineate the various phases of interior decoration in the centuries leading up to the eruption of Vesuvius in 79 AD, which both destroyed the city and preserved the paintings, and between stylistic shifts in Roman art. In the succession of styles, there is a reiteration of stylistic themes. The paintings also tell a great deal about the prosperity of the area and specific tastes during the times. The main purpose of these frescoes was to reduce the claustrophobic interiors of Roman rooms, which were windowless and dark. The paintings, full of color and life, brightened up the interior and made the room feel more spacious.</field>
+<field name="label">Pompeian Styles</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e2/Herculaneum_Wall_1.Style.jpg</field>
+<field name="comment">The Pompeian Styles are four periods which are distinguished in ancient Roman mural painting. They were originally delineated and described by the German archaeologist August Mau, 1840 – 1909, from the excavation of wall paintings at Pompeii, which is one of the largest group of surviving examples of Roman frescoes.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Herculaneum_Wall_1.Style.jpg/200px-Herculaneum_Wall_1.Style.jpg</field>
+<field name="link_external">http://www.metmuseum.org/toah/hd/ropt/hd_ropt.htm</field>
+<field name="link_external">http://creadm.solent.ac.uk/custom/rwpainting/cover/index.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Pompeian_Styles</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pompeian_Styles</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Pompeian_Styles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Pompeian_Styles</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pompeian_Style</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q740856</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pompeian_Styles</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Estils_pompeians</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pompeian_Styles</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Pompejilaiset_maalaustyylit</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pompeian_Styles</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Pompeiansk_stil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pompeian_Styles</field>
+</doc>
+</add>

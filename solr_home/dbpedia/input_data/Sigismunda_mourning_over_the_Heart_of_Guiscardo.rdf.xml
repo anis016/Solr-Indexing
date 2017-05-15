@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sigismunda_mourning_over_the_Heart_of_Guiscardo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047b83w</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sigismunda_mourning_over_the_Heart_of_Guiscardo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7512183</field>
+<field name="sameAs">http://dbpedia.org/resource/Sigismunda_mourning_over_the_Heart_of_Guiscardo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1759_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="abstract">Sigismunda mourning over the Heart of Guiscardo, fully titled Sigismunda mourning over the Heart of Guiscardo, her murder'd Husband, is an oil painting by British artist William Hogarth. Finished in 1759, it was the principal piece of the eight works he displayed in an exhibition in 1761. It was the final and most ambitious of his attempts to secure for himself a reputation as a genre painter. It depicts a dramatic moment in one of the novelle in Boccaccio's Decameron. While Hogarth had expected this work to be acclaimed as a masterpiece of dramatic painting, the work was met with criticism and ridicule. In the catalogue of the exhibition of Hogarth's works at the Tate Gallery in 2007, the criticism was described as "some of the most damning critical opprobrium the artist ever suffered".</field>
+<field name="label">Sigismunda mourning over the Heart of Guiscardo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a1/Hogarth_sigismunda.JPG</field>
+<field name="comment">Sigismunda mourning over the Heart of Guiscardo, fully titled Sigismunda mourning over the Heart of Guiscardo, her murder'd Husband, is an oil painting by British artist William Hogarth. Finished in 1759, it was the principal piece of the eight works he displayed in an exhibition in 1761. It was the final and most ambitious of his attempts to secure for himself a reputation as a genre painter. It depicts a dramatic moment in one of the novelle in Boccaccio's Decameron.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Hogarth_sigismunda.JPG/200px-Hogarth_sigismunda.JPG</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate</field>
+<field name="title">Sigismunda mourning over the Heart of Guiscardo</field>
+<field name="type">Oil-on-canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sigismunda_mourning_over_the_Heart_of_Guiscardo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sigismunda_mourning_over_the_Heart_of_Guiscardo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sigismunda_mourning_over_the_Heart_of_Guiscardo,_her_murder'd_husband</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sigismunda_mourning_over_the_Heart_of_Guiscardo,_her_murdered_husband</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sigismunda_mourning_over_the_Heart_of_Guiscardo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sigismunda_mourning_over_the_Heart_of_Guiscardo</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7512183</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sigismunda_mourning_over_the_Heart_of_Guiscardo</field>
+</doc>
+</add>

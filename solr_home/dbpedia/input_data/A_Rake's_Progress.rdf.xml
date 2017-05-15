@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rake's_Progress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/A_Rake’s_Progress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Rake's_Progress</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Rake's_Progress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Carrière_d'un_libertin</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q300536</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06rv4b</field>
+<field name="sameAs">http://de.dbpedia.org/resource/A_Rake’s_Progress</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Rake's_Progress</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Rake's_Progress</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/放蕩一代記</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1730s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="abstract">A Rake's Progress is a series of eight paintings by 18th century English artist William Hogarth. The canvases were produced in 1732–33, then engraved and published in print form in 1735. The series shows the decline and fall of Tom Rakewell, the spendthrift son and heir of a rich merchant, who comes to London, wastes all his money on luxurious living, prostitution and gambling, and as a consequence is imprisoned in the Fleet Prison and ultimately Bethlem Hospital, or Bedlam. The original paintings are currently in the collection of the Soane Museum in London. The filmmaker Alan Parker has described the works as an ancestor to the storyboard.</field>
+<field name="label">A Rake's Progress</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/03/William_Hogarth_021.jpg</field>
+<field name="comment">A Rake's Progress is a series of eight paintings by 18th century English artist William Hogarth. The canvases were produced in 1732–33, then engraved and published in print form in 1735. The series shows the decline and fall of Tom Rakewell, the spendthrift son and heir of a rich merchant, who comes to London, wastes all his money on luxurious living, prostitution and gambling, and as a consequence is imprisoned in the Fleet Prison and ultimately Bethlem Hospital, or Bedlam.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/William_Hogarth_021.jpg/200px-William_Hogarth_021.jpg</field>
+<field name="link_external">http://soane.org/rakesprogress.htm</field>
+<field name="link_external">http://www.litencyc.com/php/sworks.php?rec=true&amp;UID=7031</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Rake's_Progress</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Rake's_Progress</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bedlam_(film)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/List_of_Late_Night_with_Conan_O'Brien_episodes_Season_2</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Carrière_d'un_libertin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Rake's_Progress</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/放蕩一代記</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Rake's_Progress</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rakes_progress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Rake's_Progress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Rake's_Progress</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q300536</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Rake's_Progress</field>
+</doc>
+</add>

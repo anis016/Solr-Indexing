@@ -1,0 +1,89 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Spoliarium</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Spoliarium</field>
+<field name="sameAs">http://dbpedia.org/resource/Spoliarium</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Spolarium_(pintura)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0832qc</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Spoliarium</field>
+<field name="sameAs">http://tl.dbpedia.org/resource/Spoliarium</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3348220</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Spoliarium</field>
+<field name="sameAs">http://war.dbpedia.org/resource/Spoliarium</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Spolarium</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Juan_Luna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1884_paintings</field>
+<field name="abstract">The Spoliarium (often misspelled Spolarium) is a painting by Filipino artist Juan Luna. The painting was submitted by Luna to the Exposición Nacional de Bellas Artes in 1884 in Madrid, where it garnered the first gold medal (out of three). In 1886, it was sold to the Diputación Provincial de Barcelona for 20,000 pesetas. It currently hangs in the main gallery at the ground floor of the National Museum of the Philippines, and is the first work of art that greets visitors upon entry into the museum.</field>
+<field name="label">Spoliarium</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d4/Juan_Luna_Spoliarium.jpg</field>
+<field name="comment">The Spoliarium (often misspelled Spolarium) is a painting by Filipino artist Juan Luna. The painting was submitted by Luna to the Exposición Nacional de Bellas Artes in 1884 in Madrid, where it garnered the first gold medal (out of three). In 1886, it was sold to the Diputación Provincial de Barcelona for 20,000 pesetas.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Juan_Luna_Spoliarium.jpg/200px-Juan_Luna_Spoliarium.jpg</field>
+<field name="link_external">http://www.flickr.com/photos/diamonds_in_the_soles_of_her_shoes/sets/72157600119021830/</field>
+<field name="artist">http://dbpedia.org/resource/Juan_Luna</field>
+<field name="height">400</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Museum_of_the_Philippines</field>
+<field name="title">Spoliarium</field>
+<field name="type">Oil on poplar</field>
+<field name="width">700</field>
+<field name="year">circa 1884</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Spoliarium</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Spoliarium</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Spolarium</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Spoliarium</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spoliarium</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Spoliarium</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Spoliarium</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Spoliarium</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spoliarium</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Spolarium_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spoliarium</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Spolarium</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spoliarium</field>
+</doc>
+<doc>
+<field name="uri">http://tl.dbpedia.org/resource/Spoliarium</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spoliarium</field>
+</doc>
+<doc>
+<field name="uri">http://war.dbpedia.org/resource/Spoliarium</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spoliarium</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3348220</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spoliarium</field>
+</doc>
+</add>

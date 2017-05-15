@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Magi_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Tríptico_de_los_Uffizi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rrx76</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2405395</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Tryptyk_z_Pokłonem_Trzech_Króli,_Obrzezaniem_i_Wniebowstąpieniem_Chrystusa</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Magi_(Mantegna)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Triptyque_des_Offices</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_degli_Uffizi</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Mantegna)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1462_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Adoration_of_the_Magi_in_art</field>
+<field name="abstract">The Adoration of the Magi is a painting by the Italian Renaissance painter Andrea Mantegna, from 1462. Together with The Ascension and The Circumcision, it forms a triptych created in 1827 at the Uffizi, where the picture can still be seen. The three works were acquired by the Medici in 1588 by the Gonzaga, whose member Ludovico had commissioned them to Mantegna in the 1460s for the Chapel of the Castle of St. George in Mantua (together with the Death of the Virgin, now in the Museo del Prado). The panel with the Adoration of the Magi was probably located in the chapel's apse. The Magi are depicted while descending to the Child's grotto from a path carved out in the rock. The Virgin is portrayed with a crown of angels, according to a Byzantine model. Another version of the painting sold for the then record price of $10.5 million in 1985.</field>
+<field name="label">Adoration of the Magi (Mantegna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/30/Andrea_Mantegna_001.jpg</field>
+<field name="comment">The Adoration of the Magi is a painting by the Italian Renaissance painter Andrea Mantegna, from 1462. Together with The Ascension and The Circumcision, it forms a triptych created in 1827 at the Uffizi, where the picture can still be seen. The three works were acquired by the Medici in 1588 by the Gonzaga, whose member Ludovico had commissioned them to Mantegna in the 1460s for the Chapel of the Castle of St. George in Mantua (together with the Death of the Virgin, now in the Museo del Prado).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Andrea_Mantegna_001.jpg/200px-Andrea_Mantegna_001.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=984</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">76</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum"/>
+<field name="title">Adoration of the Magi</field>
+<field name="type">Tempera on panel</field>
+<field name="width">76.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Mantegna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Magi_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Magi_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Triptyque_des_Offices</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_degli_Uffizi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Tryptyk_z_Pokłonem_Trzech_Króli,_Obrzezaniem_i_Wniebowstąpieniem_Chrystusa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2405395</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Tríptico_de_los_Uffizi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Mantegna)</field>
+</doc>
+</add>

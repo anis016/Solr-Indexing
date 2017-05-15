@@ -1,0 +1,168 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paolo_Uccello</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Batalla_de_San_Romano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Nonexistent_Knight</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Battaglia_di_San_Romano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Bitwa_pod_San_Romano_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Batalha_de_São_Romano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Battle_of_San_Romano_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Bataille_de_San_Romano</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Bitwa_pod_San_Romano_(obraz)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Battaglia_di_San_Romano</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Slaget_ved_San_Romano</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h59qk</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ยุทธการซานโรมาโน_(อูเชลโล)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Битва_при_Сан-Романо_(Учелло)</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Битката_за_Сан_Романо</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Batalha_de_São_Romano</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Batalla_de_San_Romano</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Battle_of_San_Romano</field>
+<field name="sameAs">http://he.dbpedia.org/resource/קרב_סן_רומאנו</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2265370</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Битва_при_Сан-Романо_(Учелло)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/聖羅馬諾之戰_(烏切洛)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1440s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Military_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paolo_Uccello</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="abstract">The Battle of San Romano is a set of three paintings by the Florentine painter Paolo Uccello depicting events that took place at the Battle of San Romano between Florentine and Sienese forces in 1432. They are significant as revealing the development of linear perspective in early Italian Renaissance painting, and are unusual as a major secular commission. The paintings are in egg tempera on wooden panels, each over 3 metres long. According to the National Gallery, the panels were commissioned by a member of the Bartolini Salimbeni family in Florence sometime between 1435 and 1460. The paintings were much admired in the 15th century; Lorenzo de' Medici so coveted them that he purchased one and had the remaining two forcibly removed to the Palazzo Medici. They are now divided between three collections, the National Gallery, London, the Galleria degli Uffizi and the Musée du Louvre, Paris.</field>
+<field name="label">The Battle of San Romano</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f3/Paolo_Uccello_035.jpg</field>
+<field name="comment">The Battle of San Romano is a set of three paintings by the Florentine painter Paolo Uccello depicting events that took place at the Battle of San Romano between Florentine and Sienese forces in 1432. They are significant as revealing the development of linear perspective in early Italian Renaissance painting, and are unusual as a major secular commission. The paintings are in egg tempera on wooden panels, each over 3 metres long.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Paolo_Uccello_035.jpg/200px-Paolo_Uccello_035.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/uccellos-the-battle-of-san-romano.html</field>
+<field name="link_external">http://www.nationalgallery.org.uk/ng583-battle-of-san-romano-uccello-episode-49-segment-2/*/showTranscript/1</field>
+<field name="artist">http://dbpedia.org/resource/Paolo_Uccello</field>
+<field name="image"/>
+<field name="imageSize">thumb</field>
+<field name="museum">http://dbpedia.org/resource/Uffizi</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Battle of San Romano</field>
+<field name="type">egg tempera with walnut oil and linseed oil on poplar</field>
+<field name="width">210</field>
+<field name="year">c. 1438-40</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Battle_of_San_Romano</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Bataille_de_San_Romano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Битва_при_Сан-Романо_(Учелло)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Battle_of_San_Romano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Battle_of_San_Romano_(Paolo_Uccello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Battle_of_San_Romano_(Uccello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_battle_of_san_romano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2265370</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/聖羅馬諾之戰_(烏切洛)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Битката_за_Сан_Романо</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Slaget_ved_San_Romano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/קרב_סן_רומאנו</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ยุทธการซานโรมาโน_(อูเชลโล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Битва_при_Сан-Романо_(Учелло)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_San_Romano</field>
+</doc>
+</add>

@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Henry_VIII</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Henry_VIII</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Henry_VIII</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06_vrb2</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Henry_VIII</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Henry_VIII</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6583495</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภาพเหมือนของสมเด็จพระเจ้าเฮนรีที่_8</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Henry_VIII_of_England</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Art_Gallery_of_Ontario</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530s_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Collection_of_the_United_Kingdom</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Walker_Art_Gallery_Liverpool</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_of_the_British_Royal_Family</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hans_Holbein_the_Younger</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530s_in_England</field>
+<field name="abstract">Portrait of Henry VIII is a lost work by Hans Holbein the Younger depicting Henry VIII. While destroyed by fire in 1698 it is still well known today through many copies. It is one of the most iconic images of Henry and is one of the most famed portraits of any British monarch. It was originally created as a mural at the Palace of Whitehall, London, in 1536 or 1537.</field>
+<field name="label">Portrait of Henry VIII</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/16/TALLER_DE_HOLBEIN_el_JOVEN_-_Retrato_de_Enrique_VIII_(Walker_Art_Gallery,_Liverpool,_1537-47._Óleo_sobre_lienzo,_239_x_134.5_cm).jpg</field>
+<field name="comment">Portrait of Henry VIII is a lost work by Hans Holbein the Younger depicting Henry VIII. While destroyed by fire in 1698 it is still well known today through many copies. It is one of the most iconic images of Henry and is one of the most famed portraits of any British monarch. It was originally created as a mural at the Palace of Whitehall, London, in 1536 or 1537.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/TALLER_DE_HOLBEIN_el_JOVEN_-_Retrato_de_Enrique_VIII_(Walker_Art_Gallery,_Liverpool,_1537-47._Óleo_sobre_lienzo,_239_x_134.5_cm).jpg/200px-TALLER_DE_HOLBEIN_el_JOVEN_-_Retrato_de_Enrique_VIII_(Walker_Art_Gallery,_Liverpool,_1537-47._Óleo_sobre_lienzo,_239_x_134.5_cm).jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Liverpool</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Walker_Art_Gallery</field>
+<field name="title">Portrait of Henry VIII</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Henry_VIII</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Henry_VIII</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Whitehall_Mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6583495</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Henry_VIII</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภาพเหมือนของสมเด็จพระเจ้าเฮนรีที่_8</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Henry_VIII</field>
+</doc>
+</add>

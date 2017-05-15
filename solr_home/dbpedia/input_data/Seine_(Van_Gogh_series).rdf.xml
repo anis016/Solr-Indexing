@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fishing_in_Spring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Seine_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Seine_(Van_Gogh_series)</field>
+<field name="sameAs">http://dbpedia.org/resource/Seine_(Van_Gogh_series)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7446844</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmgz6q</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Paris</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_paintings</field>
+<field name="abstract">Seine (paintings) is the subject and location of paintings that Vincent van Gogh made in 1886 and 1887. The Seine has been an integral part of Parisian life for centuries for commerce, travel and entertainment. Here Van Gogh primarily captures the respite and relief from city life found in nature. A few of the paintings were made in Paris and the rest in the northwestern suburbs of Paris in Clichy and Asnières. Through these works the audience can see a transition in Van Gogh's work from one of dark colors and serious themes to more joyous use of color and light and choice of themes. In Holland Van Gogh was influenced by great Dutch masters as well as cousin-in-law Anton Mauve a Dutch realist painter who was a leading member of the Hague School. In Paris Van Gogh was exposed to and influenced by Impressionism, Symbolism, Pointillism, and Japanese woodblock print genres which were overtime integrated into his works. The spring of 1887 seemed to trigger an awakening within Van Gogh where he experimented with the genres to develop his personal style.</field>
+<field name="label">Seine (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b1/Van_Gogh_-_Angler_und_Boote_an_der_Pont_de_Clichy.jpeg</field>
+<field name="comment">Seine (paintings) is the subject and location of paintings that Vincent van Gogh made in 1886 and 1887. The Seine has been an integral part of Parisian life for centuries for commerce, travel and entertainment. Here Van Gogh primarily captures the respite and relief from city life found in nature. A few of the paintings were made in Paris and the rest in the northwestern suburbs of Paris in Clichy and Asnières.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Van_Gogh_-_Angler_und_Boote_an_der_Pont_de_Clichy.jpeg/200px-Van_Gogh_-_Angler_und_Boote_an_der_Pont_de_Clichy.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Art_Institute_of_Chicago</field>
+<field name="title">Fishing in Spring, the Pont de Clichy</field>
+<field name="width">183</field>
+<field name="width">100</field>
+<field name="width">200</field>
+<field name="width">195</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Seine_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Seine_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Seine_(van_Gogh_paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Seine_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Seine_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Seine_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7446844</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seine_(Van_Gogh_series)</field>
+</doc>
+</add>

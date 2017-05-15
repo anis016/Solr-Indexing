@@ -1,0 +1,105 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Maria_Hemelvaart_(Titiaan)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Asunción_de_la_Virgen_(Tiziano)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1899740</field>
+<field name="sameAs">http://he.dbpedia.org/resource/עלייתה_של_הבתולה_השמיימה_(טיציאן)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/聖母升天_(提香)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระนางพรหมจารีรับเกียรติยกขึ้นสวรรค์_(ทิเชียน)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q6mrx</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Assunta_(obraz_Tycjana)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Mariä_Himmelfahrt_(Tizian)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Assunta_(Tiziano)</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1518_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="abstract">Assumption of the Virgin is a large oil painting by Italian Renaissance artist Titian, executed in 1516–1518. It is located on the high altar in the Basilica di Santa Maria Gloriosa dei Frari in Venice, being the largest altarpiece in the city.</field>
+<field name="label">Assumption of the Virgin (Titian)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9e/Tizian_041.jpg</field>
+<field name="comment">Assumption of the Virgin is a large oil painting by Italian Renaissance artist Titian, executed in 1516–1518. It is located on the high altar in the Basilica di Santa Maria Gloriosa dei Frari in Venice, being the largest altarpiece in the city.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Tizian_041.jpg/200px-Tizian_041.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/titians-assumption-of-the-virgin.html</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Santa_Maria_Gloriosa_dei_Frari</field>
+<field name="title">Assumption of the Virgin</field>
+<field name="type">Oil on panel</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Assunta_(Tiziano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Assunta_(obraz_Tycjana)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Mariä_Himmelfahrt_(Tizian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Asunción_de_la_Virgen_(Tiziano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Titian</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Maria_Hemelvaart_(Titiaan)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1899740</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/聖母升天_(提香)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/עלייתה_של_הבתולה_השמיימה_(טיציאן)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระนางพรหมจารีรับเกียรติยกขึ้นสวรรค์_(ทิเชียน)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Titian)</field>
+</doc>
+</add>

@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Face_on_the_Barroom_Floor_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025zmrs</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7733041</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Face_on_the_Barroom_Floor_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Face_on_the_Barroom_Floor_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Central_City,_Colorado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1936_paintings</field>
+<field name="abstract">The Face on the Barroom Floor is a painting on the floor of the Teller House Bar in Central City, Colorado, United States. It was painted in 1936 by Herndon Davis.</field>
+<field name="label">The Face on the Barroom Floor (painting)</field>
+<field name="comment">The Face on the Barroom Floor is a painting on the floor of the Teller House Bar in Central City, Colorado, United States. It was painted in 1936 by Herndon Davis.</field>
+<field name="link_external">http://members.iglou.com/riplou/WhoseFace.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Face_on_the_Barroom_Floor_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Face_on_the_Barroom_Floor_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Face_on_the_Barroom_Floor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Face_on_the_Barroom_Floor_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Face_on_the_Barroom_Floor_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7733041</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Face_on_the_Barroom_Floor_(painting)</field>
+</doc>
+</add>

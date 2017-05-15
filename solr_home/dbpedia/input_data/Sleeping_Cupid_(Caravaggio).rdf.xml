@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Amour_endormi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sleeping_Cupid_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sleeping_Cupid_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sleeping_Cupid_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sleeping_Cupid_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Kupidon_en_e_gousk</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.097hyx</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Amorino_dormiente</field>
+<field name="sameAs">http://dbpedia.org/resource/Sleeping_Cupid_(Caravaggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sleeping_Cupid_(Caravaggio)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Amour_endormi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2429754</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cupido_durmiendo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1608_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="abstract">Sleeping Cupid is a painting by the Italian master Caravaggio. Unlike many of Caravaggio's works, it can be dated accurately. It was commissioned for Fra Francesco dell'Antella, Florentine Secretary for Italy to Alof de Wignacourt, Grand Master of the Knights of Malta, and an old inscription on the back records that it was painted in Malta in 1608. The subject of a sleeping Cupid, bowstring broken and arrows cast aside, usually signifies the abandonment of worldly pleasures, and dell'Antella may have commissioned it as a reminder of his vow of chastity.</field>
+<field name="label">Sleeping Cupid (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/49/Caravaggio_sleeping_cupid.jpg</field>
+<field name="comment">Sleeping Cupid is a painting by the Italian master Caravaggio. Unlike many of Caravaggio's works, it can be dated accurately. It was commissioned for Fra Francesco dell'Antella, Florentine Secretary for Italy to Alof de Wignacourt, Grand Master of the Knights of Malta, and an old inscription on the back records that it was painted in Malta in 1608.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Caravaggio_sleeping_cupid.jpg/200px-Caravaggio_sleeping_cupid.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">72</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Pitti</field>
+<field name="title">Sleeping Cupid</field>
+<field name="type">Oil on canvas</field>
+<field name="width">105</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sleeping_Cupid_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sleeping_Cupid_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cupido_durmiendo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sleeping_Cupid_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Kupidon_en_e_gousk</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sleeping_Cupid_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Amorino_dormiente</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sleeping_Cupid_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2429754</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sleeping_Cupid_(Caravaggio)</field>
+</doc>
+</add>

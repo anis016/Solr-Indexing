@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Et_in_Arcadia_ego_(Guercino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vq990</field>
+<field name="sameAs">http://dbpedia.org/resource/Et_in_Arcadia_ego_(Guercino)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q259012</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Et_in_Arcadia_ego_(Guercino)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Et_in_Arcadia_ego_(Guercino)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1622_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Guercino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Galleria_Nazionale_d'Arte_Antica</field>
+<field name="abstract">Et in Arcadia ego (also known as The Arcadian Shepherds) is a painting by the Italian Baroque artist Giovanni Francesco Barbieri (Guercino), from c. 1618-1622. It is now on display in the Galleria Nazionale d'Arte Antica of Rome. The painting shows two young shepherds staring at a skull, with a mouse and a blowfly, placed onto a cippus with the words Et in Arcadia ego ("I too in Arcadia"). The latter is a moral reference to Death. The phrase appears for the first time in art and architecture in this work. The iconography of the memento mori theme symbolised in art by the skull was rather popular in Rome and Venice since Renaissance times. Elias L. Rivers suggested the phrase "Et In Arcadia Ego" is derived from a line from Daphnis' funeral in Virgil's Fifth Eclogue Daphnis ego in silvis ("Daphnis was I amid the woods"), and that it referred to the dead shepherd within the tomb, rather than Death itself. Mentioned for the first time in the collection of Antonio Barberini in 1644, the painting was later acquired by Colonna of Sciarra (1812), being attributed to Bartolomeo Schedoni until 1911. Nicolas Poussin also made two paintings on the topic of Et in Arcadia Ego, less than two decades later. The painting is connected with Guercino's Flaying of Marsyas by Apollo in Palazzo Pitti (1618), where the same group of shepherds is present.</field>
+<field name="label">Et in Arcadia ego (Guercino)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b9/Et-in-Arcadia-ego.jpg</field>
+<field name="comment">Et in Arcadia ego (also known as The Arcadian Shepherds) is a painting by the Italian Baroque artist Giovanni Francesco Barbieri (Guercino), from c. 1618-1622. It is now on display in the Galleria Nazionale d'Arte Antica of Rome. The painting shows two young shepherds staring at a skull, with a mouse and a blowfly, placed onto a cippus with the words Et in Arcadia ego ("I too in Arcadia"). The latter is a moral reference to Death.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Et-in-Arcadia-ego.jpg/200px-Et-in-Arcadia-ego.jpg</field>
+<field name="link_external">http://www.galleriaborghese.it/barberini/it/arcadia.htm</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">81</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Et in Arcadia ego</field>
+<field name="type">Oil on canvas</field>
+<field name="width">91</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Et_in_Arcadia_ego_(Guercino)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Et_in_Arcadia_ego_(Guercino)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Et_in_Arcadia_ego_(Guercino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Et_in_Arcadia_ego_(Guercino)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Et_in_Arcadia_ego_(Guercino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Et_in_Arcadia_ego_(Guercino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Et_in_Arcadia_Ego_(Guercino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q259012</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Et_in_Arcadia_ego_(Guercino)</field>
+</doc>
+</add>

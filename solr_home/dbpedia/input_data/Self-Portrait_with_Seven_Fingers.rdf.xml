@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-Portrait_with_Seven_Fingers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3630757</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Autoritratto_con_sette_dita</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self-Portrait_with_Seven_Fingers</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_with_Seven_Fingers</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.061cdb</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Marc_Chagall</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1913_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">Self-Portrait with Seven Fingers is an oil painting by Belarusian painter Marc Chagall, painted in 1913. It appeared in the 2001 movie A Beautiful Mind. This picture was painted in 1913 in France. It was painted on an oil-canvas using cubism.</field>
+<field name="label">Self-Portrait with Seven Fingers</field>
+<field name="comment">Self-Portrait with Seven Fingers is an oil painting by Belarusian painter Marc Chagall, painted in 1913. It appeared in the 2001 movie A Beautiful Mind. This picture was painted in 1913 in France. It was painted on an oil-canvas using cubism.</field>
+<field name="link_external">http://www.usc.edu/schools/annenberg/asc/projects/comm544/library/images/686.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self-Portrait_with_Seven_Fingers</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self-Portrait_with_Seven_Fingers</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Autoritratto_con_sette_dita</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_with_Seven_Fingers</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self-Portrait_with_Seven_Fingers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self-Portrait_with_Seven_Fingers</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self_Portrait_With_Seven_Fingers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3630757</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_with_Seven_Fingers</field>
+</doc>
+</add>

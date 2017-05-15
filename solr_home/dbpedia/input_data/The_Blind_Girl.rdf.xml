@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Blind_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Sokea_tyttö</field>
+<field name="sameAs">http://th.dbpedia.org/resource/เด็กหญิงตาบอด_(มิเล)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q477764</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blind_Girl</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q94q9</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/A_vak_lány</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Blind_Girl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Birmingham_Museum_and_Art_Gallery</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1856_paintings</field>
+<field name="abstract">The Blind Girl (1856) is a painting by John Everett Millais which depicts two itinerant beggars, presumed to be sisters, one of whom is a blind musician, her concertina on her lap. They are resting by the roadside after a rainstorm, before travelling to the town of Winchelsea, visible in the background. The painting has been interpreted as an allegory of the senses, contrasting the experiences of the blind and sighted sisters. The former feels the warmth of the sun on her face, and fondles a leaf of grass, while the latter shields her eyes from the sun or rain and looks at the unusual spectacle of a double rainbow that has just appeared. Some critics have interpreted the rainbow in Biblical terms, as the sign of God's covenant described in Genesis 9:16. When the painting was first exhibited in 1856 it was pointed out to Millais that in double rainbows the inner rainbow inverts the order of the colours. Millais had originally painted the colours in the same order in both rainbows. He altered it for scientific accuracy. A tortoiseshell butterfly rests on the blind girl's shawl, implying that she is holding herself extremely still. The sheet around her neck is captioned "Pity the Blind".</field>
+<field name="label">The Blind Girl</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e8/Millais-Blind_Girl.jpg</field>
+<field name="comment">The Blind Girl (1856) is a painting by John Everett Millais which depicts two itinerant beggars, presumed to be sisters, one of whom is a blind musician, her concertina on her lap. They are resting by the roadside after a rainstorm, before travelling to the town of Winchelsea, visible in the background. The painting has been interpreted as an allegory of the senses, contrasting the experiences of the blind and sighted sisters.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Millais-Blind_Girl.jpg/200px-Millais-Blind_Girl.jpg</field>
+<field name="link_external">http://victorian.lang.nagoya-u.ac.jp/victorianweb/painting/millais/paintings/may3.html</field>
+<field name="link_external">http://www.bmagic.org.uk/objects/1892P3</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="city">http://dbpedia.org/resource/Birmingham</field>
+<field name="city">http://dbpedia.org/resource/England</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Birmingham_Museum_and_Art_Gallery</field>
+<field name="title">The Blind Girl</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Blind_Girl</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Blind_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Blind_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Blind_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q477764</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blind_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Sokea_tyttö</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blind_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/A_vak_lány</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blind_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/เด็กหญิงตาบอด_(มิเล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blind_Girl</field>
+</doc>
+</add>

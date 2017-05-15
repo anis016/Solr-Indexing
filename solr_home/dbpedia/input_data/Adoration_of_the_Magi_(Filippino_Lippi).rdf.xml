@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Anbetung_der_Könige_(Filippino_Lippi)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/三博士来朝_(利皮)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3605532</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rsfgk</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_dei_Magi_(Filippino_Lippi)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1496_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Adoration_of_the_Magi_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippino_Lippi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="abstract">The Adoration of the Magi is a painting by the Italian Renaissance painter Filippino Lippi. It is signed and dated at 1496. It is housed in the Uffizi of Florence. The panel was painted for the Convent of the San Donato agli Scopeti, in substitution of the one commissioned in 1481 to Leonardo da Vinci, who left it unfinished. In 1529 it was acquired by Cardinal Carlo de' Medici and in 1666 it became part of the Uffizi collection. Filippino Lippi followed Leonardo's setting, in particular in the central part of the work. Much of its inspiration was clearly derived from Botticelli's Adoration of the Magi, also in the Uffizi: this is evident in the disposition of the characters on the two sides, with the Holy Family portrayed in the centre under. Similarly to Botticelli's work, Filippino also portrayed numerous members of the Medici cadet line, who had adhered to the Savonarolian Republic in the period in which the work was executed. On the left, kneeling and holding with a quadrant, is Pierfrancesco de' Medici. Behind him, standing, are his two sons Giovanni, holding a goblet, and Lorenzo, from whom a page is removing a crown. The general style is that of Filippino's late career, characterized by a greater care to details and by a nervous rhythm in the forms, influenced by the knowledge of foreign painting schools (as also in the landscape of the background).</field>
+<field name="label">Adoration of the Magi (Filippino Lippi)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/76/Adorazione_dei_magi,_filippino_lippi.JPG</field>
+<field name="comment">The Adoration of the Magi is a painting by the Italian Renaissance painter Filippino Lippi. It is signed and dated at 1496. It is housed in the Uffizi of Florence. The panel was painted for the Convent of the San Donato agli Scopeti, in substitution of the one commissioned in 1481 to Leonardo da Vinci, who left it unfinished. In 1529 it was acquired by Cardinal Carlo de' Medici and in 1666 it became part of the Uffizi collection.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Adorazione_dei_magi,_filippino_lippi.JPG/200px-Adorazione_dei_magi,_filippino_lippi.JPG</field>
+<field name="link_external">http://www.virtualuffizi.com/uffizi1/cercals1.asp?Contatore=6</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=1423</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">258</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Adoration of the Magi</field>
+<field name="type">Oil on panel</field>
+<field name="width">243</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_dei_Magi_(Filippino_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Anbetung_der_Könige_(Filippino_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3605532</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/三博士来朝_(利皮)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Filippino_Lippi)</field>
+</doc>
+</add>

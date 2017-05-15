@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ecce_Ancilla_Domini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2425901</field>
+<field name="sameAs">http://dbpedia.org/resource/Ecce_Ancilla_Domini</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ecce_Ancilla_Domini</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Zwiastowanie_(obraz_Rossettiego)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ecce_Ancilla_Domini_(Rossetti)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Благовещение_(картина_Россетти)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Ecce_Ancilla_Domini</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j286q0</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1850_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="abstract">Ecce Ancilla Domini, or The Annunciation, is an oil painting by the English artist Dante Gabriel Rossetti, first painted in 1850 and now in Tate Britain in London. The Latin title is a quotation from the Vulgate text of the first chapter of the Gospel of Saint Luke, describing the Annunciation, where Mary accepts the message brought to her by the Angel Gabriel that she would give birth to a child (Jesus) by God.</field>
+<field name="label">Ecce Ancilla Domini</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8f/Rossetti_Annunciation.jpg</field>
+<field name="comment">Ecce Ancilla Domini, or The Annunciation, is an oil painting by the English artist Dante Gabriel Rossetti, first painted in 1850 and now in Tate Britain in London. The Latin title is a quotation from the Vulgate text of the first chapter of the Gospel of Saint Luke, describing the Annunciation, where Mary accepts the message brought to her by the Angel Gabriel that she would give birth to a child (Jesus) by God.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Rossetti_Annunciation.jpg/200px-Rossetti_Annunciation.jpg</field>
+<field name="link_external">http://onlinebooks.library.upenn.edu/webbin/gutbook/lookup?num=3692</field>
+<field name="link_external">http://www.preraphaelites.org/the-collection/artist-biography/dante-gabriel-rossetti/</field>
+<field name="link_external">http://www.rossettiarchive.org</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">73</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">Ecce Ancilla Domini</field>
+<field name="type">oil on canvas</field>
+<field name="width">41.9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ecce_Ancilla_Domini</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ecce_Ancilla_Domini</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Благовещение_(картина_Россетти)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ecce_Ancilla_Domini</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Zwiastowanie_(obraz_Rossettiego)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ecce_Ancilla_Domini</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ecce_Ancilla_Domini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ecce_Ancilla_Domini</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Ecce_Ancilla_Domini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ecce_Ancilla_Domini</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ecce_Ancilla_Domini_(Rossetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ecce_Ancilla_Domini</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2425901</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ecce_Ancilla_Domini</field>
+</doc>
+</add>

@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Orgosolo_Mural_in_Sardinia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/奥尔高索洛壁画</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvtfcb</field>
+<field name="sameAs">http://dbpedia.org/resource/Orgosolo_Mural_in_Sardinia</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Orgosolo_Mural_in_Sardinia</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7102147</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sardinian_culture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">Orgosolo's mural is the mural painted in Orgosolo village, Nuoro, Sardinia, Italy. Those murals is being investigated based on historical and anthropological approach.</field>
+<field name="label">Orgosolo Mural in Sardinia</field>
+<field name="comment">Orgosolo's mural is the mural painted in Orgosolo village, Nuoro, Sardinia, Italy. Those murals is being investigated based on historical and anthropological approach.</field>
+<field name="link_external">http://www.muralesinsardegna.net/</field>
+<field name="link_external">http://www.le-tigre.net/Sardaigne.html</field>
+<field name="link_external">http://www.trompe-l-oeil.info/Trompeloeil/fresques_murales_sardaigne.htm</field>
+<field name="link_external">http://www.trompe-l-oeil.info/Trompeloeil/plus_orgosolo.htm</field>
+<field name="link_external">http://www.comune.orgosolo.nu.it/index.php?option=com_content&amp;task=view&amp;id=26&amp;Itemid=102</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Orgosolo_Mural_in_Sardinia</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Orgosolo_Mural_in_Sardinia</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Orgosolo_Mural_in_Sardinia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Orgosolo_Mural_in_Sardinia</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7102147</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Orgosolo_Mural_in_Sardinia</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/奥尔高索洛壁画</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Orgosolo_Mural_in_Sardinia</field>
+</doc>
+</add>

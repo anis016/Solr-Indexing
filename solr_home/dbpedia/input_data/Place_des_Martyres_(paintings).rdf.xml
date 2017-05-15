@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Place_des_Martyres_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Place_des_Martyres_(paintings)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04gspg_</field>
+<field name="sameAs">http://dbpedia.org/resource/Place_des_Martyres_(paintings)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1970s_paintings</field>
+<field name="abstract">Place des Martyres is the title of a series of over 250 watercolors and drawings executed in New York and Beirut between 1971 and 1974 by Nabil Kanso. The subjects of the works in the series are based on the women headquartered in the red-light district of Beirut city center called el Bourj, and after World War I named Place des Martyrs French for Martyrs’ Place in memory of dozens of Arab nationalists who were hanged in 1915-16 during Ottoman rule.</field>
+<field name="label">Place des Martyres (paintings)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/aa/Encounter73.jpg</field>
+<field name="comment">Place des Martyres is the title of a series of over 250 watercolors and drawings executed in New York and Beirut between 1971 and 1974 by Nabil Kanso. The subjects of the works in the series are based on the women headquartered in the red-light district of Beirut city center called el Bourj, and after World War I named Place des Martyrs French for Martyrs’ Place in memory of dozens of Arab nationalists who were hanged in 1915-16 during Ottoman rule.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Encounter73.jpg/200px-Encounter73.jpg</field>
+<field name="link_external">http://nabilkanso.com/martyres.html</field>
+<field name="link_external">http://beirutbourj.com</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Place_des_Martyres_(paintings)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Place_des_Martyres_(paintings)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Place_des_Martyres_paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Place_des_Martyrs_paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Place_des_Martyres_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Place_des_Martyres_(paintings)</field>
+</doc>
+</add>

@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Artist_in_His_Museum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Artist_in_His_Museum</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03c3kzs</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Artist_in_His_Museum</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_artista_en_su_museo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7714586</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/O_Artista_em_seu_Museu</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pennsylvania_Academy_of_the_Fine_Arts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1822_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="abstract">The Artist in His Museum is an 1822 self-portrait by the American artist Charles Willson Peale (1741–1827). Toward the end of his career, beginning in 1822, he painted seven self-portraits that together formed the final motif of his art and the final flourishing of his talent. The Artist in His Museum is a large-scale oil-on-canvas work painted in about two months, and is the most emblematic of Peale's many self-portraits. Peale was a naturalist as well as a painter. In 1784 he founded the Philadelphia Museum, situated at the time of the painting in the Pennsylvania State House. The curation of the museum dominated his career from that point; he would on occasion announce his retirement from painting or his return to it. In 1822 he was asked by the museum's trustees to paint a full-length portrait of himself for the museum. The 81-year-old artist endeavored to "not only make it a lasting monument of my art as a Painter, but also that the design should be expressive, that I bring forth into public view, the beauties of Nature and Art, the rise &amp; progress of the Museum. " He further said, "I wish it may excite some admiration, otherwise my labor is lost, except that it is a good likeness. " Peale's determination to honor his career is reflected in his having painted two preliminary versions of The Artist, unusual for an artist who took pride in producing likenesses with little preparatory work.</field>
+<field name="label">The Artist in His Museum</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c8/C_W_Peale_-_The_Artist_in_His_Museum.jpg</field>
+<field name="comment">The Artist in His Museum is an 1822 self-portrait by the American artist Charles Willson Peale (1741–1827). Toward the end of his career, beginning in 1822, he painted seven self-portraits that together formed the final motif of his art and the final flourishing of his talent. The Artist in His Museum is a large-scale oil-on-canvas work painted in about two months, and is the most emblematic of Peale's many self-portraits. Peale was a naturalist as well as a painter.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/C_W_Peale_-_The_Artist_in_His_Museum.jpg/200px-C_W_Peale_-_The_Artist_in_His_Museum.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Charles_Willson_Peale</field>
+<field name="city">http://dbpedia.org/resource/Philadelphia</field>
+<field name="height">262.9</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Pennsylvania_Academy_of_the_Fine_Arts</field>
+<field name="title">The Artist in His Museum</field>
+<field name="type">Oil on canvas</field>
+<field name="width">203.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Artist_in_His_Museum</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Artist_in_His_Museum</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/O_Artista_em_seu_Museu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Artist_in_His_Museum</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_artist_in_his_museum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_artista_en_su_museo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Artist_in_His_Museum</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Artist_in_His_Museum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Artist_in_His_Museum</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7714586</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Artist_in_His_Museum</field>
+</doc>
+</add>

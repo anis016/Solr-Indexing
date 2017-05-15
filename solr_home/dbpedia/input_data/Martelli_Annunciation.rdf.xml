@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Martelli_Annunciation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_Martelli</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3618193</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Martelli_Annunciation</field>
+<field name="sameAs">http://dbpedia.org/resource/Martelli_Annunciation</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqsvr6</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1440s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippo_Lippi</field>
+<field name="abstract">The Martelli Annunciation is a painting by Filippo Lippi, in the Martelli Chapel in the left transept of the Basilica di San Lorenzo, Florence. There is no information about the painting's origin, although it is likely that it was originally placed in the current location; the dating to c. 1440 is based on the style and the presence of St. Nicholas in the predella panels: this because Niccolò Martelli, a rich Florentine citizen which supported the reconstruction of the basilica during the Medici prominence in Florence. The painting is considered the very first knew example of squared altarpiece, without any traditional gothic decoration like pinnacles or cusps, in order to better match the simple architecture of the church, by Brunelleschi. The panel is divided in two by a central column. It uses geometrical perspective to show a complex architecture including several edifices and an open loggia. There are several elements suggesting the influence of Flemish painting, by which Lippi was influenced during his stay in Padua. These include the glass ampulla in the foreground, symbolizing the holy Spirit. On the left, over a step, is a group of angels, while on the right is the Annunciation scene, inspired to Donatello's Cavalcanti Annunciation (c. 1435). The angel is holding a white lily, a symbol of the Virgin's purity. 40x40px Wikimedia Commons has media related to: Annunciazione Martelli The three scenes in the predella are similar to those in the Barbadori Altarpiece, from 1438.</field>
+<field name="label">Martelli Annunciation</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/dd/Lippi,_annunciazione_Martelli.jpg</field>
+<field name="comment">The Martelli Annunciation is a painting by Filippo Lippi, in the Martelli Chapel in the left transept of the Basilica di San Lorenzo, Florence. There is no information about the painting's origin, although it is likely that it was originally placed in the current location; the dating to c. 1440 is based on the style and the presence of St.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Lippi,_annunciazione_Martelli.jpg/200px-Lippi,_annunciazione_Martelli.jpg</field>
+<field name="link_external">http://www.restaurofilippolippi.it/opere/scheda_12.htm</field>
+<field name="artist">http://dbpedia.org/resource/Filippo_Lippi</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">175</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Basilica_of_San_Lorenzo,_Florence</field>
+<field name="title">Annunciation</field>
+<field name="type">Tempera on panel</field>
+<field name="width">183</field>
+<field name="year">c. 1440</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Martelli_Annunciation</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Martelli_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Martelli_Annunciation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Martelli_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_Martelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Martelli_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Lippi,_San_Lorenzo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciazione_Martelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3618193</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Martelli_Annunciation</field>
+</doc>
+</add>

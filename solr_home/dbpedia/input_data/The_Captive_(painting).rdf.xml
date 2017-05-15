@@ -1,0 +1,112 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Captive</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Emma_Tooth</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Captif</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Captive_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Пленный_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Captive_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Captive_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_captiu</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/La_Kaptito_(pentraĵo)</field>
+<field name="sameAs">http://id.dbpedia.org/resource/Tawanan_(lukisan)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Captive_(painting)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Captif</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Captive_(painting)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Пленный_(картина)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Prigioniero_(Joseph_Wright_of_Derby)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx_1zm</field>
+<field name="sameAs">http://be_x_old.dbpedia.org/resource/Палонны_(карціна)</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Палонны</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2432055</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1770s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joseph_Wright_of_Derby</field>
+<field name="abstract">The Captive, from Sterne is a painting by Joseph Wright of Derby completed in 1774 and now in the Vancouver Art Gallery. Sterne's Captive, first exhibited by the artist in 1778, is a similar painting by Wright in the Derby Museum and Art Gallery. The latter painting resulted in a very rare engraving, as its purchaser commissioned a print run of only twenty copies before the copper printing plate was destroyed. In 2012, Derby Museum commissioned another Captive painting from Emma Tooth.</field>
+<field name="label">The Captive (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/80/Joseph_Wright_The_Captive_1775_7.jpg</field>
+<field name="comment">The Captive, from Sterne is a painting by Joseph Wright of Derby completed in 1774 and now in the Vancouver Art Gallery. Sterne's Captive, first exhibited by the artist in 1778, is a similar painting by Wright in the Derby Museum and Art Gallery. The latter painting resulted in a very rare engraving, as its purchaser commissioned a print run of only twenty copies before the copper printing plate was destroyed. In 2012, Derby Museum commissioned another Captive painting from Emma Tooth.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Joseph_Wright_The_Captive_1775_7.jpg/200px-Joseph_Wright_The_Captive_1775_7.jpg</field>
+<field name="artist">http://dbpedia.org/resource/The_Captive_(painting)</field>
+<field name="artist">http://dbpedia.org/resource/Joseph_Wright_of_Derby</field>
+<field name="city"/>
+<field name="city">http://dbpedia.org/resource/Derby</field>
+<field name="image"/>
+<field name="image"/>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Vancouver_Art_Gallery</field>
+<field name="museum">http://dbpedia.org/resource/Derby_Museum_and_Art_Gallery</field>
+<field name="title">The Captive</field>
+<field name="title">Sterne's Captive</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Captive_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Captive_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Captive_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Captive_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Prigioniero_(Joseph_Wright_of_Derby)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Captive_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Палонны</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Captive_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_captiu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Captive_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/La_Kaptito_(pentraĵo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Captive_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://id.dbpedia.org/resource/Tawanan_(lukisan)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Captive_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://be_x_old.dbpedia.org/resource/Палонны_(карціна)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Captive_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2432055</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Captive_(painting)</field>
+</doc>
+</add>

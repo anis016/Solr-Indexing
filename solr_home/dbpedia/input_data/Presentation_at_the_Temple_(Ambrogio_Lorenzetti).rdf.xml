@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Presentation_at_the_Temple_(Ambrogio_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3910903</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h63gtm</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Presentazione_al_Tempio_(Ambrogio_Lorenzetti)</field>
+<field name="sameAs">http://dbpedia.org/resource/Presentation_at_the_Temple_(Ambrogio_Lorenzetti)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Presentation_at_the_Temple_(Ambrogio_Lorenzetti)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gothic_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1342_paintings</field>
+<field name="abstract">The Presentation at the Temple is a painting by the Italian late medieval painter Ambrogio Lorenzetti, signed and dated 1342, now housed in the Uffizi Gallery of Florence, Italy. It is one of the largest works by the Italian medieval painter, as well as one of the five which he signed and dated.</field>
+<field name="label">Presentation at the Temple (Ambrogio Lorenzetti)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/84/Ambrogio_Lorenzetti_-_The_Presentation_in_the_Temple_-_WGA13480.jpg</field>
+<field name="comment">The Presentation at the Temple is a painting by the Italian late medieval painter Ambrogio Lorenzetti, signed and dated 1342, now housed in the Uffizi Gallery of Florence, Italy. It is one of the largest works by the Italian medieval painter, as well as one of the five which he signed and dated.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Ambrogio_Lorenzetti_-_The_Presentation_in_the_Temple_-_WGA13480.jpg/200px-Ambrogio_Lorenzetti_-_The_Presentation_in_the_Temple_-_WGA13480.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ambrogio_Lorenzetti</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">267</field>
+<field name="image"/>
+<field name="imageSize">310</field>
+<field name="museum">http://dbpedia.org/resource/Uffizi</field>
+<field name="title">Presentation at the Temple</field>
+<field name="type">Tempera on panel</field>
+<field name="width">168</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Presentation_at_the_Temple_(Ambrogio_Lorenzetti)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Presentation_at_the_Temple_(Ambrogio_Lorenzetti)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Presentation_at_the_Temple_(Ambrogio_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Presentation_at_the_Temple_(Ambrogio_Lorenzetti)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Presentazione_al_Tempio_(Ambrogio_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Presentation_at_the_Temple_(Ambrogio_Lorenzetti)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Presentation_in_the_Temple_(Ambrogio_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Presentation_of_Jesus_at_the_Temple_(Ambrogio_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3910903</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Presentation_at_the_Temple_(Ambrogio_Lorenzetti)</field>
+</doc>
+</add>

@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Triptych_of_the_Madonna_of_Humility_with_saints</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triptych_of_the_Madonna_of_Humility_with_saints</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Triptych_of_the_Madonna_of_Humility_with_saints</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h_9k4m</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7843830</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippo_Lippi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Fitzwilliam_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="abstract">The Triptych of the Madonna of Humility with saints is an altarpiece by Filippo Lippi, produced around 1430. It has been in the Fitzwilliam Museum in Cambridge since 1893. Its central panel shows the Madonna as the Madonna of humility. Its left panel shows John the Baptist, whilst its right panel shows saint George or saint Ansanus.</field>
+<field name="label">Triptych of the Madonna of Humility with saints</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/25/Lippi,_trittico_madonna.jpg</field>
+<field name="comment">The Triptych of the Madonna of Humility with saints is an altarpiece by Filippo Lippi, produced around 1430. It has been in the Fitzwilliam Museum in Cambridge since 1893. Its central panel shows the Madonna as the Madonna of humility. Its left panel shows John the Baptist, whilst its right panel shows saint George or saint Ansanus.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Lippi,_trittico_madonna.jpg/200px-Lippi,_trittico_madonna.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Triptych_of_the_Madonna_of_Humility_with_saints</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Triptych_of_the_Madonna_of_Humility_with_saints</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Triptych_of_the_Madonna_of_Humility_with_saints</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Triptych_of_the_Madonna_of_Humility_with_saints</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7843830</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triptych_of_the_Madonna_of_Humility_with_saints</field>
+</doc>
+</add>

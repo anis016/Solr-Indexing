@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Decemviri_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_dei_Decemviri</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3428061</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Decemviri_Altarpiece</field>
+<field name="sameAs">http://dbpedia.org/resource/Decemviri_Altarpiece</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx_1dj</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_des_Décemvirs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Vatican_Museums</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="abstract">Decemviri Altarpiece is a painting by the Italian Renaissance artist Pietro Perugino, executed in 1495-1496, and housed in the Pinacoteca Vaticana in Rome. The work was commissioned by the Decemviri ("Ten Men") of Perugia for the chapel in the Palazzo dei Priori, and was executed 1495 to 1496. It was originally surmounted by a Pietà (87 x 90 cm), now at the Galleria Nazionale dell'Umbria.</field>
+<field name="label">Decemviri Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/36/Pietro_Perugino_cat41b.jpg</field>
+<field name="comment">Decemviri Altarpiece is a painting by the Italian Renaissance artist Pietro Perugino, executed in 1495-1496, and housed in the Pinacoteca Vaticana in Rome. The work was commissioned by the Decemviri ("Ten Men") of Perugia for the chapel in the Palazzo dei Priori, and was executed 1495 to 1496. It was originally surmounted by a Pietà (87 x 90 cm), now at the Galleria Nazionale dell'Umbria.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Pietro_Perugino_cat41b.jpg/200px-Pietro_Perugino_cat41b.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pietro_Perugino</field>
+<field name="city">http://dbpedia.org/resource/Rome</field>
+<field name="height">193</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Decemviri Altarpiece</field>
+<field name="width">165</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Decemviri_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Decemviri_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_des_Décemvirs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Decemviri_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_dei_Decemviri</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Decemviri_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Decemviri_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Decemviri_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3428061</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Decemviri_Altarpiece</field>
+</doc>
+</add>

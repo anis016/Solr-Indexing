@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Magic_Circle_(Waterhouse_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7749405</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magic_Circle_(Waterhouse_painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Magic_Circle_(Waterhouse_painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qdn8z</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Circulus_magicus_(Waterhouse)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1886_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_William_Waterhouse</field>
+<field name="abstract">The Magic Circle is an oil painting in the Pre-Raphaelite style, created in 1886 by John William Waterhouse. The painting depicts a witch or sorceress drawing a fiery magic circle on the earth to create a ritual space.</field>
+<field name="label">The Magic Circle (Waterhouse painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f8/John_William_Waterhouse_-_Magic_Circle.JPG</field>
+<field name="comment">The Magic Circle is an oil painting in the Pre-Raphaelite style, created in 1886 by John William Waterhouse. The painting depicts a witch or sorceress drawing a fiery magic circle on the earth to create a ritual space.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/John_William_Waterhouse_-_Magic_Circle.JPG/200px-John_William_Waterhouse_-_Magic_Circle.JPG</field>
+<field name="link_external">http://www.johnwilliamwaterhouse.net/</field>
+<field name="link_external">http://www.jwwaterhouse.com</field>
+<field name="link_external">http://www.tendreams.org/waterhouse.htm</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ArtistWorks?cgroupid=999999961&amp;artistid=583&amp;page=1&amp;sole=y&amp;collab=y&amp;attr=y&amp;sort=default&amp;tabview=worklist</field>
+<field name="link_external">http://www.artble.com/artists/john_william_waterhouse/more_information/style_and_technique</field>
+<field name="link_external">http://www.tate.org.uk/art/artworks/waterhouse-the-magic-circle-n01572/text-summary</field>
+<field name="link_external">http://www.johnwaterhouse.com/view.cfm?recordid=111</field>
+<field name="link_external">http://www.johnwilliamwaterhouse.com/home/</field>
+<field name="link_external">http://www.all-art.org/neoclasscism/waterhouse1.html</field>
+<field name="artist">http://dbpedia.org/resource/John_William_Waterhouse</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">183</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">The Magic Circle</field>
+<field name="width">127</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Magic_Circle_(Waterhouse_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Magic_Circle_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Magic_Circle_(Waterhouse_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Magic_Circle_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Magic_circle_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7749405</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magic_Circle_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Circulus_magicus_(Waterhouse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magic_Circle_(Waterhouse_painting)</field>
+</doc>
+</add>

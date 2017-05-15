@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Metamorphosis_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Metamorphosis_I</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6823055</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03szsr</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Metamorphosis_I</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Metamorfoz_I</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1937_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Woodcuts</field>
+<field name="abstract">Metamorphosis I is a woodcut print by the Dutch artist M. C. Escher which was first printed in May, 1937. This piece measures 19.5 by 90.8 centimetres ( in ×  in) and is printed on two sheets. The concept of this work is to morph one image into a tessellated pattern, then gradually to alter the outlines of that pattern to become an altogether different image. From left to right, the image begins with a depiction of the coastal Italian town of Atrani. The outlines of the architecture then morph to a pattern of three dimensional blocks. These blocks then slowly become a tessellated pattern of cartoon like figures in oriental attire.</field>
+<field name="label">Metamorphosis I</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/42/Escher,_Metamorphosis_I.jpg</field>
+<field name="comment">Metamorphosis I is a woodcut print by the Dutch artist M. C. Escher which was first printed in May, 1937. This piece measures 19.5 by 90.8 centimetres ( in ×  in) and is printed on two sheets. The concept of this work is to morph one image into a tessellated pattern, then gradually to alter the outlines of that pattern to become an altogether different image. From left to right, the image begins with a depiction of the coastal Italian town of Atrani.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Escher,_Metamorphosis_I.jpg/200px-Escher,_Metamorphosis_I.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Metamorphosis I</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Metamorphosis_I</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Metamorphosis_I</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Metamorphosis_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Metamorphosis_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Metamorphosis_I</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6823055</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Metamorphosis_I</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Metamorfoz_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Metamorphosis_I</field>
+</doc>
+</add>

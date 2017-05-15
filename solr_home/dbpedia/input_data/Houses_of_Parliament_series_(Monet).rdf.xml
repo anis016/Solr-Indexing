@@ -1,0 +1,79 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Claude_Monet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Houses_of_Parliament_series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Budynek_Parlamentu_w_Londynie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Houses_of_Parliament_series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Houses_of_Parliament_series_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Budynek_Parlamentu_w_Londynie</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0285_4w</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Série_des_Parlements_de_Londres</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Houses_of_Parliament_series_(Monet)</field>
+<field name="sameAs">http://dbpedia.org/resource/Houses_of_Parliament_series_(Monet)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q468623</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/A_londoni_parlament_(Monet_festményei)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_Parlamento_di_Londra</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1900s_paintings</field>
+<field name="abstract">Claude Monet painted a series of paintings of the Palace of Westminster, home of the British Parliament, during his stays in London between the years 1900-1905. The paintings have all the same size and viewpoint, Monet's window at St Thomas' Hospital overlooking the Thames. They are however painted at different times of the day and at different weather circumstances. By now he had abandoned his earlier working practice of completing a painting on the spot in front of the motif. He carried on refining the images back in France, and sent to London for photographs to help in this. This caused some adverse reaction, but Monet's reply was that his means of creating a work was his own business, and it was up to the viewer to judge the final result.</field>
+<field name="label">Houses of Parliament series (Monet)</field>
+<field name="comment">Claude Monet painted a series of paintings of the Palace of Westminster, home of the British Parliament, during his stays in London between the years 1900-1905. The paintings have all the same size and viewpoint, Monet's window at St Thomas' Hospital overlooking the Thames. They are however painted at different times of the day and at different weather circumstances. By now he had abandoned his earlier working practice of completing a painting on the spot in front of the motif.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Houses_of_Parliament_series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/London,_the_Parliament,_Effects_of_Sun_in_the_Fog</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/London_Parliament_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/London_Parliament_(Monet_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Houses_of_Parliament_series_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Houses_of_Parliament_series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Série_des_Parlements_de_Londres</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Houses_of_Parliament_series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_Parlamento_di_Londra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Houses_of_Parliament_series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q468623</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Houses_of_Parliament_series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/A_londoni_parlament_(Monet_festményei)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Houses_of_Parliament_series_(Monet)</field>
+</doc>
+</add>

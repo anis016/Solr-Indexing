@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Down_on_His_Luck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Down_on_His_Luck</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04q3bpq</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Down_on_His_Luck</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5302978</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Frederick_McCubbin</field>
+<field name="abstract">Down on His Luck is an 1889 painting by Frederick McCubbin. It depicts a seemingly disheartened swagman, sitting by a campfire sadly brooding over his misfortune. According to an 1889 review, "The face tells of hardships, keen and blighting in their influence, but there is a nonchalant and slightly cynical expression, which proclaims the absence of all self-pity. " The background is a forest glade painted in subdued tones. The artist's model was Louis Abrahams, an unsuccessful gold prospector who was a friend of the artist. The scene was staged near the Box Hill artists' camp in Victoria, but it is thought that McCubbin would have made additional studies of Abrahams under studio conditions. The painting was owned by William Fergusson until 1896, when it was purchased by the Art Gallery of Western Australia in Perth.</field>
+<field name="label">Down on His Luck</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/91/Down_on_his_luck.jpg</field>
+<field name="comment">Down on His Luck is an 1889 painting by Frederick McCubbin. It depicts a seemingly disheartened swagman, sitting by a campfire sadly brooding over his misfortune. According to an 1889 review, "The face tells of hardships, keen and blighting in their influence, but there is a nonchalant and slightly cynical expression, which proclaims the absence of all self-pity. " The background is a forest glade painted in subdued tones.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Down_on_his_luck.jpg/200px-Down_on_his_luck.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Frederick_McCubbin</field>
+<field name="city">http://dbpedia.org/resource/Perth</field>
+<field name="height">114.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Art_Gallery_of_Western_Australia</field>
+<field name="title">Down on His Luck</field>
+<field name="width">152.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Down_on_His_Luck</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Down_on_His_Luck</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Down_on_his_luck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Down_on_His_Luck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Down_on_His_Luck</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5302978</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Down_on_His_Luck</field>
+</doc>
+</add>

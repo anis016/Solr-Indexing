@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Devnarayan_Ki_Phad</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5267626</field>
+<field name="sameAs">http://dbpedia.org/resource/Devnarayan_Ki_Phad</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Devnarayan_Ki_Phad</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cz959z</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Devnarayan</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Rajasthani_arts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gurjar</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Folk_deities_of_Rajasthan</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Indian_paintings</field>
+<field name="abstract">Devnarayan Ki Par or Devnarayan Ki Phad are cloth paintings which depict the legend of Devnarayan, a medieval hero venerated as a folk-deity. Traditionally, they are used to accompany a ritual in which the heroic deeds of Devnarayan are sung or recited by priests. Devnarayan is worshipped as an incarnation of the Hindu god Vishnu, mostly in Rajasthan and Madhya Pradesh. According to the legend, he was incarnated in Vikram Samvat in 968 as the son of Gurjar warrior Sawai Bhoj Bagaravat and his wife Saadu Maata Gurjari. Devnarayan Ki Par contains 335 songs in all. The entire narration, recorded in 1,200 foolscap pages, runs nearly 15,000 verse lines. A professional Bhopa must remember all these songs by heart.</field>
+<field name="label">Devnarayan Ki Phad</field>
+<field name="comment">Devnarayan Ki Par or Devnarayan Ki Phad are cloth paintings which depict the legend of Devnarayan, a medieval hero venerated as a folk-deity. Traditionally, they are used to accompany a ritual in which the heroic deeds of Devnarayan are sung or recited by priests. Devnarayan is worshipped as an incarnation of the Hindu god Vishnu, mostly in Rajasthan and Madhya Pradesh.</field>
+<field name="link_external">http://www.phadpaintings.com/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Devnarayan_Ki_Phad</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Devnarayan_Ki_Phad</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Devji_Ki_Par</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Devnarayan_Ki_Par</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Devnarayan_Ki_Phad</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Devnarayan_Ki_Phad</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5267626</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Devnarayan_Ki_Phad</field>
+</doc>
+</add>

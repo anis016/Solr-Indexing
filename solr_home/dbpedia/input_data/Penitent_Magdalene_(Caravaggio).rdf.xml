@@ -1,0 +1,96 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2732274</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Madeleine_repentante_(Le_Caravage)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/มารีย์ชาวมักดาลาสำนึกผิด_(การาวัจโจ)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Maria_Magdalena_pokutująca</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08_dz7</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Maddalena_penitente_(Caravaggio)</field>
+<field name="sameAs">http://dbpedia.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Magdalena_penitente_(Caravaggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Maddalena_penitente_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1590s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Doria_Pamphilj_Gallery</field>
+<field name="abstract">Penitent Magdalene (also called Repentant Madalene) is a 16th century oil on canvas painting by Italian Baroque painter Caravaggio. The painting portrays a repentant Mary Magdalene, bowed over in penitent sorrow as she leaves behind her dissolute life, its trappings abandoned beside her. At the time of its completion, ca. 1594-1595, the painting was unconventional for its contemporary realism and departure from traditional Magdalene iconography. It has invited both criticism and praise, with speculation even into the 21st century as to Caravaggio's intentions. The work hangs in the Doria Pamphilj Gallery in Rome.</field>
+<field name="label">Penitent Magdalene (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4c/Michelangelo_Caravaggio_063.jpg</field>
+<field name="comment">Penitent Magdalene (also called Repentant Madalene) is a 16th century oil on canvas painting by Italian Baroque painter Caravaggio. The painting portrays a repentant Mary Magdalene, bowed over in penitent sorrow as she leaves behind her dissolute life, its trappings abandoned beside her. At the time of its completion, ca. 1594-1595, the painting was unconventional for its contemporary realism and departure from traditional Magdalene iconography.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Michelangelo_Caravaggio_063.jpg/200px-Michelangelo_Caravaggio_063.jpg</field>
+<field name="link_external">http://www.guardian.co.uk/books/2000/feb/09/1</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">122.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Penitent Magdalene</field>
+<field name="type">Oil on canvas</field>
+<field name="width">98.5</field>
+<field name="year">c. 1594-1595</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Penitent_Magdalene_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Penitent_Magdalene_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Madeleine_repentante_(Le_Caravage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Penitent_Magdalene_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Madeleine_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Penitent_Magdalene</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Magdalena_penitente_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Maddalena_penitente_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Maria_Magdalena_pokutująca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2732274</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Maddalena_penitente_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/มารีย์ชาวมักดาลาสำนึกผิด_(การาวัจโจ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Penitent_Magdalene_(Caravaggio)</field>
+</doc>
+</add>

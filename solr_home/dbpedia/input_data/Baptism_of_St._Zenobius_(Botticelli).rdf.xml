@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Baptism_of_St._Zenobius_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Baptism_of_St._Zenobius_(Botticelli)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08pckc</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Battesimo_ed_elezione_a_vescovo_di_san_Zanobi</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Baptism_of_St._Zenobius_(Botticelli)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3636752</field>
+<field name="sameAs">http://th.dbpedia.org/resource/นักบุญเซโนเบียสรับศีลล้างบาป_(บอตตีเชลลี)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Sandro_Botticelli</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_paintings_in_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="abstract">Baptism of St. Zenobius and His Appointment as a Bishop is a painting by the Italian Renaissance master Sandro Botticelli, c. 1500-1505. The Histories of St. Zenobius are the last known work of Botticelli. The other three paintings are: Three Miracles of St. Zenobius, also in the National Gallery, London Three Miracles of St. Zenobius, Metropolitan Museum of Art, New York Last Miracle and the Death of St. Zenobius Gemäldegalerie,</field>
+<field name="label">Baptism of St. Zenobius (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/San_Zenobius_London.jpg</field>
+<field name="comment">Baptism of St. Zenobius and His Appointment as a Bishop is a painting by the Italian Renaissance master Sandro Botticelli, c. 1500-1505. The Histories of St. Zenobius are the last known work of Botticelli. The other three paintings are: Three Miracles of St. Zenobius, also in the National Gallery, London Three Miracles of St. Zenobius, Metropolitan Museum of Art, New York Last Miracle and the Death of St. Zenobius Gemäldegalerie,</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/San_Zenobius_London.jpg/200px-San_Zenobius_London.jpg</field>
+<field name="artist"/>
+<field name="height">665</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Baptism of St. Zenobius and His Appointment as a Bishop</field>
+<field name="type">Tempera on panel</field>
+<field name="width">1495</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Baptism_of_St._Zenobius_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Baptism_of_St._Zenobius_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Battesimo_ed_elezione_a_vescovo_di_san_Zanobi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Baptism_of_St._Zenobius_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Baptism_of_St._Zenobius_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Baptism_of_St._Zenobius_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Baptism_of_St._Zenobius_and_His_Appointment_as_Bishop_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3636752</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Baptism_of_St._Zenobius_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/นักบุญเซโนเบียสรับศีลล้างบาป_(บอตตีเชลลี)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Baptism_of_St._Zenobius_(Botticelli)</field>
+</doc>
+</add>

@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Marriage_of_St._Catherine_(Filippino_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Marriage_of_St._Catherine_(Filippino_Lippi)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Matrimonio_mistico_di_santa_Caterina_d'Alessandria_(Filippino_Lippi)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vld5h</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Marriage_of_St._Catherine_(Filippino_Lippi)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3851964</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1503_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippino_Lippi</field>
+<field name="abstract">Mystical Marriage of St. Catherine is a painting by the Italian Renaissance painter Filippino Lippi, dated 1503. It is housed in the Isolani Chapel of the Basilica di San Domenico, a church of the Dominican Order in Bologna. The painting pivots around the scene of the mystical marriage of St. Catherine of Alexandria, while around her a sacra conversazione is held. Their participants are, on the right, St. Paul and St. Sebastian and, on the left, St. Peter and St. John the Baptist. The scene setting is rather conventional, though Lippi's usual taste for bizarre decorations can be seen in details such as the harpy sculpted on a corner of Virgin's throne or the fragment of the wheel on which St. Catherine would have been tortured. Also the architecture in the background is rather classical.</field>
+<field name="label">Marriage of St. Catherine (Filippino Lippi)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/eb/Nozze_Caterina_San_Domenico.jpg</field>
+<field name="comment">Mystical Marriage of St. Catherine is a painting by the Italian Renaissance painter Filippino Lippi, dated 1503. It is housed in the Isolani Chapel of the Basilica di San Domenico, a church of the Dominican Order in Bologna. The painting pivots around the scene of the mystical marriage of St. Catherine of Alexandria, while around her a sacra conversazione is held. Their participants are, on the right, St. Paul and St. Sebastian and, on the left, St. Peter and St. John the Baptist.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Nozze_Caterina_San_Domenico.jpg/200px-Nozze_Caterina_San_Domenico.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=1432</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">202</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Mystical Marriage of St. Catherine</field>
+<field name="type">Oil on panel</field>
+<field name="width">172</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Marriage_of_St._Catherine_(Filippino_Lippi)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Marriage_of_St._Catherine_(Filippino_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Matrimonio_mistico_di_santa_Caterina_d'Alessandria_(Filippino_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Marriage_of_St._Catherine_(Filippino_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Mystic_Wedding_of_St._Catherine_(Filippino_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Marriage_of_St._Catherine_(Filippino_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Marriage_of_St._Catherine_(Filippino_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3851964</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Marriage_of_St._Catherine_(Filippino_Lippi)</field>
+</doc>
+</add>

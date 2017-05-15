@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cosimo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Cosimo_I_de'_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Портрет_на_Козимо_Медичи</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Cosimo_I_de'_Medici</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rvm7s</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3625842</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Cosimo_I_de'_Medici</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภาพเหมือนของโคสิโม_เดอ_เมดิชิ</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1545_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Bronzino_paintings_in_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Bronzino_portraits</field>
+<field name="abstract">The Portrait of Cosimo I de' Medici is a painting by the Italian artist Agnolo di Cosimo, known as Bronzino, finished in 1545. It is housed in the Uffizi Gallery of Florence, Italy. In his positions of court painter of the Medici, Bronzino was author of several portraits of Grand Duke Cosimo I de' Medici. In this one Cosimo is represented in his young years and, in the words of Giorgio Vasari, "clad with white armor and a hand over the helmet". The portrait has been identified as the one executed in the Villa of Poggio a Caiano in 1545 and mentioned in some letters. The portrait is devised to show the dominant and proud temperament of the Grand Duke, with a side light shining on his face and on the metallic armor.</field>
+<field name="label">Portrait of Cosimo I de' Medici</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f9/Angelo_Bronzino_036.jpg</field>
+<field name="comment">The Portrait of Cosimo I de' Medici is a painting by the Italian artist Agnolo di Cosimo, known as Bronzino, finished in 1545. It is housed in the Uffizi Gallery of Florence, Italy. In his positions of court painter of the Medici, Bronzino was author of several portraits of Grand Duke Cosimo I de' Medici. In this one Cosimo is represented in his young years and, in the words of Giorgio Vasari, "clad with white armor and a hand over the helmet".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Angelo_Bronzino_036.jpg/200px-Angelo_Bronzino_036.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=1504</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">74</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Cosimo de' Medici</field>
+<field name="type">Tempera on panel</field>
+<field name="width">58</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Cosimo_I_de'_Medici</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Cosimo_I_de'_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Cosimo_I_de'_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Cosimo_I_de'_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3625842</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Cosimo_I_de'_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Портрет_на_Козимо_Медичи</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Cosimo_I_de'_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภาพเหมือนของโคสิโม_เดอ_เมดิชิ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Cosimo_I_de'_Medici</field>
+</doc>
+</add>

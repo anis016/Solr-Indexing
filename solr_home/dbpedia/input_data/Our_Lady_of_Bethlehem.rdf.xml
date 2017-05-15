@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Our_Lady_of_Bethlehem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Our_Lady_of_Bethlehem</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7110768</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Madonna_van_Bethlehem</field>
+<field name="sameAs">http://dbpedia.org/resource/Our_Lady_of_Bethlehem</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.056m620</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_de_Belén_(Puerto_Rico)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gothic_paintings</field>
+<field name="abstract">Our Lady of Bethlehem is a Flemish-style oil painting from Puerto Rico. Specialists in 15th-century art attribute the painting to the school of the Brussels painter Rogier van der Weyden, or an anonymous disciple of the school.</field>
+<field name="label">Our Lady of Bethlehem</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/35/VirgendeBelén(Wikipedia).jpg</field>
+<field name="comment">Our Lady of Bethlehem is a Flemish-style oil painting from Puerto Rico. Specialists in 15th-century art attribute the painting to the school of the Brussels painter Rogier van der Weyden, or an anonymous disciple of the school.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/35/VirgendeBelén(Wikipedia).jpg/200px-VirgendeBelén(Wikipedia).jpg</field>
+<field name="link_external">http://www.virgendebelenpr.net/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Our_Lady_of_Bethlehem</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Our_Lady_of_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Roman_Catholic_Diocese_of_Monterey_in_California</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Virgen_de_Bel%C3%A9n</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Our_Lady_of_Bethlehem_of_Puerto_Rico</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Virgin_of_Bethlehem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Our_Lady_of_Bethlehem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Our_Lady_of_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_de_Belén_(Puerto_Rico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Our_Lady_of_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Madonna_van_Bethlehem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Our_Lady_of_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7110768</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Our_Lady_of_Bethlehem</field>
+</doc>
+</add>

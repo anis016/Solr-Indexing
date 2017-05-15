@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Feast_of_the_Gods</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Feast_of_the_Gods</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Feast_of_the_Gods</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_of_the_Gods</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rx6t9</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Feast_of_the_Gods</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Bellini</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1514_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_commissioned_for_the_camerini_d'alabastro</field>
+<field name="abstract">The Feast of the Gods is an oil painting by the Italian Renaissance master Giovanni Bellini, with substantial additions by Titian, who added all the landscape to the left and centre. It is one of a cycle of paintings on mythological subjects produced for Alfonso I d'Este, the Duke of Ferrara, for his camerino d'alabastro ('chamber of alabaster') in the Castello Estense, Ferrara. It is one of the few mythological pictures by the Venetian artist, who completed it in 1514. After his death soon afterwards (1516), Titian probably modified the landscape on the left to match it to his The Bacchanal of the Andrians (1518–1523), also in Alfonso's camerino. A more thorough reworking in about 1529 added more landscape, adding the mountain behind the figures. It is now in the National Gallery of Art. The scene depicted conflates two episodes in Ovid's Fasti. Priapus, on the right, is attempting to seduce the sleeping nymph Lotis, but is prevented from success by the bray of Silenus' donkey. Around are the drunken Gods: Jupiter has an eagle next to him, Poseidon is caressing Cybele and Ceres, while Hermes is languidly lying on a barrel. The boy with vine-leaves on his head is an unusually young depiction of Bacchus. It is thought that Bellini initially painted the figures as mortals, following a misleading translation of Ovid (the so-called Ovidio volgarizzato), and had to re-paint them with the attributes of the Olympian gods. The painting was bought from the Duke of Northumberland by the American magnate Peter A. B. Widener in 1925, and later entered the National Gallery of Art in Washington, D.C. with the rest of his collection.</field>
+<field name="label">The Feast of the Gods</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0b/Feastofthegods.jpg</field>
+<field name="comment">The Feast of the Gods is an oil painting by the Italian Renaissance master Giovanni Bellini, with substantial additions by Titian, who added all the landscape to the left and centre. It is one of a cycle of paintings on mythological subjects produced for Alfonso I d'Este, the Duke of Ferrara, for his camerino d'alabastro ('chamber of alabaster') in the Castello Estense, Ferrara. It is one of the few mythological pictures by the Venetian artist, who completed it in 1514.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Feastofthegods.jpg/200px-Feastofthegods.jpg</field>
+<field name="link_external">http://www.nga.gov/collection/gallery/gg17/gg17-1138.html</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=938</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">170</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">The Feast of the Gods</field>
+<field name="width">188</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Feast_of_the_Gods</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Feast_of_the_Gods</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Feast_of_Gods</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Feast_of_the_Gods_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Feast_of_the_Gods_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Feast_of_the_Gods_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

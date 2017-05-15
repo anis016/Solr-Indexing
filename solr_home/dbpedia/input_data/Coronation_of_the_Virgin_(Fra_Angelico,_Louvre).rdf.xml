@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Incoronazione_della_Vergine_(Angelico_Louvre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Koronacja_Maryi_(obraz_Fra_Angelica)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Koronacja_Maryi_(obraz_Fra_Angelica)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1215717</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fq0mzh</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Coroação_da_Virgem_(Fra_Angelico,_Louvre)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Incoronazione_della_Vergine_(Angelico_Louvre)</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Coronatio_Virginis_(Angelicus,_Museum_Lupariense)</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Fra_Angelico</field>
+<field name="abstract">The Coronation of the Virgin is a painting of the Coronation of the Virgin by the Italian early Renaissance master Fra Angelico, executed around 1434-1435. It is now in the Musée du Louvre of Paris, France. The artist executed another Coronation of the Virgin (c. 1432), now in the Uffizi in Florence.</field>
+<field name="label">Coronation of the Virgin (Fra Angelico, Louvre)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a3/Fra_Angelico_078.jpg</field>
+<field name="comment">The Coronation of the Virgin is a painting of the Coronation of the Virgin by the Italian early Renaissance master Fra Angelico, executed around 1434-1435. It is now in the Musée du Louvre of Paris, France. The artist executed another Coronation of the Virgin (c. 1432), now in the Uffizi in Florence.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Fra_Angelico_078.jpg/200px-Fra_Angelico_078.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Fra_Angelico</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">213</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Coronation of the Virgin</field>
+<field name="width">211</field>
+<field name="year">c. 1434-1345</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Angelico,_Louvre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Paris)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Coroação_da_Virgem_(Fra_Angelico,_Louvre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1215717</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Coronatio_Virginis_(Angelicus,_Museum_Lupariense)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Louvre)</field>
+</doc>
+</add>

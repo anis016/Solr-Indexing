@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blossoming_Chestnut_Branches</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Blossoming_Chestnut_Branches</field>
+<field name="sameAs">http://dbpedia.org/resource/Blossoming_Chestnut_Branches</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g9vvbk</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4928450</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Blossoming Chestnut Branches was painted by Vincent Van Gogh during the artist's Auvers-sur-Oise period in May 1890, the final year of his life. The painting was one of four missing after a high-profile theft from the Foundation E.G. Bührle gallery in Zürich on February 10, 2008. The work was found nine days later in a parked automobile in Zürich, along with one of the other stolen paintings, and was returned undamaged to the gallery.</field>
+<field name="label">Blossoming Chestnut Branches</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8e/Blossoming_Chestnut_Branches.jpg</field>
+<field name="comment">Blossoming Chestnut Branches was painted by Vincent Van Gogh during the artist's Auvers-sur-Oise period in May 1890, the final year of his life. The painting was one of four missing after a high-profile theft from the Foundation E.G. Bührle gallery in Zürich on February 10, 2008. The work was found nine days later in a parked automobile in Zürich, along with one of the other stolen paintings, and was returned undamaged to the gallery.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Blossoming_Chestnut_Branches.jpg/200px-Blossoming_Chestnut_Branches.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Blossoming_Chestnut_Branches</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Blossoming_Chestnut_Branches</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Blossoming_Chestnut_Branches</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Blossoming_Chestnut_Branches</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4928450</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Blossoming_Chestnut_Branches</field>
+</doc>
+</add>

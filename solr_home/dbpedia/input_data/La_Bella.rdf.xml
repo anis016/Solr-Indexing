@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_kobiety_(La_Bella)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Bella</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Bella</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3x2yl</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Bella</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_bella_(Tiziano)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_Bella</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3784247</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_kobiety_(La_Bella)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_Bella</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1536_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Titian_portraits</field>
+<field name="abstract">La Bella is a portrait of an unknown woman by Titian, painted around 1536 and now in the Palazzo Pitti in Florence. The work of a mature artist, it shows the woman with Renaissance ideal proportions and a natural expressive force The composition is clear. During 2011 La Bella toured the United States, featured at the Kimbell Art Museum in Fort Worth, Texas, the Nevada Museum of Art in Reno, and the Portland Art Museum.</field>
+<field name="label">La Bella</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/ba/Tizian_034.jpg</field>
+<field name="comment">La Bella is a portrait of an unknown woman by Titian, painted around 1536 and now in the Palazzo Pitti in Florence. The work of a mature artist, it shows the woman with Renaissance ideal proportions and a natural expressive force The composition is clear. During 2011 La Bella toured the United States, featured at the Kimbell Art Museum in Fort Worth, Texas, the Nevada Museum of Art in Reno, and the Portland Art Museum.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Tizian_034.jpg/200px-Tizian_034.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Pitti</field>
+<field name="title">La Bella</field>
+<field name="type">oil on canvas</field>
+<field name="year">c. 1536</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_Bella</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_Bella</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_bella_(Tiziano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Bella</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_Bella</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_Bella</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_Bella</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Bella</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3784247</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Bella</field>
+</doc>
+</add>

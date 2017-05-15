@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Entombment_(Bouts)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7732307</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx27m9</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Entombment_(Bouts)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Bouts)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Entombment_of_Christ</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dirk_Bouts</field>
+<field name="abstract">The Entombment is a glue-size painting on linen attributed to the Early Netherlandish painter Dirk Bouts. It shows a scene from the biblical entombment of Christ, and was probably completed between 1440 and 1455 as a wing panel for a large hinged polyptych altarpiece. The now-lost altarpiece is thought to have contained a central crucifixion scene flanked by four wing panel works half its height – two on either side – depicting scenes from the life of Christ. The smaller panels would have been paired in a format similar to Bouts' 1464–67 Altar of the Holy Sacrament. The larger work was probably commissioned for export to Italy, possibly to a Venetian patron whose identity is lost. The Entombment was first recorded in a mid-19th century Milan inventory and has been in the National Gallery, London since its purchase on the gallery's behalf by Charles Eastlake in 1861. The sentiment of The Entombment consists of an austere but affecting portrayal of sorrow and grief. It shows four female and three male mourners grieving over the body of Christ. They are, from left to right, Nicodemus, Mary Salome, Mary of Clopas, Mary, the mother of Jesus, John the Evangelist, Mary Magdalene and Joseph of Arimathea. The attendants' faces display a range of emotions, though each figure's expression is unique. All are described with restraint in muted colours, mainly whites, greens and blues. It is one of the few surviving 15th-century paintings created using glue-size, an extremely fragile medium lacking durability. The Entombment is in relatively poor condition compared to panel paintings of similar age. Its colours are now far darker than when it was painted; they would originally have appeared as pale and dry. The painting is covered by accumulated layers of grey dirt and cannot be cleaned without damaging the surface and removing large amounts of pigment as its glue-size medium is water-soluble.</field>
+<field name="label">The Entombment (Bouts)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3e/Dieric_Bouts_-_The_Entombment_-_WGA02961.jpg</field>
+<field name="comment">The Entombment is a glue-size painting on linen attributed to the Early Netherlandish painter Dirk Bouts. It shows a scene from the biblical entombment of Christ, and was probably completed between 1440 and 1455 as a wing panel for a large hinged polyptych altarpiece. The now-lost altarpiece is thought to have contained a central crucifixion scene flanked by four wing panel works half its height – two on either side – depicting scenes from the life of Christ.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Dieric_Bouts_-_The_Entombment_-_WGA02961.jpg/200px-Dieric_Bouts_-_The_Entombment_-_WGA02961.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Entombment_(Bouts)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Entombment_(Bouts)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Entombment_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Entombment_(Bouts)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Entombment_(Bouts)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7732307</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Bouts)</field>
+</doc>
+</add>

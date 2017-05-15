@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Francis_in_Prayer_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_Francis_in_Prayer_(Caravaggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Francesco_in_meditazione_(Caravaggio_Roma)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2275353</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_François_en_méditation</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Prayer_(Caravaggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Francisco_en_oración_(Caravaggio,_Roma)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09ddqy</field>
+<field name="sameAs">http://th.dbpedia.org/resource/นักบุญฟรังซิสอธิษฐาน_(การาวัจโจ)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Galleria_Nazionale_d'Arte_Antica</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="abstract">Saint Francis in Prayer (c. 1602-1604) is a painting from the Italian master Caravaggio, in the Galleria Nazionale d'Arte Antica in Rome. The painting is unrecorded and therefore difficult to date, or even to distinguish the original from later copies. John Gash (see references, below) identifies a version in the Chiesa dei Cappuccini as a good copy of a lost original identified by some scholars with a painting in the Church of San Pietro, Carpineto Romano. Helen Langdon, treating the same painting in her biography Caravaggio, refers to the version in Galleria Nazionale d'Arte Antica, in the Palazzo Barberini. St Francis's life of poverty and humility was a popular subject in Caravaggio's age. Peter Robb makes the point that St Francis of Assisi, together with John the Baptist and St Jerome, "... make up the trio of alienated males, young, mature and old, brooding and remote from human society, that M (i.e. Caravaggio) painted again and again", becoming, in effect, private icons for Caravaggio’s own troubled life. In the course of a libel trial in 1603 Caravaggio’s friend Orazio Gentileschi stated that he had lent the artist a monk's robe several months before, and this painting could be connected. Gentileschi’s evidence seems to be the main argument behind a 1602/1604 date; but Robb, on the grounds of the austere approach and less painterly technique of the work, believes that it may date from 1606, when Caravaggio had fled Rome as an outlaw following a death in a street brawl.</field>
+<field name="label">Saint Francis in Prayer (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/ca/CaravaggioFrancisPrayer.jpg</field>
+<field name="comment">Saint Francis in Prayer (c. 1602-1604) is a painting from the Italian master Caravaggio, in the Galleria Nazionale d'Arte Antica in Rome. The painting is unrecorded and therefore difficult to date, or even to distinguish the original from later copies. John Gash (see references, below) identifies a version in the Chiesa dei Cappuccini as a good copy of a lost original identified by some scholars with a painting in the Church of San Pietro, Carpineto Romano.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/CaravaggioFrancisPrayer.jpg/200px-CaravaggioFrancisPrayer.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">130</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Saint Francis in Prayer</field>
+<field name="type">Oil on canvas</field>
+<field name="width">98</field>
+<field name="year">c. 1606</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_Francis_in_Prayer_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_Francis_in_Prayer_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Francesco_in_meditazione_(Caravaggio_Roma)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Prayer_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_François_en_méditation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Prayer_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_Francis_in_Prayer_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_Francis_in_Prayer_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Francisco_en_oración_(Caravaggio,_Roma)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Prayer_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2275353</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Prayer_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/นักบุญฟรังซิสอธิษฐาน_(การาวัจโจ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Prayer_(Caravaggio)</field>
+</doc>
+</add>

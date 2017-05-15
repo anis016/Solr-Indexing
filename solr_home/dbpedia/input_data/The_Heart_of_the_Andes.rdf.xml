@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Heart_of_the_Andes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Heart_of_the_Andes</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Сердце_Анд</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Heart_of_the_Andes</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Heart_of_the_Andes</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cyt1h</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/The_Heart_of_the_Andes</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q334604</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1859_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Frederic_Edwin_Church</field>
+<field name="abstract">The Heart of the Andes is a large oil-on-canvas landscape painting by the American artist Frederic Edwin Church (1826–1900). More than five feet (1.7 metres) high and almost ten feet (3 metres) wide, it depicts an idealized landscape in the South American Andes, where Church traveled on two occasions. Its exhibition in 1859 was a sensation, and the painting established Church as the foremost landscape painter in the United States. It has been in the collection of New York's Metropolitan Museum of Art since 1909, and is among Church's most renowned works.</field>
+<field name="label">The Heart of the Andes</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/78/Church_Heart_of_the_Andes.jpg</field>
+<field name="comment">The Heart of the Andes is a large oil-on-canvas landscape painting by the American artist Frederic Edwin Church (1826–1900). More than five feet (1.7 metres) high and almost ten feet (3 metres) wide, it depicts an idealized landscape in the South American Andes, where Church traveled on two occasions. Its exhibition in 1859 was a sensation, and the painting established Church as the foremost landscape painter in the United States.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Church_Heart_of_the_Andes.jpg/200px-Church_Heart_of_the_Andes.jpg</field>
+<field name="link_external">http://www.metmuseum.org/works_of_art/collection_database/all/heart_of_the_andes_frederic_edwin_church/objectview.aspx?page=1&amp;sort=0&amp;sortdir=asc&amp;keyword=frederic%20church&amp;fp=1&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=20010828&amp;vT=1&amp;hi=0&amp;ov=0</field>
+<field name="artist">http://dbpedia.org/resource/Frederic_Edwin_Church</field>
+<field name="height">167.9</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">The Heart of the Andes</field>
+<field name="width">302.9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Heart_of_the_Andes</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Heart_of_the_Andes</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Heart_of_the_Andes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/The_Heart_of_the_Andes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Heart_of_the_Andes</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Heart_of_the_Andes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Heart_of_the_Andes</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Сердце_Анд</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Heart_of_the_Andes</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q334604</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Heart_of_the_Andes</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Heart_of_the_Andes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Heart_of_the_Andes</field>
+</doc>
+</add>

@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Atelier_Rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/المرسم_الأحمر</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q9wb4</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Atelier_Rouge</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6455615</field>
+<field name="sameAs">http://yago-knowledge.org/resource/L'Atelier_Rouge</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1911_paintings</field>
+<field name="abstract">L'Atelier Rouge, also known as The Red Studio, is a painting by Henri Matisse from 1911, in the collection of The Museum of Modern Art New York City. In 2004 it came in at No.5 of a poll of 500 art experts voting for the most influential modern art work of all time, along with works by Pablo Picasso, Marcel Duchamp and Andy Warhol.</field>
+<field name="label">L'Atelier Rouge</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cc/Atelier_rouge_matisse_1.jpg</field>
+<field name="comment">L'Atelier Rouge, also known as The Red Studio, is a painting by Henri Matisse from 1911, in the collection of The Museum of Modern Art New York City. In 2004 it came in at No.5 of a poll of 500 art experts voting for the most influential modern art work of all time, along with works by Pablo Picasso, Marcel Duchamp and Andy Warhol.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Atelier_rouge_matisse_1.jpg/200px-Atelier_rouge_matisse_1.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/L'Atelier_Rouge</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/L'Atelier_Rouge</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/L'Atelier_Rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/L'Atelier_Rouge</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Red_Studio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6455615</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Atelier_Rouge</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/المرسم_الأحمر</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Atelier_Rouge</field>
+</doc>
+</add>

@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Trophy,_Hypertrophied</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7845711</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Trophy,_Hypertrophied</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dfx0s</field>
+<field name="sameAs">http://dbpedia.org/resource/Trophy,_Hypertrophied</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Max_Ernst</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Prints_(art)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1919_paintings</field>
+<field name="abstract">Trophy, Hypertrophied (1919) is a work of art by the German dadaist/surrealist Max Ernst. This is one of Ernst’s earliest known works. It was created through a photomechanical process called line-block printing, rarely used in printmaking, to which drawing was added. It depicts a complex mechanical apparatus with celestial shapes as gears. Ernst created a similar piece the same year titled Farewell My Beautiful Land of Mary Laurencen. Help! Help!</field>
+<field name="label">Trophy, Hypertrophied</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/02/Trophy_Hypertrophied.jpg</field>
+<field name="comment">Trophy, Hypertrophied (1919) is a work of art by the German dadaist/surrealist Max Ernst. This is one of Ernst’s earliest known works. It was created through a photomechanical process called line-block printing, rarely used in printmaking, to which drawing was added. It depicts a complex mechanical apparatus with celestial shapes as gears. Ernst created a similar piece the same year titled Farewell My Beautiful Land of Mary Laurencen. Help! Help!</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Trophy_Hypertrophied.jpg/200px-Trophy_Hypertrophied.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Max_Ernst</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">41.9</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Trophy Hypertrophied</field>
+<field name="type">Line-block with Pen and ink on paper</field>
+<field name="width">28</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Trophy,_Hypertrophied</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Trophy,_Hypertrophied</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Trophy,_Hypertrophied</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Trophy,_Hypertrophied</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7845711</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Trophy,_Hypertrophied</field>
+</doc>
+</add>

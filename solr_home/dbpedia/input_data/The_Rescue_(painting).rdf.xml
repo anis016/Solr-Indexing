@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Rescue_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1175910</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Rescue_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Rescue_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qblb6</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Menekülés_(festmény)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_National_Gallery_of_Victoria</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1855_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Firefighting</field>
+<field name="abstract">The Rescue (1855) is a painting by John Everett Millais depicting a fireman rescuing three children from a house fire, with their mother receiving them back into her arms. Millais witnessed the death of a fireman in the course of a rescue, and decided to depict the subject. The fire brigade had only recently been transformed from private businesses dedicated to the protection of property to a public institution charged to protect life first. Millais sought to create the correct effects of light and smoke by using a sheet of coloured glass and by burning planks of wood. This emphasis on fleeting effects of colour and light was a new departure in his art. The painting is also notable for its startling transitions of colour, particularly the dramatic effect by which the sleeve of the mother's nightgown changes from slatey blue to pale pink. This led to much critical comment at the time. Robyn Cooper argues that some criticism of the painting arose from the fact that it depicted a virile working class man rescuing middle class children, while their father is nowhere to be seen. The mother's opened arms seem to greet this strong new man as much as her children.</field>
+<field name="label">The Rescue (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/42/Millais_Rescue.jpg</field>
+<field name="comment">The Rescue (1855) is a painting by John Everett Millais depicting a fireman rescuing three children from a house fire, with their mother receiving them back into her arms. Millais witnessed the death of a fireman in the course of a rescue, and decided to depict the subject. The fire brigade had only recently been transformed from private businesses dedicated to the protection of property to a public institution charged to protect life first.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Millais_Rescue.jpg/200px-Millais_Rescue.jpg</field>
+<field name="link_external">http://www.ngv.vic.gov.au/european/em_bt_rescue.html</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="city">http://dbpedia.org/resource/Melbourne</field>
+<field name="height">121.5</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Victoria</field>
+<field name="title">The Rescue</field>
+<field name="width">83.6</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Rescue_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Rescue_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Rescue_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Rescue_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Rescue</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Menekülés_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Rescue_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1175910</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Rescue_(painting)</field>
+</doc>
+</add>

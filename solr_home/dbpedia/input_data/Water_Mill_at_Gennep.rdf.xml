@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Młyn_wodny_w_Gennep</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Mill_at_Gennep</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Water_Mill_at_Gennep</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Młyn_wodny_w_Gennep</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtw41l</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Water_Mill_at_Gennep</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7973327</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Mill_at_Gennep</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1884_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Water Mill at Gennep is the subject and title of three oil paintings created in 1884 by Vincent van Gogh. Van Gogh painted Water Mill at Gennep (F125) in November, 1884. He wrote to his brother, Theo: "Yesterday I brought home that study of the water mill at Gennep, which I painted with pleasure, and which has procured me a new friend in Eindhoven [Anton Kerssemakers], who passionately wants to learn to paint, and to whom I paid a visit, after which we set to work at once. " 		 			F46-Raderen-Genneper-watermolen. jpg 			 Water Mill at Gennep, 1884, Noordbrabants Museum, 's-Hertogenbosch, Netherlands - on loan from the Netherlands Office for Fine Arts (F46) 			 		 		 			F47-Watermolen-te-Gennep. jpg 			 Water Mill at Gennep, 1884, private collection (F47) - black and white reproduction 			 		 		 			Vincent van Gogh - Watermolen in Gennep. jpg 			 Water Mill at Gennep, 1884, Museo Thyssen-Bornemisza, Madrid, Spain (F125) 			 		 Van Gogh also made a watercolor of the Water Mill at Gennep (F1144a) in mid-November, 1884.</field>
+<field name="label">Water Mill at Gennep</field>
+<field name="comment">Water Mill at Gennep is the subject and title of three oil paintings created in 1884 by Vincent van Gogh. Van Gogh painted Water Mill at Gennep (F125) in November, 1884. He wrote to his brother, Theo: "Yesterday I brought home that study of the water mill at Gennep, which I painted with pleasure, and which has procured me a new friend in Eindhoven [Anton Kerssemakers], who passionately wants to learn to paint, and to whom I paid a visit, after which we set to work at once.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Water_Mill_at_Gennep</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Water_Mill_at_Gennep</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Water_Mill_at_Gennep</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Water_Mill_at_Gennep</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7973327</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Mill_at_Gennep</field>
+</doc>
+</add>

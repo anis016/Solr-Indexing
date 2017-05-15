@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Drawbridge_in_Nieuw-Amsterdam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtw6j7</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5306023</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Drawbridge_in_Nieuw-Amsterdam</field>
+<field name="sameAs">http://dbpedia.org/resource/Drawbridge_in_Nieuw-Amsterdam</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«Ophaalbrug_in_Nieuw-Amsterdam»</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Drawbridge in Nieuw-Amsterdam is a watercolor created in November, 1883 by Vincent van Gogh in Drente, The Netherlands.</field>
+<field name="label">Drawbridge in Nieuw-Amsterdam</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/01/Vincent_van_Gogh_Ophaalbrug_in_Nieuw-Amsterdam.jpg</field>
+<field name="comment">Drawbridge in Nieuw-Amsterdam is a watercolor created in November, 1883 by Vincent van Gogh in Drente, The Netherlands.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Vincent_van_Gogh_Ophaalbrug_in_Nieuw-Amsterdam.jpg/200px-Vincent_van_Gogh_Ophaalbrug_in_Nieuw-Amsterdam.jpg</field>
+<field name="link_external">http://books.google.com/books?id=HABQAAAAMAAJ</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Groninger_Museum</field>
+<field name="title">Drawbridge in Nieuw Amsterdam</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Drawbridge_in_Nieuw-Amsterdam</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Drawbridge_in_Nieuw-Amsterdam</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Drawbridge_in_Nieuw_New_Amsterdam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Drawbridge_in_Nieuw-Amsterdam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Drawbridge_in_Nieuw-Amsterdam</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Drawbridge_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5306023</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Drawbridge_in_Nieuw-Amsterdam</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«Ophaalbrug_in_Nieuw-Amsterdam»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Drawbridge_in_Nieuw-Amsterdam</field>
+</doc>
+</add>

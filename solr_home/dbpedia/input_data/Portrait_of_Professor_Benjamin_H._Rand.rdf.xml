@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Professor_Benjamin_H._Rand</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Portrait_of_Professor_Benjamin_H._Rand</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Professor_Benjamin_H._Rand</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2855146</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Professor_Benjamin_H._Rand</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qk0ls</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1874_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_of_Philadelphia,_Pennsylvania</field>
+<field name="abstract">Portrait of Professor Benjamin H. Rand is an 1874 painting by Thomas Eakins. It is oil on canvas and depicts Benjamin H. Rand, a doctor at Jefferson Medical College who taught Eakins anatomy. In the painting, Rand is reading a book while petting a cat. The portrait was the first Eakins made of someone outside his family. It is a prelude to what his considered his most important painting, The Gross Clinic (1875). Rand donated it to Jefferson Medical College when he retired, and it has been housed there since. In April 2007, it was purchased by Alice L. Walton for an estimated US$20 million and will be housed at the Crystal Bridges Museum of American Art.</field>
+<field name="label">Portrait of Professor Benjamin H. Rand</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/84/Benjamin_rand.jpg</field>
+<field name="comment">Portrait of Professor Benjamin H. Rand is an 1874 painting by Thomas Eakins. It is oil on canvas and depicts Benjamin H. Rand, a doctor at Jefferson Medical College who taught Eakins anatomy. In the painting, Rand is reading a book while petting a cat. The portrait was the first Eakins made of someone outside his family. It is a prelude to what his considered his most important painting, The Gross Clinic (1875).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Benjamin_rand.jpg/200px-Benjamin_rand.jpg</field>
+<field name="link_external">http://www.jefferson.edu/eakins/rand.cfm</field>
+<field name="artist"/>
+<field name="height">152</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Professor Benjamin H. Rand</field>
+<field name="type">oil on canvas</field>
+<field name="width">123</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Professor_Benjamin_H._Rand</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Professor_Benjamin_H._Rand</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Professor_Benjamin_H._Rand</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Professor_Benjamin_H._Rand</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2855146</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Professor_Benjamin_H._Rand</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Portrait_of_Professor_Benjamin_H._Rand</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Professor_Benjamin_H._Rand</field>
+</doc>
+</add>

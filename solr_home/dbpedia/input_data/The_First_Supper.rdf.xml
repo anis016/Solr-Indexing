@@ -1,0 +1,31 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_First_Supper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7734199</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Supper</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bhbhs3</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_First_Supper</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1988_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="abstract">The First Supper (1988) is a controversial work of art by Susan Dorothea White, based on Leonardo da Vinci's painting The Last Supper. White's painting is acrylic on a large wood panel (1.2 x 2.4 m) and, in a challenge to the patriarchal concept of thirteen men on one side of a table, shows 13 women from all regions of the world; the woman in the position of Leonardo's Christ figure is an Australian aboriginal wearing a T-shirt with the Australian Aboriginal Flag. The painting toured Australia in the Blake Prize for Religious Art exhibition in 1988, where it was ridiculed, before being exhibited in the artist's solo exhibition in Amsterdam, where it featured in the Dutch art journal Kunstbeeld: "The work shows clearly Susan White's thinking about human rights. It should be mentioned here that she sometimes places her many faceted talent at the service of the struggle for human rights".</field>
+<field name="label">The First Supper</field>
+<field name="comment">The First Supper (1988) is a controversial work of art by Susan Dorothea White, based on Leonardo da Vinci's painting The Last Supper. White's painting is acrylic on a large wood panel (1.2 x 2.4 m) and, in a challenge to the patriarchal concept of thirteen men on one side of a table, shows 13 women from all regions of the world; the woman in the position of Leonardo's Christ figure is an Australian aboriginal wearing a T-shirt with the Australian Aboriginal Flag.</field>
+<field name="link_external">http://www.susandwhite.com.au/paintings/first-supper.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_First_Supper</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_First_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_First_Supper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_First_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7734199</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Supper</field>
+</doc>
+</add>

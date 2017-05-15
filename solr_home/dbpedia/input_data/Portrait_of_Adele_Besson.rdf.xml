@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Adele_Besson</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Adele_Besson</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hncy_f</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Adele_Besson</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_des_Beaux-Arts_et_d'arch%C3%A9ologie_de_Besan%C3%A7on</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1918_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pierre-Auguste_Renoir</field>
+<field name="abstract">The portrait of Adèle Besson is an oil painting in the Post-Impressionist style made by Auguste Renoir in 1918, representing the wife of George Besson. The couple gave a large bequest to the Museum of Fine Arts in Besançon. Their collection consisted of works of contemporary art (early 20th century). The installation of the collection at the Museum caused the expansion of the museum building, including the construction of the central staircase by Louis Miquel. This picture is part of their bequest.</field>
+<field name="label">Portrait of Adele Besson</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/dd/Pierre-Auguste_Renoir_-_Adèle_Besson.jpg</field>
+<field name="comment">The portrait of Adèle Besson is an oil painting in the Post-Impressionist style made by Auguste Renoir in 1918, representing the wife of George Besson. The couple gave a large bequest to the Museum of Fine Arts in Besançon. Their collection consisted of works of contemporary art (early 20th century). The installation of the collection at the Museum caused the expansion of the museum building, including the construction of the central staircase by Louis Miquel.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Pierre-Auguste_Renoir_-_Adèle_Besson.jpg/200px-Pierre-Auguste_Renoir_-_Adèle_Besson.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pierre-Auguste_Renoir</field>
+<field name="city">http://dbpedia.org/resource/Besan%C3%A7on</field>
+<field name="height">41</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_des_Beaux-Arts_et_d'arch%C3%A9ologie_de_Besan%C3%A7on</field>
+<field name="title">Portrait of Adele Besson</field>
+<field name="width">368</field>
+<field name="year">about 1918</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Adele_Besson</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Adele_Besson</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Adele_Besson</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Adele_Besson</field>
+</doc>
+</add>

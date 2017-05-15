@@ -1,0 +1,402 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Jeune_Fille_à_la_perle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Девушка_с_жемчужной_серёжкой_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ragazza_col_turbante</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/진주_귀고리를_한_소녀</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«Pike_med_perleøredobb»</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/دختری_با_گوشواره_مروارید</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fgpt_</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/فتاة_ترتدي_قرطا_من_اللؤلؤ</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Flicka_med_pärlörhänge_(målning)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q185372</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Rapariga_com_Brinco_de_Pérola</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Момичето_с_перлената_обица</field>
+<field name="sameAs">http://sr.dbpedia.org/resource/Девојка_са_бисерном_минђушом_(слика)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Девушка_с_жемчужной_серёжкой_(картина)</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Дзяўчына_з_жамчужнай_завушніцай,_карціна</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_joven_de_la_perla</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/Junulino_kun_perla_orelringo</field>
+<field name="sameAs">http://lv.dbpedia.org/resource/Meitene_ar_pērļu_auskaru</field>
+<field name="sameAs">http://pnb.dbpedia.org/resource/موتی_چمکے_نال_کڑی</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Pige_med_perleørering</field>
+<field name="sameAs">http://ta.dbpedia.org/resource/முத்துத்_தோட்டுடனான_சிறுமி_(ஓவியம்)</field>
+<field name="sameAs">http://id.dbpedia.org/resource/Gadis_dengan_Anting-Anting_Mutiara</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Mädchen_mit_dem_Perlenohrgehänge</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dziewczyna_z_perłą</field>
+<field name="sameAs">http://zh_min_nan.dbpedia.org/resource/Koà_Chin-chu_Hīⁿ-kau_ê_Siàu-lú</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_noia_de_la_perla</field>
+<field name="sameAs">http://tl.dbpedia.org/resource/Dalagitang_may_Hikaw_na_Perlas</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/戴珍珠耳環的少女</field>
+<field name="sameAs">http://et.dbpedia.org/resource/Tütarlaps_pärlkõrvarõngaga</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Girl_with_a_Pearl_Earring</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ragazza_col_turbante</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/真珠の耳飾りの少女</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/İnci_Küpeli_Kız</field>
+<field name="sameAs">http://bn.dbpedia.org/resource/হেট_মেইশে_মেট_ড্য_পারেল</field>
+<field name="sameAs">http://be_x_old.dbpedia.org/resource/Дзяўчына_з_пэрлінавай_завушніцай_(карціна)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Meisje_met_de_parel</field>
+<field name="sameAs">http://th.dbpedia.org/resource/สาวใส่ต่างหูมุก</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/진주_귀고리를_한_소녀</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Дівчина_з_перловою_сережкою_(картина)</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Djevojka_s_bisernom_naušnicom_(slika)</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Cô_gái_đeo_hoa_tai_ngọc_trai</field>
+<field name="sameAs">http://hi.dbpedia.org/resource/गर्ल_विथ_अ_पर्ल_इअर_रिंग_(चित्र)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Mirvari_tanalı_qız</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Turbaanipäinen_tyttö</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Plac'h_he_ferlezenn</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Leány_gyöngy_fülbevalóval_(festmény)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/נערה_עם_עגיל_פנינה</field>
+<field name="sameAs">http://hy.dbpedia.org/resource/Մարգարտե_ականջօղով_աղջիկը</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Fata_cu_turban_(Vermeer)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Jeune_Fille_à_la_perle</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mauritshuis</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660s_paintings</field>
+<field name="abstract">The painting Girl with a Pearl Earring (Dutch: Het Meisje met de Parel) is one of Dutch painter Johannes Vermeer's masterworks and, as the name implies, uses a pearl earring for a focal point. Today the painting is kept in the Mauritshuis gallery in The Hague. It is sometimes referred to as "the Mona Lisa of the North" or "the Dutch Mona Lisa".</field>
+<field name="label">Girl with a Pearl Earring</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/66/Johannes_Vermeer_(1632-1675)_-_The_Girl_With_The_Pearl_Earring_(1665).jpg</field>
+<field name="comment">The painting Girl with a Pearl Earring (Dutch: Het Meisje met de Parel) is one of Dutch painter Johannes Vermeer's masterworks and, as the name implies, uses a pearl earring for a focal point. Today the painting is kept in the Mauritshuis gallery in The Hague. It is sometimes referred to as "the Mona Lisa of the North" or "the Dutch Mona Lisa".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Johannes_Vermeer_(1632-1675)_-_The_Girl_With_The_Pearl_Earring_(1665).jpg/200px-Johannes_Vermeer_(1632-1675)_-_The_Girl_With_The_Pearl_Earring_(1665).jpg</field>
+<field name="link_external">http://girl.famsf.org/</field>
+<field name="link_external">http://www.girl-with-a-pearl-earring.info</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/65202/rec/17</field>
+<field name="link_external">http://www.mit.edu/~kimo/publications/vermeer/vermeer.pdf</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/The_Hague</field>
+<field name="height">44.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mauritshuis</field>
+<field name="title">Girl with a Pearl Earring</field>
+<field name="width">39</field>
+<field name="year">circa 1665</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Girl_with_a_Pearl_Earring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Girl_With_The_Pearl_Earring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_with_the_pearl_earring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Mädchen_mit_dem_Perlenohrgehänge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/真珠の耳飾りの少女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dziewczyna_z_perłą</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_with_a_pearl_earring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_joven_de_la_perla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Rapariga_com_Brinco_de_Pérola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_With_A_Pearl_Earring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Girl_with_a_Pearl_Earring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Medusa_Frequency</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_With_the_Pearl_Earring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Het_Meisje_Met_De_Parel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_With_a_Pearl_Earring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Meisje_met_de_parel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q185372</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/戴珍珠耳環的少女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/فتاة_ترتدي_قرطا_من_اللؤلؤ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Mirvari_tanalı_qız</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Дзяўчына_з_жамчужнай_завушніцай,_карціна</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Момичето_с_перлената_обица</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://bn.dbpedia.org/resource/হেট_মেইশে_মেট_ড্য_পারেল</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Plac'h_he_ferlezenn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_noia_de_la_perla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Pige_med_perleørering</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/Junulino_kun_perla_orelringo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://et.dbpedia.org/resource/Tütarlaps_pärlkõrvarõngaga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/دختری_با_گوشواره_مروارید</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Turbaanipäinen_tyttö</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/נערה_עם_עגיל_פנינה</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://hi.dbpedia.org/resource/गर्ल_विथ_अ_पर्ल_इअर_रिंग_(चित्र)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Djevojka_s_bisernom_naušnicom_(slika)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Leány_gyöngy_fülbevalóval_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://hy.dbpedia.org/resource/Մարգարտե_ականջօղով_աղջիկը</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://id.dbpedia.org/resource/Gadis_dengan_Anting-Anting_Mutiara</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://lv.dbpedia.org/resource/Meitene_ar_pērļu_auskaru</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«Pike_med_perleøredobb»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://pnb.dbpedia.org/resource/موتی_چمکے_نال_کڑی</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Fata_cu_turban_(Vermeer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://sr.dbpedia.org/resource/Девојка_са_бисерном_минђушом_(слика)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Flicka_med_pärlörhänge_(målning)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://ta.dbpedia.org/resource/முத்துத்_தோட்டுடனான_சிறுமி_(ஓவியம்)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/สาวใส่ต่างหูมุก</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://tl.dbpedia.org/resource/Dalagitang_may_Hikaw_na_Perlas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/İnci_Küpeli_Kız</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Дівчина_з_перловою_сережкою_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Cô_gái_đeo_hoa_tai_ngọc_trai</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://be_x_old.dbpedia.org/resource/Дзяўчына_з_пэрлінавай_завушніцай_(карціна)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+<doc>
+<field name="uri">http://zh_min_nan.dbpedia.org/resource/Koà_Chin-chu_Hīⁿ-kau_ê_Siàu-lú</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Pearl_Earring</field>
+</doc>
+</add>

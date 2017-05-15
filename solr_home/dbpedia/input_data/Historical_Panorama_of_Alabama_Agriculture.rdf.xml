@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Historical_Panorama_of_Alabama_Agriculture</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rndsj</field>
+<field name="sameAs">http://dbpedia.org/resource/Historical_Panorama_of_Alabama_Agriculture</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Historical_Panorama_of_Alabama_Agriculture</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5773918</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_Alabama</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_Progress_Administration_in_Alabama</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Auburn_University</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Alabama_Cooperative_Extension_System</field>
+<field name="abstract">The Historical Panorama of Alabama Agriculture was a series of murals commissioned by the Alabama Extension Service (now Alabama Cooperative Extension System) and partly funded by the Works Progress Administration for the 1939 Alabama State Fair, held October 2–7 in Birmingham.</field>
+<field name="label">Historical Panorama of Alabama Agriculture</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/74/Cotton72.jpg</field>
+<field name="comment">The Historical Panorama of Alabama Agriculture was a series of murals commissioned by the Alabama Extension Service (now Alabama Cooperative Extension System) and partly funded by the Works Progress Administration for the 1939 Alabama State Fair, held October 2–7 in Birmingham.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Cotton72.jpg/200px-Cotton72.jpg</field>
+<field name="link_external">http://www.wpamurals.com/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Historical_Panorama_of_Alabama_Agriculture</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Historical_Panorama_of_Alabama_Agriculture</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Historical_Panorama_of_Alabama_Agriculture</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Historical_Panorama_of_Alabama_Agriculture</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5773918</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Historical_Panorama_of_Alabama_Agriculture</field>
+</doc>
+</add>

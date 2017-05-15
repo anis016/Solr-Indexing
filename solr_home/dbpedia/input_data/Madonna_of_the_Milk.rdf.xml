@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Milk</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Milk</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3842620</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h67ccj</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Latte_(Verrocchio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_the_Milk</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Andrea_del_Verrocchio_paintings_and_sculptures</field>
+<field name="abstract">The Madonna of the Milk is a painting by the Italian Renaissance painter Andrea del Verrocchio, dating from circa 1467-1469. It is housed in the National Gallery, London, United Kingdom.</field>
+<field name="label">Madonna of the Milk</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/36/Verrocchio,_madonna_del_latte.jpg</field>
+<field name="comment">The Madonna of the Milk is a painting by the Italian Renaissance painter Andrea del Verrocchio, dating from circa 1467-1469. It is housed in the National Gallery, London, United Kingdom.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Verrocchio,_madonna_del_latte.jpg/200px-Verrocchio,_madonna_del_latte.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/andrea-del-verrocchio-the-virgin-and-child-with-two-angels</field>
+<field name="artist"/>
+<field name="height">69.2</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna of the Milk</field>
+<field name="type">Tempera on panel</field>
+<field name="width">49.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_the_Milk</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_the_Milk</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Latte_(Verrocchio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Milk</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_the_Milk</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_the_Milk</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Latte</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_latte</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3842620</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Milk</field>
+</doc>
+</add>

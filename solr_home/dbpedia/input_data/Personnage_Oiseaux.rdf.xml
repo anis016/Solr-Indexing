@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Personnage_Oiseaux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4419559</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h7pvmv</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Символ_птицы</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Personnage_Oiseaux</field>
+<field name="sameAs">http://dbpedia.org/resource/Personnage_Oiseaux</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Wichita_State_University</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">Personnage Oiseaux is one of Joan Miró's largest works in the United States and his only glass mosaic mural, (Bird Characters), 1972–1978.</field>
+<field name="label">Personnage Oiseaux</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c3/PersonnageOiseaux.JPG</field>
+<field name="comment">Personnage Oiseaux is one of Joan Miró's largest works in the United States and his only glass mosaic mural, (Bird Characters), 1972–1978.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/PersonnageOiseaux.JPG/200px-PersonnageOiseaux.JPG</field>
+<field name="artist">http://dbpedia.org/resource/Joan_Mir%C3%B3</field>
+<field name="city">http://dbpedia.org/resource/Wichita,_Kansas</field>
+<field name="height">8530</field>
+<field name="image"/>
+<field name="imageSize">230</field>
+<field name="museum">http://dbpedia.org/resource/Edwin_A._Ulrich_Museum_of_Art</field>
+<field name="title">Personnage Oiseaux</field>
+<field name="width">15850</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Personnage_Oiseaux</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Personnage_Oiseaux</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Personnage_Oiseaux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Personnage_Oiseaux</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Символ_птицы</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Personnage_Oiseaux</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4419559</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Personnage_Oiseaux</field>
+</doc>
+</add>

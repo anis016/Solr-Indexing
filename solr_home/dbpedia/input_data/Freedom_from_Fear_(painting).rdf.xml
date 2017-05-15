@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Freedom_from_Fear_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Freedom_from_Fear_(Norman_Rockwell)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03hmwth</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q714804</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Freedom_from_Fear_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_from_Fear_(painting)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/免於恐懼的自由</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Freedom_from_Fear_(Norman_Rockwell)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_originally_published_in_The_Saturday_Evening_Post</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1943_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Norman_Rockwell</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:World_War_II_media</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Four_Freedoms</field>
+<field name="abstract">Freedom from Fear is one of paintings Four Freedoms by Norman Rockwell that were inspired by the Four Freedoms United States President Franklin D. Roosevelt in the State of the Union Address he delivered to the 77th United States Congress on January 6, 1941. His other three paintings were, Freedom of Speech Freedom to Worship Freedom from Want</field>
+<field name="label">Freedom from Fear (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bd/Freedom_From_Fear.jpg</field>
+<field name="comment">Freedom from Fear is one of paintings Four Freedoms by Norman Rockwell that were inspired by the Four Freedoms United States President Franklin D. Roosevelt in the State of the Union Address he delivered to the 77th United States Congress on January 6, 1941. His other three paintings were, Freedom of Speech Freedom to Worship Freedom from Want</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Freedom_From_Fear.jpg/200px-Freedom_From_Fear.jpg</field>
+<field name="link_external">http://www.fdrlibrary.marist.edu/od4freed.html</field>
+<field name="link_external">http://www.feri.org/common/news/details.cfm?QID=2089&amp;clientid=11005</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Freedom_from_Fear_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Freedom_from_Fear_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Freedom_from_Fear_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Freedom_from_Fear_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Freedom_From_Fear_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Freedom_from_fear_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Freedom_from_Fear_(Norman_Rockwell)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_from_Fear_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q714804</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_from_Fear_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/免於恐懼的自由</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_from_Fear_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Freedom_from_Fear_(Norman_Rockwell)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_from_Fear_(painting)</field>
+</doc>
+</add>

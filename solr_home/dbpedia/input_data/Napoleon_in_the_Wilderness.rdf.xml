@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Napoleon_in_the_Wilderness</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Napoleon_in_the_Wilderness</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Napoleon_in_the_Wilderness</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/황야의_나폴레옹</field>
+<field name="sameAs">http://dbpedia.org/resource/Napoleon_in_the_Wilderness</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6965069</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h7lfn2</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Napoleon_in_the_Wilderness</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Max_Ernst</field>
+<field name="abstract">Napoleon in the Wilderness in a 1941 surrealist painting by Max Ernst in the collection of the Museum of Modern Art.</field>
+<field name="label">Napoleon in the Wilderness</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ad/Napoleon_in_the_Wilderness.jpg</field>
+<field name="comment">Napoleon in the Wilderness in a 1941 surrealist painting by Max Ernst in the collection of the Museum of Modern Art.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Napoleon_in_the_Wilderness.jpg/200px-Napoleon_in_the_Wilderness.jpg</field>
+<field name="link_external">http://www.moma.org/collection/provenance/provenance_object.php?object_id=78423</field>
+<field name="link_external">http://books.google.com/books?id=6iJktLE48L0C&amp;pg=PA65&amp;lpg=PA65&amp;dq=%22Napoleon+in+the+Wilderness%22&amp;source=bl&amp;ots=qw8G0AzbPT&amp;sig=2IHQ-ccJLc5yLu18g43Z94D9qu8&amp;hl=en&amp;ei=qP6QTsXRGsaoiAf9vITqDQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10&amp;ved=0CGoQ6AEwCQ#v=onepage&amp;q=%22Napoleon%20in%20the%20Wilderness%22&amp;f=false</field>
+<field name="link_external">http://www.wikipaintings.org/en/max-ernst/napoleon-in-the-wilderness-1941</field>
+<field name="artist">http://dbpedia.org/resource/Max_Ernst</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Napoleon in the Wilderness</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Napoleon_in_the_Wilderness</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Napoleon_in_the_Wilderness</field>
+</doc>
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/황야의_나폴레옹</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Napoleon_in_the_Wilderness</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Napoleon_In_the_Wilderness</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6965069</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Napoleon_in_the_Wilderness</field>
+</doc>
+</add>

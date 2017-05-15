@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Mujer_sentada_tocando_la_espineta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Seated_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dziewczyna_siedząca_przy_klawesynie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Seated_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lady_Seated_at_a_Virginal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Seated_at_a_Virginal</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Dam_som_sitter_vid_en_cembalo</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lady_Seated_at_a_Virginal</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Mujer_sentada_tocando_la_espineta</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Donna_seduta_alla_spinetta</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ヴァージナルの前に座る女</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dziewczyna_siedząca_przy_klawesynie</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Zittende_virginaalspeelster</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03yxmcy</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2267440</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1670s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="abstract">Lady Seated at a Virginal, also known as Young Woman Seated at a Virginal, is a genre painting created by Dutch artist Johannes Vermeer in about 1670-1672 and now in the National Gallery, London. Both the National Gallery, London and the Metropolitan Museum of Art in New York name their separate paintings of women seated at virginals A Young Woman Seated at a Virginal, although they are quite separate works and are each known by alternate names. (The New York museum's painting is also known as A Young Woman Seated at the Virginals. ) The picture shows a woman facing left and playing a virginal. In the left foreground is a viola da gamba holding a bow between its strings. A landscape is painted on the inside lid of the virginal, and the painting on the wall is either the original or a copy of The Procuress by Dirck van Baburen, which belonged to Vermeer's mother-in-law. It is unclear whether or how much the subject of The Procuress is intended to reflect on the meaning of this work, although "It is probable that a more general association between music and love is intended. " At the upper left, a tapestry is used to frame the scene, and in the lower right the foot of the back wall is decorated with Delft tiles. Because of its style, the painting has been dated to about 1670. It has been suggested that it and Lady Standing at a Virginal (also owned by the National Gallery) may have been created as pendants, because their sizes, date and subject matter are all similar, yet their provenances before the 19th century differ, and Vermeer sometimes varied a theme in otherwise unrelated paintings. In the 19th century, both paintings were owned by the art critic Théophile Thoré, whose writings led to a resurgence of interest in Vermeer starting in 1866. The painting entered the National Gallery with the Salting Bequest in 1910.</field>
+<field name="label">Lady Seated at a Virginal</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/67/Johannes_Vermeer_-_Zittende_Klavecimbelspeelster_(1673-1675).jpg</field>
+<field name="comment">Lady Seated at a Virginal, also known as Young Woman Seated at a Virginal, is a genre painting created by Dutch artist Johannes Vermeer in about 1670-1672 and now in the National Gallery, London. Both the National Gallery, London and the Metropolitan Museum of Art in New York name their separate paintings of women seated at virginals A Young Woman Seated at a Virginal, although they are quite separate works and are each known by alternate names.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Johannes_Vermeer_-_Zittende_Klavecimbelspeelster_(1673-1675).jpg/200px-Johannes_Vermeer_-_Zittende_Klavecimbelspeelster_(1673-1675).jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/65202/rec/17</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">51.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Lady Seated at a Virginal</field>
+<field name="width">45.5</field>
+<field name="year">c. 1670–72</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lady_Seated_at_a_Virginal</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lady_Seated_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Donna_seduta_alla_spinetta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Seated_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lady_Seated_at_a_Virginal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lady_Seated_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ヴァージナルの前に座る女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Seated_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Zittende_virginaalspeelster</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Seated_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2267440</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Seated_at_a_Virginal</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Dam_som_sitter_vid_en_cembalo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Seated_at_a_Virginal</field>
+</doc>
+</add>

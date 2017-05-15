@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Abaporu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Abaporu</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Abaporu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Abaporu</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Abaporu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Abaporu</field>
+<field name="sameAs">http://dbpedia.org/resource/Abaporu</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07s9zqm</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Abaporu</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Abaporu</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4663455</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Brazilian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1928_paintings</field>
+<field name="abstract">Abaporu (from Tupi-Guaraní language ‘aba’, ‘pora’, and ‘u’, "the man that eats people") is an oil painting on canvas by the Brazilian painter Tarsila do Amaral, executed in 1928 as a birthday present to the writer Oswald de Andrade, her husband at the time. It is considered the most valuable painting by a Brazilian artist, having reached the value of $1.4 million, paid by the Argentine collector Eduardo Costantini in an auction in 1995. It is currently displayed at the Latin American Art Museum of Buenos Aires in Buenos Aires, Argentina. The composition: one man, the sun and a cactus – inspired Oswald de Andrade to write the Anthropophagite Manifesto and consequently create Anthropophagic Movement, intended to "swallow" European culture and turn it into something culturally very Brazilian.</field>
+<field name="label">Abaporu</field>
+<field name="comment">Abaporu (from Tupi-Guaraní language ‘aba’, ‘pora’, and ‘u’, "the man that eats people") is an oil painting on canvas by the Brazilian painter Tarsila do Amaral, executed in 1928 as a birthday present to the writer Oswald de Andrade, her husband at the time. It is considered the most valuable painting by a Brazilian artist, having reached the value of $1.4 million, paid by the Argentine collector Eduardo Costantini in an auction in 1995.</field>
+<field name="name"/>
+<field name="artist">http://dbpedia.org/resource/Tarsila_do_Amaral</field>
+<field name="height">85</field>
+<field name="museum"/>
+<field name="title">Abaporu</field>
+<field name="width">73</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Abaporu</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Abaporu</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Abaporu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Abaporu</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4663455</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Abaporu</field>
+</doc>
+</add>

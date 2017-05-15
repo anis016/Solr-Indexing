@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Our_Lady_of_Calvary</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7110765</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Our_Lady_of_Calvary</field>
+<field name="sameAs">http://dbpedia.org/resource/Our_Lady_of_Calvary</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06cbny</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Catholic_Church_in_Poland</field>
+<field name="abstract">Our Lady of Calvary is a 17th century painting situated in the shrine of Kalwaria Zebrzydowska, one of the most visited pilgrimage sites in Poland. According to legend, the painting wept in 1641. The owner presented the painting to the Bernardine monastery at Kalwaria Zebrzydowska. Veneration of the painting was authorized fifteen years later, and a chapel was commissioned to house it.</field>
+<field name="label">Our Lady of Calvary</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/55/Matka_Boska_kalwaryjska.jpg</field>
+<field name="comment">Our Lady of Calvary is a 17th century painting situated in the shrine of Kalwaria Zebrzydowska, one of the most visited pilgrimage sites in Poland. According to legend, the painting wept in 1641. The owner presented the painting to the Bernardine monastery at Kalwaria Zebrzydowska. Veneration of the painting was authorized fifteen years later, and a chapel was commissioned to house it.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Matka_Boska_kalwaryjska.jpg/200px-Matka_Boska_kalwaryjska.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Anonymity</field>
+<field name="height">90</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Our Lady of Calvary</field>
+<field name="type">oil on canvas</field>
+<field name="width">74</field>
+<field name="year">before 1641</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Our_Lady_of_Calvary</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Our_Lady_of_Calvary</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Our_Lady_of_Calvary</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Our_Lady_of_Calvary</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7110765</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Our_Lady_of_Calvary</field>
+</doc>
+</add>

@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Hołd_pruski_(obraz_Jana_Matejki)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prussian_Homage_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Preußische_Huldigung_(Gemälde)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prussian_Homage_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Прусская_дань</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prussian_Homage_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Prussian_Homage_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Prussian_Homage_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Prussian_Homage_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Preußische_Huldigung_(Gemälde)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h56m16</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Hołd_pruski_(obraz_Jana_Matejki)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Prussian_Homage_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Prussian_Homage_(painting)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Прусская_дань</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q317261</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Polish_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jan_Matejko</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_Poland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Germany%E2%80%93Poland_relations</field>
+<field name="abstract">The Prussian Homage is an oil on canvas painting by Polish painter Jan Matejko painted between 1879 and 1882 in Kraków (then part of Austria-Hungary). The painting depicts the "Prussian Homage," a significant political event from the time of the Renaissance in Poland in which Albrecht Hohenzollern, the Duke of Prussia paid tribute and swore allegiance to King Sigismund I the Old in Kraków's market square on 10 April 1525. Matejko depicted over thirty important figures of the Polish Renaissance period, taking the liberty of including several who were not actually present at the event. The painting glorifies this event in Poland's past and its culture, and the majesty of its kings. At the same time, the painting has darker undertones, reflecting the troubled times that befell Poland in the late eighteenth century, for the Kingdom of Prussia would become one of the partitioning powers that ended the independence of Poland. The painting was seen by some as anti-Prussian, foretelling its perceived betrayal of Poland; others have noted it is also critical of Poland, as Matejko included signs that signify this seemingly triumphant moment was a hollow, wasted victory. Matejko created his painting to remind others about the history of the no-longer-independent country he loved, and about the changing fates of history. The painting is counted among his masterpieces.</field>
+<field name="label">Prussian Homage (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/11/Prussian_Homage.jpg</field>
+<field name="comment">The Prussian Homage is an oil on canvas painting by Polish painter Jan Matejko painted between 1879 and 1882 in Kraków (then part of Austria-Hungary). The painting depicts the "Prussian Homage," a significant political event from the time of the Renaissance in Poland in which Albrecht Hohenzollern, the Duke of Prussia paid tribute and swore allegiance to King Sigismund I the Old in Kraków's market square on 10 April 1525.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Prussian_Homage.jpg/200px-Prussian_Homage.jpg</field>
+<field name="link_external">http://www.robertkusmierz.com/zamosc/zamosc.php?d=wydarzenia&amp;a=hold_pruski</field>
+<field name="link_external">http://pl.wikipedia.org/w/index.php?title=Ho%C5%82d_pruski_(obraz_Jana_Matejki)&amp;action=history</field>
+<field name="artist">http://dbpedia.org/resource/Jan_Matejko</field>
+<field name="city">http://dbpedia.org/resource/Krak%C3%B3w</field>
+<field name="image"/>
+<field name="imageSize">420</field>
+<field name="museum">http://dbpedia.org/resource/Sukiennice_Museum</field>
+<field name="title">Prussian Homage</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Prussian_Homage_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Prussian_Homage_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ho%C5%82d_pruski_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q317261</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prussian_Homage_(painting)</field>
+</doc>
+</add>

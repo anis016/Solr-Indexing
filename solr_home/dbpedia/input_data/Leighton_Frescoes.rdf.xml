@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Leighton_Frescoes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04lfzmh</field>
+<field name="sameAs">http://dbpedia.org/resource/Leighton_Frescoes</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6519751</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Leighton_Frescoes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Frederic_Leighton</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Victoria_and_Albert_Museum</field>
+<field name="abstract">The Leighton Frescoes were commissioned in 1868 as the central feature of the elaborate decorations of the Victoria and Albert Museum's South Court. The artist of the two enormous works which each measure 10.7 metres across, was Frederic Leighton (1830-96), one of the most important figures in the late Victorian art world. Leighton's work is remarkable for its command of large-scale design, brilliant technique, intellectual sophistication and skilful, often erotic depiction of the human body. The two frescoes, "The Arts of Industry as Applied to War" and "The Arts of Industry as Applied to Peace", celebrate human artistic achievements. "War", portrays the princess and courtiers of an Italian Renaissance city state setting out for battle. "Peace", is set in a classical world of order and plenty. It is designed to evoke a sense of beauty rather than illustrate a specific narrative, and depicts a central group of wealthy elegant women dressing while, either side, workmen unload luxurious carpets and ceramics from barges. Both are spirit frescoes; "War" was painted using the Gambier Parry process, which was adapted further by Leighton for "Peace".</field>
+<field name="label">Leighton Frescoes</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/af/Arts_of_Industry_as_Applied_to_War.jpg</field>
+<field name="comment">The Leighton Frescoes were commissioned in 1868 as the central feature of the elaborate decorations of the Victoria and Albert Museum's South Court. The artist of the two enormous works which each measure 10.7 metres across, was Frederic Leighton (1830-96), one of the most important figures in the late Victorian art world. Leighton's work is remarkable for its command of large-scale design, brilliant technique, intellectual sophistication and skilful, often erotic depiction of the human body.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Arts_of_Industry_as_Applied_to_War.jpg/200px-Arts_of_Industry_as_Applied_to_War.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Leighton_Frescoes</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Leighton_Frescoes</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Leighton_Frescoes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Leighton_Frescoes</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Leighton_Frescoes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6519751</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Leighton_Frescoes</field>
+</doc>
+</add>

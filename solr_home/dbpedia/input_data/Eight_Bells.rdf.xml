@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Eight_Bells</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5348954</field>
+<field name="sameAs">http://dbpedia.org/resource/Eight_Bells</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Eight_Bells</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czdqlg</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Winslow_Homer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1886_paintings</field>
+<field name="abstract">Eight Bells is an 1886 oil painting by the American artist Winslow Homer. It depicts two sailors determining their boat's position. It is one of Homer's best-known paintings, and the last of his major paintings of the 1880s that dramatically chronicles man's relationship to the ocean. Eight Bells was the outgrowth of a series of oil paintings that Homer made using three wooden panels he found in the cabin of his brother's sloop at Prouts Neck, Maine. On two of the panels Homer painted scenes of mackerel fleets at Prouts Neck, one at dawn and the other at sunset; on the third he painted a grisaille study of the work that inspired Eight Bells, which depicted a ship's officer standing alone, taking an observation with a sextant. Several years earlier, Homer had painted a watercolor on his voyage to England that also showed a sailor performing this activity. The painting's title is a reference to nautical time, computed as one bell every thirty minutes. Although "eight bells" can be either 8 o'clock, 12 o'clock, or 4 o'clock, the painting refers to taking the "noon sight" at local apparent noon, a standard during the days of celestial navigation. Most other sights are made at dawn or twilight. More monumental than the three panels that preceded it, the two figures dominate the foreground of Eight Bells, and the details of the ship are minimally rendered. Homer has taken some artistic license, showing the figure at left using a sextant to take a reading of the sun, the other apparently reading the altitude of a completed sight on his sextant. In reality, both observers would have had their sextants to their eyes, rocking them back and forth to determine the highest elevation reached by the sun, thereby establishing local apparent noon. The moment is prosaic, yet it is presented as a heroic image. In 1887 Homer produced an etching based on the painting, in which he further minimized the ship's rigging and diminished the area of sky, thereby focusing more on the figures. Eight Bells was painted the same year as another of Homer's major paintings, Undertow, both at a time when sales of the artist's work were slow, and he complained of "standing on one leg, one day, and another leg, some other day, and looking in vain for profits. " The painting sold the following year, for the reportedly low price of $400, and was the first oil painting Homer had sold in over three years. Nonetheless, Homer's disappointment in his inability to find buyers prompted him to stop painting in oils until 1890. When Eight Bells was exhibited in 1888 it was praised by critics who observed that it was more complex than a purely naturalistic rendering: "For he has caught the color and motion of the greenish waves, white-capped and rolling, the strength of the dark clouds broken with a rift of sunlight, and the sturdy, manly character of the sailors at the rail. In short, he has seen and told in a strong painter's manner what there was of beauty and interest in the scene. " A later biographer wrote of the painting that the men "performing their required tasks, immediately engage our confidence in their competence to deal effectively with any situation the treachery or violence of the sea may produce. " The American artist N.C. Wyeth named his Port Clyde, Maine, home Eight Bells in honor of Homer's painting. He installed a reproduction of the work in his living room.</field>
+<field name="label">Eight Bells</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/30/WinslowHomer-Eight_Bells_1886.jpg</field>
+<field name="comment">Eight Bells is an 1886 oil painting by the American artist Winslow Homer. It depicts two sailors determining their boat's position. It is one of Homer's best-known paintings, and the last of his major paintings of the 1880s that dramatically chronicles man's relationship to the ocean. Eight Bells was the outgrowth of a series of oil paintings that Homer made using three wooden panels he found in the cabin of his brother's sloop at Prouts Neck, Maine.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/WinslowHomer-Eight_Bells_1886.jpg/200px-WinslowHomer-Eight_Bells_1886.jpg</field>
+<field name="link_external">http://www.andover.edu/Museums/Addison/Collection/CollectionSpotlight/Pages/default.aspx</field>
+<field name="link_external">http://www.farnsworthmuseum.org/nc-wyeth</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Eight_Bells</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Eight_Bells</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Eight_Bells</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Eight_Bells</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5348954</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Eight_Bells</field>
+</doc>
+</add>

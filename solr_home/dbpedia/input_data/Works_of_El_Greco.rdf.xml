@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Anexo:Obra_de_El_Greco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Works_of_El_Greco</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Works_of_El_Greco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Anexo:Obra_de_El_Greco</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Works_of_El_Greco</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q8035109</field>
+<field name="sameAs">http://dbpedia.org/resource/Works_of_El_Greco</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lists_of_works_of_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_El_Greco</field>
+<field name="abstract">El Greco was a Cretan-born painter, sculptor and architect of the Spanish Renaissance. El Greco left his birthplace for Venice in 1567 never to return. El Greco's three years in Venice profoundly influenced his style. In 1577 he emigrated to Toledo, Spain, where he lived and worked until the end of his life. El Greco's oeuvre is thus divided in three main periods: Works he painted while he was still in Crete Works he painted while he was still in Venice and Rome Works he painted while he was still in Toledo. El Greco was mainly a painter but a few sculptures, including Epimetheus and Pandora, have also been attributed to El Greco. This doubtful attribution is based on the testimony of Pacheco. Pacheco saw in El Greco's studio a series of figurines (of wax, stucco, and wood), but these may have been merely models, like those used in the Italian workshops (like the one El Greco himself had created, when he was in Italy). The figures illustrated recall certain nudes in paintings by El Greco in their elongated proportions, but their naturalism and the accentuated musculature of the male figure are regarded by certain researchers as surprising for El Greco. Among the surviving works of the master are also four drawings; three of them are preparatory works for the altarpiece of Santo Domingo el Antiguo and the fourth one is a study for one of his paintings, The Crucifixion.</field>
+<field name="label">Works of El Greco</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c2/Dormition_El_Greco.jpg</field>
+<field name="comment">El Greco was a Cretan-born painter, sculptor and architect of the Spanish Renaissance. El Greco left his birthplace for Venice in 1567 never to return. El Greco's three years in Venice profoundly influenced his style. In 1577 he emigrated to Toledo, Spain, where he lived and worked until the end of his life.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Dormition_El_Greco.jpg/200px-Dormition_El_Greco.jpg</field>
+<field name="link_external">http://www.fondoparauncaballero.com</field>
+<field name="link_external">http://www.interkriti.org/culture/elgreco/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Works_of_El_Greco</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Works_of_El_Greco</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Works_of_El_Greco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Works_of_El_Greco</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q8035109</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Works_of_El_Greco</field>
+</doc>
+</add>

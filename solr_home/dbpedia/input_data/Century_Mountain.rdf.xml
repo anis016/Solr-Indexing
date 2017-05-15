@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Century_Mountain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Century_Mountain</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Century_Mountain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5063180</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Century_Mountain</field>
+<field name="sameAs">http://dbpedia.org/resource/Century_Mountain</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmjkjq</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Chinese_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Chinese_calligraphy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Chinese_poetry_groups_and_movements</field>
+<field name="abstract">The Century Mountain Project is an East/West collaboration of art between the Chinese poet and calligrapher Huang Xiang and American artist William Rock. Their paintings, which feature Huang Xiang's calligraphy and poetry and William Rock's painted portraits, honor outstanding thinkers, creators, discoverers, leaders—essentially people who stood out like mountains throughout the centuries. Their subjects include Mozart, Lincoln, Gandhi, Mother Teresa, Rimbaud, Phillis Wheatley, Li Bai, Murasaki Shikibu, Malcolm X, Isadora Duncan, and Edgar Allan Poe. In 2009, their portrait of Anne Frank was exhibited at the Peter Wilhelm Art Center http://peterwilhelm-artcenter. com/ in Budapest; and in June 2010 an exhibit of Huang Xiang and William Rock's Century Mountain paintings was organized by the city of Tarragona, Spain. The artwork created between Huang Xiang and William Rock began in 2006 and continues as an ongoing collaboration. There is no cultural, gender, or race distinctions with regard to the subjects depicted. Seeing the collaborative paintings of Huang Xiang and William Rock is like having a personal encounter with the subject depicted. They have life. This Western style image with calligraphy is not what one usually sees. William Rock is aware of the negative space and Huang Xiang is using the calligraphy to create as an artist would. Formally the artists are opening to accommodate each other. Both artists working together as one. Huang Xiang knows intuitively and instinctively how to place the calligraphy in relation to the image. The calligraphy of Huang Xiang is special, modern and personal. It is striking! An East/West collaboration, the work is like that of Xu Bing. The fact that Huang Xiang's calligraphy is making commentary about the image adds to the many layers of this work. The paintings have a lot of energy. " — Dr. Stanely Murashige, Specialist in contemporary Chinese art / The Art Institute of Chicago</field>
+<field name="label">Century Mountain</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/af/Huang_Xiang_and_William_Rock_2008.jpg</field>
+<field name="comment">The Century Mountain Project is an East/West collaboration of art between the Chinese poet and calligrapher Huang Xiang and American artist William Rock. Their paintings, which feature Huang Xiang's calligraphy and poetry and William Rock's painted portraits, honor outstanding thinkers, creators, discoverers, leaders—essentially people who stood out like mountains throughout the centuries.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Huang_Xiang_and_William_Rock_2008.jpg/200px-Huang_Xiang_and_William_Rock_2008.jpg</field>
+<field name="link_external">http://www.centurymountain.com</field>
+<field name="link_external">http://peterwilhelm-artcenter.com/</field>
+<field name="link_external">http://academics.sru.edu/slablitmag/archives1rgarside.html</field>
+<field name="link_external">http://www.public-republic.net/artist-of-the-week-huang-xiang-and-william-rock.php</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Century_Mountain</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Century_Mountain</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Century_Mountain_Project</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5063180</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Century_Mountain</field>
+</doc>
+</add>

@@ -1,0 +1,120 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Taking_of_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Capture_du_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_captura_de_Cristo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cattura_di_Cristo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pojmanie_Chrystusa_(obraz_Caravaggia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Captura_de_Cristo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Capture_du_Christ</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Captura_de_Cristo</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cattura_di_Cristo</field>
+<field name="sameAs">http://he.dbpedia.org/resource/מאסרו_של_ישו_(קאראווג'ו)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05n5mb</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Captura_Christi_(Caravaggio)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Христа_беруть_під_варту_(Караваджо)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_captura_de_Cristo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q541376</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Поцелуй_Иуды_(картина_Караваджо)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pojmanie_Chrystusa_(obraz_Caravaggia)</field>
+<field name="sameAs">http://id.dbpedia.org/resource/Penangkapan_Kristus_(Caravaggio)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1602_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_National_Gallery_of_Ireland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">The Taking of Christ is a painting by the Italian Baroque master Michelangelo Merisi da Caravaggio, originally commissioned by the Roman nobleman Ciriaco Mattei in 1602. It is housed in the National Gallery of Ireland, Dublin.</field>
+<field name="label">The Taking of Christ (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e6/Caravaggio_-_Taking_of_Christ_-_Dublin.jpg</field>
+<field name="comment">The Taking of Christ is a painting by the Italian Baroque master Michelangelo Merisi da Caravaggio, originally commissioned by the Roman nobleman Ciriaco Mattei in 1602. It is housed in the National Gallery of Ireland, Dublin.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Caravaggio_-_Taking_of_Christ_-_Dublin.jpg/200px-Caravaggio_-_Taking_of_Christ_-_Dublin.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">133.5</field>
+<field name="image"/>
+<field name="imageSize">330</field>
+<field name="museum"/>
+<field name="title">The Taking of Christ</field>
+<field name="type">oil on canvas</field>
+<field name="width">169.5</field>
+<field name="year">c. 1602</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Taking_of_Christ_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Taking_of_Christ_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Поцелуй_Иуды_(картина_Караваджо)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q541376</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/מאסרו_של_ישו_(קאראווג'ו)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://id.dbpedia.org/resource/Penangkapan_Kristus_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Captura_Christi_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Христа_беруть_під_варту_(Караваджо)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Taking_of_Christ_(Caravaggio)</field>
+</doc>
+</add>

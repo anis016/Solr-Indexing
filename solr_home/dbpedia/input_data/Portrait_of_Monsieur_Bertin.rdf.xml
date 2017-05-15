@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Monsieur_Bertin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Monsieur_Bertin</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_monsieur_Bertin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Monsieur_Bertin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_monsieur_Bertin</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05mt6zy</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Портрет_Бертена</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Monsieur_Bertin</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_pana_Bertin</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_Луи_Франсуа_Бертена</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Monsieur_Bertin</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2985455</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Monsieur_Bertin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1832_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean_Auguste_Dominique_Ingres</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">Portrait of Monsieur Bertin is an 1832 oil-on-canvas portrait by the French painter Jean Auguste Dominique Ingres, housed in the Musée du Louvre since 1897. It depicts Louis-François Bertin, a writer, art collector, press magnate as director of the pro-royalist Journal des débats, and friend and patron of the artist. Bertin was a well-known and respected member of the French upper-middle class, and in Ingres' portrait he becomes a symbol of the confident and commercially minded men who drove France through that era. For this reason the painting came to represent the liberal reign of Louis Philippe I. Bertin was some years older than Ingres. The two men became close friends, Bertin acted as a father figure to the painter. This work is one of the few commissioned portraits that Ingres agreed to paint during this period, but it is considered his most successful. At the time Ingres was enjoying his first success as an artist, but as a portraitist rather than history painter. This was a major source of frustration to him, he believed history painting to be more important and noble than mere portraiture of contemporaries. The painting brought him international repute but little personal satisfaction. As with most of Ingres' portraits, the work had a prolonged, tortured genesis: it took the artist years to settle on a pose for Bertin that he found satisfactory. In its unflinching realism and depiction of the effects of aging, the final composition draws influence from Flemish painting, especially from the early portraits of Jan van Eyck. Although Bertin is shown as a restless force of nature, his bulk spilling out of the canvas, Ingres records without pity the impact of time on his appearance, his wrinkles, his thinning hair. The portrait became an instant and enduring critical and popular success. It was highly praised when exhibited at the Salon in 1833, and has influenced both academic painters, such as Léon Bonnat, and modernist artists like Edgar Degas and Pablo Picasso. Today it is regarded as Ingres' finest male portrait, and one of his most important and influential paintings.</field>
+<field name="label">Portrait of Monsieur Bertin</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ec/Louis-Francois_Bertin.jpg</field>
+<field name="comment">Portrait of Monsieur Bertin is an 1832 oil-on-canvas portrait by the French painter Jean Auguste Dominique Ingres, housed in the Musée du Louvre since 1897. It depicts Louis-François Bertin, a writer, art collector, press magnate as director of the pro-royalist Journal des débats, and friend and patron of the artist.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Louis-Francois_Bertin.jpg/200px-Louis-Francois_Bertin.jpg</field>
+<field name="link_external">http://commons.wikimedia.org/wiki/File:Nicolas_Poussin_078.jpg</field>
+<field name="link_external">http://www.louvre.fr/llv/oeuvres/detail_notice.jsp?CONTENT%3C%3Ecnt_id=10134198673226310&amp;CURRENT_LLV_NOTICE%3C%3Ecnt_id=10134198673226310&amp;FOLDER%3C%3Efolder_id=9852723696500815&amp;bmLocale=en</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Monsieur_Bertin</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Monsieur_Bertin</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_monsieur_Bertin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Monsieur_Bertin</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_pana_Bertin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Monsieur_Bertin</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Monsieur_Bertin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Monsieur_Bertin</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_Луи_Франсуа_Бертена</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Monsieur_Bertin</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2985455</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Monsieur_Bertin</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Портрет_Бертена</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Monsieur_Bertin</field>
+</doc>
+</add>

@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Madonna_del_prato_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Prato_(Giovanni_Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Prato</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Prato_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Madonna_del_prato_(Bellini)</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Bellini)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h1wn_</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Мадонна_на_луці_(Белліні)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1115613</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Prato_(Giovanni_Bellini)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_del_Prato_(Bellini)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1505_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Bellini</field>
+<field name="abstract">The Madonna del Prato (Madonna of the Meadow) is a 1505 painting of the Virgin Mary and the Christ Child by Giovanni Bellini, now in the National Gallery in London. Originally painted as oil and egg tempera on wood, it was transferred to canvas in 1949, with damage in places. It presents a medieval iconography of the Virgin of humility seated before a full and shining rural panorama, with both the devotional aspect and the landscape aspect given equal prominence. Full of small details of everyday life, this landscape contributes to the intimate and familiar tone of the two figures. The vulture in the tree also possibly symbolises death. The figures' poses invite meditation on Jesus's death and passion, recalling Pietà compositions with the dead adult Jesus in his mother's lap.</field>
+<field name="label">Madonna del Prato (Bellini)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6c/MadonnaPratoBellini.jpg</field>
+<field name="comment">The Madonna del Prato (Madonna of the Meadow) is a 1505 painting of the Virgin Mary and the Christ Child by Giovanni Bellini, now in the National Gallery in London. Originally painted as oil and egg tempera on wood, it was transferred to canvas in 1949, with damage in places. It presents a medieval iconography of the Virgin of humility seated before a full and shining rural panorama, with both the devotional aspect and the landscape aspect given equal prominence.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/MadonnaPratoBellini.jpg/200px-MadonnaPratoBellini.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=NG599</field>
+<field name="artist">http://dbpedia.org/resource/Giovanni_Bellini</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">67.3</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Madonna of the Meadow</field>
+<field name="width">86.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_del_Prato_(Bellini)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_del_Prato_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_del_Prato_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_del_Prato_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1115613</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Мадонна_на_луці_(Белліні)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Bellini)</field>
+</doc>
+</add>

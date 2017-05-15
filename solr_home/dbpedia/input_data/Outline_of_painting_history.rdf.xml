@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Outline_of_painting_history</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7112695</field>
+<field name="sameAs">http://dbpedia.org/resource/Outline_of_painting_history</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Outline_of_painting_history</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Rococo_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gothic_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Medieval_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Prehistoric_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Byzantine_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_history</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Impressionism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mannerist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Celtic_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mannerism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Post-Impressionism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Western_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Luminism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Baroque_painting</field>
+<field name="abstract">Outline of painting history is a brief outline with templates and links to Wikipedia articles and subjects related to Art History and specifically the history of painting as an art form. 130px Art historyseries {{#invoke: Navbox | navbox }} vte European art historyseries {{#invoke: Navbox | navbox }} vte Ancient art historyseries Middle East Mesopotamia Ancient Egypt Asia India China Japan Scythia European prehistory Nuragic Etruscan Celtic Picts Norse Visigothic Classical art Ancient Greece Hellenistic Rome vte</field>
+<field name="label">Outline of painting history</field>
+<field name="comment">Outline of painting history is a brief outline with templates and links to Wikipedia articles and subjects related to Art History and specifically the history of painting as an art form.</field>
+<field name="link_external">http://wikimindmap.com/viewmap.php?wiki=en.wikipedia.org&amp;topic=Outline+of+painting&amp;Submit=Search</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Outline_of_painting_history</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Outline_of_painting_history</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Outline_of_painting_history</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Outline_of_painting_history</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7112695</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Outline_of_painting_history</field>
+</doc>
+</add>

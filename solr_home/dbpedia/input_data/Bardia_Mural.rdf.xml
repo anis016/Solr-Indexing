@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bardia_Mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bardia_Mural</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bardia_Mural</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dfhyd</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4860154</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">The Bardia Mural was created in a building on a clifftop overlooking the bay in Bardia, Libya, during World War II by John Frederick Brill just prior to his death at the age of 22. It depicts a collage of images that range from the horrors of war shown by skulls to the memories of home, shown by wine, women and song. The mural still exists and can still be visited. It has, however, been defaced and its state has declined with a large crack in the wall on which it was created. Much of the lower part of the mural is lost. As of April 2009, renovation work has been started by Italian artists who have filled the cracks and replaced broken plaster. Parts of the mural have been cleaned removing graffiti and restoring some of the 'blackness' of the paint. A photograph of John Brill painting his mother can be seen here.</field>
+<field name="label">Bardia Mural</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2e/BardiaMural.jpg</field>
+<field name="comment">The Bardia Mural was created in a building on a clifftop overlooking the bay in Bardia, Libya, during World War II by John Frederick Brill just prior to his death at the age of 22. It depicts a collage of images that range from the horrors of war shown by skulls to the memories of home, shown by wine, women and song. The mural still exists and can still be visited. It has, however, been defaced and its state has declined with a large crack in the wall on which it was created.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BardiaMural.jpg/200px-BardiaMural.jpg</field>
+<field name="link_external">http://www.don-simmonds.co.uk</field>
+<field name="link_external">http://www.fpri.org/footnotes/103.200512.sanzare.libya.html</field>
+<field name="link_external">http://maps.google.com/?ll=31.754299,25.093288&amp;spn=0.067144,0.15398&amp;t=h&amp;om=1</field>
+<field name="link_external">http://www.yourmailinglistprovider.com/pubarchive_show_message_iframe.php?LibyaNews+1355</field>
+<field name="artist">http://dbpedia.org/resource/John_Frederick_Brill</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bardia_Mural</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bardia_Mural</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bardia_Mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bardia_Mural</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4860154</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bardia_Mural</field>
+</doc>
+</add>

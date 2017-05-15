@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Man_Mocked_by_Two_Women</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Man_Mocked_by_Two_Women</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Man_Mocked_by_Two_Women</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6746233</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqrg9f</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dwaj_mężczyźni_i_kobieta</field>
+<field name="sameAs">http://dbpedia.org/resource/Man_Mocked_by_Two_Women</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Man_Mocked_by_Two_Women</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Dos_mujeres_y_un_hombre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="abstract">transferred to linen. Museo del Prado, Madrid]] Man Mocked by Two Women or Women Laughing or or The Ministration are names given to a painting likely completed between 1820–1823 by the Spanish artist Francisco Goya. It is one of Goya's 14 "Black Paintings", a series created in despair near the end of his life, and is oppressively dark in both mood and colour. It shows two women with maniacal smiles seemingly laughing at a simple-minded man masturbating at the left hand of the picture. Despite their jeers, the woman to the right is also likely masturbating, which — in the absence of any written or oral comment from Goya on any work on the series — art critics and historians believe lends to the image's futile and sterile intent.</field>
+<field name="label">Man Mocked by Two Women</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/71/Mujeres_riendo.jpg</field>
+<field name="comment">transferred to linen. Museo del Prado, Madrid]] Man Mocked by Two Women or Women Laughing or or The Ministration are names given to a painting likely completed between 1820–1823 by the Spanish artist Francisco Goya. It is one of Goya's 14 "Black Paintings", a series created in despair near the end of his life, and is oppressively dark in both mood and colour. It shows two women with maniacal smiles seemingly laughing at a simple-minded man masturbating at the left hand of the picture.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Mujeres_riendo.jpg/200px-Mujeres_riendo.jpg</field>
+<field name="link_external">http://www.theartwolf.com/goya_black_paintings_extended.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Man_Mocked_by_Two_Women</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Man_Mocked_by_Two_Women</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Women_Laughing_(Goya)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dwaj_mężczyźni_i_kobieta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Man_Mocked_by_Two_Women</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Dos_mujeres_y_un_hombre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Man_Mocked_by_Two_Women</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6746233</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Man_Mocked_by_Two_Women</field>
+</doc>
+</add>

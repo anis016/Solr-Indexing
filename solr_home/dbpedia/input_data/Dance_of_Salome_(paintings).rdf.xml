@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dance_of_Salome_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Dance_of_Salome_(paintings)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtvq24</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5215266</field>
+<field name="sameAs">http://dbpedia.org/resource/Dance_of_Salome_(paintings)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_based_on_the_Bible</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Adaptations_of_works_by_Oscar_Wilde</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1995_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_stubs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1988_paintings</field>
+<field name="abstract">The Dance of Salomé is the title of a series of 160 works consisting of 85 paintings and 75 drawings created by Nabil Kanso in 1988 and 1995. It is based on biblical and literary works with particular reference to Oscar Wilde’s drama (1893) and Richard Strauss’s opera (1905). The primary subject of all the works in the series is Salomé who is depicted in a sequence of scenes reflecting various nuances of perception in distinctive dance movement.</field>
+<field name="label">Dance of Salome (paintings)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ed/Dance_of_Salome_88.jpg</field>
+<field name="comment">The Dance of Salomé is the title of a series of 160 works consisting of 85 paintings and 75 drawings created by Nabil Kanso in 1988 and 1995. It is based on biblical and literary works with particular reference to Oscar Wilde’s drama (1893) and Richard Strauss’s opera (1905). The primary subject of all the works in the series is Salomé who is depicted in a sequence of scenes reflecting various nuances of perception in distinctive dance movement.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Dance_of_Salome_88.jpg/200px-Dance_of_Salome_88.jpg</field>
+<field name="link_external">http://orientalism.us/salomepaintings.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Dance_of_Salome_(paintings)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dance_of_Salome_(paintings)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Dance_of_Salome_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Dance_of_Salome_(paintings)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Dance_of_Salome</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5215266</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dance_of_Salome_(paintings)</field>
+</doc>
+</add>

@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dead_Eagle_Owl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Dead_Eagle_Owl</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q665028</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Toter_Uhu</field>
+<field name="sameAs">http://dbpedia.org/resource/Dead_Eagle_Owl</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Grand-duc</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bwmmrg</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1881_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_%C3%89douard_Manet</field>
+<field name="abstract">Dead Eagle Owl is an 1881 oil on canvas painting by Édouard Manet. The painting shows a dead Eurasian Eagle-Owl hanging upside down on a board as a hunting trophy. Dead Eagle Owl is one of a series of comparable still lifes that Manet in the same year in Versailles, during his recuperation from a serious illness. There are precedents for this morbid work in French still life painting of the 18th century and Dutch still life painting of the 17th century. The painting is one of the very few hunting still lifes in Manet's oeuvre. Today the painting is in the collection of the Foundation E.G. Bührle in Zurich.</field>
+<field name="label">Dead Eagle Owl</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/ba/Édouard_Manet_-_Toter_Uhu.jpg</field>
+<field name="comment">Dead Eagle Owl is an 1881 oil on canvas painting by Édouard Manet. The painting shows a dead Eurasian Eagle-Owl hanging upside down on a board as a hunting trophy. Dead Eagle Owl is one of a series of comparable still lifes that Manet in the same year in Versailles, during his recuperation from a serious illness. There are precedents for this morbid work in French still life painting of the 18th century and Dutch still life painting of the 17th century.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Édouard_Manet_-_Toter_Uhu.jpg/200px-Édouard_Manet_-_Toter_Uhu.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Dead_Eagle_Owl</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dead_Eagle_Owl</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Toter_Uhu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dead_Eagle_Owl</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Grand-duc</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dead_Eagle_Owl</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Dead_Eagle_Owl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Dead_Eagle_Owl</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q665028</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dead_Eagle_Owl</field>
+</doc>
+</add>

@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_Parisienne_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_Parisienne_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Parisienne</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Parisienne_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_Parisienne_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmb7l3</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6464290</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Parisienne_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Philippine_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_F%C3%A9lix_Resurrecci%C3%B3n_Hidalgo</field>
+<field name="abstract">The La Parisienne is an 1889 painting by Félix Resurrección Hidalgo, a famous Filipino painter and hero. The painting depicts a woman holding an umbrella known as the parasol, a theme similar to Juan Luna's La Madrileña (En el Balcon). Hidalgo's La Parisienne was the first Philippine work of art to be chosen as a cover for Sotheby's sale catalog due to its importance, rarity, uniqueness, and exclusivity. Before the painting's appearance at Sotheby's Southeast Asian paintings sale in Singapore on April 6, 2003, the last time the La Parisienne was exhibited was at the 1889 Paris Exposition Universelle. It is also the only painting of Hidalgo that was featured on the cover of La Illustraccion Española y Americano, a popular weekly magazine in Spain. It appeared on the Spanish magazine's cover on February 28, 2003. Like Luna's La Madrileña (En el Balcon), Hidalgo's La Parisienne is one of two rare paintings created by famous Filipino artists that have not been viewed for a century by the public.</field>
+<field name="label">La Parisienne (painting)</field>
+<field name="comment">The La Parisienne is an 1889 painting by Félix Resurrección Hidalgo, a famous Filipino painter and hero. The painting depicts a woman holding an umbrella known as the parasol, a theme similar to Juan Luna's La Madrileña (En el Balcon). Hidalgo's La Parisienne was the first Philippine work of art to be chosen as a cover for Sotheby's sale catalog due to its importance, rarity, uniqueness, and exclusivity.</field>
+<field name="name"/>
+<field name="artist"/>
+<field name="title">La Parisienne</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_Parisienne_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_Parisienne_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6464290</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Parisienne_(painting)</field>
+</doc>
+</add>

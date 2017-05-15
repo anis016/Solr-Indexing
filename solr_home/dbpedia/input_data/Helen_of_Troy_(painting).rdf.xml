@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Helen_of_Troy_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03mb7l4</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5703468</field>
+<field name="sameAs">http://dbpedia.org/resource/Helen_of_Troy_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Helen_of_Troy_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1898_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="abstract">Helen of Troy is an 1898 painting by Evelyn de Morgan depicting Helen of Troy; it was commissioned by William Imrie of Liverpool. Compositionally, the painting is similar to De Morgan's Flora and Cassandra: Helena is standing upright and tall, in a peaceful posture that reminds to Boticcelli's representations of Greek and Roman goddesses that are, at the same time, an evocation of classical art, a usual characteristic between Renaissance artists. Helena has been removed from the common artistic elements of the Trojan War: despite dealing with a typically bellic topic, De Morgan decides to paint, instead of weapons and battles, the wonderful pink clothes and the fascinated look that Helena puts on the mirror that is reflecting her beautiful face, elements that can be read as symbols of her inconscient vanity, which eventually brought a long and terrible war and destruction to the city of Troy, which we can see in the last term of the composition, on top of a hill. The presence of the moon-sun in the sky is also related to her feminine and voluble nature.</field>
+<field name="label">Helen of Troy (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/94/Helen_of_Troy.jpg</field>
+<field name="comment">Helen of Troy is an 1898 painting by Evelyn de Morgan depicting Helen of Troy; it was commissioned by William Imrie of Liverpool. Compositionally, the painting is similar to De Morgan's Flora and Cassandra: Helena is standing upright and tall, in a peaceful posture that reminds to Boticcelli's representations of Greek and Roman goddesses that are, at the same time, an evocation of classical art, a usual characteristic between Renaissance artists.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Helen_of_Troy.jpg/200px-Helen_of_Troy.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Evelyn_De_Morgan</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/De_Morgan_Centre</field>
+<field name="title">Helen of Troy</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Helen_of_Troy_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Helen_of_Troy_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Helen_of_Troy_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Helen_of_Troy_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5703468</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Helen_of_Troy_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ιησούς_στην_έρημο</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_in_the_Desert</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_in_the_Desert</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://cv.dbpedia.org/resource/Христос_пушхирте_(Крамской_ӳкерчĕкĕ)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2354080</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Христос_в_пустыне_(картина_Крамского)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmd707</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_in_the_Desert</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_in_the_Desert</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Christ_dans_le_désert</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ιησούς_στην_έρημο</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1872_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ivan_Kramskoi</field>
+<field name="abstract">Christ in the Desert, or Christ in the Wilderness (Russian: "Христос в пустыне") is a painting by Russian artist Ivan Kramskoi, reflecting the Fasting of Christ. Kramskoi was offered a professorship for the painting by the Russian Academy of Arts Council, but having learned that in the beginning of 1873, rejected it (he had been expelled from the Academy earlier, and chose to keep his "youthful commitment to independence from the Academy"). Subsequently it became one of the favourite paintings of Pavel Tretyakov, who bought it for his gallery in the year the painting was finished.</field>
+<field name="label">Christ in the Desert</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8a/Kramskoi_Christ_dans_le_désert.jpg</field>
+<field name="comment">Christ in the Desert, or Christ in the Wilderness (Russian: "Христос в пустыне") is a painting by Russian artist Ivan Kramskoi, reflecting the Fasting of Christ. Kramskoi was offered a professorship for the painting by the Russian Academy of Arts Council, but having learned that in the beginning of 1873, rejected it (he had been expelled from the Academy earlier, and chose to keep his "youthful commitment to independence from the Academy").</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Kramskoi_Christ_dans_le_désert.jpg/200px-Kramskoi_Christ_dans_le_désert.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ivan_Kramskoi</field>
+<field name="city">http://dbpedia.org/resource/Moscow</field>
+<field name="height">180</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tretyakov_Gallery</field>
+<field name="title">Christ in the Desert</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_in_the_Desert</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_in_the_Desert</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Christ_dans_le_désert</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_in_the_Desert</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_in_the_Desert</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_in_the_Desert</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Христос_в_пустыне_(картина_Крамского)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_in_the_Desert</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2354080</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_in_the_Desert</field>
+</doc>
+<doc>
+<field name="uri">http://cv.dbpedia.org/resource/Христос_пушхирте_(Крамской_ӳкерчĕкĕ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_in_the_Desert</field>
+</doc>
+</add>

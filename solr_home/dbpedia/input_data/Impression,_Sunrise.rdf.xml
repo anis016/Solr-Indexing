@@ -1,0 +1,293 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Claude_Monet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Impress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Impressione._Levar_del_sole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Impresja,_wschód_słońca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Impressão,_nascer_do_sol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Levant_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Imprese,_východ_slunce</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Impression,_Sonnenaufgang</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Impresión,_sol_naciente</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Impression,_Sunrise</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Impression</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Впечатление._Восходящее_солнце</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Impression,_Sunrise</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Impressio,_auringonnousu</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Впечатление._Восходящее_солнце</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Impression,_soleil_levant</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Impression_soleil_levant</field>
+<field name="sameAs">http://et.dbpedia.org/resource/Impression,_soleil_levant</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+<field name="sameAs">http://mk.dbpedia.org/resource/Импресија,_изгрејсонце</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/印象·日出</field>
+<field name="sameAs">http://he.dbpedia.org/resource/התרשמות,_זריחה</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/印象・日の出</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/İzlenim:_Gün_Doğumu</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Impression,_Sonnenaufgang</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Impressão,_nascer_do_sol</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Impressió,_sol_naixent</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.01_x23</field>
+<field name="sameAs">http://ta.dbpedia.org/resource/உணர்வுப்பதிவு,_சூரியோதயம்</field>
+<field name="sameAs">http://sl.dbpedia.org/resource/Impresija,_vzhajajoče_sonce_(Monet)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Impressione._Levar_del_sole</field>
+<field name="sameAs">http://scn.dbpedia.org/resource/Mprissioni,_suli_nascenti</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Impression,_soleil_levant</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Impresja,_wschód_słońca</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Импресия,_Изгряващо_слънце</field>
+<field name="sameAs">http://ms.dbpedia.org/resource/Impression,_soleil_levant</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q328523</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Impresión,_sol_naciente</field>
+<field name="sameAs">http://pnb.dbpedia.org/resource/امپریشن،_سورج_چڑھنا</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Imprese,_východ_slunce</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Impression,_Sunrise</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Inpresioa,_eguzki_atera_berria</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/دریافتی_از_طلوع_آفتاب</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/Impresión,_sol_nacente</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1870s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="abstract">Impression, Sunrise (Impression, soleil levant) is a painting by Claude Monet. It gave rise to the name of the Impressionist movement.</field>
+<field name="label">Impression, Sunrise</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5c/Claude_Monet,_Impression,_soleil_levant,_1872.jpg</field>
+<field name="comment">Impression, Sunrise (Impression, soleil levant) is a painting by Claude Monet. It gave rise to the name of the Impressionist movement.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Claude_Monet,_Impression,_soleil_levant,_1872.jpg/200px-Claude_Monet,_Impression,_soleil_levant,_1872.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">48</field>
+<field name="image"/>
+<field name="imageSize">304</field>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_Marmottan_Monet</field>
+<field name="title">Impression, soleil levant</field>
+<field name="type">Oil on canvas</field>
+<field name="width">63</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Impression,_Sunrise</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Impression:_Lever_De_Soleil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Impression:_Soleil_Levant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Impression:_Sunrise</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Impression_Sunrise</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Impression_Sunset</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Impression_soleil_levant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/印象・日の出</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Impression,_soleil_levant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sunrise_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Impressionist_Sunrise</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Impression,_soleil_levant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Inpresioa,_eguzki_atera_berria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q328523</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/印象·日出</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Импресия,_Изгряващо_слънце</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Impressió,_sol_naixent</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://et.dbpedia.org/resource/Impression,_soleil_levant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/دریافتی_از_طلوع_آفتاب</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Impressio,_auringonnousu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/Impresión,_sol_nacente</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/התרשמות,_זריחה</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://mk.dbpedia.org/resource/Импресија,_изгрејсонце</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://ms.dbpedia.org/resource/Impression,_soleil_levant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://pnb.dbpedia.org/resource/امپریشن،_سورج_چڑھنا</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Impression,_soleil_levant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://scn.dbpedia.org/resource/Mprissioni,_suli_nascenti</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://sl.dbpedia.org/resource/Impresija,_vzhajajoče_sonce_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://ta.dbpedia.org/resource/உணர்வுப்பதிவு,_சூரியோதயம்</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/İzlenim:_Gün_Doğumu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Impression,_Sunrise</field>
+</doc>
+</add>

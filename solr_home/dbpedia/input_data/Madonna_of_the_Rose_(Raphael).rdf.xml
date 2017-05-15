@@ -1,0 +1,100 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_della_Rosa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_à_la_rose_(Raphaël)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_della_Rosa_(Raffaello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_della_Rosa_(Raffaello)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_à_la_rose_(Raphaël)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Güllü_Madonna_(Rafael)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_della_Rosa</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_с_розой</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_de_la_rosa</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2420918</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Madonna_qızılgüllə_(Rafael)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Мадонна_з_трояндою</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h3yd1</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520_paintings</field>
+<field name="abstract">The Madonna of the Rose (Madonna della rosa) is a 1518-1520 painting, now in the Museo del Prado in Madrid. Ironically, the rose in this painting and the entire lower portion, was added at a later date by an unknown artist. Its attribution as by Raphael is uncertain, and the involvement of Giulio Romano cannot be excluded. A second autograph version of this painting, without the added rose and lower strip, painted on wood panel, is owned by real estate magnate Luke Brugnara.</field>
+<field name="label">Madonna of the Rose (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2c/MadonnaRosa.jpg</field>
+<field name="comment">The Madonna of the Rose (Madonna della rosa) is a 1518-1520 painting, now in the Museo del Prado in Madrid. Ironically, the rose in this painting and the entire lower portion, was added at a later date by an unknown artist. Its attribution as by Raphael is uncertain, and the involvement of Giulio Romano cannot be excluded. A second autograph version of this painting, without the added rose and lower strip, painted on wood panel, is owned by real estate magnate Luke Brugnara.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/MadonnaRosa.jpg/200px-MadonnaRosa.jpg</field>
+<field name="link_external">http://www.museodelprado.es/es/pagina-principal/coleccion/galeria-on-line/galeria-on-line/obra/sagrada-familia-con-san-juanito-o-virgen-de-la-rosa/</field>
+<field name="artist"/>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">103</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">Madonna of the Rose</field>
+<field name="width">84</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_the_Rose_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_the_Rose_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Madonna_qızılgüllə_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Güllü_Madonna_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Мадонна_з_трояндою</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_de_la_rosa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_с_розой</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2420918</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rose_(Raphael)</field>
+</doc>
+</add>

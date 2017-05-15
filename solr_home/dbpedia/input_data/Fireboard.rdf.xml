@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fireboards</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Fireboard</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Fireboard</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fireboard</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fireboard</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Fireboard</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hrgtks</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5451738</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fireplaces</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Wallcoverings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Decorative_arts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings</field>
+<field name="abstract">A fireboard or chimney board is a panel designed to cover a fireplace during the warm months of the year. It was "commonly used during the later 18th and early 19th centuries" in places like France and New England. In warm weather, "a fireboard effectively reduced the number of mosquitoes and other insects, or even birds, that might enter a house through an open, damperless chimney. " The "board or shutterlike contrivance" typically "of wood or cast of sheet metal" is "frequently decorated with painting and stencilling. " Some fireboards have notches cut out of the lowest edge to accommodate andirons. Fireboards are also called: chimney boards, chimney pieces, chimney stops, fire boards, summer boards. Among the many artists who have produced ornamental fireboards: Robert Adam; Winthrop Chandler (1747-1790); Andien de Clermont; Charles Codman; Michele Felice Cornè; Edward Hicks; Jean-Baptiste Oudry; Rufus Porter. Examples of decorated fireboards are in numerous collections, including: Historic Deerfield, Massachusetts; Historic New England; National Gallery of Art, Washington, DC, USA; Peabody Essex Museum; Victoria &amp; Albert Museum.</field>
+<field name="label">Fireboard</field>
+<field name="comment">A fireboard or chimney board is a panel designed to cover a fireplace during the warm months of the year. It was "commonly used during the later 18th and early 19th centuries" in places like France and New England. In warm weather, "a fireboard effectively reduced the number of mosquitoes and other insects, or even birds, that might enter a house through an open, damperless chimney.</field>
+<field name="link_external">http://folkartcooperstown.blogspot.com/2011/06/fireplace-fantasy.html</field>
+<field name="link_external">http://www.artic.edu/aic/collections/artwork/208078?search_id=1</field>
+<field name="link_external">http://www.flickr.com/photos/artgalleryns/5534824798/</field>
+<field name="link_external">http://www.folkartmuseum.org/?p=folk&amp;t=images&amp;id=4220</field>
+<field name="link_external">http://folkartcooperstown.blogspot.com/2010/08/two-new-hampshire-fireboards.html</field>
+<field name="link_external">http://www.vandaimages.com/results.asp?image=2006BF9888-01</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Fireboard</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Fireboard</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5451738</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fireboard</field>
+</doc>
+</add>

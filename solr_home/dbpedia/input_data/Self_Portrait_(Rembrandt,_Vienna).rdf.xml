@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self_Portrait_(Rembrandt,_Vienna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self_Portrait_(Rembrandt,_Vienna)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self_Portrait_(Rembrandt,_Vienna)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bwfmz_</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1652_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:17th-century_portraits</field>
+<field name="abstract">Self Portrait (or The Large Self-Portrait) is an oil on canvas painting by the Dutch artist Rembrandt. Painted in 1652, it is one of at least 40 self-portraits painted by the artist, and was the first he had painted since 1645. In composition it is different from his previous self-portraits, depicting the painter in a direct frontal pose, hands on his hips, and with an air of self-confidence. It was painted the year that his financial difficulties began, and breaks with the sumptuous finery he had worn in previous self-portraits. Art historian Christopher White has called it "one of the most magisterial and sombre of these (late) pictures". It is in the Kunsthistorisches Museum in Vienna. The freely painted clothing includes a brown robe that was most likely casual working attire, secured with a sash, over a black doublet with an upturned collar. A drawing from c. 1650 shows Rembrandt in much the same pose and attire, and features an inscription, though not by the artist's hand, stating that these were the artist's studio clothes. In the drawing Rembrandt is seen wearing a top hat, while in the painting he wears a black beret derivative of artists' portraits of the 16th century. Following a period of seven years when he painted no self-portraits, focusing instead on landscapes and intimate domestic subjects, the Vienna Self Portrait inaugurated a prolific stretch in which Rembrandt painted an average of one self-portrait a year until his death in 1669. Contrary to the popular understanding that these paintings primarily represented a deeper personal interest in self-depiction, Ernst van de Wetering has proposed that they were painted specifically for connoisseurs who collected self-portraits by prominent artists. As in other late portraits and self-portraits by Rembrandt, a painted underlayer shows through in areas of shadow, here particularly in the eye sockets and beneath the moustache. Microscopic analysis has revealed that this is not the painted ground layer, which is a similar gray color, but a separate underlayer of paint. This local imprimatura, used in preparation for specific areas of the painting, was also practiced by Vermeer, and its purpose is not fully understood. A strong similarity has been noted to the self-portrait of c. 1655, also in the Vienna Kunsthistorisches Museum. The later work shares the frontal angle, lighting, and informal attire of the larger painting, though the artist's face appears older. A painting of Rembrandt' son Titus van Rijn, by another artist in the style of Rembrandt, duplicates the pose and positioning of the figure in the Self Portrait.</field>
+<field name="label">Self Portrait (Rembrandt, Vienna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2d/Rembrandt_Harmensz._van_Rijn_127b.jpg</field>
+<field name="comment">Self Portrait (or The Large Self-Portrait) is an oil on canvas painting by the Dutch artist Rembrandt. Painted in 1652, it is one of at least 40 self-portraits painted by the artist, and was the first he had painted since 1645. In composition it is different from his previous self-portraits, depicting the painter in a direct frontal pose, hands on his hips, and with an air of self-confidence.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Rembrandt_Harmensz._van_Rijn_127b.jpg/200px-Rembrandt_Harmensz._van_Rijn_127b.jpg</field>
+<field name="link_external">http://www.khm.at/en/kunsthistorisches-museum/collections/picture-gallery/holland-17th-century/?aid=0&amp;cHash=4e670e87f3</field>
+<field name="link_external">http://www.metmuseum.org/works_of_art/collection_database/european_paintings/rembrandt_s_son_titus_1641_1668_style_of_rembrandt_17th_century_or_later/objectview.aspx?collID=11&amp;OID=110001870</field>
+<field name="link_external">http://www.independent.co.uk/arts-entertainment/in-his-own-image-1096917.html?cmp=ilc-n</field>
+<field name="artist">http://dbpedia.org/resource/Rembrandt</field>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="height">112.1</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Self Portrait</field>
+<field name="type">Oil on canvas</field>
+<field name="width">81</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self_Portrait_(Rembrandt,_Vienna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self_Portrait_(Rembrandt,_Vienna)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self_Portrait_(Rembrandt,_Vienna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self_Portrait_(Rembrandt,_Vienna)</field>
+</doc>
+</add>

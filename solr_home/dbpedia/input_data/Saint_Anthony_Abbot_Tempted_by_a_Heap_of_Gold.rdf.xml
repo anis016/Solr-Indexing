@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sant'Antonio_tentato_da_un_mucchio_d'oro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3948786</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sant'Antonio_tentato_da_un_mucchio_d'oro</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06w9btr</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="abstract">Saint Anthony Abbot Tempted by a Heap of Gold is a painting by the 15th-century Sienese painter known as the Master of the Osservanza. Completed circa 1435 in tempera and gold on panel, it is one of his cycle of eight works representing scenes from Saint Anthony's life. Anthony lived during the third century, and for a period survived as a wandering hermit in the Egyptian wilderness. Depictions often show him surrounded by debased creatures who gather to lure him into sin by offering the devil disguised in various disguises, such as posing as a woman or an object of wealth. In this instance, the gathering animals entice him with a pot of gold. At some stage early in the painting's history, the pot, which had been shown on the ground near the rabbit, was scraped out, removing the cause of the saint's gesture. Typical of 15th-century Italian art, the figures in this composition are small in relation to the full canvas; their importance is indicated moreover by their proximity to the foreground. The artist worked in an age before the discovery of perspective, and so the painting appears relatively 'flat' to modern eyes. However, depth of field is indicated by the path, which winds beyond the saint in the foreground, before forking to the right into the higher and more distant background. The painting was held by Prince Léon Ouroussoff of Vienna until acquired by American banker Philip Lehman in 1924. Today it is housed in the Metropolitan Museum of Art in New York.</field>
+<field name="label">Saint Anthony Abbot Tempted by a Heap of Gold</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2d/'Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold,_,Tempera_on_panel_painting_by_the_Master_of_the_Osservanza_Triptych,_ca._1435,_Metropolitan_Museum_of_Art_.jpg</field>
+<field name="comment">Saint Anthony Abbot Tempted by a Heap of Gold is a painting by the 15th-century Sienese painter known as the Master of the Osservanza. Completed circa 1435 in tempera and gold on panel, it is one of his cycle of eight works representing scenes from Saint Anthony's life. Anthony lived during the third century, and for a period survived as a wandering hermit in the Egyptian wilderness.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/'Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold,_,Tempera_on_panel_painting_by_the_Master_of_the_Osservanza_Triptych,_ca._1435,_Metropolitan_Museum_of_Art_.jpg/200px-'Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold,_,Tempera_on_panel_painting_by_the_Master_of_the_Osservanza_Triptych,_ca._1435,_Metropolitan_Museum_of_Art_.jpg</field>
+<field name="link_external">http://www.metmuseum.org/toah/ho/08/eustc/ho_1975.1.27.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3948786</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Anthony_Abbot_Tempted_by_a_Heap_of_Gold</field>
+</doc>
+</add>

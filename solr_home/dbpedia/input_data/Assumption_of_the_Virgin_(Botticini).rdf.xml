@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Botticini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Assumption_of_the_Virgin_(Botticini)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04dyw01</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q323753</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/聖母升天_(波提契尼)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Assunzione_della_Vergine_(Botticini)</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Botticini)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="abstract">The Assumption of the Virgin, 1475 - 1476, is a large (228.6 x 377.2 cm) painting in tempera on wood panel by Francesco Botticini. It was commissioned as the altarpiece for a church in Florence and is now in the National Gallery, London. The disciples gather around Mary's lily-filled tomb with looks of amazement. There are donor portraits of Matteo Palmieri, who commissioned the work, kneeling on the left, and his wife on the right. In Heaven above, surrounded by the nine choirs of angels, Jesus raises his hand in blessing to his kneeling mother. Among the lesser angels around Jesus and Mary are saints. Together with Palmieri's poem La città di vita, this mixing of saints with angels raised questions about the orthodoxy of the donor Palmieri, and possibly that of the painter Botticini himself.</field>
+<field name="label">Assumption of the Virgin (Botticini)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/ff/Francesco_Botticini_-_The_Assumption_of_the_Virgin.jpg</field>
+<field name="comment">The Assumption of the Virgin, 1475 - 1476, is a large (228.6 x 377.2 cm) painting in tempera on wood panel by Francesco Botticini. It was commissioned as the altarpiece for a church in Florence and is now in the National Gallery, London. The disciples gather around Mary's lily-filled tomb with looks of amazement. There are donor portraits of Matteo Palmieri, who commissioned the work, kneeling on the left, and his wife on the right.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Francesco_Botticini_-_The_Assumption_of_the_Virgin.jpg/200px-Francesco_Botticini_-_The_Assumption_of_the_Virgin.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Botticini)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Assumption_of_the_Virgin_(Botticini)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Botticini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Botticini)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Assunzione_della_Vergine_(Botticini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Botticini)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q323753</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Botticini)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/聖母升天_(波提契尼)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Botticini)</field>
+</doc>
+</add>

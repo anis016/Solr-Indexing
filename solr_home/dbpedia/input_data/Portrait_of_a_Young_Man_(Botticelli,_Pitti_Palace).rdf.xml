@@ -1,0 +1,77 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_giovane_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_jeune_homme_(Botticelli,_Florence)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภาพเหมือนของชายหนุ่ม_(บอตติเชลลี-พิตติ)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_joven_(Botticelli,_Florencia)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_giovane_(Botticelli)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gv5kv</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q742801</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="abstract">The Portrait of a Young Man is a painting by the Italian Renaissance artist Sandro Botticelli, dated between 1470 and 1475. It is housed in the Palazzo Pitti of Florence. Variously attributed to different painters, it was eventually included in Botticelli's works. It is one of the first known three-quarters portraits in western European art.</field>
+<field name="label">Portrait of a Young Man (Botticelli, Pitti Palace)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/51/YoungManBotticelli.jpg</field>
+<field name="comment">The Portrait of a Young Man is a painting by the Italian Renaissance artist Sandro Botticelli, dated between 1470 and 1475. It is housed in the Palazzo Pitti of Florence. Variously attributed to different painters, it was eventually included in Botticelli's works. It is one of the first known three-quarters portraits in western European art.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/YoungManBotticelli.jpg/200px-YoungManBotticelli.jpg</field>
+<field name="link_external">http://www.sbas.firenze.it/palatina/</field>
+<field name="artist"/>
+<field name="height">51</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of a Young Man</field>
+<field name="type">Tempera on panel</field>
+<field name="width">33.7</field>
+<field name="year">c. 1470-1475</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_joven_(Botticelli,_Florencia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Man_of_Pitti_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_jeune_homme_(Botticelli,_Florence)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q742801</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภาพเหมือนของชายหนุ่ม_(บอตติเชลลี-พิตติ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Botticelli,_Pitti_Palace)</field>
+</doc>
+</add>

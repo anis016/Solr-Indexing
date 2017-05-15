@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beverly_Hills_Housewife</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05p2j1w</field>
+<field name="sameAs">http://dbpedia.org/resource/Beverly_Hills_Housewife</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Beverly_Hills_Housewife</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4899555</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Beverly Hills Housewife is a 1967 painting by David Hockney, part of his California Dreaming series. It depicts the American philanthropist Betty Freeman standing on the patio of her luxury home in Los Angeles, California. The painting was purchased by Freeman upon its completion and formed the centrepiece of her art collection until her death in 2009 after which it was put on display at the Kings Street Christies in London prior to a May auction in New York where it is expected to fetch in the region of between 5-7 million pounds, which would be a record for a Hockney painting.</field>
+<field name="label">Beverly Hills Housewife</field>
+<field name="comment">Beverly Hills Housewife is a 1967 painting by David Hockney, part of his California Dreaming series. It depicts the American philanthropist Betty Freeman standing on the patio of her luxury home in Los Angeles, California.</field>
+<field name="link_external">http://news.bbc.co.uk/1/hi/entertainment/7959626.stm</field>
+<field name="link_external">http://www.thetelegraphandargus.co.uk/news/local/localbrad/4226249.Hockney_painting_expected_to_fetch_at_least___5_million/</field>
+<field name="link_external">http://www.thisislondon.co.uk/standard/article-23648064-details/Hockney's+Housewife+to+make+even+bigger+splash/article.do</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Beverly_Hills_Housewife</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Beverly_Hills_Housewife</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beverley_Hills_Housewife</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Beverly_Hills_Housewife</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Beverly_Hills_Housewife</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4899555</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beverly_Hills_Housewife</field>
+</doc>
+</add>

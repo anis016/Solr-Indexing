@@ -1,0 +1,216 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Weaver_Arranging_Threads</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Weaver_Facing_Right</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Weaver_Standing_in_Front_of_a_Loom</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Peasant_Character_Studies_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7158404</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Peasant_Character_Studies_(Van_Gogh_series)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bm9bz1</field>
+<field name="sameAs">http://dbpedia.org/resource/Peasant_Character_Studies_(Van_Gogh_series)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1884_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Museum_of_Fine_Arts,_Antwerp</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1881_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="abstract">Peasant Character Studies is a series of works that Vincent van Gogh made between 1881 and 1885. Van Gogh had a particular attachment and sympathy for the working class fueled in several ways. He was particularly fond of the peasant genre work of Jean-François Millet and others. He found the subjects noble and important in the development of modern art. Van Gogh had seen the changing landscape in Holland as industrialization encroached on once pastoral settings and the livelihoods of the working poor with little opportunity to change vocation. Van Gogh had a particular interest in creating character studies of working men and women in Holland and Belgium, such as farmers, weavers, and fishermen. Making up a large body of Van Gogh's work during this period, the character studies were an important, foundational component in his artistic development.</field>
+<field name="label">Peasant Character Studies (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/dd/Van_Gogh_1881-12,_Etten_-_Scheveningen_Woman_Sewing_F_869_JH_83.jpg</field>
+<field name="comment">Peasant Character Studies is a series of works that Vincent van Gogh made between 1881 and 1885. Van Gogh had a particular attachment and sympathy for the working class fueled in several ways. He was particularly fond of the peasant genre work of Jean-François Millet and others. He found the subjects noble and important in the development of modern art.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Van_Gogh_1881-12,_Etten_-_Scheveningen_Woman_Sewing_F_869_JH_83.jpg/200px-Van_Gogh_1881-12,_Etten_-_Scheveningen_Woman_Sewing_F_869_JH_83.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Woman Sewing</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Peasant_Character_Studies_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Peasant_Character_Studies_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Peasant_Burning_Weeds</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Peat_Boat_with_Two_Figures</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Potato_Digging_(Five_Figures)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Two_Women_in_the_Moor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Wood_Auction</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Farmers_Planting_Potatoes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Head_of_a_Peasant_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Head_of_a_Peasant_Woman_with_Dark_Cap</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Head_of_a_Peasant_Woman_with_White_Cap</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Head_of_a_Peasant_with_Cap</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Head_of_an_Old_Peasant_Woman_with_White_Cap</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Loom_With_Weaver</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Peasant_Woman,_Half_Figure,_Seated_with_White_Cap</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Peasant_Woman_Raking</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Potato_Planting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saying_Grace_(van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shepherd_with_a_Flock_of_Sheep</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sower_(study),_The</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sower_(study)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Weaver,_Seen_from_the_Front</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Weaver_Facing_Left_with_Spinning_Wheel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Weaver_Facing_Right_(Half-Figure</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Weaver_Facing_Right_(Half-Figure)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Weaver_Near_an_Open_Window</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Weaver_Standing_in_front_of_the_Loom</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_Feeding_Chickens</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_Seated</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_Sewing</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_with_Wheelbarrow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Wood_Gatherers_in_the_Snow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Peasant_Character_Studies_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Peasant_Character_Studies_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sower_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7158404</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Peasant_Character_Studies_(Van_Gogh_series)</field>
+</doc>
+</add>

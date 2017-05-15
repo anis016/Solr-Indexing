@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tauberbischofsheim_altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tauberbischofsheim_altarpiece</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dddgr1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2396579</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Tauberbischofsheim_altarpiece</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Tauberbischofsheimer_Altar</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Matthias_Gr%C3%BCnewald</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:German_Renaissance</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520s_paintings</field>
+<field name="abstract">The Taubischofsheim altarpiece is a late work by the German Renaissance painter Matthias Grünewald, probably completed between 1523 and 1525. The earliest written references to the work come from the 18th century, when the altarpiece was still in the Church of St. Martin in Tauberbischofsheim. Its original location and the identity of the patron who commissioned it are not known, but it is assumed that they both were in Tauberbischofsheim. The panels, which today are displayed separately, were originally painted on either side of a 196 cm by 152 cm wooden panel. Whether the pieces were the central part of a polyptych is uncertain, however. In order to display the work in an art museum, the panel was split in half during its first restoration in 1883. The paintings have been in the collection of the Staatliche Kunsthalle Karlsruhe since 1900.</field>
+<field name="label">Tauberbischofsheim altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/47/Mathis_Gothart_Grünewald_058.jpg</field>
+<field name="comment">The Taubischofsheim altarpiece is a late work by the German Renaissance painter Matthias Grünewald, probably completed between 1523 and 1525. The earliest written references to the work come from the 18th century, when the altarpiece was still in the Church of St. Martin in Tauberbischofsheim. Its original location and the identity of the patron who commissioned it are not known, but it is assumed that they both were in Tauberbischofsheim.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Mathis_Gothart_Grünewald_058.jpg/200px-Mathis_Gothart_Grünewald_058.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Tauberbischofsheim_altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tauberbischofsheim_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Tauberbischofsheimer_Altar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tauberbischofsheim_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Tauberbischofsheim_altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Tauberbischofsheim_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tauberbischofsheim_Altar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2396579</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tauberbischofsheim_altarpiece</field>
+</doc>
+</add>

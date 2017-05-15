@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Napoleon_at_Austerlitz</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6965062</field>
+<field name="sameAs">http://dbpedia.org/resource/Napoleon_at_Austerlitz</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Napoleon_at_Austerlitz</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03c95q0</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cloud_County,_Kansas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_Napoleon</field>
+<field name="abstract">Napoleon at Austerlitz is a lavish painting on a theatre drop curtain at the Brown Grand Theatre in Concordia, Kansas. It is a reproduction of a Horace Vernet painting and actually depicts the Battle of Wagram.</field>
+<field name="label">Napoleon at Austerlitz</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2c/Napoleon.jpg</field>
+<field name="comment">Napoleon at Austerlitz is a lavish painting on a theatre drop curtain at the Brown Grand Theatre in Concordia, Kansas. It is a reproduction of a Horace Vernet painting and actually depicts the Battle of Wagram.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Napoleon.jpg/200px-Napoleon.jpg</field>
+<field name="link_external">http://www.browngrand.org/</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Concordia,_Kansas</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Brown_Grand_Theatre</field>
+<field name="title">Napoleon at Austerlitz</field>
+<field name="type">Drop Curtain</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Napoleon_at_Austerlitz</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Napoleon_at_Austerlitz</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Napoleon_at_Austerlitz</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Napoleon_at_Austerlitz</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Napoleon_at_austerlitz</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6965062</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Napoleon_at_Austerlitz</field>
+</doc>
+</add>

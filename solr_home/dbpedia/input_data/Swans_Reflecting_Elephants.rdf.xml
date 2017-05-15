@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Лебеди,_отражающиеся_в_слонах</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Swans_Reflecting_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Swans_Reflecting_Elephants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Swans_Reflecting_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cisnes_que_se_reflejan_como_elefantes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Swans_Reflecting_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Swans_Reflecting_Elephants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.079wy0</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q172558</field>
+<field name="sameAs">http://he.dbpedia.org/resource/ברבורים_משתקפים_בפילים</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Cygnes_reflétant_des_éléphants</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Swans_Reflecting_Elephants</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cisnes_que_se_reflejan_como_elefantes</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Лебеді,_які_відображаються_у_слонах</field>
+<field name="sameAs">http://dbpedia.org/resource/Swans_Reflecting_Elephants</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Лебеди,_отражающиеся_в_слонах</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1937_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="abstract">Swans Reflecting Elephants (1937) is a painting by the Spanish surrealist Salvador Dalí. This painting is from Dalí's Paranoiac-critical period. Painted using oil on canvas, it contains one of Dali's famous double images. The double images were a major part of Dali's "paranoia-critical method," which he put forward in his 1935 essay "The Conquest of the Irrational. " He explained his process as a "spontaneous method of irrational understanding based upon the interpretative critical association of delirious phenomena. " Dali used this method to bring forth the hallucinatory forms, double images and visual illusions that filled his paintings during the Thirties. As with earlier Metamorphosis of Narcissus, Swans Reflecting Elephants uses the reflection in a lake to create the double image seen in the painting. In Metamorphosis, the reflection of Narcissus is used to mirror the shape of the hand on the right of the picture. Here, the three swans in front of bleak, leafless trees are reflected in the lake so that the swans' heads become the elephants' heads and the trees become the bodies of the elephants. In the background of the painting is a Catalonian landscape depicted in fiery fall colors, the brushwork creating swirls in the cliffs that surround the lake, to contrast with the stillness of the water.</field>
+<field name="label">Swans Reflecting Elephants</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f6/Swans_reflecting_elephants.jpg</field>
+<field name="comment">Swans Reflecting Elephants (1937) is a painting by the Spanish surrealist Salvador Dalí. This painting is from Dalí's Paranoiac-critical period. Painted using oil on canvas, it contains one of Dali's famous double images. The double images were a major part of Dali's "paranoia-critical method," which he put forward in his 1935 essay "The Conquest of the Irrational.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Swans_reflecting_elephants.jpg/200px-Swans_reflecting_elephants.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="height">51</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">Swans Reflecting Elephants</field>
+<field name="width">77</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Swans_Reflecting_Elephants</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Swans_Reflecting_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Cygnes_reflétant_des_éléphants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Swans_Reflecting_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q172558</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Swans_Reflecting_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/ברבורים_משתקפים_בפילים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Swans_Reflecting_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Лебеді,_які_відображаються_у_слонах</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Swans_Reflecting_Elephants</field>
+</doc>
+</add>

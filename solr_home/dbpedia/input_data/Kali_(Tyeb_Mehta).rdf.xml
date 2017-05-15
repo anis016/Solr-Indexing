@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Kali_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Kali_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Kali_(Tyeb_Mehta)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Kali_(Tyeb_Mehta)</field>
+<field name="sameAs">http://dbpedia.org/resource/Kali_(Tyeb_Mehta)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6352383</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.065v0y</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Indian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1997_paintings</field>
+<field name="abstract">Kali is a painting by Indian artist Tyeb Mehta depicting the Hindu goddess Kali with a gouged mouth. Painted in 1997, the work was sold in May 2005 for 10 million Indian rupees at Indian auction house Saffronart's online auction. According to the Times of India, it is a "dramatic, disturbing work".</field>
+<field name="label">Kali (Tyeb Mehta)</field>
+<field name="comment">Kali is a painting by Indian artist Tyeb Mehta depicting the Hindu goddess Kali with a gouged mouth. Painted in 1997, the work was sold in May 2005 for 10 million Indian rupees at Indian auction house Saffronart's online auction. According to the Times of India, it is a "dramatic, disturbing work".</field>
+<field name="name"/>
+<field name="link_external">http://timesofindia.indiatimes.com/articleshow/1116251.cms</field>
+<field name="artist">http://dbpedia.org/resource/Tyeb_Mehta</field>
+<field name="imageSize">250</field>
+<field name="title">Kali</field>
+<field name="type">acrylic on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Kali_(Tyeb_Mehta)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kali_(Tyeb_Mehta)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Kali_(Tyeb_Mehta)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Kali_(Tyeb_Mehta)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6352383</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Kali_(Tyeb_Mehta)</field>
+</doc>
+</add>

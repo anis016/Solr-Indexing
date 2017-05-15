@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Earth's_Creation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zsk_7</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5326987</field>
+<field name="sameAs">http://dbpedia.org/resource/Earth's_Creation</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Earth's_Creation</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="abstract">Earth's Creation is a painting by the Australian Aboriginal artist Emily Kame Kngwarreye. It was painted in 1994 at Utopia, north east of Alice Springs.</field>
+<field name="label">Earth's Creation</field>
+<field name="comment">Earth's Creation is a painting by the Australian Aboriginal artist Emily Kame Kngwarreye. It was painted in 1994 at Utopia, north east of Alice Springs.</field>
+<field name="link_external">http://www.abc.net.au/news/photos/2007/05/23/1931023.htm</field>
+<field name="link_external">http://www.smh.com.au/news/business/emily-rides-to-rescue-with-big-creation/2007/06/01/1180205514410.html</field>
+<field name="link_external">http://www.heraldsun.com.au/business/watching-the-price-of-spirituality/story-e6frfh4f-1225776645452</field>
+<field name="link_external">http://www.mbantuablog.com/2008/01/on-may-23-2007-mbantua-gallery-bid-for.html</field>
+<field name="link_external">http://newsroom.nt.gov.au/index.cfm?fuseaction=printRelease&amp;ID=3755</field>
+<field name="link_external">http://www.aboriginalartnews.com.au/2009/03/earths-creation-in-alice.php</field>
+<field name="link_external">http://www.nma.gov.au/exhibitions/utopia_the_genius_of_emily_kame_kngwarreye/colourism/</field>
+<field name="link_external">http://newsroom.nt.gov.au/adminmedia/mailouts/3755/attachments/Microsoft%20Word%20-%20hendo.130308.earths_creation.pdf</field>
+<field name="link_external">http://www.mbantua.com.au/news.php</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Earth's_Creation</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Earth's_Creation</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Earth's_Creation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Earth's_Creation</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5326987</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Earth's_Creation</field>
+</doc>
+</add>

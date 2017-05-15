@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Parisian_Life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Parisian_Life</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Parisian_Life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmgzp5</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7756124</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Parisian_Life</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Parisian_Life</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Impressionist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Juan_Luna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1892_paintings</field>
+<field name="abstract">This article is about a painting. For the musical film, see Parisian Life. The Parisian Life, also known as Interior d'un Cafi (also spelled Interior d’Un Café, literally meaning "Inside a Café"), is an 1892 oil on canvas impressionist painting by Filipino painter and revolutionary activist Juan Luna. The painting presently owned by the Government Service Insurance System is currently exhibited at the National Museum of the Philippines after the state pension fund transferred management of its collection to the National Museum in March 2012. Measuring 57 cm x 79 cm (22 in x 31 in), The Parisian Life is one of the masterpieces that Luna created when he stayed in Paris, France from October 1884 to February 1893. His own personal “Parisian life” was a total of eight years. This period in Luna’s career in painting is known as the post-academic or the Parisian period, a time when his style moved away from having “dark colors of the academic palette” and became “increasingly lighter in color and mood”. As an artist, Luna became renowned on the European continent and became “a familiar of the French and Spanish royal courts”. During the period, apart from his heightening artistry Luna was also participating in the Philippine propaganda movement together with José Rizal, the national hero of the Philippines. Months after painting The Parisian Life, Luna would be departing from Paris to Madrid, Spain then to the Manila, Philippines in 1894 in order to rejoin Rizal and Dr. Ariston Bautista Lin, and perform his role in the Philippine Revolution and war of independence in 1896. During this time, Luna also had to deal with the death of an infant daughter and the alleged extra-marital affair of his wife Paz Pardo de Tavera with a French physician. Because of jealousy, Luna killed his wife and his mother-in-law. Luna also attempted to kill his brother-in-law. A French court charged Luna for committing a "crime of passion" but was acquitted of parricide and murder on February 7, 1893. The Parisian Life is regarded as the last major work Luna did during his post-academic and life in Paris because from 1894 Luna travelled frequently that he was only able to paint a few number of landscapes in the Philippines. When Luna returned to France in 1898, he was an appointed member of the delegation in Paris representing the Philippine revolutionary government tasked to work for the diplomatic recognition of the Philippines as an independent Republic. In 1899, Luna died in Hong Kong while on the way back to the Philippines.</field>
+<field name="label">The Parisian Life</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/44/The_Parisian_Life_by_Juan_Luna.jpg</field>
+<field name="comment">This article is about a painting. For the musical film, see Parisian Life. The Parisian Life, also known as Interior d'un Cafi (also spelled Interior d’Un Café, literally meaning "Inside a Café"), is an 1892 oil on canvas impressionist painting by Filipino painter and revolutionary activist Juan Luna.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/The_Parisian_Life_by_Juan_Luna.jpg/200px-The_Parisian_Life_by_Juan_Luna.jpg</field>
+<field name="link_external">http://www.flickr.com/photos/diamonds_in_the_soles_of_her_shoes/sets/72157600119021830/</field>
+<field name="artist"/>
+<field name="museum">http://dbpedia.org/resource/National_Museum_of_the_Philippines</field>
+<field name="title">The Parisian Life</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Parisian_Life</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Parisian_Life</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Interior_d%E2%80%99Un_Caf%C3%A9</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Interior_d'un_Cafi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Inside_a_Caf%C3%A9</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Inside_the_Caf%C3%A9</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7756124</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Parisian_Life</field>
+</doc>
+</add>

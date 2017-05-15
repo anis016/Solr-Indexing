@@ -1,0 +1,30 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hymen_o_Hymenee</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hymen_o_Hymenee</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hymen_o_Hymenee</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmjsh3</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hymen_o_Hymenee</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5956406</field>
+<field name="sameAs">http://dbpedia.org/resource/Hymen_o_Hymenee</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Juan_Luna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="abstract">Hymen o Hymenee is an award-winning 1889 painting by Filipino painter and hero Juan Luna. The painting won a bronze medal during the 1889 Paris Exposition Universelle in Paris, France.</field>
+<field name="label">Hymen o Hymenee</field>
+<field name="comment">Hymen o Hymenee is an award-winning 1889 painting by Filipino painter and hero Juan Luna. The painting won a bronze medal during the 1889 Paris Exposition Universelle in Paris, France.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hymen_o_Hymenee</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hymen_o_Hymenee</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5956406</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hymen_o_Hymenee</field>
+</doc>
+</add>

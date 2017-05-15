@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_Willys</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_Willys</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Willys</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_Willys</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hgn8sf</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_Willys</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6728393</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_S%C3%A3o_Paulo_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Bellini</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_paintings</field>
+<field name="abstract">Virgin with the Standing Child, Embracing his Mother, also known as Madonna Willys is a painting by the Italian Renaissance master Giovanni Bellini. It is currently housed at the São Paulo Museum of Art in São Paulo, Brazil.</field>
+<field name="label">Madonna Willys</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cc/Bellini_-_madonna01.jpg</field>
+<field name="comment">Virgin with the Standing Child, Embracing his Mother, also known as Madonna Willys is a painting by the Italian Renaissance master Giovanni Bellini. It is currently housed at the São Paulo Museum of Art in São Paulo, Brazil.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Bellini_-_madonna01.jpg/200px-Bellini_-_madonna01.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Giovanni_Bellini</field>
+<field name="city">http://dbpedia.org/resource/S%C3%A3o_Paulo</field>
+<field name="height">75</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/S%C3%A3o_Paulo_Museum_of_Art</field>
+<field name="title">Virgin with the Standing Child, Embracing his Mother</field>
+<field name="width">59</field>
+<field name="year">c. 1480</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_Willys</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_Willys</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6728393</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_Willys</field>
+</doc>
+</add>

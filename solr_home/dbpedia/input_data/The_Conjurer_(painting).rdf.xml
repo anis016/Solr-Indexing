@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Conjurer_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Escamoteur</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025znxl</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conjurer_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2155289</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_Prestidigitador</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_goochelaar_(Saint-Germain-en-Laye)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Conjurer_(painting)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Prestigiatore_(Bosch)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="abstract">The Conjurer is a Hieronymus Bosch painting from the 16th century. There are five versions of this painting and one engraving, but most experts believe the most reliable copy is part of the collection of the Musée Municipal in St. -Germain-en-Laye, which is kept locked in a safe and loaned out on a limited basis for special exhibitions in France and abroad. On 1 December 1978 the painting was stolen from the museum and returned on 2 February 1979. The painting, an oil-on-wood, measuring 53 x 65 cm, comes from the bequest of Louis Alexandre Ducastel (1793-1872) who was a notary at Saint Germain en Laye from 1813, city council member and mayor in August 1835 and provisional in 1839. The collection seems especially to have been formed by his father John Alexander Ducastel, a painter and collector. Bosch depicts how people are fooled by lack of alertness and insight, creating a "spellbinding tension" that reappears in his later paintings. The conjurer on the right of the image captures his apt and diverse audience with a game of Cups and balls. The central character and true focus of the image is the man of rank in the forefront who leans in and is fixed on the pearl in the conjurer's hand while unaware of being relieved of his money purse. Bosch associates the conjurer as a common criminal, luring in the prey. Animals are used in the painting to symbolize human traits that allow for deception and victimization. The owl from the basket at the conjurer's waist signifies his intelligence. Frogs jumping out of the mouth of the central character represent the extent to which the victim let go of reason and gave in to animalistic impulses. The child engrossed in our victim and the man stealing the money purse seems to exemplify the Flemish proverb: "He who lets himself be fooled by conjuring tricks loses his money and becomes the laughing stock of children. " Another Flemish proverb, published and widely distributed ca 1480 in Bosch's hometown of Hertogenbosch about the time of this painting, is: "No one is so much a fool as a willful fool. " Bosch had used other proverbs as the basis of his painting, such as the "The world is a haystack, and each man plucks from it what he can" for his painting, the Hay Wagon. Elina Gertsman's article about this painting explores this painting from the perspectives of Flemish culture, religious figures and the later body of Bosch's work. A much simpler view by Adrian Maben, filmmaker of Bosch's life and work, is: The Conjurer, an extraordinary tale of a conjurer trying to persuade the spectator that he's pulling toads or frogs out of his mouth. Meanwhile there's someone standing behind this spectator, who's stealing his wallet. It's a wonderful little painting, we unfortunately don't have the original, but it's a very good copy. It's a secular painting and has got away from the moralising and religious pose which one normally associates with Bosch. This genre painting became very popular in the Netherlands and the north in general, because it was opposed to the mythological painting of Italy. Here you had scenes from everyday life, it was getting away from the porcelain-like saints, down into the street. I think it was very modern. The conjurer reappears in Bosch's triptych "The Temptation of St. Anthony".</field>
+<field name="label">The Conjurer (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/49/Hieronymus_Bosch_051.jpg</field>
+<field name="comment">The Conjurer is a Hieronymus Bosch painting from the 16th century. There are five versions of this painting and one engraving, but most experts believe the most reliable copy is part of the collection of the Musée Municipal in St. -Germain-en-Laye, which is kept locked in a safe and loaned out on a limited basis for special exhibitions in France and abroad. On 1 December 1978 the painting was stolen from the museum and returned on 2 February 1979.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Hieronymus_Bosch_051.jpg/200px-Hieronymus_Bosch_051.jpg</field>
+<field name="artist"/>
+<field name="height">53</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Conjurer</field>
+<field name="type">Oil on wood</field>
+<field name="width">65</field>
+<field name="year">Estimated 1475-1505</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Conjurer_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Conjurer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_Prestidigitador</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conjurer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Escamoteur</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conjurer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Conjurer_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Conjurer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Prestigiatore_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conjurer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_goochelaar_(Saint-Germain-en-Laye)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conjurer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2155289</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conjurer_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Frescoes_in_the_Cartuja_de_Aula_Dei</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czd960</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Pinturas_de_la_Cartuja_del_Aula_Dei</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Pintures_de_la_Cartoixa_de_l'Aula_Dei</field>
+<field name="sameAs">http://dbpedia.org/resource/Frescoes_in_the_Cartuja_de_Aula_Dei</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q577183</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Frescoes_in_the_Cartuja_de_Aula_Dei</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1770s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Zaragoza</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Virgin_Mary_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">The Frescoes in the Cartuja de Aula Dei (1774) are a cycle of frescoes or mural paintings on the Life of the Virgin by Francisco de Goya, realised in secco (i.e. , painted in oils directly onto the wall surface), in the church of the Charterhouse of Aula Dei (Spanish: Cartuja de Aula Dei) near Peñaflor de Gállego on the outskirts of Zaragoza, Aragon, Spain.</field>
+<field name="label">Frescoes in the Cartuja de Aula Dei</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5c/Nacimiento_de_la_Virgen_(Cartuja_Aula_Dei).jpg</field>
+<field name="comment">The Frescoes in the Cartuja de Aula Dei (1774) are a cycle of frescoes or mural paintings on the Life of the Virgin by Francisco de Goya, realised in secco (i.e. , painted in oils directly onto the wall surface), in the church of the Charterhouse of Aula Dei (Spanish: Cartuja de Aula Dei) near Peñaflor de Gállego on the outskirts of Zaragoza, Aragon, Spain.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Nacimiento_de_la_Virgen_(Cartuja_Aula_Dei).jpg/200px-Nacimiento_de_la_Virgen_(Cartuja_Aula_Dei).jpg</field>
+<field name="link_external">http://www.goyarestauracion.com/BaseDatos/webs/Exposiciones/Cartuja-navidad/index.html</field>
+<field name="link_external">http://goya.unizar.es/InfoGoya/Obra/Cartuja.html</field>
+<field name="link_external">http://www.aragonesasi.com/goyacart.php</field>
+<field name="link_external">http://goya.unizar.es/InfoGoya/Obra/Obra.html</field>
+<field name="artist">http://dbpedia.org/resource/Francisco_Goya</field>
+<field name="city"/>
+<field name="height">306</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="title">The Birth of the Virgin</field>
+<field name="title">Cycle of the Life of the Virgin: Frescoes in the Cartuja de Aula Dei</field>
+<field name="type">Oil mural</field>
+<field name="width">790</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Frescoes_in_the_Cartuja_de_Aula_Dei</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Frescoes_in_the_Cartuja_de_Aula_Dei</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Frescoes_in_the_Cartuja_de_Aula_Dei</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Frescoes_in_the_Cartuja_de_Aula_Dei</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Pinturas_de_la_Cartuja_del_Aula_Dei</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Frescoes_in_the_Cartuja_de_Aula_Dei</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q577183</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Frescoes_in_the_Cartuja_de_Aula_Dei</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Pintures_de_la_Cartoixa_de_l'Aula_Dei</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Frescoes_in_the_Cartuja_de_Aula_Dei</field>
+</doc>
+</add>

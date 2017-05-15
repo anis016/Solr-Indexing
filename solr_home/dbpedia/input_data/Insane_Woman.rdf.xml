@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Insane_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Insane_Woman</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Monomane_de_l'envie</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3210764</field>
+<field name="sameAs">http://dbpedia.org/resource/Insane_Woman</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h2wdz</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Th%C3%A9odore_G%C3%A9ricault</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_of_Fine_Arts_of_Lyon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1822_paintings</field>
+<field name="abstract">Insane Woman is an 1822 oil on canvas painting by Théodore Géricault in a series of work Géricault did on the mentally insane. It is housed in the Musée des Beaux-Arts de Lyon, France. Mental aberration and irrational states of mind could not fail to interest artists against Enlightenment rationality. Géricault, like many of his contemporaries, examined the influence of mental states on the human face and believed, as others did that a face more accurately revealed character, especially in madness and at the moment of death. He made many studies of the inmates in hospitals and institutions for the criminally insane, and he studied the heads of guillotine victims. Géricault's Insane Women, her mouth tense, her eyes red rimmed with suffering, is one of several portraits he made of the insane that have a peculiar hypnotic power. These portraits present the physic facts with astonishing authenticity, especially in contrast to earlier idealized commissioned portraiture.</field>
+<field name="label">Insane Woman</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6a/The_mad_woman-Theodore_Gericault-MBA_Lyon_B825-IMG_0477.jpg</field>
+<field name="comment">Insane Woman is an 1822 oil on canvas painting by Théodore Géricault in a series of work Géricault did on the mentally insane. It is housed in the Musée des Beaux-Arts de Lyon, France. Mental aberration and irrational states of mind could not fail to interest artists against Enlightenment rationality.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/The_mad_woman-Theodore_Gericault-MBA_Lyon_B825-IMG_0477.jpg/200px-The_mad_woman-Theodore_Gericault-MBA_Lyon_B825-IMG_0477.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Th%C3%A9odore_G%C3%A9ricault</field>
+<field name="city">http://dbpedia.org/resource/Lyon</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon</field>
+<field name="title">Insane Woman</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Insane_Woman</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Insane_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Monomane_de_l'envie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Insane_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Insane_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Insane_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3210764</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Insane_Woman</field>
+</doc>
+</add>

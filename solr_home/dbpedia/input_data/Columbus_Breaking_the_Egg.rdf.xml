@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Columbus_Breaking_the_Egg</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03y06r3</field>
+<field name="sameAs">http://dbpedia.org/resource/Columbus_Breaking_the_Egg</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5150006</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Columbus_Breaking_the_Egg</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Engravings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christopher_Columbus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1752_works</field>
+<field name="abstract">Columbus Breaking the Egg is a 1752 engraving by English artist William Hogarth. Issued as the subscription ticket for his treatise on art, The Analysis of Beauty, it depicts an apocryphal tale concerning Christopher Columbus's response to detractors of his discovery of the New World. Hogarth uses the story as a parallel to what he considered his own discoveries in art.</field>
+<field name="label">Columbus Breaking the Egg</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a5/Columbus_Breaking_the_Egg'_(Christopher_Columbus)_by_William_Hogarth.jpg</field>
+<field name="comment">Columbus Breaking the Egg is a 1752 engraving by English artist William Hogarth. Issued as the subscription ticket for his treatise on art, The Analysis of Beauty, it depicts an apocryphal tale concerning Christopher Columbus's response to detractors of his discovery of the New World. Hogarth uses the story as a parallel to what he considered his own discoveries in art.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Columbus_Breaking_the_Egg'_(Christopher_Columbus)_by_William_Hogarth.jpg/200px-Columbus_Breaking_the_Egg'_(Christopher_Columbus)_by_William_Hogarth.jpg</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="image"/>
+<field name="title">Columbus Breaking the Egg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Columbus_Breaking_the_Egg</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Columbus_Breaking_the_Egg</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Columbus_Breaking_the_Egg</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Columbus_Breaking_the_Egg</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Columbus_breaking_the_egg</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5150006</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Columbus_Breaking_the_Egg</field>
+</doc>
+</add>

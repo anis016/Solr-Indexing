@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_Cleopatra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmdbr3</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Cleopatra</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Death_of_Cleopatra</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7729422</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Juan_Luna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1881_paintings</field>
+<field name="abstract">This is about a painting by a Filipino painter. For the painting made by a French painter, see Jean-André Rixens. The Death of Cleopatra, also known simply as Cleopatra, is an 1881 painting made by the Filipino painter Juan Luna. The famous painting was a silver medalist or second prize winner during the 1881 National Exposition of Fine Arts in Madrid. The 1881 Madrid painting contest was Luna's first art exposition. Because of the exposure, Luna received a pension scholarship at the Ayuntamiento de Manila. After the painting competition, Luna sold it for 5,000 Spanish pesetas, the highest price for a painting at the time. As Luna's "graduation work", The Death of Cleopatra was acquired by the Spanish government for one thousand duros.</field>
+<field name="label">The Death of Cleopatra</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0d/The_Death_of_Cleopatra_by_Juan_Luna1881.jpg</field>
+<field name="comment">This is about a painting by a Filipino painter. For the painting made by a French painter, see Jean-André Rixens. The Death of Cleopatra, also known simply as Cleopatra, is an 1881 painting made by the Filipino painter Juan Luna. The famous painting was a silver medalist or second prize winner during the 1881 National Exposition of Fine Arts in Madrid. The 1881 Madrid painting contest was Luna's first art exposition.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Death_of_Cleopatra_by_Juan_Luna1881.jpg/200px-The_Death_of_Cleopatra_by_Juan_Luna1881.jpg</field>
+<field name="link_external">http://www.flickr.com/photos/diamonds_in_the_soles_of_her_shoes/sets/72157600119021830/</field>
+<field name="link_external">http://www.isidore-of-seville.com/cleopatra/18.html</field>
+<field name="link_external">http://www.superstock.com/stock-photos-images/862-1127</field>
+<field name="artist"/>
+<field name="title">The Death of Cleopatra</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Death_of_Cleopatra</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Death_of_Cleopatra</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Death_of_Cleopatra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Death_of_Cleopatra</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cleopatra's_Death</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_Cleopatra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Muerte_de_Cleopatra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Muerte_de_Cleopatra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7729422</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Cleopatra</field>
+</doc>
+</add>

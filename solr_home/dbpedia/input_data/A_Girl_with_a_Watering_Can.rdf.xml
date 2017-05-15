@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Girl_with_a_Watering_Can</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4657050</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Girl_with_a_Watering_Can</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.059h5l7</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Girl_with_a_Watering_Can</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1876_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pierre-Auguste_Renoir</field>
+<field name="abstract">A Girl with a Watering Can is an Impressionist painting by Pierre-Auguste Renoir from 1876. The work was apparently painted in Monet's famous garden at Argenteuil. This painting is of Mademoiselle Leclere in her blue dress.</field>
+<field name="label">A Girl with a Watering Can</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/84/A_Girl_with_a_Watering_Can.JPG</field>
+<field name="comment">A Girl with a Watering Can is an Impressionist painting by Pierre-Auguste Renoir from 1876. The work was apparently painted in Monet's famous garden at Argenteuil. This painting is of Mademoiselle Leclere in her blue dress.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/A_Girl_with_a_Watering_Can.JPG/200px-A_Girl_with_a_Watering_Can.JPG</field>
+<field name="link_external">http://www.nga.gov/collection/gallery/gg83/gg83-46681.html</field>
+<field name="artist">http://dbpedia.org/resource/Pierre-Auguste_Renoir</field>
+<field name="image"/>
+<field name="imageSize">280</field>
+<field name="title">A Girl with a Watering Can</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Girl_with_a_Watering_Can</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Girl_with_a_Watering_Can</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Girl_with_a_Watering_Can</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Girl_with_a_Watering_Can</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Girl_With_a_Watering_Can</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_With_a_Watering_Can</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_with_a_Watering_Can</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4657050</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Girl_with_a_Watering_Can</field>
+</doc>
+</add>

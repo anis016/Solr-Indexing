@@ -1,0 +1,91 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Races_at_Longchamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Races_at_Longchamp</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Les_Courses_%C3%A0_Longchamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Races_at_Longchamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Races_at_Longchamp</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmd5nh</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q942276</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_paardenrennen_in_Longchamp</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Races_at_Longchamp</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Courses_à_Longchamp</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Carrera_de_caballos_en_Longchamp</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Corse_a_Longchamp</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1866_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_%C3%89douard_Manet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horses_in_art</field>
+<field name="abstract">The Races at Longchamp is an 1866 painting by the French artist Édouard Manet. The Impressionist painting depicts a horse racing at Longchamp and is currently conserved at the Art Institute of Chicago. It has been exhibited many times, the first one at the École nationale supérieure des Beaux-Arts in Paris in January 1884. The work is particularly innovative. About the painting, the Art Institute of Chicago said it "is startling. We find ourselves on the racecourse with a cluster of onrushing horses and jockeys bearing directly down on us. With a few judicious exceptions—the vertical starting post left of center; the crisp rectangle of the viewing-stand roof at the right—everything is blurred, a device that heightens the sense of explosive movement of the galloping horses."</field>
+<field name="label">The Races at Longchamp</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/81/Edouard_Manet_053.jpg</field>
+<field name="comment">The Races at Longchamp is an 1866 painting by the French artist Édouard Manet. The Impressionist painting depicts a horse racing at Longchamp and is currently conserved at the Art Institute of Chicago. It has been exhibited many times, the first one at the École nationale supérieure des Beaux-Arts in Paris in January 1884. The work is particularly innovative. About the painting, the Art Institute of Chicago said it "is startling.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Edouard_Manet_053.jpg/200px-Edouard_Manet_053.jpg</field>
+<field name="artist">http://dbpedia.org/resource/%C3%89douard_Manet</field>
+<field name="city">http://dbpedia.org/resource/Chicago</field>
+<field name="height">84.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Art_Institute_of_Chicago</field>
+<field name="title">The Races at Longchamp</field>
+<field name="type">oil on canvas</field>
+<field name="width">43.9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Races_at_Longchamp</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Races_at_Longchamp</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Corse_a_Longchamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Races_at_Longchamp</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Races_at_Longchamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Racing_at_Longchamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Races_of_Longchamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Courses_à_Longchamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Races_at_Longchamp</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q942276</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Races_at_Longchamp</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Carrera_de_caballos_en_Longchamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Races_at_Longchamp</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_paardenrennen_in_Longchamp</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Races_at_Longchamp</field>
+</doc>
+</add>

@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Mama_Ayesha's_Restaurant_Presidential_Mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mama_Ayesha's_Restaurant_Presidential_Mural</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Mama_Ayesha's_Restaurant_Presidential_Mural</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7749818</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gfd4wd</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:2009_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Black_people_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals_in_Washington,_D.C.</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Public_art_in_Washington,_D.C.</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Buildings_and_monuments_honoring_American_Presidents</field>
+<field name="abstract">The Mama Ayesha's Restaurant Presidential Mural is a large mural featuring eleven American presidents starting with Dwight D. Eisenhower and ending with Barack Obama. Created by El Salvador-born artist Karla Rodas (aka Karlisima), the mural was funded by the D.C. Commission on the Arts and Humanities. It has been described by locals as being DC's "largest postcard."</field>
+<field name="label">The Mama Ayesha's Restaurant Presidential Mural</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/58/Mama_Ayesha_Full_Mural.jpg</field>
+<field name="comment">The Mama Ayesha's Restaurant Presidential Mural is a large mural featuring eleven American presidents starting with Dwight D. Eisenhower and ending with Barack Obama. Created by El Salvador-born artist Karla Rodas (aka Karlisima), the mural was funded by the D.C. Commission on the Arts and Humanities. It has been described by locals as being DC's "largest postcard."</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Mama_Ayesha_Full_Mural.jpg/200px-Mama_Ayesha_Full_Mural.jpg</field>
+<field name="link_external">http://www.karlisima.com/index.html</field>
+<field name="link_external">http://murallocator.org/the-presidential-mural/550</field>
+<field name="link_external">http://www.princeofpetworth.com/2009/01/new-mural-on-the-side-of-mama-ayeshas-completed/</field>
+<field name="link_external">http://www.washingtonpost.com/wp-dyn/content/gallery/2009/05/15/GA2009051501552.html</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="city">http://dbpedia.org/resource/United_States</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">The Mama Ayesha's Restaurant Presidential Mural</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Mama_Ayesha's_Restaurant_Presidential_Mural</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Mama_Ayesha's_Restaurant_Presidential_Mural</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Mama_Ayesha's_Restaurant_Presidential_Mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Mama_Ayesha's_Restaurant_Presidential_Mural</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7749818</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mama_Ayesha's_Restaurant_Presidential_Mural</field>
+</doc>
+</add>

@@ -1,0 +1,86 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Stone_Breakers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Tucači_kamena</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Stone_Breakers</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Harginak</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2914912</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Stenhuggerne</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Kivenhakkaajat</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.075j59w</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Stenbrytarna</field>
+<field name="sameAs">http://he.dbpedia.org/resource/שוברי_האבנים</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stone_Breakers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Gustave_Courbet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1850_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lost_paintings</field>
+<field name="abstract">The Stone Breakers (French: Les Casseurs de pierres) was an 1849–50 painting by the French painter Gustave Courbet. It was a work of social realism, depicting two peasants, a young man and an old man, breaking rocks. The painting was first exhibited at the Paris Salon of 1850. It was destroyed during World War II, along with 154 other pictures, when a transport vehicle moving the pictures to the castle of Königstein, near Dresden, was bombed by Allied forces in February 1945.</field>
+<field name="label">The Stone Breakers</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/93/Gustave_Courbet_018.jpg</field>
+<field name="comment">The Stone Breakers (French: Les Casseurs de pierres) was an 1849–50 painting by the French painter Gustave Courbet. It was a work of social realism, depicting two peasants, a young man and an old man, breaking rocks. The painting was first exhibited at the Paris Salon of 1850. It was destroyed during World War II, along with 154 other pictures, when a transport vehicle moving the pictures to the castle of Königstein, near Dresden, was bombed by Allied forces in February 1945.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Gustave_Courbet_018.jpg/200px-Gustave_Courbet_018.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Gustave_Courbet</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="title">The Stone Breakers</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Stone_Breakers</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Stone_Breakers</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Stonebreakers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Stone_Breakers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Stone_Breakers</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Stenhuggerne</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stone_Breakers</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Kivenhakkaajat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stone_Breakers</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/שוברי_האבנים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stone_Breakers</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Tucači_kamena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stone_Breakers</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Stenbrytarna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stone_Breakers</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Harginak</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stone_Breakers</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2914912</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stone_Breakers</field>
+</doc>
+</add>

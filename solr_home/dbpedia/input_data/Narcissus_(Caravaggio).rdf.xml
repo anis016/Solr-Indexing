@@ -1,0 +1,94 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Narcissus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Narcissus_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Narcissus_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Narcyz_(obraz_Caravaggia)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Narcisse_(Le_Caravage)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q746716</field>
+<field name="sameAs">http://th.dbpedia.org/resource/นาร์ซิสซัสหลงเงา</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Narciso_(Caravaggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Narciso_(Caravaggio)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Narkis_(Caravaggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08sfyk</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Narcissus_(Caravaggio)</field>
+<field name="sameAs">http://dbpedia.org/resource/Narcissus_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1590s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Galleria_Nazionale_d'Arte_Antica</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="abstract">Narcissus is a painting by the Italian Baroque master Caravaggio, painted circa 1597–1599. It is housed in the Galleria Nazionale d'Arte Antica in Rome. This is one of only two known Caravaggios on a theme from Classical mythology, although this reflects the accidents of survival rather than the historical reality. The story of Narcissus, told by the poet Ovid in his Metamorphoses, is of a handsome youth who falls in love with his own reflection. The story was well known in the circles of collectors, such as Cardinal Francesco Maria del Monte and the banker Vincenzo Giustiniani, in which Caravaggio was moving at this period. The story of Narcissus was particularly appealing to artists (or at least the kind who painted for the educated tastes of patrons such as Giustiniani and Del Monte), for reasons explained by the Renaissance theorist Leon Battista Alberti: "the inventor of painting ... was Narcissus ... What is painting but the act of embracing by means of art the surface of the pool?" The painting conveys an air of brooding melancholy: the figure of Narcissus is locked in a circle with his reflection, surrounded by darkness, so that the only reality is inside this self-regarding loop. The 16th century literary critic Tommaso Stigliani  explained the contemporary thinking that the myth of Narcissus "clearly demonstrates the unhappy end of those who love their things too much."</field>
+<field name="label">Narcissus (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/de/Michelangelo_Caravaggio_065.jpg</field>
+<field name="comment">Narcissus is a painting by the Italian Baroque master Caravaggio, painted circa 1597–1599. It is housed in the Galleria Nazionale d'Arte Antica in Rome. This is one of only two known Caravaggios on a theme from Classical mythology, although this reflects the accidents of survival rather than the historical reality. The story of Narcissus, told by the poet Ovid in his Metamorphoses, is of a handsome youth who falls in love with his own reflection.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Michelangelo_Caravaggio_065.jpg/200px-Michelangelo_Caravaggio_065.jpg</field>
+<field name="artist"/>
+<field name="height">110</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Galleria_Nazionale_d'Arte_Antica</field>
+<field name="title">Narcissus</field>
+<field name="type">Oil on canvas</field>
+<field name="width">92</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Narcissus_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Narcissus_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Narciso_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Narcissus_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Narcyz_(obraz_Caravaggia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Narcissus_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Narciso_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Narcissus_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Narcissus_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Narcissus_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Narcisse_(Le_Caravage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Narcissus_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Narkis_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Narcissus_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/นาร์ซิสซัสหลงเงา</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Narcissus_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q746716</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Narcissus_(Caravaggio)</field>
+</doc>
+</add>

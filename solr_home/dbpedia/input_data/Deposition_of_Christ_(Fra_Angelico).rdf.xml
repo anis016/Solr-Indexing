@@ -1,0 +1,119 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Deposição_de_Cristo_(Fra_Angelico)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Descendimiento_de_la_Cruz_(Fra_Angélico)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/การอัญเชิญพระศพลงจากกางเขน_(ฟราอันเจลีโก)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2529591</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02r9_24</field>
+<field name="sameAs">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Deposizione_(Angelico)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Descente_de_Croix_(Fra_Angelico)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Zdjęcie_z_krzyża_(obraz_Fra_Angelica)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Deposition_from_the_Cross</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Fra_Angelico</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Deposition from the Cross is a painting of the Deposition of Christ by the Italian Renaissance master Fra Angelico, executed between 1432 and 1434. It is now housed in the National Museum of San Marco, Florence. Giorgio Vasari defined it to have been “painted by a saint or an angel”. Angelico intervened to complete this altarpiece when it had been already begun by Lorenzo Monaco for the Strozzi Chapel in the Florentine church of Santa Trinita. It portrays Christ supported by several people, with Mary Magdalene keeping his feet, as a symbol of human repention. A figure on the right, with a red hat, is showing the cross' nails and the horns crown, symbols of passion and sacrifice. Mary, wearing a dark dress, is showed in the traditional gesture of keeping hands joined.</field>
+<field name="label">Deposition of Christ (Fra Angelico)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5f/Fra_Angelico_073.jpg</field>
+<field name="comment">The Deposition from the Cross is a painting of the Deposition of Christ by the Italian Renaissance master Fra Angelico, executed between 1432 and 1434. It is now housed in the National Museum of San Marco, Florence. Giorgio Vasari defined it to have been “painted by a saint or an angel”. Angelico intervened to complete this altarpiece when it had been already begun by Lorenzo Monaco for the Strozzi Chapel in the Florentine church of Santa Trinita.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Fra_Angelico_073.jpg/200px-Fra_Angelico_073.jpg</field>
+<field name="link_external">http://www.polomuseale.firenze.it/sanmarco/</field>
+<field name="artist">http://dbpedia.org/resource/Fra_Angelico</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">176</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/San_Marco,_Florence</field>
+<field name="title">Deposition from the Cross</field>
+<field name="type">Tempera on panel</field>
+<field name="width">185</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Deposition_of_Christ_(Fra_Angelico)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Deposition_of_Christ_(Fra_Angelico)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fra_Angelico</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Deposition_of_Christ_(Fra_Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Descent_from_the_Cross_(Fra_Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Deposizione_(Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Descente_de_Croix_(Fra_Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Descendimiento_de_la_Cruz_(Fra_Angélico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Zdjęcie_z_krzyża_(obraz_Fra_Angelica)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_(Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_from_the_Cross_(Fra_Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_of_Christ_(Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_of_Christ_(Beato_Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Deposição_de_Cristo_(Fra_Angelico)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2529591</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/การอัญเชิญพระศพลงจากกางเขน_(ฟราอันเจลีโก)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Deposition_of_Christ_(Fra_Angelico)</field>
+</doc>
+</add>

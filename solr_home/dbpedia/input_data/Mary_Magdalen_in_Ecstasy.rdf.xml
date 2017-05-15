@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Marie-Madeleine_en_extase</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mary_Magdalen_in_Ecstasy</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mary_Magdalen_in_Ecstasy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mary_Magdalen_in_Ecstasy</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mary_Magdalen_in_Ecstasy_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mary_Magdalen_in_Ecstasy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mary_Magdalen_in_Ecstasy</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mary_Magdalen_in_Ecstasy</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09khxm</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3292135</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Marie-Madeleine_en_extase</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Maria_Maddalena_in_estasi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1606_paintings</field>
+<field name="abstract">Mary Magdalen in Ecstasy (1606) is a painting by the Italian artist Michelangelo Merisi da Caravaggio (1571-1610). Caravaggio's Mary Magdalen in Ecstasy (or variations on that name) exists in at least eighteen copies, of which this version, in a private collection in Rome, illustrated in John Gash's Caravaggio (revised 2003 edition only), has been claimed as the most likely original. The painting was done in the few months following Caravaggio's flight from Rome after the death of Ranuccio Tommassoni on 29 May 1606, while he was in hiding on the estates of his protectors, the powerful Colonna family, and where the primary sources for his life record him painting a Magdalen. According to a legend popular in Caravaggio's time, after Christ's death his faithful female disciple Mary of Magdala moved to southern France, where she lived as a hermit in a cave at Sainte-Beune near Aix-en-Provence. There she was transported seven times a day by angels into the presence of God, "where she heard, with her bodily ears, the delightful harmonies of the celestial choirs. " Earlier artists had depicted Mary ascending into the divine presence through multicoloured clouds accompanied by angels; Caravaggio made the supernatural an entirely interior experience, with the Magdalen alone against a featureless dark background, caught in a ray of intense light, her head lolling back and eyes stained with tears. This revolutionary naturalistic interpretation of the legend also allowed him to capture the ambiguous parallel between mystical and erotic love, in Mary's semi-reclining posture and bared shoulder. The painting was immensely influential for future treatment of the theme by artists such as Rubens and Simon Vouet (who adopted Carvaggio's earth-bound Magdalen but reintroduced the angels), and of course Bernini and his celebrated Ecstasy of St Theresa.</field>
+<field name="label">Mary Magdalen in Ecstasy</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ed/Mary_magdalene_caravaggio.jpg</field>
+<field name="comment">Mary Magdalen in Ecstasy (1606) is a painting by the Italian artist Michelangelo Merisi da Caravaggio (1571-1610). Caravaggio's Mary Magdalen in Ecstasy (or variations on that name) exists in at least eighteen copies, of which this version, in a private collection in Rome, illustrated in John Gash's Caravaggio (revised 2003 edition only), has been claimed as the most likely original.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Mary_magdalene_caravaggio.jpg/200px-Mary_magdalene_caravaggio.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Caravaggio</field>
+<field name="image"/>
+<field name="imageSize">280</field>
+<field name="museum"/>
+<field name="title">Mary Magdalen in Ecstasy</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mary_Magdalen_in_Ecstasy</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mary_Magdalen_in_Ecstasy</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Maria_Maddalena_in_estasi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mary_Magdalen_in_Ecstasy</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3292135</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mary_Magdalen_in_Ecstasy</field>
+</doc>
+</add>

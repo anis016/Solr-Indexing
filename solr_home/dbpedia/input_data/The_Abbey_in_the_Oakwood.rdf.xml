@@ -1,0 +1,132 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Opactwo_w_dąbrowie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Abadia_no_Carvalhal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Abtei_im_Eichwald</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Abbazia_nel_querceto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04zyh50</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Abadía_en_el_robledal</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Abbazia_nel_querceto</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Meşe_Ormanında_Manastır</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Abbaye_dans_une_forêt_de_chênes</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Μονή_στο_δάσος_με_τις_βελανιδιές</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/Abatejo_en_la_Kverkforsto</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Opactwo_w_dąbrowie</field>
+<field name="sameAs">http://mk.dbpedia.org/resource/Опатија_во_дабовата_шума</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Abadia_no_Carvalhal</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Abbey_in_the_Oakwood</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Abtei_im_Eichwald</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q334360</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Аббатство_в_дубовом_лесу</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1810_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caspar_David_Friedrich</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Nationalgalerie</field>
+<field name="abstract">The Abbey in the Oakwood (German: Abtei im Eichwald) is an oil painting by Caspar David Friedrich. It was painted between 1809 and 1810 in Dresden and was first shown together with the painting The Monk by the Sea in the Berlin Academy exhibition of 1810. On Friedrich's request The Abbey in the Oakwood was hung beneath The Monk by the Sea. After the exhibition both pictures were bought by king Frederick Wilhelm III for his collection. Today the paintings hang side by side in the Alte Nationalgalerie, Berlin.</field>
+<field name="label">The Abbey in the Oakwood</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5a/Caspar_David_Friedrich_002.jpg</field>
+<field name="comment">The Abbey in the Oakwood (German: Abtei im Eichwald) is an oil painting by Caspar David Friedrich. It was painted between 1809 and 1810 in Dresden and was first shown together with the painting The Monk by the Sea in the Berlin Academy exhibition of 1810. On Friedrich's request The Abbey in the Oakwood was hung beneath The Monk by the Sea. After the exhibition both pictures were bought by king Frederick Wilhelm III for his collection.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Caspar_David_Friedrich_002.jpg/200px-Caspar_David_Friedrich_002.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/friedrich-monk-by-the-sea.html</field>
+<field name="link_external">http://smarthistory.khanacademy.org/friedrich-abbey-among-oak-trees.html</field>
+<field name="artist">http://dbpedia.org/resource/Caspar_David_Friedrich</field>
+<field name="city">http://dbpedia.org/resource/Berlin</field>
+<field name="height">110</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Alte_Nationalgalerie</field>
+<field name="title">The Abbey in the Oakwood</field>
+<field name="width">210</field>
+<field name="width">171</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Abbey_in_the_Oakwood</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Abadía_en_el_robledal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Abtei_im_Eichwald</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Die_Abtei_im_Eichwald</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Μονή_στο_δάσος_με_τις_βελανιδιές</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Аббатство_в_дубовом_лесу</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Abbey_in_the_Oakwood</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Abbaye_dans_une_forêt_de_chênes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q334360</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/Abatejo_en_la_Kverkforsto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://mk.dbpedia.org/resource/Опатија_во_дабовата_шума</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Meşe_Ormanında_Manastır</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Abbey_in_the_Oakwood</field>
+</doc>
+</add>

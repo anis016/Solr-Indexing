@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Federico_II_Gonzaga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Federico_II_Gonzaga</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Federico_II_Gonzaga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Federico_II_Gonzaga</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_Federico_II_Gonzaga</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937527</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Federico_II_Gonzaga</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Federico_II_Gonzaga</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3vb83</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Titian_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="abstract">Portrait of Federico II Gonzaga (c. 1529) is a painting by Titian, who signed it as Ticianus f.. Today in the Museo del Prado, Madrid, it portrays Federico II, Duke of Mantua who married in 1529; the portrait may have been was commissioned for the occasion. The work is mentioned in a 1666 inventory of the Royal Alcázar of Madrid, coming from the collection of Marquess de Laganés. The latter had bought it at an auction after the beheading of Charles I of England in 1627, who owned the most precious paintings of the former Gonzaga collection.</field>
+<field name="label">Portrait of Federico II Gonzaga</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/01/Tiziano,_federico_II_gonzaga.jpg</field>
+<field name="comment">Portrait of Federico II Gonzaga (c. 1529) is a painting by Titian, who signed it as Ticianus f.. Today in the Museo del Prado, Madrid, it portrays Federico II, Duke of Mantua who married in 1529; the portrait may have been was commissioned for the occasion. The work is mentioned in a 1666 inventory of the Royal Alcázar of Madrid, coming from the collection of Marquess de Laganés.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Tiziano,_federico_II_gonzaga.jpg/200px-Tiziano,_federico_II_gonzaga.jpg</field>
+<field name="link_external">http://www.museodelprado.es/en/the-collection/online-gallery/on-line-gallery/obra/federico-gonzaga-i-duke-of-mantua/</field>
+<field name="artist"/>
+<field name="height">125</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Federico II Gonzaga</field>
+<field name="type">Oil on canvas</field>
+<field name="width">99</field>
+<field name="year">c. 1529</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Federico_II_Gonzaga</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Federico_II_Gonzaga</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Federico_II_Gonzaga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Federico_II_Gonzaga</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Federico_II,_Duke_of_Mantua</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Federico_II_Gonzaga,_Duke_of_Mantua</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_Federico_II_Gonzaga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Federico_II_Gonzaga</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937527</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Federico_II_Gonzaga</field>
+</doc>
+</add>

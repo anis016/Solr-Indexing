@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_flood_of_Saint-Cloud</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_flood_of_Saint-Cloud</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7777004</field>
+<field name="sameAs">http://dbpedia.org/resource/The_flood_of_Saint-Cloud</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bwj41b</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1855_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paul_Huet_paintings</field>
+<field name="abstract">The flood of Saint-Cloud (French: L'inondation à Saint-Cloud) is an oil painting by French artist Paul Huet, which was first exposed in 1855 at the World Fair in Paris. It is now kept in the Musée du Louvre.</field>
+<field name="label">The flood of Saint-Cloud</field>
+<field name="comment">The flood of Saint-Cloud (French: L'inondation à Saint-Cloud) is an oil painting by French artist Paul Huet, which was first exposed in 1855 at the World Fair in Paris. It is now kept in the Musée du Louvre.</field>
+<field name="name"/>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">203</field>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">L'inondation à Saint-Cloud</field>
+<field name="type">oil on canvas</field>
+<field name="width">300</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_flood_of_Saint-Cloud</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_flood_of_Saint-Cloud</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_flood_of_Saint-Cloud</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_flood_of_Saint-Cloud</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7777004</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_flood_of_Saint-Cloud</field>
+</doc>
+</add>

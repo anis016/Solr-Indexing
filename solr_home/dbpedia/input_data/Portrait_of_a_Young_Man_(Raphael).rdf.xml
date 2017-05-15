@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b74qb7</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2422889</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_jeune_homme_(Raphaël,_perdu)</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Raphael)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Young_Man_(Raphael)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_giovane_uomo</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_młodzieńca</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Cavan_oğlan_portreti_(Rafael)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lost_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1514_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="abstract">Portrait of a Young Man is a painting in oil on panel, probably from 1513–1514, by the Italian High Renaissance Old Master painter and architect Raffaello Sanzio da Urbino better known simply as Raphael. The painting was stolen by the Nazis in Poland. Since then, its whereabouts have been unknown. Many historians regard it as the most important painting missing since World War II. The subject's identity is unverified, but many scholars have traditionally regarded it as Raphael's self-portrait. The facial features are perceived by specialists as compatible with, if not clearly identical to, the only undoubted self-portrait by Raphael in his fresco The School of Athens at the Vatican, identified as such by Vasari. If it is a self-portrait, no hint is given of Raphael's profession; the portrait shows a richly-dressed and "confidently-poised" young man. The painting was brought to Poland, along with Leonardo da Vinci's Lady with an Ermine and many Roman antiquities, by Prince Adam Jerzy Czartoryski, son of Princess Izabela Czartoryska, on his travels to Italy in 1798.</field>
+<field name="label">Portrait of a Young Man (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/95/Raphael_missing.jpg</field>
+<field name="comment">Portrait of a Young Man is a painting in oil on panel, probably from 1513–1514, by the Italian High Renaissance Old Master painter and architect Raffaello Sanzio da Urbino better known simply as Raphael. The painting was stolen by the Nazis in Poland. Since then, its whereabouts have been unknown. Many historians regard it as the most important painting missing since World War II. The subject's identity is unverified, but many scholars have traditionally regarded it as Raphael's self-portrait.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Raphael_missing.jpg/200px-Raphael_missing.jpg</field>
+<field name="link_external">http://books.google.com/books?id=T0Nb9TicCOgC&amp;dq=Raphael++Roger+Jones&amp;source=gbs_navlinks_s</field>
+<field name="link_external">http://www.worldcat.org/title/rape-of-europa-the-fate-of-europes-treasures-in-the-third-reich-and-the-second-world-war/oclc/28292304&amp;referer=brief_results</field>
+<field name="link_external">http://books.google.com/books?id=vdefAAAAMAAJ&amp;q=the+rape+of+europa&amp;dq=the+rape+of+europa&amp;ei=gdThS7TDMJH4ygStismXCg&amp;cd=1</field>
+<field name="link_external">http://www.worldcat.org/title/museum-of-the-missing-a-history-of-art-theft/oclc/67375076</field>
+<field name="link_external">http://www.worldcat.org/title/raphael/oclc/440831341</field>
+<field name="link_external">http://www.pbs.org/therapeofeuropa/</field>
+<field name="link_external">http://books.google.com/books?id=gTlIeKVuPgIC&amp;dq=museum+of+the+missing&amp;source=gbs_navlinks_s</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city"/>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">260</field>
+<field name="title">Portrait of a Young Man</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Young_Man_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Raphael,_formerly_Krak%C3%B3w)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_giovane_uomo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_młodzieńca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Raphael,_formerly_Krakow)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Cavan_oğlan_portreti_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_jeune_homme_(Raphaël,_perdu)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2422889</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_(Raphael)</field>
+</doc>
+</add>

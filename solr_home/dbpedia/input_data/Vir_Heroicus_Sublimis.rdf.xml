@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vir_Heroicus_Sublimis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Vir_Heroicus_Sublimis</field>
+<field name="sameAs">http://dbpedia.org/resource/Vir_Heroicus_Sublimis</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bxz7y9</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_Barnett_Newman</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1951_paintings</field>
+<field name="abstract">Vir Heroicus Sublimis is a painting by Barnett Newman, an American painter who was a key part of the abstract expressionist movement. Vir Heroicus Sublimis—"man, heroic and sublime" in Latin—attempts to evoke a reaction from its viewers because of its overwhelming scale (his largest canvas yet at the time he released it) and saturated color. The painting is part of the permanent collection of the Museum of Modern Art in New York City.</field>
+<field name="label">Vir Heroicus Sublimis</field>
+<field name="comment">Vir Heroicus Sublimis is a painting by Barnett Newman, an American painter who was a key part of the abstract expressionist movement. Vir Heroicus Sublimis—"man, heroic and sublime" in Latin—attempts to evoke a reaction from its viewers because of its overwhelming scale (his largest canvas yet at the time he released it) and saturated color. The painting is part of the permanent collection of the Museum of Modern Art in New York City.</field>
+<field name="name"/>
+<field name="artist">http://dbpedia.org/resource/Barnett_Newman</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">242.3</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Vir Heroicus Sublimis</field>
+<field name="type">Oil on canvas</field>
+<field name="width">541.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Vir_Heroicus_Sublimis</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Vir_Heroicus_Sublimis</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vir_Heroicus_Sublimus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vir_heroicus_sublimis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Vir_Heroicus_Sublimis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Vir_Heroicus_Sublimis</field>
+</doc>
+</add>

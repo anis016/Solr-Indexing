@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Salting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Salting_Madonna_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rxcqj</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระแม่มารีซอลทิง_(เมสสินา)</field>
+<field name="sameAs">http://dbpedia.org/resource/Salting_Madonna_(Antonello_da_Messina)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_Salting</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Salting_Madonna_(Antonello_da_Messina)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3842430</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Antonello_da_Messina</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="abstract">The Madonna with Child (Salting Madonna) is a painting by the Italian Renaissance master Antonello da Messina. It is housed in the National Gallery, London. The name Salting derives from the collector who donated it to the gallery in 1910. The Salting Madonna shows a complex series of cultural references, which have led in past time scholars to classify it variously as a Flemish, Spanish or even Russian work. It is in fact one of Antonello's earlier works, dating most likely from the 1460s, when the artist was in Sicily. It portrays the Madonna adorned with a series of well-crafted and rendered details, such as the crown and the Venetian-style garments. The abstract beauty of the Madonna's face derives from the style of contemporary Provençal artists, especially Enguerrand Quarton.</field>
+<field name="label">Salting Madonna (Antonello da Messina)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/eb/Salting_Madonna.jpg</field>
+<field name="comment">The Madonna with Child (Salting Madonna) is a painting by the Italian Renaissance master Antonello da Messina. It is housed in the National Gallery, London. The name Salting derives from the collector who donated it to the gallery in 1910. The Salting Madonna shows a complex series of cultural references, which have led in past time scholars to classify it variously as a Flemish, Spanish or even Russian work.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Salting_Madonna.jpg/200px-Salting_Madonna.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=ng2618</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">43.2</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna with Child</field>
+<field name="type">Various techniques on wood</field>
+<field name="width">34.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Salting_Madonna_(Antonello_da_Messina)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Salting_Madonna_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Salting_Madonna_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Salting_Madonna_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_Salting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Salting_Madonna_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Salting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Salting_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3842430</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Salting_Madonna_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระแม่มารีซอลทิง_(เมสสินา)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Salting_Madonna_(Antonello_da_Messina)</field>
+</doc>
+</add>

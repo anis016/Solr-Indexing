@@ -1,0 +1,93 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Young_Girl_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/خواندن_دختر_جوان</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Girl_Reading</field>
+<field name="sameAs">http://th.dbpedia.org/resource/สตรีสาวอ่านหนังสือ_(ฟราโกนาร์ด)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_lettrice_(Fragonard)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03d1wwy</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Okuyan_Genç_Kız</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Liseuse</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2629423</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Young_Girl_Reading</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Jean-Honor%C3%A9_Fragonard</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1770s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="abstract">A Young Girl Reading, or The Reader, is an 18th century oil painting by Jean-Honoré Fragonard. The painting was given to the National Gallery of Art by the daughter of Andrew W. Mellon following her father's death. The painting features an unidentified girl wearing a yellow saffron dress, though x-rays have revealed that the canvas originally featured a different image which Fragonard painted over. It is one in a series of paintings by Fragonard featuring young girls.</field>
+<field name="label">A Young Girl Reading</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/69/Fragonard,_The_Reader.jpg</field>
+<field name="comment">A Young Girl Reading, or The Reader, is an 18th century oil painting by Jean-Honoré Fragonard. The painting was given to the National Gallery of Art by the daughter of Andrew W. Mellon following her father's death. The painting features an unidentified girl wearing a yellow saffron dress, though x-rays have revealed that the canvas originally featured a different image which Fragonard painted over. It is one in a series of paintings by Fragonard featuring young girls.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Fragonard,_The_Reader.jpg/200px-Fragonard,_The_Reader.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=46020.0&amp;detail=none</field>
+<field name="link_external">http://www.artble.com/artists/jean-honore_fragonard/paintings/the_swing</field>
+<field name="artist">http://dbpedia.org/resource/Jean-Honor%C3%A9_Fragonard</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="city">http://dbpedia.org/resource/United_States</field>
+<field name="height">81.1</field>
+<field name="image"/>
+<field name="imageSize">230</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">A Young Girl Reading</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">64.8</field>
+<field name="year">c. 1776</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Young_Girl_Reading</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Young_Girl_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Liseuse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Girl_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_lettrice_(Fragonard)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Girl_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Young_Girl_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Young_Girl_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Liseuse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2629423</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Girl_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/خواندن_دختر_جوان</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Girl_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/สตรีสาวอ่านหนังสือ_(ฟราโกนาร์ด)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Girl_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Okuyan_Genç_Kız</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Girl_Reading</field>
+</doc>
+</add>

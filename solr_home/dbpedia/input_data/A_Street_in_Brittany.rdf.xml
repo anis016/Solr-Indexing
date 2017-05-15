@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Street_in_Brittany</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Street_in_Brittany</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4659856</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bs4nww</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Street_in_Brittany</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1881_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Walker_Art_Gallery_Liverpool</field>
+<field name="abstract">A Street in Brittany is a painting dated 1881 by the artist Stanhope Forbes. Forbes was born in Dublin in 1857. When his family moved to England he studied at Dulwich College, the Lambeth School of Art and the Royal Academy Schools. In 1880 he went to Paris where he was influenced by the French artist Jules Bastien-Lepage. The following year he went to work in Cancale, a small fishing village near Saint-Malo in Brittany. A Street in Brittany was Forbes' first "out-of-doors" painting, and it shows Breton women knitting and making nets in a street in Cancale. For the girl in the foreground Forbes used as his model a young girl from the village named Desiree, who insisted on a daily payment. He was anxious about how his picture would be received, partly about the figure in the foreground being out of scale with the rest of the figures, and possibly about the visible brush-work and the picture's overall blue tone. A critic in the Pall Mall Gazette accused him of "seeing nature through blue spectacles". The painting was shown at the Royal Academy Summer Exhibition in 1882 and then at the Liverpool Autumn Exhibition. It was bought by the Walker Art Gallery for £73.50 (£ as of 2013). Forbes later moved to Cornwall where he became a leading figure in the Newlyn School of painters. The painting is in oil on canvas and measures 104.2 centimetres by 75.8 centimetres .</field>
+<field name="label">A Street in Brittany</field>
+<field name="comment">A Street in Brittany is a painting dated 1881 by the artist Stanhope Forbes. Forbes was born in Dublin in 1857. When his family moved to England he studied at Dulwich College, the Lambeth School of Art and the Royal Academy Schools. In 1880 he went to Paris where he was influenced by the French artist Jules Bastien-Lepage. The following year he went to work in Cancale, a small fishing village near Saint-Malo in Brittany.</field>
+<field name="name"/>
+<field name="artist">http://dbpedia.org/resource/Stanhope_Forbes</field>
+<field name="city">http://dbpedia.org/resource/Liverpool</field>
+<field name="height">104.2</field>
+<field name="museum">http://dbpedia.org/resource/Walker_Art_Gallery</field>
+<field name="title">A Street in Brittany</field>
+<field name="type">oil on canvas</field>
+<field name="width">75.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Street_in_Brittany</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Street_in_Brittany</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Street_in_Brittany</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Street_in_Brittany</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4659856</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Street_in_Brittany</field>
+</doc>
+</add>

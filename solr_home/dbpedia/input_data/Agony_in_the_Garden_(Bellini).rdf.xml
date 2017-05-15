@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Orazione_nell'orto_(Giovanni_Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Agony_in_the_Garden_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Agony_in_the_Garden_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Agony_in_the_Garden_(Bellini)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rz02f</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הייסורים_בגן_(בליני)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cristo_en_el_monte_de_los_Olivos_(Bellini)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Orazione_nell'orto_(Giovanni_Bellini)</field>
+<field name="sameAs">http://dbpedia.org/resource/Agony_in_the_Garden_(Bellini)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1131110</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Bellini</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Agony in the Garden is an early painting by the Italian Renaissance master Giovanni Bellini, who painted it around 1459-65. It is in the National Gallery, London. It portrays Christ kneeling on the Mount of Olives in prayer, with his disciples Peter, James and John sleeping near to him. The picture is closely related to the similar work by Bellini's brother-in-law, Andrea Mantegna, also in the National Gallery. It is likely that both derived from a drawing by Bellini's father, Jacopo. In Bellini's version, the treatment of dawn light has a more important role in giving the scene a quasi-unearthly atmosphere. Until the mid-19th century Early Renaissance paintings were regarded as curiosities by most collectors. This one had probably belonged to Consul Smith in Venice (d. 1770), was bought by William Beckford at the Joshua Reynolds sale in 1795 for £5, then sold in 1823 with Fonthill Abbey and repurchased by Beckford at the Fonthill Sale the next year for £52.10s. It was bought by the National Gallery for £630 in 1863, still a low price for the day.</field>
+<field name="label">Agony in the Garden (Bellini)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b5/Giovanni_Bellini_002.jpg</field>
+<field name="comment">The Agony in the Garden is an early painting by the Italian Renaissance master Giovanni Bellini, who painted it around 1459-65. It is in the National Gallery, London. It portrays Christ kneeling on the Mount of Olives in prayer, with his disciples Peter, James and John sleeping near to him. The picture is closely related to the similar work by Bellini's brother-in-law, Andrea Mantegna, also in the National Gallery. It is likely that both derived from a drawing by Bellini's father, Jacopo.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Giovanni_Bellini_002.jpg/200px-Giovanni_Bellini_002.jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/b/bellini/giovanni/1460-69/060agon.html</field>
+<field name="link_external">http://www.artble.com/artists/giovanni_bellini/paintings/agony_in_the_garden</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=ng726</field>
+<field name="artist">http://dbpedia.org/resource/Giovanni_Bellini</field>
+<field name="height">81</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">The Agony in the Garden</field>
+<field name="type">Tempera on panel</field>
+<field name="width">127</field>
+<field name="year">c. 1459-1465</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Agony_in_the_Garden_(Bellini)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Agony_in_the_Garden_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cristo_en_el_monte_de_los_Olivos_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Agony_in_the_Garden_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Agony_in_the_Garden_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Agony_in_the_Garden_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1131110</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Agony_in_the_Garden_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הייסורים_בגן_(בליני)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Agony_in_the_Garden_(Bellini)</field>
+</doc>
+</add>

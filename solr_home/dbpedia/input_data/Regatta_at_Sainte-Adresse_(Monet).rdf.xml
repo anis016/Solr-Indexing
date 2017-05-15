@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Régates_à_Sainte-Adresse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Regatta_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Regatta_at_Sainte-Adresse_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Regatta_at_Sainte-Adresse_(Monet)</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Vitorlásverseny_Sainte-Adresse-ben_(festmény)</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/سباق_القوارب_في_سانت_أدريس</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Régates_à_Sainte-Adresse</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Regatta_at_Sainte-Adresse_(Monet)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Regatta_bij_Sainte-Adresse</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f9b03</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q734082</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="abstract">The Regatta at Sainte-Adresse is a painting by the impressionist painter, Claude Monet. This painting and "The Beach in Sainte-Adresse" were probably conceived as a pair. They are identical in size, and their viewing point differs by only a few yards. Sainte-Adresse, the well-to-do suburb of Le Havre, was the home of Monet's father. Destitute, Monet spent the summer of 1867 with his father and aunt Sophie Lecadre at the cost of abandoning his companion, Camille Doncieux, and their newborn son, Jean. Monet attended the birth in Paris and returned to the coast a few days later. The pair of paintings juxtaposes this sunny regatta watched at high tide by well dressed bourgeois, with an overcast scene at low tide, fishing boats hauled onto the beach peopled with sailors and workers. Since Monet never exhibited the paintings side by side, the contrast between them was probably not intended as a social manifesto but instead reflected differing conditions under which the same place could be painted.</field>
+<field name="label">Regatta at Sainte-Adresse (Monet)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/42/Regatta_at_Sainte-Adresse.JPG</field>
+<field name="comment">The Regatta at Sainte-Adresse is a painting by the impressionist painter, Claude Monet. This painting and "The Beach in Sainte-Adresse" were probably conceived as a pair. They are identical in size, and their viewing point differs by only a few yards. Sainte-Adresse, the well-to-do suburb of Le Havre, was the home of Monet's father.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Regatta_at_Sainte-Adresse.JPG/200px-Regatta_at_Sainte-Adresse.JPG</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Regatta_at_Sainte-Adresse_(Monet)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Regatta_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Regatta_at_Sainte-Adresse_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Regatta_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Regatta_bij_Sainte-Adresse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Regatta_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q734082</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Regatta_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/سباق_القوارب_في_سانت_أدريس</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Regatta_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Vitorlásverseny_Sainte-Adresse-ben_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Regatta_at_Sainte-Adresse_(Monet)</field>
+</doc>
+</add>

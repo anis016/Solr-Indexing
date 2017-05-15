@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Stevenson_Memorial</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Stevenson_Memorial</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Stevenson_Memorial</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bm97v1</field>
+<field name="sameAs">http://dbpedia.org/resource/Stevenson_Memorial</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7615526</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Stevenson_Memorial</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1903_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Artifacts_in_the_collection_of_the_Smithsonian_Institution</field>
+<field name="abstract">Stevenson Memorial is a 1903 oil painting by the American artist Abbott Handerson Thayer, intended to commemorate the writer Robert Louis Stevenson. Though Thayer initiated several paintings with the intent of honoring Stevenson, Stevenson Memorial is the only version to survive the artist's revisions.</field>
+<field name="label">Stevenson Memorial</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/37/Stevenson_Memorial_1903_Abbott_Thayer.jpg</field>
+<field name="comment">Stevenson Memorial is a 1903 oil painting by the American artist Abbott Handerson Thayer, intended to commemorate the writer Robert Louis Stevenson. Though Thayer initiated several paintings with the intent of honoring Stevenson, Stevenson Memorial is the only version to survive the artist's revisions.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Stevenson_Memorial_1903_Abbott_Thayer.jpg/200px-Stevenson_Memorial_1903_Abbott_Thayer.jpg</field>
+<field name="link_external">http://www.jstor.org/pss/3109297</field>
+<field name="link_external">http://www.tfaoi.com/aa/3aa/3aa202.htm</field>
+<field name="link_external">http://americanart.si.edu/collections/search/artwork/?id=23951</field>
+<field name="link_external">http://www.tfaoi.com/newsm1/n1m216.htm</field>
+<field name="link_external">http://antiquesandthearts.com/archive/thayer.htm</field>
+<field name="artist">http://dbpedia.org/resource/Abbott_Handerson_Thayer</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">207.2</field>
+<field name="image"/>
+<field name="imageSize">225</field>
+<field name="museum">http://dbpedia.org/resource/Smithsonian_American_Art_Museum</field>
+<field name="title">Stevenson Memorial</field>
+<field name="width">152.6</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Stevenson_Memorial</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Stevenson_Memorial</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7615526</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stevenson_Memorial</field>
+</doc>
+</add>

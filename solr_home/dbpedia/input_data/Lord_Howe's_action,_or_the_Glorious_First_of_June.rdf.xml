@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Lord_Howe_lors_de_la_bataille_du_13_prairial_an_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lord_Howe's_action,_or_the_Glorious_First_of_June</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lord_Howe's_action,_or_the_Glorious_First_of_June</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lord_Howe's_action,_or_the_Glorious_First_of_June</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lord_Howe's_action,_or_the_Glorious_First_of_June</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Lord_Howe_lors_de_la_bataille_du_13_prairial_an_II</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3259386</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lord_Howe's_action,_or_the_Glorious_First_of_June</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03hkdj7</field>
+<field name="sameAs">http://dbpedia.org/resource/Lord_Howe's_action,_or_the_Glorious_First_of_June</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Maritime_Museum,_Greenwich</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1795_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="abstract">Lord Howe's action, or the Glorious First of June is a 1795 painting by Philippe-Jacques de Loutherbourg of the victory of British naval forces under Lord Howe over a French force led by Louis Thomas Villaret de Joyeuse on the Glorious First of June 1794. After time in the Royal Collection of George IV, it is currently in the collection of the National Maritime Museum and on display in the ground floor of its Queen's House, in place of Turner's The Battle of Trafalgar (whilst the latter is on long-term foreign loan).</field>
+<field name="label">Lord Howe's action, or the Glorious First of June</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cb/Loutherbourg,_The_Glorious_First_of_June.jpg</field>
+<field name="comment">Lord Howe's action, or the Glorious First of June is a 1795 painting by Philippe-Jacques de Loutherbourg of the victory of British naval forces under Lord Howe over a French force led by Louis Thomas Villaret de Joyeuse on the Glorious First of June 1794.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Loutherbourg,_The_Glorious_First_of_June.jpg/200px-Loutherbourg,_The_Glorious_First_of_June.jpg</field>
+<field name="link_external">http://www.nmm.ac.uk/collections/nelson/viewObject.cfm?ID=BHC0470</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">266.5</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Lord Howe's action, or the Glorious First of June</field>
+<field name="width">373.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lord_Howe's_action,_or_the_Glorious_First_of_June</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lord_Howe's_action,_or_the_Glorious_First_of_June</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lord_Howe's_Victory_off_Ushant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lord_Howe_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3259386</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lord_Howe's_action,_or_the_Glorious_First_of_June</field>
+</doc>
+</add>

@@ -1,0 +1,105 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Тайная_вечеря_(картина_Сальвадора_Дали)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Supper_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Тайная_вечеря_(картина_Сальвадора_Дали)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/L'Últim_Sopar_(Dalí)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Sacrament_of_the_Last_Supper</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Última_Ceia_(Salvador_Dalí)</field>
+<field name="sameAs">http://ta.dbpedia.org/resource/இறுதி_இராவுணவு_அருட்சாதனம்_(ஓவியம்)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Última_Cena_(Dalí)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q30521</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ultima_Cena_(Dalí)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Тайна_вечеря_(картина_Сальвадора_Далі)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03c60t3</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Dernière_Cène_(Salvador_Dalí)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1955_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">The Sacrament of the Last Supper is a painting by Salvador Dalí. Completed in 1955, after nine months of work, it remains one of his most popular compositions. Since its arrival at the National Gallery of Art in Washington, D.C. in 1955, it replaced Renoir's A Girl with a Watering Can as the most popular piece in the museum. The combination of a classic Christian theme with the jarring techniques of Surrealism captures the eye, as Dali was able to do repeatedly with such works as The Temptation of St. Anthony, Christ of Saint John of the Cross, Crucifixion or Corpus Hypercubus, The Madonna of Port Lligat, Nuclear cross, and The Ecumenical Council, among others. The composition was laid out using the Golden Ratio.</field>
+<field name="label">The Sacrament of the Last Supper</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f1/Dali_-_The_Sacrament_of_the_Last_Supper_-_lowres.jpg</field>
+<field name="comment">The Sacrament of the Last Supper is a painting by Salvador Dalí. Completed in 1955, after nine months of work, it remains one of his most popular compositions. Since its arrival at the National Gallery of Art in Washington, D.C. in 1955, it replaced Renoir's A Girl with a Watering Can as the most popular piece in the museum.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Dali_-_The_Sacrament_of_the_Last_Supper_-_lowres.jpg/200px-Dali_-_The_Sacrament_of_the_Last_Supper_-_lowres.jpg</field>
+<field name="link_external">http://www.dali-gallery.com/images/works/1955_01.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">267</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">The Sacrament of the Last Supper</field>
+<field name="width">166.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Sacrament_of_the_Last_Supper</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Sacrament_of_the_Last_Supper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Última_Cena_(Dalí)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Dernière_Cène_(Salvador_Dalí)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ultima_Cena_(Dalí)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Última_Ceia_(Salvador_Dalí)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q30521</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/L'Últim_Sopar_(Dalí)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://ta.dbpedia.org/resource/இறுதி_இராவுணவு_அருட்சாதனம்_(ஓவியம்)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Тайна_вечеря_(картина_Сальвадора_Далі)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sacrament_of_the_Last_Supper</field>
+</doc>
+</add>

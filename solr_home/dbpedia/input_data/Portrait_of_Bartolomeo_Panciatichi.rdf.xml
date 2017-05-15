@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Bartolomeo_Panciatichi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Bartolomeo_Panciatichi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Bartolomeo_Panciatichi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Bartolomeo_Panciatichi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rvmnv</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Bartolomeo_Panciatichi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937473</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Bartolomeo_Panciatichi</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Poltred_Bartolomeo_Panciatichi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Bronzino_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1540_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Bronzino_paintings_in_the_Uffizi</field>
+<field name="abstract">The Portrait of Bartolomeo Panciatichi is a painting by the Italian artist Agnolo di Cosimo, known as Bronzino, finished around 1540. It is housed in the Uffizi Gallery of Florence, Italy. Bartolomeo Panciatichi was a Florentine humanist and politician. His wife was also portrayed by Bronzino a few years later. In view of the fact that he was suspected as sympathetic to Lutheranism it is interesting the traveller William Thomas, eventually executed for rebellion against the marriage of Philip and Mary, stayed in Florence with Panciatichi in the mid-1540s (see Edward Chaney, The Evolution of the Grand Tour, 2nd ed. , pp 71-72).</field>
+<field name="label">Portrait of Bartolomeo Panciatichi</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/30/Angelo_Bronzino_049.jpg</field>
+<field name="comment">The Portrait of Bartolomeo Panciatichi is a painting by the Italian artist Agnolo di Cosimo, known as Bronzino, finished around 1540. It is housed in the Uffizi Gallery of Florence, Italy. Bartolomeo Panciatichi was a Florentine humanist and politician. His wife was also portrayed by Bronzino a few years later.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Angelo_Bronzino_049.jpg/200px-Angelo_Bronzino_049.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">104</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Bartolomeo Panciatichi</field>
+<field name="type">Oil on panel</field>
+<field name="width">85</field>
+<field name="year">c. 1540</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Bartolomeo_Panciatichi</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Bartolomeo_Panciatichi</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Bartolomeo_Panciatichi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Bartolomeo_Panciatichi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_bartolomeo_panciatichi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937473</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Bartolomeo_Panciatichi</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Poltred_Bartolomeo_Panciatichi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Bartolomeo_Panciatichi</field>
+</doc>
+</add>

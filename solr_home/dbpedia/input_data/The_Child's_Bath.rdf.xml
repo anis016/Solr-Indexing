@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Child's_Bath</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3172226</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03qbcz8</field>
+<field name="sameAs">http://da.dbpedia.org/resource/The_Child's_Bath</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Child's_Bath</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Child's_Bath</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1893_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="abstract">The Child's Bath (or The Bath) is an 1893 oil painting by American artist Mary Cassatt. The subject matter and the overhead perspective were inspired by Japanese woodblocks. It shows dignity in motherhood and has a style similar to that of Degas. The Art Institute of Chicago acquired the piece in 1910. It has since become one of the most popular pieces in the museum.</field>
+<field name="label">The Child's Bath</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f5/The_Child's_Bath_by_Mary_Cassatt_1893.jpg</field>
+<field name="comment">The Child's Bath (or The Bath) is an 1893 oil painting by American artist Mary Cassatt. The subject matter and the overhead perspective were inspired by Japanese woodblocks. It shows dignity in motherhood and has a style similar to that of Degas. The Art Institute of Chicago acquired the piece in 1910. It has since become one of the most popular pieces in the museum.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/The_Child's_Bath_by_Mary_Cassatt_1893.jpg/200px-The_Child's_Bath_by_Mary_Cassatt_1893.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/cassatt-the-childs-bath.html</field>
+<field name="artist">http://dbpedia.org/resource/Mary_Cassatt</field>
+<field name="city">http://dbpedia.org/resource/Chicago</field>
+<field name="height">100.3</field>
+<field name="image"/>
+<field name="imageSize">180</field>
+<field name="museum">http://dbpedia.org/resource/Art_Institute_of_Chicago</field>
+<field name="title">The Child's Bath</field>
+<field name="width">66.1</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Child's_Bath</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Child's_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Child's_Bath</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Child's_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3172226</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Child's_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/The_Child's_Bath</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Child's_Bath</field>
+</doc>
+</add>

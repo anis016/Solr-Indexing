@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mademoiselle_Rose</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mademoiselle_Rose</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6727098</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h_cq63</field>
+<field name="sameAs">http://dbpedia.org/resource/Mademoiselle_Rose</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_romantic_painters</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_painters</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Eug%C3%A8ne_Delacroix</field>
+<field name="abstract">Mademoiselle Rose (also Seated Nude) is a painting by French Romantic artist Eugène Delacroix, regarded as the leader of the French Romantic school. This nude was painted before 1824, and is currently held and exhibited at the Louvre in Paris. Another is at the Alte Nationalgalerie in Berlin.</field>
+<field name="label">Mademoiselle Rose</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/53/Eugène_Ferdinand_Victor_Delacroix_024.jpg</field>
+<field name="comment">Mademoiselle Rose (also Seated Nude) is a painting by French Romantic artist Eugène Delacroix, regarded as the leader of the French Romantic school. This nude was painted before 1824, and is currently held and exhibited at the Louvre in Paris. Another is at the Alte Nationalgalerie in Berlin.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Eugène_Ferdinand_Victor_Delacroix_024.jpg/200px-Eugène_Ferdinand_Victor_Delacroix_024.jpg</field>
+<field name="link_external">http://www.artble.com/artists/eugene_delacroix</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/d/delacroi/index.html</field>
+<field name="link_external">http://www.getty.edu/art/gettyguide/artMakerDetails?maker=408</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/delacroix/</field>
+<field name="link_external">http://www.ricci-art.com/en/Eugene-Delacroix.htm</field>
+<field name="link_external">http://bibliotheque-numerique.inha.fr/collection/?r=Top%2Fdl_category%2Farchives%2C+manuscrits+et+autographes%2Fjournal+et+correspondance+d%27eugene+delacroix+%281798-1863%29&amp;navigation=0&amp;dq=%23reset</field>
+<field name="link_external">http://www.musee-delacroix.fr/</field>
+<field name="artist">http://dbpedia.org/resource/Eug%C3%A8ne_Delacroix</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">81</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Mademoiselle Rose</field>
+<field name="type">Oil on canvas</field>
+<field name="width">66</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mademoiselle_Rose</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mademoiselle_Rose</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mademoiselle_Rose</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mademoiselle_Rose</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6727098</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mademoiselle_Rose</field>
+</doc>
+</add>

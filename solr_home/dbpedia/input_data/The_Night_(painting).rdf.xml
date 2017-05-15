@@ -1,0 +1,77 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Night_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beckmann's_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beckmann_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Max_Beckmann's_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Max_Beckmann_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Night_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Night_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Night_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Night_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04067m5</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7754055</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Night_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:German_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1919_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">The Night is a 20th-century painting by German artist Max Beckmann, created between the years of 1918 and 1919. It is an icon of the post-World War I movement, Neue Sachlichkeit, or New Objectivity. It is an oil painting on canvas.</field>
+<field name="label">The Night (painting)</field>
+<field name="comment">The Night is a 20th-century painting by German artist Max Beckmann, created between the years of 1918 and 1919. It is an icon of the post-World War I movement, Neue Sachlichkeit, or New Objectivity. It is an oil painting on canvas.</field>
+<field name="name"/>
+<field name="link_external">http://www.artchive.com/artchive/B/beckmann/night.jpg.html</field>
+<field name="artist">http://dbpedia.org/resource/Max_Beckmann</field>
+<field name="city">http://dbpedia.org/resource/D%C3%BCsseldorf</field>
+<field name="museum">http://dbpedia.org/resource/Kunstsammlung_Nordrhein-Westfalen</field>
+<field name="title">The Night</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Night_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Night_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Night_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Night_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7754055</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Night_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Flagmen_of_Lowestoft</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Flagmen_of_Lowestoft</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gy0n9v</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5456956</field>
+<field name="sameAs">http://dbpedia.org/resource/Flagmen_of_Lowestoft</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="abstract">The Flagmen of Lowestoft are a collection of thirteen paintings by Sir Peter Lely, painted in the mid 1660s. They were originally part of the Royal Collections, though most were gifted to Greenwich Hospital in the nineteenth century, and are now in the care of the National Maritime Museum. The paintings are of prominent naval officers, most of them of flag rank, who had fought at the Battle of Lowestoft in 1665. Lely at the time was Principal Painter to King Charles II.</field>
+<field name="label">Flagmen of Lowestoft</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d4/Flagmen_of_Lowestoft_George_Monck,_1st_Duke_of_Albemarle_by_Sir_Peter_Lely.jpg</field>
+<field name="comment">The Flagmen of Lowestoft are a collection of thirteen paintings by Sir Peter Lely, painted in the mid 1660s. They were originally part of the Royal Collections, though most were gifted to Greenwich Hospital in the nineteenth century, and are now in the care of the National Maritime Museum. The paintings are of prominent naval officers, most of them of flag rank, who had fought at the Battle of Lowestoft in 1665. Lely at the time was Principal Painter to King Charles II.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flagmen_of_Lowestoft_George_Monck,_1st_Duke_of_Albemarle_by_Sir_Peter_Lely.jpg/200px-Flagmen_of_Lowestoft_George_Monck,_1st_Duke_of_Albemarle_by_Sir_Peter_Lely.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Flagmen_of_Lowestoft</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Flagmen_of_Lowestoft</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Flagmen_of_Lowestoft</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Flagmen_of_Lowestoft</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5456956</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Flagmen_of_Lowestoft</field>
+</doc>
+</add>

@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Presentazione_della_Vergine_al_Tempio_(Cima_da_Conegliano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Presentation_of_the_Virgin_Mary_at_the_Temple_(Cima_da_Conegliano)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Presentation_of_the_Virgin_Mary_at_the_Temple_(Cima_da_Conegliano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Presentation_of_the_Virgin_Mary_at_the_Temple_(Cima_da_Conegliano)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Presentation_of_the_Virgin_Mary_at_the_Temple_(Cima_da_Conegliano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Presentation_of_the_Virgin_Mary_at_the_Temple_(Cima_da_Conegliano)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03hgv2g</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3910917</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Presentazione_della_Vergine_al_Tempio_(Cima_da_Conegliano)</field>
+<field name="sameAs">http://dbpedia.org/resource/Presentation_of_the_Virgin_Mary_at_the_Temple_(Cima_da_Conegliano)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gem%C3%A4ldegalerie_Alte_Meister</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Cima_da_Conegliano</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="abstract">The Presentation of the Virgin Mary at the Temple is a painting by the Italian Renaissance master Cima da Conegliano, c. 1496-1497, in the Gemäldegalerie Alte Meister of Dresden, Germany, of the Presentation of Mary.</field>
+<field name="label">Presentation of the Virgin Mary at the Temple (Cima da Conegliano)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f5/Cima_da_Conegliano_003.jpg</field>
+<field name="comment">The Presentation of the Virgin Mary at the Temple is a painting by the Italian Renaissance master Cima da Conegliano, c. 1496-1497, in the Gemäldegalerie Alte Meister of Dresden, Germany, of the Presentation of Mary.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Cima_da_Conegliano_003.jpg/200px-Cima_da_Conegliano_003.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Cima_da_Conegliano</field>
+<field name="city">http://dbpedia.org/resource/Dresden</field>
+<field name="height">105</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Gem%C3%A4ldegalerie_Alte_Meister</field>
+<field name="title">Presentation of the Virgin Mary at the Temple</field>
+<field name="width">145</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Presentation_of_the_Virgin_Mary_at_the_Temple_(Cima_da_Conegliano)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Presentation_of_the_Virgin_Mary_at_the_Temple_(Cima_da_Conegliano)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Presentation_of_the_Virgin_(Cima_da_Conegliano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3910917</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Presentation_of_the_Virgin_Mary_at_the_Temple_(Cima_da_Conegliano)</field>
+</doc>
+</add>

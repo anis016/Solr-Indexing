@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hotel_Lobby</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glrx4g</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5911687</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hotel_Lobby</field>
+<field name="sameAs">http://dbpedia.org/resource/Hotel_Lobby</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Indianapolis_Museum_of_Art_artworks</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edward_Hopper</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1943_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fictional_hotels</field>
+<field name="abstract">Hotel Lobby is an oil painting on canvas by American realist painter Edward Hopper, which is held in the collection of the Indianapolis Museum of Art (IMA), in Indianapolis, Indiana, United States.</field>
+<field name="label">Hotel Lobby</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d1/Hotel_Lobby_by_Edward_Hopper.JPG</field>
+<field name="comment">Hotel Lobby is an oil painting on canvas by American realist painter Edward Hopper, which is held in the collection of the Indianapolis Museum of Art (IMA), in Indianapolis, Indiana, United States.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Hotel_Lobby_by_Edward_Hopper.JPG/200px-Hotel_Lobby_by_Edward_Hopper.JPG</field>
+<field name="link_external">http://huntingnighthawks.blogspot.com/2008/06/13.html</field>
+<field name="artist">http://dbpedia.org/resource/Edward_Hopper</field>
+<field name="city">http://dbpedia.org/resource/Indianapolis</field>
+<field name="city">http://dbpedia.org/resource/United_States</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Indianapolis_Museum_of_Art</field>
+<field name="title">Hotel Lobby</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hotel_Lobby</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hotel_Lobby</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hotel_Lobby</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hotel_Lobby</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lobby</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5911687</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hotel_Lobby</field>
+</doc>
+</add>

@@ -1,0 +1,89 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Бегство_в_Египет_(картина_Эльсхаймера)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ucieczka_do_Egiptu_(obraz_Elsheimera_1609)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Втеча_в_Єгипет_(картина_Ельсгаймера)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bhbzh7</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Huida_a_Egipto_(Elsheimer)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2381716</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Flight_into_Egypt_(Elsheimer)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1609_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Flight_into_Egypt_in_art</field>
+<field name="abstract">The Flight into Egypt is an oil-on-copper cabinet painting by the German artist Adam Elsheimer dating from about 1609, while he was in Rome. Like many other artists before and after him, Elsheimer has depicted the biblical Flight into Egypt, in which Joseph, Mary, and Jesus seek refuge from possible persecution by Herod. For its innovative fusing of religious and landscape elements, and its detailed juxtaposition of light and darkness, The Flight into Egypt is one of Elsheimer's most well-known and lauded works. It is also likely his last painting, for he died a year later. Elsheimer's treatment is unique in placing the Holy Family in a nocturnal setting, true to the biblical description. The darkness creates opposing feelings of intimacy and fear of the unknown. The painting channels the mysteries of night, pondered by humans for centuries, into this moment of the Holy Family seeking refuge. There are four sources of light in the painting: the moon is accurately depicted and reflects off the calm water. There is a fire near the shepherds at left, where the family is headed. At the centre of the composition, Joseph holds a torch that illuminates Mary and the infant, who are riding an ass. The heavily treed landscape behind them is almost black, its outline forming a diagonal across the sky and completely containing the foreground figures. The diagonal is echoed in the night sky by the intricate band of the Milky Way, and detailed configurations of stars are seen, including Ursa Major at far left. Elsheimer is thought to be the first painter to accurately depict constellations. In addition to disclosing Elsheimer's interest in scientific topics, the appearance of the Milky Way has a spiritual connotation—it symbolized the path to heaven beginning in the Middle Ages. Elsheimer's sky, wrote art historian R.H. Wilenski, "is no longer a blackcloth but a symbol for boundless space".</field>
+<field name="label">The Flight into Egypt (Elsheimer)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/07/Adam_Elsheimer_002.jpg</field>
+<field name="comment">The Flight into Egypt is an oil-on-copper cabinet painting by the German artist Adam Elsheimer dating from about 1609, while he was in Rome. Like many other artists before and after him, Elsheimer has depicted the biblical Flight into Egypt, in which Joseph, Mary, and Jesus seek refuge from possible persecution by Herod.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Adam_Elsheimer_002.jpg/200px-Adam_Elsheimer_002.jpg</field>
+<field name="link_external">http://online.wsj.com/article/SB10001424052748703976804575114204213855436.html</field>
+<field name="link_external">http://www.pinakothek.de/alte-pinakothek/sammlung/rundgang/rundgang_inc_en.php?inc=besprechung&amp;which=5768</field>
+<field name="artist">http://dbpedia.org/resource/Adam_Elsheimer</field>
+<field name="city"/>
+<field name="height">31</field>
+<field name="image"/>
+<field name="imageSize">360</field>
+<field name="museum">http://dbpedia.org/resource/Alte_Pinakothek</field>
+<field name="title">The Flight into Egypt</field>
+<field name="type">Oil on copper</field>
+<field name="width">41</field>
+<field name="year">c. 1609</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Flight_into_Egypt_(Elsheimer)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Flight_into_Egypt_(Elsheimer)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Бегство_в_Египет_(картина_Эльсхаймера)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ucieczka_do_Egiptu_(obraz_Elsheimera_1609)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Flight_into_Egypt_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_flight_to_Egypt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Flight_into_Egypt_(Elsheimer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Huida_a_Egipto_(Elsheimer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2381716</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Втеча_в_Єгипет_(картина_Ельсгаймера)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Elsheimer)</field>
+</doc>
+</add>

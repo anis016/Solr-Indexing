@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Fraga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Philippe_IV_à_Fraga</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Felipe_IV_en_Fraga</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3380051</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Philip_IV_in_Fraga</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Fraga</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h54t0s</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1644_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_of_Philip_IV</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Frick_Collection</field>
+<field name="abstract">The Portrait of Philip IV in Fraga is a portrait of Philip IV of Spain painted in June 1644 by Velázquez.</field>
+<field name="label">Portrait of Philip IV in Fraga</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/60/Philippe_IV_espagne.jpg</field>
+<field name="comment">The Portrait of Philip IV in Fraga is a portrait of Philip IV of Spain painted in June 1644 by Velázquez.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Philippe_IV_espagne.jpg/200px-Philippe_IV_espagne.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Philip_IV_in_Fraga</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Philip_IV_in_Fraga</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Felipe_IV_en_Fraga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Fraga</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Philippe_IV_à_Fraga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Fraga</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Philip_IV_in_Fraga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Fraga</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3380051</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Philip_IV_in_Fraga</field>
+</doc>
+</add>

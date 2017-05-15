@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Copies_by_Vincent_van_Gogh</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Copies_by_Vincent_van_Gogh</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Copies_after_Millet,_and_others</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Copies_by_Vincent_van_Gogh</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5168586</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g4n45</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Copies_by_Vincent_van_Gogh</field>
+<field name="sameAs">http://dbpedia.org/resource/Copies_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Paris</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Saint-R%C3%A9my</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="abstract">Copies by Vincent van Gogh, form an important group of paintings executed by Vincent van Gogh between 1887 and early 1890. While at Saint-Paul asylum in Saint-Rémy-de-Provence, France where Van Gogh admitted himself, he strived to have subjects during the cold winter months. Seeking to be reinvigorated artistically, Van Gogh did more than 30 copies of works by some of his favorite artists. About twenty-one of the works were copies after, or inspired by Jean-François Millet. Rather than replicate, Van Gogh sought to translate the subjects and composition through his perspective, color, and technique. Spiritual meaning and emotional comfort were expressed through symbolism and color. His brother Theo van Gogh (art dealer) would call the pieces in the series some of his best work.</field>
+<field name="label">Copies by Vincent van Gogh</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/79/Noon,_rest_from_work_-_Van_Gogh.jpeg</field>
+<field name="comment">Copies by Vincent van Gogh, form an important group of paintings executed by Vincent van Gogh between 1887 and early 1890. While at Saint-Paul asylum in Saint-Rémy-de-Provence, France where Van Gogh admitted himself, he strived to have subjects during the cold winter months. Seeking to be reinvigorated artistically, Van Gogh did more than 30 copies of works by some of his favorite artists. About twenty-one of the works were copies after, or inspired by Jean-François Millet.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Noon,_rest_from_work_-_Van_Gogh.jpeg/200px-Noon,_rest_from_work_-_Van_Gogh.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">Noon - Rest from Work</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Copies_by_Vincent_van_Gogh</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Copies_by_Vincent_van_Gogh</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5168586</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Copies_by_Vincent_van_Gogh</field>
+</doc>
+</add>

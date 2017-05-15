@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Kuwait_(Kanso_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvrsxw</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Kuwait_(Kanso_series)</field>
+<field name="sameAs">http://dbpedia.org/resource/Kuwait_(Kanso_series)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6448818</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1990s_paintings</field>
+<field name="abstract">Kuwait is a group of approximately 40 paintings made by Nabil Kanso in 1990-91 on the Gulf War and Iraq’s invasion of Kuwait. The works in the series were first exhibited in Kuwait in March – April 1992 at the Free Atelier Art Center and traveled in June to Caracas for a special exhibit at the Palacio de Gobierno in honor of the Emir of Kuwait’s visit to Venezuela. Then, the exhibition proceeded to Geneva and was held at the Red Cross Museum in July – August 1992.</field>
+<field name="label">Kuwait (Kanso series)</field>
+<field name="comment">Kuwait is a group of approximately 40 paintings made by Nabil Kanso in 1990-91 on the Gulf War and Iraq’s invasion of Kuwait. The works in the series were first exhibited in Kuwait in March – April 1992 at the Free Atelier Art Center and traveled in June to Caracas for a special exhibit at the Palacio de Gobierno in honor of the Emir of Kuwait’s visit to Venezuela. Then, the exhibition proceeded to Geneva and was held at the Red Cross Museum in July – August 1992.</field>
+<field name="link_external">http://kuwaitpainting.com/works.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Kuwait_(Kanso_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kuwait_(Kanso_series)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Kuwait_(Kanso_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Kuwait_(Kanso_series)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6448818</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Kuwait_(Kanso_series)</field>
+</doc>
+</add>

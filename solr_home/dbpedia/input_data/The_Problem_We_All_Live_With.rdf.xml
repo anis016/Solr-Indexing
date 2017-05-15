@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Problem_We_All_Live_With</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3r1hf</field>
+<field name="sameAs">http://sh.dbpedia.org/resource/The_Problem_We_All_Live_With</field>
+<field name="sameAs">http://sr.dbpedia.org/resource/Проблем_са_којим_сви_живимо</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Проблема,_с_которой_все_мы_живём</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6592831</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Problem_We_All_Live_With</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Problem_We_All_Live_With</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:School_segregation_in_the_United_States</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_originally_published_in_American_magazines</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_based_on_actual_events</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1964_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Black_people_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Norman_Rockwell</field>
+<field name="abstract">The Problem We All Live With is a 1964 painting by Norman Rockwell. An iconic image of the civil rights movement in the United States, it depicts Ruby Bridges, a six-year-old African-American girl, on her way in to an all-white public school in New Orleans on November 14, 1960 during the process of racial desegregation. Because of threats and violence against her, she is escorted by four U.S. Deputy Marshals; the painting is framed such that the marshals' heads are cropped at the shoulders. On the wall behind her is written the racial slur "nigger" and the letters "KKK"; a smashed tomato thrown at Bridges is also visible. The white crowd is not visible, as the viewer is looking at the scene from their point of view. The painting is oil on canvas and measures 36 inches high by 58 inches wide. The painting was originally published as a centerfold in the January 14, 1964 issue of Look. Rockwell had ended his contract with the Saturday Evening Post the previous year due to frustration with the limits the magazine placed on his expression of political themes, and Look offered him a forum for his progressive social interests, including civil rights and racial integration. Rockwell explored similar themes in Southern Justice (Murder in Mississippi) and New Kids in the Neighborhood; unlike his previous works for the Post, The Problem We All Live With and these others place black people as protagonists, instead of as observers or in servile roles. Like New Kids in the Neighborhood, The Problem We All Live With depicts a black child protagonist; like Southern Justice, it uses strong light-dark contrasts to further its racial theme. At Bridges' suggestion, in July 2011 President Barack Obama had the painting installed in the White House, in a hallway outside the Oval Office. Art historian William Kloss stated, "It’s a painting that could not be hung even for a brief time in the public spaces [of the White House]. I’m pretty sure of that. " The painting was on display through October 2011. The painting's home is at the Norman Rockwell Museum in Stockbridge, Massachusetts.</field>
+<field name="label">The Problem We All Live With</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ed/The-problem-we-all-live-with-norman-rockwell.jpg</field>
+<field name="comment">The Problem We All Live With is a 1964 painting by Norman Rockwell. An iconic image of the civil rights movement in the United States, it depicts Ruby Bridges, a six-year-old African-American girl, on her way in to an all-white public school in New Orleans on November 14, 1960 during the process of racial desegregation. Because of threats and violence against her, she is escorted by four U.S. Deputy Marshals; the painting is framed such that the marshals' heads are cropped at the shoulders.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/The-problem-we-all-live-with-norman-rockwell.jpg/200px-The-problem-we-all-live-with-norman-rockwell.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Norman_Rockwell</field>
+<field name="city"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Norman_Rockwell_Museum</field>
+<field name="title">The Problem We All Live With</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Problem_We_All_Live_With</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Problem_We_All_Live_With</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Problem_We_All_Live_With</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Problem_We_All_Live_With</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6592831</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Problem_We_All_Live_With</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Проблема,_с_которой_все_мы_живём</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Problem_We_All_Live_With</field>
+</doc>
+<doc>
+<field name="uri">http://sh.dbpedia.org/resource/The_Problem_We_All_Live_With</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Problem_We_All_Live_With</field>
+</doc>
+<doc>
+<field name="uri">http://sr.dbpedia.org/resource/Проблем_са_којим_сви_живимо</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Problem_We_All_Live_With</field>
+</doc>
+</add>

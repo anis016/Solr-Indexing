@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Big_Picture</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Big_Picture_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Big_Picture_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Big_Picture_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07kc46v</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7717746</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tom_Roberts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1903_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Parliament_of_Australia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Collection_of_the_United_Kingdom</field>
+<field name="abstract">The Opening of the First Parliament of the Commonwealth of Australia by H.R.H. The Duke of Cornwall and York (later H.M. King George V), May 9, 1901, more commonly known in Australia as The Big Picture, is a 1903 painting by the Australian artist Tom Roberts. The painting, measuring 304.5 by 509.2 centimetres ( in ×  in), depicts the opening of the first Parliament of Australia at the Royal Exhibition Building in Melbourne on 9 May 1901. The painting is part of the Royal Collection but has been on permanent loan to the Parliament of Australia since 1957. The work, currently on display in Parliament House, Canberra, has been described as "undoubtedly the principal work of art recording Australia's Parliamentary History."</field>
+<field name="label">The Big Picture (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/62/Opening_of_the_first_parliament.jpg</field>
+<field name="comment">The Opening of the First Parliament of the Commonwealth of Australia by H.R.H. The Duke of Cornwall and York (later H.M. King George V), May 9, 1901, more commonly known in Australia as The Big Picture, is a 1903 painting by the Australian artist Tom Roberts. The painting, measuring 304.5 by 509.2 centimetres ( in ×  in), depicts the opening of the first Parliament of Australia at the Royal Exhibition Building in Melbourne on 9 May 1901.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Opening_of_the_first_parliament.jpg/200px-Opening_of_the_first_parliament.jpg</field>
+<field name="link_external">http://www.slv.vic.gov.au/pictures/0/0/2/doc/pi002401.shtml</field>
+<field name="link_external">http://www.artistsfootsteps.com/html/Roberts_pictureportraits.htm</field>
+<field name="link_external">http://www.artistsfootsteps.com/html/Roberts_picturenames.htm</field>
+<field name="artist">http://dbpedia.org/resource/Tom_Roberts</field>
+<field name="city">http://dbpedia.org/resource/Canberra</field>
+<field name="height">304.5</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Parliament_House,_Canberra</field>
+<field name="title">The Big Picture</field>
+<field name="type">oil on canvas</field>
+<field name="width">509.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Big_Picture_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Big_Picture_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Opening_of_the_First_Parliament</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Opening_of_the_First_Parliament</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Big_Picture_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Big_Picture_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7717746</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Big_Picture_(painting)</field>
+</doc>
+</add>

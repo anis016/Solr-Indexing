@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Woman_in_a_Purple_Coat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Woman_in_a_Purple_Coat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_in_a_Purple_Coat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_in_a_Purple_Coat</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vwhjq</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Woman_in_a_Purple_Coat</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q8030721</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1937_paintings</field>
+<field name="abstract">Woman In A Purple Coat or The Purple Coat is a painting by Henri Matisse from 1937. It depicts Matisse's assistant Lydia Delectorskaya. This painting is an example of Henri Matisse's mature decorative style. Matisse depicts his model and companion of many years, Lydia Delectorskaya, in an exotic Moroccan costume, surrounded by a complex of abstract design and exotic color. This is an example of one of the final groups of oil paintings in Matisse's career, in 1950 he stopped painting oil paintings in favor of creating paper cutouts.</field>
+<field name="label">Woman in a Purple Coat</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/41/Woman_in_a_Purple_Coat.jpg</field>
+<field name="comment">Woman In A Purple Coat or The Purple Coat is a painting by Henri Matisse from 1937. It depicts Matisse's assistant Lydia Delectorskaya. This painting is an example of Henri Matisse's mature decorative style. Matisse depicts his model and companion of many years, Lydia Delectorskaya, in an exotic Moroccan costume, surrounded by a complex of abstract design and exotic color.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Woman_in_a_Purple_Coat.jpg/200px-Woman_in_a_Purple_Coat.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Houston</field>
+<field name="height">81</field>
+<field name="image"/>
+<field name="imageSize">230</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts,_Houston</field>
+<field name="title">Woman in a Purple Coat</field>
+<field name="width">65.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Woman_in_a_Purple_Coat</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Woman_in_a_Purple_Coat</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q8030721</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_in_a_Purple_Coat</field>
+</doc>
+</add>

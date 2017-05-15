@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bagnacavallo_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3842710</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_di_Bagnacavallo</field>
+<field name="sameAs">http://dbpedia.org/resource/Bagnacavallo_Madonna</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bagnacavallo_Madonna</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvqtdh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="abstract">The Bagnacavallo Madonna is an oil painting by Albrecht Dürer, dating to before 1505. It is now in the Magnani-Rocca Foundation of Traversetolo, in the province of Parma, Italy.</field>
+<field name="label">Bagnacavallo Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c1/Albrecht_Dürer_062.jpg</field>
+<field name="comment">The Bagnacavallo Madonna is an oil painting by Albrecht Dürer, dating to before 1505. It is now in the Magnani-Rocca Foundation of Traversetolo, in the province of Parma, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Albrecht_Dürer_062.jpg/200px-Albrecht_Dürer_062.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Albrecht_D%C3%BCrer</field>
+<field name="city">http://dbpedia.org/resource/Traversetolo</field>
+<field name="height">48</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum"/>
+<field name="title">Bagnacavallo Madonna</field>
+<field name="type">Oil on panel</field>
+<field name="width">36</field>
+<field name="year">before 1505</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bagnacavallo_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bagnacavallo_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_di_Bagnacavallo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bagnacavallo_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Bagnacavallo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bagnacavallo_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bagnacavallo_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3842710</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bagnacavallo_Madonna</field>
+</doc>
+</add>

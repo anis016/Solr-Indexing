@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Black_Triptychs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Black_Triptychs</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_Triptychs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Black_Triptychs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7718464</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Black_Triptychs</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Black_Triptychs</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b76zyz</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francis_Bacon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="abstract">The Black Triptychs are a series of three triptychs painted by the Irish-born English artist Francis Bacon between 1972 and 1974. Bacon admitted that they were created as an exorcism of his sense of loss following the 1972 suicide of his former lover and principal model, George Dyer. Two days before the opening of Bacon's triumphant and career-making retrospective at the Grand Palais, Dyer, then 37, alcoholic, deeply insecure and suffering severe and long-term depression, killed himself with an overdose of drink and barbiturates in a room at the Paris hotel Bacon had allowed him to share during a brief period of reconciliation following years of bitter recrimination. Bacon, a near-alcoholic himself, felt an acute sense of mortality and awareness of the fragility of life after his former friend's death. This awareness was heightened by the death of many other close friends during the following decade. The most acute paintings after the loss of his friends are considered to be the many posthumous images of Dyer, including numerous heads and the three "Black triptychs", each painted within three years of 1972. Each triptych shows views from moments before, during and after Dyer's death. The scenes are not represented linearly; they do not always read from left to right. Each shows a comatose man, collapsed or dead near the hotel room's lavatory seat. In most, Dyer is followed by black horizontal fleshy winged creatures, raw and red/pink blobs of dying flesh, or by painterly arrows. These devices act both as pointers to the depravity and tragedy of the scene and as manifestations of Bacon's guilt at the death of an emotionally dependent friend.</field>
+<field name="label">The Black Triptychs</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2d/Triptych_-_August_1972.jpg</field>
+<field name="comment">The Black Triptychs are a series of three triptychs painted by the Irish-born English artist Francis Bacon between 1972 and 1974. Bacon admitted that they were created as an exorcism of his sense of loss following the 1972 suicide of his former lover and principal model, George Dyer.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Triptych_-_August_1972.jpg/200px-Triptych_-_August_1972.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Black_Triptychs</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Black_Triptychs</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_triptychs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7718464</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Black_Triptychs</field>
+</doc>
+</add>

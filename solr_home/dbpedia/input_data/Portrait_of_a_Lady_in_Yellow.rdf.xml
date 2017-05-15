@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Lady_in_Yellow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232322</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g576s5</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Lady_in_Yellow</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_in_Yellow</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_paintings</field>
+<field name="abstract">Portrait of a Lady in Yellow was painted by the Florentine artist Alesso Baldovinetti sometime in the second half of the 15th century, most likely c. 1465. For centuries the work was mis-attributed; it was purchased by the National Gallery London in 1866 as a portrait of Countess Palma of Urbino, attributed to Piero della Francesca. In 1911 art historian Roger Fry established that it was by Baldovinetti. However, there is no evidence of the source of the commission, and doubt remains as to the identity of the sitter; the most plausible theory is that she is Francesca delgi Stati of Urbino. The sitter is shown in profile, reflecting the early Renaissance interest in the Antique, and lending the work an almost sculpted feel. She is set against a uniform blue background, in a canvas that is largely flat and lacking in either perspective or depth. Instead the focus of the work centers on the fineries of both her headdress and adorned sleeve.</field>
+<field name="label">Portrait of a Lady in Yellow</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9a/Alesso_Baldovinetti_002.jpg</field>
+<field name="comment">Portrait of a Lady in Yellow was painted by the Florentine artist Alesso Baldovinetti sometime in the second half of the 15th century, most likely c. 1465. For centuries the work was mis-attributed; it was purchased by the National Gallery London in 1866 as a portrait of Countess Palma of Urbino, attributed to Piero della Francesca. In 1911 art historian Roger Fry established that it was by Baldovinetti.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Alesso_Baldovinetti_002.jpg/200px-Alesso_Baldovinetti_002.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/alesso-baldovinetti-portrait-of-a-lady</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Lady_in_Yellow</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Lady_in_Yellow</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Lady_in_Yellow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Lady_in_Yellow</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232322</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_in_Yellow</field>
+</doc>
+</add>

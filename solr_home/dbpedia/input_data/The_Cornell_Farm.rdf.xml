@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Cornell_Farm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Cornell_Farm</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Cornell_Farm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Cornell_Farm</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cornell_Farm</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hzqfg7</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7727622</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1848_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edward_Hicks</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="abstract">The Cornell Farm (1848) is an oil on canvas landscape by Edward Hicks. It was acquired by the National Gallery of Art in 1964. The picture depicts the farmland and cattle of Pennsylvanian James Cornell. Hicks's inscription along the bottom of the picture reads: "An Indian summer view of the Farm &amp; Stock OF JAMES C. CORNELL of Northampton Bucks county Pennsylvania. That took the Premium in the Agricultural society, October the 12, 1848 Painted by E. Hicks in the 69th year of his age. " The work has been exhibited frequently, with its first display at the Bucks County Bi-Centennial Celebration, Doylestown, Pennsylvania, in 1882. The NGA writes, "Having no background in academic art, Hicks employed the direct approach of a primitive or folk painter. The horizontal band of livestock across the foreground, although childlike in its simplicity, clearly presents each prize-winning animal as an individual portrait. Hicks' delight in creating ornamental pattern is evident in the arrangement of fences, while the rich red and bright white of the house and barn symmetrically flank this central landscape. Although the stark silhouettes of figures and buildings seem naive, Hicks softly blended his paints over the orchard to give the impression of space existing well beyond what the eye can see."</field>
+<field name="label">The Cornell Farm</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ee/Edward_Hicks_-_The_Cornell_Farm.jpg</field>
+<field name="comment">The Cornell Farm (1848) is an oil on canvas landscape by Edward Hicks. It was acquired by the National Gallery of Art in 1964. The picture depicts the farmland and cattle of Pennsylvanian James Cornell. Hicks's inscription along the bottom of the picture reads: "An Indian summer view of the Farm &amp; Stock OF JAMES C. CORNELL of Northampton Bucks county Pennsylvania. That took the Premium in the Agricultural society, October the 12, 1848 Painted by E. Hicks in the 69th year of his age.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Edward_Hicks_-_The_Cornell_Farm.jpg/200px-Edward_Hicks_-_The_Cornell_Farm.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=50261&amp;detail=prov</field>
+<field name="artist">http://dbpedia.org/resource/Edward_Hicks</field>
+<field name="city"/>
+<field name="height">93.3</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="width">124.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Cornell_Farm</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Cornell_Farm</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7727622</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cornell_Farm</field>
+</doc>
+</add>

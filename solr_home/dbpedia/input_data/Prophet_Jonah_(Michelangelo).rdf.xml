@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Prophet_Jonah_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prophet_Jonah_(Michelangelo)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Prophet_Jonah_(Michelangelo)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3765109</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g9yz0_</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Giona_(Michelangelo)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Jonah</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Michelangelo</field>
+<field name="abstract">The Prophet Jonah is one of the seven Old Testament prophet's painted by the Italian High Renaissance master Michelangelo (c. 1542–1545) on the Sistine Chapel ceiling. The Sistine Chapel is in Vatican Palace, in the Vatican City. This particular fresco is painted above the High Altar, as the person of Jonah is of prophetic significance in Christianity. Behind the figure of Jonah, Michelangelo has painted a large fish, a reference to the story of Jonah, in which he is swallowed by a whale.</field>
+<field name="label">Prophet Jonah (Michelangelo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d0/Prophet_Jonah.jpg</field>
+<field name="comment">The Prophet Jonah is one of the seven Old Testament prophet's painted by the Italian High Renaissance master Michelangelo (c. 1542–1545) on the Sistine Chapel ceiling. The Sistine Chapel is in Vatican Palace, in the Vatican City. This particular fresco is painted above the High Altar, as the person of Jonah is of prophetic significance in Christianity. Behind the figure of Jonah, Michelangelo has painted a large fish, a reference to the story of Jonah, in which he is swallowed by a whale.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Prophet_Jonah.jpg/200px-Prophet_Jonah.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Vatican_City</field>
+<field name="height">390</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Apostolic_Palace</field>
+<field name="museum">http://dbpedia.org/resource/Sistine_Chapel</field>
+<field name="title">The Prophet Jonah</field>
+<field name="type">Fresco</field>
+<field name="width">380</field>
+<field name="year">circa 1508-1512</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Prophet_Jonah_(Michelangelo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Prophet_Jonah_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Prophet_Jonah_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Prophet_Jonah_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Giona_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prophet_Jonah_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3765109</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prophet_Jonah_(Michelangelo)</field>
+</doc>
+</add>

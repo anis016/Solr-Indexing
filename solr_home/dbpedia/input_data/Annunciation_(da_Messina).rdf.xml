@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3618172</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3rm44</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Annunciation_(da_Messina)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_(Antonello_da_Messina)</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(da_Messina)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Antonello_da_Messina</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1474_paintings</field>
+<field name="abstract">The Annunciation is a painting by the Italian Renaissance master Antonello da Messina, executed in 1474. It is housed in the Palazzo Bellomo Museum, in the historical center of Syracuse, Sicily, southern Italy.</field>
+<field name="label">Annunciation (da Messina)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f2/Antonello_da_Messina_066.jpg</field>
+<field name="comment">The Annunciation is a painting by the Italian Renaissance master Antonello da Messina, executed in 1474. It is housed in the Palazzo Bellomo Museum, in the historical center of Syracuse, Sicily, southern Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Antonello_da_Messina_066.jpg/200px-Antonello_da_Messina_066.jpg</field>
+<field name="link_external">http://www.regione.sicilia.it/beniculturali/palazzobellomo/antonello/annunciazione.html</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Syracuse,_Sicily</field>
+<field name="height">180</field>
+<field name="image"/>
+<field name="imageSize">280</field>
+<field name="museum"/>
+<field name="title">Annunciation</field>
+<field name="type">Oil on panel</field>
+<field name="width">180</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Annunciation_(da_Messina)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Annunciation_(da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Annunciation_(da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Annunciation_(da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3618172</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(da_Messina)</field>
+</doc>
+</add>

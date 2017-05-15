@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tree_Roots</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Tree_Roots</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4233325</field>
+<field name="sameAs">http://dbpedia.org/resource/Tree_Roots</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j65mj9</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Корни_деревьев</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Tree Roots is an oil painting by Vincent van Gogh that he painted in July 1890 when he lived in Auvers-sur-Oise, France. The painting is an example of the double-square canvases that he employed in his last landscapes.</field>
+<field name="label">Tree Roots</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ab/Vincent_van_Gogh_-_Tree_Roots_and_Trunks_(F816).jpg</field>
+<field name="comment">Tree Roots is an oil painting by Vincent van Gogh that he painted in July 1890 when he lived in Auvers-sur-Oise, France. The painting is an example of the double-square canvases that he employed in his last landscapes.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Vincent_van_Gogh_-_Tree_Roots_and_Trunks_(F816).jpg/200px-Vincent_van_Gogh_-_Tree_Roots_and_Trunks_(F816).jpg</field>
+<field name="artist"/>
+<field name="height">50</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Tree Roots</field>
+<field name="type">Oil on canvas</field>
+<field name="width">100</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Tree_Roots</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tree_Roots</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Tree_Roots</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Tree_Roots</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Корни_деревьев</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tree_Roots</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4233325</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tree_Roots</field>
+</doc>
+</add>

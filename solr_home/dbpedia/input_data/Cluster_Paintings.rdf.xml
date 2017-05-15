@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cluster_Paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5136685</field>
+<field name="sameAs">http://dbpedia.org/resource/Cluster_Paintings</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Cluster_Paintings</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx_4sj</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1980s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="abstract">The Cluster Paintings are a series of paintings created by Nabil Kanso in 1986-1988. They are characterized by compositions that divide the canvas space into sections reflecting a cluster of irregular shaped planes offering variations of contrasts and viewpoints. These characteristics expanded in later works such as the America and Living Memories series.</field>
+<field name="label">Cluster Paintings</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8a/Earth_Widening_Vault.jpg</field>
+<field name="comment">The Cluster Paintings are a series of paintings created by Nabil Kanso in 1986-1988. They are characterized by compositions that divide the canvas space into sections reflecting a cluster of irregular shaped planes offering variations of contrasts and viewpoints. These characteristics expanded in later works such as the America and Living Memories series.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Earth_Widening_Vault.jpg/200px-Earth_Widening_Vault.jpg</field>
+<field name="link_external">http://nabilkanso.com/CLUSTER.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Cluster_Paintings</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cluster_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Cluster_Paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Cluster_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Cluster_paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5136685</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cluster_Paintings</field>
+</doc>
+</add>

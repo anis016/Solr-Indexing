@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gettysburg_Cyclorama</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5554756</field>
+<field name="sameAs">http://dbpedia.org/resource/Gettysburg_Cyclorama</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h241s</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Gettysburg_Cyclorama</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cycloramas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Military_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pennsylvania_in_the_American_Civil_War</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Visitor_attractions_in_Adams_County,_Pennsylvania</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gettysburg,_Pennsylvania</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="abstract">The Battle of Gettysburg, also known as the Gettysburg Cyclorama, is a cyclorama painting by the French artist Paul Philippoteaux depicting "Pickett's Charge", the climactic Confederate attack on the Union forces during the Battle of Gettysburg on July 3, 1863. Four versions were painted, two of which are among the last surviving cycloramas in the United States. The first version of the painting, completed in 1883 and originally exhibited in Chicago, was lost for some time. It was rediscovered in 1965 and purchased by a group of North Carolina investors in 2007 for an undisclosed amount. Until November 2005, the second painting, originally exhibited in the Cyclorama Building in Boston, was on display at the Gettysburg National Military Park. It was removed for restoration work and the exhibition was reopened September 2008 in the new Gettysburg Museum and Visitor Center. The third version, exhibited in Philadelphia, is known to have been destroyed. The location of the fourth version, originally exhibited in Brooklyn, is unknown.</field>
+<field name="label">Gettysburg Cyclorama</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7c/High_Water_Mark_from_Gettysburg.PNG</field>
+<field name="comment">The Battle of Gettysburg, also known as the Gettysburg Cyclorama, is a cyclorama painting by the French artist Paul Philippoteaux depicting "Pickett's Charge", the climactic Confederate attack on the Union forces during the Battle of Gettysburg on July 3, 1863. Four versions were painted, two of which are among the last surviving cycloramas in the United States. The first version of the painting, completed in 1883 and originally exhibited in Chicago, was lost for some time.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/High_Water_Mark_from_Gettysburg.PNG/200px-High_Water_Mark_from_Gettysburg.PNG</field>
+<field name="link_external">http://picasaweb.google.com/sridhar.saraf.pictures/CivilWarPaintingsTheGettysburgCycloramaPennsylvaniaUSA/</field>
+<field name="link_external">http://graphics.nytimes.com/packages/html/arts/20051116_GETTY_PANORAMA.html</field>
+<field name="link_external">http://www.authentichistory.com/civilwar/images/1884c_Boston_Gettysburg_Cyclorama_Handbill.html</field>
+<field name="link_external">http://gettysburg.cdmhost.com/cdm4/results.php?CISOOP1=all&amp;CISOFIELD1=button&amp;CISOFIELD2=CISOSEARCHALL&amp;CISOFIELD4=button&amp;CISOOP2=exact&amp;CISOOP3=any&amp;CISOOP4=none&amp;CISOROOT=%2Fp4016coll2&amp;CISOBOX2=&amp;CISOBOX3=&amp;CISOBOX1=pamphlets&amp;Submit=Search</field>
+<field name="link_external">http://www.panoramapainting.com</field>
+<field name="link_external">http://www.nps.gov/gett/historyculture/gettysburg-cyclorama.htm</field>
+<field name="artist">http://dbpedia.org/resource/Paul_Philippoteaux</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">The Battle of Gettysburg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Gettysburg_Cyclorama</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Gettysburg_Cyclorama</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gettysburg_Museum_and_Visitor_Center</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gettysburg</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cyclorama_of_the_Battle_of_Gettysburg</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Gettysburg_Cyclorama</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Gettysburg_Cyclorama</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5554756</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gettysburg_Cyclorama</field>
+</doc>
+</add>

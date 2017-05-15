@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hope_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hope_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q8874171</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hope_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bbx1dq</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1886_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_George_Frederic_Watts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Symbolist_paintings</field>
+<field name="abstract">Hope is a Symbolist oil painting by George Frederic Watts, two versions of which were completed in 1886. The painting was intended to form part of a series of allegorical paintings by Watts entitled the "House of Life".</field>
+<field name="label">Hope (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/eb/Assistants_and_George_Frederic_Watts_-_Hope_-_Google_Art_Project.jpg</field>
+<field name="comment">Hope is a Symbolist oil painting by George Frederic Watts, two versions of which were completed in 1886. The painting was intended to form part of a series of allegorical paintings by Watts entitled the "House of Life".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Assistants_and_George_Frederic_Watts_-_Hope_-_Google_Art_Project.jpg/200px-Assistants_and_George_Frederic_Watts_-_Hope_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?cgroupid=-1&amp;workid=16034&amp;searchid=false&amp;roomid=false&amp;tabview=text&amp;texttype=10</field>
+<field name="link_external">http://www.wattsgallery.org.uk/HopebyGFWatts.html</field>
+<field name="link_external">http://www.googleartproject.com/museums/tate/hope-56</field>
+<field name="artist">http://dbpedia.org/resource/George_Frederic_Watts</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">142.2</field>
+<field name="image"/>
+<field name="imageSize">220</field>
+<field name="museum">http://dbpedia.org/resource/Tate</field>
+<field name="title">Hope</field>
+<field name="width">111.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hope_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hope_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hope_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hope_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hope_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q8874171</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hope_(painting)</field>
+</doc>
+</add>

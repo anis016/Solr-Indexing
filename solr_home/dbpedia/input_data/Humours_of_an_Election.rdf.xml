@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Humours_of_an_election</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Humours_of_an_Election</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cnb47</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5941196</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Humours_of_an_Election</field>
+<field name="sameAs">http://dbpedia.org/resource/Humours_of_an_Election</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Political_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1754_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="abstract">The Humours of an Election is a series of four oil paintings and later engravings by William Hogarth that illustrate the election of a member of parliament in Oxfordshire in 1754. The oil paintings were created in 1755. The first three paintings, An Election Entertainment, Canvassing for Votes and The Polling, demonstrate the corruption endemic in parliamentary elections in the 18th century, before the Great Reform Act. The last painting, Chairing the Member, shows the celebrations of the victorious Tory candidates and their supporters. At this time each constituency elected two MPs, and there was a property qualification for voters, so only a minority of the male population was enfranchised. There was no secret ballot, so bribery and intimidation were rife. The originals are held by Sir John Soane's Museum, London.</field>
+<field name="label">Humours of an Election</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/63/William_Hogarth_028.jpg</field>
+<field name="comment">The Humours of an Election is a series of four oil paintings and later engravings by William Hogarth that illustrate the election of a member of parliament in Oxfordshire in 1754. The oil paintings were created in 1755. The first three paintings, An Election Entertainment, Canvassing for Votes and The Polling, demonstrate the corruption endemic in parliamentary elections in the 18th century, before the Great Reform Act.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/William_Hogarth_028.jpg/200px-William_Hogarth_028.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Humours_of_an_Election</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Humours_of_an_Election</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Humours_of_an_Election</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Humours_of_an_Election</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Four_Prints_of_an_Election</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5941196</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Humours_of_an_Election</field>
+</doc>
+</add>

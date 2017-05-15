@@ -1,0 +1,164 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Pinturas_negras</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Black_Paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/黒い絵</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мрачные_картины</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Kronus_Devouring_his_Children</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_Paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Μαύροι_Πίνακες</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Zwarte_Schilderijen</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Pintures_Negres</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Peintures_noires</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/اللوحات_السوداء</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1988253</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Margolan_Beltzak</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мрачные_картины</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Czarne_obrazy</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הציורים_השחורים</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Pinturas_negras</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/黒い絵</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Black_Paintings</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06dk09</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Kara_Resimler</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Pinturas_negras</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="abstract">The Black Paintings is the name given to a group of fourteen paintings by Francisco Goya from the later years of his life, likely between 1819 and 1823. They portray intense, haunting themes, reflective of both his fear of insanity and by then, his bleak outlook on humanity. In 1819, at the age of 72, Goya moved into a two-story house outside Madrid called Quinta del Sordo (Deaf Man's Villa). Although the house had been named after the previous owner, who was deaf, Goya was himself nearly totally deaf at the time as a result of an illness he had suffered when he was 46. The paintings were originally painted as murals on the walls of the house and the murals were transferred onto canvas in 1874. They are currently held in the Museo del Prado in Madrid. After the Napoleonic Wars and the internal turmoil of the changing Spanish government, Goya developed an embittered attitude towards mankind. He had a first-hand and acute awareness of panic, terror, fear and hysteria. He had survived two near-fatal illnesses, and grew increasingly anxious and impatient in fear of relapse. The combination of these factors is thought to have led to his production of the 14 works known collectively as the Black Paintings. Using oil paints and working directly on the walls of his dining and sitting rooms, Goya created intense, haunting works with dark themes. The paintings were not commissioned and were not meant to leave his home; it is likely that the artist never intended the works for public exhibition: "... these paintings are as close to being hermetically private as any that have ever been produced in the history of Western art. " Goya did not title the paintings, or if he did, he never revealed those titles; most of their names have been provided by art historians. They were first catalogued in 1828 by Goya’s friend Antonio Brugada. The series is made up of the following pictures: Atropos (The Fates) (Átropos/Las Parcas), Two Old Men (Dos viejos/Un viejo y un fraile), Two Old Men Eating Soup (Dos viejos comiendo sopa), Fight with Cudgels (Duelo a garrotazos/La riña), Witches' Sabbath' (Aquelarre/El Gran Cabrón), Men Reading (Hombres leyendo), Judith and Holofernes (Judith y Holofernes), A Pilgrimage to San Isidro (La romería de San Isidro), Women Laughing (Mujeres riendo), Procession of the Holy Office (Peregrinación a la fuente de San Isidro/Procesión del Santo Oficio), The Dog (Perro semihundido/El perro), Saturn Devouring His Son (Saturno devorando a un hijo), La Leocadia and Fantastic Vision (Visión fantástica/Asmodea).</field>
+<field name="label">Black Paintings</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/82/Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg</field>
+<field name="comment">The Black Paintings is the name given to a group of fourteen paintings by Francisco Goya from the later years of his life, likely between 1819 and 1823. They portray intense, haunting themes, reflective of both his fear of insanity and by then, his bleak outlook on humanity. In 1819, at the age of 72, Goya moved into a two-story house outside Madrid called Quinta del Sordo (Deaf Man's Villa).</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg/200px-Francisco_de_Goya,_Saturno_devorando_a_su_hijo_(1819-1823).jpg</field>
+<field name="link_external">http://eeweems.com/goya/black_paintings.html</field>
+<field name="link_external">http://www.theartwolf.com/goya_black_paintings.htm</field>
+<field name="link_external">http://books.google.com/books?id=P8ArAAAAYAAJ&amp;hl=es&amp;pg=PP1#v=onepage&amp;q&amp;f=false</field>
+<field name="link_external">http://www.rtve.es/alacarta/videos/la-mitad-invisible/mitad-invisible-pinturas-negras-francisco-goya/1352111/</field>
+<field name="link_external">http://ipce.mcu.es/documentacion/fototeca/fondos/doc-fot-fond-vern3.html</field>
+<field name="link_external">http://www.artchive.com/galleries/goya/notes_esp.html#paintings</field>
+<field name="link_external">http://www.temakel.com/galeriagoya.htm</field>
+<field name="link_external">http://www.museodelprado.es/enciclopedia/enciclopedia-on-line/voz/pinturas-negras-goya/</field>
+<field name="link_external">http://www.ucm.es/BUCM/tesis/bba/ucm-t25732.pdf</field>
+<field name="link_external">http://goya.unizar.es/InfoGoya/Obra/Catalogo_/Pintura_/609p.html</field>
+<field name="link_external">http://www.cervantesvirtual.com/servlet/SirveObras/12826289779171520754846/index.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Black_Paintings</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Μαύροι_Πίνακες</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Peintures_noires</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Pinturas_negras</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_Painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Las_Pinturas_Negras</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pinturas_Negras</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Black_Paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Zwarte_Schilderijen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Czarne_obrazy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Margolan_Beltzak</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1988253</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/اللوحات_السوداء</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Pintures_Negres</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הציורים_השחורים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Kara_Resimler</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Paintings</field>
+</doc>
+</add>

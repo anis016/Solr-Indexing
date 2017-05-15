@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lenin_controversy_in_New_York.</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Man_at_the_Crossroads</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.072v_0</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Man_at_the_Crossroads</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6746321</field>
+<field name="sameAs">http://dbpedia.org/resource/Man_at_the_Crossroads</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lost_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Rockefeller_Center</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1930s_paintings</field>
+<field name="abstract">Man at the Crossroads was a mural by Diego Rivera. The Rockefellers wanted to have a mural put on the ground-floor wall of Rockefeller Center. Nelson Rockefeller wanted Henri Matisse or Pablo Picasso to do it because he favored their modern style, but neither was available. Diego Rivera was one of Nelson Rockefeller's mother's favorite artists and therefore was commissioned to create the huge mural. He was given a theme: "Man at the Crossroads Looking with Hope and High Vision to the Choosing of a New and Better Future. " Rockefeller wanted the painting to make people pause and think. The huge mural had many parts including: society women drinking alcohol, pictures of cells, as well as the famous Lenin portion (depicted at a May day parade) which upset Rockefeller. Rivera was asked to remove the picture of Lenin, but refused, instead offering to add Abraham Lincoln to the work as way of a compromise. Rivera was fully paid the promised amount for his work, but the mural was to remain draped after completion. People protested but it remained covered until the early weeks of 1934, when it was destroyed by workmen. An assistant, Lucienne Bloch, had taken photographs of the mural before it was destroyed. Using them as a reference, Rivera repainted the mural, though at a smaller scale, at the Palacio de Bellas Artes in Mexico City where it was renamed Man, Controller of the Universe. At Rockefeller Center in its place is a mural by Jose Maria Sert mural with Abraham Lincoln as its focal point. The Rockefeller-Rivera dispute appears in the fiction films Cradle Will Rock, Anbe Sivam and Frida.</field>
+<field name="label">Man at the Crossroads</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/15/Detalle_de_Lenin.jpg</field>
+<field name="comment">Man at the Crossroads was a mural by Diego Rivera. The Rockefellers wanted to have a mural put on the ground-floor wall of Rockefeller Center. Nelson Rockefeller wanted Henri Matisse or Pablo Picasso to do it because he favored their modern style, but neither was available. Diego Rivera was one of Nelson Rockefeller's mother's favorite artists and therefore was commissioned to create the huge mural.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/Detalle_de_Lenin.jpg/200px-Detalle_de_Lenin.jpg</field>
+<field name="link_external">http://replay.waybackmachine.org/20100105124153/http:/fbuch.com/crossroa.htm</field>
+<field name="artist">http://dbpedia.org/resource/Diego_Rivera</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">Man at the Crossroads</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Man_at_the_Crossroads</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Man_at_the_Crossroads</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Man_at_the_Crossroads</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Man_at_the_Crossroads</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6746321</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Man_at_the_Crossroads</field>
+</doc>
+</add>

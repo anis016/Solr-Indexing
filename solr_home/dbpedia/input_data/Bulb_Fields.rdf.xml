@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bulb_Fields</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4987244</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bulb_Fields</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmc57n</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«Blomsterbedene_i_Holland»</field>
+<field name="sameAs">http://dbpedia.org/resource/Bulb_Fields</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Bulb Fields also known as Flower Beds in Holland is an oil painting created in 1883 by Vincent van Gogh. Bulb Fields was Van Gogh’s first garden painting. Rectangular plots of blue, yellow, pink and red hyacinths allow Van Gogh to explore his interest in perspective. The low vantage point creates a panoramic view of the field of colorful spring flowers. It was made in Van Gogh's second year in The Hague.</field>
+<field name="label">Bulb Fields</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/78/Bulb_Fields.jpg</field>
+<field name="comment">Bulb Fields also known as Flower Beds in Holland is an oil painting created in 1883 by Vincent van Gogh. Bulb Fields was Van Gogh’s first garden painting. Rectangular plots of blue, yellow, pink and red hyacinths allow Van Gogh to explore his interest in perspective. The low vantage point creates a panoramic view of the field of colorful spring flowers. It was made in Van Gogh's second year in The Hague.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Bulb_Fields.jpg/200px-Bulb_Fields.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=61371</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum"/>
+<field name="title">Bulb Fields</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bulb_Fields</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bulb_Fields</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bulb_Fields</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bulb_Fields</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4987244</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bulb_Fields</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«Blomsterbedene_i_Holland»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bulb_Fields</field>
+</doc>
+</add>

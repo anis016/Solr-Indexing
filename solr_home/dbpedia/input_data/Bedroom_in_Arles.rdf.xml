@@ -1,0 +1,233 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ファンゴッホの寝室</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pokój_van_Gogha_w_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Chambre_de_Van_Gogh_à_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Спальня_в_Арле</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Vincents_Schlafzimmer_in_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_dormitorio_en_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_camera_di_Vincent_ad_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Quarto_em_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06lxcv</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Vincents_Schlafzimmer_in_Arles</field>
+<field name="sameAs">http://pnb.dbpedia.org/resource/آرلے_چ_کوٹھا</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_dormitori_de_Van_Gogh_a_Arle</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_camera_di_Vincent_ad_Arles</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_dormitorio_en_Arles</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Quarto_em_Arles</field>
+<field name="sameAs">http://oc.dbpedia.org/resource/La_Crampa_a_Arle</field>
+<field name="sameAs">http://af.dbpedia.org/resource/Slaapkamer_in_Arles</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Camera_din_Arles</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Van_Gogh_szobája_Arles-ban_(Van_Gogh_festményei)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/在亞爾的臥室</field>
+<field name="sameAs">http://hy.dbpedia.org/resource/Ննջասենյակ_Առլում</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ファンゴッホの寝室</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bedroom_in_Arles</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Logela_Arlesen</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Спальня_в_Арле</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Van_Gogh's_Bedroom_in_Arles</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_slaapkamer</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pokój_van_Gogha_w_Arles</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Arlda_yataq_otağı_(tablo)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q724377</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/La_dormoĉambro_en_Arles</field>
+<field name="sameAs">http://he.dbpedia.org/resource/חדר_שינה_בארל</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«Soverom_i_Arles»</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Soveværelset_i_Arles</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Chambre_de_Van_Gogh_à_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Van_Gogh_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="abstract">Bedroom in Arles (French: La Chambre à Arles; Dutch: Slaapkamer te Arles) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter Vincent van Gogh. Van Gogh's own title for this composition was simply The Bedroom . There are three authentic versions described in his letters, easily discernible from one another by the pictures on the wall to the right. The painting depicts Van Gogh's bedroom at 2, Place Lamartine in Arles, Bouches-du-Rhône, France, known as his Yellow House. The door to the right was opening to the upper floor and the staircase, the door to the left served the guest room he held prepared for Gauguin. The window in the front wall was looking to Place Lamartine and its public gardens. This room was not rectangular, but trapezoid, with an obtuse angle in the left hand corner of the front wall and an acute angle at the right. Van Gogh evidently did not spend much time on this problem, he simply indicated that there was a corner, somehow.</field>
+<field name="label">Bedroom in Arles</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg</field>
+<field name="comment">Bedroom in Arles (French: La Chambre à Arles; Dutch: Slaapkamer te Arles) is the title given to each of three similar paintings by 19th-century Dutch Post-Impressionist painter Vincent van Gogh. Van Gogh's own title for this composition was simply The Bedroom . There are three authentic versions described in his letters, easily discernible from one another by the pictures on the wall to the right.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg/200px-Vincent_van_Gogh_-_De_slaapkamer_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www3.vangoghmuseum.nl/vgm/index.jsp?page=2796&amp;lang=en</field>
+<field name="link_external">http://www.vggallery.com/painting/p_0484.htm</field>
+<field name="link_external">http://www.youtube.com/watch?v=0PRb2Qevx5g</field>
+<field name="link_external">http://www.youtube.com/watch?v=pgOm9rjEtgI</field>
+<field name="link_external">http://news.yahoo.com/s/ap/20100902/ap_on_en_ot/eu_netherlands_van_gogh_s_bedroom_5</field>
+<field name="link_external">http://www.googleartproject.com/museums/vangogh/the-bedroom</field>
+<field name="link_external">http://smarthistory.khanacademy.org/van-goghs-the-bedroom.html</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="height">72</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Van_Gogh_Museum</field>
+<field name="title">Bedroom in Arles</field>
+<field name="width">226</field>
+<field name="width">228</field>
+<field name="width">210</field>
+<field name="width">222</field>
+<field name="width">90</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bedroom_in_Arles</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Bedroom</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bedroom_in_arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bedroom_in_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_slaapkamer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Logela_Arlesen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q724377</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/在亞爾的臥室</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://af.dbpedia.org/resource/Slaapkamer_in_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Arlda_yataq_otağı_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_dormitori_de_Van_Gogh_a_Arle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Soveværelset_i_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/La_dormoĉambro_en_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/חדר_שינה_בארל</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Van_Gogh_szobája_Arles-ban_(Van_Gogh_festményei)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://hy.dbpedia.org/resource/Ննջասենյակ_Առլում</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«Soverom_i_Arles»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://oc.dbpedia.org/resource/La_Crampa_a_Arle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://pnb.dbpedia.org/resource/آرلے_چ_کوٹھا</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Camera_din_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Van_Gogh's_Bedroom_in_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bedroom_in_Arles</field>
+</doc>
+</add>

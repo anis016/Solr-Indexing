@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Jerome_in_Penance_(Fra_Lippo_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Jerome_in_Penance_(Fra_Lippo_Lippi)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Jerome_in_Penance_(Fra_Lippo_Lippi)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Girolamo_penitente_(Filippo_Lippi)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3947313</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f3jdw</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippo_Lippi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="abstract">The St. Jerome in Penance is a painting by the Italian Renaissance painter Filippo Lippi, dating to c. 1439. It is housed in the Lindenau-Museum of Altenburg, Germany. The work could be identified with the St. Jerome Penitent of which Lippi asked payment in a letter issued to Piero de' Medici in 1439. The painting is one of the first known example on the subject of St. Jerome doing penance. It is a small panel, divided into two different scenes: in the upper part is St. Jerome with the wooden cross, the stone to strike his breast and the lectern lying on the rock. In the lower part, with a chronological step, is the episode of the saint with the lion having a thorn in the paw. The unfriendly landscape is a metaphor of the hermit style of life.</field>
+<field name="label">St. Jerome in Penance (Fra Lippo Lippi)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a6/Fra_Filippo_Lippi_006.jpg</field>
+<field name="comment">The St. Jerome in Penance is a painting by the Italian Renaissance painter Filippo Lippi, dating to c. 1439. It is housed in the Lindenau-Museum of Altenburg, Germany. The work could be identified with the St. Jerome Penitent of which Lippi asked payment in a letter issued to Piero de' Medici in 1439. The painting is one of the first known example on the subject of St. Jerome doing penance. It is a small panel, divided into two different scenes: in the upper part is St.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Fra_Filippo_Lippi_006.jpg/200px-Fra_Filippo_Lippi_006.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">53</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Lindenau-Museum</field>
+<field name="title">St. Jerome in Penance</field>
+<field name="type">Tempera on panel</field>
+<field name="width">37</field>
+<field name="year">c. 1439</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Jerome_in_Penance_(Fra_Lippo_Lippi)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Jerome_in_Penance_(Fra_Lippo_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Girolamo_penitente_(Filippo_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Jerome_in_Penance_(Fra_Lippo_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Jerome_in_Penance_(Fra_Lippo_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Jerome_in_Penance_(Fra_Lippo_Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3947313</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Jerome_in_Penance_(Fra_Lippo_Lippi)</field>
+</doc>
+</add>

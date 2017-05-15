@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/航海士の希望</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_navigator's_hope</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_esperanza_del_navegante</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_navigator's_hope</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_navigator's_hope</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_navigator's_hope</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/航海士の希望</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Надежда_штурмана</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Espoir_du_navigateur</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h7pmsw</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/L'esperança_del_navegant</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_esperanza_del_navegante</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2981655</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_navigator's_hope</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1968_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joan_Mir%C3%B3</field>
+<field name="abstract">The navigator's hope is a series of paintings made by Joan Miró between 1968 and 1973, half of which now belong to the permanent collection of the Fundació Joan Miró in Barcelona, thanks to a donation by Pilar Juncosa. The rest of the series are preserved in various private collections.</field>
+<field name="label">The navigator's hope</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d9/L_esperança_del_navegant_I.jpg</field>
+<field name="comment">The navigator's hope is a series of paintings made by Joan Miró between 1968 and 1973, half of which now belong to the permanent collection of the Fundació Joan Miró in Barcelona, thanks to a donation by Pilar Juncosa. The rest of the series are preserved in various private collections.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/L_esperança_del_navegant_I.jpg/200px-L_esperança_del_navegant_I.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Joan_Mir%C3%B3</field>
+<field name="image"/>
+<field name="imageSize">240</field>
+<field name="title">The navigator's hope 1</field>
+<field name="type">series</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_navigator's_hope</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_navigator's_hope</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_navigator's_hope</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_navigator's_hope</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Надежда_штурмана</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_navigator's_hope</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Espoir_du_navigateur</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_navigator's_hope</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2981655</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_navigator's_hope</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/L'esperança_del_navegant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_navigator's_hope</field>
+</doc>
+</add>

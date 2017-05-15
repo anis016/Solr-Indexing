@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sermon_of_St._Stephen_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h_b230</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Sermon_of_St._Stephen_(Carpaccio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7763355</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sermon_of_St._Stephen_(Carpaccio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Venetian_painters</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_painters</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1514_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_painters</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Sermon of Saint Stephen is an oil-on-canvas by Italian artist of the Venetian school Vittore Carpaccio, painted in 1514. It is currently held and exhibited at the Louvre in Paris.</field>
+<field name="label">The Sermon of St. Stephen (Carpaccio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/07/Vittore_Carpaccio_057.jpg</field>
+<field name="comment">The Sermon of Saint Stephen is an oil-on-canvas by Italian artist of the Venetian school Vittore Carpaccio, painted in 1514. It is currently held and exhibited at the Louvre in Paris.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/07/Vittore_Carpaccio_057.jpg/200px-Vittore_Carpaccio_057.jpg</field>
+<field name="link_external">http://www.vittorecarpaccio.org</field>
+<field name="link_external">http://www.iht.com/articles/2005/02/25/features/conway.php</field>
+<field name="link_external">http://www.scholarsresource.com/browse/artist/225</field>
+<field name="link_external">http://www.wga.hu/html/c/carpacci/index.html</field>
+<field name="link_external">http://www.louvre.fr/en/oeuvre-notices/sermon-st-stephen-jerusalem</field>
+<field name="artist">http://dbpedia.org/resource/Vittore_Carpaccio</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">148</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Sermon of St. Stephen</field>
+<field name="type">Oil on canvas</field>
+<field name="width">194</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Sermon_of_St._Stephen_(Carpaccio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Sermon_of_St._Stephen_(Carpaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Sermon_of_St._Stephen_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Sermon_of_St._Stephen_(Carpaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7763355</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sermon_of_St._Stephen_(Carpaccio)</field>
+</doc>
+</add>

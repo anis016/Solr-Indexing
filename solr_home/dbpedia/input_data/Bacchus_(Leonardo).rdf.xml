@@ -1,0 +1,120 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bacchus_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Bacco_(Leonardo)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Bacchus_(Léonard_de_Vinci)</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Bacchus_(pictură_de_Leonardo_da_Vinci)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bacchus_(Leonardo)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Bacco_(Leonardo)</field>
+<field name="sameAs">http://sr.dbpedia.org/resource/Бахус_(слика_Леонарда_да_Винчија)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Bachus_(obraz_szkoły_Leonarda_da_Vinci)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Bacus_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07_jvg</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Bacchus_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q798034</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Baco_(Leonardo)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dionysus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_attributed_to_Leonardo_da_Vinci</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1515_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">Bacchus, formerly Saint John the Baptist, is a painting in the Musée du Louvre, Paris, France, based on a drawing by the Italian Renaissance artist Leonardo da Vinci. It is presumed to have been executed by an unknown follower, perhaps in Leonardo's workshop. Sydney J. Freedberg assigns the drawing to Leonardo's second Milan period. Among the Lombard painters who have been suggested as possible authors are Cesare da Sesto, Marco d'Oggiono, Francesco Melzi, and Cesare Bernazzano. The painting shows a male figure with garlanded head and leopard skin, seated in an idyllic landscape. He points with his right hand off to his left, and with his left hand grasps his thyrsus and also points down to earth. The painting originally depicted John the Baptist. In the late 17th century, between the years 1683 and 1693, it was overpainted and altered, to serve as Bacchus. Cassiano dal Pozzo remarked of the painting in its former state, which he saw at Fontainebleau in 1625, that it had neither devotion, decorum nor similitude, the suavely beautiful, youthful and slightly androgynous Giovannino was so at variance with artistic conventions in portraying the Baptist— neither the older ascetic prophet nor the Florentine baby Giovannino, but a type of Leonardo's invention, of a disconcerting, somewhat ambiguous sensuality, familiar in Leonardo's half-length and upward-pointing Saint John the Baptist, also in the Louvre. The overpainting transformed the image of St. John into one of a pagan deity, by converting the long-handled cross-like staff of the Baptist to a Bacchic thyrsus and adding a vine wreath. The fur robe is the legacy of John the Baptist, but has been overpainted with leopard-spots relating, like the wreath, to Bacchus, the Roman god of wine and intoxication.</field>
+<field name="label">Bacchus (Leonardo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c6/Bacchus_(painting).jpg</field>
+<field name="comment">Bacchus, formerly Saint John the Baptist, is a painting in the Musée du Louvre, Paris, France, based on a drawing by the Italian Renaissance artist Leonardo da Vinci. It is presumed to have been executed by an unknown follower, perhaps in Leonardo's workshop. Sydney J. Freedberg assigns the drawing to Leonardo's second Milan period. Among the Lombard painters who have been suggested as possible authors are Cesare da Sesto, Marco d'Oggiono, Francesco Melzi, and Cesare Bernazzano.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Bacchus_(painting).jpg/200px-Bacchus_(painting).jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">177</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Bacchus</field>
+<field name="width">115</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bacchus_(Leonardo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Bacco_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Bacchus_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Bacchus_(Léonard_de_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Bachus_(obraz_szkoły_Leonarda_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bacchus_In_The_Landscape</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bacchus_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bacchus_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Baco_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q798034</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Bacco_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Bacus_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Bacchus_(pictură_de_Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+<doc>
+<field name="uri">http://sr.dbpedia.org/resource/Бахус_(слика_Леонарда_да_Винчија)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bacchus_(Leonardo)</field>
+</doc>
+</add>

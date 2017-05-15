@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ecce_Homo_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1252102</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ecce_Homo_(Antonello_da_Messina)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ecce_Homo_(Antonello_da_Messina)</field>
+<field name="sameAs">http://dbpedia.org/resource/Ecce_Homo_(Antonello_da_Messina)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rxc16</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1475_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Antonello_da_Messina</field>
+<field name="abstract">Ecce Homo is the title of a series of paintings by the Italian Renaissance master Antonello da Messina. They date from 1470 to 1475. Antonello is known to have treated this subject four times; three (b, c, d) are variations of the same design; a fourth (a) differs. a) Christ Crowned with Thorns, in the collection of Gaspar Méndez de Haro, 7th Marquis of Carpio in 1687; Don Giulio Alliata, Palermo, 1698, when it was said to bear the date 1470, now illegible; ... Michael Friedsam, New York; Metropolitan Museum of Art, acc. no.32.100.82. b) Picture Gallery of Collegio Alberoni, Piacenza, dated 1472. c) Kunsthistorisches Museum, Vienna, dated 1474. d) National Gallery of the Palazzo Spinola, Genoa.</field>
+<field name="label">Ecce Homo (Antonello da Messina)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/79/Antonello_da_Messina_004.jpg</field>
+<field name="comment">Ecce Homo is the title of a series of paintings by the Italian Renaissance master Antonello da Messina. They date from 1470 to 1475. Antonello is known to have treated this subject four times; three (b, c, d) are variations of the same design; a fourth (a) differs. a) Christ Crowned with Thorns, in the collection of Gaspar Méndez de Haro, 7th Marquis of Carpio in 1687; Don Giulio Alliata, Palermo, 1698, when it was said to bear the date 1470, now illegible; ...</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Antonello_da_Messina_004.jpg/200px-Antonello_da_Messina_004.jpg</field>
+<field name="link_external">http://www.mostraantonellodamessina.it/galleria/galleria_a_eccehomo.html</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">48.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Ecce Homo</field>
+<field name="type">Oil on panel</field>
+<field name="width">38</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ecce_Homo_(Antonello_da_Messina)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ecce_Homo_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ecce_Homo_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ecce_Homo_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ecce_Homo_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ecce_Homo_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ecce_Homo_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1252102</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ecce_Homo_(Antonello_da_Messina)</field>
+</doc>
+</add>

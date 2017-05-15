@@ -1,0 +1,100 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Parto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Madonna_del_Parto_(Piero_della_Francesca)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระแม่มารีแห่งพาร์โต</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vkx1z</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_del_Parto</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Madonna_del_parto</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q723479</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Madonna_del_Parto</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Parto</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Parto</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_del_parto</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/Madono_de_la_akuŝo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piero_della_Francesca</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Virgin_Mary_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="abstract">The Madonna del Parto ("Madonna of Pregnancy") is the name of an iconic depiction of the Virgin Mary shown as pregnant, which was developed in Italy, mainly in Tuscany in the 14th century. Examples include works by Taddeo Gaddi, Bernardo Daddi and Nardo di Cione. The Madonna was portrayed standing, alone, often with a closed book on her belly, an allusion to the embodied Word. The works were associated with the devotions of pregnant women, praying for a safe delivery. Sometimes, as with a statue by Sansovino in the Basilica of Sant'Agostino in Rome, the depiction is of a Virgin and Child, but known as a Madonna del Parto because it was especially associated with devotions over pregnancy. Here the Virgin wears the Girdle of Thomas, a belt of knotted cloth cord that was a relic held in Prato Cathedral, which many depictions wear.</field>
+<field name="label">Madonna del Parto</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9a/Piero_Madonna_del_parto.jpg</field>
+<field name="comment">The Madonna del Parto ("Madonna of Pregnancy") is the name of an iconic depiction of the Virgin Mary shown as pregnant, which was developed in Italy, mainly in Tuscany in the 14th century. Examples include works by Taddeo Gaddi, Bernardo Daddi and Nardo di Cione. The Madonna was portrayed standing, alone, often with a closed book on her belly, an allusion to the embodied Word. The works were associated with the devotions of pregnant women, praying for a safe delivery.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Piero_Madonna_del_parto.jpg/200px-Piero_Madonna_del_parto.jpg</field>
+<field name="link_external">http://www.jstor.org/stable/767052</field>
+<field name="artist">http://dbpedia.org/resource/Piero_della_Francesca</field>
+<field name="city">http://dbpedia.org/resource/Monterchi</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna del Parto</field>
+<field name="type">detached fresco</field>
+<field name="width">203</field>
+<field name="year">after 1457</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_del_Parto</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_del_Parto</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_parto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_del_parto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Parto</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Madonna_del_Parto_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Parto</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Parto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Parto</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_del_Parto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_del_Parto</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Madonna_del_Parto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Parto</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Madonna_del_parto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Parto</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q723479</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Parto</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/Madono_de_la_akuŝo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Parto</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระแม่มารีแห่งพาร์โต</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Parto</field>
+</doc>
+</add>

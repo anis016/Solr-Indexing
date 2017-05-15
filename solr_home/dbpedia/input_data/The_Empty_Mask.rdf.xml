@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Empty_Mask</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Empty_Mask</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7731980</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Empty_Mask</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0f2rzy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1928_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_National_Museum_Cardiff</field>
+<field name="abstract">The Empty Mask (1928) is a painting by Belgian surrealist René Magritte. In his essay Words and Images, published in 1929, Magritte observed that each image "suggests that there are others behind it". Viewed through a freestanding frame of irregular shape, these images are a sky, a lead curtain festooned with sleigh bells, a house façade, a sheet of paper cut-outs, a forest and a fire. The title evokes the fear of the invisible which pervades the artist's work and reflects the surrealists' fascination with the subconscious. The painting was purchased in 1973 and is usually on display in the National Museum of Wales.</field>
+<field name="label">The Empty Mask</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cd/The_Empty_Mask_images.jpg</field>
+<field name="comment">The Empty Mask (1928) is a painting by Belgian surrealist René Magritte. In his essay Words and Images, published in 1929, Magritte observed that each image "suggests that there are others behind it". Viewed through a freestanding frame of irregular shape, these images are a sky, a lead curtain festooned with sleigh bells, a house façade, a sheet of paper cut-outs, a forest and a fire.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/The_Empty_Mask_images.jpg/200px-The_Empty_Mask_images.jpg</field>
+<field name="link_external">http://www.museumwales.ac.uk/en/art/online/?action=show_item&amp;item=1264&amp;img=large</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="city">http://dbpedia.org/resource/Cardiff</field>
+<field name="height">81.2</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Museum_Cardiff</field>
+<field name="title">The Empty Mask</field>
+<field name="width">116.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Empty_Mask</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Empty_Mask</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Empty_Mask</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Empty_Mask</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Empty_Mask</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7731980</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Empty_Mask</field>
+</doc>
+</add>

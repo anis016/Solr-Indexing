@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Shop_Girl_(Tissot)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shop_Girl_(Tissot)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7763918</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bh9l_y</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Shop_Girl_(Tissot)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Art_Gallery_of_Ontario</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="abstract">The Shop Girl (La Demoiselle de Magasin) is a painting by James Tissot in the collection of the Art Gallery of Ontario. The painting depicts a young woman standing inside a shop selling ribbons and dresses. In one hand she holds a wrapped package of newly purchased items. With the other she holds open the door to the store for the viewer to depart. The shop is filled with piles of ribbons. Outside a busy Parisian street scene is visible through the shop windows. A well dressed man stares in through the window and is greeted by the other girl in the shop. The painting was created in the period 1883–1885 using Tissot's distinctive style of dry pigments and small brush strokes—not impressionism, but still a major departure from the Academy style. It also reflects some of Tissot's main interests, such as the materialistic world of objects and clothing of the late nineteenth century. The painting also employs Tissot's favourite technique of this period of placing the observer directly in the painting, with the shop girl holding the door open for us. It was first exhibited in 1885 at the Galerie Sedelmeyer. It was a part of an exhibit Tissot titled Quinze tableau sur la femme à Paris (fifteen paintings on the woman of Paris). It was his last major exhibition before Tissot embraced religious subjects and spent the rest of his life painting scenes from the Bible. The painting was purchased by the Art Gallery of Ontario in 1968. Regina Haggo sees this painting as a depiction of barely contained lust. On the floor a fallen ribbon makes a clear heart shape. To Haggo the position of the heart on the floor makes clear this is a baser form of desire. The women are modestly clothed, but Tissot emphasizes their figures, especially the breasts of the woman raising her arms. In this period a woman working outside the home was considered morally dubious. The leering man and the vantage of the viewer can suggest that more than just the clothing is for sale. The man outside may be flirting with the shop girl, but Haggo notes that Tissot emasculated him by having a women's torso overlap his own.</field>
+<field name="label">The Shop Girl (Tissot)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b1/James_Tissot_-_The_Shop_Girl.jpg</field>
+<field name="comment">The Shop Girl (La Demoiselle de Magasin) is a painting by James Tissot in the collection of the Art Gallery of Ontario. The painting depicts a young woman standing inside a shop selling ribbons and dresses. In one hand she holds a wrapped package of newly purchased items. With the other she holds open the door to the store for the viewer to depart. The shop is filled with piles of ribbons. Outside a busy Parisian street scene is visible through the shop windows.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/James_Tissot_-_The_Shop_Girl.jpg/200px-James_Tissot_-_The_Shop_Girl.jpg</field>
+<field name="artist">http://dbpedia.org/resource/James_Tissot</field>
+<field name="city">http://dbpedia.org/resource/Toronto</field>
+<field name="height">146.1</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Art_Gallery_of_Ontario</field>
+<field name="title">The Shop Girl</field>
+<field name="width">101.6</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Shop_Girl_(Tissot)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Shop_Girl_(Tissot)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Shop_Girl_(Tissot)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Shop_Girl_(Tissot)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7763918</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shop_Girl_(Tissot)</field>
+</doc>
+</add>

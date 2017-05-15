@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Joseph_the_Carpenter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q743643</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Joseph_the_Carpenter</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Święty_Józef_cieśla</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph_the_Carpenter</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04n35hc</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_José_carpintero_(Georges_La_Tour)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Joseph_als_Zimmermann</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Joseph_charpentier</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Georges_de_la_Tour</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1645_paintings</field>
+<field name="abstract">Joseph the Carpenter is an oil painting by Georges de la Tour created circa 1645. The painting depicts a young Jesus with Saint Joseph, his earthly father. Joseph drills a piece of wood with an auger. The shape of the auger reflects the shape of the Cross and the geometry of the wood arrayed on the floor, set cross-wise to the seated child Christ, is a foreshadowing of the crucifixion. John Rupert Martin writes that Jesus' patience represents "filial obedience and the acceptance of his destiny as martyr". This painting, created around the year 1645 is one of several tenebrist paintings by de la Tour. Others include The Education of the Virgin, the Penitent Magdalene, and The Dream of St. Joseph. In all these works, a single, strong light source is a central element, surrounded by cast shadows. In both Joseph the Carpenter and the Education of the Virgin, the young Christ is represented, hand raised, as if in benediction, with the candlelight shining through the flesh as an allegorical reference to Christ as the "Light of the World."</field>
+<field name="label">Joseph the Carpenter</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/12/La_Tour.jpg</field>
+<field name="comment">Joseph the Carpenter is an oil painting by Georges de la Tour created circa 1645. The painting depicts a young Jesus with Saint Joseph, his earthly father. Joseph drills a piece of wood with an auger. The shape of the auger reflects the shape of the Cross and the geometry of the wood arrayed on the floor, set cross-wise to the seated child Christ, is a foreshadowing of the crucifixion.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/La_Tour.jpg/200px-La_Tour.jpg</field>
+<field name="link_external">http://books.google.com/books?id=2M4Sm9vL5UcC&amp;pg=PA214</field>
+<field name="artist">http://dbpedia.org/resource/Georges_de_La_Tour</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">130</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Joseph the Carpenter</field>
+<field name="width">100</field>
+<field name="year">c. 1645</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Joseph_the_Carpenter</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Joseph_the_Carpenter</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Święty_Józef_cieśla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph_the_Carpenter</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Joseph_als_Zimmermann</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph_the_Carpenter</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_José_carpintero_(Georges_La_Tour)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph_the_Carpenter</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Joseph_the_Carpenter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Joseph_the_Carpenter</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Joseph_charpentier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph_the_Carpenter</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q743643</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Joseph_the_Carpenter</field>
+</doc>
+</add>

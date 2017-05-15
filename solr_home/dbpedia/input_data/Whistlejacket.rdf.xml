@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Whistlejacket</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Whistlejacket</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Whistlejacket</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistlejacket</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Whistlejacket</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Whistlejacket</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Whistlejacket</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistlejacket</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Whistlejacket</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0642t43</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3012259</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1760s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horses_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="abstract">Whistlejacket is an oil-on-canvas painting from about 1762 by British artist George Stubbs showing the Marquess of Rockingham's racehorse, rearing up against a blank background. The huge canvas, lack of other features, and Stubbs' attention to the minute details of the horse's appearance give the portrait a powerful physical presence. It has been described in The Independent as "a paradigm of the flawless beauty of an Arabian thoroughbred". Stubbs' knowledge of equine physiology was unsurpassed by any painter; he had studied anatomy at York and, from 1756, he spent 18 months in Lincolnshire where he carried out dissections and experiments on dead horses to better understand the animal's physiology, suspending the cadavers with block and tackle to sketch them in different positions. The careful notes and drawings he made during his studies were published in 1766 as The Anatomy of the Horse. Even before the publication of his book, Stubbs' dedication to his subject reaped him rewards: his drawings were recognized as more accurate than the work of other equine artists and commissions from aristocratic patrons quickly followed. Charles Watson-Wentworth, 2nd Marquess of Rockingham, a Whig politician who would later serve two terms as British Prime Minister, commissioned Stubbs to produce a series of portraits of his horses, one of which was Whistlejacket. A chestnut stallion, with lighter mane and tail, Whistlejacket was foaled in 1749 at the stud of Sir William Middleton, 3rd Baronet at Belsay Castle in Northumberland, and named after a contemporary cold remedy containing gin and treacle. His sire was Mogul and grandsire was the Godolphin Arabian; through his dam, he was also descended from the Byerly Turk, and various other Arabians and Turks. He raced from 1752, winning many races in the North. He lost to Jason in the King's Plate at Newmarket in 1755, but won the following year, and was also narrowly beaten by Spectator for the Jockey Club Plate at Newmarket in 1756, and was sold soon after to the Marquess of Rockingham. He famously won a four-mile race at York in August 1759 against a strong field, beating Brutus by a length, and then retired to stud. He was beaten only four times in his racing career, but was notoriously temperamental and difficult to manage. Stubbs depicts him rising to a levade and pays intimate attention to the features of Whistlejacket's body. Minute blemishes, veins and the muscles flexing just below the surface of the skin are all visible and reproduced with almost photographic accuracy. Despite the isolation of the subject from natural surroundings Stubbs manages to create a living animal. Rockingham paid 60 guineas for the portrait. Contemporary opinion was that the painting was unfinished; it was believed that Rockingham had intended to create an equestrian portrait of George III, with Stubbs painting the horse and two other notable portrait and landscape painters filling in the king and the landscape respectively. Various reasons are given for the painting remaining "unfinished". In one account, it was intended as a piece to accompany a similarly-sized equestrian portrait of George II by David Morier, but Rockingham changed his mind. According to Horace Walpole, it was intended as a gift for the King, but Rockingham supposedly had not bothered to progress with the painting after falling out of favour, and ordered it hung at Wentworth Woodhouse uncompleted instead. Another reason popularly cited for it being "unfinished" is that Rockingham was so impressed by Whistlejacket's furious reaction when confronted by Stubbs working on the painting in his stable, that he ordered it hung without further decoration. There is little evidence for this view: Stubbs produced other paintings of horses against blank backgrounds for Rockingham, nothing in the painting indicates that it is not complete, and the detail of the shadows cast by Whistlejacket's rear legs on the ground suggest that this is how Stubbs intended the picture to be seen; the absence of background details intensifies the sense of power that the horse projects as it rears and twists its head. In 1762, Stubbs painted a second portrait of Whistlejacket, with two other stallions and a groom, Simon Cobb. The Rockingham family retained the painting until 1997, when funding from the Heritage Lottery Fund allowed the National Gallery, London to acquire it for £11 million.</field>
+<field name="label">Whistlejacket</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/48/Whistlejacket_by_George_Stubbs.jpg</field>
+<field name="comment">Whistlejacket is an oil-on-canvas painting from about 1762 by British artist George Stubbs showing the Marquess of Rockingham's racehorse, rearing up against a blank background. The huge canvas, lack of other features, and Stubbs' attention to the minute details of the horse's appearance give the portrait a powerful physical presence. It has been described in The Independent as "a paradigm of the flawless beauty of an Arabian thoroughbred".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Whistlejacket_by_George_Stubbs.jpg/200px-Whistlejacket_by_George_Stubbs.jpg</field>
+<field name="artist">http://dbpedia.org/resource/George_Stubbs</field>
+<field name="height">292</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Whistlejacket</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">246.4</field>
+<field name="year">c. 1762</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Whistlejacket</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Whistlejacket</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Whistlejacket</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistlejacket</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3012259</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistlejacket</field>
+</doc>
+</add>

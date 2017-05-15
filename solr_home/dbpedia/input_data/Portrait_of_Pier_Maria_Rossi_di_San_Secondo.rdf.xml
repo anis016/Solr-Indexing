@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Pier_Maria_Rossi_di_San_Secondo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pier_Maria_Rossi_di_San_Secondo_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pier_Maria_Rossi_di_Sansecondo_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Pier_Maria_III_de'_Rossi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Pier_Maria_Rossi_of_San_Secondo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937655</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Pier_Maria_Rossi_di_San_Secondo</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/پرتره_ای_از_پیر_ماریا_روسی_اهل_سان_سکوندو</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h63_49</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Parmigianino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="abstract">Portrait of Pier Maria Rossi di San Secondo is a painting by the Italian Mannerist artist Parmigianino, executed around 1535–1539 and housed in the Museo del Prado, Madrid, Spain. The subject was Count of San Secundo, and the painting forms a pair with a group portrait of his Countess and their children, Portrait of Camilla Gonzaga and Her Three Sons, although the latter is not unanimously attributed to Parmigianino.</field>
+<field name="label">Portrait of Pier Maria Rossi di San Secondo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0f/Parmigianino,_ritratto_di_pier_maria_rossi_di_sansecondo_01.jpg</field>
+<field name="comment">Portrait of Pier Maria Rossi di San Secondo is a painting by the Italian Mannerist artist Parmigianino, executed around 1535–1539 and housed in the Museo del Prado, Madrid, Spain. The subject was Count of San Secundo, and the painting forms a pair with a group portrait of his Countess and their children, Portrait of Camilla Gonzaga and Her Three Sons, although the latter is not unanimously attributed to Parmigianino.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Parmigianino,_ritratto_di_pier_maria_rossi_di_sansecondo_01.jpg/200px-Parmigianino,_ritratto_di_pier_maria_rossi_di_sansecondo_01.jpg</field>
+<field name="link_external">http://www.museodelprado.es/en/the-collection/online-gallery/on-line-gallery/obra/pedro-maria-rossi-or-roscio-count-of-san-segundo/</field>
+<field name="artist">http://dbpedia.org/resource/Parmigianino</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">133</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">Portrait of Pier Maria Rossi di San Secondo</field>
+<field name="width">98</field>
+<field name="year">c. 1535-1539</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937655</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/پرتره_ای_از_پیر_ماریا_روسی_اهل_سان_سکوندو</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pier_Maria_Rossi_di_San_Secondo</field>
+</doc>
+</add>

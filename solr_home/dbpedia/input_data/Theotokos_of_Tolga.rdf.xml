@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Толгская_икона_Божией_Матери</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Theotokos_of_Tolga</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Theotokos_of_Tolga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4459682</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Theotokos_of_Tolga</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cz8wdd</field>
+<field name="sameAs">http://dbpedia.org/resource/Theotokos_of_Tolga</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Tołgska_Ikona_Matki_Bożej</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Толгская_икона_Божией_Матери</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:13th-century_Christianity</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_icons</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Eastern_Orthodox_icons_of_the_Virgin_Mary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:14th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:13th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Yaroslavl</field>
+<field name="abstract">The Theotokos of Tolga (Russian: Толгская икона Божией Матери) is a Russian Orthodox icon representing the Virgin Mary with the infant Jesus Christ. The Theotokos of Tolga, named after the Tolga river in Yaroslavl, is known in three copies created between the end of the 13th and the beginning of the 14th-century. They were drawn in Eleusa type. One of them, traditionally called a "Manifested" icon, was manifested to Prokhor, the Bishop of Rostov in 1314. The icon version of the end of 13th-century (Throne icon or Tolgskaya I) is held in the Tretyakov Gallery, while the Manifested one (also known as Tolgskaya II) is in the Tolga Monastery. Tolgskaya III was created circa 1327. It is currently held in the Russian Museum. Theotokos of Tolga is referred to as the patroness of the Yaroslavl land.</field>
+<field name="label">Theotokos of Tolga</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/79/Большая_икона_Толгской_Богоматери.jpg</field>
+<field name="comment">The Theotokos of Tolga (Russian: Толгская икона Божией Матери) is a Russian Orthodox icon representing the Virgin Mary with the infant Jesus Christ. The Theotokos of Tolga, named after the Tolga river in Yaroslavl, is known in three copies created between the end of the 13th and the beginning of the 14th-century. They were drawn in Eleusa type. One of them, traditionally called a "Manifested" icon, was manifested to Prokhor, the Bishop of Rostov in 1314.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Большая_икона_Толгской_Богоматери.jpg/200px-Большая_икона_Толгской_Богоматери.jpg</field>
+<field name="link_external">http://www.pravoslavie.ru/put/050821011542.htm</field>
+<field name="artist">http://dbpedia.org/resource/Theophanes_the_Greek</field>
+<field name="city">http://dbpedia.org/resource/Moscow</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Tretyakov_Gallery</field>
+<field name="museum">http://dbpedia.org/resource/Tolga_Monastery</field>
+<field name="title">Theotokos of Tolga</field>
+<field name="type">Wood, tempera</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Theotokos_of_Tolga</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Theotokos_of_Tolga</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Theotokos_of_Tolga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Theotokos_of_Tolga</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Tołgska_Ikona_Matki_Bożej</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Theotokos_of_Tolga</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tolgskaya</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tolgskaya_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tolgskaya_icon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4459682</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Theotokos_of_Tolga</field>
+</doc>
+</add>

@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Crucifiement_de_saint_André</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crucifixion_of_Saint_Andrew_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Crocifissione_di_sant'Andrea_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crucifixion_of_Saint_Andrew_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Crucifixion_of_Saint_Andrew_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Crucifixion_of_Saint_Andrew_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crucifixion_of_Saint_Andrew_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Crocifissione_di_sant'Andrea_(Caravaggio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3221991</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crucifixion_of_Saint_Andrew_(Caravaggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Crucifixion_of_Saint_Andrew_(Caravaggio)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Crucifiement_de_saint_André</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09fg3j</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1607_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">The Crucifixion of Saint Andrew (1607) is a painting by the Italian Baroque master Caravaggio. It is in the collection of the Cleveland Museum of Art, which acquired it from the Arnaiz collection in Madrid in 1976, having been taken to Spain by the Spanish Viceroy of Naples in 1610. Giovanni Bellori, in his 1672 biography of Caravaggio, mentions a Crucifixion of Saint Andrew which is presumably this picture. From the 17th century St Andrew was shown on a diagonal cross, but Caravaggio would have been influenced by the 16th century belief that he was crucified on a normal Latin cross. The saint was supposed to have survived two days on the cross, preaching to the crowd and eventually converting them so that they demanded his release. But when the Roman governor - the man in the plumed hat at lower right - ordered him taken down his men were struck by a miraculous paralysis, in answer to the saint's prayer that he be allowed to undergo martyrdom.</field>
+<field name="label">The Crucifixion of Saint Andrew (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/09/Caravaggio_Crucifixion_santandrew.jpg</field>
+<field name="comment">The Crucifixion of Saint Andrew (1607) is a painting by the Italian Baroque master Caravaggio. It is in the collection of the Cleveland Museum of Art, which acquired it from the Arnaiz collection in Madrid in 1976, having been taken to Spain by the Spanish Viceroy of Naples in 1610. Giovanni Bellori, in his 1672 biography of Caravaggio, mentions a Crucifixion of Saint Andrew which is presumably this picture.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Caravaggio_Crucifixion_santandrew.jpg/200px-Caravaggio_Crucifixion_santandrew.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Caravaggio</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Cleveland_Museum_of_Art</field>
+<field name="title">The Crucifixion of Saint Andrew</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Crucifixion_of_Saint_Andrew_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Crucifixion_of_Saint_Andrew_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3221991</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crucifixion_of_Saint_Andrew_(Caravaggio)</field>
+</doc>
+</add>

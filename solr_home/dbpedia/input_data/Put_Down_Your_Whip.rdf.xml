@@ -1,0 +1,34 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Put_Down_Your_Whip</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Put_Down_Your_Whip</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Put_Down_Your_Whip</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7262084</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Put_Down_Your_Whip</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qh6th</field>
+<field name="sameAs">http://dbpedia.org/resource/Put_Down_Your_Whip</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1939_paintings</field>
+<field name="abstract">Put Down Your Whip is a 1939 oil painting by Chinese Realism painter Xu Beihong. Completed during Xu's stay in Singapore, the painting was exhibited numerous times before its disappearance from public view in 1954. It re-emerged in 2007 and was sold for HK$72 million in an auction on 7 April 2007 in Hong Kong, then setting a record for the highest price ever paid for a Chinese painting at an auction.</field>
+<field name="label">Put Down Your Whip</field>
+<field name="comment">Put Down Your Whip is a 1939 oil painting by Chinese Realism painter Xu Beihong. Completed during Xu's stay in Singapore, the painting was exhibited numerous times before its disappearance from public view in 1954. It re-emerged in 2007 and was sold for HK$72 million in an auction on 7 April 2007 in Hong Kong, then setting a record for the highest price ever paid for a Chinese painting at an auction.</field>
+<field name="name"/>
+<field name="artist"/>
+<field name="height">144</field>
+<field name="title">Put Down Your Whip</field>
+<field name="width">90</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Put_Down_Your_Whip</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Put_Down_Your_Whip</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7262084</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Put_Down_Your_Whip</field>
+</doc>
+</add>

@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Adoration_of_the_Shepherds_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_dei_pastori_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3605556</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Shepherds_(Mantegna)</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Mantegna)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_dei_pastori_(Mantegna)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch4ct6</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pokłon_pasterzy_(obraz_Mantegni)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nativity_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="abstract">The Adoration of the Shepherds is a painting by the northern Italian Renaissance artist Andrea Mantegna, dated to c. 1450-1451.</field>
+<field name="label">Adoration of the Shepherds (Mantegna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/41/Andrea_Mantegna_The_Adoration_of_the_Shepherds.jpg</field>
+<field name="comment">The Adoration of the Shepherds is a painting by the northern Italian Renaissance artist Andrea Mantegna, dated to c. 1450-1451.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Andrea_Mantegna_The_Adoration_of_the_Shepherds.jpg/200px-Andrea_Mantegna_The_Adoration_of_the_Shepherds.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">40</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Adoration of the Shepherds</field>
+<field name="type">Tempera on canvas</field>
+<field name="width">55.6</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Mantegna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Shepherds_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pokłon_pasterzy_(obraz_Mantegni)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Shepherds,_Mantegna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3605556</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Mantegna)</field>
+</doc>
+</add>

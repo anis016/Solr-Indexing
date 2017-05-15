@@ -1,0 +1,89 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Briefschreiberin_in_Gelb</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lady_Writing_a_Letter</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Lady_Writing_a_Letter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lady_Writing_a_Letter</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q914984</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d6vnp</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Ung_kvinna_som_skriver_ett_brev</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Schrijvende_vrouw_in_het_geel</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/手紙を書く女</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Briefschreiberin_in_Gelb</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Donna_che_scrive_una_lettera</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Lady_Writing_a_Letter</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Dama_en_amarillo_escribiendo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1665_paintings</field>
+<field name="abstract">A Lady Writing a Letter (also known as A Lady Writing; Dutch: Schrijvend meisje) is an oil painting attributed to 17th century Dutch painter Johannes Vermeer. It is believed to have been completed around 1665. The Lady is seen to be writing a letter and has been interrupted, so gently turns her head to see what is happening. She wears twelve pearls (10 on the necklace and two earrings). Many of the objects seen in the painting, such as the woman's coat, the cloth on the table, and the string of pearls, also appear in other Vermeer works. This has led to speculation that he or his family members owned the objects, and even that the subjects of the paintings are his relatives. It has often been suggested that in his paintings, Vermeer sought to grant to his models that which he could not endow to his wife and family: calm and affluence. A Lady Writing a Letter was donated to the National Gallery of Art in Washington, D.C. in 1962 by Harry Waldron Havemeyer and Horace Havemeyer. In its first loan to the Norton Simon Museum, the National Gallery of Art agreed to lend the painting for exhibition at the Pasadena, California museum from November 7, 2008 through February 9, 2009. In Blue Balliett's children's book, Chasing Vermeer, A Lady Writing is stolen on its way from the National Gallery of Art to Chicago, causing the main problem of the story.</field>
+<field name="label">A Lady Writing a Letter</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7d/A_Lady_Writing_by_Johannes_Vermeer,_1665-6.png</field>
+<field name="comment">A Lady Writing a Letter (also known as A Lady Writing; Dutch: Schrijvend meisje) is an oil painting attributed to 17th century Dutch painter Johannes Vermeer. It is believed to have been completed around 1665. The Lady is seen to be writing a letter and has been interrupted, so gently turns her head to see what is happening. She wears twelve pearls (10 on the necklace and two earrings).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/A_Lady_Writing_by_Johannes_Vermeer,_1665-6.png/200px-A_Lady_Writing_by_Johannes_Vermeer,_1665-6.png</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/65202/rec/17</field>
+<field name="link_external">http://www.nga.gov/collection/gallery/gg51/gg51-46154.0.html</field>
+<field name="link_external">http://essentialvermeer.20m.com/cat_about/writing.htm</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">45</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">A Lady Writing a Letter</field>
+<field name="type">Oil on canvas</field>
+<field name="width">39.9</field>
+<field name="year">c. 1665</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Lady_Writing_a_Letter</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Lady_Writing_a_Letter</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Dama_en_amarillo_escribiendo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lady_Writing_a_Letter</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Donna_che_scrive_una_lettera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lady_Writing_a_Letter</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Lady_Writing_a_Letter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Lady_Writing_a_Letter</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q914984</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lady_Writing_a_Letter</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/手紙を書く女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lady_Writing_a_Letter</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Schrijvende_vrouw_in_het_geel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lady_Writing_a_Letter</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Ung_kvinna_som_skriver_ett_brev</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lady_Writing_a_Letter</field>
+</doc>
+</add>

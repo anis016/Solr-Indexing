@@ -1,0 +1,231 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Giorgione</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Gewitter_(Gemälde)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_tempestad_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Tempesta_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Tempestade_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Bouře_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tempest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/テンペスタ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Буря_(картина_Джорджоне)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05t79_</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/暴风雨_(绘画)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Буря_(Джорджоне)</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Myrsky_(Giorgione)</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Bouře_(obraz)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Буря_(картина_Джорджоне)</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Búrka_(Giorgione)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พายุ_(จอร์โจเน)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_tempesta_(Giorgione)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q930137</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Tempesta_(Giorgione)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הסערה_(ציור)</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Procella_(tabula)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Burza_(obraz_Giorgionego)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/テンペスタ</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Tempestade_(pintura)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Ar_Barrad-Amzer</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Oluja_(Giorgione)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Tempête_(Giorgione)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Tempest_(Giorgione)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Gewitter_(Gemälde)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Fırtına_(tablo)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_tempestad_(pintura)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgione</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1508_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gallerie_dell'Accademia</field>
+<field name="abstract">The Tempest (Italian La Tempesta) is a famous Renaissance painting by Italian master Giorgione dated between 1506 and 1508. Originally commissioned by the Venetian noble Gabriele Vendramin, the painting is housed in the Gallerie dell'Accademia of Venice, Italy.</field>
+<field name="label">The Tempest (Giorgione)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8f/Giorgione_019.jpg</field>
+<field name="comment">The Tempest (Italian La Tempesta) is a famous Renaissance painting by Italian master Giorgione dated between 1506 and 1508. Originally commissioned by the Venetian noble Gabriele Vendramin, the painting is housed in the Gallerie dell'Accademia of Venice, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Giorgione_019.jpg/200px-Giorgione_019.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/giorgiones-the-tempest.html</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">83</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Tempest</field>
+<field name="type">oil on canvas</field>
+<field name="width">73</field>
+<field name="width">210</field>
+<field name="year">c. 1508</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Tempest_(Giorgione)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tempesta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Tempest_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nago%E2%80%93Torbole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Tempesta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Tempest_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Il_Mondo_Nuovo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q930137</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Sangue_Freddo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Tempête_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Burza_(obraz_Giorgionego)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dell'Impero_delle_Tenebre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/暴风雨_(绘画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Ar_Barrad-Amzer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_tempesta_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Myrsky_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הסערה_(ציור)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Oluja_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Procella_(tabula)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Búrka_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พายุ_(จอร์โจเน)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Fırtına_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Буря_(Джорджоне)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tempest_(Giorgione)</field>
+</doc>
+</add>

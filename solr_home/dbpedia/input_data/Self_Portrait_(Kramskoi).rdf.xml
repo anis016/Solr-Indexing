@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self_Portrait_(Kramskoi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self_Portrait_(Kramskoi)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self_Portrait_(Kramskoi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7448284</field>
+<field name="sameAs">http://dbpedia.org/resource/Self_Portrait_(Kramskoi)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bh7dj6</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self_Portrait_(Kramskoi)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ivan_Kramskoi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1867_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="abstract">Self-Portrait is an oil-on-canvas painting of 1867 by the Russian artist Ivan Kramskoi. Oval in shape, it is a self-evaluation: Kramskoi indicates how he sees his own facial features and his relationship with the world around him. The artist has rendered himself at 30 years old formally dressed, handsome and intelligent-looking. His pose causes him to be gaze down on the viewer, with an appearance that is, according to the Tretyakov Gallery, "severe and demanding". The painter Ilya Repin wrote of the work, "What eyes! You can’t hide from them. They are small and are sunk deep in their orbits; gray, lit up…What a serious face!"</field>
+<field name="label">Self Portrait (Kramskoi)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8d/Ivan_Kramskoi_Self_Portrait.png</field>
+<field name="comment">Self-Portrait is an oil-on-canvas painting of 1867 by the Russian artist Ivan Kramskoi. Oval in shape, it is a self-evaluation: Kramskoi indicates how he sees his own facial features and his relationship with the world around him. The artist has rendered himself at 30 years old formally dressed, handsome and intelligent-looking. His pose causes him to be gaze down on the viewer, with an appearance that is, according to the Tretyakov Gallery, "severe and demanding".</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Ivan_Kramskoi_Self_Portrait.png/200px-Ivan_Kramskoi_Self_Portrait.png</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self_Portrait_(Kramskoi)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self_Portrait_(Kramskoi)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7448284</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self_Portrait_(Kramskoi)</field>
+</doc>
+</add>

@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Triptyque_de_Modène</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Modena_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Modena_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Triptyque_de_Modène</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05mrh5h</field>
+<field name="sameAs">http://dbpedia.org/resource/Modena_Triptych</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Modena_Triptych</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Tryptyk_modeński</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3280557</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_El_Greco</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modena</field>
+<field name="abstract">The Modena Triptych is 1568 triptych (three panel painting) by the artist El Greco, who was also known as Doménikos Theotokópoulos. This portable altarpiece is painted on both sides and has an Italian Renaissance frame. The front depicts the Adoration of the Shepherds, a Christian Knight, and the Baptism of Christ. The back panels show the Annunciation to Mary, Mount Sinai, and Adam and Eve. The back panel shows pilgrims on the way to the Saint Catherine's Monastery, Mount Sinai as if on their way to Heaven.</field>
+<field name="label">Modena Triptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6a/Triptico_de_Modena_El_Greco.jpg</field>
+<field name="comment">The Modena Triptych is 1568 triptych (three panel painting) by the artist El Greco, who was also known as Doménikos Theotokópoulos. This portable altarpiece is painted on both sides and has an Italian Renaissance frame. The front depicts the Adoration of the Shepherds, a Christian Knight, and the Baptism of Christ. The back panels show the Annunciation to Mary, Mount Sinai, and Adam and Eve.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Triptico_de_Modena_El_Greco.jpg/200px-Triptico_de_Modena_El_Greco.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Modena_Triptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Modena_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Modena_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Modena_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Modena_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Tryptyk_modeński</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Modena_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3280557</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Modena_Triptych</field>
+</doc>
+</add>

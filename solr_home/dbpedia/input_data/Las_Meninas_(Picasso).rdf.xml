@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Las_Meninas_(Picasso)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/As_Meninas</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gxzbh7</field>
+<field name="sameAs">http://dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q283822</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1957_paintings</field>
+<field name="abstract">Las Meninas is a series of 58 paintings that Pablo Picasso painted in 1957 by performing a comprehensive analysis, reinterpreting and recreating several times Las Meninas by Diego Velázquez. The suite is fully preserved at the Museu Picasso in Barcelona and is the only complete series of the artist that remains together. This is a very extensive survey work, which consists of 45 performances of the original picture, 9 scenes of a dove, 3 landscapes and a portrait of Jacqueline. Picasso himself understood this series as a whole, and as such gave them to the museum in Barcelona in May 1968, in memory of Jaume Sabartés, who died the same year. Picasso's famous phrase said to Sabartés in 1950: “ If someone want to copy Las Meninas, entirely in good faith, for example, upon reaching a certain point and if that one was me, I would say.. what if you put them a little more to the right or left? I'll try to do it my way, forgetting about Velázquez. The test would surely bring me to modify or change the light because of having changed the position of a character. So, little by little, that would be a detestable Meninas for a traditional painter, but would be my Meninas. ” —Picasso, 1950</field>
+<field name="label">Las Meninas (Picasso)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e4/PabloPicasso_Meninas.jpg</field>
+<field name="comment">Las Meninas is a series of 58 paintings that Pablo Picasso painted in 1957 by performing a comprehensive analysis, reinterpreting and recreating several times Las Meninas by Diego Velázquez. The suite is fully preserved at the Museu Picasso in Barcelona and is the only complete series of the artist that remains together. This is a very extensive survey work, which consists of 45 performances of the original picture, 9 scenes of a dove, 3 landscapes and a portrait of Jacqueline.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/PabloPicasso_Meninas.jpg/200px-PabloPicasso_Meninas.jpg</field>
+<field name="link_external">http://www.bcn.cat/museupicasso/en/collection/mpb70-433.html</field>
+<field name="link_external">http://www.blogmuseupicassobcn.org/2009/07/el-com-i-el-perque-de-la-nova-presentacio-de-las-meninas/</field>
+<field name="link_external">http://books.google.es/books?id=5-djqhE7gI0C&amp;pg=PA222&amp;dq=Las+Meninas+de+Picasso&amp;hl=es&amp;ei=XnrGTbqLINCo8QPOtbT2Bw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=7&amp;sqi=2&amp;ved=0CFkQ6AEwBg#v=onepage&amp;q=Las%20Meninas%20de%20Picasso&amp;f=false</field>
+<field name="artist">http://dbpedia.org/resource/Pablo_Picasso</field>
+<field name="height">194</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum"/>
+<field name="title">Las Meninas</field>
+<field name="type">Oil on canvas</field>
+<field name="width">260</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Las_Meninas_(Picasso)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Las_Meninas_(Picasso)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Las_Meninas_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/As_Meninas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q283822</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Las_Meninas_(Picasso)</field>
+</doc>
+</add>

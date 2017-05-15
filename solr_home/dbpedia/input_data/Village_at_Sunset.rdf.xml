@@ -1,0 +1,30 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Village_at_Sunset</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtx0ts</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7930704</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Village_at_Sunset</field>
+<field name="sameAs">http://dbpedia.org/resource/Village_at_Sunset</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1884_paintings</field>
+<field name="abstract">Village at Sunset is an oil painting created in 1884 by Vincent van Gogh.</field>
+<field name="label">Village at Sunset</field>
+<field name="comment">Village at Sunset is an oil painting created in 1884 by Vincent van Gogh.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Village_at_Sunset</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Village_at_Sunset</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Village_at_Sunset</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Village_at_Sunset</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7930704</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Village_at_Sunset</field>
+</doc>
+</add>

@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Faust_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Faust_(paintings)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Faust_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Faust_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5438268</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04f515v</field>
+<field name="sameAs">http://dbpedia.org/resource/Faust_(paintings)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Faust_(paintings)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1970s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_based_on_the_Faust_legend</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Goethe's_Faust</field>
+<field name="abstract">Faust (paintings) is a series of approximately 100 paintings created between 1976 and 1979 by Nabil Kanso. The paintings depict figural compositions in a sequence of scenes whose subjects are loosely based on Goethe’s Faust Part One and Part Two. In dealing with the human drama, the paintings in the series embody imagery reflecting various aspects of the entanglement of the relationship between three primary figures that may visually represent Faust, the old scholar who pledges his soul to the devil in exchange for youth and love, Mephistopheles, the Devil’s representative who provides Faust with his needs, and Margaret (Gretchen), the young woman who is "seduced and made unhappy by the evildoer."</field>
+<field name="label">Faust (paintings)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/45/Kansofaust76.jpg</field>
+<field name="comment">Faust (paintings) is a series of approximately 100 paintings created between 1976 and 1979 by Nabil Kanso. The paintings depict figural compositions in a sequence of scenes whose subjects are loosely based on Goethe’s Faust Part One and Part Two.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/Kansofaust76.jpg/200px-Kansofaust76.jpg</field>
+<field name="link_external">http://nabilkanso.com/faust.html</field>
+<field name="link_external">http://kanso.org/faust.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Faust_(paintings)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Faust_(paintings)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Faust_paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5438268</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Faust_(paintings)</field>
+</doc>
+</add>

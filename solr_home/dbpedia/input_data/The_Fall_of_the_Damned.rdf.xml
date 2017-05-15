@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fall_of_the_Damned</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7733220</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fph1b0</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Damned</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Fall_of_the_Damned</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Peter_Paul_Rubens</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1620_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Religious_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vandalized_works_of_art</field>
+<field name="abstract">The Fall of the Damned, conversely known as The Fall of the Rebel Angels is a monumental religious painting by Peter Paul Rubens. It features a jumble of the bodies of the damned, hurled into abyss by archangel Michael and accompanying angels. David Freedberg assessed this painting manner as the "most brilliant assemblages of lusciously naked flesh in Western art". In 1959 an art vandal threw an acid on the painting. According to him, he did not directly destroy the work, but the acid "relieves one from the work of destruction".</field>
+<field name="label">The Fall of the Damned</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/06/Peter_Paul_Rubens_063.jpg</field>
+<field name="comment">The Fall of the Damned, conversely known as The Fall of the Rebel Angels is a monumental religious painting by Peter Paul Rubens. It features a jumble of the bodies of the damned, hurled into abyss by archangel Michael and accompanying angels. David Freedberg assessed this painting manner as the "most brilliant assemblages of lusciously naked flesh in Western art". In 1959 an art vandal threw an acid on the painting.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Peter_Paul_Rubens_063.jpg/200px-Peter_Paul_Rubens_063.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Peter_Paul_Rubens</field>
+<field name="city">http://dbpedia.org/resource/Munich</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Alte_Pinakothek</field>
+<field name="title">The Fall of the Damned</field>
+<field name="type">Oil on canvas</field>
+<field name="year">ca. 1620</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Fall_of_the_Damned</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Fall_of_the_Damned</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Fall_of_the_Damned</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Fall_of_the_Damned</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7733220</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Damned</field>
+</doc>
+</add>

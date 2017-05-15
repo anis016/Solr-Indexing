@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Monna_Rosa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Monna_Rosa</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Monna_Rosa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6901173</field>
+<field name="sameAs">http://dbpedia.org/resource/Monna_Rosa</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j3gj3k</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Monna_Rosa</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="abstract">Monna Rosa is the title of two oil paintings by Dante Gabriel Rossetti, both of Frances Leyland, the wife of shipping magnate Frederick Richards Leyland. The earlier and smaller painting was completed in 1862 and its whereabouts is now unknown. The second was completed in 1867 and is now in a private collection. Frederick Leyland displayed the larger painting in his drawing room with five other Rossetti "stunners."</field>
+<field name="label">Monna Rosa</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8d/Monna-rosa-1867.jpg</field>
+<field name="comment">Monna Rosa is the title of two oil paintings by Dante Gabriel Rossetti, both of Frances Leyland, the wife of shipping magnate Frederick Richards Leyland. The earlier and smaller painting was completed in 1862 and its whereabouts is now unknown. The second was completed in 1867 and is now in a private collection. Frederick Leyland displayed the larger painting in his drawing room with five other Rossetti "stunners."</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Monna-rosa-1867.jpg/200px-Monna-rosa-1867.jpg</field>
+<field name="artist"/>
+<field name="height">68.58</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Monna Rosa</field>
+<field name="type">oil on canvas</field>
+<field name="width">53.34</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Monna_Rosa</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Monna_Rosa</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6901173</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Monna_Rosa</field>
+</doc>
+</add>

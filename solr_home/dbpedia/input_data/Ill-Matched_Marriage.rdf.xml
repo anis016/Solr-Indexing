@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ill-Matched_Marriage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5998624</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ill-Matched_Marriage</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047pdyp</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/O_Casamento_Desigual</field>
+<field name="sameAs">http://dbpedia.org/resource/Ill-Matched_Marriage</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_S%C3%A3o_Paulo_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Flemish_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520s_paintings</field>
+<field name="abstract">The Ill-Matched Marriage (also known as The Marriage Contract) is an oil painting executed by the early Netherlandish master Quentin Matsys, usually dated between 1525 and 1530. The panel, probably inspired by an original lost drawing of Leonardo da Vinci, illustrates an appealing subject in the history of art: the marriage for economic reasons between persons of different ages. The painting is presently housed in the São Paulo Museum of Art. It was donated to the museum in 1965, by the Baron Hans Heinrich Thyssen-Bornemisza.</field>
+<field name="label">Ill-Matched Marriage</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1e/Quentin_Metsys_-_O_Casamento_Desigual.jpg</field>
+<field name="comment">The Ill-Matched Marriage (also known as The Marriage Contract) is an oil painting executed by the early Netherlandish master Quentin Matsys, usually dated between 1525 and 1530. The panel, probably inspired by an original lost drawing of Leonardo da Vinci, illustrates an appealing subject in the history of art: the marriage for economic reasons between persons of different ages. The painting is presently housed in the São Paulo Museum of Art.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Quentin_Metsys_-_O_Casamento_Desigual.jpg/200px-Quentin_Metsys_-_O_Casamento_Desigual.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Quentin_Matsys</field>
+<field name="height">54</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/S%C3%A3o_Paulo_Museum_of_Art</field>
+<field name="museum">http://dbpedia.org/resource/S%C3%A3o_Paulo</field>
+<field name="title">Ill-Matched Marriage</field>
+<field name="width">89</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ill-Matched_Marriage</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ill-Matched_Marriage</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/O_Casamento_Desigual</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ill-Matched_Marriage</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ill-Matched_Marriage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ill-Matched_Marriage</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ill-Matched_Pair</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5998624</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ill-Matched_Marriage</field>
+</doc>
+</add>

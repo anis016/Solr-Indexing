@@ -1,0 +1,80 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Giovanna_Tornabuoni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_Giovanny_Tornabuoni</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Портрет_Джованни_Торнабуоні</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Giovanna_Tornabuoni</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3s8z_</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2623789</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Giovanna_Tornabuoni</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_Giovanna_Tornabuoni</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_Джованны_Торнабуони</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Thyssen-Bornemisza_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1488_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Domenico_Ghirlandaio</field>
+<field name="abstract">The Portrait of Giovanna Tornabuoni is a painting by the Italian Renaissance painter Domenico Ghirlandaio, executed in 1488 and located in the Museo Thyssen-Bornemisza, Madrid.</field>
+<field name="label">Portrait of Giovanna Tornabuoni</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3b/Ghirlandaio-Giovanna_Tornabuoni_cropped.jpg</field>
+<field name="comment">The Portrait of Giovanna Tornabuoni is a painting by the Italian Renaissance painter Domenico Ghirlandaio, executed in 1488 and located in the Museo Thyssen-Bornemisza, Madrid.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Ghirlandaio-Giovanna_Tornabuoni_cropped.jpg/200px-Ghirlandaio-Giovanna_Tornabuoni_cropped.jpg</field>
+<field name="link_external">http://idlespeculations-terryprest.blogspot.com/2007/01/giovanna-degli-albizzi-tornabuoni.html</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">77</field>
+<field name="image"/>
+<field name="imageSize">240</field>
+<field name="museum"/>
+<field name="title">Portrait of Giovanna Tornabuoni</field>
+<field name="type">Tempera on panel</field>
+<field name="width">49</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Giovanna_Tornabuoni</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Giovanna_Tornabuoni</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Giovanna_Tornabuoni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_Giovanna_Tornabuoni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_Giovanny_Tornabuoni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_Джованны_Торнабуони</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2623789</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Портрет_Джованни_Торнабуоні</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giovanna_Tornabuoni</field>
+</doc>
+</add>

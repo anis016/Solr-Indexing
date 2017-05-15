@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Virgin_Annunciate</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Virgin_Annunciate_(Antonello_da_Messina,_Palermo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Virgin_Annunciate_(Antonello_da_Messina,_Palermo)</field>
+<field name="sameAs">http://dbpedia.org/resource/Virgin_Annunciate_(Antonello_da_Messina,_Palermo)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciata_di_Palermo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3332564</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Maria_der_Verkündigung_(Antonello_da_Messina)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026n2gv</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Antonello_da_Messina</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="abstract">Virgin Annunciate is a painting by the Italian Renaissance artist Antonello da Messina, housed in the Regional Gallery of Palazzo Abatellis, Palermo, southern Italy. Probably painted in Sicily in 1476, it shows Mary interrupted at her reading by the Angel of the Annunciation.</field>
+<field name="label">Virgin Annunciate (Antonello da Messina, Palermo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/80/Antonello_da_Messina_035.jpg</field>
+<field name="comment">Virgin Annunciate is a painting by the Italian Renaissance artist Antonello da Messina, housed in the Regional Gallery of Palazzo Abatellis, Palermo, southern Italy. Probably painted in Sicily in 1476, it shows Mary interrupted at her reading by the Angel of the Annunciation.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Antonello_da_Messina_035.jpg/200px-Antonello_da_Messina_035.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/51392</field>
+<field name="artist">http://dbpedia.org/resource/Antonello_da_Messina</field>
+<field name="city">http://dbpedia.org/resource/Palermo</field>
+<field name="height">45</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Abatellis</field>
+<field name="title">Virgin Annunciate</field>
+<field name="width">34.5</field>
+<field name="year">c. 1476</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Virgin_Annunciate_(Antonello_da_Messina,_Palermo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Virgin_Annunciate_(Antonello_da_Messina,_Palermo)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciata_di_Palermo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Virgin_Annunciate_(Antonello_da_Messina,_Palermo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Virgin_Annunciate_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Virgin_Annunciate_(Antonello_da_Messina,_Palermo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Virgin_Annunciate_(Antonello_da_Messina,_Palermo)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Maria_der_Verkündigung_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Virgin_Annunciate_(Antonello_da_Messina,_Palermo)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3332564</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Virgin_Annunciate_(Antonello_da_Messina,_Palermo)</field>
+</doc>
+</add>

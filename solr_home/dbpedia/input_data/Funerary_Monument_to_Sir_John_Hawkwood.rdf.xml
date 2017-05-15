@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Monumento_funerario_a_Sir_John_Hawkwood</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Monument_équestre_de_Sir_John_Hawkwood</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paolo_Uccello</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Monumento_equestre_a_Giovanni_Acuto</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Monument_équestre_de_Sir_John_Hawkwood</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2604153</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0405z1w</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pomnik_konny_sir_Johna_Hawkwooda</field>
+<field name="sameAs">http://dbpedia.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Monumento_funerario_a_Sir_John_Hawkwood</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Надгробный_памятник_Джону_Хоквуду</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paolo_Uccello</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Florence</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Monuments_and_memorials_in_Italy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="abstract">The Funerary Monument (or Equestrian Monument) to Sir John Hawkwood is a fresco by Paolo Uccello, commemorating English condottiero John Hawkwood, commissioned in 1436 for Florence's Basilica di Santa Maria del Fiore. The fresco is an important example of art commemorating a soldier-for-hire in the Italian peninsula and is a seminal work in the development of perspective. The politics of the commissioning and recommissioning of the fresco have been analyzed and debated by historians. The fresco is often cited as a form of "Florentine propaganda" for its appropriation of a foreign soldier of fortune as a Florentine hero and for its implied promise to other condottieri of the potential rewards of serving Florence. The fresco has also been interpreted as a product of internal political competition between the Albizzi and Medici factions in Renaissance Florence, due to the latter's modification of the work's symbolism and iconography during its recommissioning. The fresco is the oldest extant and authenticated work of Uccello, from a relatively well-known aspect of his career compared to the periods before and after its creation. The fresco has been restored (once by Lorenzo di Credi, who added the frame) and is now detached from the wall; it has been repositioned twice in modern times.</field>
+<field name="label">Funerary Monument to Sir John Hawkwood</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3c/Paolo_Uccello_044.jpg</field>
+<field name="comment">The Funerary Monument (or Equestrian Monument) to Sir John Hawkwood is a fresco by Paolo Uccello, commemorating English condottiero John Hawkwood, commissioned in 1436 for Florence's Basilica di Santa Maria del Fiore. The fresco is an important example of art commemorating a soldier-for-hire in the Italian peninsula and is a seminal work in the development of perspective. The politics of the commissioning and recommissioning of the fresco have been analyzed and debated by historians.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Paolo_Uccello_044.jpg/200px-Paolo_Uccello_044.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Funerary_Monument_to_Sir_John_Hawkwood</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Funerary_Monument_to_Sir_John_Hawkwood</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Надгробный_памятник_Джону_Хоквуду</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pomnik_konny_sir_Johna_Hawkwooda</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equestrian_Statue_of_John_Hawkwood</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Monumento_equestre_a_Giovanni_Acuto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Funerary_Monument_to_Sir_John_Hawkwood</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2604153</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Funerary_Monument_to_Sir_John_Hawkwood</field>
+</doc>
+</add>

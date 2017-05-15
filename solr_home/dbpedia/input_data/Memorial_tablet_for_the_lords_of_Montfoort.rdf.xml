@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Memorial_tablet_for_the_lords_of_Montfoort</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Memorial_tablet_for_the_lords_of_Montfoort</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Gedachtenistafel_van_de_heren_van_Montfoort</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Memorial_tablet_for_the_lords_of_Montfoort</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07s819f</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1905679</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Rijksmuseum_Amsterdam</field>
+<field name="abstract">The Memorial tablet for the lords of Montfoort is the oldest known surviving painting that was made in the Netherlands.</field>
+<field name="label">Memorial tablet for the lords of Montfoort</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/09/Gedachtenistafel_van_de_Heren_van_Montfoort.jpg</field>
+<field name="comment">The Memorial tablet for the lords of Montfoort is the oldest known surviving painting that was made in the Netherlands.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Gedachtenistafel_van_de_Heren_van_Montfoort.jpg/200px-Gedachtenistafel_van_de_Heren_van_Montfoort.jpg</field>
+<field name="link_external">http://www.rkd.nl/rkddb/dispatcher.aspx?action=search&amp;database=ChoiceImages&amp;search=priref=38457</field>
+<field name="link_external">http://www.rijksmuseum.nl/aria/aria_assets/SK-A-831?lang=nl</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="height">69</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Rijksmuseum</field>
+<field name="title">Memorial tablet for the lords of Montfoort</field>
+<field name="type">Oil on panel</field>
+<field name="width">142</field>
+<field name="year">c. 1400</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Memorial_tablet_for_the_lords_of_Montfoort</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Memorial_tablet_for_the_lords_of_Montfoort</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Memorial_tablet_for_the_lords_of_Montfoort</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Memorial_tablet_for_the_lords_of_Montfoort</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Memorial_tablet_for_the_lords_of_Montfoort.</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Gedachtenistafel_van_de_heren_van_Montfoort</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Memorial_tablet_for_the_lords_of_Montfoort</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1905679</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Memorial_tablet_for_the_lords_of_Montfoort</field>
+</doc>
+</add>

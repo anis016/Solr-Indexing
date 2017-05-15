@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Pity_(William_Blake)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Pity_(William_Blake)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pity_(William_Blake)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dgsh53</field>
+<field name="sameAs">http://dbpedia.org/resource/Pity_(William_Blake)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Pity_(William_Blake)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7199551</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Romantic_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:William_Blake's_mythology</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_by_William_Blake</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Prints_(art)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1795_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Prints_and_drawings_in_the_British_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="abstract">Pity (c. 1795) is a colour print on paper, finished in ink and watercolour, by the English artist and poet William Blake, one of the group known as the "Large Colour Prints". Along with his other works of this period, it was influenced by the Bible, Milton, and Shakespeare. The work is unusual, as it is a literal illustration of a double simile from Macbeth, found in the lines: And pity, like a naked new-born babe, Striding the blast, or heaven's cherubim, hors'd Upon the sightless couriers of the air. Like other members of the group it is a monotype produced by printing from a matrix consisting of paint on gessoed millboard, with each impression then finished by hand. By this unusual means Blake could obtain up to three impressions from a single painting. Three such impressions survive of Pity. A fourth, in the British Museum, was an early trial of the design from a different matrix, as it is smaller than the others.</field>
+<field name="label">Pity (William Blake)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8b/WilliamBlakePity.jpeg</field>
+<field name="comment">Pity (c. 1795) is a colour print on paper, finished in ink and watercolour, by the English artist and poet William Blake, one of the group known as the "Large Colour Prints". Along with his other works of this period, it was influenced by the Bible, Milton, and Shakespeare.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/WilliamBlakePity.jpeg/200px-WilliamBlakePity.jpeg</field>
+<field name="link_external">http://www.tate.org.uk/britain/exhibitions/gothicnightmares/rooms/room5_works.htm</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=1126</field>
+<field name="artist">http://dbpedia.org/resource/William_Blake</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">425</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate</field>
+<field name="title">Pity</field>
+<field name="type">Colour print, finished in ink and watercolour, on paper</field>
+<field name="width">539</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Pity_(William_Blake)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pity_(William_Blake)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7199551</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pity_(William_Blake)</field>
+</doc>
+</add>

@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Adoration_of_the_Golden_Calf</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q377810</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gytyy6</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_adoración_del_becerro_de_oro</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Adoration_of_the_Golden_Calf</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Adoration_of_the_Golden_Calf</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vandalized_works_of_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1634_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Nicolas_Poussin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="abstract">For the Biblical event itself, see golden calf. The Adoration of the Golden Calf 300px Artist Nicolas Poussin Year 1633-1634 Type Oil on canvas Dimensions 154 cm × 214 cm Location National Gallery, London The Adoration of the Golden Calf is a painting by Nicolas Poussin, produced between 1633 and 1634. It depicts the adoration of the golden calf by the Israelites, from chapter 32 of the book of Exodus. It was made as part of a pair of paintings (the other being The Crossing of the Red Sea) commissioned by Amadeo dal Pozzo, Marchese di Voghera of Turin, a cousin to Cassiano dal Pozzo, Poussin's main sponsor in Rome. By 1685 the pair had passed to the Chevalier de Lorraine and in 1710 they were bought by Benigne de Ragois de Bretonvillers. In 1741 they were bought from Samuel by Sir Jacob Bouverie, whose son William became the first Earl of Radnor. The Earls of Radnor owned the pair from then until 1945, when it was split for the first time and The Adoration of the Golden Calf bought by the National Gallery in London for £10,000, half of which was contributed by the Art Fund. (The Crossing of the Red Sea was bought in the same 1945 sale by the National Gallery of Victoria. ) It now hangs in Room 19 of the National Gallery, where it and Poussin's The Adoration of the Shepherds were vandalised with red spray paint on 17 July 2011.</field>
+<field name="label">The Adoration of the Golden Calf</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/63/GoldCalf.jpg</field>
+<field name="comment">For the Biblical event itself, see golden calf. The Adoration of the Golden Calf 300px Artist Nicolas Poussin Year 1633-1634 Type Oil on canvas Dimensions 154 cm × 214 cm Location National Gallery, London The Adoration of the Golden Calf is a painting by Nicolas Poussin, produced between 1633 and 1634. It depicts the adoration of the golden calf by the Israelites, from chapter 32 of the book of Exodus.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/63/GoldCalf.jpg/200px-GoldCalf.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/nicolas-poussin-the-adoration-of-the-golden-calf</field>
+<field name="artist">http://dbpedia.org/resource/Nicolas_Poussin</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">The Adoration of the Golden Calf</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Adoration_of_the_Golden_Calf</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Adoration_of_the_Golden_Calf</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_adoración_del_becerro_de_oro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Adoration_of_the_Golden_Calf</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Adoration_of_the_Golden_Calf</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Adoration_of_the_Golden_Calf</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Golden_Calf</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q377810</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Adoration_of_the_Golden_Calf</field>
+</doc>
+</add>

@@ -1,0 +1,97 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Anthony_Roll</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Anthony_Roll</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Anthony_Roll</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Anthony_Roll</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Anthony_Roll</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025t17q</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Anthonyrullen</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q573917</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/安東尼書卷</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Anthony_Roll</field>
+<field name="sameAs">http://dbpedia.org/resource/Anthony_Roll</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Rouleau_d'Anthony</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Anthony_Roll</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Anthony_Roll</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Anthonyrullen</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_Library_additional_manuscripts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_ships</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Tudor_England</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_the_Royal_Navy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Military_history_of_the_United_Kingdom</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Illuminated_manuscripts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="abstract">The Anthony Roll is a record of ships of the English Tudor navy of the 1540s, named after its creator, Anthony Anthony. It originally consisted of three rolls of vellum, depicting 58 naval vessels along with information on their size, crew, armament, and basic equipment. The rolls were presented to King Henry VIII in 1546, and were kept in the royal library. In 1680 Charles II gave two of the rolls to Samuel Pepys, who had them cut up and bound as a single volume book, which is now in the Pepys Library at Magdalene College, Cambridge. The third roll remained in the royal collection until it was given by William IV to his daughter, Mary Fox, who sold it to the British Museum in 1858; it is now owned by the British Library. The Anthony Roll is the only known fully illustrated inventory of ships of the English navy in the Tudor period. As the work of a successful state official in 16th century England, the artistic value of the Anthony Roll has been described as being characterised by "naive draughtsmanship and conformity to a pattern" though its artistic aspects display "a decent amateur grasp of form and colour". While the inventories listed in its text have proven to be highly accurate, most of the ship illustrations are rudimentary and made according to a set formula. The level of detail of the ship design, armament and especially rigging has therefore proven to be only approximate. Nevertheless, through their depiction of the ceremonial ornamentation the illustrations in the Roll have provided relevant secondary information to the study of Tudor period heraldry, flags and ship ornamentation. The only known contemporary depictions of prominent Tudor era vessels like the Henry Grace à Dieu and the Mary Rose are contained in the Anthony Roll. As the Mary Rose sank by accident in 1545 and was successfully salvaged in 1982, comparison between the information in the Roll and the physical evidence of the Mary Rose has provided new insights into the study of the naval history of the period.</field>
+<field name="label">Anthony Roll</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b3/AnthonyRoll-1_Great_Harry.jpg</field>
+<field name="comment">The Anthony Roll is a record of ships of the English Tudor navy of the 1540s, named after its creator, Anthony Anthony. It originally consisted of three rolls of vellum, depicting 58 naval vessels along with information on their size, crew, armament, and basic equipment. The rolls were presented to King Henry VIII in 1546, and were kept in the royal library.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/AnthonyRoll-1_Great_Harry.jpg/200px-AnthonyRoll-1_Great_Harry.jpg</field>
+<field name="link_external">http://www.bl.uk/learning/histcitizen/uk/armada/source1/warship.html</field>
+<field name="link_external">http://www.crwflags.com/fotw/flags/gb-anth.html</field>
+<field name="link_external">http://books.google.co.uk/books?id=AsoUAAAAIAAJ&amp;pg=PA85&amp;dq=Marine+Painting:+An+Historical+Survey&amp;cd=7#v=onepage&amp;q=Marine%20Painting%3A%20An%20Historical%20Survey&amp;f=false</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Anthony_Roll</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Anthony_Roll</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Rouleau_d'Anthony</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Anthony_Roll</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Anthony_Roll</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Anthony_Roll</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Anthony_Anthony</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/British_Library_Additional_MS_22047</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pepys_2991</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q573917</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Anthony_Roll</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/安東尼書卷</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Anthony_Roll</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Anthonyrullen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Anthony_Roll</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Anthonyrullen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Anthony_Roll</field>
+</doc>
+</add>

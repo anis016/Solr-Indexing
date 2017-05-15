@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Young_Shepherdess</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Young_Shepherdess</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Young_Shepherdess</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://bn.dbpedia.org/resource/দ্যা_ইয়াং_শেফার্ডেস</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02z1htp</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3344537</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Young_Shepherdess</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Young_Shepherdess</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/年轻的牧羊女_(1885)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William-Adolphe_Bouguereau</field>
+<field name="abstract">The Young Shepherdess is an 1885 painting by William-Adolphe Bouguereau (1825–1905). It is currently owned by the San Diego Museum of Art. This and similar images by the artist attracted collectors in Europe and America because of their nostalgic content. In such works the artist depicted a variety of poses and expressions, in this case showing the mild curiosity of the girl.</field>
+<field name="label">The Young Shepherdess</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/19/William-Adolphe_Bouguereau_(1825-1905)_-_The_Young_Shepherdess_(1885).jpg</field>
+<field name="comment">The Young Shepherdess is an 1885 painting by William-Adolphe Bouguereau (1825–1905). It is currently owned by the San Diego Museum of Art. This and similar images by the artist attracted collectors in Europe and America because of their nostalgic content. In such works the artist depicted a variety of poses and expressions, in this case showing the mild curiosity of the girl.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/William-Adolphe_Bouguereau_(1825-1905)_-_The_Young_Shepherdess_(1885).jpg/200px-William-Adolphe_Bouguereau_(1825-1905)_-_The_Young_Shepherdess_(1885).jpg</field>
+<field name="artist">http://dbpedia.org/resource/William-Adolphe_Bouguereau</field>
+<field name="image"/>
+<field name="imageSize">225</field>
+<field name="museum">http://dbpedia.org/resource/San_Diego_Museum_of_Art</field>
+<field name="title">The Young Shepherdess</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Young_Shepherdess</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Young_Shepherdess</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/年轻的牧羊女_(1885)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Young_Shepherdess</field>
+</doc>
+<doc>
+<field name="uri">http://bn.dbpedia.org/resource/দ্যা_ইয়াং_শেফার্ডেস</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Young_Shepherdess</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3344537</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Young_Shepherdess</field>
+</doc>
+</add>

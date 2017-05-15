@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Four_Seasons_(Sozzi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Four_Seasons_(Sozzi)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Four_Seasons_(Sozzi)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3235034</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czb_sq</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Quatre_Saisons_(Sozzi)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Quattro_stagioni_(Sozzi)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Baroque_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1760s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="abstract">The Four Seasons (Le Quattro Stagioni it) is a cycle of four frescoes by Francesco Sozzi in the Palazzo Isnello, Palermo, Italy.</field>
+<field name="label">The Four Seasons (Sozzi)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fc/Francesco_Sozzi_Inverno.jpg</field>
+<field name="comment">The Four Seasons (Le Quattro Stagioni it) is a cycle of four frescoes by Francesco Sozzi in the Palazzo Isnello, Palermo, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Francesco_Sozzi_Inverno.jpg/200px-Francesco_Sozzi_Inverno.jpg</field>
+<field name="link_external">http://www.flickr.com/photos/palazzoisnello/sets/72157624825213882/</field>
+<field name="artist">http://dbpedia.org/resource/Francesco_Sozzi</field>
+<field name="city">http://dbpedia.org/resource/Palermo</field>
+<field name="image"/>
+<field name="imageSize">260</field>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Isnello</field>
+<field name="title">The Four Seasons</field>
+<field name="type">Fresco cycle</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Four_Seasons_(Sozzi)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Four_Seasons_(Sozzi)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Quattro_stagioni_(Sozzi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Four_Seasons_(Sozzi)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Four_Seasons</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Quatre_Saisons_(Sozzi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Four_Seasons_(Sozzi)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Four_Seasons_(Sozzi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Four_Seasons_(Sozzi)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3235034</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Four_Seasons_(Sozzi)</field>
+</doc>
+</add>

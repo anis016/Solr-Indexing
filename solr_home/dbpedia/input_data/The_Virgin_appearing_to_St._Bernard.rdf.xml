@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Virgin_appearing_to_St._Bernard</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Apparizione_della_Vergine_a_san_Bernardo_(Perugino)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Lactatio</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Apparition_de_la_Vierge_à_saint_Bernard_(Le_Pérugin)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1799828</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Lactatio_Bernardi</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Lactatio_Bernardi</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_appearing_to_St._Bernard</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Virgin_appearing_to_St._Bernard</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03nv7gh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="abstract">The Virgin appearing to St. Bernard is a painting by the Italian artist Pietro Perugino, the main painter of the Umbrian school that was based in Perugia. The panel was executed as an altarpiece for the church of Santa Maria Maddalena dei Pazzi in Florence. It was later acquired in 1829/30 for King Ludwig I of Bavaria from the Capponi in Florence, and eventually made it to the Alte Pinakothek in Munich. The work has been called "one of the high points of European painting in the late 15th century. " The painting shows Bernardino of Siena, deep in his studies, being interrupted by a fully corporeal vision of the Virgin Mary, who appears to him in the clear light of day. Four saints surround them. There is a seemingly effortless, perfect symmetry about the composition, yet there is nothing static or artificial about it in any way. The position of the Virgin and St. Bernard's prie-dieu are both slightly off balance, but not enough to ruin the serene harmony of the picture. The faces of the various figures contribute to this quiet beauty, without showing much individualism or realism. Likewise, the colours are bright and radiant, without being flashy.</field>
+<field name="label">The Virgin appearing to St. Bernard</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4a/Perugino,_apparizione_della_vergine_a_san_bernardo,_monaco.jpg</field>
+<field name="comment">The Virgin appearing to St. Bernard is a painting by the Italian artist Pietro Perugino, the main painter of the Umbrian school that was based in Perugia. The panel was executed as an altarpiece for the church of Santa Maria Maddalena dei Pazzi in Florence. It was later acquired in 1829/30 for King Ludwig I of Bavaria from the Capponi in Florence, and eventually made it to the Alte Pinakothek in Munich.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Perugino,_apparizione_della_vergine_a_san_bernardo,_monaco.jpg/200px-Perugino,_apparizione_della_vergine_a_san_bernardo,_monaco.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pietro_Perugino</field>
+<field name="city">http://dbpedia.org/resource/Munich</field>
+<field name="height">173</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Alte_Pinakothek</field>
+<field name="title">The Virgin appearing to St. Bernard</field>
+<field name="width">170</field>
+<field name="year">c. 1490-1494</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Virgin_appearing_to_St._Bernard</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Virgin_appearing_to_St._Bernard</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Apparizione_della_Vergine_a_san_Bernardo_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_appearing_to_St._Bernard</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Apparition_de_la_Vierge_à_saint_Bernard_(Le_Pérugin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_appearing_to_St._Bernard</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Virgin_appearing_to_St._Bernard</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Virgin_appearing_to_St._Bernard</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Lactatio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_appearing_to_St._Bernard</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Lactatio_Bernardi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_appearing_to_St._Bernard</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Lactatio_Bernardi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_appearing_to_St._Bernard</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1799828</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_appearing_to_St._Bernard</field>
+</doc>
+</add>

@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Lady_Meux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lady_Meux</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5405830</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Lady_Meux</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_Lady_Meux</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zk4pp</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1881_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_James_Abbott_McNeill_Whistler</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Portrait of Lady Meux is a name given to several full-length portraits by James Abbott McNeill Whistler. Valerie Susan Meux, née Langdon, (1847 – 1910) was a Victorian socialite and the wife of the London brewer, Sir Henry Meux (pronounced myooks). She claimed to have been an actress, but was apparently on the stage for only a single season. She is believed to have met Sir Henry at the Casino de Venise in Holburn, where she worked as a banjo-playing barmaid and prostitute under the name Val Reece. James Abbott McNeill Whistler was an American expatriate and one of the most accomplished portraitists of his time. However, the artist had become bankrupt in 1879, following his lawsuit against the critic John Ruskin. In 1881, Lady Meux offered Whistler his first significant commission after the bankruptcy. Her full-length portrait, known as Arrangement in Black, No. 5 (Portrait of Lady Meux) now hangs in the Honolulu Museum of Art. It shows her dressed in black with a long white fur coat, diamond tiara, diamond necklace, and diamond bracelet. Reportedly, the painting was commended by Edward VII of the United Kingdom and Princess Alexandra, when they saw it in the artist’s studio. The painting was also exhibited in the 1882 Paris Salon, where it was enthusiastically received. Whistler painted a second portrait of Lady Meux in 1881 called Harmony in Pink and Grey (Portrait of Lady Meux) which belongs to the Frick Collection in New York City. This full-length portrait shows the subject on stage standing before a pinkish-grey curtain, in an obvious allusion to her alleged stage career. She wears a light grey dress trimmed in pink satin. The butterfly emblem that Whistler used as a signature is on the right side of the painting a little below the middle. Whistler assigned many of his paintings titles with terms like “arrangement” and “harmony”, which may be interpreted as either musical or abstract. A third painting known as Portrait of Lady Meux in Furs was also commenced in 1881. This canvas was probably destroyed by the artist in a dispute with the sitter, however a photograph of it exists in the Whistler Archives, University of Glasgow, Scotland. Both the Honolulu painting and the destroyed painting belong to a series of “black portraits”, paintings Whistler executed at various stages of his career in a palette dominated by black.</field>
+<field name="label">Portrait of Lady Meux</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/42/Whistler_-_Arrangement_in_Black,_No._5_(Lady_Meux),_1881.jpg</field>
+<field name="comment">Portrait of Lady Meux is a name given to several full-length portraits by James Abbott McNeill Whistler. Valerie Susan Meux, née Langdon, (1847 – 1910) was a Victorian socialite and the wife of the London brewer, Sir Henry Meux (pronounced myooks). She claimed to have been an actress, but was apparently on the stage for only a single season.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Whistler_-_Arrangement_in_Black,_No._5_(Lady_Meux),_1881.jpg/200px-Whistler_-_Arrangement_in_Black,_No._5_(Lady_Meux),_1881.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Lady_Meux</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Lady_Meux</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Lady_Meux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Lady_Meux</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arrangement_in_Black,_No._5</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Harmony_in_Pink_and_Grey</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_Lady_Meux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lady_Meux</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5405830</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lady_Meux</field>
+</doc>
+</add>

@@ -1,0 +1,95 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Tourment_de_saint_Antoine_(Michel-Ange)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мучения_святого_Антония</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zzzs2</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_Verzoeking_van_de_H._Antonius_(Michelangelo)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Tormento_di_sant'Antonio</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2327759</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Aziz_Antonio'nun_azabı</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Муки_Святого_Антонія_(Мікеланджело)</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Temptatio_Sancti_Antonii_(Schongauer)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мучения_святого_Антония</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Tourment_de_saint_Antoine_(Michel-Ange)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Michelangelo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="abstract">The Torment of Saint Anthony is the earliest known painting by Michelangelo, painted after an engraving by Martin Schongauer when he was only 12 or 13 years old. It is currently in the permanent collection of the Kimbell Art Museum in Fort Worth, Texas. It shows the common medieval subject, included in the Golden Legend and other sources, of Saint Anthony being assailed in the desert by demons, whose temptations he resisted; the Temptation of St Anthony (or "Trial") is the more common name of the subject. But this composition shows a later episode where St Anthony, normally flown about the desert supported by angels, was ambushed in mid-air by devils. The painting was previously attributed to the workshop of Domenico Ghirlandaio, under whom Michelangelo had served his apprenticeship. Under that attribution it was bought at a Sotheby's auction in July 2008 by an American art dealer for US$2 million. When the export license was obtained that September, it was brought to the Metropolitan Museum of Art in New York, where it was cleaned of discoloured varnish and later overpainting and closely examined for the first time. On the basis of stylistic hallmarks such as "emphatic cross hatching", it was decided that the painting was indeed by Michelangelo. It was soon bought by the Kimbell Art Museum for an undisclosed amount, believed to be in excess of $6 million. Giorgio Vasari in his Lives of the Artists noted that Michelangelo had painted St. Anthony after a print by Schongauer, and Ascanio Condivi recorded that Michelangelo had gone to a market to draw fish scales, a feature not present in the original engraving. Besides this enhancement, Michelangelo also added a landscape below the figures, and altered the expression of the saint. It is one of only four surviving panel paintings by Michelangelo, whom Vasari records as speaking disparagingly of oil painting in later life, and the only one, if the new attribution holds, from his adolescence. Schongauer's late-Gothic style is also in strong contrast with the rest of Michelangelo's oeuvre, even in his youth. The prints of Schongauer, just reaching the end of his long life when Michelangelo copied him, were widely distributed in Europe, including Italy. {{#invoke: Gallery | gallery}}</field>
+<field name="label">The Torment of Saint Anthony (Michelangelo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/16/The_Torment_of_Saint_Anthony_(Michelangelo).jpg</field>
+<field name="comment">The Torment of Saint Anthony is the earliest known painting by Michelangelo, painted after an engraving by Martin Schongauer when he was only 12 or 13 years old. It is currently in the permanent collection of the Kimbell Art Museum in Fort Worth, Texas.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/The_Torment_of_Saint_Anthony_(Michelangelo).jpg/200px-The_Torment_of_Saint_Anthony_(Michelangelo).jpg</field>
+<field name="artist"/>
+<field name="height">47</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kimbell_Art_Museum</field>
+<field name="title">The Torment of Saint Anthony</field>
+<field name="type">Oil and tempera on panel</field>
+<field name="width">35</field>
+<field name="year">c. 1487–1488</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Tormento_di_sant'Antonio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_Verzoeking_van_de_H._Antonius_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2327759</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Temptatio_Sancti_Antonii_(Schongauer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Aziz_Antonio'nun_azabı</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Муки_Святого_Антонія_(Мікеланджело)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Torment_of_Saint_Anthony_(Michelangelo)</field>
+</doc>
+</add>

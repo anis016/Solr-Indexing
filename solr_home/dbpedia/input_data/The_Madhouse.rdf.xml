@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Casa_de_locos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madhouse</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madhouse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Madhouse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch1r2j</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madhouse</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q8341785</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Madhouse</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Casa_de_locos</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_mental_health</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1819_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">The Madhouse (Casa de locos) or Asylum (Manicomio) is an oil-on-panel painting by Francisco de Goya. He produced it between 1812 and 1819. It shows a mental asylum, with its inhabitants in many different poses. Marked by a Piranesian and claustrophobic architecture, the painting's only light source is a barred window high up on the wall, clearly meant to repress the figures below. These figures are distinct characters, all engaged in grotesque and pitiable behaviour - one wears what seems to be a wild-feathered headdress, another is fighting in a tricorne, another makes a gesture of blessing to the viewer, whilst many of the others are naked. The subject of psychiatric institutions was a hot topic in the salons of the Spanish Enlightenment and so this painting could be meant as a denunciation of then-current practice in that area. Even if it is not, Goya was always attracted to representing madness, deformity or perversion. Some of the figures can also be interpreted allegorically, as a gallery of parodies of powerful figures in society, such as the clergy or the army (the man in the tricorne hat). It develops the topic of 'the world of dreams' ('mundo al revés') and is related to Goya's engravings series Los disparates. Goya had already touched on the issue in his 1793 painting Corral de locos, but The Madhouse shows greater variety, with less mad, less picturesque, more individualised and more characterised figures, shown more humanity and clearly marked as poor victims of marginalisation and rejection.</field>
+<field name="label">The Madhouse</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/23/Francisco_Goya_-_Casa_de_locos.jpg</field>
+<field name="comment">The Madhouse (Casa de locos) or Asylum (Manicomio) is an oil-on-panel painting by Francisco de Goya. He produced it between 1812 and 1819. It shows a mental asylum, with its inhabitants in many different poses. Marked by a Piranesian and claustrophobic architecture, the painting's only light source is a barred window high up on the wall, clearly meant to repress the figures below.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Francisco_Goya_-_Casa_de_locos.jpg/200px-Francisco_Goya_-_Casa_de_locos.jpg</field>
+<field name="link_external">http://www.artehistoria.jcyl.es/historia/obras/2708.htm</field>
+<field name="artist">http://dbpedia.org/resource/Francisco_Goya</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Real_Academia_de_Bellas_Artes_de_San_Fernando</field>
+<field name="title">The Madhouse</field>
+<field name="type">Oil on panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Madhouse</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Madhouse</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Madhouse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Madhouse</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q8341785</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madhouse</field>
+</doc>
+</add>

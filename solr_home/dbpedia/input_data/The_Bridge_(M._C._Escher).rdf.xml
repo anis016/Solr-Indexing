@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мост_(литография)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bridge_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Bridge_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bridge_(M._C._Escher)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мост_(литография)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2899822</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הגשר_(אשר)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03szd4</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Bridge_(M._C._Escher)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1930_paintings</field>
+<field name="abstract">The Bridge is a lithograph print by the Dutch artist M. C. Escher, first printed in March 1930. It depicts a bridge connecting two sheer cliffs. On the top of the left hand cliff is a city. The chasm between the two cliffs is narrow but plummets out of view. In the distance is another outcrop with a city built on top. Both the rock and the architecture on this third outcrop are darker in colouration than in the foreground. The buildings appear to be modelled partly after southern Italian architecture. The rock is in blocky formations that appeared often during Escher's Italian period and it is possible that the village seen is Assisi.</field>
+<field name="label">The Bridge (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9c/Escher,_The_Bridge.jpg</field>
+<field name="comment">The Bridge is a lithograph print by the Dutch artist M. C. Escher, first printed in March 1930. It depicts a bridge connecting two sheer cliffs. On the top of the left hand cliff is a city. The chasm between the two cliffs is narrow but plummets out of view. In the distance is another outcrop with a city built on top. Both the rock and the architecture on this third outcrop are darker in colouration than in the foreground.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Escher,_The_Bridge.jpg/200px-Escher,_The_Bridge.jpg</field>
+<field name="artist"/>
+<field name="height">53.6</field>
+<field name="image"/>
+<field name="title">The Bridge</field>
+<field name="width">37.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Bridge_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Bridge_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Bridge_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Bridge_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2899822</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bridge_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הגשר_(אשר)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bridge_(M._C._Escher)</field>
+</doc>
+</add>

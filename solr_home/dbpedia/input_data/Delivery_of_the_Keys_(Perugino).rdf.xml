@@ -1,0 +1,114 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Remise_des_clefs_à_saint_Pierre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Delivery_of_the_Keys_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Consegna_delle_chiavi_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Delivery_of_the_Keys_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wręczenie_kluczy_św._Piotrowi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Delivery_of_the_Keys_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Delivery_of_the_Keys_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Delivery_of_the_Keys_(Perugino)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wręczenie_kluczy_św._Piotrowi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmg937</field>
+<field name="sameAs">http://he.dbpedia.org/resource/ישו_מעניק_את_מפתחות_השמים_לפטרוס</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2620028</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Consegna_delle_chiavi_(Perugino)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Remise_des_clefs_à_saint_Pierre</field>
+<field name="sameAs">http://dbpedia.org/resource/Delivery_of_the_Keys_(Perugino)</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Kristus_överlämnar_himmelrikets_nycklar_till_Petrus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="abstract">The Delivery of the Keys, or Christ Giving the Keys to St. Peter is a fresco by the Italian Renaissance painter Pietro Perugino, executed in 1481-1482 and located in the Sistine Chapel, Rome.</field>
+<field name="label">Delivery of the Keys (Perugino)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b4/Entrega_de_las_llaves_a_San_Pedro_(Perugino).jpg</field>
+<field name="comment">The Delivery of the Keys, or Christ Giving the Keys to St. Peter is a fresco by the Italian Renaissance painter Pietro Perugino, executed in 1481-1482 and located in the Sistine Chapel, Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Entrega_de_las_llaves_a_San_Pedro_(Perugino).jpg/200px-Entrega_de_las_llaves_a_San_Pedro_(Perugino).jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">330</field>
+<field name="image"/>
+<field name="imageSize">360</field>
+<field name="museum"/>
+<field name="title">Delivery of the Keys</field>
+<field name="type">Fresco</field>
+<field name="width">550</field>
+<field name="year">c. 1481-1482</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Delivery_of_the_Keys_(Perugino)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Delivery_of_the_Keys_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Giving_the_Keys_to_Peter_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Giving_the_Keys_to_Peter_(Sistine_Chapel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Giving_the_Keys_to_St._Peter_(Sistine_Chapel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Delivery_of_the_Ketys_(Sistine_Chapel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Delivery_of_the_Keys_(Sistine_Chapel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Delivery_of_the_Keys_to_St._Peter_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Delivery_of_the_Keys_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Delivery_of_the_Keys_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Delivery_of_the_Keys_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2620028</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Delivery_of_the_Keys_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/ישו_מעניק_את_מפתחות_השמים_לפטרוס</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Delivery_of_the_Keys_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Kristus_överlämnar_himmelrikets_nycklar_till_Petrus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Delivery_of_the_Keys_(Perugino)</field>
+</doc>
+</add>

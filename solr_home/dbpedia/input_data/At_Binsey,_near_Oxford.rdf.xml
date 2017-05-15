@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/At_Binsey,_near_Oxford</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/At_Binsey,_near_Oxford</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/В_Бинзи_возле_Оксфорда</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4101655</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04g21fg</field>
+<field name="sameAs">http://yago-knowledge.org/resource/At_Binsey,_near_Oxford</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Oxfordshire</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Oxford</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1862_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="abstract">At Binsey, near Oxford is a watercolour painting by the English Victorian artist George Price Boyce, who was associated with the Pre-Raphaelite art movement. This 1862 watercolour is a view in the village of Binsey close to the city of Oxford in Oxfordshire, England.</field>
+<field name="label">At Binsey, near Oxford</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bc/BoyceBinsey1862.jpg</field>
+<field name="comment">At Binsey, near Oxford is a watercolour painting by the English Victorian artist George Price Boyce, who was associated with the Pre-Raphaelite art movement. This 1862 watercolour is a view in the village of Binsey close to the city of Oxford in Oxfordshire, England.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/BoyceBinsey1862.jpg/200px-BoyceBinsey1862.jpg</field>
+<field name="artist">http://dbpedia.org/resource/George_Price_Boyce</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="title">At Binsey, near Oxford</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/At_Binsey,_near_Oxford</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/At_Binsey,_near_Oxford</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/At_Binsey,_near_Oxford</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/At_Binsey,_near_Oxford</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/В_Бинзи_возле_Оксфорда</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/At_Binsey,_near_Oxford</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4101655</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/At_Binsey,_near_Oxford</field>
+</doc>
+</add>

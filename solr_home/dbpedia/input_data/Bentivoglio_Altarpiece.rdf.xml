@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bentivoglio_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_Bentivoglio</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_Bentivoglio_(Lorenzo_Costa)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bentivoglio_Altarpiece</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvs623</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3736352</field>
+<field name="sameAs">http://dbpedia.org/resource/Bentivoglio_Altarpiece</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1488_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lorenzo_Costa_the_Elder</field>
+<field name="abstract">The Bentivoglio Altarpiece is a painting by the Italian Renaissance painter Lorenzo Costa the Elder, dating to August 1488. It is displayed in the Bentivoglio Chapel of the church of San Giacomo Maggiore, Bologna, Italy. It was commissioned by Giovanni II Bentivoglio, lord of Bologna, as a thanksgiving for the family’s escape from an attempted massacre by the Malvezzi family http://www. footprintguides. com/Bologna/Northeast-the-university-quarter. php.</field>
+<field name="label">Bentivoglio Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7b/Lorenzo_Costa_006.jpg</field>
+<field name="comment">The Bentivoglio Altarpiece is a painting by the Italian Renaissance painter Lorenzo Costa the Elder, dating to August 1488. It is displayed in the Bentivoglio Chapel of the church of San Giacomo Maggiore, Bologna, Italy. It was commissioned by Giovanni II Bentivoglio, lord of Bologna, as a thanksgiving for the family’s escape from an attempted massacre by the Malvezzi family http://www. footprintguides. com/Bologna/Northeast-the-university-quarter. php.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Lorenzo_Costa_006.jpg/200px-Lorenzo_Costa_006.jpg</field>
+<field name="link_external">http://www.footprintguides.com/Bologna/Northeast-the-university-quarter.php</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">280</field>
+<field name="museum"/>
+<field name="title">''Bentivoglio Altarpiece</field>
+<field name="type">Oil on panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bentivoglio_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bentivoglio_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bentivoglio_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bentivoglio_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_Bentivoglio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bentivoglio_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Enthroned,_Thanked_by_Giovanni_II_and_his_Wife_Ginevra_Sforza_and_their_Children</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_and_Child_with_the_Bentivoglio_family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pala_Bentivoglio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_Bentivoglio_(Lorenzo_Costa)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bentivoglio_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3736352</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bentivoglio_Altarpiece</field>
+</doc>
+</add>

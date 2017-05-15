@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_femminile_(Cranach)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Female_Portrait_(Cranach)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Female_Portrait_(Cranach)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_femminile_(Cranach)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h52q21</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937781</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Female_Portrait_(Cranach)</field>
+<field name="sameAs">http://dbpedia.org/resource/Female_Portrait_(Cranach)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_German_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lucas_Cranach_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="abstract">The Female Portrait is a painting by German Renaissance master Lucas Cranach the Elder, dating from around 1530, now housed in the Uffizi Gallery of Florence, Italy. The work was executed by Cranach's workshop basing on his drawing. It depicts a woman, taken from three-quarters on a dark background, who wears an Arabesqued dress and a large, plumed hat in the contemporary fashion, which appears in variants in paintings by Cranach as well as by other German artists of the time.</field>
+<field name="label">Female Portrait (Cranach)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c0/Cranach,_ritratto_di_donna,_uffizi.jpg</field>
+<field name="comment">The Female Portrait is a painting by German Renaissance master Lucas Cranach the Elder, dating from around 1530, now housed in the Uffizi Gallery of Florence, Italy. The work was executed by Cranach's workshop basing on his drawing. It depicts a woman, taken from three-quarters on a dark background, who wears an Arabesqued dress and a large, plumed hat in the contemporary fashion, which appears in variants in paintings by Cranach as well as by other German artists of the time.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Cranach,_ritratto_di_donna,_uffizi.jpg/200px-Cranach,_ritratto_di_donna,_uffizi.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">42</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Female Portrait</field>
+<field name="type">Oil on panel</field>
+<field name="width">29</field>
+<field name="year">c. 1530</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Female_Portrait_(Cranach)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Female_Portrait_(Cranach)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Female_Portrait_(Cranach)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Female_Portrait_(Cranach)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Woman_(Cranach)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937781</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Female_Portrait_(Cranach)</field>
+</doc>
+</add>

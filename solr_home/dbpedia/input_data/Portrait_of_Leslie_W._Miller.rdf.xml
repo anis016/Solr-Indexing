@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Leslie_W._Miller</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bm9h3r</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Leslie_W._Miller</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Leslie_W._Miller</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232288</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1901_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Philadelphia_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="abstract">Portrait of Leslie W. Miller is a 1901 painting by Thomas Eakins, Goodrich #348. It is in the permanent collection of the Philadelphia Museum of Art.</field>
+<field name="label">Portrait of Leslie W. Miller</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/df/Eakins,_Leslie_W_Miller_1901.jpg</field>
+<field name="comment">Portrait of Leslie W. Miller is a 1901 painting by Thomas Eakins, Goodrich #348. It is in the permanent collection of the Philadelphia Museum of Art.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Eakins,_Leslie_W_Miller_1901.jpg/200px-Eakins,_Leslie_W_Miller_1901.jpg</field>
+<field name="link_external">http://www.philamuseum.org/collections/permanent/44493.html?mulR=20800</field>
+<field name="link_external">http://library.uarts.edu/archives/lesliewmiller.html</field>
+<field name="artist">http://dbpedia.org/resource/Thomas_Eakins</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Philadelphia_Museum_of_Art</field>
+<field name="title">Portrait of Leslie W. Miller</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Leslie_W._Miller</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Leslie_W._Miller</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Leslie_W._Miller</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Leslie_W._Miller</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232288</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Leslie_W._Miller</field>
+</doc>
+</add>

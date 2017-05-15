@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Storm_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7766694</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Storm_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Storm_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czddss</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Academic_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="abstract">The Storm (La Tempête) is a painting by French artist Pierre Auguste Cot, completed in 1880. Currently on display at New York's Metropolitan Museum of Art, the painting was commissioned from the artist in 1880 by Catharine Lorillard Wolfe under the guidance of her cousin John Wolfe, one of Cot's principal patrons.</field>
+<field name="label">The Storm (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7a/The_Storm.jpg</field>
+<field name="comment">The Storm (La Tempête) is a painting by French artist Pierre Auguste Cot, completed in 1880. Currently on display at New York's Metropolitan Museum of Art, the painting was commissioned from the artist in 1880 by Catharine Lorillard Wolfe under the guidance of her cousin John Wolfe, one of Cot's principal patrons.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/The_Storm.jpg/200px-The_Storm.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pierre_Auguste_Cot</field>
+<field name="city">http://dbpedia.org/resource/New_York</field>
+<field name="height">234.3</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">The Storm</field>
+<field name="width">156.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Storm_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Storm_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Storm_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Storm_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Storm_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Storm_(Painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7766694</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Storm_(painting)</field>
+</doc>
+</add>

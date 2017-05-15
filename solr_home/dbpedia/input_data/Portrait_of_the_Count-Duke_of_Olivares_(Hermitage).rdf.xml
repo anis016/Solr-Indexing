@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_del_Conte_Duca_di_Olivares</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_du_comte-duc_d'Olivares_(Vélasquez,_1638)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_del_Conde-Duque_de_Olivares_(1638)</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026y6w4</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937426</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_paintings_of_the_Hermitage_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1635_paintings</field>
+<field name="abstract">The Portrait of Count-Duke de Olivares is a painting by Spanish artist Diego Velázquez, finished in 1635. It is housed in the Hermitage Museum of St. Petersburg. The picture portrays Gaspar de Guzmán, Count-Duke of Olivares, Prime Minister of Spain during the reign of Philip IV. He is portrayed in half bust over a neuter background, the face appearing tired and swollen, markedly aged from the previous, more famous equestrian portrait of Duke de Olivares also by Velázquez. Olivares wears a simple black dress with a white ruff.</field>
+<field name="label">Portrait of the Count-Duke of Olivares (Hermitage)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0d/Conde-Duque_de_Olivares.jpg</field>
+<field name="comment">The Portrait of Count-Duke de Olivares is a painting by Spanish artist Diego Velázquez, finished in 1635. It is housed in the Hermitage Museum of St. Petersburg. The picture portrays Gaspar de Guzmán, Count-Duke of Olivares, Prime Minister of Spain during the reign of Philip IV. He is portrayed in half bust over a neuter background, the face appearing tired and swollen, markedly aged from the previous, more famous equestrian portrait of Duke de Olivares also by Velázquez.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Conde-Duque_de_Olivares.jpg/200px-Conde-Duque_de_Olivares.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist">http://dbpedia.org/resource/Diego_Vel%C3%A1zquez</field>
+<field name="city">http://dbpedia.org/resource/Saint_Petersburg</field>
+<field name="height">67</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Hermitage_Museum</field>
+<field name="title">Portrait of Count Duke de Olivares</field>
+<field name="width">54.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Count-Duke_of_Olivares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_del_Conde-Duque_de_Olivares_(1638)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_del_Conte_Duca_di_Olivares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Count-Duke_de_Olivares_(Hermitage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Duke_de_Olivares_(Hermitage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_du_comte-duc_d'Olivares_(Vélasquez,_1638)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937426</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Count-Duke_of_Olivares_(Hermitage)</field>
+</doc>
+</add>

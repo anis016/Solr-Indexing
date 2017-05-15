@@ -1,0 +1,131 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medusa_(Caravaggio_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medusa_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Medusa_(Caravaggio)</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Μέδουσα_(Καραβάτζιο)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cabeza_de_Medusa</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Medusa_(Caravaggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08nyc2</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Медуза_(Караваджо)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2293905</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Medusa_(Caravaggio)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/מדוזה_(קאראווג'ו)</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/เมดูซา_(การาวัจโจ)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Medusa_(Caravaggio)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Głowa_Meduzy_(obraz_Caravaggia)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Méduse_(Le_Caravage)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Medusa_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1597_paintings</field>
+<field name="abstract">Caravaggio painted two versions of Medusa, the first in 1596 and the other presumably in 1597. The first version is also known as Murtula, by the name of the poet who wrote about it, Gaspare Murtola (d. 1624): "Flee, for if your eyes are petrified in amazement, she will turn you to stone. " It measures 48 by 55 cm and is signed Michel A F (Latin: Michel Angelo Fecit), "Michel Angelo made [this this]", Michelangelo being Caravaggio's first name. This work is privately owned. The second version, shown here, is slightly bigger (60×55 cm) and is not signed; it is held in the Uffizi Gallery in Florence.</field>
+<field name="label">Medusa (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/42/Medusa_by_Caravaggio_2.jpg</field>
+<field name="comment">Caravaggio painted two versions of Medusa, the first in 1596 and the other presumably in 1597. The first version is also known as Murtula, by the name of the poet who wrote about it, Gaspare Murtola (d. 1624): "Flee, for if your eyes are petrified in amazement, she will turn you to stone. " It measures 48 by 55 cm and is signed Michel A F (Latin: Michel Angelo Fecit), "Michel Angelo made [this this]", Michelangelo being Caravaggio's first name. This work is privately owned.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Medusa_by_Caravaggio_2.jpg/200px-Medusa_by_Caravaggio_2.jpg</field>
+<field name="link_external">http://www.wga.hu/framex-e.html?file=html/c/caravagg/03/20medusa.html&amp;find=medusa</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">60</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Medusa</field>
+<field name="type">Oil on canvas mounted on wood</field>
+<field name="width">55</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Medusa_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Μέδουσα_(Καραβάτζιο)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Medusa_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Głowa_Meduzy_(obraz_Caravaggia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Medusa_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cabeza_de_Medusa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Méduse_(Le_Caravage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Medusa_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Medusa_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2293905</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Медуза_(Караваджо)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Medusa_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/מדוזה_(קאראווג'ו)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/เมดูซา_(การาวัจโจ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medusa_(Caravaggio)</field>
+</doc>
+</add>

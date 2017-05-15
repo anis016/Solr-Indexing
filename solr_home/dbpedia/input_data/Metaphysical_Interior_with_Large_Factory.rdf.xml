@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Metaphysical_Interior_with_Large_Factory</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Metaphysical_Interior_with_Large_Factory</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Metaphysical_Interior_with_Large_Factory</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0drctk</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1910s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">Metaphysical Interior with Large Factory (1916–17) is a painting by the Italian metaphysical painter Giorgio de Chirico. It is part of a series that extended late into de Chirico’s career. Like the other works in this series it depicts a small room cluttered with surreal objects. This time the main focus is a framed picture of a factory complex.</field>
+<field name="label">Metaphysical Interior with Large Factory</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/54/Metaphysical_with_Factory.jpg</field>
+<field name="comment">Metaphysical Interior with Large Factory (1916–17) is a painting by the Italian metaphysical painter Giorgio de Chirico. It is part of a series that extended late into de Chirico’s career. Like the other works in this series it depicts a small room cluttered with surreal objects. This time the main focus is a framed picture of a factory complex.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Metaphysical_with_Factory.jpg/200px-Metaphysical_with_Factory.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Giorgio_de_Chirico</field>
+<field name="city">http://dbpedia.org/resource/Stuttgart</field>
+<field name="image"/>
+<field name="imageSize">221</field>
+<field name="museum">http://dbpedia.org/resource/Staatsgalerie_Stuttgart</field>
+<field name="title">Metaphysical Interior with Large Factory</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Large_Factory</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Metaphysical_Interior_with_Large_Factory</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Large_Factory</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Metaphysical_Interior_with_Large_Factory</field>
+</doc>
+</add>

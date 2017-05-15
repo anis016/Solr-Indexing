@@ -1,0 +1,245 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Primavera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sandro_Botticelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Printemps_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/봄_(보티첼리)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Весна_(картина_Боттичелли)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wiosna_(obraz_Sandra_Botticellego)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Allegory_Of_Spring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Allegory_of_Spring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Primavera_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Primavera_(Painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/プリマヴェーラ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Primavera_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Primavera_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_primavera</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/プリマヴェーラ</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Весна_(картина_Боттичелли)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ฤดูใบไม้ผลิ_(บอตติเชลลี)</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Primavera</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wiosna_(obraz_Sandra_Botticellego)</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Ver_(Botticelli)</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Udaberria_(Botticelli)</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Alegorija_proljeća</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08n46m</field>
+<field name="sameAs">http://he.dbpedia.org/resource/פרימוורה</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Primavera_(Botticelli)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/La_Primavera_(schilderij)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/La_Primavera</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/봄_(보티첼리)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Printemps_(Botticelli)</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Kevät_(Botticelli)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/春_(波提切利)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q549847</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Primavera_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Spring_(season)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_paintings_in_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1482_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_Venus</field>
+<field name="abstract">Primavera, also known as Allegory of Spring, is a tempera panel painting by Italian Renaissance artist Sandro Botticelli. Painted ca. 1482, the painting is described in Culture &amp; Values (2009) as "[o o]ne of the most popular paintings in Western art". {{#invoke:Footnotes|sfn}} It is also, according to Botticelli, Primavera (1998), "one of the most written about, and most controversial paintings in the world. "{{#invoke:Footnotes|sfn}} While most critics agree that the painting, depicting a group of mythological figures in a garden, is allegorical for the lush growth of Spring, other meanings have also been explored. Among them, the work is sometimes cited as illustrating the ideal of Neoplatonic love. The painting itself carries no title and was first called La Primavera by the art historian Giorgio Vasari who saw it at Villa Castello, just outside Florence, in 1550. {{#invoke:Footnotes|sfn}} The history of the painting is not certainly known, though it seems to have been commissioned by one of the Medici family. It contains elements of Ovid and Lucretius and may have been inspired by a poem by Poliziano. Since 1919 the painting has been part of the collection of the Uffizi Gallery in Florence, Italy.</field>
+<field name="label">Primavera (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3c/Botticelli-primavera.jpg</field>
+<field name="comment">Primavera, also known as Allegory of Spring, is a tempera panel painting by Italian Renaissance artist Sandro Botticelli. Painted ca. 1482, the painting is described in Culture &amp; Values (2009) as "[o o]ne of the most popular paintings in Western art". {{#invoke:Footnotes|sfn}} It is also, according to Botticelli, Primavera (1998), "one of the most written about, and most controversial paintings in the world.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Botticelli-primavera.jpg/200px-Botticelli-primavera.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/botticelli-primavera.html</field>
+<field name="link_external">http://www.guardian.co.uk/artanddesign/2011/jan/05/denis-healey-the-artist-within</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">203</field>
+<field name="image"/>
+<field name="imageSize">345</field>
+<field name="museum"/>
+<field name="title">Primavera</field>
+<field name="type">Tempera on panel</field>
+<field name="width">314</field>
+<field name="width">210</field>
+<field name="year">c. 1482</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Primavera_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Primavera_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/La_Primavera_(schilderij)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Udaberria_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q549847</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/春_(波提切利)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/La_Primavera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_primavera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Kevät_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/פרימוורה</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Alegorija_proljeća</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Ver_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Primavera_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Primavera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ฤดูใบไม้ผลิ_(บอตติเชลลี)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Primavera_(painting)</field>
+</doc>
+</add>

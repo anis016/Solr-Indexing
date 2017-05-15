@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mary_Magdalene_(Sandys)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6780231</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mary_Magdalene_(Sandys)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03c888j</field>
+<field name="sameAs">http://dbpedia.org/resource/Mary_Magdalene_(Sandys)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mary_Magdalene</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Delaware_Art_Museum</field>
+<field name="abstract">Mary Magdalene is a Pre-Raphaelite painting by Frederick Sandys. Mary Magdalene was the only character from the Bible that Sandys ever painted. Having sharp features reminiscent of Lizzie Siddal (though the model is unknown), Mary is depicted in front of a patterned forest-green damask. She holds an alabaster ointment cup, a traditional attribute which associates her with the anonymous sinful woman who anointed Jesus' feet in Luke 7:37. Like other Pre-Raphaelite painters, Frederick Sandys gave Magdalene a sensual look. Dante Rossetti accused Sandys of plagiarism, because of the resemblance to his Mary Magdalene Leaving the House of Feasting, but when Rossetti came to paint Magdalene some twenty years later, it was his painting that resembled Sandys. Mary Magdalene was acquired in 1894 by Samuel Bancroft Jr. , the most important American collector of Pre-Raphaelite art, whose family donated his collection to the Delaware Art Museum in 1935. Bancroft bought it from Charles Fairfax Murray, an artist in the Pre-Raphaelite circle. It has been exhibited, as part of a touring exhibition of the Bancroft Collection, at the Saint Louis Art Museum, San Diego Museum of Art, the Frick Art &amp; Historical Center, Pittsburgh, Nottingham Castle and other locations. It was once featured in an oversize advertisement in the San Antonio International Airport.</field>
+<field name="label">Mary Magdalene (Sandys)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2c/Mariya_Magdalena.jpg</field>
+<field name="comment">Mary Magdalene is a Pre-Raphaelite painting by Frederick Sandys. Mary Magdalene was the only character from the Bible that Sandys ever painted. Having sharp features reminiscent of Lizzie Siddal (though the model is unknown), Mary is depicted in front of a patterned forest-green damask. She holds an alabaster ointment cup, a traditional attribute which associates her with the anonymous sinful woman who anointed Jesus' feet in Luke 7:37.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Mariya_Magdalena.jpg/200px-Mariya_Magdalena.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Frederick_Sandys</field>
+<field name="city">http://dbpedia.org/resource/Wilmington,_Delaware</field>
+<field name="height">33.5</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Delaware_Art_Museum</field>
+<field name="title">Mary Magdalene</field>
+<field name="type">Oil on panel</field>
+<field name="width">28</field>
+<field name="year">ca. 1858-60</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mary_Magdalene_(Sandys)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mary_Magdalene_(Sandys)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mary_Magdalene_(Sandys_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mary_Magdalene_(Sandys)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mary_Magdalene_(Sandys)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6780231</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mary_Magdalene_(Sandys)</field>
+</doc>
+</add>

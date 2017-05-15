@@ -1,0 +1,91 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_Esmeralda_Brandini</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_d'Esmeralda_Brandini</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1113861</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Esmeralda_Brandini</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rhv7r</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Victoria_and_Albert_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_portraits</field>
+<field name="abstract">The Portrait of Smeralda Brandini is a tempera on panel painting by the Italian Renaissance artist Sandro Botticelli of about 1475, in the Victoria and Albert Museum, London (museum no. CAI.100).</field>
+<field name="label">Portrait of a Lady known as Esmeralda Brandini</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ab/Alessandro_Botticelli_Portrait_of_a_Lady_(Smeralda_Brandini_.jpg</field>
+<field name="comment">The Portrait of Smeralda Brandini is a tempera on panel painting by the Italian Renaissance artist Sandro Botticelli of about 1475, in the Victoria and Albert Museum, London (museum no. CAI.100).</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Alessandro_Botticelli_Portrait_of_a_Lady_(Smeralda_Brandini_.jpg/200px-Alessandro_Botticelli_Portrait_of_a_Lady_(Smeralda_Brandini_.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Sandro_Botticelli</field>
+<field name="city"/>
+<field name="height">65.7</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Victoria_and_Albert_Museum</field>
+<field name="title">Woman at a Window</field>
+<field name="title">Portrait of a Lady known as Smeralda Brandini</field>
+<field name="type">Tempera on panel</field>
+<field name="width">41</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Esmeralda_Brandini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Smeralda_Bandinelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Lady_Known_as_Smeralda_Bandinelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Lady_known_as_Smeralda_Bandinelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_lady_known_as_smeralda_bandinelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_Esmeralda_Brandini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_d'Esmeralda_Brandini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Esmeralda_Brandini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1113861</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_known_as_Esmeralda_Brandini</field>
+</doc>
+</add>

@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adele_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adele_Bloch-Bauer_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adele_Bloch-Bauer_II</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adele_Bloch-Bauer_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adele_Bloch-Bauer_II</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4681871</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adele_Bloch-Bauer_II</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vwtv1</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Vienna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1912_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Jews_and_Judaism_in_Austria</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Gustav_Klimt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Arts_set_in_Austria</field>
+<field name="abstract">Adele Bloch-Bauer II is a 1912 painting by Gustav Klimt. Adele Bloch-Bauer was the wife of Ferdinand Bloch-Bauer, who was a wealthy industrialist who sponsored the arts and supported Gustav Klimt. Adele Bloch-Bauer was the only model to be painted twice by Klimt; she also appeared in the much more famous Portrait of Adele Bloch-Bauer I. Adele's portraits had hung in the family home prior to their seizure by the Nazis during WWII. The Austrian museum where they resided after the war was reluctant to return them to their rightful owners, hence a protracted court battle in the United States and in Austria ensued, which resulted in five Gustav Klimt paintings being returned to Maria Altmann, the niece of Ferdinand Bloch-Bauer, in January 2006. In November 2006, Christie's auction house sold Portrait of Adele Bloch-Bauer II at auction for almost $88 million, the fourth-highest priced piece of art at auction at the time.</field>
+<field name="label">Adele Bloch-Bauer II</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/33/Gustav_Klimt_047.jpg</field>
+<field name="comment">Adele Bloch-Bauer II is a 1912 painting by Gustav Klimt. Adele Bloch-Bauer was the wife of Ferdinand Bloch-Bauer, who was a wealthy industrialist who sponsored the arts and supported Gustav Klimt. Adele Bloch-Bauer was the only model to be painted twice by Klimt; she also appeared in the much more famous Portrait of Adele Bloch-Bauer I. Adele's portraits had hung in the family home prior to their seizure by the Nazis during WWII.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Gustav_Klimt_047.jpg/200px-Gustav_Klimt_047.jpg</field>
+<field name="artist"/>
+<field name="height">190</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Adele Bloch-Bauer II</field>
+<field name="type">Oil on canvas</field>
+<field name="width">120</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adele_Bloch-Bauer_II</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adele_Bloch-Bauer_II</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4681871</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adele_Bloch-Bauer_II</field>
+</doc>
+</add>

@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Siete_obras_de_misericordia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Sept_Œuvres_de_miséricorde</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2626595</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sette_opere_di_Misericordia</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Sept_Œuvres_de_miséricorde</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/七件善事</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Сім_справ_милосердя</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Siete_obras_de_misericordia</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Семь_деяний_милосердия</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08ny7l</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="abstract">The Seven Works of Mercy, also known as The Seven Acts of Mercy, is an oil painting by Italian painter Caravaggio, circa 1607. The painting depicts the seven corporal works of mercy in traditional Catholic belief, which are a set of compassionate acts concerning the material welfare of others. The painting was made for, and is still housed in, the church of Pio Monte della Misericordia in Naples. Originally it was meant to be seven separate panels around the church; however, Caravaggio combined all seven works of mercy in one composition which became the church's altarpiece. The titular seven works/acts of mercy are represented in the painting as follows: 1. Bury the dead; In the background, two men carry a dead man (of whom only the feet are visible). 2 and 3. Visit the imprisoned, and feed the hungry; On the right, a woman visits an imprisoned man and gives him milk from her breast. This image alludes to the classical story of Roman Charity. 4. Shelter the homeless; A pilgrim (third from left, as identified by the shell in his hat) asks an innkeeper (at far left) for shelter. 5. Clothe the naked; St. Martin of Tours, fourth from the left, has torn his robe in half and given it to the naked beggar in the foreground, recalling the saint's popular legend. 6. Visit the sick; St. Martin greets and comforts the beggar who is a cripple. 7. Refresh the thirsty; Samson (second from the left) drinks water from the jawbone of an ass. American art historian John Spike notes that the angel at the center of Caravaggio’s altarpiece transmits the grace that inspires humanity to be merciful. Spike also notes that the choice of Samson as an emblem of Giving Drink to the Thirsty is so peculiar as to demand some explanation. The fearsome scourge of the Philistines was a deeply flawed man who accomplished his heroic tasks through the grace of God. When Samson was in danger of dying of thirst, God gave him water to drink from the jawbone of an ass. It is difficult to square this miracle with an allegory of the Seven Acts of Mercy since it was not in fact the work of human charity.</field>
+<field name="label">The Seven Works of Mercy (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d7/Caravaggio_-_Sette_opere_di_Misericordia.jpg</field>
+<field name="comment">The Seven Works of Mercy, also known as The Seven Acts of Mercy, is an oil painting by Italian painter Caravaggio, circa 1607. The painting depicts the seven corporal works of mercy in traditional Catholic belief, which are a set of compassionate acts concerning the material welfare of others. The painting was made for, and is still housed in, the church of Pio Monte della Misericordia in Naples.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Caravaggio_-_Sette_opere_di_Misericordia.jpg/200px-Caravaggio_-_Sette_opere_di_Misericordia.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">390</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Seven Works of Mercy</field>
+<field name="type">Oil on canvas</field>
+<field name="width">260</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Seven_Works_of_Mercy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sette_opere_di_Misericordia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Семь_деяний_милосердия</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2626595</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/七件善事</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Сім_справ_милосердя</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Seven_Works_of_Mercy_(Caravaggio)</field>
+</doc>
+</add>

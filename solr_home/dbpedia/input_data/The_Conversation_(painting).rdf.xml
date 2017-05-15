@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Conversation_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Conversation_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Conversation_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q98nw</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conversation_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Conversation_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7727514</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1909_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Hermitage_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">The Conversation is a painting by Henri Matisse dating from 1908–1912, depicting the artist and his wife facing each other before a background of intense blue. It is in the collection of the Hermitage Museum in Saint Petersburg, Russia. This was among several works acquired directly from Matisse in Paris by the Russian collector Sergei Shchukin. After the Russian Revolution the Shchukin collection was confiscated and eventually by 1948 the collection was donated to the public along with the Ivan Morozov collection, at the Pushkin Museum of Fine Arts in Moscow and the Hermitage Museum in St Petersburg. Matisse painted The Conversation at a time when he had abandoned the open, spontaneous brushwork of his Fauve period in favor of a flatter and more decorative style. The painting is large (69 5/8 in. x 85 3/8 in. , or 177 cm x 217 cm), and shows Matisse in profile, standing at the left in striped pajamas, while his wife, Amélie, sits to the right. The flatly painted blue wall behind them is relieved by a window opening onto a garden landscape. Art historian Hilary Spurling has described this "stern encounter" as "portray[ing ing] the profound underlying shape or mechanism of a relationship laid down for both parties on the day, soon after they first met in 1897, when Matisse warned his future wife that, dearly as he loved her, he would always love painting more. " The pajamas worn by Matisse were fashionable as leisure wear in early 20th century France. They had recently been introduced to Europe from India, where they were worn by tea planters, and Matisse habitually thereafter wore pajamas as his studio working clothes.</field>
+<field name="label">The Conversation (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/10/Matisse_Conversation.jpg</field>
+<field name="comment">The Conversation is a painting by Henri Matisse dating from 1908–1912, depicting the artist and his wife facing each other before a background of intense blue. It is in the collection of the Hermitage Museum in Saint Petersburg, Russia. This was among several works acquired directly from Matisse in Paris by the Russian collector Sergei Shchukin.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Matisse_Conversation.jpg/200px-Matisse_Conversation.jpg</field>
+<field name="link_external">http://www.nybooks.com/articles/18171</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Saint_Petersburg</field>
+<field name="height">177</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Hermitage_Museum</field>
+<field name="title">The Conversation</field>
+<field name="width">853</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Conversation_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Conversation_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Conversation_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7727514</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conversation_(painting)</field>
+</doc>
+</add>

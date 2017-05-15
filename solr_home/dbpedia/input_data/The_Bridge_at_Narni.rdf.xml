@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Bridge_at_Narni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Bridge_at_Narni</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bridge_at_Narni</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qw2q4</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q24283</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Puente_de_Narni</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean-Baptiste-Camille_Corot</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1826_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Bridge at Narni is an 1826 painting by French artist Jean-Baptiste-Camille Corot. The painting is currently on display at the Musée du Louvre in Paris. The painting is a product of one of Corot's youthful sojourns in Italy, and, in Kenneth Clark's words, "as free as the most vigorous Constable". It was painted in September 1826, and was the basis for the larger and more finished View at Narni, which was exhibited at the Salon of 1827, and is now in the National Gallery of Canada, Ottawa. The view was not a novel one: in 1821 Corot's teacher, Achille-Etna Michallon had drawn the same scene, as had Corot's friend Ernst Fries in 1826. Corot's study is a reconciliation of traditional and plein air painting objectives: So deeply did Corot admire Claude and Poussin, so fully did he understand their work, that from the outset he viewed nature in their terms.... In less than a year (since his arrival in Rome) he had realized his goal of closing the gap between the empirical freshness of outdoor painting and the organizing principles of classical landscape composition.</field>
+<field name="label">The Bridge at Narni</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e1/Jean-Baptiste-Camille_Corot_006.jpg</field>
+<field name="comment">The Bridge at Narni is an 1826 painting by French artist Jean-Baptiste-Camille Corot. The painting is currently on display at the Musée du Louvre in Paris. The painting is a product of one of Corot's youthful sojourns in Italy, and, in Kenneth Clark's words, "as free as the most vigorous Constable". It was painted in September 1826, and was the basis for the larger and more finished View at Narni, which was exhibited at the Salon of 1827, and is now in the National Gallery of Canada, Ottawa.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Jean-Baptiste-Camille_Corot_006.jpg/200px-Jean-Baptiste-Camille_Corot_006.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">34</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Bridge at Narni</field>
+<field name="type">Oil on paper mounted on canvas</field>
+<field name="width">48</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Bridge_at_Narni</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Bridge_at_Narni</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Bridge_at_Narni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Bridge_at_Narni</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Puente_de_Narni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bridge_at_Narni</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q24283</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bridge_at_Narni</field>
+</doc>
+</add>

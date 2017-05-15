@@ -1,0 +1,86 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Friso_de_Beethoven</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beethoven_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Beethovenfries</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beethoven_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beethoven_Frieze</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Beethovenfries</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Friso_de_Beethoven</field>
+<field name="sameAs">http://dbpedia.org/resource/Beethoven_Frieze</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Fregio_di_Beethoven</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Beethoven_Frieze</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Бетховенский_фриз</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.043l3kf</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Бетховенський_фриз</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q684689</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Beethovenfries</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Gustav_Klimt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1902_paintings</field>
+<field name="abstract">The Beethoven Frieze is a painting by Gustav Klimt on display in the Secession Building located in Vienna, Austria.</field>
+<field name="label">Beethoven Frieze</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6b/Gustav_Klimt_014.jpg</field>
+<field name="comment">The Beethoven Frieze is a painting by Gustav Klimt on display in the Secession Building located in Vienna, Austria.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Gustav_Klimt_014.jpg/200px-Gustav_Klimt_014.jpg</field>
+<field name="link_external">http://www.secession.at/beethovenfries/1902_d.html</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/klimt/klimt.beethoven-frieze2.jpg</field>
+<field name="link_external">http://www.gravestmor.com/strips/klimt_sml.jpg</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/klimt/klimt.beethoven-frieze1.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/gustav-klimts-beethoven-frieze.html</field>
+<field name="artist">http://dbpedia.org/resource/Gustav_Klimt</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Secession_hall_(Austria)</field>
+<field name="title">Beethoven Frieze</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Beethoven_Frieze</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Beethoven_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Beethovenfries</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beethoven_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Beethoven_Frieze</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Beethoven_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Бетховенский_фриз</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beethoven_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q684689</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beethoven_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Fregio_di_Beethoven</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beethoven_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Бетховенський_фриз</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beethoven_Frieze</field>
+</doc>
+</add>

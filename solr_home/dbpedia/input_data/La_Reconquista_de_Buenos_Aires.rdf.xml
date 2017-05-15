@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Reconquista_de_Buenos_Aires</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Reconquista_de_Buenos_Aires</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_Reconquista_de_Buenos_Aires</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch4jt2</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6464786</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1909_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_about_the_Argentine_War_of_Independence</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Argentine_paintings</field>
+<field name="abstract">La Reconquista de Buenos Aires (Spanish: The Reconquest of Buenos Aires) is an Argentine portrait by Charles Fouqueray in 1909. It depicts the victory of Santiago de Liniers against William Carr Beresford during the first of the British invasions of the Río de la Plata, and the subsequent liberation of Buenos Aires from British rule. It was made in the proximity of the Argentina Centennial.</field>
+<field name="label">La Reconquista de Buenos Aires</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/74/La_Reconquista_de_Buenos_Aires.jpg</field>
+<field name="comment">La Reconquista de Buenos Aires (Spanish: The Reconquest of Buenos Aires) is an Argentine portrait by Charles Fouqueray in 1909. It depicts the victory of Santiago de Liniers against William Carr Beresford during the first of the British invasions of the Río de la Plata, and the subsequent liberation of Buenos Aires from British rule. It was made in the proximity of the Argentina Centennial.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/La_Reconquista_de_Buenos_Aires.jpg/200px-La_Reconquista_de_Buenos_Aires.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_Reconquista_de_Buenos_Aires</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_Reconquista_de_Buenos_Aires</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_Reconquista_de_Buenos_Aires</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_Reconquista_de_Buenos_Aires</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6464786</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Reconquista_de_Buenos_Aires</field>
+</doc>
+</add>

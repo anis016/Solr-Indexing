@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Napoleon_on_his_Imperial_Throne</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Napoleon_I_on_his_Imperial_Throne</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Napoléon_Ier_sur_le_trône_impérial</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Napoleon_I_na_tronie_cesarskim</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f4h_c</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Napoleon_I_on_his_Imperial_Throne</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1282840</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Napoléon_trên_ngai_vàng</field>
+<field name="sameAs">http://dbpedia.org/resource/Napoleon_I_on_his_Imperial_Throne</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean_Auguste_Dominique_Ingres</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1806_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_Napoleon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">Napoleon I on his Imperial Throne is an 1806 portrait of Napoleon I of France in his coronation costume, painted by the French painter Ingres.</field>
+<field name="label">Napoleon I on his Imperial Throne</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/28/Ingres,_Napoleon_on_his_Imperial_throne.jpg</field>
+<field name="comment">Napoleon I on his Imperial Throne is an 1806 portrait of Napoleon I of France in his coronation costume, painted by the French painter Ingres.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ingres,_Napoleon_on_his_Imperial_throne.jpg/200px-Ingres,_Napoleon_on_his_Imperial_throne.jpg</field>
+<field name="link_external">http://mini-site.louvre.fr/ingres/1.7.2.1.2_fr.html</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">259</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_de_l'Arm%C3%A9e</field>
+<field name="museum">http://dbpedia.org/resource/Les_Invalides</field>
+<field name="title">Napoleon I on his Imperial Throne</field>
+<field name="type">oil on canvas</field>
+<field name="width">162</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Napoleon_I_on_his_Imperial_Throne</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Napoleon_I_on_his_Imperial_Throne</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Napoleon_I_na_tronie_cesarskim</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Napoleon_I_on_his_Imperial_Throne</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Napoleon_I_on_his_Imperial_Throne</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Napoleon_I_on_his_Imperial_Throne</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Napoléon_Ier_sur_le_trône_impérial</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Napoleon_I_on_his_Imperial_Throne</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1282840</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Napoleon_I_on_his_Imperial_Throne</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Napoléon_trên_ngai_vàng</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Napoleon_I_on_his_Imperial_Throne</field>
+</doc>
+</add>

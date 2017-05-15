@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Marché_aux_esclaves</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Slave_Market</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Slave_Market</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q743491</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Slave_Market</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«Le_Marché_aux_esclaves»</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_Sklavenmarkt</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02x2kr2</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Marché_aux_esclaves</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Slave_Market</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Slavery_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Erotic_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:BDSM</field>
+<field name="abstract">The Slave Market is a painting of about 1882 by the 19th century French artist Gustave Boulanger, who specialized in classical and Orientalist genre scenes. It depicts an Ancient Roman slave auction. It shows the marketing of seven young people, ranging in age from children to young adults, as slaves. Both male slaves, as well as three of the female slaves, bear a similarity in appearance perhaps suggesting that they are members of a family forced into slavery by economic conditions. All are wearing tags to indicate their availability as slaves. The taller, standing, young woman is wearing a translucent garment which clearly shows her breasts and pubic hair—she is trying to shield her eyes, perhaps because her potential buyers include former friends and neighbors, who are probably seeing her nude for the first time. The auctioneer eats his lunch with a very casual attitude. From a common type of Salon academic art of the period, it depicts an eroticized scene clad as a history painting, as was customary at the time in Paris. Boulanger had visited Italy, Greece, and North Africa, and the painting reflects his attention to culturally correct details and skill in rendering the female form.</field>
+<field name="label">The Slave Market</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cd/Boulanger_Gustave_Clarence_Rudolphe_The_Slave_Market.jpg</field>
+<field name="comment">The Slave Market is a painting of about 1882 by the 19th century French artist Gustave Boulanger, who specialized in classical and Orientalist genre scenes. It depicts an Ancient Roman slave auction. It shows the marketing of seven young people, ranging in age from children to young adults, as slaves. Both male slaves, as well as three of the female slaves, bear a similarity in appearance perhaps suggesting that they are members of a family forced into slavery by economic conditions.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Boulanger_Gustave_Clarence_Rudolphe_The_Slave_Market.jpg/200px-Boulanger_Gustave_Clarence_Rudolphe_The_Slave_Market.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Gustave_Boulanger</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Slave Market</field>
+<field name="year">circa 1882</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Slave_Market</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Slave_Market</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_Sklavenmarkt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Slave_Market</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Slave_Market</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Slave_Market</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«Le_Marché_aux_esclaves»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Slave_Market</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q743491</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Slave_Market</field>
+</doc>
+</add>

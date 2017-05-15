@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Wrestlers_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.080jbpc</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Wrestlers_(painting)</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Wrestlers</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q8037781</field>
+<field name="sameAs">http://dbpedia.org/resource/Wrestlers_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1899_paintings</field>
+<field name="abstract">Wrestlers is an 1899 painting by Thomas Eakins, Goodrich catalog #317. Executed in oil on canvas, it depicts two nearly naked men engaged in a wrestling match. One figure has the other in a half nelson and crotch hold. Eakins painted the work from a nearly identical photograph. The photograph was probably taken in Eakins's studio on Monday, May 22, 1899. The previous Friday, Eakins wrote to his friend, sportswriter Clarence Cranmer, asking for his assistance in posing the athletes. G-319, the painting that Philadelphia Museum of Art President Fiske Kimball bought in 1926 and later donated to his museum, is thought to be an abandoned version, rather than a study for G-317. Letters from Cranmer to Kimball in the PMA Archives identify the man on top as Joseph McCann, a wrestler and championship boxer, but do not identify the man on the bottom. According to Kimball's reminiscences: Cranmer (who was acting as the dealer for Mrs. Eakins) said the abandoned version had been valued low, and had not been included in the Thomas Eakins memorial exhibitions. "He said he would find out the price. It was $400. I bought it and by Christmas 1926 it was hanging in the library at Lemon Hill. " The oil sketch, G-318, apparently was painted after G-319, along with the finished version, G-317. In these, the men are shown at the Quaker City Barge Club, which once stood on Philadelphia's Boathouse Row. Eakins's friend and protégé Samuel Murray modeled a small sculpture of the wrestlers, that is also dated 1899. Until 2007, the finished version of The Wrestlers (G-317) was part of the permanent collection of the Columbus Museum of Art, Columbus, Ohio. It is now reunited with the study for it (G-318) at the Los Angeles County Museum of Art. 		 			Eakins, Thomas (1844-1916) - Lottatori 1. jpg 			 H-229. Photograph attributed to Eakins (probably May 22, 1899). 			 		 		 			Eakins, Thomas (1844-1916) - Lottatori 2. jpg 			 G-319. Unfinished version of Wrestlers (1899), Philadelphia Museum of Art. 			 		 		 			Study for Wrestlers. jpg 			 G-318. Study for Wrestlers (1899). Los Angeles County Museum of Art</field>
+<field name="label">Wrestlers (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cf/Eakins,_Thomas_-_Wrestlers_1899.jpg</field>
+<field name="comment">Wrestlers is an 1899 painting by Thomas Eakins, Goodrich catalog #317. Executed in oil on canvas, it depicts two nearly naked men engaged in a wrestling match. One figure has the other in a half nelson and crotch hold. Eakins painted the work from a nearly identical photograph. The photograph was probably taken in Eakins's studio on Monday, May 22, 1899. The previous Friday, Eakins wrote to his friend, sportswriter Clarence Cranmer, asking for his assistance in posing the athletes.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Eakins,_Thomas_-_Wrestlers_1899.jpg/200px-Eakins,_Thomas_-_Wrestlers_1899.jpg</field>
+<field name="link_external">http://collectionsonline.lacma.org/mwebcgi/mweb.exe?request=focus;id=14525;type=101</field>
+<field name="link_external">http://collectionsonline.lacma.org/mwebcgi/mweb.exe?request=record&amp;id=156181&amp;type=101</field>
+<field name="artist">http://dbpedia.org/resource/Thomas_Eakins</field>
+<field name="city">http://dbpedia.org/resource/Los_Angeles</field>
+<field name="height">40.8</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Los_Angeles_County_Museum_of_Art</field>
+<field name="title">Wrestlers</field>
+<field name="width">50.96</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Wrestlers_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Wrestlers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Wrestlers_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Wrestlers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q8037781</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wrestlers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Wrestlers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wrestlers_(painting)</field>
+</doc>
+</add>

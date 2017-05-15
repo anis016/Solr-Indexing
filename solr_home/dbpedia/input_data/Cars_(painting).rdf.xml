@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cars_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Car_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cars_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Cars_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Cars_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0br_xl0</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5046851</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andy_Warhol</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Unfinished_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1987_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Polyptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mercedes-Benz</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="abstract">Cars is a series of artworks by the American artist Andy Warhol, commissioned by Mercedes-Benz in 1986. A German art dealer, Hans Meyer, commissioned the first painting, of a 300SL coupe, to celebrate the 1986 centenary of the invention of the motor car. When Mercedes-Benz saw the result, it commissioned the entire series, which was to track the evolution of its designs from the Benz Patent-Motorwagen 1885, Daimler Motor Carriage (1886), and Mercedes 35 hp (1901), to the Mercedes-Benz W125, and the Mercedes-Benz C111. Now part of Mercedes-Benz's corporate art collection, Cars was unfinished at the time of Warhol's death in 1987. Warhol completed 36 silkscreen prints and 13 drawings of eight Mercedes models before his death. Warhol had planned to cover 20 models in 80 pieces. The series was based on photographs of cars, and were the first non-American designed objects that Warhol had portrayed in his work. Cars has been exhibited just twice in its entirety in public: in Tübingen in 1988, and at the Albertina, Vienna from 22 January–16 May 2010. Half of the series was shown in Milton Keynes in September 2001. Cars was Warhol's second automotive art project. In 1979 Warhol was commissioned by BMW to paint a Group 4 race version of the then elite supercar BMW M1 for the fourth installment in the BMW Art Car Project. Unlike the three artists before him, Warhol declined the use of a small scale practice model, instead opting to immediately paint directly onto the full scale automobile. It was indicated that Warhol spent only a total of 23 minutes painting the entire car. Warhol's work for Mercedes Benz and his similar commissions for Perrier have been criticized as "undistinguished glitz", with critics lamenting Warhol's "passionate avarice", accusing him of crossing the line into advertisements for their subjects.</field>
+<field name="label">Cars (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/50/Cars_art_work_by_Andy_Warhol_-_1986.jpeg</field>
+<field name="comment">Cars is a series of artworks by the American artist Andy Warhol, commissioned by Mercedes-Benz in 1986. A German art dealer, Hans Meyer, commissioned the first painting, of a 300SL coupe, to celebrate the 1986 centenary of the invention of the motor car.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Cars_art_work_by_Andy_Warhol_-_1986.jpeg/200px-Cars_art_work_by_Andy_Warhol_-_1986.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Andy_Warhol</field>
+<field name="city">http://dbpedia.org/resource/Stuttgart</field>
+<field name="city">http://dbpedia.org/resource/Germany</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum"/>
+<field name="title">Mercedes-Benz Typ C 111 Versuchswagen, 1970</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Cars_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cars_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Cars_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Cars_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5046851</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cars_(painting)</field>
+</doc>
+</add>

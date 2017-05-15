@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Crossing_of_the_Red_Sea_(Bronzino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Crossing_of_the_Red_Sea_(Bronzino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crossing_of_the_Red_Sea_(Bronzino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ข้ามทะเลแดง_(บรอนซิโน)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rvmhb</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Crossing_of_the_Red_Sea_(Bronzino)</field>
+<field name="sameAs">http://dbpedia.org/resource/Crossing_of_the_Red_Sea_(Bronzino)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_pasaje_del_Mar_Rojo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1404331</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cappella_di_Eleonora</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Moses</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Bronzino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1540s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="abstract">The Crossing of the Red Sea is a fresco painting by the Italian artist Agnolo di Cosimo, known as Bronzino, finished in 1541-1542. It is housed in Palazzo Vecchio, Florence. The fresco occupies the whole left wall of the chapel called "of Eleonora of Toledo", in on second floor of the palace, which was frescoed by Bronzino for the Grand Duchess in 1540-1545. The Biblical scene is depicted with the use of large figures which, seen from very near, gives the impression of an icy splendour, corroborated by the vivid colours. Some of the figures are clearly inspired by Michelangelo or Pontormo, as well as by the ancient statue sculpture. In particular, the foreground man on the left is a reproduction of the bronze Idolino (now in the Archaeological museum of Florence).</field>
+<field name="label">Crossing of the Red Sea (Bronzino)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fb/Angelo_Bronzino_022.jpg</field>
+<field name="comment">The Crossing of the Red Sea is a fresco painting by the Italian artist Agnolo di Cosimo, known as Bronzino, finished in 1541-1542. It is housed in Palazzo Vecchio, Florence. The fresco occupies the whole left wall of the chapel called "of Eleonora of Toledo", in on second floor of the palace, which was frescoed by Bronzino for the Grand Duchess in 1540-1545.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Angelo_Bronzino_022.jpg/200px-Angelo_Bronzino_022.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=1508</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">320</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Crossing of the Red Sea</field>
+<field name="type">Fresco</field>
+<field name="width">490</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Crossing_of_the_Red_Sea_(Bronzino)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Crossing_of_the_Red_Sea_(Bronzino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crossing_of_the_Read_Sea_(Bronzino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crossing_the_Red_Sea_(Bronzino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_pasaje_del_Mar_Rojo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crossing_of_the_Red_Sea_(Bronzino)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cappella_di_Eleonora</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crossing_of_the_Red_Sea_(Bronzino)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1404331</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crossing_of_the_Red_Sea_(Bronzino)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ข้ามทะเลแดง_(บรอนซิโน)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crossing_of_the_Red_Sea_(Bronzino)</field>
+</doc>
+</add>

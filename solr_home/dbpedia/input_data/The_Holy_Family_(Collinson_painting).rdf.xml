@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Holy_Family_(Collinson_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qc2m9</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Holy_Family_(Collinson_painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Holy_Family_(Collinson_painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7740026</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1878_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Holy Family is an oil painting on canvas of the Holy Family by the Pre-Raphaelite artist James Collinson. The painting dates from 1878 when the artist was living in Brittany. The town in the background may be Saint-Malo. The scene is of Jesus as an infant, with his earthly father Joseph and mother Mary. The specific scene does not appear in the Biblical Gospels, but it has many precedents in Renaissance art. The dove typically represents the Holy Spirit, who took this form at the baptism of Jesus. The extremely detailed depiction of the growing flora is closely comparable to Collinson's early Pre-Raphaelite work, and differs from his other paintings from this period.</field>
+<field name="label">The Holy Family (Collinson painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cc/Collinson,_Holy_Family.jpg</field>
+<field name="comment">The Holy Family is an oil painting on canvas of the Holy Family by the Pre-Raphaelite artist James Collinson. The painting dates from 1878 when the artist was living in Brittany. The town in the background may be Saint-Malo. The scene is of Jesus as an infant, with his earthly father Joseph and mother Mary. The specific scene does not appear in the Biblical Gospels, but it has many precedents in Renaissance art.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/Collinson,_Holy_Family.jpg/200px-Collinson,_Holy_Family.jpg</field>
+<field name="link_external">http://www.artmagick.com/archive/artists/collinson/pic/2266.aspx</field>
+<field name="artist">http://dbpedia.org/resource/James_Collinson</field>
+<field name="height">110.5</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="title">The Holy Family</field>
+<field name="width">85.1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Holy_Family_(Collinson_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Holy_Family_(Collinson_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Holy_Family_(Collinson_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Holy_Family_(Collinson_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Holy_family_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7740026</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Holy_Family_(Collinson_painting)</field>
+</doc>
+</add>

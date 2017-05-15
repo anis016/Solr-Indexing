@@ -1,0 +1,115 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Sommeil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Le_Sommeil</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Sommeil_(Gustave_Courbet)</field>
+<field name="sameAs">http://da.dbpedia.org/resource/De_sovende</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_sueño_(Courbet)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Uyku_(tablo)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q326503</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Sömnen_(Courbet)</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Sleepers</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Sommeil</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/خوابیده‌ها</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09gbgg4</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Le_Sommeil</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Erotic_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lesbianism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1866_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Gustave_Courbet</field>
+<field name="abstract">Le Sommeil (translated in English variously as The Sleepers and Sleep) is an erotic oil painting on canvas by French artist Gustave Courbet created in 1866. The painting, which depicts lesbianism, is also known as the Two Friends (Les Deux Amies) and Indolence and Lust (Paresse et Luxure).</field>
+<field name="label">Le Sommeil</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/06/Courbet_Sleep.jpg</field>
+<field name="comment">Le Sommeil (translated in English variously as The Sleepers and Sleep) is an erotic oil painting on canvas by French artist Gustave Courbet created in 1866. The painting, which depicts lesbianism, is also known as the Two Friends (Les Deux Amies) and Indolence and Lust (Paresse et Luxure).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Courbet_Sleep.jpg/200px-Courbet_Sleep.jpg</field>
+<field name="artist"/>
+<field name="height">135</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Petit_Palais</field>
+<field name="museum">http://dbpedia.org/resource/France</field>
+<field name="museum">http://dbpedia.org/resource/Paris</field>
+<field name="title">Le Sommeil</field>
+<field name="type">Oil on canvas</field>
+<field name="width">200</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Le_Sommeil</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Le_Sommeil</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_sueño_(Courbet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Sommeil</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Le_Sommeil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Le_Sommeil</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Sommeil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Les_Dormeuses</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sleep_(Courbet_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Sommeil_(Gustave_Courbet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Sommeil</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q326503</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Sommeil</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/De_sovende</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Sommeil</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/خوابیده‌ها</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Sommeil</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Le_Sommeil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Sommeil</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Sleepers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Sommeil</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Sömnen_(Courbet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Sommeil</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Uyku_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Sommeil</field>
+</doc>
+</add>

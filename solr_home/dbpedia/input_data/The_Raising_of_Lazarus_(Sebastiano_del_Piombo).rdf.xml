@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Raising_of_Lazarus_(Sebastiano_del_Piombo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Raising_of_Lazarus_(Del_Piombo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08tcht</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3933578</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Resurrezione_di_Lazzaro_(Sebastiano_del_Piombo)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Sebastiano_del_Piombo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="abstract">The Raising of Lazarus is a large altarpiece by the Italian High Renaissance artist Sebastiano del Piombo. It is housed in the National Gallery of London, England. In 1516 the archbishop of Narbonne, then Cardinal Giulio de' Medici (later Pope Clement VII), commissioned a Raising of Lazarus from Sebastiano Luciani (as the artist was then called – the nickname del Piombo came in 1531) in competition with Raphael's late masterpiece the Transfiguration, commissioned earlier that year for a church in Rome. In the event, as described by Vasari the Raphael was preferred, and the Sebastiano sent to his cathedral, which it is unlikely he ever visited. As well as following the Transfiguration chronologically, the theme of Lazarus's resurrection was especially appropriate for the cathedral at Narbonne, which had relics of Lazarus. Compositional drawings for the figures of Lazarus and his two attendants were supplied by Michelangelo, who, in addition to being a friend of Sebastiano, was eager to show up his bitter rival Raphael. The Gospel of Saint John divides the story of the miracle into three parts: Jesus bids the people take the stone from the tomb, He tells Lazarus to rise, and then He tells him to unbind his shroud. Sebastiano shows the third of these commands. In the background the Pharisees are depicted plotting Christ's death. Between about 1715 and his death in 1723, the Regent of France, Philippe II, Duke of Orléans, persuaded the Narbonne authorities to let him have the painting for the Orleans Collection in Paris. In 1771 the painting was transferred from wooden panel to canvas and some of the pigments have as a result lost their brightness, most notably the red of Christ's robe, which has turned pink. In the early 19th century The Raising of Lazarus was part of the collection of the London banker John Julius Angerstein. When the Angerstein collection was bought by the British government in 1824 for the foundation of the National Gallery the canvas was catalogued as NG1, making it officially the first painting to enter the National Gallery.</field>
+<field name="label">The Raising of Lazarus (Sebastiano del Piombo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c5/Sebastiano_del_Piombo.jpg</field>
+<field name="comment">The Raising of Lazarus is a large altarpiece by the Italian High Renaissance artist Sebastiano del Piombo. It is housed in the National Gallery of London, England.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Sebastiano_del_Piombo.jpg/200px-Sebastiano_del_Piombo.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=ng1</field>
+<field name="artist"/>
+<field name="height">381</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Raising of Lazarus</field>
+<field name="type">Oil on canvas</field>
+<field name="width">299</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Resurrezione_di_Lazzaro_(Sebastiano_del_Piombo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Raising_of_Lazarus_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3933578</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Raising_of_Lazarus_(Sebastiano_del_Piombo)</field>
+</doc>
+</add>

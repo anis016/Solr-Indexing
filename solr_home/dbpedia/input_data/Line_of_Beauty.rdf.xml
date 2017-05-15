@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Line_Of_Beauty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Line_of_beauty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Line_of_Beauty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Line_of_Beauty</field>
+<field name="sameAs">http://dbpedia.org/resource/Line_of_Beauty</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4048665</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/S-образная_линия</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026_bk9</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_history</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Aesthetic_beauty</field>
+<field name="abstract">The Line of Beauty is a term and a theory in art or aesthetics used to describe an S-shaped curved line appearing within an object, as the boundary line of an object, or as a virtual boundary line formed by the composition of several objects. This theory originated with William Hogarth (18th century English painter, satirist, and writer), and is an essential part of Hogarth's theory of Aesthetics as described in his Analysis of Beauty (1753). According to this theory, S-Shaped curved lines signify liveliness and activity and excite the attention of the viewer as contrasted with straight lines, parallel lines, or right-angled intersecting lines which signify stasis, death, or inanimate objects. In contrast to grand compositional lines, which are regularly found in Baroque or Rococo art, the serpentine line is not primarily dictating the whole composition of a canvas. Instead, the line should be understood as being found in parts; a composition is created by employing various kinds of lines in various relations to each other without destroying its simplicity.</field>
+<field name="label">Line of Beauty</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2e/Sign-painter-Beer_Street.jpg</field>
+<field name="comment">The Line of Beauty is a term and a theory in art or aesthetics used to describe an S-shaped curved line appearing within an object, as the boundary line of an object, or as a virtual boundary line formed by the composition of several objects. This theory originated with William Hogarth (18th century English painter, satirist, and writer), and is an essential part of Hogarth's theory of Aesthetics as described in his Analysis of Beauty (1753).</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Sign-painter-Beer_Street.jpg/200px-Sign-painter-Beer_Street.jpg</field>
+<field name="link_external">http://books.google.cz/books?id=szQGAAAAQAAJ&amp;printsec=frontcover&amp;dq=William+Hogarth,+The+Analysis+of+Beauty&amp;source=bl&amp;ots=rmYk1MGehJ&amp;sig=FI9NxnL3WKymnbqZJodx4keYvSQ&amp;hl=cs&amp;ei=RVb8TL64No-v8QPC5vz0Cw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3&amp;ved=0CCsQ6AEwAg#v=onepage&amp;q&amp;f=false</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Line_of_Beauty</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Line_of_Beauty</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Line_of_Beauty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Line_of_Beauty</field>
+</doc>
+</add>

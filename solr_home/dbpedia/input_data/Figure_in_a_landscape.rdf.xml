@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Figure_in_a_landscape</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Figure_in_a_landscape</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Figura_in_un_paesaggio</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3744872</field>
+<field name="sameAs">http://dbpedia.org/resource/Figure_in_a_landscape</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fn83d</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francis_Bacon</field>
+<field name="abstract">Figure in a landscape is a 1945 painting by the Irish born artist Francis Bacon. Based on a photograph of Eric Hall dozing on a seat in Hyde Park, also the basis of another painting held in the Lefevre Figure in a landscape (1945) which was bought by Diana Watson and later in 1950 by the Tate gallery (with the support of Graham Sutherland, then a trustee . Figure Study was destroyed; "Figure Study I2 and "Figure Study II" are from 1945 or 1946. Study for Man with Microphones was shown at the Lefevre gallery,, and at the Anglo-French Art Centre, . Bacon was clearly unhappy with this picture: it was listed as an abandoned work in the 1964 catalogue raisonné, and was passed on to the Estate in 1992 as a slashed canvas. At some point in 1947–1948, Bacon returned to make a second version, Study for Man with Microphones . Crucifixion was shown at the Summer Exhibition at the Redfern Gallery, 19/20 Cork Street, London, and bought by Sir Colin Anderson.</field>
+<field name="label">Figure in a landscape</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2c/Figure_in_a_Landscape_(1945).jpg</field>
+<field name="comment">Figure in a landscape is a 1945 painting by the Irish born artist Francis Bacon. Based on a photograph of Eric Hall dozing on a seat in Hyde Park, also the basis of another painting held in the Lefevre Figure in a landscape (1945) which was bought by Diana Watson and later in 1950 by the Tate gallery (with the support of Graham Sutherland, then a trustee . Figure Study was destroyed; "Figure Study I2 and "Figure Study II" are from 1945 or 1946.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Figure_in_a_Landscape_(1945).jpg/200px-Figure_in_a_Landscape_(1945).jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Figure_in_a_landscape</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Figure_in_a_landscape</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Figura_in_un_paesaggio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Figure_in_a_landscape</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Figure_in_a_landscape</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Figure_in_a_landscape</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3744872</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Figure_in_a_landscape</field>
+</doc>
+</add>

@@ -1,0 +1,108 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Épiphanie_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_dell'Adorazione_dei_Magi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Epiphany_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Épiphanie_(Bosch)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2276130</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0261930</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Adoración_de_los_Magos_(El_Bosco)</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/მოგვთა_თაყვანისცემა_(ტრიპტიქი)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Epiphany_(Bosch)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Поклонение_волхвов_(триптих_Босха)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_dell'Adorazione_dei_Magi</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Driekoningen-drieluik</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Поклоніння_волхвів_(триптих,_Босх)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Adoration_of_the_Magi_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="abstract">The Epiphany is an oil painting on wood panels triptych painted by Hieronymus Bosch around the year 1495. This triptych is also sometimes referred to as "The Adoration of the Magi". The centre panel measures 138 x 72 cm, and the wings measure 138 x 34 cm. The original version hangs in the Prado Museum in Madrid and another version (copy) in the Philadelphia Museum of Art, Philadelphia. It is not to be confused with the 74 x 54 cm Bosch painting of the name Epiphany, which may have been a working model for the triptych The Epiphany.</field>
+<field name="label">The Epiphany (Bosch)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/41/BoschTheEpiphanyTriptychLeftPanel.jpg</field>
+<field name="comment">The Epiphany is an oil painting on wood panels triptych painted by Hieronymus Bosch around the year 1495. This triptych is also sometimes referred to as "The Adoration of the Magi". The centre panel measures 138 x 72 cm, and the wings measure 138 x 34 cm. The original version hangs in the Prado Museum in Madrid and another version (copy) in the Philadelphia Museum of Art, Philadelphia.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/BoschTheEpiphanyTriptychLeftPanel.jpg/200px-BoschTheEpiphanyTriptychLeftPanel.jpg</field>
+<field name="artist"/>
+<field name="height">74</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum"/>
+<field name="title">Epiphany</field>
+<field name="type">oil on panel</field>
+<field name="width">54</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Epiphany_(Bosch)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Epiphany_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Adoración_de_los_Magos_(El_Bosco)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Поклонение_волхвов_(триптих_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Epiphany</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Epiphany_(Bosch_triptych)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Epiphany_(Bosch_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Driekoningen-drieluik</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2276130</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/მოგვთა_თაყვანისცემა_(ტრიპტიქი)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Поклоніння_волхвів_(триптих,_Босх)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Epiphany_(Bosch)</field>
+</doc>
+</add>

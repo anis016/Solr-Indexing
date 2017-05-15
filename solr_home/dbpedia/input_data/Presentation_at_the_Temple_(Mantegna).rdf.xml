@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Présentation_au_Temple_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Presentation_at_the_Temple_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Presentazione_al_Tempio_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Presentation_at_the_Temple_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Presentation_at_the_Temple_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Presentation_at_the_Temple_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Presentation_at_the_Temple_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h55n1h</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Présentation_au_Temple_(Mantegna)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Presentazione_al_Tempio_(Mantegna)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3212033</field>
+<field name="sameAs">http://dbpedia.org/resource/Presentation_at_the_Temple_(Mantegna)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Presentation_at_the_Temple_(Mantegna)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="abstract">The Presentation at the Temple is painting by the Italian Renaissance artist Andrea Mantegna. Dating to c. 1455, it is housed in the Gemäldegalerie, Berlin, Germany.</field>
+<field name="label">Presentation at the Temple (Mantegna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/55/MantegnaPresentazione.jpg</field>
+<field name="comment">The Presentation at the Temple is painting by the Italian Renaissance artist Andrea Mantegna. Dating to c. 1455, it is housed in the Gemäldegalerie, Berlin, Germany.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/MantegnaPresentazione.jpg/200px-MantegnaPresentazione.jpg</field>
+<field name="artist"/>
+<field name="height">68.9</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="title">Presentation at the Temple</field>
+<field name="type">Tempera on canvas</field>
+<field name="width">86.3</field>
+<field name="year">c. 1455</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Presentation_at_the_Temple_(Mantegna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Presentation_at_the_Temple_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3212033</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Presentation_at_the_Temple_(Mantegna)</field>
+</doc>
+</add>

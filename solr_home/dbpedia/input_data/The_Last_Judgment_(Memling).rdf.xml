@@ -1,0 +1,110 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_Juicio_Final_(Memling)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_Judici_Final_(Memling)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dtwm3</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Sąd_Ostateczny_(obraz_Hansa_Memlinga)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Jüngste_Gericht_(Hans_Memling)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Jugement_dernier_(Hans_Memling)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Het_laatste_oordeel_(Hans_Memling)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_di_Danzica</field>
+<field name="sameAs">http://csb.dbpedia.org/resource/Slédny_Sąd_(òbrôz)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Страшный_суд_(Мемлинг)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Страшний_суд_(Мемлінг)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q701035</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Last_Judgment_(Memling)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hans_Memling</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1471_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="abstract">The Last Judgment is a triptych attributed to German painter Hans Memling and painted between 1467 and 1471. It is now in the National Museum in Gdańsk in Poland. It was commissioned by Angelo Tani, an agent of the Medici at Bruges, but was captured by a privateer from Danzig, Poland. (A lengthy lawsuit against the Hanseatic League demanded its return to Italy. ) It was placed in the Basilica of the Assumption but in the 20th century it was moved to its present location. The central panel shows Jesus sitting in Judgment on the world, while St Michael the Archangel is weighing souls and driving the damned towards Hell. (The sinner in St. Michael's right-hand scale pan is a donor portrait of Tommaso Portinari. ) On the left hand panel, the saved are being guided into Heaven by St Peter and Angels. On the right-hand panel, the damned are being dragged to Hell.</field>
+<field name="label">The Last Judgment (Memling)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c9/Das_Jüngste_Gericht_(Memling).jpg</field>
+<field name="comment">The Last Judgment is a triptych attributed to German painter Hans Memling and painted between 1467 and 1471. It is now in the National Museum in Gdańsk in Poland. It was commissioned by Angelo Tani, an agent of the Medici at Bruges, but was captured by a privateer from Danzig, Poland. (A lengthy lawsuit against the Hanseatic League demanded its return to Italy. ) It was placed in the Basilica of the Assumption but in the 20th century it was moved to its present location.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Das_Jüngste_Gericht_(Memling).jpg/200px-Das_Jüngste_Gericht_(Memling).jpg</field>
+<field name="link_external">http://diglib.lib.byu.edu/u?/Civilization,809</field>
+<field name="link_external">http://web.archive.org/web/20070701003920/http:/www.muzeum.narodowe.gda.pl/last_judgement.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Last_Judgment_(Memling)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Jüngste_Gericht_(Hans_Memling)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Jugement_dernier_(Hans_Memling)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_di_Danzica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_Juicio_Final_(Memling)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Страшный_суд_(Мемлинг)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Last_Judgment_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Last_Judgment_(Memling)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Sąd_Ostateczny_(obraz_Hansa_Memlinga)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Het_laatste_oordeel_(Hans_Memling)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q701035</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_Judici_Final_(Memling)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Страшний_суд_(Мемлінг)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+<doc>
+<field name="uri">http://csb.dbpedia.org/resource/Slédny_Sąd_(òbrôz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Memling)</field>
+</doc>
+</add>

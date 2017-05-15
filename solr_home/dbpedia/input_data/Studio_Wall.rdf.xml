@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Studio_Wall</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4279336</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Pared_del_estudio</field>
+<field name="sameAs">http://dbpedia.org/resource/Studio_Wall</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.080plzz</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Studio_Wall</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:German_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1872_paintings</field>
+<field name="abstract">Studio Wall (1872) is an oil painting by the German artist Adolph Menzel, now in the collection of the Hamburger Kunsthalle. It is considered one of the "masterpieces of Menzel's maturity", and the artist deemed it his best painting. The painting depicts a red colored wall of the artist's studio at night, upon which are hung a series of plaster casts illuminated from below. The casts include portrait busts, death masks and life masks of friends of the artist, children, classical personae such as Dante, Schiller, and possibly Goethe or Wagner, a dog, and male and female torsos; art historian Werner Hoffmann saw this assemblage as a conscious blurring of "the dividing line between fame and anonymity. " Numerous commentators have noted that the array of dramatically lit casts "convey an uncanny impression of quasi-animateness. " Studio Wall was preceded by a work of the same title painted in 1852, an oil on paper now in the Alte Nationalgalerie in Berlin. That painting features casts of two arms and a separate hand, the arms arranged so as to suggest a relationship to a body from which they have been removed. Studio Wall is also seen as related to Menzel's larger painting Iron Rolling Mill (1872–1875), for which it may have served as a study in dramatic lighting, yet it has greater import than that of a merely preparatory exercise, and may have functioned as a kind of memorial: the central death mask is that of the artist's friend Friedrich Eggers, the first critic sympathetic to Menzel's work. Eggers died in August 1872, and the painting is dated from October of that year. A contemplation on the transience of life, Studio Wall is also a bravura piece of alla prima painting. Interpretations of the work vary greatly. For art historian Julius Meier-Graefe, Studio Wall was a harmonious example of pictorial unity; to the contrary, Hoffmann saw the painting as a "coded manifesto", a rejection by Menzel of academic canons in favor of an aesthetic that celebrated the fragmentary and disjointed, and symbolic of the triumph of painting over sculpture. Fried rejects Hoffman's view of fragmentariness and anti-academicism, seeing the picture as a structured composition of objects arranged in successive rows. For Fried the likeliest allegorical meaning would be the sublimation of tangible existence to that of "phantasmagorias", a world inhabited by ghosts in the form of plaster casts.</field>
+<field name="label">Studio Wall</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/37/Menzel,_Adolph_von_-_The_Studio_Wall_-_1872.jpg</field>
+<field name="comment">Studio Wall (1872) is an oil painting by the German artist Adolph Menzel, now in the collection of the Hamburger Kunsthalle. It is considered one of the "masterpieces of Menzel's maturity", and the artist deemed it his best painting. The painting depicts a red colored wall of the artist's studio at night, upon which are hung a series of plaster casts illuminated from below.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Menzel,_Adolph_von_-_The_Studio_Wall_-_1872.jpg/200px-Menzel,_Adolph_von_-_The_Studio_Wall_-_1872.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Adolph_Menzel</field>
+<field name="city">http://dbpedia.org/resource/Hamburg</field>
+<field name="height">111</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Kunsthalle_Hamburg</field>
+<field name="title">Studio Wall</field>
+<field name="width">79.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Studio_Wall</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Studio_Wall</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Studio_Wall</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Studio_Wall</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Pared_del_estudio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Studio_Wall</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4279336</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Studio_Wall</field>
+</doc>
+</add>

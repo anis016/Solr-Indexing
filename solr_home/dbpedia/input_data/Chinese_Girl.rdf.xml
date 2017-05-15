@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Chinese_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Chinese_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chinese_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Chinese_Girl</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5100468</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmt0z</field>
+<field name="sameAs">http://dbpedia.org/resource/Chinese_Girl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vladimir_Tretchikoff</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_people</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1950_paintings</field>
+<field name="abstract">The Chinese Girl (often popularly known as The Green Lady) is a 1950 painting by Vladimir Tretchikoff. It became one of the world's most popular paintings when made into prints in the 1960s and 1970s, and is one of the world's best-selling art prints. The painting is of a Chinese girl and is best known for the unusual skin tone used for her face - a blue-green colour, which gives the painting its popular name "The Green Lady". The painting is Tretchikoff's second variation on the theme, after the first (using a different model) was destroyed in a robbery at the artist's studio in South Africa. The original sold for almost $1.5 million (£982,050) at Bonhams auction house in London on March 20, 2013. The painting was purchased by British jeweller Laurence Graff and will go on public display in Stellenbosch, South Africa.</field>
+<field name="label">Chinese Girl</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/99/Chinese_girl_tretchikoff.jpg</field>
+<field name="comment">The Chinese Girl (often popularly known as The Green Lady) is a 1950 painting by Vladimir Tretchikoff. It became one of the world's most popular paintings when made into prints in the 1960s and 1970s, and is one of the world's best-selling art prints. The painting is of a Chinese girl and is best known for the unusual skin tone used for her face - a blue-green colour, which gives the painting its popular name "The Green Lady".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Chinese_girl_tretchikoff.jpg/200px-Chinese_girl_tretchikoff.jpg</field>
+<field name="link_external">http://mg.co.za/article/2011-05-20-face-to-with-the-woman-who-is-tretchis-chinese-girl</field>
+<field name="link_external">http://www.dailymail.co.uk/news/article-1394085/Revealed-60-years--real-Green-Lady-face-million-living-room-walls.html</field>
+<field name="link_external">http://news.bbc.co.uk/1/hi/magazine/5298060.stm?ls</field>
+<field name="artist">http://dbpedia.org/resource/Vladimir_Tretchikoff</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="title">Chinese Girl</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Chinese_Girl</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Chinese_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Chinese_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Green_Lady</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Monika_Sing-Lee</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5100468</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Chinese_Girl</field>
+</doc>
+</add>

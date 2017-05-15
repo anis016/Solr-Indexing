@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_Writing_Child</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3842560</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_with_Writing_Child</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmg9c4</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_col_Bambino_scrivente</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Writing_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pinturicchio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Philadelphia_Museum_of_Art</field>
+<field name="abstract">The Madonna with Writing Child is a painting by the Italian Renaissance master Pinturicchio, painted around 1494-1498 and housed in the Philadelphia Museum of Art, in the United States. The painting is derived from the Madonna of the Peace (c. 1490), a simplification for a less acculturated commissioner, perhaps a private family. The Virgin sits on a kind of cask, and is offering a book to the Child, who writes on it. The garments of the Child are perhaps inspired by the late Byzantine mosaics seen by Pinturicchio in Rome. In the background is a small depiction of the Flight into Egypt and two symmetrical trees, one which is a palm, a symbol of martyrdom.</field>
+<field name="label">Madonna with Writing Child</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d6/Pinturicchio,_madonna_col_bambino_scrivente,_1494-98,_61x41,6_cm,_philadelphia,_museum_of_art.jpg</field>
+<field name="comment">The Madonna with Writing Child is a painting by the Italian Renaissance master Pinturicchio, painted around 1494-1498 and housed in the Philadelphia Museum of Art, in the United States. The painting is derived from the Madonna of the Peace (c. 1490), a simplification for a less acculturated commissioner, perhaps a private family. The Virgin sits on a kind of cask, and is offering a book to the Child, who writes on it.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Pinturicchio,_madonna_col_bambino_scrivente,_1494-98,_61x41,6_cm,_philadelphia,_museum_of_art.jpg/200px-Pinturicchio,_madonna_col_bambino_scrivente,_1494-98,_61x41,6_cm,_philadelphia,_museum_of_art.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">61</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum"/>
+<field name="title">Madonna with Writing Child</field>
+<field name="type">Oil  on panel</field>
+<field name="width">41.6</field>
+<field name="year">c. 1494-1498</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_with_Writing_Child</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_with_Writing_Child</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_col_Bambino_scrivente</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Writing_Child</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_with_Writing_Child</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_with_Writing_Child</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3842560</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Writing_Child</field>
+</doc>
+</add>

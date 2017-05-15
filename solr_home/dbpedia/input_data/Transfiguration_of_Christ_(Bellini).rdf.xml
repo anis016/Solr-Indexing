@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Transfiguration_of_Christ_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Transfiguration_of_Christ_(Bellini)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trasfigurazione_di_Cristo_(Giovanni_Bellini_Napoli)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_transfiguración_(Bellini,_Nápoles)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3997723</field>
+<field name="sameAs">http://dbpedia.org/resource/Transfiguration_of_Christ_(Bellini)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02ryz_0</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Bellini</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Museum_of_Capodimonte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="abstract">Transfiguration of Christ is the subject of two paintings by the Italian Renaissance master Giovanni Bellini, who finished them, respectively, in 1454-1460 and 1480. The earlier version is on display in the Museo Correr of Venice; the later one is now housed in the Capodimonte Gallery of Naples, Italy.</field>
+<field name="label">Transfiguration of Christ (Bellini)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a5/The-Transfiguration-1480-xx-Giovanni-Bellini.JPG</field>
+<field name="comment">Transfiguration of Christ is the subject of two paintings by the Italian Renaissance master Giovanni Bellini, who finished them, respectively, in 1454-1460 and 1480. The earlier version is on display in the Museo Correr of Venice; the later one is now housed in the Capodimonte Gallery of Naples, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/The-Transfiguration-1480-xx-Giovanni-Bellini.JPG/200px-The-Transfiguration-1480-xx-Giovanni-Bellini.JPG</field>
+<field name="artist">http://dbpedia.org/resource/Giovanni_Bellini</field>
+<field name="city">http://dbpedia.org/resource/Naples</field>
+<field name="height">116</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_di_Capodimonte</field>
+<field name="title">Transfiguration of Christ</field>
+<field name="width">154</field>
+<field name="year">c. 1480</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Transfiguration_of_Christ_(Bellini)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Transfiguration_of_Christ_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Transfiguration</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Transfiguration_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_transfiguración_(Bellini,_Nápoles)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Transfiguration_of_Christ_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trasfigurazione_di_Cristo_(Giovanni_Bellini_Napoli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Transfiguration_of_Christ_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Transfiguration_of_Christ_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Transfiguration_of_Christ_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3997723</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Transfiguration_of_Christ_(Bellini)</field>
+</doc>
+</add>

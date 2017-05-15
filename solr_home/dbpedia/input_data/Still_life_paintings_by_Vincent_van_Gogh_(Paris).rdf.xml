@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Paris)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Paris)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtxvzb</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Paris)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7617209</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Paris</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1886_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Still life paintings by Vincent van Gogh (Paris) is the subject of many drawings, sketches and paintings by Vincent van Gogh in 1886 and 1887 after he moved to Paris from the Netherlands. While in Paris, Van Gogh transformed the subjects, color and techniques that he used in creating still life paintings. He saw the work and met the founders and key artists of Impressionism, Pointillism and other movements and began incorporating what he learned into his work. Japanese art, Ukiyo-e, and woodblock prints also influenced his approach to composition and painting. There was a gradual change from the somber mood of his work in the Netherlands to a far more varied and expressive approach as he began introducing brighter color into his work. He painted many still life paintings of flowers, experimenting with color, light and techniques he learned from several different modern artists before moving on to other subjects. By 1887 his work incorporated several elements of modern art as he began to approach his mature oeuvre. Excellent examples are the Pairs of Shoes paintings, where in the space of four paintings one can observe the difference between the first pair of boots made in 1886, similar to some of his earlier peasant paintings from Nuenen, to the painting made in 1887 that incorporates complimentary, contrasting colors and use of light. Another example are the Blue Vases paintings made in 1887 that incorporate both color and technique improvements that result in uplifting, colorful paintings of flowers. With the spring of 1887 Van Gogh left the city proper for a visit to Asnières with his friend Émile Bernard. While there his work was further transformed stylistically and through the use of bright, contrasting color and light. See his works from Asnières and Seine.</field>
+<field name="label">Still life paintings by Vincent van Gogh (Paris)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/22/Vincent_Willem_van_Gogh_124.jpg</field>
+<field name="comment">Still life paintings by Vincent van Gogh (Paris) is the subject of many drawings, sketches and paintings by Vincent van Gogh in 1886 and 1887 after he moved to Paris from the Netherlands. While in Paris, Van Gogh transformed the subjects, color and techniques that he used in creating still life paintings. He saw the work and met the founders and key artists of Impressionism, Pointillism and other movements and began incorporating what he learned into his work.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Vincent_Willem_van_Gogh_124.jpg/200px-Vincent_Willem_van_Gogh_124.jpg</field>
+<field name="link_external">http://books.google.com/books?id=GYjNXXX_h_AC</field>
+<field name="link_external">http://books.google.com/books?id=95ydh8dDth8C</field>
+<field name="link_external">http://books.google.com/books?id=8c9jt9AToD0C</field>
+<field name="link_external">http://books.google.com/books?id=iy7orpwfvFEC</field>
+<field name="link_external">http://books.google.com/books?id=oCj6gVt5qyUC</field>
+<field name="link_external">http://books.google.com/books?id=lqSjxGgvVMMC</field>
+<field name="link_external">http://www.vangoghmuseum.nl/vgm/index.jsp?page=2230&amp;collection=621&amp;lang=en</field>
+<field name="link_external">http://books.google.com/books?id=G5gPqjJ9Ws4C&amp;pg=PT27</field>
+<field name="link_external">http://books.google.com/books?id=KRbgR7QtwvgC</field>
+<field name="link_external">http://books.google.com/books?id=wf_PoXKhggkC</field>
+<field name="link_external">http://books.google.com/books?id=_HvvB-xrxxUC</field>
+<field name="link_external">http://books.google.com/books?id=OXpgapo52p8C</field>
+<field name="width">166</field>
+<field name="width">150</field>
+<field name="width">157</field>
+<field name="width">154</field>
+<field name="width">134</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Still_life_paintings_by_Vincent_van_Gogh_(Paris)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Still_life_paintings_by_Vincent_van_Gogh_(Paris)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_life_by_Vincent_van_Gogh_(Paris)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Still_life_paintings_by_Vincent_van_Gogh_(Paris)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Paris)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7617209</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_life_paintings_by_Vincent_van_Gogh_(Paris)</field>
+</doc>
+</add>

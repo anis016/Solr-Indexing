@@ -1,0 +1,125 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Oddi_Altarpiece_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retablo_Oddi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_degli_Oddi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Oddi_Altar_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ołtarz_Oddich</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Oddi_Altarı_(Rafael)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2344357</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bq5kp</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ołtarz_Oddich</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Oddi_Altarpiece_(Raphael)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retablo_Oddi</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ฉากประดับแท่นบูชาออดดี_(ราฟาเอล)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Вівтар_Одді</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Алтарь_Одди</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Korunovanie_Panny_Márie_(Raffael)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_degli_Oddi</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_Oddi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Vatican_Museums</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="abstract">The Oddi Altarpiece is an altarpiece of the Coronation of the Virgin painted in 1502-1504 by the Italian Renaissance master Raphael for the altar of the Oddi family chapel in the church of San Francesco al Prato in Perugia, Italy, now in the Vatican Pinacoteca.</field>
+<field name="label">Oddi Altarpiece (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c4/PalaOddiRaffaello.jpg</field>
+<field name="comment">The Oddi Altarpiece is an altarpiece of the Coronation of the Virgin painted in 1502-1504 by the Italian Renaissance master Raphael for the altar of the Oddi family chapel in the church of San Francesco al Prato in Perugia, Italy, now in the Vatican Pinacoteca.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/PalaOddiRaffaello.jpg/200px-PalaOddiRaffaello.jpg</field>
+<field name="link_external">http://www.sistinechapel.va/3_EN/pages/PIN/PIN_Sala08_02.html</field>
+<field name="link_external">http://www.sistinechapel.va/3_EN/pages/x-Schede/PINs/PINs_Sala08_01_036.html</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/r/raphael/1early/04oddi.html</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/r/raphael/1early/04oddi1.html</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/r/raphael/1early/04oddi2.html</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/r/raphael/1early/04oddi3.html</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Vatican_City</field>
+<field name="height">267</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Vatican_Museums</field>
+<field name="title">The crowning of the virgin</field>
+<field name="width">163</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Oddi_Altarpiece_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_Oddi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Oddi_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Oddi_altar_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Алтарь_Одди</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2344357</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Oddi_Altarı_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Korunovanie_Panny_Márie_(Raffael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ฉากประดับแท่นบูชาออดดี_(ราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Вівтар_Одді</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Oddi_Altarpiece_(Raphael)</field>
+</doc>
+</add>

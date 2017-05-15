@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Man,_Controller_of_the_Universe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Man,_Controller_of_the_Universe</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Man,_Controller_of_the_Universe_or_Man_in_the_Time_Machine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Man,_Controller_of_the_Universe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6746081</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025y9mh</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Man,_Controller_of_the_Universe</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_hombre_controlador_del_universo</field>
+<field name="sameAs">http://dbpedia.org/resource/Man,_Controller_of_the_Universe</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mexican_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1934_paintings</field>
+<field name="abstract">Man, Controller of the Universe is a 1934 mural by Diego Rivera in the Palacio de Bellas Artes in Mexico City. Its full title is Man, Controller of the Universe or Man in the Time Machine . The mural is a recreation of Man at the Crossroads, which was commissioned by Nelson Rockefeller for the Rockefeller Center. Rockefeller had the original destroyed when Rivera refused to remove a portrait of Lenin from the mural. In Man, Controller of the Universe, Diego Rivera presents a myriad of images, including those of Leon Trotsky and Lenin. All of these images represent the state of the world in the 1930s.</field>
+<field name="label">Man, Controller of the Universe</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/94/Palacio_de_Bellas_Artes_-_Mural_El_Hombre_in_cruce_de_caminos_Rivera_3.jpg</field>
+<field name="comment">Man, Controller of the Universe is a 1934 mural by Diego Rivera in the Palacio de Bellas Artes in Mexico City. Its full title is Man, Controller of the Universe or Man in the Time Machine . The mural is a recreation of Man at the Crossroads, which was commissioned by Nelson Rockefeller for the Rockefeller Center. Rockefeller had the original destroyed when Rivera refused to remove a portrait of Lenin from the mural.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Palacio_de_Bellas_Artes_-_Mural_El_Hombre_in_cruce_de_caminos_Rivera_3.jpg/200px-Palacio_de_Bellas_Artes_-_Mural_El_Hombre_in_cruce_de_caminos_Rivera_3.jpg</field>
+<field name="link_external">http://personal.lse.ac.uk/Morett/Various.images/man%20at%20the%20crossroads%20rivera.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Man,_Controller_of_the_Universe</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Man,_Controller_of_the_Universe</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_hombre_controlador_del_universo_o_El_hombre_en_la_m%C3%A1quina_del_tiempo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_hombre_controlador_del_universo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Man,_Controller_of_the_Universe</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6746081</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Man,_Controller_of_the_Universe</field>
+</doc>
+</add>

@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hiroshima_Nagasaki_One-Minute</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hiroshima_Nagasaki_One-Minute</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hiroshima_Nagasaki_One-Minute</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hiroshima_Nagasaki_One-Minute</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hiroshima_Nagasaki_One-Minute</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvs867</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5771261</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1979_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1978_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Hiroshima Nagasaki One-Minute is the subject of two mural-scale paintings made by Nabil Kanso in 1978-79. One is titled 49-Second (Hiroshima) done in oil on canvas measuring 3 X 5.50 meters (10 X 18 feet), the other 11-Seconds (Nagasaki) oil-on-canvas triptych measuring 3 X 4.60 meters (10 X 14 feet) center, and 2.75 X 1.32 meters (9 X 6 feet) each side.</field>
+<field name="label">Hiroshima Nagasaki One-Minute</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6e/Hiroshima_49_Seconds.jpg</field>
+<field name="comment">Hiroshima Nagasaki One-Minute is the subject of two mural-scale paintings made by Nabil Kanso in 1978-79. One is titled 49-Second (Hiroshima) done in oil on canvas measuring 3 X 5.50 meters (10 X 18 feet), the other 11-Seconds (Nagasaki) oil-on-canvas triptych measuring 3 X 4.60 meters (10 X 14 feet) center, and 2.75 X 1.32 meters (9 X 6 feet) each side.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Hiroshima_49_Seconds.jpg/200px-Hiroshima_49_Seconds.jpg</field>
+<field name="link_external">http://hiroshima49seconds.com</field>
+<field name="artist">http://dbpedia.org/resource/Nabil_Kanso</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="title">Hiroshima 49 Seconds</field>
+<field name="type">oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hiroshima_Nagasaki_One-Minute</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hiroshima_Nagasaki_One-Minute</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5771261</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hiroshima_Nagasaki_One-Minute</field>
+</doc>
+</add>

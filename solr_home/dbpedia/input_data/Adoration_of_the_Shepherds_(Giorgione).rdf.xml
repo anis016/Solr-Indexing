@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Shepherds_(Giorgione)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pokłon_pasterzy_(obraz_Giorgionego)</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Giorgione)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_dei_pastori_Allendale</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rxcxc</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3605563</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgione</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nativity_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="abstract">The Adoration of the Shepherds, sometimes still known as the Allendale Nativity or "Adoration", after a former owner, is a painting by the Italian painter of the Renaissance Giorgione, in about 1500. The attribution is now usual, although not universal; the usual other view is that it is an early Titian. It is certainly a Venetian painting of that period. It is displayed in the National Gallery of Art of Washington, D.C. , United States. This work was probably completed by Giorgione while he was part of the workshop of Vincenzo Catena, a strict follower of Giovanni Bellini's style. Giorgione portrayed the main scene on the right, in front of a dark grotto, while on the left is bright landscape crowned by trees. A sincere dramatic tension is obtained by the choice to place the kneeling shepherd pilgrims in the centre of the painting. The entire group of parents, child, and pilgrim form an anchored rectangle that forms a counterpoised focal point to the receding landscape on the left. A group of paintings is sometimes described as the "Allendale group", after the Allendale Nativity. This group includes another Washington painting, the Holy Family, and an Adoration of the Magi predella panel in the National Gallery, London. This group, now often expanded to include another Adoration of the Shepherds in Vienna, and sometimes further, are usually included (increasingly) or excluded together from Giorgione's oeuvre. Ironically, the Allendale Nativity caused the rupture in the 1930s between Lord Duveen, who sold it to Samuel H. Kress as a Giorgione, and his expert Bernard Berenson, who insisted it was an early Titian, a view he changed at the end of his life. The naming of the painting is the main plot in the play The Old Masters (play). Dates given to the painting have varied - the NGA currently uses "c. 1500".</field>
+<field name="label">Adoration of the Shepherds (Giorgione)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e2/Giorgione_014.jpg</field>
+<field name="comment">The Adoration of the Shepherds, sometimes still known as the Allendale Nativity or "Adoration", after a former owner, is a painting by the Italian painter of the Renaissance Giorgione, in about 1500. The attribution is now usual, although not universal; the usual other view is that it is an early Titian. It is certainly a Venetian painting of that period. It is displayed in the National Gallery of Art of Washington, D.C. , United States.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Giorgione_014.jpg/200px-Giorgione_014.jpg</field>
+<field name="link_external">http://www.nga.gov/press/exh/191/invention.pdf</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">90.8</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Adoration of the Shepherds</field>
+<field name="type">Oil on panel</field>
+<field name="width">110.5</field>
+<field name="year">c. 1500</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Giorgione)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Shepherds_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_dei_pastori_Allendale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Allendale_Nativity</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pokłon_pasterzy_(obraz_Giorgionego)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3605563</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Giorgione)</field>
+</doc>
+</add>

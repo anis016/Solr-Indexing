@@ -1,0 +1,125 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Brera_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2460246</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Алтарь_Монтефельтро</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Brera_Madonna</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ฉากแท่นบูชาเบรรา</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Conversation_sacrée</field>
+<field name="sameAs">http://dbpedia.org/resource/Brera_Madonna</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Sacra_Conversación_(Piero_della_Francesca)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_z_Dzieciątkiem_w_otoczeniu_świętych</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_di_Brera</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Вівтар_Монтефельтро</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.055ct22</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Madona_so_svätcami,_anjelmi_a_Federicom_da_Montefeltro</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Pinacoteca_di_Brera</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piero_della_Francesca</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="abstract">The Brera Madonna (also known as the Pala di Brera, the Montefeltro Altarpiece or Brera Altarpiece) is a painting by the Italian Renaissance master Piero della Francesca, executed in 1472-1474. It is housed in the Pinacoteca di Brera of Milan, where it was deposited by Napoleon. The work, of a type known as a sacra conversazione, was commissioned by Federico III da Montefeltro, Duke of Urbino, to celebrate the birth of Federico's son, Guidobaldo. According to other sources, it would celebrate his conquest of several castles in the Maremma.</field>
+<field name="label">Brera Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9e/Piero_della_Francesca_046.jpg</field>
+<field name="comment">The Brera Madonna (also known as the Pala di Brera, the Montefeltro Altarpiece or Brera Altarpiece) is a painting by the Italian Renaissance master Piero della Francesca, executed in 1472-1474. It is housed in the Pinacoteca di Brera of Milan, where it was deposited by Napoleon. The work, of a type known as a sacra conversazione, was commissioned by Federico III da Montefeltro, Duke of Urbino, to celebrate the birth of Federico's son, Guidobaldo.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Piero_della_Francesca_046.jpg/200px-Piero_della_Francesca_046.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=493</field>
+<field name="artist">http://dbpedia.org/resource/Piero_della_Francesca</field>
+<field name="city">http://dbpedia.org/resource/Milan</field>
+<field name="height">248</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Brera Madonna</field>
+<field name="type">Tempera on panel</field>
+<field name="width">150</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Brera_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Brera_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_di_Brera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brera_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_z_Dzieciątkiem_w_otoczeniu_świętych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brera_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Алтарь_Монтефельтро</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brera_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Sacra_Conversación_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brera_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Brera_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Holy_Conversation_(Piero_Della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Holy_Conversation_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Montefeltro_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pala_di_Brera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Conversation_sacrée</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brera_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Brera_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Brera_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2460246</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brera_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Madona_so_svätcami,_anjelmi_a_Federicom_da_Montefeltro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brera_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ฉากแท่นบูชาเบรรา</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brera_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Вівтар_Монтефельтро</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brera_Madonna</field>
+</doc>
+</add>

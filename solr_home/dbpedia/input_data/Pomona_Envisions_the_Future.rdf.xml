@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pomona_Envisions_the_Future</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pomona_Envisions_the_Future</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Pomona_Envisions_the_Future</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04mzpzt</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7227387</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">Pomona Envisions the Future is a mural created through a community-based project named Envisioning the Future (E.T. F), which took place in the Pomona Arts Colony from 2002 to 2004 and included over 80 artists. The mural is 140' x 42' acrylic on prepared concrete substrate on the west side of the Union Block building. It consists of four walls at right angles to each other. The Envisioning the Future project was led by artist Judy Chicago, photographer Donald Woodman and Cal Poly Pomona. The mural was painted by lead artist and mural project facilitator Kevin Stewart-Magee, and Envisioning the Future artists/participants Lief Frederick, Sandra Gallegos, Cori Griffin-Ruiz, Rupert Hernandez, Lynne Kumra, Yolanda Londono, Amy Runyen, Chris Toovey, Mary Kay Wilson, Erin Campbell, Athena Hahn, Joy McAllister and Fred Stewart-Magee. Artists Magu and Judy Baca consulted on the project. Cheryl Bookout was the Envisioning the Future project coordinator. It depicts the history of the City of Pomona from its pre-European past, through its agricultural and industrial ages into its bright future which restores the land in balance with humans. The mural was restored and finally finished in 2008 with funds from the City of Pomona Board of Parking Place Commissioners. A bronze plaque from the Downtown Pomona Owners Association was added on October 4, 2008 at the re-dedication ceremony. The mural is located at the intersection of Thomas and Second Streets in downtown Pomona, California in the Pomona Arts Colony.</field>
+<field name="label">Pomona Envisions the Future</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/83/Goddessofpomonafull.jpg</field>
+<field name="comment">Pomona Envisions the Future is a mural created through a community-based project named Envisioning the Future (E.T. F), which took place in the Pomona Arts Colony from 2002 to 2004 and included over 80 artists. The mural is 140' x 42' acrylic on prepared concrete substrate on the west side of the Union Block building. It consists of four walls at right angles to each other. The Envisioning the Future project was led by artist Judy Chicago, photographer Donald Woodman and Cal Poly Pomona.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Goddessofpomonafull.jpg/200px-Goddessofpomonafull.jpg</field>
+<field name="link_external">http://www.pomonaenvisionsthefuture.com</field>
+<field name="link_external">http://www.pitzer.edu/news_center/campus_news/03-04-academic_year/2003_11_13-judychicago.asp</field>
+<field name="link_external">http://artscenecal.com/ArticlesFile/Archive/Articles2004/Articles0204/JChicagoB.html</field>
+<field name="link_external">http://www.throughtheflower.org/store/product.php?productid=46&amp;cat=5&amp;page=1</field>
+<field name="link_external">http://www.csupomona.edu/~library/specialcollections/envisioningfindingaid.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Pomona_Envisions_the_Future</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pomona_Envisions_the_Future</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Pomona_Envisions_the_Future</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Pomona_Envisions_the_Future</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7227387</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pomona_Envisions_the_Future</field>
+</doc>
+</add>

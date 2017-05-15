@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Francis_in_Meditation_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Francesco_in_meditazione_(Caravaggio_Cremona)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Francisco_en_oración_(Caravaggio,_Cremona)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_François_en_méditation_sur_le_crucifix</field>
+<field name="sameAs">http://th.dbpedia.org/resource/นักบุญฟรานซิสรำพึงธรรม_(การาวัจโจ)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2275371</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_Francis_in_Meditation_(Caravaggio)</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Meditation_(Caravaggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09dflx</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="abstract">Saint Francis in Meditation (c. 1604/06 or 1607/10), is a painting by the Italian master Caravaggio, in the Museo Civico, Cremona. This is one of two paintings of almost identical measurements showing Saint Francis of Assisi contemplating a skull - neither is documented and both are disputed, although the dispute is as to whether they are originals or copies. The dating of both is highly uncertain, although the cypress trunk behind this Saint Francis is very reminiscent of the tree behind the Corsini John the Baptist. St Francis was a popular subject during the Counter-Reformation, when the Church stressed - at least officially - the virtues of poverty and the imitation of Christ.</field>
+<field name="label">Saint Francis in Meditation (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e9/CaravaggioFrancisContemplation.jpg</field>
+<field name="comment">Saint Francis in Meditation (c. 1604/06 or 1607/10), is a painting by the Italian master Caravaggio, in the Museo Civico, Cremona. This is one of two paintings of almost identical measurements showing Saint Francis of Assisi contemplating a skull - neither is documented and both are disputed, although the dispute is as to whether they are originals or copies.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/CaravaggioFrancisContemplation.jpg/200px-CaravaggioFrancisContemplation.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/96665</field>
+<field name="artist"/>
+<field name="height">130</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">St Francis in Meditation</field>
+<field name="type">Oil on canvas</field>
+<field name="width">90</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_Francis_in_Meditation_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_Francis_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_Francis_in_Meditation_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_Francis_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Francis_in_Meditation(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Francisco_en_oración_(Caravaggio,_Cremona)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_François_en_méditation_sur_le_crucifix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Francesco_in_meditazione_(Caravaggio_Cremona)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2275371</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Meditation_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/นักบุญฟรานซิสรำพึงธรรม_(การาวัจโจ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Francis_in_Meditation_(Caravaggio)</field>
+</doc>
+</add>

@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Visión_fantástica_o_Asmodea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Asmodea</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fantastic_Vision</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Asmodea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Asmodeusz_(obraz_Goi)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Асмодей_(картина_Гойи)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqlv4j</field>
+<field name="sameAs">http://dbpedia.org/resource/Asmodea</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q959628</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Visión_fantástica_o_Asmodea</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Asmodea</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">transferred to linen. Museo del Prado, Madrid]] Asmodea or Fantastic Vision are names given to a fresco painting likely completed between 1820–1823 by the Spanish artist Francisco Goya. It shows two flying figures hovering over a landscape dominated by a large tabled mountain. Asmodea is one of Goya's 14 "Black Paintings" - his last major series- which, in mental and physical despair, he painted at the end of his life directly onto the walls of his house, the Quinta del Sordo, outside Madrid. No written or oral record survives as to the series' intended meaning, and it is probable that they were never intended to be seen by those outside his then small immediate circle. Goya did not name any of the works in the series; the title of Asmodea was later given by his friend, the Spanish painter Antonio Brugada. The title is likely a feminine naming of the demon king Asmodeus from the Book of Tobias. Asmodeus also appears in the myth of the Greek Titan Prometheus, in which the goddess Minerva carries him to the Caucasus mountains. Two figures, one male and one female, are shown airborne, hovering above a broad landscape. The woman wears a white dress covered by a red-rose coloured robe. Both seem fearful, she covers the lower half of her face with her robe, his face is deeply disturbed. They are each looking in opposite directions, while he points to a town on top of a mountain on the right of the canvas. Critic Evan Connell notes that the mountain's shape resembles Gibraltar, a refuge for Spanish liberals during the aftermath of the Peninsular War. In the foreground, a row of French soldiers, resembling those from Goya's 1814 The Third of May 1808, take aim at a group of people passing in the lower distance. This group is traveling with horses and wagons, and are perhaps refugees fleeing from the earlier war with France, the victims of whom Goya had detailed so closely in his "The Disasters of War". Writer Richard Cottrell has noted the similarity in the colouring of the 'livid' sky with another work from the "Black Painting" series, The Dog. The work bears similarity to Atropos and A Pilgrimage to San Isidro, in that it utilises an elliptical visual device to distort the viewer's perspective. In this case the robe of the male flyer - or Fate (Morirai) - brings him almost out of the canvas and much closer to the viewer than the female flyer. Like Atropos, this work is one of the only from the series in which its intended meaning can be deduced from its classical sources. This work was originally created on cloth hung on a wall, and like most of the others in the series, painted over an earlier version of the scene. Goya placed the work on the side walls of the upper floor of the Quinta. It was later transferred to canvas, and today is on permanent display with the other works from the series at the Museo del Prado, Madrid. According to writer Rolfh Kentish, it is an example of Goya's, "versatility and capacity to reflect large and small groups, darkness and light, the naked and the clothed, landscape and interior, animals, day-to-day themes and themes of the imagination and, sometimes, a strange mixture of the two."</field>
+<field name="label">Asmodea</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e0/Vision_fantástica_o_Asmodea_(Goya).jpg</field>
+<field name="comment">transferred to linen. Museo del Prado, Madrid]] Asmodea or Fantastic Vision are names given to a fresco painting likely completed between 1820–1823 by the Spanish artist Francisco Goya. It shows two flying figures hovering over a landscape dominated by a large tabled mountain. Asmodea is one of Goya's 14 "Black Paintings" - his last major series- which, in mental and physical despair, he painted at the end of his life directly onto the walls of his house, the Quinta del Sordo, outside Madrid.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Vision_fantástica_o_Asmodea_(Goya).jpg/200px-Vision_fantástica_o_Asmodea_(Goya).jpg</field>
+<field name="link_external">http://www.theartwolf.com/goya_black_paintings_extended.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Asmodea</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Asmodea</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Asmodea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Asmodea</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Asmodeusz_(obraz_Goi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Asmodea</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Асмодей_(картина_Гойи)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Asmodea</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q959628</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Asmodea</field>
+</doc>
+</add>

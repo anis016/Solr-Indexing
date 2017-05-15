@@ -1,0 +1,144 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/沉睡的吉普赛人</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_schlafende_Zigeunerin</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Uyuyan_Çingene</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Спящая_цыганка</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1219263</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Zingara_addormentata</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Den_sovende_sigøjner</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bxz11</field>
+<field name="sameAs">http://zu.dbpedia.org/resource/The_Sleeping_Gypsy</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Sleeping_Gypsy</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Śpiąca_Cyganka</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/眠るジプシー女</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_gitana_dormida</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הצוענייה_הנמה</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Bohémienne_endormie</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1897_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Rousseau</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lions_in_art</field>
+<field name="abstract">The Sleeping Gypsy is an 1897 oil painting by French Naïve artist Henri Rousseau. The fantastical depiction of a lion musing over a sleeping woman on a moonlit night is one of the most recognizable artworks of modern times. Rousseau first exhibited the painting at the 13th Salon des Indépendants, and tried unsuccessfully to sell it to the mayor of his hometown, Laval. Instead, it entered the private collection of a Parisian charcoal merchant where it remained until 1924, when it was discovered by the art critic Louis Vauxcelles. The Paris-based art dealer Daniel-Henry Kahnweiler purchased the painting in 1924, although a controversy arose over whether the painting was a forgery. It was acquired by art historian Alfred H. Barr Jr. for the New York Museum of Modern Art. The painting has served as inspiration for poetry and music, and has been altered and parodied by various artists often with the lion replaced by a dog or other animal. In the Simpsons episode "Mom and Pop Art" Homer dreams of waking up in the artwork with the lion licking his head. A print of the work appears in the movie "The Apartment" above the comatose Fran Kubelik.</field>
+<field name="label">The Sleeping Gypsy</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7e/Henri_Rousseau_010.jpg</field>
+<field name="comment">The Sleeping Gypsy is an 1897 oil painting by French Naïve artist Henri Rousseau. The fantastical depiction of a lion musing over a sleeping woman on a moonlit night is one of the most recognizable artworks of modern times. Rousseau first exhibited the painting at the 13th Salon des Indépendants, and tried unsuccessfully to sell it to the mayor of his hometown, Laval.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Henri_Rousseau_010.jpg/200px-Henri_Rousseau_010.jpg</field>
+<field name="link_external">http://www.moma.org/collection/provenance/items/646.39.html</field>
+<field name="link_external">http://www.SleepingGypsy.com''The</field>
+<field name="artist"/>
+<field name="height">129.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">The Sleeping Gypsy</field>
+<field name="type">oil on canvas</field>
+<field name="width">200.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Sleeping_Gypsy</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Bohémienne_endormie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_schlafende_Zigeunerin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Zingara_addormentata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Śpiąca_Cyganka</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Спящая_цыганка</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_gitana_dormida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/眠るジプシー女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sleeping_Gipsy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sleeping_Gypsy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Sleeping_Gypsy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sleeping_Gipsy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1219263</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/沉睡的吉普赛人</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Den_sovende_sigøjner</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הצוענייה_הנמה</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Uyuyan_Çingene</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+<doc>
+<field name="uri">http://zu.dbpedia.org/resource/The_Sleeping_Gypsy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sleeping_Gypsy</field>
+</doc>
+</add>

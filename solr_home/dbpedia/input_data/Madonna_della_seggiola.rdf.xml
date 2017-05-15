@@ -1,0 +1,107 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q966681</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Madona_della_Seggiola</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_de_la_silla</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_della_seggiola</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_à_la_chaise</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Madonna_della_seggiola</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_della_Seggiola</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025z0xf</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/小椅子の聖母</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_della_seggiola</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Virgo_sedeculae</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1514_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="abstract">-- 18:23, 3 March 2013 (UTC) Madonna della seggiola 300px Artist Raphael Year 1513-1514 Type Oil on panel Dimensions 71 cm × 71 cm Location Palazzo Pitti, Florence The Madonna della seggiola or Madonna della sedia is a Madonna painting by the Italian renaissance artist Raphael, dating to c. 1513-1514 and housed in the Palazzo Pitti collection in Florence. It depicts Mary embracing the child Christ, while the young John the Baptist devoutly watches. Painted during his Roman period, this Madonna does not have the strict geometrical form and linear style of his earlier Florentine treatments of the same subject. Instead, the warmer colors seem to suggest the influence of Titian and Raphael's rival Sebastiano del Piombo. Maria Montessori, Italian doctor and pioneer in pedagogy, wrote that it was her wish that the Madonna della seggiola hang in each Children's House (Montessori school) as a symbol of "humanity [St. John] rendering homage to maternity [Madonna Madonna]". Ingres greatly admired Raphael and paid tribute to him by including this painting in many of his works, such in the background of as and, on the table in front of the subject in his, and worked into the carpet in Napoleon I on his Imperial Throne.</field>
+<field name="label">Madonna della seggiola</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f2/Raffael_026.jpg</field>
+<field name="comment">-- 18:23, 3 March 2013 (UTC) Madonna della seggiola 300px Artist Raphael Year 1513-1514 Type Oil on panel Dimensions 71 cm × 71 cm Location Palazzo Pitti, Florence The Madonna della seggiola or Madonna della sedia is a Madonna painting by the Italian renaissance artist Raphael, dating to c. 1513-1514 and housed in the Palazzo Pitti collection in Florence. It depicts Mary embracing the child Christ, while the young John the Baptist devoutly watches.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Raffael_026.jpg/200px-Raffael_026.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">71</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Pitti</field>
+<field name="title">Madonna della seggiola</field>
+<field name="width">71</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_della_seggiola</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_della_seggiola</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_de_la_silla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_della_seggiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_della_seggiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_à_la_chaise</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_della_Seggiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_della_Sedia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_della_sedia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/小椅子の聖母</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q966681</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Virgo_sedeculae</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Madona_della_Seggiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Madonna_della_seggiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_seggiola</field>
+</doc>
+</add>

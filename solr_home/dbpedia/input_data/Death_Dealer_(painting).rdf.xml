@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_Dealer_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3020711</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_Dealer_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Death_Dealer_(painting)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Death_Dealer</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q8ln4</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1973_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fantasy_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Death Dealer is an iconic 1973 fantasy painting by Frank Frazetta. It depicts a menacing armor-clad warrior with a horned helmet, whose facial features are obscured by shadow, atop a horse, holding a bloody axe and shield. The image eventually led to spin-offs of varying merchandise, including subsequent paintings of the warrior, novels, statues, and most recently, a comic book, published by Image Comics, and related D&amp;D adventures, published by Goodman Games. Frazetta later painted several other Death Dealer paintings, including ones to be used as covers for the comic book series (see below).</field>
+<field name="label">Death Dealer (painting)</field>
+<field name="comment">Death Dealer is an iconic 1973 fantasy painting by Frank Frazetta. It depicts a menacing armor-clad warrior with a horned helmet, whose facial features are obscured by shadow, atop a horse, holding a bloody axe and shield. The image eventually led to spin-offs of varying merchandise, including subsequent paintings of the warrior, novels, statues, and most recently, a comic book, published by Image Comics, and related D&amp;D adventures, published by Goodman Games.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Death_Dealer_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Death_Dealer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Death_Dealer_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Death_Dealer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Death_Dealer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_Dealer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_Dealer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_Dealer_(comics)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3020711</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_Dealer_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Venus_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Knox_Martin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Venus_(mural)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Venus_(mural)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Venus_(mural)</field>
+<field name="sameAs">http://dbpedia.org/resource/Venus_(mural)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0288v_j</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7920560</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Public_art_in_New_York_City</field>
+<field name="abstract">Venus is a twelve-story-high mural painting by Knox Martin on the south side of Bayview Correctional Facility at 19th Street and 11th Avenue in New York City. Venus was commissioned by Doris Freedman of CityWalls in 1970. Knox Martin chose this wall for its unique location, over the West Side Highway, visible from the Verrazano Narrows Bridge, the Statue of Liberty, New Jersey, and the West Side Highway itself. Venus was restored in 1998 with the support of the Public Art Fund. A new weather-resistant acrylic paint developed in collaboration with the artist and donated by Golden Artist Colors was used, which will last at least 75 years. The prison is a facility of the New York State Department of Correctional Services. The Department made this statement in 2001: In 1970, prior to the rejuvenation of the district, Bayview's entire south wall was decorated with a red and pink abstract painting, called "Venus" by artist Knox Martin. The mural, conspicuous for its size and beauty, has often been used on post cards. It is also conspicuous - in a culture that regards large, exposed surface as prime advertising space - for not being a billboard. Not surprisingly, advertisers call from time to time with proposals to lease the wall for commercial messages, but Bayview doesn't want its beautiful Venus covered over with a beer or jeans ad. Besides, it's state property. Marilyn Kushner of the Brooklyn Museum wrote: Traditionally the goddess of love and fertility, Venus represents woman, erotic and supple, but it also conveys Knox Martin's love affair with New York. Venus is his love poem to the city where he has always lived, a place that is part of his being. The feminine, curvilinear shapes of the image are in direct contrast with the straight forms that intersect the composition. The overwhelming size of this enormous mural only intensifies the experience of female shapes, the linear aspects of the painted composition, and of the surrounding architecture. In an era when art was reaching out to the masses with pop culture, this huge mural was Knox Martin's way of touching a public that would never venture into an art gallery. Today, Venus is almost entirely obscured by the neighboring building 100 Eleventh Avenue, completed in 2010.</field>
+<field name="label">Venus (mural)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a4/Venus_Mural.JPG</field>
+<field name="comment">Venus is a twelve-story-high mural painting by Knox Martin on the south side of Bayview Correctional Facility at 19th Street and 11th Avenue in New York City. Venus was commissioned by Doris Freedman of CityWalls in 1970. Knox Martin chose this wall for its unique location, over the West Side Highway, visible from the Verrazano Narrows Bridge, the Statue of Liberty, New Jersey, and the West Side Highway itself. Venus was restored in 1998 with the support of the Public Art Fund.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Venus_Mural.JPG/200px-Venus_Mural.JPG</field>
+<field name="link_external">http://www.getty.edu/conservation/publications/pdf_publications/golden.pdf</field>
+<field name="link_external">http://www.knoxmartin.com</field>
+<field name="link_external">http://www.youtube.com/watch?v=pB0rLyPKwBA</field>
+<field name="link_external">http://www.publicartfund.org/view/exhibitions/5967_venus</field>
+<field name="link_external">http://www.nytimes.com/2007/02/11/nyregion/thecity/11venu.html?ex=1328850000&amp;en=8f4515c95db4a18e&amp;ei=5124&amp;partner=permalink&amp;exprod=permalink</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Venus_(mural)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Venus_(mural)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Knox_Martin_Mural_VENUS</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Venus_(mural)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Venus_(mural)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7920560</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Venus_(mural)</field>
+</doc>
+</add>

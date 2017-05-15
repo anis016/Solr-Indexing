@@ -1,0 +1,543 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Cène_(Léonard_de_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Última_Ceia_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Leonardo_da_Vinci's_personal_life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Тайная_вечеря_(Леонардо_да_Винчи)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Abendmahl_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Última_Cena_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/最後の晩餐_(レオナルド)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q128910</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Cina_cea_de_Taină_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://ta.dbpedia.org/resource/இறுதி_இராவுணவு_(லியொனார்டோ_டா_வின்சி)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Última_Ceia_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/საიდუმლო_სერობა_(ლეონარდო)</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/العشاء_الأخير_(لوحة)</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Ultima_Cena_(Leonardus)</field>
+<field name="sameAs">http://scn.dbpedia.org/resource/Ùrtima_cena_(Liunardu)</field>
+<field name="sameAs">http://mt.dbpedia.org/resource/L-Aħħar_Ċena_(Leonardo)</field>
+<field name="sameAs">http://war.dbpedia.org/resource/An_Urhi_nga_Pangiklop_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://zh_yue.dbpedia.org/resource/最後晚餐</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ο_Μυστικός_Δείπνος_(Ντα_Βίντσι)</field>
+<field name="sameAs">http://af.dbpedia.org/resource/Die_Laaste_Avondmaal_(Leonardo)</field>
+<field name="sameAs">http://sq.dbpedia.org/resource/Darka_e_Fundit</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Bữa_ăn_tối_cuối_cùng_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Pyhä_ehtoollinen</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Cène_(Léonard_de_Vinci)</field>
+<field name="sameAs">http://cy.dbpedia.org/resource/Y_Swper_Olaf_(Leonardo)</field>
+<field name="sameAs">http://sh.dbpedia.org/resource/Posljednja_večera_(Leonardo)</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Den_sidste_nadver_(Leonardo)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Son_Akşam_Yemeği_(tablo)</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Last_Supper</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Poslední_večeře_(da_Vinci)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ultima_Cena_(Leonardo)</field>
+<field name="sameAs">http://sl.dbpedia.org/resource/Zadnja_večerja_(da_Vinci)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Тайная_вечеря_(Леонардо_да_Винчи)</field>
+<field name="sameAs">http://hy.dbpedia.org/resource/Խորհրդավոր_ընթրիք_(Լեոնարդո_դա_Վինչի)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://bs.dbpedia.org/resource/Posljednja_večera</field>
+<field name="sameAs">http://ml.dbpedia.org/resource/അന്ത്യതിരുവത്താഴം_(ലിയനാർഡോ_ഡാ_വിഞ്ചി)</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/شام_آخر_(داوینچی)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הסעודה_האחרונה_(ציור)</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Azken_Afaria_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://li.dbpedia.org/resource/Lètste_aovendmaol</field>
+<field name="sameAs">http://sr.dbpedia.org/resource/Тајна_вечера_(фреска)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Abendmahl_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Posledná_večera_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Тайната_вечеря_(Леонардо_да_Винчи)</field>
+<field name="sameAs">http://si.dbpedia.org/resource/අවසන්_භෝජන_සංග්‍රහය_(චිත්‍රය)</field>
+<field name="sameAs">http://ga.dbpedia.org/resource/An_Suipéar_Déanach_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_Sant_Sopar_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/最后的晚餐_(达芬奇)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/最後の晩餐_(レオナルド)</field>
+<field name="sameAs">http://lv.dbpedia.org/resource/Svētais_vakarēdiens_(glezna)</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/La_Lasta_Vespermanĝo_(Leonardo)</field>
+<field name="sameAs">http://et.dbpedia.org/resource/Püha_õhtusöömaaeg_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระกระยาหารมื้อสุดท้าย_(เลโอนาร์โด)</field>
+<field name="sameAs">http://bn.dbpedia.org/resource/দ্যা_লাস্ট_সাপার_(লিওনার্দো_দা_ভিঞ্চি)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0jnz3</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ostatnia_Wieczerza_(obraz_Leonarda_da_Vinci)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/L'Ultima_Cena_(Leonardo)</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Posljednja_večera_(Leonardo)</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Nattvarden</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/최후의_만찬_(레오나르도_다_빈치)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Тайна_вечеря_(Леонардо_да_Вінчі)</field>
+<field name="sameAs">http://kn.dbpedia.org/resource/ಲಾಸ್ಟ್_ಸಪ್ಪರ್</field>
+<field name="sameAs">http://mk.dbpedia.org/resource/Тајната_вечера_(слика)</field>
+<field name="sameAs">http://zu.dbpedia.org/resource/The_Last_Supper</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Paskutinė_vakarienė_(Leonardas_da_Vinčis)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Sonuncu_şam_yeməyi_(Leonardo_da_Vinçi)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Het_Laatste_Avondmaal_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://ilo.dbpedia.org/resource/Ti_Maudi_a_Pangrabii_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Nattverden_(Leonardo)</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/A_Última_Cea_(Leonardo)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Última_Cena_(Leonardo_da_Vinci)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Catholic_Church_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Leonardo_da_Vinci</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1498_paintings</field>
+<field name="abstract">The Last Supper (Italian: Il Cenacolo or L'Ultima Cena) is a late 15th century mural painting by Leonardo da Vinci in the refectory of the Convent of Santa Maria della Grazie, Milan. The work is presumed to have been commenced around 1495 and was commissioned as part of a scheme of renovations to the church and its convent buildings by Leonardo's patron Ludovico Sforza, Duke of Milan. The painting represents the scene of The Last Supper of Jesus with his disciples, as it is told in the Gospel of John, 13:21. Leonardo has depicted the consternation that occurred among the Twelve Disciples when Jesus announced that one of them would betray him. 32x28px Art portal</field>
+<field name="label">The Last Supper (Leonardo da Vinci)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4b/Última_Cena_-_Da_Vinci_5.jpg</field>
+<field name="comment">The Last Supper (Italian: Il Cenacolo or L'Ultima Cena) is a late 15th century mural painting by Leonardo da Vinci in the refectory of the Convent of Santa Maria della Grazie, Milan. The work is presumed to have been commenced around 1495 and was commissioned as part of a scheme of renovations to the church and its convent buildings by Leonardo's patron Ludovico Sforza, Duke of Milan.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Última_Cena_-_Da_Vinci_5.jpg/200px-Última_Cena_-_Da_Vinci_5.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/84801/rec/2</field>
+<field name="link_external">http://smarthistory.khanacademy.org/leonardo-last-supper.html</field>
+<field name="link_external">http://www.3pipe.net/2012/05/leo-steinberg-and-incessant-last-supper.html</field>
+<field name="link_external">http://www.cenacolovinciano.org</field>
+<field name="link_external">http://www.urlesque.com/2010/05/18/24-last-supper-parodies/</field>
+<field name="link_external">http://issuu.com/akenpapers/docs/last_supper__eng_</field>
+<field name="link_external">http://home.arcor.de/berzelmayr/st-john.html</field>
+<field name="artist">http://dbpedia.org/resource/Leonardo_da_Vinci</field>
+<field name="city">http://dbpedia.org/resource/Milan</field>
+<field name="height">460</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Santa_Maria_delle_Grazie_(Milan)</field>
+<field name="title">The Last Supper</field>
+<field name="type">tempera on gesso, pitch and mastic</field>
+<field name="width">880</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo_da_Vinci)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Supper_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cenacolo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Poslední_večeře_(da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ο_Μυστικός_Δείπνος_(Ντα_Βίντσι)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ultima_Cena_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ostatnia_Wieczerza_(obraz_Leonarda_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Supper_by_Da_Vinci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Last_Supper_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Il_cenacolo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Ultima_Cena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Last_Supper_(da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Supper_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Supper_(da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_last_supper_(leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ultima_cena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/최후의_만찬_(레오나르도_다_빈치)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Het_Laatste_Avondmaal_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Azken_Afaria_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q128910</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/最后的晚餐_(达芬奇)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://af.dbpedia.org/resource/Die_Laaste_Avondmaal_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/العشاء_الأخير_(لوحة)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Sonuncu_şam_yeməyi_(Leonardo_da_Vinçi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Тайната_вечеря_(Леонардо_да_Винчи)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://bn.dbpedia.org/resource/দ্যা_লাস্ট_সাপার_(লিওনার্দো_দা_ভিঞ্চি)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/L'Ultima_Cena_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://bs.dbpedia.org/resource/Posljednja_večera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_Sant_Sopar_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://cy.dbpedia.org/resource/Y_Swper_Olaf_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Den_sidste_nadver_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/La_Lasta_Vespermanĝo_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://et.dbpedia.org/resource/Püha_õhtusöömaaeg_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/شام_آخر_(داوینچی)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Pyhä_ehtoollinen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://ga.dbpedia.org/resource/An_Suipéar_Déanach_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/A_Última_Cea_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הסעודה_האחרונה_(ציור)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Posljednja_večera_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://hy.dbpedia.org/resource/Խորհրդավոր_ընթրիք_(Լեոնարդո_դա_Վինչի)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://ilo.dbpedia.org/resource/Ti_Maudi_a_Pangrabii_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/საიდუმლო_სერობა_(ლეონარდო)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://kn.dbpedia.org/resource/ಲಾಸ್ಟ್_ಸಪ್ಪರ್</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Ultima_Cena_(Leonardus)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Paskutinė_vakarienė_(Leonardas_da_Vinčis)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://lv.dbpedia.org/resource/Svētais_vakarēdiens_(glezna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://mk.dbpedia.org/resource/Тајната_вечера_(слика)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://ml.dbpedia.org/resource/അന്ത്യതിരുവത്താഴം_(ലിയനാർഡോ_ഡാ_വിഞ്ചി)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Nattverden_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Cina_cea_de_Taină_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://scn.dbpedia.org/resource/Ùrtima_cena_(Liunardu)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://sh.dbpedia.org/resource/Posljednja_večera_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Last_Supper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Posledná_večera_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://sl.dbpedia.org/resource/Zadnja_večerja_(da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://sq.dbpedia.org/resource/Darka_e_Fundit</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://sr.dbpedia.org/resource/Тајна_вечера_(фреска)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Nattvarden</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://ta.dbpedia.org/resource/இறுதி_இராவுணவு_(லியொனார்டோ_டா_வின்சி)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระกระยาหารมื้อสุดท้าย_(เลโอนาร์โด)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Son_Akşam_Yemeği_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Тайна_вечеря_(Леонардо_да_Вінчі)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Bữa_ăn_tối_cuối_cùng_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://war.dbpedia.org/resource/An_Urhi_nga_Pangiklop_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://li.dbpedia.org/resource/Lètste_aovendmaol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://mt.dbpedia.org/resource/L-Aħħar_Ċena_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://si.dbpedia.org/resource/අවසන්_භෝජන_සංග්‍රහය_(චිත්‍රය)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://zh_yue.dbpedia.org/resource/最後晚餐</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://zu.dbpedia.org/resource/The_Last_Supper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Supper_(Leonardo_da_Vinci)</field>
+</doc>
+</add>

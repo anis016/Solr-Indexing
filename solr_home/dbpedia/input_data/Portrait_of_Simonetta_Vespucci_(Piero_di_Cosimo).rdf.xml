@@ -1,0 +1,87 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Poltred_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_Симонетты_Веспуччи</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Simonetta_Vespucci_come_Cleopatra</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Retrat_de_Simonetta_Vespucci</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_Simonetta_Vespucci</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2633689</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08nf9s</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piero_di_Cosimo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_Cond%C3%A9</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="abstract">Portrait of Simonetta Vespucci is the title some individuals have given to a painting by the Italian Renaissance painter Piero di Cosimo. Dating from circa 1490, it may portray Genoese noblewoman Simonetta Vespucci (as Cleopatra with an asp around her neck). Yet how closely this resembles the living woman is uncertain, partly because if this is indeed a rendering of her form and spirit it is a posthumous portrait created about fourteen years after her death. Worth noting as well is the fact that Piero di Cosimo was only fourteen years old in the year of Ms. Vespucci's death. The museum that currently houses this painting questions the very identity of its subject by titling it "Portrait of a woman, said to be of Simonetta Vespucci", and stating that the inscription of her name at the bottom of the painting may have been added at a later date.</field>
+<field name="label">Portrait of Simonetta Vespucci (Piero di Cosimo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1d/Piero_di_Cosimo_-_Portrait_de_femme_dit_de_Simonetta_Vespucci_-_Google_Art_Project.jpg</field>
+<field name="comment">Portrait of Simonetta Vespucci is the title some individuals have given to a painting by the Italian Renaissance painter Piero di Cosimo. Dating from circa 1490, it may portray Genoese noblewoman Simonetta Vespucci (as Cleopatra with an asp around her neck). Yet how closely this resembles the living woman is uncertain, partly because if this is indeed a rendering of her form and spirit it is a posthumous portrait created about fourteen years after her death.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1d/Piero_di_Cosimo_-_Portrait_de_femme_dit_de_Simonetta_Vespucci_-_Google_Art_Project.jpg/200px-Piero_di_Cosimo_-_Portrait_de_femme_dit_de_Simonetta_Vespucci_-_Google_Art_Project.jpg</field>
+<field name="artist"/>
+<field name="height">57</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Simonetta Vespucci</field>
+<field name="type">Oil on panel</field>
+<field name="width">42</field>
+<field name="year">c. 1490</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cosimo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Simonetta_Vespucci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_Simonetta_Vespucci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_Симонетты_Веспуччи</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Simonetta_Vespucci_come_Cleopatra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2633689</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Poltred_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Retrat_de_Simonetta_Vespucci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Simonetta_Vespucci_(Piero_di_Cosimo)</field>
+</doc>
+</add>

@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Asie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q9wh_</field>
+<field name="sameAs">http://yago-knowledge.org/resource/L'Asie</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Asie</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6455607</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1946_paintings</field>
+<field name="abstract">L'Asie is a painting by Henri Matisse. It is an oil on canvas painting from 1946. The painting is in the collection of and on public display at the Kimbell Art Museum in Fort Worth, Texas (USA).</field>
+<field name="label">L'Asie</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7a/LAsie.jpg</field>
+<field name="comment">L'Asie is a painting by Henri Matisse. It is an oil on canvas painting from 1946. The painting is in the collection of and on public display at the Kimbell Art Museum in Fort Worth, Texas (USA).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/LAsie.jpg/200px-LAsie.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="height">116</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum"/>
+<field name="title">L'Asie</field>
+<field name="width">81</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/L'Asie</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/L'Asie</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/L'Asie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/L'Asie</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6455607</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/L'Asie</field>
+</doc>
+</add>

@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Giorgio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/San_Giorgio_Maggiore_at_Dusk_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/San_Giorgio_Maggiore_at_Dusk_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Giorgio_Maggiore_al_crepuscolo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giorgio_Maggiore_at_Dusk_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Giorgio_Maggiore_at_Dusk_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giorgio_Maggiore_at_Dusk_(Monet)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmvm6</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Giorgio_Maggiore_al_crepuscolo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3947218</field>
+<field name="sameAs">http://yago-knowledge.org/resource/San_Giorgio_Maggiore_at_Dusk_(Monet)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1908_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_National_Museum_Cardiff</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="abstract">San Giorgio Maggiore al Crepuscolo is an Impressionist painting by Claude Monet. Painted in 1908 (many were not completed until 1912), oil on canvas, on the Venice, Italy mainland, the piece gives an original view of San Giorgio Maggiore. Focusing on the cathedral and bell tower located on the coast of the island, the beauty of the island at sunset is portrayed. The paintings of San Giorgio Maggiore form one of Monet’s greatest series. San Giorgio Maggiore al Crepuscolo became familiar in popular culture in 1999 after its appearance in John McTiernan’s rendition of The Thomas Crown Affair. This piece is owned by the National Museum Cardiff in Cardiff, Wales. San Giorgio Maggiore al Crepuscolo is also occasionally referred to as Dusk in Venice, San Giorgio Maggiore by Twilight and Sunset in Venice.</field>
+<field name="label">San Giorgio Maggiore at Dusk (Monet)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/da/Claude_Monet,_Saint-Georges_majeur_au_crépuscule.jpg</field>
+<field name="comment">San Giorgio Maggiore al Crepuscolo is an Impressionist painting by Claude Monet. Painted in 1908 (many were not completed until 1912), oil on canvas, on the Venice, Italy mainland, the piece gives an original view of San Giorgio Maggiore. Focusing on the cathedral and bell tower located on the coast of the island, the beauty of the island at sunset is portrayed. The paintings of San Giorgio Maggiore form one of Monet’s greatest series.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Claude_Monet,_Saint-Georges_majeur_au_crépuscule.jpg/200px-Claude_Monet,_Saint-Georges_majeur_au_crépuscule.jpg</field>
+<field name="link_external">http://www.museumwales.ac.uk/en/art/online/?action=show_item&amp;item=1336</field>
+<field name="artist"/>
+<field name="height">65.2</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Saint-Georges Majeur au Crépuscule</field>
+<field name="title">San Giorgio Maggiore al Crepuscolo</field>
+<field name="type">Oil on canvas</field>
+<field name="width">92.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/San_Giorgio_Maggiore_at_Dusk_(Monet)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/San_Giorgio_Maggiore_at_Dusk_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Giorgio_Maggiore_at_dusk</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Giorgio_Maggiore_at_dusk_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_giorgio_maggiore_at_dusk</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint-Georges_Majeur_au_Crepuscule</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Giorgio_Maggiore_at_Dusk</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3947218</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giorgio_Maggiore_at_Dusk_(Monet)</field>
+</doc>
+</add>

@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Enterrement_de_sainte_Lucie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Burial_of_St._Lucy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_entierro_de_Santa_Lucía</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Burial_of_St._Lucy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Seppellimento_di_santa_Lucia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Burial_of_St._Lucy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Burial_of_St._Lucy_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Burial_of_St._Lucy_(Caravaggio)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Enterrement_de_sainte_Lucie</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Burial_of_St._Lucy_(Caravaggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_entierro_de_Santa_Lucía</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Seppellimento_di_santa_Lucia</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08m3hl</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1132479</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1608_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">Burial of Saint Lucy is a painting by the Italian artist Caravaggio. It is located in the church of Santa Lucia alla Badia located on the Piazza Duomo in Syracuse, Sicily.</field>
+<field name="label">Burial of St. Lucy (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7d/Michelangelo_Caravaggio_010.jpg</field>
+<field name="comment">Burial of Saint Lucy is a painting by the Italian artist Caravaggio. It is located in the church of Santa Lucia alla Badia located on the Piazza Duomo in Syracuse, Sicily.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Michelangelo_Caravaggio_010.jpg/200px-Michelangelo_Caravaggio_010.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Caravaggio</field>
+<field name="city">http://dbpedia.org/resource/Syracuse,_Sicily</field>
+<field name="height">408</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Burial of Saint Lucy</field>
+<field name="width">300</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Burial_of_St._Lucy_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Burial_of_St._Lucy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Burial_of_St._Lucy_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Burial_of_St._Lucy_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1132479</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Burial_of_St._Lucy_(Caravaggio)</field>
+</doc>
+</add>

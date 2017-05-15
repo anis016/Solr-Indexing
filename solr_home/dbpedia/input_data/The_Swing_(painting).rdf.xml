@@ -1,0 +1,123 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Swing_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swing_(painting)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Hasards_heureux_de_l'escarpolette</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05b_9r3</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Swing_(Fragonard,_1767-1768)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/I_fortunati_casi_dell'altalena</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Swing_(painting)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_columpio_(Fragonard)</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/A_randeeira</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Ljuljačka_(Fragonard)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_gronxador_(Fragonard)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2629559</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Erotic_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Jean-Honor%C3%A9_Fragonard</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1760s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Wallace_Collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Rococo_paintings</field>
+<field name="abstract">The Swing, also known as The Happy Accidents of the Swing (French: Les Hasards Heureux de l'Escarpolette, the original title), is an 18th century oil painting by Jean-Honoré Fragonard in the Wallace Collection in London. It is considered as one of the masterpieces of the rococo era, and is Fragonard's best known work.</field>
+<field name="label">The Swing (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/eb/Fragonard,_The_Swing.jpg</field>
+<field name="comment">The Swing, also known as The Happy Accidents of the Swing (French: Les Hasards Heureux de l'Escarpolette, the original title), is an 18th century oil painting by Jean-Honoré Fragonard in the Wallace Collection in London. It is considered as one of the masterpieces of the rococo era, and is Fragonard's best known work.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Fragonard,_The_Swing.jpg/200px-Fragonard,_The_Swing.jpg</field>
+<field name="link_external">http://www.artble.com/artists/jean-honore_fragonard/paintings/the_swing</field>
+<field name="link_external">http://wallacelive.wallacecollection.org/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=65364&amp;viewType=detailView</field>
+<field name="link_external">http://employees.oneonta.edu/farberas/ARTH/ARTH200/gender/fragonard_swing.html</field>
+<field name="link_external">http://smarthistory.khanacademy.org/rococo.html</field>
+<field name="link_external">http://wallacelive.wallacecollection.org/eMuseumPlus?service=direct/1/ResultDetailView/result.tab.link&amp;sp=10&amp;sp=Scollection&amp;sp=SelementList&amp;sp=0&amp;sp=0&amp;sp=999&amp;sp=SdetailView&amp;sp=0&amp;sp=Sdetail&amp;sp=1&amp;sp=F&amp;sp=SdetailBlockKey&amp;sp=0</field>
+<field name="artist">http://dbpedia.org/resource/Jean-Honor%C3%A9_Fragonard</field>
+<field name="city">http://dbpedia.org/resource/United_Kingdom</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">81</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Wallace_Collection</field>
+<field name="title">The Swing</field>
+<field name="type">Oil on canvas</field>
+<field name="width">64.2</field>
+<field name="width">210</field>
+<field name="year">ca. 1767</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Swing_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Swing_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Swing</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'escarpolette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Les_Hasards_Heureux_de_l'Escarpolette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Happy_Accidents_of_the_Swing</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_columpio_(Fragonard)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swing_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Hasards_heureux_de_l'escarpolette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swing_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/I_fortunati_casi_dell'altalena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swing_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Swing_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Swing_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2629559</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swing_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_gronxador_(Fragonard)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swing_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/A_randeeira</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swing_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Ljuljačka_(Fragonard)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swing_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Swing_(Fragonard,_1767-1768)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swing_(painting)</field>
+</doc>
+</add>

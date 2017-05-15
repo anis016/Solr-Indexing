@@ -1,0 +1,94 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Trinity</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q688870</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_della_Santissima_Trinità</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Trinity</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Поклонение_Святой_Троице</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Trinity</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Adoración_de_la_Trinidad</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Поклоніння_Святій_Трійці</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h55gjr</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Landauer_Altar</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1511_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Kunsthistorisches_Museum</field>
+<field name="abstract">Adoration of the Trinity is an oil-on-panel painting by German Renaissance artist Albrecht Dürer, executed in 1511 and currently housed in the Kunsthistorisches Museum, Vienna, Austria.</field>
+<field name="label">Adoration of the Trinity</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/97/Durer,_Adoration_of_the_Trinity_01.jpg</field>
+<field name="comment">Adoration of the Trinity is an oil-on-panel painting by German Renaissance artist Albrecht Dürer, executed in 1511 and currently housed in the Kunsthistorisches Museum, Vienna, Austria.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Durer,_Adoration_of_the_Trinity_01.jpg/200px-Durer,_Adoration_of_the_Trinity_01.jpg</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=615</field>
+<field name="artist">http://dbpedia.org/resource/Albrecht_D%C3%BCrer</field>
+<field name="city"/>
+<field name="height">135</field>
+<field name="image"/>
+<field name="imageSize">420</field>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Adoration of the Trinity</field>
+<field name="type">Oil on poplar panel</field>
+<field name="width">123</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Trinity</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Trinity</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Trinity_(D%C3%BCrer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Adoración_de_la_Trinidad</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Trinity</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Поклонение_Святой_Троице</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Trinity</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Holy_Trinity</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landauer_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Landauer_Altar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Trinity</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_della_Santissima_Trinità</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Trinity</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Trinity</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Trinity</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q688870</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Trinity</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Поклоніння_Святій_Трійці</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Trinity</field>
+</doc>
+</add>

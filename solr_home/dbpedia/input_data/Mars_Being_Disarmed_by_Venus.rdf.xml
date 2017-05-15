@@ -1,0 +1,77 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mars_Being_Disarmed_by_Venus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Being_Disarmed_by_Venus</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Mars_désarmé_par_Vénus</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Mars_ontwapend_door_Venus</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q835286</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02wwgmx</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Marte_desarmado_por_Venus_y_las_Gracias</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mars_Being_Disarmed_by_Venus</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Vénusz_lefegyverzi_Marsot_(festmény)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jacques-Louis_David</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_Venus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Neoclassical_paintings</field>
+<field name="abstract">Mars Being Disarmed by Venus is the last painting produced by the French artist Jacques-Louis David. He began it in 1822 (aged 73) during his exile in Brussels and completed it three years later, before dying in an accident in 1825. It is an impressive, ambitious, provocative and ironic work in which David attempted to synthetise antiquity, idealism and realism. He sent it to an exhibition in Paris from his exile, knowing that by then Romanticism was ascendant in the Salon. In 2007 it was displayed in the main hall of the Royal Museums of Fine Arts of Belgium in Brussels, close to the entrance. At over 3 m (10 ft) high it is an imposing work. Set before a temple floating in the clouds, Venus the goddess of love and her followers, the three Graces and Cupid, are shown taking away the weapons, helmet, shield and armour of Mars the god of war. He allows himself to be disarmed and gives in to Venus's charms. Most of David's models for it were figures involved in the Théâtre de la Monnaie: Venus was modelled by the actress Marie Lesueur, Cupid by Lucien Petipa, Mars by a subscriber or 'abonné', and one of the Graces by the Prince of Orange's mistress.</field>
+<field name="label">Mars Being Disarmed by Venus</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d7/Jacques-Louis_David_-_Mars_desarme_par_Venus.JPG</field>
+<field name="comment">Mars Being Disarmed by Venus is the last painting produced by the French artist Jacques-Louis David. He began it in 1822 (aged 73) during his exile in Brussels and completed it three years later, before dying in an accident in 1825. It is an impressive, ambitious, provocative and ironic work in which David attempted to synthetise antiquity, idealism and realism. He sent it to an exhibition in Paris from his exile, knowing that by then Romanticism was ascendant in the Salon.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Jacques-Louis_David_-_Mars_desarme_par_Venus.JPG/200px-Jacques-Louis_David_-_Mars_desarme_par_Venus.JPG</field>
+<field name="link_external">http://www.fine-arts-museum.be/fabritiusweb/FullBB.csp?WebAction=ShowFullBB&amp;RequestId=904409_5&amp;Profile=Default&amp;OpacLanguage=fre&amp;NumberToRetrieve=10&amp;StartValue=5&amp;WebPageNr=1&amp;SearchTerm1=DAVIDJACQUES%20LOUIS%20.2.123&amp;SearchT1=&amp;Index1=Index17&amp;SearchMethod=Find_1&amp;ItemNr=5</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Brussels</field>
+<field name="height">308</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Mars Being Disarmed by Venus</field>
+<field name="type">Oil on canvas</field>
+<field name="width">265</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mars_Being_Disarmed_by_Venus</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mars_Being_Disarmed_by_Venus</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mars_being_disarmed_by_Venus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Mars_désarmé_par_Vénus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Being_Disarmed_by_Venus</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Marte_desarmado_por_Venus_y_las_Gracias</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Being_Disarmed_by_Venus</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mars_Being_Disarmed_by_Venus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mars_Being_Disarmed_by_Venus</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Mars_ontwapend_door_Venus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Being_Disarmed_by_Venus</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Vénusz_lefegyverzi_Marsot_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Being_Disarmed_by_Venus</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q835286</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mars_Being_Disarmed_by_Venus</field>
+</doc>
+</add>

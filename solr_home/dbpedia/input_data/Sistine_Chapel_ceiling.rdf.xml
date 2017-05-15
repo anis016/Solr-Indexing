@@ -1,0 +1,197 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Michelangelo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Bóveda_de_la_Capilla_Sixtina</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/システィーナ礼拝堂天井画</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Teto_da_Capela_Sistina</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Потолок_Сикстинской_капеллы</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Plafond_de_la_chapelle_Sixtine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ignudi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sistine_Chapel_ceiling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sistine_chapel_ceiling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Bóveda_de_la_Capilla_Sixtina</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Стеля_Сикстинської_капели</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Volta_de_la_Capella_Sixtina</field>
+<field name="sameAs">http://ta.dbpedia.org/resource/சிசுடைன்_சிற்றாலய_உட்கூரை</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Taket_i_det_sixtinske_kapell</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q844675</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.036tbc</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Потолок_Сикстинской_капеллы</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Volta_della_Cappella_Sistina</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Siksto_koplyčios_lubų_freskos</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Sistine_Şapeli_tavanı</field>
+<field name="sameAs">http://th.dbpedia.org/resource/เพดานโบสถ์น้อยซิสทีน</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/システィーナ礼拝堂天井画</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sistine_Chapel_ceiling</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/创世纪_(壁画)</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/A_Sixtus-kápolna_mennyezetfreskója</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Plafond_de_la_chapelle_Sixtine</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Teto_da_Capela_Sistina</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/سقف_كنيسة_سيستينا</field>
+<field name="sameAs">http://he.dbpedia.org/resource/תקרת_הקפלה_הסיסטינית</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Michelangelo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1512_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ceilings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="abstract">For images, see Gallery of Sistine Chapel ceiling The Sistine Chapel ceiling, painted by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art. The ceiling is that of the large Papal Chapel built within the Vatican between 1477 and 1480 by Pope Sixtus IV after whom it is named, and was painted at the commission of Pope Julius II. The chapel is the location for Papal Conclaves and many important services. The ceiling's various painted elements form part of a larger scheme of decoration within the Chapel, which includes the large fresco The Last Judgment on the sanctuary wall, also by Michelangelo, wall paintings by several leading painters of the late 15th century including Sandro Botticelli, Domenico Ghirlandaio and Pietro Perugino, and a set of large tapestries by Raphael, the whole illustrating much of the doctrine of the Catholic Church. Central to the ceiling decoration are nine scenes from the Book of Genesis of which the Creation of Adam is the best known, having an iconic standing equalled only by Leonardo da Vinci's Mona Lisa, the hands of God and Adam being reproduced in countless imitations. The complex design includes several sets of individual figures, both clothed and nude, which allowed Michelangelo to fully demonstrate his skill in creating a huge variety of poses for the human figure, and have provided an enormously influential pattern book of models for other artists ever since.</field>
+<field name="label">Sistine Chapel ceiling</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d8/Hands_of_God_and_Adam.jpg</field>
+<field name="comment">For images, see Gallery of Sistine Chapel ceiling The Sistine Chapel ceiling, painted by Michelangelo between 1508 and 1512, is a cornerstone work of High Renaissance art. The ceiling is that of the large Papal Chapel built within the Vatican between 1477 and 1480 by Pope Sixtus IV after whom it is named, and was painted at the commission of Pope Julius II. The chapel is the location for Papal Conclaves and many important services.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Hands_of_God_and_Adam.jpg/200px-Hands_of_God_and_Adam.jpg</field>
+<field name="link_external">http://mv.vatican.va/3_EN/pages/CSN/CSN_Volta.html</field>
+<field name="link_external">http://issuu.com/akenpapers/docs/sistine</field>
+<field name="link_external">http://smarthistory.khanacademy.org/sistine-chapel-ceiling.html</field>
+<field name="link_external">http://www.vatican.va/various/cappelle/sistina_vr/index.html</field>
+<field name="link_external">http://www.michelangelomodels.com</field>
+<field name="link_external">http://efetov.wordpress.com/</field>
+<field name="link_external">http://beckydaroff.com/arthistory/scc/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sistine_Chapel_ceiling</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ignudo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Volta_della_Cappella_Sistina</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ceiling_of_the_Sistine_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sistine_Chapel_Ceiling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sistine_Chapel_cieling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q844675</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/创世纪_(壁画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/سقف_كنيسة_سيستينا</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Volta_de_la_Capella_Sixtina</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/תקרת_הקפלה_הסיסטינית</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/A_Sixtus-kápolna_mennyezetfreskója</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Siksto_koplyčios_lubų_freskos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Taket_i_det_sixtinske_kapell</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://ta.dbpedia.org/resource/சிசுடைன்_சிற்றாலய_உட்கூரை</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/เพดานโบสถ์น้อยซิสทีน</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Sistine_Şapeli_tavanı</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Стеля_Сикстинської_капели</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sistine_Chapel_ceiling</field>
+</doc>
+</add>

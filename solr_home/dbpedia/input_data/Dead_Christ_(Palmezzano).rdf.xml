@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cristo_morto_sostenuto_da_due_angeli_(Marco_Palmezzano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dead_Christ_(Palmezzano)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dead_Christ_(Palmezzano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cristo_morto_sostenuto_da_due_angeli_(Marco_Palmezzano)</field>
+<field name="sameAs">http://dbpedia.org/resource/Dead_Christ_(Palmezzano)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3697655</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Dead_Christ_(Palmezzano)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0266l7s</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Dead Christ Held by Two Angels is a painting by the Italian Renaissance artist Marco Palmezzano, finished in 1510. It is housed in the Musée du Louvre of Paris, France. The centre of the scene is occupied by the dead figure of Christ, portrayed with great attention to anatomical details, but also with evident religious piety; the brightness of his body is further enhanced by the dark stone, resembling a black cave, depicted in the background. This contrast can also have the allegorical meaning of Jesus leaving sin and death behind his shoulders. Jesus assumes in this way the evangelic role of proclamation of the end of the dark era of humanity, as also remembered by the presence of the two angels. The work is influenced by those Giovanni Bellini, which Palmezzano saw in his sojourn in Venice in 1489–1495.</field>
+<field name="label">Dead Christ (Palmezzano)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c2/Cristo_Palmezzano.jpg</field>
+<field name="comment">The Dead Christ Held by Two Angels is a painting by the Italian Renaissance artist Marco Palmezzano, finished in 1510. It is housed in the Musée du Louvre of Paris, France. The centre of the scene is occupied by the dead figure of Christ, portrayed with great attention to anatomical details, but also with evident religious piety; the brightness of his body is further enhanced by the dark stone, resembling a black cave, depicted in the background.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Cristo_Palmezzano.jpg/200px-Cristo_Palmezzano.jpg</field>
+<field name="link_external">http://cartelfr.louvre.fr/cartelfr/visite?srv=car_not_frame&amp;idNotice=13777</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">81</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Dead Christ Held by Two Angels</field>
+<field name="type">Oil and tempera on panel</field>
+<field name="width">79</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Dead_Christ_(Palmezzano)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dead_Christ_(Palmezzano)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Dead_Christ_(Palmezzano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Dead_Christ_(Palmezzano)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3697655</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dead_Christ_(Palmezzano)</field>
+</doc>
+</add>

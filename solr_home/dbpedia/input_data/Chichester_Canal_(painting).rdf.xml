@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chichester_Canal_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Chichester_Canal_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Chichester_Canal_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05n_qht</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_Sussex</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Canals_in_West_Sussex</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_J._M._W._Turner</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Chichester</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1828_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1828_in_England</field>
+<field name="abstract">Chichester Canal is a painting by the English Romantic landscape painter, watercolourist and printmaker J. M. W. Turner. It was painted in 1828. The painting was commissioned by George Wyndham, 3rd Earl of Egremont.</field>
+<field name="label">Chichester Canal (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f8/Chichester_Canal_(1828).jpg</field>
+<field name="comment">Chichester Canal is a painting by the English Romantic landscape painter, watercolourist and printmaker J. M. W. Turner. It was painted in 1828. The painting was commissioned by George Wyndham, 3rd Earl of Egremont.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Chichester_Canal_(1828).jpg/200px-Chichester_Canal_(1828).jpg</field>
+<field name="link_external">http://www.geolsoc.org.uk/gsl/education/page2970.html</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=14814</field>
+<field name="link_external">http://hal.archives-ouvertes.fr/docs/00/29/63/03/PDF/acp-7-4027-2007.pdf</field>
+<field name="artist">http://dbpedia.org/resource/J._M._W._Turner</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Tate</field>
+<field name="title">Chichester Canal</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Chichester_Canal_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Chichester_Canal_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chichester_Canal_circa_1828</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Chichester_Canal_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Chichester_Canal_(painting)</field>
+</doc>
+</add>

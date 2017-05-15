@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jacob_Blessing_the_Sons_of_Joseph</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j24qrd</field>
+<field name="sameAs">http://dbpedia.org/resource/Jacob_Blessing_the_Sons_of_Joseph</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Jacob_Blessing_the_Sons_of_Joseph</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1656_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="abstract">Jacob Blessing the Sons of Joseph is a 1656 oil painting by Dutch artist Rembrandt van Rijn. It is said to have almost “a sculptural surface with a translucent glaze over paint”. This piece is housed in the Museumslandschaft Hessen Kassel in Kassel, Germany.</field>
+<field name="label">Jacob Blessing the Sons of Joseph</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a2/Rembrandt_-_Jacob_Blessing_the_Children_of_Joseph_-_WGA19117.jpg</field>
+<field name="comment">Jacob Blessing the Sons of Joseph is a 1656 oil painting by Dutch artist Rembrandt van Rijn. It is said to have almost “a sculptural surface with a translucent glaze over paint”. This piece is housed in the Museumslandschaft Hessen Kassel in Kassel, Germany.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Rembrandt_-_Jacob_Blessing_the_Children_of_Joseph_-_WGA19117.jpg/200px-Rembrandt_-_Jacob_Blessing_the_Children_of_Joseph_-_WGA19117.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Rembrandt</field>
+<field name="city">http://dbpedia.org/resource/Kassel</field>
+<field name="city">http://dbpedia.org/resource/Hesse</field>
+<field name="city">http://dbpedia.org/resource/Germany</field>
+<field name="height">173</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="title">Jacob Blessing the Sons of Joseph</field>
+<field name="type">Oil on canvas</field>
+<field name="width">209</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Jacob_Blessing_the_Sons_of_Joseph</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jacob_Blessing_the_Sons_of_Joseph</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Jacob_Blessing_the_Sons_of_Joseph</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Jacob_Blessing_the_Sons_of_Joseph</field>
+</doc>
+</add>

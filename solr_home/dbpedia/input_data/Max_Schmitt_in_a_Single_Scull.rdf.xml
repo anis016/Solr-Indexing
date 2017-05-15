@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Max_Schmitt_im_Einer</field>
+<field name="sameAs">http://dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.051z4dm</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1913390</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1871_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_rowers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_rowing</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Rowing_in_the_United_States</field>
+<field name="abstract">Max Schmitt in a Single Scull (also known as The Champion Single Sculls or The Champion, Single Sculls) is an 1871 painting by Thomas Eakins in the permanent collection of the Metropolitan Museum of Art. Set on the Schuylkill River in Philadelphia, Pennsylvania, it celebrates the victory of Eakins's friend Max Schmitt in the October 5, 1870, single sculls competition.</field>
+<field name="label">Max Schmitt in a Single Scull</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/48/Max_Schmitt_in_a_Single_Scull.jpg</field>
+<field name="comment">Max Schmitt in a Single Scull (also known as The Champion Single Sculls or The Champion, Single Sculls) is an 1871 painting by Thomas Eakins in the permanent collection of the Metropolitan Museum of Art. Set on the Schuylkill River in Philadelphia, Pennsylvania, it celebrates the victory of Eakins's friend Max Schmitt in the October 5, 1870, single sculls competition.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Max_Schmitt_in_a_Single_Scull.jpg/200px-Max_Schmitt_in_a_Single_Scull.jpg</field>
+<field name="link_external">http://www.livingplaces.com/PA/Philadelphia_County/Philadelphia_City/Boathouse_Row.html</field>
+<field name="link_external">http://www.metmuseum.org/works_of_art/collection_database/american_paintings_and_sculpture/the_champion_single_sculls_max_schmitt_in_a_single_thomas_eakins/objectview.aspx?collID=2&amp;OID=20011170</field>
+<field name="artist">http://dbpedia.org/resource/Thomas_Eakins</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">82.6</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">Max Schmitt in a Single Scull</field>
+<field name="width">117.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Max_Schmitt_in_a_Single_Scull</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Max_Schmitt_in_a_Single_Scull</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Max_Schmitt_im_Einer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Max_Schmitt_in_a_Single_Scull</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Champion_Single_Sculls</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Max_Schmitt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Max_Schmitt_in_a_single_scull</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Champion_Single_Sculls</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1913390</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Max_Schmitt_in_a_Single_Scull</field>
+</doc>
+</add>

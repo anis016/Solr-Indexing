@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Berger_à_la_flûte</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Shepherd_with_a_Flute</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Shepherd_with_a_Flute</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Shepherd_with_a_Flute</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shepherd_with_a_Flute</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Berger_à_la_flûte</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h55ppt</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Shepherd_with_a_Flute</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2897084</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Garzone_con_flauto</field>
+<field name="sameAs">http://dbpedia.org/resource/Shepherd_with_a_Flute</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Collection_of_the_United_Kingdom</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1508_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgione</field>
+<field name="abstract">Shepherd with a flute is a painting produced around 1508 by Giorgione, now in the Royal Collection and shown at Hampton Court Palace.</field>
+<field name="label">Shepherd with a Flute</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/60/Giorgione_-_Berger_à_la_flûte.jpg</field>
+<field name="comment">Shepherd with a flute is a painting produced around 1508 by Giorgione, now in the Royal Collection and shown at Hampton Court Palace.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Giorgione_-_Berger_à_la_flûte.jpg/200px-Giorgione_-_Berger_à_la_flûte.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Giorgione</field>
+<field name="city">http://dbpedia.org/resource/Greater_London</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Hampton_Court_Palace</field>
+<field name="title">Shepherd with a Flute</field>
+<field name="type">oil on canvas</field>
+<field name="year">c 1508</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Shepherd_with_a_Flute</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Shepherd_with_a_Flute</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Garzone_con_flauto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Shepherd_with_a_Flute</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2897084</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Shepherd_with_a_Flute</field>
+</doc>
+</add>

@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Mariage_de_la_Vierge_(Le_Pérugin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Marriage_of_the_Virgin_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Marriage_of_the_Virgin_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08py2n</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sposalizio_della_Vergine_(Perugino)</field>
+<field name="sameAs">http://dbpedia.org/resource/Marriage_of_the_Virgin_(Perugino)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Mariage_de_la_Vierge_(Le_Pérugin)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Marriage_of_the_Virgin_(Perugino)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3224308</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1504_paintings</field>
+<field name="abstract">The Marriage of the Virgin is a painting by the Italian Renaissance master Perugino. It is housed in the Musée des Beaux-Arts of Caen, France. Initially commissioned to Pinturicchio for the recently completed cathedral of Perugia, Perugino took over the commission and finished the work around 1500-1504, probably after several periods of stasis. Later, in 1797, the picture was confiscated by Napoleon and was subsequently taken to Caen, Normandy. Any attempt of the commune of Perugia, which saw also the personal commitment of Antonio Canova, to retrieve the work failed. The wide perspective of the picture, with at its centre an octagonal edifice and the aligned composition of the figures on the sides, is strongly related to the Perugino's Christ Giving the Keys to St. Peter at the Sistine Chapel. The painting prominently displays the Virgin's engagement ring, which was then kept at the cathedral as a holy relic. Raphael, Perugino's pupil, painted a version of his own of the picture in 1504.</field>
+<field name="label">Marriage of the Virgin (Perugino)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4c/Pietro_Perugino_016.jpg</field>
+<field name="comment">The Marriage of the Virgin is a painting by the Italian Renaissance master Perugino. It is housed in the Musée des Beaux-Arts of Caen, France. Initially commissioned to Pinturicchio for the recently completed cathedral of Perugia, Perugino took over the commission and finished the work around 1500-1504, probably after several periods of stasis. Later, in 1797, the picture was confiscated by Napoleon and was subsequently taken to Caen, Normandy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Pietro_Perugino_016.jpg/200px-Pietro_Perugino_016.jpg</field>
+<field name="artist"/>
+<field name="height">234</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Marriage of the Virgin</field>
+<field name="type">Oil on wood</field>
+<field name="width">185</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Marriage_of_the_Virgin_(Perugino)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Marriage_of_the_Virgin_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sposalizio_della_Vergine_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Marriage_of_the_Virgin_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Marriage_of_the_Virgin_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Marriage_of_the_Virgin_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3224308</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Marriage_of_the_Virgin_(Perugino)</field>
+</doc>
+</add>

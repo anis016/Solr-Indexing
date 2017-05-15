@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Allegoria_della_battaglia_di_Lepanto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegory_of_the_Battle_of_Lepanto_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Battle_of_Lepanto_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Battle_of_Lepanto_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Allegory_of_the_Battle_of_Lepanto_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Allegory_of_the_Battle_of_Lepanto_(Veronese)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cbrhr</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1237250</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Allegoria_della_battaglia_di_Lepanto</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegory_of_the_Battle_of_Lepanto_(Veronese)</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Pugna_Lepantina_(Paulus_Veronensis)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paolo_Veronese</field>
+<field name="abstract">The Allegory of the Battle of Lepanto is a painting by Paolo Veronese. The lower half of the painting shows the events of the battle of Lepanto, whilst at the top a female personification of Venice is presented to the Virgin Mary, with Saint Roch, Saint Peter, Saint Justina, Saint Mark and a group of angels in attendance - as a whole, the painting presents the victory as divine intervention.</field>
+<field name="label">Allegory of the Battle of Lepanto (Veronese)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg</field>
+<field name="comment">The Allegory of the Battle of Lepanto is a painting by Paolo Veronese. The lower half of the painting shows the events of the battle of Lepanto, whilst at the top a female personification of Venice is presented to the Virgin Mary, with Saint Roch, Saint Peter, Saint Justina, Saint Mark and a group of angels in attendance - as a whole, the painting presents the victory as divine intervention.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg/200px-The_Battle_of_Lepanto_by_Paolo_Veronese.jpeg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Allegory_of_the_Battle_of_Lepanto_(Veronese)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Allegory_of_the_Battle_of_Lepanto_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Allegory_of_the_Battle_of_Lepanto_(Veronese)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Allegory_of_the_Battle_of_Lepanto_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1237250</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegory_of_the_Battle_of_Lepanto_(Veronese)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Pugna_Lepantina_(Paulus_Veronensis)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegory_of_the_Battle_of_Lepanto_(Veronese)</field>
+</doc>
+</add>

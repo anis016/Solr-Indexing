@@ -1,0 +1,126 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Herr_und_Dame_beim_Wein</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Dama_bebiendo_con_un_caballero</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Lady_Drinking_and_a_Gentleman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Glass_of_Wine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Kielich_wina</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wine_Glass</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Bicchiere_di_vino</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Vinglaset</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/紳士とワインを飲む女</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Ar_banne_gwin</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Lovag_és_ivó_hölgy_(festmény)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/一杯酒</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Het_glas_wijn</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Kielich_wina</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Wine_Glass</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03yxmd3</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Dama_bebiendo_con_un_caballero</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Herr_und_Dame_beim_Wein</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q782639</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1650s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="abstract">The Wine Glass (Dutch: Het glas wijn, also known as The Glass of Wine or Lady and Gentleman Drinking Wine) is a painting by the Dutch artist Johannes Vermeer that portrays a seated woman and a standing man drinking in an interior setting. The painting is in the Gemäldegalerie, Berlin. The work is, in many aspects, typical of the genre painting of the Delft School developed by Pieter de Hooch in the late 1650s. It contains figures situated in a brightly lit and spacious interior, while its architectural space is highly defined. In addition, the work's figures are set in the middle ground, rather than positioned in the foreground.</field>
+<field name="label">The Wine Glass</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/19/Jan_Vermeer_van_Delft_018.jpg</field>
+<field name="comment">The Wine Glass (Dutch: Het glas wijn, also known as The Glass of Wine or Lady and Gentleman Drinking Wine) is a painting by the Dutch artist Johannes Vermeer that portrays a seated woman and a standing man drinking in an interior setting. The painting is in the Gemäldegalerie, Berlin. The work is, in many aspects, typical of the genre painting of the Delft School developed by Pieter de Hooch in the late 1650s.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Jan_Vermeer_van_Delft_018.jpg/200px-Jan_Vermeer_van_Delft_018.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/vermeer-the-glass-of-wine.html</field>
+<field name="link_external">http://essentialvermeer.20m.com/cat_about/glass_wine.htm</field>
+<field name="link_external">http://www.smb.spk-berlin.de/smb/sammlungen/details.php?objectId=5&amp;lang=en</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/Berlin</field>
+<field name="height">66.3</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="title">The Wine Glass</field>
+<field name="width">210</field>
+<field name="width">76.5</field>
+<field name="year">circa 1658&amp;ndash;1660</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Wine_Glass</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Bicchiere_di_vino</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Wine_Glass</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Het_glas_wijn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/紳士とワインを飲む女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q782639</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/一杯酒</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Ar_banne_gwin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Lovag_és_ivó_hölgy_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Vinglaset</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_Glass</field>
+</doc>
+</add>

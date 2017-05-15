@@ -1,0 +1,79 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Incoronazione_della_Vergine_(Angelico_Uffizi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Koronacja_Matki_Boskiej_z_aniołami_i_świętymi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Koronacja_Matki_Boskiej_z_aniołami_i_świętymi</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Coroação_da_Virgem_(Fra_Angelico,_Uffizi)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fq14__</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3797771</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Incoronazione_della_Vergine_(Angelico_Uffizi)</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Fra_Angelico</field>
+<field name="abstract">The Coronation of the Virgin is a painting of the Coronation of the Virgin by the Italian early Renaissance painter Fra Angelico, executed around 1432. It is now in the Uffizi Gallery of Florence. The artist executed another Coronation of the Virgin (c. 1434-1435), now in the Louvre in Paris.</field>
+<field name="label">Coronation of the Virgin (Fra Angelico, Uffizi)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/83/Fra_Angelico_081.jpg</field>
+<field name="comment">The Coronation of the Virgin is a painting of the Coronation of the Virgin by the Italian early Renaissance painter Fra Angelico, executed around 1432. It is now in the Uffizi Gallery of Florence. The artist executed another Coronation of the Virgin (c. 1434-1435), now in the Louvre in Paris.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Fra_Angelico_081.jpg/200px-Fra_Angelico_081.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Fra_Angelico</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">112</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Uffizi</field>
+<field name="title">Coronation of the Virgin</field>
+<field name="width">114</field>
+<field name="year">c. 1432</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Coronation_of_Virgin_(Angelico,_Florence)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Angelico,_Uffizi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Florence)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Coroação_da_Virgem_(Fra_Angelico,_Uffizi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3797771</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Fra_Angelico,_Uffizi)</field>
+</doc>
+</add>

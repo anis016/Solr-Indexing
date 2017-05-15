@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Automat_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4808020</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Automat_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0281tz9</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Otomat_(tablo)</field>
+<field name="sameAs">http://dbpedia.org/resource/Automat_(painting)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/オートマット_(美術)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Automat_(pintura)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1927_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edward_Hopper</field>
+<field name="abstract">Automat is a painting by the American realist painter Edward Hopper. The painting was first displayed on Valentine’s Day 1927 at the opening of Hopper’s second solo show, at the Rehn Galleries in New York. By April it had been sold for $1,200. The painting is today owned by the Des Moines Art Center in Iowa.</field>
+<field name="label">Automat (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6f/HopperAutomat.jpg</field>
+<field name="comment">Automat is a painting by the American realist painter Edward Hopper. The painting was first displayed on Valentine’s Day 1927 at the opening of Hopper’s second solo show, at the Rehn Galleries in New York. By April it had been sold for $1,200. The painting is today owned by the Des Moines Art Center in Iowa.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/HopperAutomat.jpg/200px-HopperAutomat.jpg</field>
+<field name="link_external">http://artsandletters.files.wordpress.com/2009/01/hopper-compartment-c-car-293-image-geoffrey-clements-corbis.jpg</field>
+<field name="link_external">http://www.sai.msu.su/cjackson/hopper/hopper12.jpg</field>
+<field name="link_external">http://www.artsfairies.com/Edward_Hopper/Hopper_Edward_The_Barber_Shop.jpg</field>
+<field name="link_external">http://ayiajavon.com/imd100/g2.jpg</field>
+<field name="link_external">http://www.museumsyndicate.com/images/1/9792.jpg</field>
+<field name="link_external">http://www.artsfairies.com/Edward_Hopper/Hopper_Edward_Conference_At_Night.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Edward_Hopper</field>
+<field name="city"/>
+<field name="height">71.4</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Automat</field>
+<field name="width">91.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Automat_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Automat_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Automat_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Automat_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Automat_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Automat_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Automat_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/オートマット_(美術)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Automat_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4808020</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Automat_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Otomat_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Automat_(painting)</field>
+</doc>
+</add>

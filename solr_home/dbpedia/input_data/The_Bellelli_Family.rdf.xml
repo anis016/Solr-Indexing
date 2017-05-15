@@ -1,0 +1,100 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_famiglia_Bellelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bellelli_Family</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Retrato_da_família_Bellelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bellelli_Family</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Bellelli_Family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Bellelli_Family</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Bellelli_Family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Famille_Bellelli</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2622172</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bellelli_Family</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Retrato_da_família_Bellelli</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Bellelli_Ailesi</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_famiglia_Bellelli</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภาพเหมือนของครอบครัวเบลเลลลิ</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Retrat_de_la_família_Bellelli</field>
+<field name="sameAs">http://he.dbpedia.org/resource/דיוקן_משפחת_בללי</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.043w2nk</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Bellelli_Family</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edgar_Degas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1867_paintings</field>
+<field name="abstract">The Bellelli Family, also known as Family Portrait, is an oil painting on canvas by Edgar Degas (1834–1917), painted ca. 1858–1867, and housed in the Musée d'Orsay. A masterwork of Degas' youth, the painting is a portrait of his aunt, her husband, and their two young daughters. While finishing his artistic training in Italy, Degas drew and painted his aunt Laura, her husband the baron Gennaro Bellelli (1812–1864), and their daughters Giulia and Giovanna. Although it is not known for certain when or where Degas executed the painting, it is believed that he utilized studies done in Italy to complete the work after his return to Paris. Laura, his father's sister, is depicted in a dress which symbolizes mourning for her father, who had recently died and appears in the framed portrait behind her. The baron was an Italian patriot exiled from Naples, living in Florence. Laura Bellelli's countenance is dignified and austere, her gesture connected with those of her daughters. Her husband, by contrast, appears to be separated from his family. His association with business and the outside world is implied by his position at his desk. Giulia holds a livelier pose than that of her sister Giovanna, whose restraint appears to underscore the familial tensions.</field>
+<field name="label">The Bellelli Family</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ef/Edgar_Degas_-_La_famille_Bellelli.JPG</field>
+<field name="comment">The Bellelli Family, also known as Family Portrait, is an oil painting on canvas by Edgar Degas (1834–1917), painted ca. 1858–1867, and housed in the Musée d'Orsay. A masterwork of Degas' youth, the painting is a portrait of his aunt, her husband, and their two young daughters. While finishing his artistic training in Italy, Degas drew and painted his aunt Laura, her husband the baron Gennaro Bellelli (1812–1864), and their daughters Giulia and Giovanna.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Edgar_Degas_-_La_famille_Bellelli.JPG/200px-Edgar_Degas_-_La_famille_Bellelli.JPG</field>
+<field name="link_external">http://smarthistory.khanacademy.org/the-bellelli-family.html</field>
+<field name="link_external">http://www.musee-orsay.fr/en/collections/works-in-focus/painting/commentaire_id/the-bellelli-family-7168.html?tx_commentaire_pi1%5BpidLi%5D=509&amp;tx_commentaire_pi1%5Bfrom%5D=841&amp;cHash=1ca4377da1</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/60673/rec/6</field>
+<field name="artist">http://dbpedia.org/resource/Edgar_Degas</field>
+<field name="city"/>
+<field name="height">200</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">The Bellelli Family</field>
+<field name="type">Oil on canvas</field>
+<field name="width">253</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Bellelli_Family</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Bellelli_Family</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Famille_Bellelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bellelli_Family</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Bellelli_Family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2622172</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bellelli_Family</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Retrat_de_la_família_Bellelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bellelli_Family</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/דיוקן_משפחת_בללי</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bellelli_Family</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภาพเหมือนของครอบครัวเบลเลลลิ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bellelli_Family</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Bellelli_Ailesi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bellelli_Family</field>
+</doc>
+</add>

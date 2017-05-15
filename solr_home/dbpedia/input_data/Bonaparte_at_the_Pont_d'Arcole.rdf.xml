@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bonaparte_at_the_Pont_d'Arcole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1282978</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte_at_the_Pont_d'Arcole</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Bonaparte_au_pont_d'Arcole</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bonaparte_at_the_Pont_d'Arcole</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cz8zsk</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1796_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_Napoleon</field>
+<field name="abstract">Bonaparte at the Pont d’Arcole (French: Bonaparte au Pont d’Arcole) is a 1796 painting by Antoine-Jean Gros, showing an episode during the battle of the pont d'Arcole, with general Bonaparte leading his troops to storm the bridge.</field>
+<field name="label">Bonaparte at the Pont d'Arcole</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg</field>
+<field name="comment">Bonaparte at the Pont d’Arcole (French: Bonaparte au Pont d’Arcole) is a 1796 painting by Antoine-Jean Gros, showing an episode during the battle of the pont d'Arcole, with general Bonaparte leading his troops to storm the bridge.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg/200px-1801_Antoine-Jean_Gros_-_Bonaparte_on_the_Bridge_at_Arcole.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Antoine-Jean_Gros</field>
+<field name="city">http://dbpedia.org/resource/Versailles_(city)</field>
+<field name="imageSize">180</field>
+<field name="museum">http://dbpedia.org/resource/Palace_of_Versailles</field>
+<field name="title">Bonaparte at the Pont d'Arcole</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bonaparte_at_the_Pont_d'Arcole</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bonaparte_at_the_Pont_d'Arcole</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Bonaparte_au_pont_d'Arcole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte_at_the_Pont_d'Arcole</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bonaparte_at_the_Pont_d'Arcole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bonaparte_at_the_Pont_d'Arcole</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bonaparte_at_the_pont_d'Arcole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bonaparte_au_pont_d'Arcole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1282978</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bonaparte_at_the_Pont_d'Arcole</field>
+</doc>
+</add>

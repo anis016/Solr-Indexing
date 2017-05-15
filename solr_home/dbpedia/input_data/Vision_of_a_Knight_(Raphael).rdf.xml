@@ -1,0 +1,121 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Songe_du_chevalier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Sen_Scypiona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Сон_лицаря</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Сон_рыцаря</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Vision_of_a_Knight_(Raphael)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Cəngavərin_görünüşü_(Rafael)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08dpfg</field>
+<field name="sameAs">http://th.dbpedia.org/resource/นิมิตของอัศวิน_(ราฟาเอล)</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_droom_van_de_ridder</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sogno_del_cavaliere</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q552040</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Songe_du_chevalier</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Bir_Şövalyenin_Önsezisi_(Rafael)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_sueño_del_caballero</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Vision_eines_Ritters</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Sen_Scypiona</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Military_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1504_paintings</field>
+<field name="abstract">The Vision of a Knight or The Dream of Scipio or Allegory is a small egg tempera painting on poplar by the Italian Renaissance artist Raphael, finished in 1504-1505. It is in the National Gallery in London. It probably formed a pair with the Three Graces panel, also 17 cm square, now in the Château de Chantilly museum. There are a number of theories as to what the panel is intended to represent. Some art historians think the sleeping knight represents the Roman general Scipio Africanus (236 - 184 BC) who dreamed that he had to choose between Virtue (behind whom is a steep and rocky path) and Pleasure (in looser robes). However, the two feminine figures are not presented as contestants. They may represent the ideal attributes of the knight: the book, sword and flower which they hold suggest the ideals of scholar, soldier and lover which a knight should combine. The most likely source for the allegory depicted is from a passage in the Punica, an epic poem recounting the Second Punic War by the Latin poet Silius Italicus. The panel was moved to England by William Young Ottley in 1800.</field>
+<field name="label">Vision of a Knight (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b5/RAFAEL_-_Sueño_del_Caballero_(National_Gallery_de_Londres,_1504._Óleo_sobre_tabla,_17_x_17_cm).jpg</field>
+<field name="comment">The Vision of a Knight or The Dream of Scipio or Allegory is a small egg tempera painting on poplar by the Italian Renaissance artist Raphael, finished in 1504-1505. It is in the National Gallery in London. It probably formed a pair with the Three Graces panel, also 17 cm square, now in the Château de Chantilly museum. There are a number of theories as to what the panel is intended to represent.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/RAFAEL_-_Sueño_del_Caballero_(National_Gallery_de_Londres,_1504._Óleo_sobre_tabla,_17_x_17_cm).jpg/200px-RAFAEL_-_Sueño_del_Caballero_(National_Gallery_de_Londres,_1504._Óleo_sobre_tabla,_17_x_17_cm).jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=NG213</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">17.1</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Vision of a Knight</field>
+<field name="type">Egg tempera on poplar</field>
+<field name="width">17.1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Vision_of_a_Knight_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sogno_del_cavaliere</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Vision_of_a_Knight_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Vision_eines_Ritters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_sueño_del_caballero</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Сон_рыцаря</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_droom_van_de_ridder</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q552040</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Cəngavərin_görünüşü_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/นิมิตของอัศวิน_(ราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Bir_Şövalyenin_Önsezisi_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Сон_лицаря</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_a_Knight_(Raphael)</field>
+</doc>
+</add>

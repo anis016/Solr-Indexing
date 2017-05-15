@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pemberton</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jane_Pemberton_Small</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jane_Pemberton_Small</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6152616</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Jane_Pemberton_Small</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04lgsw7</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Victoria_and_Albert_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hans_Holbein_the_Younger</field>
+<field name="abstract">Jane Small (c.  1518–1602) was a daughter of Christopher Pemberton, a Northamptonshire gentleman. She is well known as the subject of a portrait miniature by the famous 16th century German artist Hans Holbein the Younger, painted about 1540. Holbein was known as a painter of the English court where his paintings included those of King Henry VIII and several of his wives</field>
+<field name="label">Jane Pemberton Small</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b4/Hans_Holbein_Jane_Small.jpg</field>
+<field name="comment">Jane Small (c.  1518–1602) was a daughter of Christopher Pemberton, a Northamptonshire gentleman. She is well known as the subject of a portrait miniature by the famous 16th century German artist Hans Holbein the Younger, painted about 1540. Holbein was known as a painter of the English court where his paintings included those of King Henry VIII and several of his wives</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Hans_Holbein_Jane_Small.jpg/200px-Hans_Holbein_Jane_Small.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Jane_Pemberton_Small</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jane_Pemberton_Small</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jane_Small</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Jane_Pemberton_Small</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Jane_Pemberton_Small</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6152616</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jane_Pemberton_Small</field>
+</doc>
+</add>

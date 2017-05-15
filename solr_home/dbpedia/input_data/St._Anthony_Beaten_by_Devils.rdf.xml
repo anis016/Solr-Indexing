@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Anthony_Beaten_by_Devils</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Anthony_Beaten_by_Devils</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7587080</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Anthony_Beaten_by_Devils</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04csl0x</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="abstract">St. Anthony Beaten by Devils is a gothic style oil painting by Sassetta. It is a painted panel from a tryptych he created called the Arte della Lana Altarpiece. It was commissioned by the Wool Merchants Guild for the Carmelites in Siena to use in their Feast of Corpus Domini. This tryptch is missing a panel, lost when it was disassembled in 1777, but the panel with St. Anthony Beaten by Devils is currently on display at the Pinacoteca Nazionale. The painting depicts St. Anthony being clubbed by three devils who have surrounded him. According to stories, St. Anthony led a monastic life, and was tempted and tortured by devils as a test of faith.</field>
+<field name="label">St. Anthony Beaten by Devils</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f1/Saint-antony-beaten-by-the-devils--_Sassetta--Siena_Pinacoteca.jpg</field>
+<field name="comment">St. Anthony Beaten by Devils is a gothic style oil painting by Sassetta. It is a painted panel from a tryptych he created called the Arte della Lana Altarpiece. It was commissioned by the Wool Merchants Guild for the Carmelites in Siena to use in their Feast of Corpus Domini. This tryptch is missing a panel, lost when it was disassembled in 1777, but the panel with St. Anthony Beaten by Devils is currently on display at the Pinacoteca Nazionale. The painting depicts St.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Saint-antony-beaten-by-the-devils--_Sassetta--Siena_Pinacoteca.jpg/200px-Saint-antony-beaten-by-the-devils--_Sassetta--Siena_Pinacoteca.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Anthony_Beaten_by_Devils</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Anthony_Beaten_by_Devils</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Anthony_Beaten_by_Devils</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Anthony_Beaten_by_Devils</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7587080</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Anthony_Beaten_by_Devils</field>
+</doc>
+</add>

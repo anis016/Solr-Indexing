@@ -1,0 +1,98 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madame_Moitessier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05msdnk</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Madam_Moitessier</field>
+<field name="sameAs">http://dbpedia.org/resource/Madame_Moitessier</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Marie-Clotilde-Inès_Moitessier</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3137278</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Madame_Moitessier</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madame_Moitessier</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madame_Moitessier</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Мадам_Муатесьє</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pani_Moitessier</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean_Auguste_Dominique_Ingres</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1856_paintings</field>
+<field name="abstract">Madame Moitessier is the title of a portrait of Marie-Clotilde-Inès Moitessier (née de Foucauld) begun in 1844 and completed in 1856 by Jean-Auguste-Dominique Ingres. The portrait, which depicts Madame Moitessier seated, is now in the National Gallery in London. Madame Moitessier is also the title of a second portrait by Ingres, which depicts her standing; it was painted in 1851 and is now in the National Gallery of Art, Washington, D.C..</field>
+<field name="label">Madame Moitessier</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f9/Dominique_Ingres_-_Mme_Moitessier.jpg</field>
+<field name="comment">Madame Moitessier is the title of a portrait of Marie-Clotilde-Inès Moitessier (née de Foucauld) begun in 1844 and completed in 1856 by Jean-Auguste-Dominique Ingres. The portrait, which depicts Madame Moitessier seated, is now in the National Gallery in London. Madame Moitessier is also the title of a second portrait by Ingres, which depicts her standing; it was painted in 1851 and is now in the National Gallery of Art, Washington, D.C..</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Dominique_Ingres_-_Mme_Moitessier.jpg/200px-Dominique_Ingres_-_Mme_Moitessier.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=32696</field>
+<field name="link_external">http://books.google.com/books?id=xrmkyW1RlTEC&amp;pg=PA48&amp;lpg=PA48&amp;dq=%22Madame+Moitessier%22+Herculaneum&amp;source=bl&amp;ots=OMANI9Jujp&amp;sig=4dWzeKb2C73Un9QH-8IKGcBPpfw&amp;hl=en&amp;ei=r2SlSajjKKTEjAevl4HNBQ&amp;sa=X&amp;oi=book_result&amp;resnum=1&amp;ct=result</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=NG4821</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">120</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Madame Moitessier</field>
+<field name="type">oil on canvas</field>
+<field name="width">92</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madame_Moitessier</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madame_Moitessier</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Moitessier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Marie-Clotilde-In%C3%A8s_de_Foucauld</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Madame_Moitessier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madame_Moitessier</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pani_Moitessier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madame_Moitessier</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madame_Moitessier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madame_Moitessier</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madame_Moitessier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madame_Moitessier</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3137278</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madame_Moitessier</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Marie-Clotilde-Inès_Moitessier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madame_Moitessier</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Madam_Moitessier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madame_Moitessier</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Мадам_Муатесьє</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madame_Moitessier</field>
+</doc>
+</add>

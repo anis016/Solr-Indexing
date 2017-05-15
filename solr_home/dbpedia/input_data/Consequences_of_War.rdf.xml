@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Conseguenze_della_guerra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Consequences_of_War</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Consequences_of_War</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Consequences_of_War</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Consequences_of_War</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Consequences_of_War</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3687201</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Los_horrores_de_la_guerra</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Conseguenze_della_guerra</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gh7qjv</field>
+<field name="sameAs">http://dbpedia.org/resource/Consequences_of_War</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Peter_Paul_Rubens</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nude_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1630s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="abstract">Consequences of War, also known as Horrors of War, was executed from 1638-1639 by Peter Paul Rubens in oil paint on canvas. The artist painted it for Ferdinando II de' Medici. Although commissioned by an Italian, art historians characterize both the work and the artist as Flemish Baroque. The painting is a commentary on a European continent ravaged by the Thirty Years' War, and the artist employed numerous symbols, both contemporary and ancient, to deplore the state of the continent.</field>
+<field name="label">Consequences of War</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ef/Los_horrores_de_la_guerra.jpg</field>
+<field name="comment">Consequences of War, also known as Horrors of War, was executed from 1638-1639 by Peter Paul Rubens in oil paint on canvas. The artist painted it for Ferdinando II de' Medici. Although commissioned by an Italian, art historians characterize both the work and the artist as Flemish Baroque. The painting is a commentary on a European continent ravaged by the Thirty Years' War, and the artist employed numerous symbols, both contemporary and ancient, to deplore the state of the continent.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Los_horrores_de_la_guerra.jpg/200px-Los_horrores_de_la_guerra.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/peter-paul-rubens-the-consequences-of-war.html</field>
+<field name="artist">http://dbpedia.org/resource/Peter_Paul_Rubens</field>
+<field name="city"/>
+<field name="height">206</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Pitti</field>
+<field name="title">Consequences of War</field>
+<field name="type">Oil on canvas</field>
+<field name="width">210</field>
+<field name="width">345</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Consequences_of_War</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Consequences_of_War</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Los_horrores_de_la_guerra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Consequences_of_War</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Consequences_of_war</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3687201</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Consequences_of_War</field>
+</doc>
+</add>

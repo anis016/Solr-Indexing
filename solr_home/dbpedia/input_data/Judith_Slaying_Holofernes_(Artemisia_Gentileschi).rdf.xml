@@ -1,0 +1,84 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Judit_decapitando_a_Holofernes_(Gentileschi,_Nápoles)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Giuditta_che_decapita_Oloferne_(Artemisia_Gentileschi_Napoli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2247406</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Giuditta_che_decapita_Oloferne_(Artemisia_Gentileschi_Napoli)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Judit_i_Holofernes</field>
+<field name="sameAs">http://nap.dbpedia.org/resource/Giuditta_ca_taglia_'a_capa_'a_Oloferne_(Artemisia_Gentileschi),_Napule</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.064ksfv</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Judit_decapitando_a_Holofernes_(Gentileschi,_Nápoles)</field>
+<field name="sameAs">http://dbpedia.org/resource/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1612_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Artemisia_Gentileschi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Museum_of_Capodimonte</field>
+<field name="abstract">Judith Slaying Holofernes is a painting by the Italian early Baroque artist Artemisia Gentileschi completed between 1611–12. The work shows an apocrypha scene from the Old Testament Book of Judith which details the delivery of Israel from the Assyrian general Holofernes. In this scene, Holofernes has been seduced by Judith, who along with her maidservant behead the general after he has fallen asleep drunk. The painting is relentlessly physical, from the wide spurts of blood to the energy of the two women as they try to wield the large dagger. The effort of the women's struggle is most finely represented by the delicate face of the maid which is grasped by the oversized, muscular fist of Holofernes as he desperately struggles to survive. Part of the reason that the painting is so realistic is because it was very personal to Artemisia. Although it is a classic scene from the Bible, she drew herself as Judith and her mentor Agostino Tassi, who was tried in court for her rape, as Holofernes. Gentileschi's biographer Mary Garrard famously proposed an autobiographical reading of the painting, stating that it functions as "a cathartic expression of the artist's private, and perhaps repressed, rage. " This self-insertion was reversed in an influential composition by Cristofano Allori (c. 1613 onwards), which exists in several versions and copied a conceit of Caravaggio's recent David with the Head of Goliath; here the head is a portrait of the artist, Judith his ex-mistress, and the maid her mother. Caravaggio's Judith Beheading Holofernes is believed to be the main source of this work, and his influence can be seen in the naturalism and violence Gentileschi brings to her canvas. In both there is a notable absence of decorative detail in the background. Gentileschi's father was a painter of repute; he was also very much influenced by Caravaggio's style, and painted his own version of Judith slaying Holofernes. Artemisia herself painted two near identical versions of the episode; the second was completed sometime between 1614–18, and is held in the Uffizi Gallery in Florence. A different composition by Artemisia Gentileschi in the Pitti Palace in Florence shows a more traditional scene with head in a basket. Judith's beheading of Holofernes has been explored by a number of artists including Giorgione, Titian, Rembrandt and Peter Paul Rubens.</field>
+<field name="label">Judith Slaying Holofernes (Artemisia Gentileschi)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg</field>
+<field name="comment">Judith Slaying Holofernes is a painting by the Italian early Baroque artist Artemisia Gentileschi completed between 1611–12. The work shows an apocrypha scene from the Old Testament Book of Judith which details the delivery of Israel from the Assyrian general Holofernes. In this scene, Holofernes has been seduced by Judith, who along with her maidservant behead the general after he has fallen asleep drunk.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg/200px-Artemisia_Gentileschi_-_Judith_Beheading_Holofernes_-_WGA8563.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Artemisia_Gentileschi</field>
+<field name="city"/>
+<field name="height">158.8</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_di_Capodimonte</field>
+<field name="title">Judith Slaying Holofernes</field>
+<field name="type">Oil on canvas</field>
+<field name="width">125.5</field>
+<field name="year">c. 1611–12</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Judith_Slaying_Holofernes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Judith_Slaying_Holofernes_(1612)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2247406</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Judit_i_Holofernes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+</doc>
+<doc>
+<field name="uri">http://nap.dbpedia.org/resource/Giuditta_ca_taglia_'a_capa_'a_Oloferne_(Artemisia_Gentileschi),_Napule</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Judith_Slaying_Holofernes_(Artemisia_Gentileschi)</field>
+</doc>
+</add>

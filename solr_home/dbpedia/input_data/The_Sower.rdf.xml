@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sower</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7765607</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sower</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Sower</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j65k55</field>
+<field name="sameAs">http://sl.dbpedia.org/resource/Sejalec</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1907_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Slovenian_impressionist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_people</field>
+<field name="abstract">The Sower, created in 1907, is an oil on canvas painting by the Slovene Impressionist painter and musician Ivan Grohar. It is an image of a peasant sowing seeds on a ploughed field in an early and foggy morning. A hayrack, typical of the Slovene landscape, stands in the back, and even farther, the rocks of the small hill Kamnitnik near Škofja Loka. It has been a metaphor for the 19-th century myth of Slovenes as a vigorous nation in front of an unclear destiny, a symbol for the Slovene nation that sows in order that it could harvest, and a depiction of human interrelatedness with the nature. It is also a reflection of the context of Slovene transition from a rural to an urban culture. It has become one of the most characteristic and established Slovene creations in visual arts. It has been used by the IRWIN art group as well as the Semenarna Ljubljana seed company, and is depicted on the Slovenian 5 cent euro coin.</field>
+<field name="label">The Sower</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/ff/Ivan_Grohar_-_Sejalec.jpg</field>
+<field name="comment">The Sower, created in 1907, is an oil on canvas painting by the Slovene Impressionist painter and musician Ivan Grohar. It is an image of a peasant sowing seeds on a ploughed field in an early and foggy morning. A hayrack, typical of the Slovene landscape, stands in the back, and even farther, the rocks of the small hill Kamnitnik near Škofja Loka.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Ivan_Grohar_-_Sejalec.jpg/200px-Ivan_Grohar_-_Sejalec.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ivan_Grohar</field>
+<field name="city">http://dbpedia.org/resource/Ljubljana</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Slovenia</field>
+<field name="title">The Sower</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Sower</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Sower</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sejalec</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Sower</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Sower</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sower_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sower_(Grohar)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7765607</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sower</field>
+</doc>
+<doc>
+<field name="uri">http://sl.dbpedia.org/resource/Sejalec</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sower</field>
+</doc>
+</add>

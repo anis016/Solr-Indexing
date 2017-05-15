@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Town_Hall_at_Auvers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Town_Hall_at_Auvers</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ratusz_w_Auvers_14_lipca_1890</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gcfm7</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q922648</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Town_Hall_at_Auvers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="abstract">The Town Hall at Auvers is a painting by Vincent van Gogh, executed mid-July 1890. It is based on the view Van Gogh had when he stepped out on the street from the Auberge Ravoux, where he stayed. Along with other canvases from his short period in Auvers-sur-Oise, such as The Church at Auvers and paintings of houses with thatched roofs, this painting seems reminiscent of scenes from the northern landscapes of Van Gogh's childhood and youth.</field>
+<field name="label">The Town Hall at Auvers</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9d/Van_Gogh_-_Das_Rathaus_in_Auvers_am_14._Juli_1890.jpeg</field>
+<field name="comment">The Town Hall at Auvers is a painting by Vincent van Gogh, executed mid-July 1890. It is based on the view Van Gogh had when he stepped out on the street from the Auberge Ravoux, where he stayed. Along with other canvases from his short period in Auvers-sur-Oise, such as The Church at Auvers and paintings of houses with thatched roofs, this painting seems reminiscent of scenes from the northern landscapes of Van Gogh's childhood and youth.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Van_Gogh_-_Das_Rathaus_in_Auvers_am_14._Juli_1890.jpeg/200px-Van_Gogh_-_Das_Rathaus_in_Auvers_am_14._Juli_1890.jpeg</field>
+<field name="artist"/>
+<field name="height">53</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Town Hall at Auvers</field>
+<field name="type">Oil on canvas</field>
+<field name="width">103</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Town_Hall_at_Auvers</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Town_Hall_at_Auvers</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Town_Hall_at_Auvers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Town_Hall_at_Auvers</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q922648</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Town_Hall_at_Auvers</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ratusz_w_Auvers_14_lipca_1890</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Town_Hall_at_Auvers</field>
+</doc>
+</add>

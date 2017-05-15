@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St_Sebastian_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St_Sebastian_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St_Sebastian_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St_Sebastian_(Rubens)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St_Sebastian_(Rubens)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g9v_z0</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7595454</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1614_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Peter_Paul_Rubens</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Borghese_Collection</field>
+<field name="abstract">St Sebastian is a painting of c. 1614 by Pieter Paul Rubens, showing the Christian Saint Sebastian. It dates to the early years of Rubens' stay in Rome - its sinuous line and defined figures are thought to be the result of his studies of Michelangelo and of Flemish Mannerism. It was bought by the Borghese directly from cardinal Neri Corsini in Brussels. It is now in the Borghese collection.</field>
+<field name="label">St Sebastian (Rubens)</field>
+<field name="comment">St Sebastian is a painting of c. 1614 by Pieter Paul Rubens, showing the Christian Saint Sebastian. It dates to the early years of Rubens' stay in Rome - its sinuous line and defined figures are thought to be the result of his studies of Michelangelo and of Flemish Mannerism. It was bought by the Borghese directly from cardinal Neri Corsini in Brussels. It is now in the Borghese collection.</field>
+<field name="link_external">http://www.galleriaborghese.it/corsini/it/rubens.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St_Sebastian_(Rubens)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St_Sebastian_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7595454</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St_Sebastian_(Rubens)</field>
+</doc>
+</add>

@@ -1,0 +1,22 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tres_Personajes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tres_Personajes</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cm549</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Tres_Personajes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mexican_paintings</field>
+<field name="abstract">Tres Personajes, second version was painted by Mexican Modernist artist Rufino Tamayo in 1970. The brightly colored 51" by 38" (130 cm x 97 cm) painting is considered to be significant as an example of Tamayo's mature style. It is an abstract depiction of a man, a woman and an androgynous figure in a rich palette of purple, orange and yellow, with Tamayo's signature rough surface texture, made of sand and ground marble dust mixed into the paint. The artist died in 1991 at the age of 91. The painting was purchased by an anonymous Houston, Texas resident for $55,000 in 1977 as a gift for his wife. It was stolen from a storage warehouse in 1987, but was found in the trash in November, 2003 by New York resident Elizabeth Gibson, who received $15,000 USD as a reward for returning the painting, as well as a portion of the proceeds of its auction by Sotheby's in November 2007.</field>
+<field name="label">Tres Personajes</field>
+<field name="comment">Tres Personajes, second version was painted by Mexican Modernist artist Rufino Tamayo in 1970. The brightly colored 51" by 38" (130 cm x 97 cm) painting is considered to be significant as an example of Tamayo's mature style. It is an abstract depiction of a man, a woman and an androgynous figure in a rich palette of purple, orange and yellow, with Tamayo's signature rough surface texture, made of sand and ground marble dust mixed into the paint. The artist died in 1991 at the age of 91.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Tres_Personajes</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tres_Personajes</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Tres_Personajes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Tres_Personajes</field>
+</doc>
+</add>

@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mirth_&amp;_Girth</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mirth_&amp;_Girth</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03mbtnq</field>
+<field name="sameAs">http://dbpedia.org/resource/Mirth_&amp;_Girth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1988_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_Chicago,_Illinois</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Freedom_of_expression</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Censorship_in_the_arts</field>
+<field name="abstract">Mirth &amp; Girth is a portrait painting by School of the Art Institute of Chicago (SAIC) student David K. Nelson, Jr, in response to what the artist described as the deification of the popular African-American mayor of Chicago, Harold Washington, after his sudden death of a heart attack on November 25, 1987. The painting depicted Washington wearing only a bra, G-string, garter belt and stockings. After a brief showing at a May 11, 1988 private student exhibition in the Art Institute, angry African-American aldermen arrived with Chicago Police Department officers and confiscated the painting, triggering a First Amendment and race relations crisis. Ald. Allan Streeter, Ald. Bobby Rush and Ald. Dorothy Tillman damaged and removed the painting. The cost of the fine for their illegal confiscation was $95,000 paid for by the citizens of Chicago. Free-speech advocates condemned the seizure of the painting, while the aldermen maintained that the painting was an insult to Washington and should have been taken down. Some students at the SAIC showed their support for free speech by holding rallies in front of the school and at the Richard J. Daley Plaza. Remembering the city's recent Council Wars between Washington and mostly-white aldermanic majority, other students criticized Nelson for poor timing in showing a racially insensitive image. At some point between when the painting was confiscated and when it was returned, a 5-inch gash was made on the canvas. Nelson filed and later won a federal lawsuit against the city, claiming that the painting's confiscation and subsequent damaging violated his First Amendment rights. He and the American Civil Liberties Union (ACLU) settled with the city for $95,000 (1994; $138,000 in 2008) in compensation for the damaged painting after the United States Court of Appeals for the Seventh Circuit upheld the lower court's decision.</field>
+<field name="label">Mirth &amp; Girth</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/89/MirthGirth.gif</field>
+<field name="comment">Mirth &amp; Girth is a portrait painting by School of the Art Institute of Chicago (SAIC) student David K. Nelson, Jr, in response to what the artist described as the deification of the popular African-American mayor of Chicago, Harold Washington, after his sudden death of a heart attack on November 25, 1987. The painting depicted Washington wearing only a bra, G-string, garter belt and stockings.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/MirthGirth.gif/200px-MirthGirth.gif</field>
+<field name="artist">http://dbpedia.org/resource/David_K._Nelson</field>
+<field name="city">http://dbpedia.org/resource/Chicago</field>
+<field name="city">http://dbpedia.org/resource/United_States</field>
+<field name="image"/>
+<field name="imageSize">150</field>
+<field name="museum">http://dbpedia.org/resource/School_of_the_Art_Institute_of_Chicago</field>
+<field name="title">Mirth &amp; Girth</field>
+<field name="type">Acrylic on canvas</field>
+<field name="width">35</field>
+<field name="width">50</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mirth_&amp;_Girth</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mirth_&amp;_Girth</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mirth_&amp;_Girth</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mirth_&amp;_Girth</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mirth_and_Girth</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

@@ -1,0 +1,95 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Caída_de_los_ángeles_rebeldes</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j26791</field>
+<field name="sameAs">http://lv.dbpedia.org/resource/Dumpīgo_eņģeļu_krišana</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_val_der_opstandige_engelen</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_Sturz_der_rebellierenden_Engel</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Upadek_zbuntowanych_aniołów_(obraz_Bruegla)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q594406</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Caduta_degli_angeli_ribelli</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Chute_des_anges_rebelles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1562_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="abstract">The Fall of the Rebel Angels is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder, painted in 1562. It is currently held and exhibited at the Royal Museums of Fine Arts of Belgium in Brussels.</field>
+<field name="label">The Fall of the Rebel Angels (Bruegel)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg</field>
+<field name="comment">The Fall of the Rebel Angels is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder, painted in 1562. It is currently held and exhibited at the Royal Museums of Fine Arts of Belgium in Brussels.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg/200px-Pieter_Bruegel_the_Elder_-_The_Fall_of_the_Rebel_Angels_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.pieter-bruegel-the-elder.org</field>
+<field name="link_external">http://www.boschbruegel.com</field>
+<field name="link_external">http://www.fine-arts-museum.be/fabritiusweb/FullBBBody.csp?SearchMethod=Find_1&amp;Profile=Default&amp;OpacLanguage=fre&amp;RequestId=621819_5&amp;RecordNumber=7</field>
+<field name="link_external">http://www.art-drawing.ru/biographies/brief-biographies/199-bruegel-peter</field>
+<field name="artist">http://dbpedia.org/resource/Pieter_Bruegel_the_Elder</field>
+<field name="city">http://dbpedia.org/resource/Brussels</field>
+<field name="height">117</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="title">The Fall of the Rebel Angels</field>
+<field name="type">Oil on panel</field>
+<field name="width">162</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_Sturz_der_rebellierenden_Engel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Upadek_zbuntowanych_aniołów_(obraz_Bruegla)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Chute_des_anges_rebelles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Caduta_degli_angeli_ribelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Caída_de_los_ángeles_rebeldes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_val_der_opstandige_engelen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q594406</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://lv.dbpedia.org/resource/Dumpīgo_eņģeļu_krišana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fall_of_the_Rebel_Angels_(Bruegel)</field>
+</doc>
+</add>

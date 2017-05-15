@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/死刑囚の希望</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_hope_of_a_condemned_Man</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_esperanza_del_condenado_a_muerte</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_hope_of_a_condemned_Man</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Надежда_осуждённого</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_hope_of_a_condemned_Man</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_hope_of_a_condemned_Man</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2981628</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_hope_of_a_condemned_Man</field>
+<field name="sameAs">http://dbpedia.org/resource/The_hope_of_a_condemned_Man</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/L'esperança_del_condemnat_a_mort</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h7qxgz</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/死刑囚の希望</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_esperanza_del_condenado_a_muerte</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Надежда_осуждённого</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Espoir_du_condamné_à_mort</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joan_Mir%C3%B3</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1974_paintings</field>
+<field name="abstract">The hope of a condemned Man is a series of three paintings by Joan Miró in 1974 which are now part of the permanent collection of the Joan Miró Foundation in Barcelona.</field>
+<field name="label">The hope of a condemned Man</field>
+<field name="comment">The hope of a condemned Man is a series of three paintings by Joan Miró in 1974 which are now part of the permanent collection of the Joan Miró Foundation in Barcelona.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_hope_of_a_condemned_Man</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_hope_of_a_condemned_Man</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_hope_of_a_condemned_Man</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_hope_of_a_condemned_Man</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Espoir_du_condamné_à_mort</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_hope_of_a_condemned_Man</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2981628</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_hope_of_a_condemned_Man</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/L'esperança_del_condemnat_a_mort</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_hope_of_a_condemned_Man</field>
+</doc>
+</add>

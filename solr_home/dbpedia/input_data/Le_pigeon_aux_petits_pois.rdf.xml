@@ -1,0 +1,82 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Pigeon_aux_petits_pois</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Pigeon_aux_petits_pois_(Picasso,_1911)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c004w1</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Le_pigeon_aux_petits_pois</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1571678</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Pigeon_aux_petits_pois</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Stolen_works_of_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cubist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1911_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="abstract">Le pigeon aux petit pois (The Pigeon with Green Peas) is a 1911 painting by Pablo Picasso. It was one of five paintings stolen from the Musée d'Art Moderne de la Ville de Paris on 20 May 2010, which together are worth about €100 million ($123 million). The thief and his sponsor were found the following year, and the latter has declared that he was seized by panic after a police raid and a phone call by the police. However the police doubt that assertion.</field>
+<field name="label">Le pigeon aux petits pois</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/45/PICASSO_Le_pigeon_aux_petits_pois_1911.jpg</field>
+<field name="comment">Le pigeon aux petit pois (The Pigeon with Green Peas) is a 1911 painting by Pablo Picasso. It was one of five paintings stolen from the Musée d'Art Moderne de la Ville de Paris on 20 May 2010, which together are worth about €100 million ($123 million). The thief and his sponsor were found the following year, and the latter has declared that he was seized by panic after a police raid and a phone call by the police. However the police doubt that assertion.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/45/PICASSO_Le_pigeon_aux_petits_pois_1911.jpg/200px-PICASSO_Le_pigeon_aux_petits_pois_1911.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pablo_Picasso</field>
+<field name="height">65</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Le pigeon aux petits pois</field>
+<field name="type">Oil on canvas</field>
+<field name="width">54</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Le_pigeon_aux_petits_pois</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Le_pigeon_aux_petits_pois</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Le_pigeon_aux_petits_pois</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_pigeon_aux_petits-pois</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Pigeon_with_the_Peas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1571678</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_pigeon_aux_petits_pois</field>
+</doc>
+</add>

@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dolphins_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Дельфины_(Эшер)</field>
+<field name="sameAs">http://dbpedia.org/resource/Dolphins_(M._C._Escher)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03s859</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4157312</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Dolphins_(M._C._Escher)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Woodcuts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1923_paintings</field>
+<field name="abstract">Dolphins also known as a Dolphins in Phosphorescent Sea is a woodcut print by the Dutch artist M. C. Escher. This work was first printed in February, 1923. Escher had been fascinated by the glowing outlines of ocean waves breaking at night and this image depicts the outlines made by a school of dolphins swimming and breaching ahead of the bow of a ship. The glow was created by bioluminescent dinoflagellates.</field>
+<field name="label">Dolphins (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/43/Escher,_Dolphins.jpg</field>
+<field name="comment">Dolphins also known as a Dolphins in Phosphorescent Sea is a woodcut print by the Dutch artist M. C. Escher. This work was first printed in February, 1923. Escher had been fascinated by the glowing outlines of ocean waves breaking at night and this image depicts the outlines made by a school of dolphins swimming and breaching ahead of the bow of a ship. The glow was created by bioluminescent dinoflagellates.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Escher,_Dolphins.jpg/200px-Escher,_Dolphins.jpg</field>
+<field name="artist"/>
+<field name="height">29.1</field>
+<field name="image"/>
+<field name="title">Dolphins</field>
+<field name="width">49.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Dolphins_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dolphins_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Dolphins_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Dolphins_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dolphins_(Dolphins_in_Phosphorescent_Sea)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dolphins_in_Phosphorescent_Sea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Дельфины_(Эшер)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dolphins_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4157312</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dolphins_(M._C._Escher)</field>
+</doc>
+</add>

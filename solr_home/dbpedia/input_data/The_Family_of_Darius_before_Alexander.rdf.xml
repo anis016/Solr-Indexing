@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Family_of_Darius_before_Alexander</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Family_of_Darius_before_Alexander</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hrbhql</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7733345</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Family_of_Darius_before_Alexander</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paolo_Veronese</field>
+<field name="abstract">The Family of Darius before Alexander is a 1565–1570 oil on canvas painting by Paolo Veronese. It depicts Alexander the Great with the family of Darius III, the Persian king he had defeated in battle. Although Veronese had previously painted a version of the subject, since destroyed, the theme had rarely been depicted by other artists before him. The painting has been in the collection of the National Gallery in London since 1857.</field>
+<field name="label">The Family of Darius before Alexander</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/56/Paolo_Veronese_-_The_Family_of_Darius_before_Alexander_-_Google_Art_Project.jpg</field>
+<field name="comment">The Family of Darius before Alexander is a 1565–1570 oil on canvas painting by Paolo Veronese. It depicts Alexander the Great with the family of Darius III, the Persian king he had defeated in battle. Although Veronese had previously painted a version of the subject, since destroyed, the theme had rarely been depicted by other artists before him. The painting has been in the collection of the National Gallery in London since 1857.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Paolo_Veronese_-_The_Family_of_Darius_before_Alexander_-_Google_Art_Project.jpg/200px-Paolo_Veronese_-_The_Family_of_Darius_before_Alexander_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/paolo-veronese-the-family-of-darius-before-alexander</field>
+<field name="link_external">http://books.google.com/books?id=3iMYQE2u6LwC&amp;pg=PA94&amp;lpg=PA94&amp;dq=veronese+The+Family+of+Darius+before+Alexander&amp;source=bl&amp;ots=wmjxNtqOvt&amp;sig=QZ661ET2-hcanYvJdHd_WmZ43ho&amp;hl=en&amp;ei=I9jeTpXDN-Pr0gG18J2bBw&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=4&amp;ved=0CC0Q6AEwAzhG#v=onepage&amp;q=veronese%20The%20Family%20of%20Darius%20before%20Alexander&amp;f=false</field>
+<field name="link_external">http://www.jstor.org/pss/865338</field>
+<field name="link_external">http://smarthistory.khanacademy.org/veronese-the-family-of-darius-before-alexander.html</field>
+<field name="link_external">http://docs.google.com/viewer?a=v&amp;q=cache:ZCdX39ZKPFYJ:www.sensibilia.it/Archivio/Recensione%2520Terribile.pdf+valerius+maximus+darius+alexander+veronese&amp;hl=en&amp;gl=us&amp;pid=bl&amp;srcid=ADGEESirRkzbq68dSgVL3F5wHlr5emfP3s41vJRJWPpxM7mnXDEwX-vUeHYhPr97zOzcBf4k2GmJsleUhc8PS4fVy4qkaDRdZf50WUtj_ll_SrHQ5-LVlT478zcUVjfxdINCJT_Aa361&amp;sig=AHIEtbQlLcR7j7naiUNUcF5nPpuPhgL9Xg</field>
+<field name="link_external">http://books.google.com/books?id=YxFJAAAAIAAJ&amp;pg=PA165&amp;lpg=PA165&amp;dq=ruskin+most+precious+veronese&amp;source=bl&amp;ots=nUmr_Tcekn&amp;sig=xD0lMlp0zJYJ3UpPP3v-Ew6VmZk&amp;hl=en&amp;ei=ZKfmTvLQJeb50gGA3NGRCg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CB4Q6AEwAA#v=onepage&amp;q=ruskin%20most%20precious%20veronese&amp;f=false</field>
+<field name="link_external">http://www.nationalgallery.org.uk/ng294-the-family-of-darius-before-alexander-paolo-veronese-episode-21-segment-3/*/showTranscript/1</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Family_of_Darius_before_Alexander</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Family_of_Darius_before_Alexander</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Family_of_Darius_before_Alexander</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Family_of_Darius_before_Alexander</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7733345</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Family_of_Darius_before_Alexander</field>
+</doc>
+</add>

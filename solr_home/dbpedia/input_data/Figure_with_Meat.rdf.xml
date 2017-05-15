@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Figure_with_Meat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Figure_with_Meat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Figure_with_Meat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Figure_with_Meat</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Figure_with_Meat</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05r0wy</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Figure_with_Meat</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3071707</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francis_Bacon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1954_paintings</field>
+<field name="abstract">Figure with Meat is a 1954 painting by the Irish born artist Francis Bacon. The figure is based on the Pope Innocent X portrait by Diego Velázquez; however, in the Bacon painting the Pope is shown as a gruesome figure and placed between two bisected halves of a cow. The carcass hanging in the background is likely derived from Rembrandt's Carcass of Beef, 1657. The painting is in the permanent collection of the Art Institute of Chicago. According to Mary Louise Schumacher of the Milwaukee Journal Sentinel, "Bacon appropriated the famous portrait, with its subject, enthroned and draped in satins and lace, his stare stern and full of authority. In Bacon's version, animal carcasses hang at the pope's back, creating a raw and disturbing Crucifixion-like composition. The pope's hands, elegant and poised in Velázquez's version, are rough hewn and gripping the church's seat of authority in apparent terror. His mouth is held in a scream and black striations drip down from the pope's nose to his neck. It's as if Bacon picked up a wide house painting brush and brutishly dragged it over the face. The fresh meat recalls the lavish arrangements of fruits, meats and confections in 17th-century vanitas paintings, which usually carried subtle moralizing messages about the impermanence of life and the spiritual dangers of sensual pleasures. Sometimes, the food itself showed signs of being overripe or spoiled, to make the point. Bacon weds the imagery of salvation, worldly decadence, power and carnal sensuality, and he contrasts those things with his own far more palpable and existential view of damnation". The painting is featured in Tim Burton's Batman (1989 film) in a scene where the Joker and his henchmen destroy several works of art. However, the Joker spares Figure with Meat, saying, "I kind of like this one, Bob. Leave it."</field>
+<field name="label">Figure with Meat</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/02/Figure_with_Meat_Bacon.jpg</field>
+<field name="comment">Figure with Meat is a 1954 painting by the Irish born artist Francis Bacon. The figure is based on the Pope Innocent X portrait by Diego Velázquez; however, in the Bacon painting the Pope is shown as a gruesome figure and placed between two bisected halves of a cow. The carcass hanging in the background is likely derived from Rembrandt's Carcass of Beef, 1657. The painting is in the permanent collection of the Art Institute of Chicago.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Figure_with_Meat_Bacon.jpg/200px-Figure_with_Meat_Bacon.jpg</field>
+<field name="link_external">http://www.artic.edu/aic/collections/artwork/4884</field>
+<field name="artist">http://dbpedia.org/resource/Francis_Bacon_(artist)</field>
+<field name="height">129.9</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Figure with Meat</field>
+<field name="type">Oil on canvas</field>
+<field name="width">121.9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Figure_with_Meat</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Figure_with_Meat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Figure_with_meat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Figure_with_Meat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Figure_with_Meat</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3071707</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Figure_with_Meat</field>
+</doc>
+</add>

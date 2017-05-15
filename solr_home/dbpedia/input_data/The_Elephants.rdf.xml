@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Elephant_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Elephants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Слоны_(картина_Сальвадора_Дали)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gfgcym</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Elephants</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elephants</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Слони_(картина)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4423965</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="abstract">The Elephants is a 1948 painting by Salvador Dalí. The Elephants continues Dalí's theme of using spider-legged Elephants, which had previously appeared in "The Temptation of Saint Anthony" and "Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening".</field>
+<field name="label">The Elephants</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/43/Dali_Elephants.jpg</field>
+<field name="comment">The Elephants is a 1948 painting by Salvador Dalí. The Elephants continues Dalí's theme of using spider-legged Elephants, which had previously appeared in "The Temptation of Saint Anthony" and "Dream Caused by the Flight of a Bee Around a Pomegranate a Second Before Awakening".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Dali_Elephants.jpg/200px-Dali_Elephants.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum"/>
+<field name="title">The Elephants</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Elephants</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Слоны_(картина_Сальвадора_Дали)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Elephants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Los_Elefantes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4423965</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elephants</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Слони_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elephants</field>
+</doc>
+</add>

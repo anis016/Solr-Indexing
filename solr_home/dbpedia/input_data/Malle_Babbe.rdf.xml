@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Malle_Babbe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malle_Babbe</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Malle_Babbe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malle_Babbe</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Malle_Babbe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q474198</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Malle_Babbe</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Malle_Babbe</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f6js8</field>
+<field name="sameAs">http://dbpedia.org/resource/Malle_Babbe</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Malle_Babbe</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Malle_Babbe</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Malle_Babbe</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Frans_Hals</field>
+<field name="abstract">Malle Babbe is a painting by the Dutch Golden Age painter Frans Hals, painted between 1633 and 1635 and now in the Gemäldegalerie, Berlin. The painting has also been titled as Hille Bobbe or the Witch of Haarlem. The painting is now often identified with a specific individual from Haarlem, named Malle Babbe, who may have suffered from mental illness. However, it has also been considered a tronie, or genre painting in a portrait format, not intended to be a portrait of a specific individual, even if a model had been used.</field>
+<field name="label">Malle Babbe</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c0/Frans_Hals_021.jpg</field>
+<field name="comment">Malle Babbe is a painting by the Dutch Golden Age painter Frans Hals, painted between 1633 and 1635 and now in the Gemäldegalerie, Berlin. The painting has also been titled as Hille Bobbe or the Witch of Haarlem. The painting is now often identified with a specific individual from Haarlem, named Malle Babbe, who may have suffered from mental illness.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Frans_Hals_021.jpg/200px-Frans_Hals_021.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/hals-malle-babbe.html</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Malle_Babbe</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Malle_Babbe</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Malle_Babbe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malle_Babbe</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Malle_Babbe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Malle_Babbe</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Malle_Babbe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malle_Babbe</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q474198</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malle_Babbe</field>
+</doc>
+</add>

@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_votivo_della_famiglia_Vendramin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Vendramin_Family</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Vendramin_Family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Poltred_an_Tiegezh_Vendramin</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_votivo_della_famiglia_Vendramin</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_the_Vendramin_Family</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Vendramin_Family</field>
+<field name="sameAs">http://he.dbpedia.org/resource/דיוקן_משפחת_ונדראמין</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1133103</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rh6_q</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1543_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Titian_portraits</field>
+<field name="abstract">The Portrait of the Vendramin Family is a painting by the Italian Renaissance master Titian, executed around 1543-1547. It presently hangs in the National Gallery in London. The canvas was commissioned by the noble Vendramin family, and portrays, as dictated by Venetian custom, only male members of the dynasty. It includes the brothers Andrea and Gabriele Vendramin, and Andrea's seven sons. However Andrea was apparently only three years older than Gabriele, which one would not think from the two figures here. It remains uncertain which depicted by Vittore Carpaccio, Gentile Bellini and other artists in a series of paintings for the Scuola Grande di San Giovanni Evangelista. When accidentally dropped into a canal during a congested procession the relic did not sink but hovered over the water, evading others trying to help, until an earlier Andrea Vendramin dived in and retrieved it. This Andrea had been presented with the relic in 1369, in his capacity as head of the confraternity or Scuola of San Giovanni Evangelista. Both the large Bellini painting, The Miracle of the True Cross near San Lorenzo Bridge, of 1496-1500, and the Carpaccio of 1494, are now in the Accademia museum in Venice. Titian's painting has been described as, "one of the greatest group portraits in history". It balances youth and wisdom as well as demonstrating the power of this family and their public commitments to the Republic. The relic is a central part of the portrait and was seen as both a symbol of the Serene Republic, and a personal symbol for the Vendramin family. The painting remained in Venice until at least 1636 when it was bought by Anthony van Dyck who was painter at the court of Charles I. After his death it was bought by the Earl of Northumberland and passed by descent through the Earls and Dukes of Northumberland and Somerset until 1929, when it was bought by the National Gallery. At some point it has been cut down on both sides and at the bottom.</field>
+<field name="label">Portrait of the Vendramin Family</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d7/Tizian_104.jpg</field>
+<field name="comment">The Portrait of the Vendramin Family is a painting by the Italian Renaissance master Titian, executed around 1543-1547. It presently hangs in the National Gallery in London. The canvas was commissioned by the noble Vendramin family, and portrays, as dictated by Venetian custom, only male members of the dynasty. It includes the brothers Andrea and Gabriele Vendramin, and Andrea's seven sons.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Tizian_104.jpg/200px-Tizian_104.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=ng4452</field>
+<field name="artist"/>
+<field name="height">185</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Portrait of the Vendramin Family</field>
+<field name="type">Oil on canvas</field>
+<field name="width">202</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_the_Vendramin_Family</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_the_Vendramin_Family</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_vendramin_family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_the_Vendramin_Family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_the_Vendramin_Family</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1133103</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Vendramin_Family</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Poltred_an_Tiegezh_Vendramin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Vendramin_Family</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/דיוקן_משפחת_ונדראמין</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Vendramin_Family</field>
+</doc>
+</add>

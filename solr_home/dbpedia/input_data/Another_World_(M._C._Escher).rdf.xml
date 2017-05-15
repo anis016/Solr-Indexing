@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Another_World</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Another_World_(Other_World)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Another_World_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4770402</field>
+<field name="sameAs">http://dbpedia.org/resource/Another_World_(M._C._Escher)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03t6kt</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Another_World_(M._C._Escher)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/עולם_אחר_2</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1947_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fictional_dimensions</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Woodcuts</field>
+<field name="abstract">Another World, also known as Other World, is a woodcut print by the Dutch artist M. C. Escher which was first printed in January, 1947. It depicts a cubic architectural structure which is made from brick. The structure is a paradox with an open archway on each of the five visible sides of the cube. The structure wraps around the vertical axis to enclose the viewer’s perspective. At the bottom of the image is an archway which we seem to be looking up from the base, and through it we can see space. At the top of that arch is another arch which is level with our perspective, and through it we are looking out over a lunar horizon. At the top of that arch is another arch which covers the top of the image. We are looking down at this arch from above and through it onto the lunar surface. Standing in each archway along the vertical axis is a metal sculpture of a bird with a humanoid face. In each side archway is a horn or cornucopia hanging on chains. It is interesting to note that the views from above and below are consistent, placing the statue so that it faces the horn, however the horizontal view reverses the relative positions of the statue and the horn, and rotates the horn 180 degrees. The previous month (December, 1946), Escher created a mezzotint called Another World (Other World Gallery). The image in that print is the same as this one except that the arches continue on as an infinite corridor. The bird/human sculpture is a real sculpture which was given to Escher by his father-in-law. This sculpture first appears in Escher’s 1934 lithograph Still Life with Spherical Mirror.</field>
+<field name="label">Another World (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e7/Another_World.jpg</field>
+<field name="comment">Another World, also known as Other World, is a woodcut print by the Dutch artist M. C. Escher which was first printed in January, 1947. It depicts a cubic architectural structure which is made from brick. The structure is a paradox with an open archway on each of the five visible sides of the cube. The structure wraps around the vertical axis to enclose the viewer’s perspective.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Another_World.jpg/200px-Another_World.jpg</field>
+<field name="link_external">http://www.josleys.com/show_gallery.php?galid=291</field>
+<field name="artist"/>
+<field name="height">31.8</field>
+<field name="image"/>
+<field name="title">Another World</field>
+<field name="width">26.1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Another_World_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Another_World_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Another_World_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Another_World_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4770402</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Another_World_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/עולם_אחר_2</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Another_World_(M._C._Escher)</field>
+</doc>
+</add>

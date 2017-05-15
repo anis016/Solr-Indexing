@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Baptême_du_Christ_(Le_Pérugin,_Vatican)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Baptism_of_Christ_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Battesimo_di_Cristo_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Baptism_of_Christ_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Baptism_of_Christ_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmgsxc</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Battesimo_di_Cristo_(Perugino)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Baptism_of_Christ_(Perugino)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Baptême_du_Christ_(Le_Pérugin,_Vatican)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3220286</field>
+<field name="sameAs">http://dbpedia.org/resource/Baptism_of_Christ_(Perugino)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="abstract">The Baptism of Christ is a fresco by the Italian Renaissance painter Pietro Perugino and his workshop, executed around 1482 and located in the Sistine Chapel, Rome.</field>
+<field name="label">Baptism of Christ (Perugino)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/47/Perugino,_battesimo_di_cristo_01.jpg</field>
+<field name="comment">The Baptism of Christ is a fresco by the Italian Renaissance painter Pietro Perugino and his workshop, executed around 1482 and located in the Sistine Chapel, Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Perugino,_battesimo_di_cristo_01.jpg/200px-Perugino,_battesimo_di_cristo_01.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">335</field>
+<field name="image"/>
+<field name="imageSize">360</field>
+<field name="museum"/>
+<field name="title">Baptism of Christ</field>
+<field name="type">Fresco</field>
+<field name="width">540</field>
+<field name="year">c. 1482</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Baptism_of_Christ_(Perugino)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Baptism_of_Christ_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Baptism_of_Christ_(Perugino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Baptism_of_Christ_(Perugino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Baptism_of_Christ_(Sistine_Chapel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3220286</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Baptism_of_Christ_(Perugino)</field>
+</doc>
+</add>

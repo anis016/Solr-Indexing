@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Knight_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_cavaliere</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Knight_(Carpaccio)</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Knight_(Carpaccio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rrw88</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937678</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Carpaccio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Thyssen-Bornemisza_Museum</field>
+<field name="abstract">Portrait of a Knight is a painting by the Italian Renaissance artist Vittore Carpaccio. It is housed in the Thyssen-Bornemisza Collection of Madrid; it was put up for sale by heirs of the American collector Otto Kahn after his death and sold to Heinrich Thyssen in 1935. Dated 1510, this is the earliest full-length portrait in Western painting - on the assumption that it is a portrait, as seems likely. It is characteristic of Carpaccio that apart from this important innovation, the style of the painting seems in other respects to look back to the previous century. The subject is now considered most likely to be Francesco Maria I della Rovere, the Duke of Urbino, and nephew of Pope Julius II, during whose reign it was painted. Until the 20th century the painting had been given the monogram of Albrecht Dürer, and Carpaccio's signature overpainted. The realism and detail of Carpaccio does in fact show Northern influence. The painting shows a young knight, surrounded by a rather crowded series of symbols. The heron caught in the sky by a hawk might hint at this knight's death in battle, also alluded to by his posture, which recalls that of a funerary statue; an alternative theory is that this is a memorial portrait of a person already dead. The other knight with a lance might then be the same person during his life. In the left lower corner is a white ermine and a scroll stating "I prefer to die rather than to incur dishonour" (malo mori quam foedari). The symbolism of these and the other animals and plants have been much discussed by art historians.</field>
+<field name="label">Portrait of a Knight (Carpaccio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/84/Vittore_Carpaccio_069.jpg</field>
+<field name="comment">Portrait of a Knight is a painting by the Italian Renaissance artist Vittore Carpaccio. It is housed in the Thyssen-Bornemisza Collection of Madrid; it was put up for sale by heirs of the American collector Otto Kahn after his death and sold to Heinrich Thyssen in 1935. Dated 1510, this is the earliest full-length portrait in Western painting - on the assumption that it is a portrait, as seems likely.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Vittore_Carpaccio_069.jpg/200px-Vittore_Carpaccio_069.jpg</field>
+<field name="link_external">http://www.museothyssen.org/en/thyssen/ficha_obra/556</field>
+<field name="artist">http://dbpedia.org/resource/Vittore_Carpaccio</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">218</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Thyssen-Bornemisza_Museum</field>
+<field name="title">Portrait of a Knight</field>
+<field name="width">152</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Knight_(Carpaccio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Knight_(Carpaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_cavaliere</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Knight_(Carpaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Knight_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Knight_(Vittore_Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Knight_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Knight_(Carpaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937678</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Knight_(Carpaccio)</field>
+</doc>
+</add>

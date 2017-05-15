@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Peasant_Woman_Against_a_Background_of_Wheat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Peasant_Woman_Against_a_Background_of_Wheat</field>
+<field name="sameAs">http://th.dbpedia.org/resource/สาวชาวนาในทุ่งข้าวสาลี_(ฟาน_ก็อกฮ์)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Boerenmeisje_met_gele_strohoed</field>
+<field name="sameAs">http://dbpedia.org/resource/Peasant_Woman_Against_a_Background_of_Wheat</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Koueriadez_dirak_ur_parkad_gwinizh</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0871n2</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q594477</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="abstract">Peasant Woman Against a Background of Wheat is an 1890 painting by Vincent van Gogh. Van Gogh went on to paint several versions of this painting. The painting has changed hands several times. In 1997, Stephen Wynn paid $47.5 million for the painting. On October 7, 2005, it was announced that Stephen Wynn had sold the painting along with Gauguin's Bathers to Steven A. Cohen for more than $100 million.</field>
+<field name="label">Peasant Woman Against a Background of Wheat</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/ff/Vincent_Willem_van_Gogh_097.jpg</field>
+<field name="comment">Peasant Woman Against a Background of Wheat is an 1890 painting by Vincent van Gogh. Van Gogh went on to paint several versions of this painting. The painting has changed hands several times. In 1997, Stephen Wynn paid $47.5 million for the painting. On October 7, 2005, it was announced that Stephen Wynn had sold the painting along with Gauguin's Bathers to Steven A. Cohen for more than $100 million.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Vincent_Willem_van_Gogh_097.jpg/200px-Vincent_Willem_van_Gogh_097.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Peasant_Woman_Against_a_Background_of_Wheat</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Peasant_Woman_Against_a_Background_of_Wheat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Peasant_woman_against_a_background_of_wheat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Peasant_Woman_Against_a_Background_of_Wheat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Peasant_Woman_Against_a_Background_of_Wheat</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Boerenmeisje_met_gele_strohoed</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Peasant_Woman_Against_a_Background_of_Wheat</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q594477</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Peasant_Woman_Against_a_Background_of_Wheat</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Koueriadez_dirak_ur_parkad_gwinizh</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Peasant_Woman_Against_a_Background_of_Wheat</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/สาวชาวนาในทุ่งข้าวสาลี_(ฟาน_ก็อกฮ์)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Peasant_Woman_Against_a_Background_of_Wheat</field>
+</doc>
+</add>

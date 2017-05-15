@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hands_flying_off_toward_the_constellations</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hands_flying_off_toward_the_constellations</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Manos_volando_hacia_las_constelaciones</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h7kxtz</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2600797</field>
+<field name="sameAs">http://dbpedia.org/resource/Hands_flying_off_toward_the_constellations</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Mans_volant_cap_a_les_constel·lacions</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/星座に向かって飛び立つ手</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Руки,_летящие_в_сторону_созвездий</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1974_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joan_Mir%C3%B3</field>
+<field name="abstract">Hands flying off toward the constellations is a painting by Joan Miró dated 19 January 1974. It is now shown at the Fundació Joan Miró, in Barcelona. The artist gave the work to the Foundation in the same month that it opened to the public on 10 June 1975.</field>
+<field name="label">Hands flying off toward the constellations</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b6/Mans_volant_cap_a_les_constel·lacions.jpg</field>
+<field name="comment">Hands flying off toward the constellations is a painting by Joan Miró dated 19 January 1974. It is now shown at the Fundació Joan Miró, in Barcelona. The artist gave the work to the Foundation in the same month that it opened to the public on 10 June 1975.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Mans_volant_cap_a_les_constel·lacions.jpg/200px-Mans_volant_cap_a_les_constel·lacions.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Joan_Mir%C3%B3</field>
+<field name="city"/>
+<field name="height">260.5</field>
+<field name="image"/>
+<field name="imageSize">240</field>
+<field name="museum"/>
+<field name="title">Mans volant cap a les constel·lacions</field>
+<field name="width">681</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hands_flying_off_toward_the_constellations</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hands_flying_off_toward_the_constellations</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Руки,_летящие_в_сторону_созвездий</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hands_flying_off_toward_the_constellations</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Manos_volando_hacia_las_constelaciones</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hands_flying_off_toward_the_constellations</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hands_flying_off_toward_the_constellations</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hands_flying_off_toward_the_constellations</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/星座に向かって飛び立つ手</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hands_flying_off_toward_the_constellations</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2600797</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hands_flying_off_toward_the_constellations</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Mans_volant_cap_a_les_constel·lacions</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hands_flying_off_toward_the_constellations</field>
+</doc>
+</add>

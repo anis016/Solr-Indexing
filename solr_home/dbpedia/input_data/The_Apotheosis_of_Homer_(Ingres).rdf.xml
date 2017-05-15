@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Η_αποθέωση_του_Ομήρου</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Apotheosis_of_Homer_(Ingres)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Apothéose_d'Homère</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Apotheosis_of_Homer_(Ingres)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Apotheosis_of_Homer_(Ingres)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3202169</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Η_αποθέωση_του_Ομήρου</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Apotheosis_of_Homer_(Ingres)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Apothéose_d'Homère</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05my8dk</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Apotheosis_of_Homer_(Ingres)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1827_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean_Auguste_Dominique_Ingres</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Homer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Apotheosis of Homer is a grand 1827 painting by Jean-Auguste-Dominique Ingres, now exhibited at the Louvre as INV 5417.</field>
+<field name="label">The Apotheosis of Homer (Ingres)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c0/Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg</field>
+<field name="comment">The Apotheosis of Homer is a grand 1827 painting by Jean-Auguste-Dominique Ingres, now exhibited at the Louvre as INV 5417.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg/200px-Jean_Auguste_Dominique_Ingres,_Apotheosis_of_Homer,_1827.jpg</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&amp;idNotice=15331</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&amp;idNotice=15332</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&amp;idNotice=22515</field>
+<field name="artist">http://dbpedia.org/resource/Jean_Auguste_Dominique_Ingres</field>
+<field name="city"/>
+<field name="height">386</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Apotheosis of Homer</field>
+<field name="type">oil on canvas</field>
+<field name="width">512</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Apotheosis_of_Homer_(Ingres)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Apotheosis_of_Homer_(Ingres)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Apotheosis_of_Homer_(Ingres)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Apotheosis_of_Homer_(Ingres)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Apotheosis_of_Homer_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3202169</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Apotheosis_of_Homer_(Ingres)</field>
+</doc>
+</add>

@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_with_a_Donor_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Crocifissione_con_donatore</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Распятие_с_донатором_(картина_Босха)</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_with_a_Donor_(Bosch)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0261fln</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2390211</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Crucifixion_with_a_Donor_(Bosch)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Calvarie_met_schenker</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Crucifixion_avec_un_donateur_(Bosch)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crucifixion_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="abstract">Crucifixion With a Donor is a painting by Hieronymus Bosch believed to be painted between 1480 and 1485. The painting resides at Royal Museums of Fine Arts of Belgium in Brussels.</field>
+<field name="label">Crucifixion with a Donor (Bosch)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/47/CrucifixionWithADonorBosch.jpg</field>
+<field name="comment">Crucifixion With a Donor is a painting by Hieronymus Bosch believed to be painted between 1480 and 1485. The painting resides at Royal Museums of Fine Arts of Belgium in Brussels.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/CrucifixionWithADonorBosch.jpg/200px-CrucifixionWithADonorBosch.jpg</field>
+<field name="artist"/>
+<field name="height">74.7</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="title">Crucifixion With a Donor</field>
+<field name="type">Oil on oak</field>
+<field name="width">61</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Crucifixion_with_a_Donor_(Bosch)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Crucifixion_with_a_Donor_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Crucifixion_avec_un_donateur_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_with_a_Donor_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Crocifissione_con_donatore</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_with_a_Donor_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Crucifixion_with_a_Donor_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Crucifixion_with_a_Donor_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Распятие_с_донатором_(картина_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_with_a_Donor_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_With_a_Donor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_With_a_Donor_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2390211</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_with_a_Donor_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Calvarie_met_schenker</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_with_a_Donor_(Bosch)</field>
+</doc>
+</add>

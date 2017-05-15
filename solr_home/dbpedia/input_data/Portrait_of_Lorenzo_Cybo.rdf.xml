@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Lorenzo_Cybo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/پرتره_لورنزو_کیبو</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Lorenzo_Cybo</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Lorenzo_Cybo</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lorenzo_Cybo</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h522tb</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937595</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1524_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Parmigianino</field>
+<field name="abstract">Portrait of Lorenzo Cybo (1524) is a painting by the Italian late Renaissance artist Parmigianino. It is housed in the Statens Museum for Kunst, Copenhagen, Denmark.</field>
+<field name="label">Portrait of Lorenzo Cybo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6c/Portræt_af_Lorenzo_Cybo.jpg</field>
+<field name="comment">Portrait of Lorenzo Cybo (1524) is a painting by the Italian late Renaissance artist Parmigianino. It is housed in the Statens Museum for Kunst, Copenhagen, Denmark.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Portræt_af_Lorenzo_Cybo.jpg/200px-Portræt_af_Lorenzo_Cybo.jpg</field>
+<field name="artist"/>
+<field name="height">126</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Statens_Museum_for_Kunst</field>
+<field name="title">Portrait of Lorenzo Cybo</field>
+<field name="type">Oil on panel</field>
+<field name="width">104</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Lorenzo_Cybo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Lorenzo_Cybo</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Lorenzo_Cybo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Lorenzo_Cybo</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Lorenzo_Cybo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lorenzo_Cybo</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937595</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lorenzo_Cybo</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/پرتره_لورنزو_کیبو</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lorenzo_Cybo</field>
+</doc>
+</add>

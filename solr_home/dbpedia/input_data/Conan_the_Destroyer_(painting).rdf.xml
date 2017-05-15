@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Conan_the_Destroyer_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conan_the_Destroyer_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Conan_the_Destroyer_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5158159</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cmcf9n</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fantasy_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Conan the Destroyer is a 1971 painting by Frank Frazetta. The painting depicts Conan the Barbarian in the act of swinging an axe with dead warriors around him. Conan the Destroyer is one of many Conan paintings and artwork done by Frazetta. It was inspired by Robert E. Howard's Conan character that is featured in books, comics and films.</field>
+<field name="label">Conan the Destroyer (painting)</field>
+<field name="comment">Conan the Destroyer is a 1971 painting by Frank Frazetta. The painting depicts Conan the Barbarian in the act of swinging an axe with dead warriors around him. Conan the Destroyer is one of many Conan paintings and artwork done by Frazetta. It was inspired by Robert E. Howard's Conan character that is featured in books, comics and films.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Conan_the_Destroyer_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Conan_the_Destroyer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Conan_the_Destroyer_(painitng)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Conan_the_Destroyer_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Conan_the_Destroyer_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5158159</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conan_the_Destroyer_(painting)</field>
+</doc>
+</add>

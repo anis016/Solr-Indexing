@@ -1,0 +1,94 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Elevation_of_the_Cross_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Воздвижение_Креста_(Рубенс)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_elevación_de_la_cruz</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2653851</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Innalzamento_della_Croce</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ยกกางเขน_(รูเบนส์)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Kruisoprichting_(Rubens)</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Podizanje_križa_(Rubens)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09ktq9</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1611_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Peter_Paul_Rubens</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="abstract">The Elevation of the Cross (also called The Raising of the Cross) is a triptych painting by Flemish artist Peter Paul Rubens, completed in 1610-1611. Rubens painted The Elevation of the Cross after returning to Flanders from Italy. The work shows the clear influence of Italian Renaissance and Baroque artists such as Caravaggio, Tintoretto, and Michelangelo. The central panel illustrates a tension between the multitude of finely muscled men attempting to lift the cross and the seemingly unbearable weight of Christ on the cross. Rubens' foreshortening is evident in the contortions of the struggling, strapping men. Christ cuts across the central panel in a diagonal, stylistically akin to Caravaggio's Entombment where both descent and ascent are in play at a key moment. Motion, space and time are illustrated along with the struggle to upright the cross. Rubens uses dynamic color and chiaroscuro boldly, a style that would become more subtle with time. The painting is located at the Cathedral of Our Lady in Antwerp, Belgium, along with other Rubens works. Under Napoleon's rule, the emperor took the painting, along with Rubens' The Descent from the Cross, to Paris. The paintings were returned to the cathedral in 1815.</field>
+<field name="label">The Elevation of the Cross (Rubens)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/83/Peter_Paul_Rubens_068.jpg</field>
+<field name="comment">The Elevation of the Cross (also called The Raising of the Cross) is a triptych painting by Flemish artist Peter Paul Rubens, completed in 1610-1611. Rubens painted The Elevation of the Cross after returning to Flanders from Italy. The work shows the clear influence of Italian Renaissance and Baroque artists such as Caravaggio, Tintoretto, and Michelangelo.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Peter_Paul_Rubens_068.jpg/200px-Peter_Paul_Rubens_068.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Peter_Paul_Rubens</field>
+<field name="height">462</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Elevation of the Cross</field>
+<field name="type">Oil on canvas</field>
+<field name="width">341</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Elevation_of_the_Cross_(Rubens)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Elevation_of_the_Cross_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Innalzamento_della_Croce</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Воздвижение_Креста_(Рубенс)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Elevation_of_the_Cross</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Elevation_of_the_Cross_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_elevación_de_la_cruz</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Kruisoprichting_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2653851</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Podizanje_križa_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ยกกางเขน_(รูเบนส์)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elevation_of_the_Cross_(Rubens)</field>
+</doc>
+</add>

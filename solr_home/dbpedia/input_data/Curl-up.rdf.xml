@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Curl_up</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Curl-up</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5194808</field>
+<field name="sameAs">http://dbpedia.org/resource/Curl-up</field>
+<field name="sameAs">http://he.dbpedia.org/resource/זחלגלגל</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Curl-up</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03vfwl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1951_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="abstract">Curl-up or Wentelteefje is a lithograph print by M. C. Escher, first printed in November 1951. This is the only work by Escher which consists largely of text. The text, which is written in Dutch, describes an imaginary species called Pedalternorotandomovens centroculatus articulosus, also known as “wentelteefje” or “rolpens”. He says this creature came into existence because of the absence in nature of wheel shaped, living creatures with the ability to roll themselves forward. The creature is elongated and armored with several keratinized joints. It has six legs, each with what appears to be a human foot. It has a disc-shaped head with a parrot-like beak and eyes on stalks on either side. It can either crawl over a variety of terrain with its six legs or press its beak to the ground and roll into a wheel shape. It can then roll, gaining acceleration by pushing with its legs. On slopes it can tuck its legs in and roll freely. This rolling can end in one of two ways; by abruptly unrolling in motion, which leaves the creature belly-up, or by braking to a stop with its legs and slowly unrolling backwards. The word wentelteefje is Dutch for French toast, "wentel" meaning "to turn over". Rolpens is a dish made with chopped meat wrapped in a roll and then fried or baked. "Een pens" means "belly", often used in the phrase beer-belly. There is a diagonal gap through the text containing an illustration showing the step by step process of the creature rolling into a wheel. This creature appears in two more prints completed later the same month, House of Stairs and House of Stairs II.</field>
+<field name="label">Curl-up</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2e/Escher,_Curl-up.jpg</field>
+<field name="comment">Curl-up or Wentelteefje is a lithograph print by M. C. Escher, first printed in November 1951. This is the only work by Escher which consists largely of text. The text, which is written in Dutch, describes an imaginary species called Pedalternorotandomovens centroculatus articulosus, also known as “wentelteefje” or “rolpens”. He says this creature came into existence because of the absence in nature of wheel shaped, living creatures with the ability to roll themselves forward.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Escher,_Curl-up.jpg/200px-Escher,_Curl-up.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Curl-up</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Curl-up</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Curl-up</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Curl-up</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Curl-up</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5194808</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Curl-up</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/זחלגלגל</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Curl-up</field>
+</doc>
+</add>

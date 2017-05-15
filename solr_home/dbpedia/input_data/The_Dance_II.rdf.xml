@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Dance</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Парижский_танец_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Dance_II</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Dance_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4345145</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Парижский_танец_(картина)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Dance_II</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Dance_II</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04jpmdy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1932_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">The Dance II by Henri Matisse is a triptych mural (15 ft high by 45 ft long) in the Barnes Foundation of Philadelphia. It was created in 1932 at the request of Albert C. Barnes after he met Matisse in the United States. Barnes was an art enthusiast and long-time collector of Matisse's works, and agreed to pay Matisse a total of $30,000 for the mural, which was expected to take a year. The mural was to be placed above three arches spanning the windows of the main hall of Barnes' gallery. In Nice, France, Matisse executed the mural on canvas provided by Barnes, as opposed to working on site. This was an unusual approach for such a work, but the patron had offered him complete artistic freedom, and working onsite would in any event have been impractical. For Matisse, the project proved to be beset with difficulties, and would end up taking him two years, leaving him physically and emotionally drained. He was also profoundly disappointed to be told on installation that Barnes had no intention of exhibiting the work to the public. Nevertheless, Matisse was delighted with the work itself. In a 1933 letter to his son, Matisse wrote about the installation at the Barnes Foundation: "It has a splendour that one can't imagine unless one sees it -- because both the whole ceiling and its arched vaults come alive through radiation and the main effect continues right down to the floor... I am profoundly tired but very pleased. When I saw the canvas put in place, it was detached from me and became part of the building. " Some commentators consider that the Dance mural was pivotal in enabling Matisse to return to the most essential sources of his art. For Matisse, the work highlighted aspects such as simplicity, flattening, the emphasis on colour and the use of paper cut-outs which would all go on to play an important role in his later artistic development.</field>
+<field name="label">The Dance II</field>
+<field name="comment">The Dance II by Henri Matisse is a triptych mural (15 ft high by 45 ft long) in the Barnes Foundation of Philadelphia. It was created in 1932 at the request of Albert C. Barnes after he met Matisse in the United States. Barnes was an art enthusiast and long-time collector of Matisse's works, and agreed to pay Matisse a total of $30,000 for the mural, which was expected to take a year. The mural was to be placed above three arches spanning the windows of the main hall of Barnes' gallery.</field>
+<field name="link_external">http://web.archive.org/web/20110720033955/http:/blogs.princeton.edu/wri152-3/jholt/archives/001911.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Dance_II</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Dance_II</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Dance_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Dance_II</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4345145</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Dance_II</field>
+</doc>
+</add>

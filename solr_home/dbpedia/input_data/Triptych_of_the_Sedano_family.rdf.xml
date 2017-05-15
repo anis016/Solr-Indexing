@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Triptych_of_the_Sedano_family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triptych_of_the_Sedano_family</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Triptych_of_the_Sedano_family</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j7l7t6</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q23898</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Gerard_David</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">Triptych of the Sedano family is an oil-on-panel triptych altarpiece by the Early Nethlandish painter Gerard David, usually dated between 1490 and 1498, probably c. 1495. It is noted for its innovative framing and for its rendering of the decorative oriental carpet seen at Mary's feet. The work, commissioned by the Castilian merchant Jean de Sedano, features the Virgin and child in an enclosed garden. Each wing shows a donor kneeling in prayer accompanied by a saint: John the Baptist is seen to the left, John the Evangelist to the right. The panels are unified by the continuous background landscape of green fields and a serene, deep blue seascape. When the wings are closed, the exterior shows Adam and Eve, thereby creating a contrast between the heavenly interior and sinful exterior. Art historian Maryan Ainsworth notes that the triptych's dense imagery appears to be "a conflation of features of some of the most notable Netherlandish art of the last sixty years", indicating that it was created in response to the high demand across Europe at the time for Netherlandish triptychs. In 1503, de Sedano joined the Confraternity of the Holy Blood, a sect devoted to the veneration of a 12th-century relic brought from Jerusalem. The donor appears kneeling in prayer in the left wing, being blessed by John the Baptist, with his young son by his side. His much younger wife is shown in the right panel, presented to the Virgin by John the Evangelist. In the year he joined the Confraternity, de Sedano commissioned David to produce a painting of the Marriage at Cana. The triptych was purchased by the Louvre in 1890.</field>
+<field name="label">Triptych of the Sedano family</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ee/Gerard_David_Tryptique_de_la_famille_Sedano_Bruges_1523.jpg</field>
+<field name="comment">Triptych of the Sedano family is an oil-on-panel triptych altarpiece by the Early Nethlandish painter Gerard David, usually dated between 1490 and 1498, probably c. 1495. It is noted for its innovative framing and for its rendering of the decorative oriental carpet seen at Mary's feet. The work, commissioned by the Castilian merchant Jean de Sedano, features the Virgin and child in an enclosed garden.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Gerard_David_Tryptique_de_la_famille_Sedano_Bruges_1523.jpg/200px-Gerard_David_Tryptique_de_la_famille_Sedano_Bruges_1523.jpg</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=obj_view_obj&amp;objet=cartel_24001_64452_07-537209.jpg_obj.html&amp;flag=false</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&amp;idNotice=24001&amp;langue=en</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Triptych_of_the_Sedano_family</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Triptych_of_the_Sedano_family</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Triptych_of_the_Sedano_family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Triptych_of_the_Sedano_family</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q23898</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triptych_of_the_Sedano_family</field>
+</doc>
+</add>

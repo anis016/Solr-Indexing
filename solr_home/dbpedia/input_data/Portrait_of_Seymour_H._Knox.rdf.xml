@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Seymour_H._Knox</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Seymour_H._Knox</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0265mk8</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Seymour_H._Knox</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232303</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1985_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Knox_family</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andy_Warhol</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pop_art</field>
+<field name="abstract">Portrait of Seymour H. Knox is a 1985 portrait by Andy Warhol of Seymour H. Knox II. It was donated by the families of his two sons, Mr. and Mrs. Seymour H. Knox III and Mrs. and Mrs. Northrup R. Knox, to the Albright-Knox Art Gallery in honor of Seymour H. Knox II for his 60 year contribution as a member of the Buffalo Fine Arts Academy. This is one of a number of celebrity portraits that Warhol produced in this duplicative multicolored style. Many were produced in his early 1960s silkscreen period. Some of the major celebrity portraits of this style include those of Elvis Presley, Elizabeth Taylor, Marilyn Monroe, Jacqueline Kennedy, Mao Zedong and Andy Warhol himself. He also produced similar style works of several other minor celebrities.</field>
+<field name="label">Portrait of Seymour H. Knox</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a1/Portrait_of_Seymour_H._Knox.jpg</field>
+<field name="comment">Portrait of Seymour H. Knox is a 1985 portrait by Andy Warhol of Seymour H. Knox II. It was donated by the families of his two sons, Mr. and Mrs. Seymour H. Knox III and Mrs. and Mrs. Northrup R. Knox, to the Albright-Knox Art Gallery in honor of Seymour H. Knox II for his 60 year contribution as a member of the Buffalo Fine Arts Academy. This is one of a number of celebrity portraits that Warhol produced in this duplicative multicolored style.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Portrait_of_Seymour_H._Knox.jpg/200px-Portrait_of_Seymour_H._Knox.jpg</field>
+<field name="link_external">http://66.251.89.230/detail.php?t=objects&amp;type=all&amp;f=&amp;s=Warhol&amp;record=10</field>
+<field name="link_external">http://www.davidrumsey.com/amico/amico1093474-8036.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Seymour_H._Knox</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Seymour_H._Knox</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Seymour_H._Knox</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Seymour_H._Knox</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232303</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Seymour_H._Knox</field>
+</doc>
+</add>

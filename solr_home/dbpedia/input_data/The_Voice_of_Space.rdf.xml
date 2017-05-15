@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Voice_of_Space</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7773042</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Voice_of_Space</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Voice_of_Space</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gttyx8</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1931_paintings</field>
+<field name="abstract">The Voice of Space (La Voix des airs), 1931, is an oil painting by René Magritte. Four oil versions exist of the image. The most famous is that held in the Solomon R. Guggenheim Foundation, Peggy Guggenheim Collection, Venice. Another publicly displayed version is held at the Albright-Knox Art Gallery, Buffalo, New York. Bells float high in the sky. The jingle bell is a motif that recurs often in Magritte's work. He wrote: “I caused the iron bells hanging from the necks of our admirable horses to sprout like dangerous plants at the edge of an abyss. ”</field>
+<field name="label">The Voice of Space</field>
+<field name="comment">The Voice of Space (La Voix des airs), 1931, is an oil painting by René Magritte. Four oil versions exist of the image. The most famous is that held in the Solomon R. Guggenheim Foundation, Peggy Guggenheim Collection, Venice. Another publicly displayed version is held at the Albright-Knox Art Gallery, Buffalo, New York. Bells float high in the sky. The jingle bell is a motif that recurs often in Magritte's work.</field>
+<field name="link_external">http://www.guggenheim.org/new-york/collections/collection-online/show-full/piece/?search=Voice%20of%20Space&amp;page=&amp;f=Title&amp;object=76.2553.101</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Voice_of_Space</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Voice_of_Space</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Voice_of_Space</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Voice_of_Space</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7773042</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Voice_of_Space</field>
+</doc>
+</add>

@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_di_San_Giacomo_dell'Orio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giacomo_dell'Orio_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/San_Giacomo_dell'Orio_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/San_Giacomo_dell'Orio_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Giacomo_dell'Orio_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giacomo_dell'Orio_Altarpiece</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3889265</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_di_San_Giacomo_dell'Orio</field>
+<field name="sameAs">http://yago-knowledge.org/resource/San_Giacomo_dell'Orio_Altarpiece</field>
+<field name="sameAs">http://vec.dbpedia.org/resource/Pała_de_San_Giacomo_de_l'Orio</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h68l0p</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1546_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lorenzo_Lotto</field>
+<field name="abstract">The San Giacomo dell'Orio Altarpiece (or Madonna and Four Saints) is a painting by the Italian High Renaissance artist Lorenzo Lotto, dating from 1546 and housed in the church of San Giacomo dell'Orio in Venice. It is signed and dated on the cartouche hanging at the throne's base, reading "In tempo de Maistro Defendi de Federigo et compagni 1546 Lor. Lot". The canvas is one of the last works executed by Lotto in Venice, before moving to the Marche.</field>
+<field name="label">San Giacomo dell'Orio Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/93/Lotto,_Pala_di_San_Giacomo_dell'Orio_01.jpg</field>
+<field name="comment">The San Giacomo dell'Orio Altarpiece (or Madonna and Four Saints) is a painting by the Italian High Renaissance artist Lorenzo Lotto, dating from 1546 and housed in the church of San Giacomo dell'Orio in Venice. It is signed and dated on the cartouche hanging at the throne's base, reading "In tempo de Maistro Defendi de Federigo et compagni 1546 Lor. Lot". The canvas is one of the last works executed by Lotto in Venice, before moving to the Marche.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/93/Lotto,_Pala_di_San_Giacomo_dell'Orio_01.jpg/200px-Lotto,_Pala_di_San_Giacomo_dell'Orio_01.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Lorenzo_Lotto</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="height">240</field>
+<field name="image"/>
+<field name="imageSize">310</field>
+<field name="museum"/>
+<field name="title">San Giacomo dell'Orio Altarpiece</field>
+<field name="type">Oil on canvas</field>
+<field name="width">171</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/San_Giacomo_dell'Orio_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/San_Giacomo_dell'Orio_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_and_Four_Saints_(Lorenzo_Lotto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_and_Four_Saints_(Lotto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3889265</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giacomo_dell'Orio_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://vec.dbpedia.org/resource/Pała_de_San_Giacomo_de_l'Orio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giacomo_dell'Orio_Altarpiece</field>
+</doc>
+</add>

@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Giovane_donna_con_veste_nera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_in_a_Black_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Young_Woman_in_a_Black_Dress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Young_Woman_in_a_Black_Dress</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Giovane_donna_con_veste_nera</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3l8vv</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3766166</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_in_a_Black_Dress</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="abstract">The Young Woman in a Black Dress is an oil painting by Titian, dating to around 1520 and now held at the Kunsthistorisches Museum in Vienna. It was later misattributed to Palma il Vecchio, then to Giovanni Cariani, until Roberto Longhi reattributed it as by Titian, which is now the critical consensus. It depicts a woman half-length, facing the viewer, with her torso slightly twisted to give a sense of movement. One hand holds her black dress over her white shift, with a generous cleavage. The woman's physical type recurs in several other works by the artist, such as Flora and Woman with a Mirror - she may have been Titian's mistress, or simply a recurring model.</field>
+<field name="label">Young Woman in a Black Dress</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9d/Donna_con_veste_nera.jpg</field>
+<field name="comment">The Young Woman in a Black Dress is an oil painting by Titian, dating to around 1520 and now held at the Kunsthistorisches Museum in Vienna. It was later misattributed to Palma il Vecchio, then to Giovanni Cariani, until Roberto Longhi reattributed it as by Titian, which is now the critical consensus. It depicts a woman half-length, facing the viewer, with her torso slightly twisted to give a sense of movement. One hand holds her black dress over her white shift, with a generous cleavage.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Donna_con_veste_nera.jpg/200px-Donna_con_veste_nera.jpg</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=1939</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="image"/>
+<field name="imageSize">260</field>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Young Woman in a Black Dress</field>
+<field name="type">oil on canvas</field>
+<field name="year">c. 1520</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Young_Woman_in_a_Black_Dress</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Young_Woman_in_a_Black_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Young_Woman_in_a_Black_Dress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Young_Woman_in_a_Black_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Young_Woman_with_Black_Dress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Young_woman_in_a_black_dress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3766166</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_in_a_Black_Dress</field>
+</doc>
+</add>

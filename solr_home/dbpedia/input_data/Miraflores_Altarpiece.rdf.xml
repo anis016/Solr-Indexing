@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Miraflores-Altar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Miraflores_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_de_Miraflores</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Miraflores_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ミラフロレスの祭壇画</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Miraflores_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Miraflores_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ミラフロレスの祭壇画</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_de_Miraflores</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q323032</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Miraflores-Altar</field>
+<field name="sameAs">http://dbpedia.org/resource/Miraflores_Altarpiece</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Miraflores_Altarpiece</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h93x_p</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rogier_van_der_Weyden</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1440s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="abstract">The Miraflores Altarpiece (or Triptych of the Virgin, or The Altar of Our Lady or the Mary Altarpiece) is a c. 1442-5 oil-on-oak wood panel altarpiece by the Early Netherlandish painter Rogier van der Weyden, in the Gemäldegalerie, Berlin since 1850. The three panels are each 71 x 43 cm and show, from left to right, a portrait of the Holy Family, a Pietà (the Virgin cradling the dead body of Jesus) and Christ's appearance to Mary—a chronological reading of the birth, death and resurrection of Jesus, with Mary the focus of both wings. The altarpiece examines Mary's relationship with Christ at different stagesof his life. It is notable for its use of colour, distinguished by its use of whites, reds and blues, and use of line—notably the line of Christ's body in the central panel—and, typically of van der Weyden, its emotional impact. Typical for triptychs of the period, the altarpiece is rich in religious symbolism; each panel is framed by a rounded-headed arch with Gothic decorations in open tracery below and in the spandrel. Each is lined with highly detailed simulated relief sculptures, with complicated iconography. The altarpiece influenced contemporary painters, especially in the use of symbolically decorated portals placed as imaginary reliefs in the framing arches. It is thought to have informed works by Petrus Christus, Dirk Bouts and Hans Memling.</field>
+<field name="label">Miraflores Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2d/Rogier_van_der_Weyden_-_The_Altar_of_Our_Lady_(Miraflores_Altar)_-_Google_Art_Project.jpg</field>
+<field name="comment">The Miraflores Altarpiece (or Triptych of the Virgin, or The Altar of Our Lady or the Mary Altarpiece) is a c. 1442-5 oil-on-oak wood panel altarpiece by the Early Netherlandish painter Rogier van der Weyden, in the Gemäldegalerie, Berlin since 1850.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Rogier_van_der_Weyden_-_The_Altar_of_Our_Lady_(Miraflores_Altar)_-_Google_Art_Project.jpg/200px-Rogier_van_der_Weyden_-_The_Altar_of_Our_Lady_(Miraflores_Altar)_-_Google_Art_Project.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Miraflores_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Miraflores_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Miraflores_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Miraflores_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Miraflores_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q323032</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Miraflores_Altarpiece</field>
+</doc>
+</add>

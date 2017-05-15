@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Tondo_severiano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Severan_Tondo</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Septimius-Severus-Tondo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Severan_Tondo</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Tondo_severiano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Severan_Tondo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Severan_Tondo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Tondo_severiano</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Severan_Tondo</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Septimius-Severus-Tondo</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Septimius_Severus-tondoen</field>
+<field name="sameAs">http://dbpedia.org/resource/Severan_Tondo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q469722</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026cszx</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Tondo_severiano</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Empire_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Antikensammlung_Berlin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_of_ancient_Greece_and_Rome</field>
+<field name="abstract">The Severan Tondo, from circa AD 200, is one of the few preserved examples of panel painting from Classical Antiquity. It is a tempera or egg-based painting on a circular wooden panel, with a diameter of 30.5 cm. At present, it is on display at the Antikensammlung Berlin (inventory number 31329). The panel depicts the Roman Emperor Septimus Severus with his family: to the left his wife Julia Domna, in front of them their sons Geta and Caracalla. All are wearing sumptuous ceremonial garments; Septimus Severus and his sons are also holding sceptres and wearing gold wreaths decorated with precious stones. Geta's face has been removed, probably after his murder by his brother Caracalla and the ensuing damnatio memoriae. The image is probably an example of imperial portraits that were mass-produced to be displayed in offices and public buildings throughout the empire - as part of Roman legal procedure some documents had normally to be signed in front of an image of the Emperor, which gave them the same status as if signed in his actual presence. With each change of emperor, they would have been discarded or replaced. Since wood is an organic material and does not normally survive, the Berlin Tondo remains, so far, the only surviving specimen of this type of painting. It appears to be of Egyptian origin. Originally, the tondo had most likely a square or rectangular shape. This is best visible at the scepters the males of the picture are holding. The upper parts once adorned with imperial symbols are today missing. It seems that it was cut in modern times for better selling it on the art market.</field>
+<field name="label">Severan Tondo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5f/Severan_dynasty_-_tondo.png</field>
+<field name="comment">The Severan Tondo, from circa AD 200, is one of the few preserved examples of panel painting from Classical Antiquity. It is a tempera or egg-based painting on a circular wooden panel, with a diameter of 30.5 cm. At present, it is on display at the Antikensammlung Berlin (inventory number 31329). The panel depicts the Roman Emperor Septimus Severus with his family: to the left his wife Julia Domna, in front of them their sons Geta and Caracalla.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Severan_dynasty_-_tondo.png/200px-Severan_dynasty_-_tondo.png</field>
+<field name="city"/>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Severan Tondo</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Severan_Tondo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Severan_Tondo</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Severan_Tondo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Severan_Tondo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Severus_Tondo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q469722</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Severan_Tondo</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Septimius_Severus-tondoen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Severan_Tondo</field>
+</doc>
+</add>

@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Stars_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stars_(M._C._Escher)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04d67g</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7602298</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Stars_(M._C._Escher)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1948_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Canada</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Woodcuts</field>
+<field name="abstract">Stars is a wood engraving print by the Dutch artist M. C. Escher which was first printed in October 1948, depicting two chameleons in a polyhedral cage floating through space.</field>
+<field name="label">Stars (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a9/Escher_Stars.JPG</field>
+<field name="comment">Stars is a wood engraving print by the Dutch artist M. C. Escher which was first printed in October 1948, depicting two chameleons in a polyhedral cage floating through space.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Escher_Stars.JPG/200px-Escher_Stars.JPG</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Stars</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Stars_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Stars_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Star_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Stars_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Stars_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7602298</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stars_(M._C._Escher)</field>
+</doc>
+</add>

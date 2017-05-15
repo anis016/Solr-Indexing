@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Procession_of_Flagellants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Procession_of_Flagellants</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Procession_of_Flagellants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Procesión_de_disciplinantes</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch1m_x</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4659044</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Procession_of_Flagellants</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Procession_of_Flagellants</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1819_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">A Procession of Flagellants (Procesión de disciplinantes, or Procesión de flagelantes) is an oil-on-panel painting produced by Francisco de Goya between 1812 and 1819. In the foreground is a procession of Roman Catholic men dressed in white, wearing pointed hats and whipping their bared backs in penitence. Their backs are bleeding and they pull over-life-size statues of Nuestra Señora dela Soledad, the Ecce Homo and the Crucifixion of Christ. Other devotees, who are kneeling and wearing black hoods, line the route. On the right a man is impaled and all are carrying banners, crosses and lamps.</field>
+<field name="label">A Procession of Flagellants</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/17/Francisco_de_Goya_y_Lucientes_025.jpg</field>
+<field name="comment">A Procession of Flagellants (Procesión de disciplinantes, or Procesión de flagelantes) is an oil-on-panel painting produced by Francisco de Goya between 1812 and 1819. In the foreground is a procession of Roman Catholic men dressed in white, wearing pointed hats and whipping their bared backs in penitence. Their backs are bleeding and they pull over-life-size statues of Nuestra Señora dela Soledad, the Ecce Homo and the Crucifixion of Christ.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Francisco_de_Goya_y_Lucientes_025.jpg/200px-Francisco_de_Goya_y_Lucientes_025.jpg</field>
+<field name="link_external">http://www.artehistoria.jcyl.es/genios/cuadros/2706.htm</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Real_Academia_de_Bellas_Artes_de_San_Fernando</field>
+<field name="title">Procesión de disciplinantes</field>
+<field name="type">Oil on panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Procession_of_Flagellants</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Procession_of_Flagellants</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Procesión_de_disciplinantes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Procession_of_Flagellants</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4659044</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Procession_of_Flagellants</field>
+</doc>
+</add>

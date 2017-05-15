@@ -1,0 +1,94 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_di_Lucca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucca_Madonna_(van_Eyck)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_z_Lukki</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucca_Madonna_(van_Eyck)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lucca_Madonna_(van_Eyck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucca_Madonna_(van_Eyck)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_z_Lukki</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02ryd71</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Vierge_de_Lucques</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Lucca-Madonna</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ルッカの聖母</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lucca_Madonna_(van_Eyck)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q474409</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_di_Lucca</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jan_van_Eyck</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_St%C3%A4del</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1436_paintings</field>
+<field name="abstract">The Lucca Madonna is an 1436 oil painting of the Madonna and Child by the Early Netherlandish master Jan van Eyck. It is on display in the Städel Museum in Frankfurt. It is known as Lucca Madonna as it belonged to the collection of Charles II, Duke of Parma and Lucca, in the early 19th century. It is one of the latest works by Jan van Eyck. The Virgin has been identified as a portrait of the painters's wife, Margaretha, of whom van Eyck also made a secular portrait. It portrays the Virgin sitting on a throne with four small lion statues, a reference to the throne of Solomon, which had twelve lions on the sides and steps. In Iconography this depiction of Madonna and Child, with Jesus sitting on Mary's knee, is called the Throne of Wisdom, and is a common iconological type. As the Speculum Humanae Salvationis put it: "the throne of the true Solomon is the most Blessed Virgin Mary, In which sat Jesus Christ, the true wisdom. " As in many paintings by van Eyck and his contemporaries, this comparison is further elaborated by specifically comparing Mary to an altar, where on her flat lap she supports the infant Christ, just as the altar supports the presence of Christ in the host at Mass. The white cloth beneath him, over the richer coloured cloth of Mary's dress, and the niche to the right which resembles a piscina where water for the priest to wash his hands was kept, all contribute to the comparison. The unusual shape of the room, very narrow for such a large chair, suggests a small chapel.</field>
+<field name="label">Lucca Madonna (van Eyck)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/51/Jan_van_Eyck_076.jpg</field>
+<field name="comment">The Lucca Madonna is an 1436 oil painting of the Madonna and Child by the Early Netherlandish master Jan van Eyck. It is on display in the Städel Museum in Frankfurt. It is known as Lucca Madonna as it belonged to the collection of Charles II, Duke of Parma and Lucca, in the early 19th century. It is one of the latest works by Jan van Eyck. The Virgin has been identified as a portrait of the painters's wife, Margaretha, of whom van Eyck also made a secular portrait.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Jan_van_Eyck_076.jpg/200px-Jan_van_Eyck_076.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=644</field>
+<field name="artist">http://dbpedia.org/resource/Jan_van_Eyck</field>
+<field name="city"/>
+<field name="height">65.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Lucca Madonna</field>
+<field name="type">Oil on panel</field>
+<field name="width">149.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lucca_Madonna_(van_Eyck)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lucca_Madonna_(van_Eyck)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Vierge_de_Lucques</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucca_Madonna_(van_Eyck)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lucca_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_and_Child_(Jan_van_Eyck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_Child_(van_Eyck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Lucca-Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucca_Madonna_(van_Eyck)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lucca_Madonna_(van_Eyck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lucca_Madonna_(van_Eyck)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q474409</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucca_Madonna_(van_Eyck)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ルッカの聖母</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucca_Madonna_(van_Eyck)</field>
+</doc>
+</add>

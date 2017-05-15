@@ -14,4 +14,3 @@ curl -X POST 'http://localhost:8983/solr/pdfs/update/extract?extractFormat=text&
 
 another way:
 java -Durl=http://localhost:8983/solr/pdfs/update/extract -Dcommit=yes -Dtype=application/pdf -jar exampledocs/post.jar ~/apache/solr-4.10.3/solr-app/solr_home/pdfs/pdfs_res/Apache_Solr.pdf
-

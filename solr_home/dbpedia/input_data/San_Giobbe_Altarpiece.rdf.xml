@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Sacra_Conversación_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giobbe_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Giobbe_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_di_San_Giobbe</field>
+<field name="sameAs">http://yago-knowledge.org/resource/San_Giobbe_Altarpiece</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giobbe_Altarpiece</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1751408</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Sacra_Conversación_(Bellini)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx1p5z</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ołtarz_św._Hioba</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gallerie_dell'Accademia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Bellini</field>
+<field name="abstract">The San Giobbe Altarpiece is a c. 1487 oil painting by the Italian Renaissance master Giovanni Bellini, now in the Accademia Gallery in Venice.</field>
+<field name="label">San Giobbe Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/40/Pala_di_san_giobbe_01.jpg</field>
+<field name="comment">The San Giobbe Altarpiece is a c. 1487 oil painting by the Italian Renaissance master Giovanni Bellini, now in the Accademia Gallery in Venice.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Pala_di_san_giobbe_01.jpg/200px-Pala_di_san_giobbe_01.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Giovanni_Bellini</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="height">471</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum"/>
+<field name="title">San Giobbe Altarpiece</field>
+<field name="type">Oil on panel</field>
+<field name="width">258</field>
+<field name="year">c. 1487</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/San_Giobbe_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/San_Giobbe_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_St._Giobbe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pala_di_San_Giobbe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Virgin_Enthroned_with_Saints_and_Angels_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/San_Giobbe_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/San_Giobbe_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_di_San_Giobbe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giobbe_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ołtarz_św._Hioba</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giobbe_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1751408</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Giobbe_Altarpiece</field>
+</doc>
+</add>

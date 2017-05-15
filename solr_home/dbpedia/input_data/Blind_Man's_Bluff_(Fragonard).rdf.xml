@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blind_man's_bluff</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blind_Man's_Bluff_(Fragonard)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_gallina_ciega_(Fragonard)</field>
+<field name="sameAs">http://dbpedia.org/resource/Blind_Man's_Bluff_(Fragonard)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Blind_Man's_Bluff_(Fragonard)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09k6dsj</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q974414</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Blind_Man's_Bluff</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1760s_paintings</field>
+<field name="abstract">Blind man's bluff is a painting by the French Roccoco painter Jean Honoré Fragonard, produced around 1769 in oil on canvas. It is full of deceptions – the girl is looking out from under her blindfold and the game seems to be a pretext leading to seduction; the two figures are in pastoral costume, but may be noble or bourgeois figures playing at being pastoral figures; the background seems to be a wood but could be a stage set. In short, it seems to abolish the boundary between truth and lies, reality and fiction.</field>
+<field name="label">Blind Man's Bluff (Fragonard)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f9/Fragonard_collin_maillard.jpg</field>
+<field name="comment">Blind man's bluff is a painting by the French Roccoco painter Jean Honoré Fragonard, produced around 1769 in oil on canvas. It is full of deceptions – the girl is looking out from under her blindfold and the game seems to be a pretext leading to seduction; the two figures are in pastoral costume, but may be noble or bourgeois figures playing at being pastoral figures; the background seems to be a wood but could be a stage set.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Fragonard_collin_maillard.jpg/200px-Fragonard_collin_maillard.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Jean-Honor%C3%A9_Fragonard</field>
+<field name="city">http://dbpedia.org/resource/Toledo,_Ohio</field>
+<field name="height">114</field>
+<field name="museum">http://dbpedia.org/resource/Toledo_Museum_of_Art</field>
+<field name="title">Blind man's bluff</field>
+<field name="type">oil on canvas</field>
+<field name="width">90</field>
+<field name="year">c.1760</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Blind_Man's_Bluff_(Fragonard)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Blind_Man's_Bluff_(Fragonard)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Blind_Man's_Bluff_(Fragonard)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Blind_Man's_Bluff_(Fragonard)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_gallina_ciega_(Fragonard)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Blind_Man's_Bluff_(Fragonard)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blind_man's_bluff_(Fragonard)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q974414</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Blind_Man's_Bluff_(Fragonard)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Blind_Man's_Bluff</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Blind_Man's_Bluff_(Fragonard)</field>
+</doc>
+</add>

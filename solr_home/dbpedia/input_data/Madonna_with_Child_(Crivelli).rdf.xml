@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_Child_(Crivelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05mt2pb</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_with_Child_(Crivelli)</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Child_(Crivelli)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_di_Macerata</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q955295</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Macerata</field>
+<field name="abstract">The Madonna with Child by Renaissance artist Carlo Crivelli is a Madonna painting dating to 1470. It was painted with tempera on wood, then transferred to canvas. It was a piece of an altar in the Church of the Osservanti in Macerata, Marche, Italy. It is now located in the Pinacoteca di Macerata.</field>
+<field name="label">Madonna with Child (Crivelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/05/Carlo_Crivelli_-_Madonna_con_Bambino.jpg</field>
+<field name="comment">The Madonna with Child by Renaissance artist Carlo Crivelli is a Madonna painting dating to 1470. It was painted with tempera on wood, then transferred to canvas. It was a piece of an altar in the Church of the Osservanti in Macerata, Marche, Italy. It is now located in the Pinacoteca di Macerata.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Carlo_Crivelli_-_Madonna_con_Bambino.jpg/200px-Carlo_Crivelli_-_Madonna_con_Bambino.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Carlo_Crivelli</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum"/>
+<field name="title">Madonna with Child</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_with_Child_(Crivelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_with_Child_(Crivelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_with_Child_(Crivelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_with_Child_(Crivelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_di_Macerata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Child_(Crivelli)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q955295</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Child_(Crivelli)</field>
+</doc>
+</add>

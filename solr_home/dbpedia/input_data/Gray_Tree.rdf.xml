@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gray_Tree</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gray_Tree</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5598238</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Gray_Tree</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08l7_4</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piet_Mondrian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1912_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Grey Tree is an oil painting by Piet Mondrian. This painting was made in 1911 on canvas on a board measuring 78.5 × 107.5 cm. It is presently exhibited at Gemeentemuseum Den Haag, The Hague. The work came at a time when Mondrian was beginning to experiment with Cubism: its foreground and background elements seem to intermingle, and the palette is very restricted. The tree is subtly oval in form, following another Cubist practice seen in works by Picasso and Georges Braque. Mondrian's oval became explicit, framing the work, in paintings that followed over the next three or four years. Apple Tree in Flower, also from 1912, is a similarly sized composition. Though the outline of the "apple tree" recalls that of Grey Tree, the work is significantly more faceted and abstract.</field>
+<field name="label">Gray Tree</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/ff/Mondrian_gray_tree.jpg</field>
+<field name="comment">Grey Tree is an oil painting by Piet Mondrian. This painting was made in 1911 on canvas on a board measuring 78.5 × 107.5 cm. It is presently exhibited at Gemeentemuseum Den Haag, The Hague. The work came at a time when Mondrian was beginning to experiment with Cubism: its foreground and background elements seem to intermingle, and the palette is very restricted. The tree is subtly oval in form, following another Cubist practice seen in works by Picasso and Georges Braque.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Mondrian_gray_tree.jpg/200px-Mondrian_gray_tree.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Gray_Tree</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Gray_Tree</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Gray_Tree</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Gray_Tree</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5598238</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gray_Tree</field>
+</doc>
+</add>

@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blue_Poles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2907210</field>
+<field name="sameAs">http://dbpedia.org/resource/Blue_Poles</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Blue_Poles</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.071cnv</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Blue_Poles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Australia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Abstract_expressionism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jackson_Pollock</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1952_paintings</field>
+<field name="abstract">Blue Poles, originally titled Number 11, 1952, is an abstract expressionist painting and one of the most famous works by American artist Jackson Pollock. It was purchased amid controversy by the National Gallery of Australia in 1973 and today remains one of the gallery's major holdings.</field>
+<field name="label">Blue Poles</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2d/Blue_Poles_(Jackson_Pollock_painting).jpg</field>
+<field name="comment">Blue Poles, originally titled Number 11, 1952, is an abstract expressionist painting and one of the most famous works by American artist Jackson Pollock. It was purchased amid controversy by the National Gallery of Australia in 1973 and today remains one of the gallery's major holdings.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Blue_Poles_(Jackson_Pollock_painting).jpg/200px-Blue_Poles_(Jackson_Pollock_painting).jpg</field>
+<field name="link_external">http://www.nga.gov.au/International/Catalogue/Detail.cfm?IRN=36334&amp;MnuID=2&amp;GalID=1</field>
+<field name="artist">http://dbpedia.org/resource/Jackson_Pollock</field>
+<field name="city">http://dbpedia.org/resource/Canberra</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Australia</field>
+<field name="title">Blue Poles</field>
+<field name="type">Enamel and aluminium paint with glass on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Blue_Poles</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Blue_Poles</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blue_poles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Blue_Poles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Blue_Poles</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Blue_Poles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Blue_Poles</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2907210</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Blue_Poles</field>
+</doc>
+</add>

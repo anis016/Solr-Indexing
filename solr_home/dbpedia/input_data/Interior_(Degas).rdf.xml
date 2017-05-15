@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Interior_(Degas)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Interior_(Degas)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Interior</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Rape_(Degas)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Interior_(Degas)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Interior_(Degas)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6046671</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g5r49d</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Interior_(Degas)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edgar_Degas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1869_paintings</field>
+<field name="abstract">Interior, also known as The Rape, is an oil painting on canvas by Edgar Degas (1834–1917), painted in 1868–1869. Described as "the most puzzling of Degas's major works", it depicts a tense confrontation by lamplight between a man and a partially undressed woman. The theatrical character of the scene has led art historians to seek a literary source for the composition, but none of the sources proposed has met with universal acceptance. Even the painting's title is uncertain; acquaintances of the artist referred to it either as Le Viol or Intérieur, and it was under the latter title that Degas exhibited it for the first time in 1905. The painting is housed in the Philadelphia Museum of Art.</field>
+<field name="label">Interior (Degas)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/71/Degas_Intérieur_Philadelphia_Museum_of_Art_1986-26-10.jpg</field>
+<field name="comment">Interior, also known as The Rape, is an oil painting on canvas by Edgar Degas (1834–1917), painted in 1868–1869. Described as "the most puzzling of Degas's major works", it depicts a tense confrontation by lamplight between a man and a partially undressed woman. The theatrical character of the scene has led art historians to seek a literary source for the composition, but none of the sources proposed has met with universal acceptance.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Degas_Intérieur_Philadelphia_Museum_of_Art_1986-26-10.jpg/200px-Degas_Intérieur_Philadelphia_Museum_of_Art_1986-26-10.jpg</field>
+<field name="link_external">http://www.burlington.org.uk/magazine/back-issues/2007/200705/</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/60673/rec/6</field>
+<field name="link_external">http://www.thenation.com/archive/art-103</field>
+<field name="artist">http://dbpedia.org/resource/Edgar_Degas</field>
+<field name="city"/>
+<field name="height">81.3</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Philadelphia_Museum_of_Art</field>
+<field name="title">Interior</field>
+<field name="type">Oil on canvas</field>
+<field name="width">114.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Interior_(Degas)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Interior_(Degas)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6046671</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Interior_(Degas)</field>
+</doc>
+</add>

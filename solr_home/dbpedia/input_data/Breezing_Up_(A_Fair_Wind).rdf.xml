@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Breezing_Up_(A_Fair_Wind)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4960357</field>
+<field name="sameAs">http://dbpedia.org/resource/Breezing_Up_(A_Fair_Wind)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Breezing_Up_(A_Fair_Wind)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0crd2yc</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Breezing_Up</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1876_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Winslow_Homer</field>
+<field name="abstract">Breezing Up (A Fair Wind) is an oil painting by American artist Winslow Homer. It depicts a catboat called the Gloucester chopping through that city's harbor under "a fair wind" (Homer's original title). Inside the boat are a man, three boys, and their catch. Homer began the canvas in New York in 1873, after he had visited Gloucester, Massachusetts, where he first worked in watercolor. He used the sketches made there, of which the most closely related is Sailing the Catboat (1873), for the oil painting, which he worked on over three years. Infrared reflectography has revealed the many changes he made to the composition during this time, including the removal of a fourth boy near the mast and a second schooner in the distance. At one point the adult held both the sheet and the tiller, a position initially adapted from an oil study of 1874 titled The Flirt. The painting's message is positive; despite the choppy waves, the boaters look relaxed. The anchor that replaced the boy in the bow was understood to symbolize hope. The boy holding the tiller looks forward to the horizon, a statement of optimism about his future and that of the young United States. The finished work indicates that the significant influence of Japanese art on Western painters in the 19th century also touched Homer, particularly in the compositional balance between the left (active) and right (sparse) halves. Homer had visited France in 1866 and 1867, and the influence of marine scenes by the French painters Gustave Courbet and Claude Monet is apparent as well. Not all of Homer's sea pictures are so benevolent as Breezing Up: he portrayed waves crashing ashore as did Courbet (see for example The Wave, c. 1869). Monet's relatively early paintings Seascape: Storm (1867) and The Green Wave (1866) show boats on somewhat turbulent seas. Completed in the centennial year 1876, the painting was first exhibited at the National Academy of Design that year, then at the Centennial Exposition in Philadelphia. By 1879, it had come to be known as Breezing Up, a title that was not the artist's but one which he did not seem to object to. A contemporary critic described the painting: "It is painted in [Homer's Homer's] customary coarse and negligé style, but suggests with unmistakable force the life and motion of a breezy summer day off the coast. The fishing boat, bending to the wind, seems actually to cleave the waves. There is no truer or heartier work in the exhibition. " Another wrote, "Much has already been said in praise of the easy, elastic motion of the figures of the party in the sailboat, which is scudding along through blue water under 'a fair wind. ' They sway with the rolling boat, and relax or grow rigid as the light keel rises or sinks upon the waves. Every person who has been similarly situated can recall how, involuntarily, his back stiffened or his knees bent as he felt the roll of the waves beneath him. " Today, Breezing Up is considered an iconic American painting, and among Homer's finest. The National Gallery of Art purchased the work in 1943, described by the institution's web site as "one of the best-known and most beloved artistic images of life in nineteenth-century America."</field>
+<field name="label">Breezing Up (A Fair Wind)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2a/Breezing_Up_(A_Fair_Wind)_by_Winslow_Homer,_1873-76.png</field>
+<field name="comment">Breezing Up (A Fair Wind) is an oil painting by American artist Winslow Homer. It depicts a catboat called the Gloucester chopping through that city's harbor under "a fair wind" (Homer's original title). Inside the boat are a man, three boys, and their catch. Homer began the canvas in New York in 1873, after he had visited Gloucester, Massachusetts, where he first worked in watercolor.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Breezing_Up_(A_Fair_Wind)_by_Winslow_Homer,_1873-76.png/200px-Breezing_Up_(A_Fair_Wind)_by_Winslow_Homer,_1873-76.png</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=30228</field>
+<field name="artist">http://dbpedia.org/resource/Winslow_Homer</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">Breezing Up</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Breezing_Up_(A_Fair_Wind)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Breezing_Up_(A_Fair_Wind)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Breezing_Up_(A_Fair_Wind)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Breezing_Up_(A_Fair_Wind)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Breezing_Up</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4960357</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Breezing_Up_(A_Fair_Wind)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Breezing_Up</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Breezing_Up_(A_Fair_Wind)</field>
+</doc>
+</add>

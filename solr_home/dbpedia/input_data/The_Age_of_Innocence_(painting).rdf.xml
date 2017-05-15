@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Age_of_Innocence_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hrc4l6</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Age_of_Innocence_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Age_of_Innocence_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7712851</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joshua_Reynolds</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1788_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="abstract">The Age of Innocence is an oil on canvas picture by Sir Joshua Reynolds, painted in either 1785 or 1788 and measuring 765 x 638 mm. The sitter is unknown, but was possibly Reynolds's great-niece Theophila Gwatkin (who was three in 1785), or Lady Anne Spencer (1773-1865), the youngest daughter of the 4th Duke of Marlborough. The picture is a character study, or, in 18th-century terms, a fancy picture, and was painted over another Reynolds work, A Strawberry Girl, perhaps because Strawberry had suffered some paint losses. Only the hands remain in their original state. Innocence itself has deteriorated since 1859. The picture was presented to the National Gallery in 1847 by Robert Vernon, and has hung in the Tate since 1951. The picture became a favourite with the public, and was copied hundreds of times.</field>
+<field name="label">The Age of Innocence (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c2/.Fig_1_Sir_Joshua_Reynolds_The_Age_of_Innocence._Painted_circa_1788._Frame_contemporary_with_picture._From_Houghton,_2005,_24..jpg</field>
+<field name="comment">The Age of Innocence is an oil on canvas picture by Sir Joshua Reynolds, painted in either 1785 or 1788 and measuring 765 x 638 mm. The sitter is unknown, but was possibly Reynolds's great-niece Theophila Gwatkin (who was three in 1785), or Lady Anne Spencer (1773-1865), the youngest daughter of the 4th Duke of Marlborough.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/.Fig_1_Sir_Joshua_Reynolds_The_Age_of_Innocence._Painted_circa_1788._Frame_contemporary_with_picture._From_Houghton,_2005,_24..jpg/200px-.Fig_1_Sir_Joshua_Reynolds_The_Age_of_Innocence._Painted_circa_1788._Frame_contemporary_with_picture._From_Houghton,_2005,_24..jpg</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=12395&amp;tabview=text</field>
+<field name="artist">http://dbpedia.org/resource/Joshua_Reynolds</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate</field>
+<field name="title">The Age of Innocence</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Age_of_Innocence_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Age_of_Innocence_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Age_of_Innocence_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Age_of_Innocence_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Age_of_Innocence_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Age_of_Innocence_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Age_of_Innocence_(1788_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7712851</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Age_of_Innocence_(painting)</field>
+</doc>
+</add>

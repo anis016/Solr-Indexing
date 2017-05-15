@@ -1,0 +1,372 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_Giovanni_Arnolfini_y_su_esposa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/아르놀피니_부부의_초상</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arnolfini_Betrothal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_четы_Арнольфини</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Arnolfini-Hochzeit</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Époux_Arnolfini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_dei_coniugi_Arnolfini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/アルノルフィーニ夫妻像</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_małżonków_Arnolfinich</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Arnolfini_Wedding</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Manželia_Arnolfiniovci</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/არნოლფინების_ოჯახის_პორტრეტი</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Arnolfinis_bryllup</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ο_γάμος_των_Αρνολφίνι</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_четы_Арнольфини</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/O_matrimonio_Arnolfini</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/阿尔诺非尼夫妇</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภาพเหมือนอาร์โนลฟินิ</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Arnolfinis_bryllup</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_matrimoni_Arnolfini</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/アルノルフィーニ夫妻像</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Coniuges_Arnolfini</field>
+<field name="sameAs">http://arz.dbpedia.org/resource/بورتريه_ارنولفينى</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/아르놀피니_부부의_초상</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.040db6</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_dei_coniugi_Arnolfini</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Arnolfini'nin_Evlenmesi</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Arnolfini_senar-emazteen_erretratua</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_małżonków_Arnolfinich</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Portret_van_Giovanni_Arnolfini_en_zijn_vrouw</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Arnolfini_házaspár_(festmény)</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Portret_Arnolfinijevih</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ο_Γάμος_των_Αρνολφίνι_(Βαν_Άικ)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Arnolfini_Portrait</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q220859</field>
+<field name="sameAs">http://he.dbpedia.org/resource/נישואי_הזוג_ארנולפיני</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Époux_Arnolfini</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_Giovanni_Arnolfini_y_su_esposa</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Портрет_подружжя_Арнольфіні</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/La_geedzoj_Arnolfini</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/O_Casal_Arnolfini</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Arnolfini-Hochzeit</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Giovanni_Arnolfini_ja_hänen_vaimonsa</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1434_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jan_van_Eyck</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="abstract">The Arnolfini Portrait is an oil painting on oak panel dated 1434 by the Early Netherlandish painter Jan van Eyck. It is also known as The Arnolfini Wedding, The Arnolfini Marriage, The Arnolfini Double Portrait or the Portrait of Giovanni Arnolfini and his Wife, among other titles. The painting is a small full-length double portrait, which is believed to represent the Italian merchant Giovanni di Nicolao Arnolfini and possibly his wife, presumably in their home in the Flemish city of Bruges. It is considered one of the more original and complex paintings in Western art because of the iconography, the unusual geometric orthogonal perspective, the use of the mirror to reflect an inverted reflection of the space, and that the portrait is considered unique by some art historians as the record of a marriage contract in the form of a painting. According to Ernst Gombrich "in its own way it was as new and revolutionary as Donatello's or Masaccio's work in Italy. A simple corner of the real world had suddenly been fixed on to a panel as if by magic ... For the first time in history the artist became the perfect eye-witness in the truest sense of the term". Signed and dated by van Eyck in 1434, it is, with the Ghent Altarpiece by the same artist and his brother Hubert, the oldest very famous panel painting to have been executed in oils rather than in tempera. The painting was bought by the National Gallery in London in 1842. Van Eyck used the technique of applying layer after layer of thin translucent glazes to create a painting with an intensity of both tone and colour. The glowing colours also help to highlight the realism, and to show the material wealth and opulence of Arnolfini's world. Van Eyck took advantage of the longer drying time of oil paint, compared to tempera, to blend colours by painting wet-in-wet to achieve subtle variations in light and shade to heighten the illusion of three-dimensional forms. The medium of oil paint also permitted van Eyck to capture surface appearance and distinguish textures precisely. He also rendered the effects of both direct and diffuse light by showing the light from the window on the left reflected by various surfaces. It has been suggested that he used a magnifying glass in order to paint the minute details such as the individual highlights on each of the amber beads hanging beside the mirror. The illusionism of the painting was remarkable for its time, in part for the rendering of detail, but particularly for the use of light to evoke space in an interior, for "its utterly convincing depiction of a room, as well of the people who inhabit it". Whatever meaning is given to the scene and its details, and there has been much debate on this, according to Craig Harbison the painting "is the only fifteenth-century Northern panel to survive in which the artist's contemporaries are shown engaged in some sort of action in a contemporary interior. It is indeed tempting to call this the first genre painting - a painting of everyday life - of modern times".</field>
+<field name="label">Arnolfini Portrait</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg</field>
+<field name="comment">The Arnolfini Portrait is an oil painting on oak panel dated 1434 by the Early Netherlandish painter Jan van Eyck. It is also known as The Arnolfini Wedding, The Arnolfini Marriage, The Arnolfini Double Portrait or the Portrait of Giovanni Arnolfini and his Wife, among other titles. The painting is a small full-length double portrait, which is believed to represent the Italian merchant Giovanni di Nicolao Arnolfini and possibly his wife, presumably in their home in the Flemish city of Bruges.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Van_Eyck_-_Arnolfini_Portrait.jpg/200px-Van_Eyck_-_Arnolfini_Portrait.jpg</field>
+<field name="link_external">http://www.loschermo.it/articolo.php?idart=25082</field>
+<field name="link_external">http://ark.cdlib.org/ark:/13030/ft1d5nb0d9/</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=NG186</field>
+<field name="link_external">http://www.jstor.org/stable/20474305</field>
+<field name="link_external">http://commons.wikimedia.org/wiki/Image:Infantas_Isabella_Clara_Eugenia_and_Catalina_Micaela_of_Spain.jpg</field>
+<field name="link_external">http://www.jstor.org/stable/865802</field>
+<field name="link_external">http://www.thefreelibrary.com/The+Arnolfini+double+portrait%3A+a+simple+solution.-a0109131988</field>
+<field name="link_external">http://books.google.co.uk/books?id=IJOwCF2xkc4C</field>
+<field name="link_external">http://books.google.co.uk/books?id=1fEUAAAAQAAJ</field>
+<field name="link_external">http://www.mnemosyne.org/iconography/practice/arnolfini-1</field>
+<field name="link_external">http://www.open2.net/historyandthearts/arts/mystery_synopsis.html</field>
+<field name="link_external">http://www.umass.edu/chronicle/archives/00/04-14/harbison28.html</field>
+<field name="link_external">http://www.haberarts.com/trueart.htm</field>
+<field name="link_external">http://books.google.co.uk/books?id=KjyfulXftoAC</field>
+<field name="link_external">http://smarthistory.khanacademy.org/giovanni-arnolfini-and-his-wife.html</field>
+<field name="link_external">http://www.jstor.org/stable/2928641</field>
+<field name="link_external">http://www.jstor.org/stable/1343626</field>
+<field name="link_external">http://www.jstor.org/pss/2862365</field>
+<field name="link_external">http://www.jstor.org/pss/3780611</field>
+<field name="artist">http://dbpedia.org/resource/Jan_van_Eyck</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">82.2</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">The Arnolfini Portrait</field>
+<field name="type">Oil on oak panel of 3 vertical boards</field>
+<field name="width">60</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Arnolfini_Portrait</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Arnolfini_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ο_Γάμος_των_Αρνολφίνι_(Βαν_Άικ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/O_Casal_Arnolfini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arnolofini_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Giovanni_Arnolfini_and_his_Wife</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Giovonni_Arnolfini_and_His_Bride</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Giovanni_Arnolfini_and_His_Bride</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Arnolfini_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arnolfini_Wedding</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Arnolfini_portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arnolfini_portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arnolfini.marriage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arnolfini_Double_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arnolfini_Marriage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arnolfini_Wedding_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arnolfini_wedding</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Betrothal_Of_The_Arnolfini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portret_van_Giovanni_Arnolfini_en_Zijn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portret_van_Giovanni_Arnolfini_en_Zijn_Vrouw</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Arnolfini_Double_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Arnolfini_Marriage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wedding_of_Arnolfini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Portret_van_Giovanni_Arnolfini_en_zijn_vrouw</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Arnolfini_senar-emazteen_erretratua</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/阿尔诺非尼夫妇</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://arz.dbpedia.org/resource/بورتريه_ارنولفينى</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_matrimoni_Arnolfini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Arnolfinis_bryllup</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/La_geedzoj_Arnolfini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Giovanni_Arnolfini_ja_hänen_vaimonsa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/O_matrimonio_Arnolfini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/נישואי_הזוג_ארנולפיני</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Portret_Arnolfinijevih</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Arnolfini_házaspár_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/არნოლფინების_ოჯახის_პორტრეტი</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Coniuges_Arnolfini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Arnolfinis_bryllup</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Manželia_Arnolfiniovci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภาพเหมือนอาร์โนลฟินิ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Arnolfini'nin_Evlenmesi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Портрет_подружжя_Арнольфіні</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q220859</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arnolfini_Portrait</field>
+</doc>
+</add>

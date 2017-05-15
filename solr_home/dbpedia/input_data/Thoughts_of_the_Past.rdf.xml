@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Thoughts_of_the_Past</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Thoughts_of_the_Past</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j29wms</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Thoughts_of_the_Past</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7797015</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1859_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="abstract">Thoughts of the Past is an oil painting on canvas by English Pre-Raphaelite artist John Roddam Spencer Stanhope, first exhibited 1859 and currently housed at Tate Britain.</field>
+<field name="label">Thoughts of the Past</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/87/John_Roddam_Spencer_Stanhope_-_Thoughts_of_the_Past_-_Google_Art_Project.jpg</field>
+<field name="comment">Thoughts of the Past is an oil painting on canvas by English Pre-Raphaelite artist John Roddam Spencer Stanhope, first exhibited 1859 and currently housed at Tate Britain.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/John_Roddam_Spencer_Stanhope_-_Thoughts_of_the_Past_-_Google_Art_Project.jpg/200px-John_Roddam_Spencer_Stanhope_-_Thoughts_of_the_Past_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.npg.org.uk/live/search/portrait.asp?mkey=mw05983</field>
+<field name="link_external">http://www.tate.org.uk/britain/</field>
+<field name="link_external">http://www.florin.ms/gimeld.html#peetersoberhausen</field>
+<field name="link_external">http://www.victorianartinbritain.co.uk/biog/stanhope.htm</field>
+<field name="link_external">http://members.tripod.com/~midgley/chap04.html</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&amp;workid=13755&amp;searchid=11702</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">86.4</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">Thoughts of the Past</field>
+<field name="type">oil on canvas</field>
+<field name="width">50.8</field>
+<field name="year">Exhibited in 1859</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Thoughts_of_the_Past</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Thoughts_of_the_Past</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Thoughts_of_the_Past</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Thoughts_of_the_Past</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7797015</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Thoughts_of_the_Past</field>
+</doc>
+</add>

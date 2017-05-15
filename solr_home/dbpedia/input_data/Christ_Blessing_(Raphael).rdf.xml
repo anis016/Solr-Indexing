@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Blessing_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1131153</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Kutsayan_İsa_(Rafael)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_Blessing_(Raphael)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Xeyir-dua_verən_Məsih_(Rafael)</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Blessing_(Raphael)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cristo_benedicente_(Raffaello)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05fbb2g</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1505_paintings</field>
+<field name="abstract">Christ Blessing is a painting by the Italian Renaissance artist Raphael. The features of Christ bear some resemblance to Raphael's.</field>
+<field name="label">Christ Blessing (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a8/CristoRaffaello.jpg</field>
+<field name="comment">Christ Blessing is a painting by the Italian Renaissance artist Raphael. The features of Christ bear some resemblance to Raphael's.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/CristoRaffaello.jpg/200px-CristoRaffaello.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Brescia</field>
+<field name="height">30</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Pinacoteca_Tosio_Martinengo</field>
+<field name="title">Christ Blessing</field>
+<field name="width">25</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_Blessing_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_Blessing_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cristo_benedicente_(Raffaello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Blessing_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_Blessing_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_Blessing_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1131153</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Blessing_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Xeyir-dua_verən_Məsih_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Blessing_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Kutsayan_İsa_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Blessing_(Raphael)</field>
+</doc>
+</add>

@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_di_Bardi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bardi_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bardi_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3889239</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bardi_Altarpiece</field>
+<field name="sameAs">http://dbpedia.org/resource/Bardi_Altarpiece</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_di_Bardi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h646qy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Parmigianino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1521_paintings</field>
+<field name="abstract">The Bardi Altarpiece (Italian: Pala di Bardi), is an Italian Mannerist painting by the Italian painter Parmigianino, dating from c. 1521 and housed in the church of Santa Maria at Bardi, Emilia-Romagna, Italy.</field>
+<field name="label">Bardi Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/32/Parmigianino,_pala_di_bardi.jpg</field>
+<field name="comment">The Bardi Altarpiece (Italian: Pala di Bardi), is an Italian Mannerist painting by the Italian painter Parmigianino, dating from c. 1521 and housed in the church of Santa Maria at Bardi, Emilia-Romagna, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Parmigianino,_pala_di_bardi.jpg/200px-Parmigianino,_pala_di_bardi.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Parmigianino</field>
+<field name="city">http://dbpedia.org/resource/Bardi,_Emilia-Romagna</field>
+<field name="height">203</field>
+<field name="image"/>
+<field name="imageSize">310</field>
+<field name="museum"/>
+<field name="title">Bardi Altarpiece</field>
+<field name="type">Tempera on panel</field>
+<field name="width">130</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bardi_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bardi_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mystical_Marriage_of_Saint_Catherine_(Parmigianino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pala_di_Bardi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bardi_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bardi_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mystical_Marriage_of_Saint_Catherine_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3889239</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bardi_Altarpiece</field>
+</doc>
+</add>

@@ -1,0 +1,418 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/게르니카_(그림)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Guernica_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0421l5</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Guernica_(Bild)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Guernica_(tablo)</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/Guernica_(cadro)</field>
+<field name="sameAs">http://ta.dbpedia.org/resource/கெர்னீக்கா_(ஓவியம்)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ゲルニカ_(絵画)</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/格尔尼卡_(绘画)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Guernica_(painting)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="sameAs">http://pa.dbpedia.org/resource/ਗੁਰਨੀਕਾ</field>
+<field name="sameAs">http://hy.dbpedia.org/resource/Գեռնիկա_(նկար)</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Guernica_(maalaus)</field>
+<field name="sameAs">http://an.dbpedia.org/resource/Guernica_(quadro)</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Guernica_(festmény)</field>
+<field name="sameAs">http://mt.dbpedia.org/resource/Guernica_(pittura)</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Guernica_(målning)</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Герника_(картина)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Герніка_(картина)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Gernika_(rəsm_əsəri)</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Guernica_(pictură)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Guernica_(maleri)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Guernica_(quadre)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Guernica_(obraz)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Герника_(картина)</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Герніка,_карціна</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/게르니카_(그림)</field>
+<field name="sameAs">http://ku.dbpedia.org/resource/Guernica_(tablo)</field>
+<field name="sameAs">http://ga.dbpedia.org/resource/Guernica_(pictiúr)</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Guernica_(maleri)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Guernica_(cuadro)</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/Gerniko_(pentraĵo)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q175036</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/گرنیکا</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/غيرنيكا_(لوحة)</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Guernica_(painting)</field>
+<field name="sameAs">http://ml.dbpedia.org/resource/ഗ്വേർണിക്ക</field>
+<field name="sameAs">http://scn.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="sameAs">http://bn.dbpedia.org/resource/গের্নিকা_(চিত্রকর্ম)</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Guernica_(obraz)</field>
+<field name="sameAs">http://cy.dbpedia.org/resource/Guernica_(llun)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Guernica_(quadro)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/גרניקה_(ציור)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Guernica_(schilderij)</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Γκερνίκα_(ζωγραφική)</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Gernika_(margolana)</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/გერნიკა_(ნახატი)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_about_the_Spanish_Civil_War</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Guernica</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vandalized_works_of_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Basque_history</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1937_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cubist_paintings</field>
+<field name="abstract">Guernica is a painting by Pablo Picasso. It was created in response to the bombing of Guernica, a Basque Country village in northern Spain by German and Italian warplanes at the behest of the Spanish Nationalist forces, on 26 April 1937, during the Spanish Civil War. The Spanish Republican government commissioned Picasso to create a large mural for the Spanish display at the Paris International Exposition at the 1937 World's Fair in Paris. Guernica shows the tragedies of war and the suffering it inflicts upon individuals, particularly innocent civilians. This work has gained a monumental status, becoming a perpetual reminder of the tragedies of war, an anti-war symbol, and an embodiment of peace. Upon completion Guernica was displayed around the world in a brief tour, becoming famous and widely acclaimed. This tour helped bring the Spanish Civil War to the world's attention.</field>
+<field name="label">Guernica (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/74/PicassoGuernica.jpg</field>
+<field name="comment">Guernica is a painting by Pablo Picasso. It was created in response to the bombing of Guernica, a Basque Country village in northern Spain by German and Italian warplanes at the behest of the Spanish Nationalist forces, on 26 April 1937, during the Spanish Civil War. The Spanish Republican government commissioned Picasso to create a large mural for the Spanish display at the Paris International Exposition at the 1937 World's Fair in Paris.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/PicassoGuernica.jpg/200px-PicassoGuernica.jpg</field>
+<field name="link_external">http://www.aestheticrealism.org/GUERNICA_dk.htm</field>
+<field name="link_external">http://www.lena-gieseke.com/guernica/movie.html</field>
+<field name="link_external">http://www.worldcatlibraries.org/oclc/7573154&amp;referer=brief_results</field>
+<field name="link_external">http://www.socialistworker.co.uk/art.php?id=11233</field>
+<field name="link_external">http://picasso.csdl.tamu.edu/picasso/WorksIndex?Year=1937&amp;ViewStyle=detail&amp;CurrentItem=151</field>
+<field name="link_external">http://www.iht.com/articles/ap/2008/07/23/arts/Picassos-Guernica.php</field>
+<field name="link_external">http://www.pbs.org/treasuresoftheworld/a_nav/guernica_nav/main_guerfrm.html</field>
+<field name="link_external">http://news.bbc.co.uk/1/hi/magazine/7986540.stm</field>
+<field name="link_external">http://www.elrelojdesol.com/zoomable-paintings/pablo-ruiz-picasso/index2.htm</field>
+<field name="link_external">http://www.thenation.com/doc.mhtml?i=20041213&amp;c=1&amp;s=hoberman</field>
+<field name="link_external">http://www.guardian.co.uk/artanddesign/artblog/2007/apr/26/picassosguernicabattlelives</field>
+<field name="link_external">http://web.org.uk/picasso/secret_guernica.html</field>
+<field name="link_external">http://www.picassoswar.com/index.html</field>
+<field name="link_external">http://www.commondreams.org/headlines03/0203-13.htm</field>
+<field name="link_external">http://www.newyorker.com/archive/2006/06/19/060619craw_artworld?currentPage=all</field>
+<field name="link_external">http://www.guardian.co.uk/artanddesign/2009/jan/26/picasso-tapestry-guernica</field>
+<field name="link_external">http://www.slate.com/id/2078242/</field>
+<field name="link_external">http://community.novacaster.com/attach.pl/341/387/Images_within_images_3rd_Ed.pdf</field>
+<field name="link_external">http://www.guardian.co.uk/comment/story/0,,1764206,00.html</field>
+<field name="link_external">http://www.smu.edu/ecenter/discourse/Francesconi.htm</field>
+<field name="link_external">http://www.pbs.org/treasuresoftheworld/guernica/glevel_1/gtimeline.html</field>
+<field name="artist">http://dbpedia.org/resource/Pablo_Picasso</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="city">http://dbpedia.org/resource/Spain</field>
+<field name="height">349</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa</field>
+<field name="title">Guernica</field>
+<field name="width">776</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Guernica_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Guernica_(Bild)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Guernica_(quadro)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Герника_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Guernica_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Γκερνίκα_(ζωγραφική)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Guernica_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Guernica_(cuadro)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ゲルニカ_(絵画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Guernica_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Guernica_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Guernica_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pablo_Picasso's_Guernica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Picasso's_Guernica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Guernica_(schilderij)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Gernika_(margolana)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q175036</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/格尔尼卡_(绘画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://an.dbpedia.org/resource/Guernica_(quadro)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/غيرنيكا_(لوحة)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Gernika_(rəsm_əsəri)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Герніка,_карціна</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Герника_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://bn.dbpedia.org/resource/গের্নিকা_(চিত্রকর্ম)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Guernica_(quadre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://cy.dbpedia.org/resource/Guernica_(llun)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Guernica_(maleri)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/Gerniko_(pentraĵo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/گرنیکا</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Guernica_(maalaus)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ga.dbpedia.org/resource/Guernica_(pictiúr)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/Guernica_(cadro)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/גרניקה_(ציור)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Guernica_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://hy.dbpedia.org/resource/Գեռնիկա_(նկար)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/გერნიკა_(ნახატი)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ku.dbpedia.org/resource/Guernica_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ml.dbpedia.org/resource/ഗ്വേർണിക്ക</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Guernica_(maleri)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Guernica_(pictură)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://scn.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Guernica_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Guernica_(Picasso)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Guernica_(målning)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ta.dbpedia.org/resource/கெர்னீக்கா_(ஓவியம்)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Guernica_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Герніка_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://mt.dbpedia.org/resource/Guernica_(pittura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pa.dbpedia.org/resource/ਗੁਰਨੀਕਾ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Guernica_(painting)</field>
+</doc>
+</add>

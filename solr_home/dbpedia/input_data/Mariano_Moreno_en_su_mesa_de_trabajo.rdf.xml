@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mariano_Moreno_en_su_mesa_de_trabajo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mariano_Moreno_en_su_mesa_de_trabajo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6762371</field>
+<field name="sameAs">http://dbpedia.org/resource/Mariano_Moreno_en_su_mesa_de_trabajo</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bwk6b0</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Argentine_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_about_the_Argentine_War_of_Independence</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1908_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:National_Historical_Museum_of_Argentina</field>
+<field name="abstract">Mariano Moreno en su mesa de trabajo (Spanish: Mariano Moreno at his work desk) is a portrait by the Chilean artist Pedro Subercaseaux. It shows the artist's interpretation of Mariano Moreno, Secretary of War of the Argentine Primera Junta, the first national government, working at his desk. It is currently regarded as the canonical image of Moreno.</field>
+<field name="label">Mariano Moreno en su mesa de trabajo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fe/Mariano_Moreno_en_su_mesa_de_trabajo.jpg</field>
+<field name="comment">Mariano Moreno en su mesa de trabajo (Spanish: Mariano Moreno at his work desk) is a portrait by the Chilean artist Pedro Subercaseaux. It shows the artist's interpretation of Mariano Moreno, Secretary of War of the Argentine Primera Junta, the first national government, working at his desk. It is currently regarded as the canonical image of Moreno.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Mariano_Moreno_en_su_mesa_de_trabajo.jpg/200px-Mariano_Moreno_en_su_mesa_de_trabajo.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pedro_Subercaseaux</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/National_Historical_Museum_(Argentina)</field>
+<field name="title">Mariano Moreno at his work desk</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mariano_Moreno_en_su_mesa_de_trabajo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mariano_Moreno_en_su_mesa_de_trabajo</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mariano_Moreno_en_su_mesa_de_trabajo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mariano_Moreno_en_su_mesa_de_trabajo</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6762371</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mariano_Moreno_en_su_mesa_de_trabajo</field>
+</doc>
+</add>

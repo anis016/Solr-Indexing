@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Lane_near_Arles_(Landscape_with_Edge_of_a_Road)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Lane_near_Arles_(Landscape_with_Edge_of_a_Road)</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lane_near_Arles_(Landscape_with_Edge_of_a_Road)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4657634</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ddcpcg</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="abstract">A Lane Near Arles was painted by Vincent Van Gogh in 1888, while he was living in Arles. It depicts a lane surrounded by trees running between the fields outside of Arles, France. A yellow house stands at the side of the lane. The use of color in the painting is typical of Van Gogh in this period. The colors are bright and alive, lighting up the canvas and offering a view that is more perceived than actually experienced. The idyllic nature of the moment is thus conveyed in the use of colors. A Lane Near Arles is currently in the collection of the Pommersches Landesmuseum, Greifswald, in Germany.</field>
+<field name="label">A Lane near Arles (Landscape with Edge of a Road)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/38/Van_Gogh_-_Allee_bei_Arles_mit_Häusern.jpeg</field>
+<field name="comment">A Lane Near Arles was painted by Vincent Van Gogh in 1888, while he was living in Arles. It depicts a lane surrounded by trees running between the fields outside of Arles, France. A yellow house stands at the side of the lane. The use of color in the painting is typical of Van Gogh in this period. The colors are bright and alive, lighting up the canvas and offering a view that is more perceived than actually experienced. The idyllic nature of the moment is thus conveyed in the use of colors.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Van_Gogh_-_Allee_bei_Arles_mit_Häusern.jpeg/200px-Van_Gogh_-_Allee_bei_Arles_mit_Häusern.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Pomeranian_State_Museum</field>
+<field name="title">''A Lane near Arles</field>
+<field name="title">''</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Lane_near_Arles_(Landscape_with_Edge_of_a_Road)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Lane_near_Arles_(Landscape_with_Edge_of_a_Road)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Lane_near_Arles_(Landscape_with_Edge_of_a_Road)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Lane_near_Arles_(Landscape_with_Edge_of_a_Road)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4657634</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lane_near_Arles_(Landscape_with_Edge_of_a_Road)</field>
+</doc>
+</add>

@@ -1,0 +1,83 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Daubigny's_Garden</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Daubigny's_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Jardin_de_Daubigny</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Daubigny's_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ドービニーの庭</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Daubigny's_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Daubigny's_Garden</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ogród_Daubigny'ego</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_tuin_van_Daubigny</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Jardin_de_Daubigny</field>
+<field name="sameAs">http://dbpedia.org/resource/Daubigny's_Garden</field>
+<field name="sameAs">http://pnb.dbpedia.org/resource/ڈاوبگنے_دی_پھلواری</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ドービニーの庭</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Daubigny's_Garden</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g58t_</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2335084</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="abstract">Daubigny's Garden, painted three times by Vincent van Gogh, depicts the enclosed garden of Charles-François Daubigny, a painter whom Van Gogh admired throughout his life. Van Gogh started with a small study of a section of the garden. Then he worked on two double-square paintings of the full walled garden. The paintings were made in Auvers between May and July 1890, during the last few months of his life. All three paintings are titled Daubigny's Garden and are distinguished by the museums they reside in: Kunstmuseum Basel, Hiroshima Museum of Art and Van Gogh Museum.</field>
+<field name="label">Daubigny's Garden</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6d/VanGogh_Daubigny.jpg</field>
+<field name="comment">Daubigny's Garden, painted three times by Vincent van Gogh, depicts the enclosed garden of Charles-François Daubigny, a painter whom Van Gogh admired throughout his life. Van Gogh started with a small study of a section of the garden. Then he worked on two double-square paintings of the full walled garden. The paintings were made in Auvers between May and July 1890, during the last few months of his life.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/VanGogh_Daubigny.jpg/200px-VanGogh_Daubigny.jpg</field>
+<field name="link_external">http://www.kunstmuseumbasel.ch/en/collection/collection-online/</field>
+<field name="link_external">http://www.vangoghmuseum.nl/vgm/index.jsp?page=3263&amp;collection=451&amp;lang=en</field>
+<field name="link_external">http://www.hiroshima-museum.jp/gallery2_en</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city">http://dbpedia.org/resource/Hiroshima</field>
+<field name="city">http://dbpedia.org/resource/Basel</field>
+<field name="height">56</field>
+<field name="image"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Hiroshima_Museum_of_Art</field>
+<field name="museum">http://dbpedia.org/resource/Kunstmuseum_Basel</field>
+<field name="title">Daubigny's Garden</field>
+<field name="width">101</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Daubigny's_Garden</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Daubigny's_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ogród_Daubigny'ego</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Daubigny's_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_tuin_van_Daubigny</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Daubigny's_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2335084</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Daubigny's_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://pnb.dbpedia.org/resource/ڈاوبگنے_دی_پھلواری</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Daubigny's_Garden</field>
+</doc>
+</add>

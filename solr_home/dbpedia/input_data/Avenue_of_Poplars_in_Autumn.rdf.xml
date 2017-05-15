@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Avenue_of_Poplars_in_Autumn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Avenue_of_Poplars_in_Autumn</field>
+<field name="sameAs">http://dbpedia.org/resource/Avenue_of_Poplars_in_Autumn</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtvpl9</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4828222</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1884_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="abstract">Avenue of Poplars in Autumn is an oil painting created in 1884 by Vincent van Gogh. In October 1884 Van Gogh described Avenue of Poplars in Autumn to his brother Theo, "The last thing I made is a rather large study of an avenue of poplars, with yellow autumn leaves, the sun casting, here and there, sparkling spots on the fallen leaves on the ground, alternating with the long shadows of the stems. At the end of the road is a small cottage, and over it all the blue sky through the autumn leaves."</field>
+<field name="label">Avenue of Poplars in Autumn</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/61/Van_Gogh_-_Pappelallee_im_Herbst.jpeg</field>
+<field name="comment">Avenue of Poplars in Autumn is an oil painting created in 1884 by Vincent van Gogh. In October 1884 Van Gogh described Avenue of Poplars in Autumn to his brother Theo, "The last thing I made is a rather large study of an avenue of poplars, with yellow autumn leaves, the sun casting, here and there, sparkling spots on the fallen leaves on the ground, alternating with the long shadows of the stems. At the end of the road is a small cottage, and over it all the blue sky through the autumn leaves."</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Van_Gogh_-_Pappelallee_im_Herbst.jpeg/200px-Van_Gogh_-_Pappelallee_im_Herbst.jpeg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Avenue_of_Poplars_in_Autumn</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Avenue_of_Poplars_in_Autumn</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Avenue_of_Poplars_in_Autumn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Avenue_of_Poplars_in_Autumn</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4828222</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Avenue_of_Poplars_in_Autumn</field>
+</doc>
+</add>

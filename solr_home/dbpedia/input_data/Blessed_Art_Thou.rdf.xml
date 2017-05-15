@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blessed_Art_Thou</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Blessed_Art_Thou</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h96xpn</field>
+<field name="sameAs">http://dbpedia.org/resource/Blessed_Art_Thou</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4926243</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Articles_created_via_the_Article_Wizard</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Blessed Art Thou is an oil-and-acrylic painting by American artist Kate Kretz. It depicts actress Angelina Jolie as the Virgin Mary, hovering in the clouds with her children above a Wal-Mart store. The painting was exhibited at the Miami Art Fair in January 2007, and created a worldwide controversy that was covered by ABC, NBC, CBS, CNN, and Fox television networks, as well as The International Herald Tribune, The New York Times, and many other international news sources. A full-size drawing study for the work was included in the exhibition "Beyond Re / Production: Mothering" curated by Felicita Reuschling for the Kunstraum Kreuzberg/Bethanien, Berlin in 2011.</field>
+<field name="label">Blessed Art Thou</field>
+<field name="comment">Blessed Art Thou is an oil-and-acrylic painting by American artist Kate Kretz. It depicts actress Angelina Jolie as the Virgin Mary, hovering in the clouds with her children above a Wal-Mart store. The painting was exhibited at the Miami Art Fair in January 2007, and created a worldwide controversy that was covered by ABC, NBC, CBS, CNN, and Fox television networks, as well as The International Herald Tribune, The New York Times, and many other international news sources.</field>
+<field name="link_external">http://www.kunst-magazin.de/event/12125-beyond-re-production-mothering</field>
+<field name="link_external">http://www.villagevoice.com/2007-06-12/film/mighty-heart-mightier-spotlight/</field>
+<field name="link_external">http://www.nytimes.com/2007/01/08/arts/08arts.html?scp=1&amp;sq=%22Kate%20Kretz%22&amp;st=cse</field>
+<field name="link_external">http://jungle-world.com/artikel/2011/11/42828.html</field>
+<field name="link_external">http://campus.udayton.edu/mary/AngelinaOurLady.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Blessed_Art_Thou</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Blessed_Art_Thou</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Blessed_Art_Thou</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Blessed_Art_Thou</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4926243</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Blessed_Art_Thou</field>
+</doc>
+</add>

@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/El_Jaleo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/El_Jaleo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Jaleo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/El_Jaleo</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bhc47y</field>
+<field name="sameAs">http://yago-knowledge.org/resource/El_Jaleo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5351449</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Singer_Sargent</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="abstract">El Jaleo is a large painting by John Singer Sargent, depicting a Spanish Gypsy dancer performing to the accompaniment of musicians. Painted in 1882, it currently hangs in the Isabella Stewart Gardner Museum in Boston.</field>
+<field name="label">El Jaleo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/92/EL_JALEO-SINGER.jpg</field>
+<field name="comment">El Jaleo is a large painting by John Singer Sargent, depicting a Spanish Gypsy dancer performing to the accompaniment of musicians. Painted in 1882, it currently hangs in the Isabella Stewart Gardner Museum in Boston.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/EL_JALEO-SINGER.jpg/200px-EL_JALEO-SINGER.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/El_Jaleo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/El_Jaleo</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5351449</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/El_Jaleo</field>
+</doc>
+</add>

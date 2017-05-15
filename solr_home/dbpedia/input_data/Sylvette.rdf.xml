@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Sylvette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sylvette</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sylvette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sylvette</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1767343</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07y13h</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sylvette</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Sylvette</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Sylvette</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1954_paintings</field>
+<field name="abstract">Sylvette is the title of the portrait of a young woman with the pony tail painted by Pablo Picasso. The model for the painting was (Lydia) Sylvette David, also known by her married name Lydia Corbett, a French woman who worked in a pottery studio near Picasso's studio in Vallauris, in the summer of 1953. Finding her appearance appealing, Picasso created 40 works inspired by her. Sylvette's portrait from 2 May 1954 is one of the last of a long series. Picasso's grandson Olivier Widmaier Picasso told the Chicago Sun-Times in 2004 that Sylvette was also the subject of the monumental Chicago Picasso, which had been a matter of curiosity since it was unveiled. She was said to have been an inspiration for actress Brigitte Bardot and the Roger Vadim film And God Created Woman. In 1998 Barron's published Picasso and the Girl With a Ponytail by Laurence Anholt—a children's book in which a shy teenager named Sylvette meets Picasso in Vallauris and becomes his model.</field>
+<field name="label">Sylvette</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/32/Picasso_Rotterdam_01.JPG</field>
+<field name="comment">Sylvette is the title of the portrait of a young woman with the pony tail painted by Pablo Picasso. The model for the painting was (Lydia) Sylvette David, also known by her married name Lydia Corbett, a French woman who worked in a pottery studio near Picasso's studio in Vallauris, in the summer of 1953. Finding her appearance appealing, Picasso created 40 works inspired by her. Sylvette's portrait from 2 May 1954 is one of the last of a long series.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Picasso_Rotterdam_01.JPG/200px-Picasso_Rotterdam_01.JPG</field>
+<field name="link_external">http://www.lydiacorbettart.com/about.aspx</field>
+<field name="link_external">http://www.petulloartcollection.org/the_collection/about_the_artists/artist.cfm?a_id=18</field>
+<field name="artist">http://dbpedia.org/resource/Pablo_Picasso</field>
+<field name="city">http://dbpedia.org/resource/Rotterdam</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="title">Sylvette</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sylvette</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sylvette</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sylvette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sylvette</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Sylvette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sylvette</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1767343</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sylvette</field>
+</doc>
+</add>

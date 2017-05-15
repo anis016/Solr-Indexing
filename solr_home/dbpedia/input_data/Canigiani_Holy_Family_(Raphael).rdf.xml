@@ -1,0 +1,93 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Sainte_Famille_Canigiani</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Sagrada_Família_Canigiani</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Sagrada_Familia_Canigiani</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sacra_Famiglia_Canigiani</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2713671</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Sainte_Famille_Canigiani</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Sagrada_Família_Canigiani</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Müqəddəs_Kanigiani_ailəsi_(Rafael)</field>
+<field name="sameAs">http://dbpedia.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sacra_Famiglia_Canigiani</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Святе_сімейство_Каніджані</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08pvk5</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Sagrada_Familia_Canigiani</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="abstract">The Canigiani Holy Family or Canigiani Madonna is a painting by the Italian High Renaissance artist Raphael. It is in the Alte Pinakothek of Munich, Germany.</field>
+<field name="label">Canigiani Holy Family (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cf/Raffael_050.jpg</field>
+<field name="comment">The Canigiani Holy Family or Canigiani Madonna is a painting by the Italian High Renaissance artist Raphael. It is in the Alte Pinakothek of Munich, Germany.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Raffael_050.jpg/200px-Raffael_050.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Munich</field>
+<field name="height">131</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Alte_Pinakothek</field>
+<field name="title">Canigiani Holy Family</field>
+<field name="width">107</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Canigiani_Holy_Family_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Canigiani_Holy_Family_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Canigiani_Holy_Family_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Holy_family_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Canigiani_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2713671</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Müqəddəs_Kanigiani_ailəsi_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Святе_сімейство_Каніджані</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Canigiani_Holy_Family_(Raphael)</field>
+</doc>
+</add>

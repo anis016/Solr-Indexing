@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mission_Dolores_mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mission_Dolores_mural</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mission_Dolores_mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czbg2b</field>
+<field name="sameAs">http://dbpedia.org/resource/Mission_Dolores_mural</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6878583</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mission_Dolores_mural</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Catholic_Church_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_San_Francisco,_California</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Native_American_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ohlone</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:California_Mission_Indians</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1791_establishments</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_in_the_San_Francisco_Bay_Area</field>
+<field name="abstract">The Mission Dolores mural is an 18th century work of art in the Mission San Francisco de Asís, the oldest surviving structure in San Francisco. In 1791, the Ohlone people, Native Americans of the San Francisco Bay and laborers for the church, painted the mural on the focal wall of the sanctuary. Five years later, an altarpiece known as a reredos, was constructed in front of the mural, blocking it from view for more than two centuries. The mural remained mostly unseen in the intervening years, decaying slowly as it was protected from light and moisture behind the reredos enclosure. In the 2000s, archaeologist Eric Blind and artist Ben Wood digitized the mural, allowing the public to view it for the first time. Painted on plaster, the mural is adorned with abstract patterns and Christian imagery, in ochre, white, red, yellow, black, and blue/grey colors. The mural is an historically significant work of art from the early era of Spanish missions in California (1769–1833), and is considered "the best-preserved example of art from the period of first contact with Europeans".</field>
+<field name="label">Mission Dolores mural</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b3/Missiondoloresmural-2.jpg</field>
+<field name="comment">The Mission Dolores mural is an 18th century work of art in the Mission San Francisco de Asís, the oldest surviving structure in San Francisco. In 1791, the Ohlone people, Native Americans of the San Francisco Bay and laborers for the church, painted the mural on the focal wall of the sanctuary. Five years later, an altarpiece known as a reredos, was constructed in front of the mural, blocking it from view for more than two centuries.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Missiondoloresmural-2.jpg/200px-Missiondoloresmural-2.jpg</field>
+<field name="link_external">http://boxer.senate.gov/en/press/releases/012904.cfm</field>
+<field name="link_external">http://articles.latimes.com/2004/jan/30/local/me-sbriefs30.3</field>
+<field name="link_external">http://www.benwood.net/missiondoloresmural.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mission_Dolores_mural</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mission_Dolores_mural</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mission_dolores_mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6878583</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mission_Dolores_mural</field>
+</doc>
+</add>

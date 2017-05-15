@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Flowering_Orchards_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Flowering_Orchards_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Flowering_Orchards_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g6h53</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Flowering_Orchards_(Van_Gogh_series)</field>
+<field name="sameAs">http://dbpedia.org/resource/Flowering_Orchards_(Van_Gogh_series)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5462266</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="abstract">The Flowering Orchards is a series of paintings executed by Vincent van Gogh in Arles, in southern France in the spring of 1888. Van Gogh arrived in Arles in February 1888 amid a snowstorm, within two weeks the weather changed and the fruit trees were in blossom. Appreciating the symbolism of rebirth, Van Gogh worked with optimism and zeal on about fourteen paintings of flowering trees in the early spring. He also made paintings of flowering trees in Saint-Rémy in 1889. Flowering trees were special to Van Gogh. They represented awakening and hope. He enjoyed them aesthetically and found joy in painting flowering trees. The 'trees and orchards in bloom' paintings Van Gogh made reflect Impressionist, Divisionist and Japanese woodcut influences.</field>
+<field name="label">Flowering Orchards (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/33/Vincent_Willem_van_Gogh_113.jpg</field>
+<field name="comment">The Flowering Orchards is a series of paintings executed by Vincent van Gogh in Arles, in southern France in the spring of 1888. Van Gogh arrived in Arles in February 1888 amid a snowstorm, within two weeks the weather changed and the fruit trees were in blossom. Appreciating the symbolism of rebirth, Van Gogh worked with optimism and zeal on about fourteen paintings of flowering trees in the early spring. He also made paintings of flowering trees in Saint-Rémy in 1889.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Vincent_Willem_van_Gogh_113.jpg/200px-Vincent_Willem_van_Gogh_113.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city">http://dbpedia.org/resource/Otterlo</field>
+<field name="height">73</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Kr%C3%B6ller-M%C3%BCller_Museum</field>
+<field name="title">Flowering peach trees</field>
+<field name="width">59.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Flowering_Orchards_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Flowering_Orchards_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Flowering_Orchards</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5462266</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Flowering_Orchards_(Van_Gogh_series)</field>
+</doc>
+</add>

@@ -1,0 +1,123 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Santo_Entierro_(Miguel_Ángel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Deposizione_di_Cristo_nel_sepolcro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/埋葬_(绘画)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_Graflegging_(Michelangelo)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Grablegung_Christi_(Michelangelo)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Santo_Entierro_(Miguel_Ángel)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Defin_Töreni_(Michelangelo)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Deposizione_di_Cristo_nel_sepolcro</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026ckv3</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Mise_au_tombeau_(Michel-Ange)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/บรรจุร่างพระเยซู_(มีเกลันเจโล)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Entombment_(Michelangelo)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Enterrament_de_Crist_(Miquel_Àngel)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1213160</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Entombment_of_Christ</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Michelangelo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Unfinished_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="abstract">The Entombment is an unfinished painting of the placing of the body of Jesus in the garden tomb, now generally attributed to the Italian Renaissance master Michelangelo Buonarroti and dated to around 1500 or 1501. It is in the National Gallery in London, which purchased the work in 1868 from Robert Macpherson, a Scottish photographer resident in Rome who, according to various conflicting accounts, had acquired the painting there some 20 years before. The chronological position of this work has been the source of some dispute, although it is generally considered an early work. Some authorities believe that it may have been executed by one of Michelangelo's pupils from a drawing by the master or was a direct imitation of his work http://www. buonarroti. eu/sepoltura_di_cristo_sc_7462. htm. According to documents discovered in 1981, Michelangelo had been commissioned to paint a panel for the church of Sant'Agostino in Rome, but in the end gave back the sum received. It is probable that this work was the Entombment, which remained unfinished upon Michelangelo's return to Florence. The centre of the panel portrays Christ being carried up a flight of steps to the sepulchre, which was intended to be painted in the blank area at the top right of the work. The bearded older man behind him is probably Joseph of Arimathea, who gave up his tomb for use as Christ's sepulchre. The long-haired figure on the left is probably Saint John, wearing a long orange-red gown, with one of the Marys kneeling at his feet. The identity of the two figures on the right is uncertain. Suggested identities for the elongated inner figure range from Nicodemus to one of the Marys, while the figure on the far right may be Mary Salome. The large unfinished area at the bottom right was intended to be used for the kneeling form of the Virgin Mary. The floating appearance of some of the figures may be partly explained by the fact that the painting is intended to be viewed from below, and to the fact that it is unfinished. However, the apparent incongruity of the stance of the bearer on the right remains problematical.</field>
+<field name="label">The Entombment (Michelangelo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e3/Entombment_Michelangelo.jpg</field>
+<field name="comment">The Entombment is an unfinished painting of the placing of the body of Jesus in the garden tomb, now generally attributed to the Italian Renaissance master Michelangelo Buonarroti and dated to around 1500 or 1501. It is in the National Gallery in London, which purchased the work in 1868 from Robert Macpherson, a Scottish photographer resident in Rome who, according to various conflicting accounts, had acquired the painting there some 20 years before.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Entombment_Michelangelo.jpg/200px-Entombment_Michelangelo.jpg</field>
+<field name="link_external">http://www.buonarroti.eu/sepoltura_di_cristo_sc_7462.htm</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/michelangelo-the-entombment</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">162</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Entombment</field>
+<field name="type">Tempera on panel</field>
+<field name="width">150</field>
+<field name="year">circa 1500-1501</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Entombment_(Michelangelo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Grablegung_Christi_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Mise_au_tombeau_(Michel-Ange)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Entombment_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Entombment_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_Graflegging_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1213160</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/埋葬_(绘画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Enterrament_de_Crist_(Miquel_Àngel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/บรรจุร่างพระเยซู_(มีเกลันเจโล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Defin_Töreni_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_(Michelangelo)</field>
+</doc>
+</add>

@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vision_d'Ézéchiel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ezekiel's_Vision_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ezekiel's_Vision_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_visión_de_Ezequiel</field>
+<field name="sameAs">http://dbpedia.org/resource/Ezekiel's_Vision_(Raphael)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1134281</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h2wq7</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Visione_di_Ezechiele</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ezekiel's_Vision_(Raphael)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vision_d'Ézéchiel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1518_paintings</field>
+<field name="abstract">Ezekiel's Vision is a c. 1518 painting by Raphael showing the prophet Ezekiel's vision of God in majesty. It is housed in the Palatine Gallery of Palazzo Pitti, Florence, central Italy.</field>
+<field name="label">Ezekiel's Vision (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5c/Raffael_099.jpg</field>
+<field name="comment">Ezekiel's Vision is a c. 1518 painting by Raphael showing the prophet Ezekiel's vision of God in majesty. It is housed in the Palatine Gallery of Palazzo Pitti, Florence, central Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Raffael_099.jpg/200px-Raffael_099.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Pitti</field>
+<field name="title">Ezekiel's Vision</field>
+<field name="year">c.1518</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ezekiel's_Vision_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ezekiel's_Vision_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ezechiel's_Vision_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ezekiel's_Vision_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ezekiel's_Vision_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_visión_de_Ezequiel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ezekiel's_Vision_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Visione_di_Ezechiele</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ezekiel's_Vision_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1134281</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ezekiel's_Vision_(Raphael)</field>
+</doc>
+</add>

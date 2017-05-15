@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/No_Woman_No_Cry_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/No_Woman_No_Cry_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/No_Woman_No_Cry_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gg8gb3</field>
+<field name="sameAs">http://yago-knowledge.org/resource/No_Woman_No_Cry_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/No_Woman_No_Cry_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Young_British_Artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_contemporary_works_of_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1998_paintings</field>
+<field name="abstract">No Woman No Cry is a painting created by Chris Ofili in 1998. It was one of the works included in the exhibition which won him the Turner Prize that year (the first painter to win the prize since Howard Hodgkin in 1985). The Financial Times has described it as "his masterpiece". The painting is in mixed media, including acrylic paint, oil paint, and polyester resin. Against a golden background, it depicts the portrait of a black woman with braided hair weeping. Each tear includes an collaged image of Stephen Lawrence, who was murdered in 1993 and whose mother, Doreen, was leading a campaign in 1998 for an inquiry into the failed murder investigation; the campaign for the inquiry was successful, with the final report declaring in 1999 that the police department conducting the investigation was "institutionally racist". The painting is sometimes described as being a painting of Doreen Lawrence. Barely visible in phosphorescent paint (but clearer in dark conditions) are the words "R.I.P. Stephen Lawrence 1974-1993". The canvas measures 243.80 centimetres high by 182.80 centimetres wide, and is displayed leaning against the gallery wall, supported by two dried, varnished lumps of elephant dung. A third lump forms the pendant of the necklace. Map pins on the lower two lumps spell out the painting's title. The painting is Ofili's tribute to Stephen Lawrence. Ofili was inspired by the dignity of Stephen's mother, Doreen Lawrence, in the face of her personal tragedy. He also intends it to be seen as a more general portrayal of melancholy and grief. The Financial Times has described it as "a modern Pietà". It takes its name from Bob Marley's reggae song, "No Woman, No Cry". The painting was purchased by the Tate Gallery in 1999. It was included in a mid-career retrospective of Ofili's work at Tate Britain in 2010, and selected by the Tate as its initial painting to have a high-resolution gigapixel image included in the Google Art Project, together with an image taken in the dark to highlight the phosphorescent paint.</field>
+<field name="label">No Woman No Cry (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3f/Ofili-No-Woman.jpg</field>
+<field name="comment">No Woman No Cry is a painting created by Chris Ofili in 1998. It was one of the works included in the exhibition which won him the Turner Prize that year (the first painter to win the prize since Howard Hodgkin in 1985). The Financial Times has described it as "his masterpiece". The painting is in mixed media, including acrylic paint, oil paint, and polyester resin. Against a golden background, it depicts the portrait of a black woman with braided hair weeping.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Ofili-No-Woman.jpg/200px-Ofili-No-Woman.jpg</field>
+<field name="link_external">http://www.googleartproject.com/museums/tate/no-woman-no-cry</field>
+<field name="link_external">http://www.telegraph.co.uk/culture/art/8296878/Nicholas-Serota-Googling-the-future-of-art.html</field>
+<field name="link_external">http://www.ft.com/cms/s/2/0842b45a-0c64-11df-a941-00144feabdc0.html</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=26547&amp;roomid=2106</field>
+<field name="link_external">http://www.guardian.co.uk/artanddesign/2010/jan/25/chris-ofili-art</field>
+<field name="link_external">http://www.guardian.co.uk/artanddesign/1998/dec/02/20yearsoftheturnerprize.turnerprize1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/No_Woman_No_Cry_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/No_Woman_No_Cry_(painting)</field>
+</doc>
+</add>

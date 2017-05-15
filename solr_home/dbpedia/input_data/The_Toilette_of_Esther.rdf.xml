@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Toilette_of_Esther</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Туалет_Эсфири</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3918344</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Toilette_of_Esther</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Туалет_Эсфіры</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Toilette_of_Esther</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0by1tj2</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Esther</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1841_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="abstract">The Toilette of Esther or Esther Preparing to be Presented to King Ahasuerus, is an 1841 oil-on-canvas painting by Théodore Chassériau. The painting depicts a moment from the scriptural Book of Esther, when Esther prepared to meet King Ahasuerus, ruler of Persia, who subsequently took her as his wife. The painting is in the Musée du Louvre. Vincent Pomarède of the Museum of Fine Arts of Lyon has described it as "one of the most famous (paintings) in the Louvre".</field>
+<field name="label">The Toilette of Esther</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/72/Esther.jpg</field>
+<field name="comment">The Toilette of Esther or Esther Preparing to be Presented to King Ahasuerus, is an 1841 oil-on-canvas painting by Théodore Chassériau. The painting depicts a moment from the scriptural Book of Esther, when Esther prepared to meet King Ahasuerus, ruler of Persia, who subsequently took her as his wife. The painting is in the Musée du Louvre. Vincent Pomarède of the Museum of Fine Arts of Lyon has described it as "one of the most famous (paintings) in the Louvre".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Esther.jpg/200px-Esther.jpg</field>
+<field name="link_external">http://books.google.com/books?id=sadAQXx8kvoC&amp;pg=PA168&amp;lpg=PA168&amp;dq=Chass%C3%A9riau+toilet+esther+louvre&amp;source=bl&amp;ots=O1PPvzuOpV&amp;sig=gPFSCfra1yxAQ6s4Prc6jlXa5gs&amp;hl=en&amp;ei=c6noS-fRKsP98Aaa-egn&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=7&amp;ved=0CCMQ6AEwBjgU#v=onepage&amp;q&amp;f=false</field>
+<field name="link_external">http://www.louvre.fr/llv/oeuvres/detail_notice.jsp?CONTENT%3C%3Ecnt_id=10134198673225180&amp;CURRENT_LLV_NOTICE%3C%3Ecnt_id=10134198673225180&amp;FOLDER%3C%3Efolder_id=9852723696500815&amp;baseIndex=68&amp;bmLocale=en</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">45.5</field>
+<field name="image"/>
+<field name="imageSize">240</field>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Toilette of Esther</field>
+<field name="type">oil on canvas</field>
+<field name="width">35.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Toilette_of_Esther</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Toilette_of_Esther</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Туалет_Эсфири</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Toilette_of_Esther</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Toilette_of_Esther</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Toilette_of_Esther</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3918344</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Toilette_of_Esther</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Туалет_Эсфіры</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Toilette_of_Esther</field>
+</doc>
+</add>

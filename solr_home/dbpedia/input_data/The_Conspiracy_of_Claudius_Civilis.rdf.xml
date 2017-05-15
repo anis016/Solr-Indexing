@@ -1,0 +1,99 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Conspiracy_of_Claudius_Civilis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Conspiracy_of_Julius_Civilis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Congiura_di_Giulio_Civile</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Sprzysiężenie_Claudiusa_Civilisa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Заговор_Юлия_Цивилиса</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Batavernas_trohetsed</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Congiura_di_Giulio_Civile</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Coniuratio_Iulii_Civilis_(Rembrandus)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Sprzysiężenie_Claudiusa_Civilisa</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Заговор_Юлия_Цивилиса</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2234397</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03ccb2n</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_Samenzwering_van_Claudius_Civilis</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="abstract">The Conspiracy of Claudius Civilis is a 1661–62 oil painting by the Dutch painter Rembrandt, which was originally the largest he ever painted, at around five by five metres in the shape of a lunette. The painting was commissioned by the Amsterdam city council for the Town Hall. After the work had been in place briefly, it was returned to Rembrandt, who may have never been paid. Rembrandt drastically cut down the painting to a quarter of the original size to be sold. It is the last secular history painting he finished.</field>
+<field name="label">The Conspiracy of Claudius Civilis</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/39/Bataafseeed.jpg</field>
+<field name="comment">The Conspiracy of Claudius Civilis is a 1661–62 oil painting by the Dutch painter Rembrandt, which was originally the largest he ever painted, at around five by five metres in the shape of a lunette. The painting was commissioned by the Amsterdam city council for the Town Hall. After the work had been in place briefly, it was returned to Rembrandt, who may have never been paid. Rembrandt drastically cut down the painting to a quarter of the original size to be sold.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Bataafseeed.jpg/200px-Bataafseeed.jpg</field>
+<field name="link_external">http://www.nationalmuseum.se/NMTemplates/NMSingle____2217.aspx</field>
+<field name="link_external">http://webart.nationalmuseum.se/work/work.aspx?id=17584</field>
+<field name="link_external">http://www.ucl.ac.uk/dutch/self_study_packs/english_language/batavian_myth/artistic.html</field>
+<field name="link_external">http://www.let.uu.nl/nederlands/nlren/educatief/studentenmateriaal/bestuur/plattegrondenpagina.html</field>
+<field name="artist">http://dbpedia.org/resource/Rembrandt</field>
+<field name="city">http://dbpedia.org/resource/Stockholm</field>
+<field name="height">196</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="museum">http://dbpedia.org/resource/Nationalmuseum</field>
+<field name="title">The Conspiracy of Claudius Civilis</field>
+<field name="type">Oil</field>
+<field name="width">309</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Conspiracy_of_Claudius_Civilis</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Conspiracy_of_Claudius_Civilis</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Conspiracy_of_Claudius_Civilis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_Samenzwering_van_Claudius_Civilis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2234397</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Coniuratio_Iulii_Civilis_(Rembrandus)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Batavernas_trohetsed</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conspiracy_of_Claudius_Civilis</field>
+</doc>
+</add>

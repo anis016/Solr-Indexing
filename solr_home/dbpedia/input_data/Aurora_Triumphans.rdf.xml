@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Aurora_Triumphans</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4822621</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fpgxbb</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Aurora_Triumphans</field>
+<field name="sameAs">http://dbpedia.org/resource/Aurora_Triumphans</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="abstract">Aurora Triumphans is a painting by Evelyn de Morgan, featuring the Roman goddess of dawn Aurora, that breaks the shackles of night. Aurora lies naked in the lower right corner, covered with carefully draped ropes of pink roses. Taking up two-thirds of the painting, there are three red-winged angels with trumpets and gold tunics. In the lower left corner there is a dark-robed Night, that swirls away a black cloak. In 1886 the painting was exhibited at the Grosvenor Gallery in London. The flowers strewn around Aurora and the pale glow of her naked body are set in opposition to the shadowy drapery of Night. Aurora's frontal, open pose reverses the anonymity of Night, who is turned away from the viewer. The painting currently belongs to the Russell-Cotes Museum in Bournemouth. Merton Russell-Cotes' son Herbert bought it for the museum in around 1922 thinking that it was a Burne-Jones original after an unscrupulous art dealer had painted over the signature with Burne-Jones' initials to get a higher price.</field>
+<field name="label">Aurora Triumphans</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/38/Morgan,_Evelyn_de_-_Aurora_Triumphans_-_c._1886.jpg</field>
+<field name="comment">Aurora Triumphans is a painting by Evelyn de Morgan, featuring the Roman goddess of dawn Aurora, that breaks the shackles of night. Aurora lies naked in the lower right corner, covered with carefully draped ropes of pink roses. Taking up two-thirds of the painting, there are three red-winged angels with trumpets and gold tunics. In the lower left corner there is a dark-robed Night, that swirls away a black cloak. In 1886 the painting was exhibited at the Grosvenor Gallery in London.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Morgan,_Evelyn_de_-_Aurora_Triumphans_-_c._1886.jpg/200px-Morgan,_Evelyn_de_-_Aurora_Triumphans_-_c._1886.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Evelyn_De_Morgan</field>
+<field name="city">http://dbpedia.org/resource/Bournemouth</field>
+<field name="city">http://dbpedia.org/resource/England</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Russell-Cotes_Art_Gallery_&amp;_Museum</field>
+<field name="title">Aurora Triumphans</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Aurora_Triumphans</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Aurora_Triumphans</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Aurora_Triumphans</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Aurora_Triumphans</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4822621</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aurora_Triumphans</field>
+</doc>
+</add>

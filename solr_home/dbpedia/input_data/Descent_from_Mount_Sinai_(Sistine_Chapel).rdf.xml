@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Descent_from_Mount_Sinai_(Sistine_Chapel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Discesa_dal_monte_Sinai</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Descent_from_Mount_Sinai_(Sistine_Chapel)</field>
+<field name="sameAs">http://dbpedia.org/resource/Descent_from_Mount_Sinai_(Sistine_Chapel)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3709305</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmbxxj</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Cosimo_Rosselli</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="abstract">The Descent from Mount Sinai is a fresco by the Italian Renaissance painter Cosimo Rosselli and his assistants, executed in 1481-1482 and located in the Sistine Chapel, Rome.</field>
+<field name="label">Descent from Mount Sinai (Sistine Chapel)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/83/Moses_Rosselli.jpg</field>
+<field name="comment">The Descent from Mount Sinai is a fresco by the Italian Renaissance painter Cosimo Rosselli and his assistants, executed in 1481-1482 and located in the Sistine Chapel, Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Moses_Rosselli.jpg/200px-Moses_Rosselli.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">350</field>
+<field name="image"/>
+<field name="imageSize">360</field>
+<field name="museum"/>
+<field name="title">Descent from Mount Sinai</field>
+<field name="type">Fresco</field>
+<field name="width">572</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Descent_from_Mount_Sinai_(Sistine_Chapel)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Descent_from_Mount_Sinai_(Sistine_Chapel)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Descent_from_Mount_Sinai_(Cosimo_Rosselli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Descent_from_Mount_Sinai_(Rosselli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Descent_from_Mount_Sinai_(Sistine_Chapel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Descent_from_Mount_Sinai_(Sistine_Chapel)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Discesa_dal_monte_Sinai</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Descent_from_Mount_Sinai_(Sistine_Chapel)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3709305</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Descent_from_Mount_Sinai_(Sistine_Chapel)</field>
+</doc>
+</add>

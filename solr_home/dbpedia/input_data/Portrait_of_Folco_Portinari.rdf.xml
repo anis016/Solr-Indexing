@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Folco_Portinari</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Folco_Portinari</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Folco_Portinari</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Folco_Portinari</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Folco_Portinari</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvrhrl</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Folco_Portinari</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Folco_Portinari</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937530</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Folco_Portinari</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hans_Memling</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="abstract">The Portrait of Folco Portinari is a painting by the German painter Hans Memling, dating to c. 1490. It is displayed in the Uffizi Gallery of Florence, Italy.</field>
+<field name="label">Portrait of Folco Portinari</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/38/Memnling,_ritratto_di_folco_di_portinari.jpg</field>
+<field name="comment">The Portrait of Folco Portinari is a painting by the German painter Hans Memling, dating to c. 1490. It is displayed in the Uffizi Gallery of Florence, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Memnling,_ritratto_di_folco_di_portinari.jpg/200px-Memnling,_ritratto_di_folco_di_portinari.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">35</field>
+<field name="image"/>
+<field name="imageSize">260</field>
+<field name="museum"/>
+<field name="title">Portrait of Folco Portinari</field>
+<field name="type">Oil on panel</field>
+<field name="width">25</field>
+<field name="year">c. 1490</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Folco_Portinari</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Folco_Portinari</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937530</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Folco_Portinari</field>
+</doc>
+</add>

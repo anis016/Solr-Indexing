@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Conversion_de_saint_Paul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Conversione_di_san_Paolo_(Caravaggio_Odescalchi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_conversión_de_San_Pablo_(Caravaggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Conversione_di_san_Paolo_(Caravaggio_Odescalchi)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1448203</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Conversion_de_saint_Paul</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08wkwy</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paul_the_Apostle_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1601_paintings</field>
+<field name="abstract">The Conversion of Saint Paul (or Conversion of Saul), by the Italian painter Caravaggio, is housed in the Odescalchi Balbi Collection of Rome. It is one of at least two paintings by Caravaggio of the same subject, the Conversion of Paul. Another is The Conversion of Saint Paul on the Road to Damascus, in the Cerasi Chapel of Santa Maria del Popolo. The painting, together with a Crucifixion of Saint Peter, was commissioned by Monsignor (later Cardinal) Tiberio Cerasi, Treasurer-General to Pope Clement VIII, in September 1600. According to Caravaggio's early biographer Giovanni Baglione, both paintings were rejected by Cerasi, and replaced by the second versions which hang in the chapel today. The dates of completion and rejection are determined from the death of Cerasi in May 1601. Baglione states that the first versions of both paintings were taken by Cardinal Giacomo Sannessio, but another early writer, Giulio Mancini, says that Sannessio's paintings were copies. Nevertheless, most scholars are satisfied that this is the first version of the Conversion of Paul. The painting records the moment when Saul of Tarsus, on his way to Damascus to annihilate the Christian community there, is struck blind by a brilliant light and hears the voice of Christ saying, "Saul, Saul, why persecutest thou me?... And they that were with me saw indeed the light, and were afraid, but they heard not the voice...". Elsewhere Paul claims to have seen Christ during the vision, and it is on this basis that he grounds his claim be recognised as an Apostle: "Have I not seen Jesus Christ our Lord?". Caravaggio biographer Helen Langdon describes style of Conversion as "an odd blend of Raphael and clumsy rustic realism," but notes how the composition, with its jagged shapes and irrational light which licks out details for their dramatic impact, creates "a sense of crisis and dislocation [in which] Christ disrupts the mundane world. " Several modern commentators have questioned whether the rejection of the first versions of Caravaggio's two paintings was quite so straightforward as the record makes it seem, and speculate that Cardinal Sannessio may have seized the opportunity of Cerasi's unexpected death on 3 May 1601 to, in effect, seize the paintings. Certainly there is no obvious reason for the rejection, and the two second versions which replaced them were, if the surviving first version of the Conversion is a guide, (the first Crucifixion of Peter has disappeared), far more unconventional than the first.</field>
+<field name="label">The Conversion of Saint Paul (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bb/The_Conversion_of_Saint_Paul-Caravaggio_(c._1600-1).jpg</field>
+<field name="comment">The Conversion of Saint Paul (or Conversion of Saul), by the Italian painter Caravaggio, is housed in the Odescalchi Balbi Collection of Rome. It is one of at least two paintings by Caravaggio of the same subject, the Conversion of Paul. Another is The Conversion of Saint Paul on the Road to Damascus, in the Cerasi Chapel of Santa Maria del Popolo.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Conversion_of_Saint_Paul-Caravaggio_(c._1600-1).jpg/200px-The_Conversion_of_Saint_Paul-Caravaggio_(c._1600-1).jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">237</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Conversion of Saint Paul</field>
+<field name="type">Oil on cypress wood</field>
+<field name="width">189</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Conversion_of_St._Paul_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_conversión_de_San_Pablo_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1448203</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Conversion_of_Saint_Paul_(Caravaggio)</field>
+</doc>
+</add>

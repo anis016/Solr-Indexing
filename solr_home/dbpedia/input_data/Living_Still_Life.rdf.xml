@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Nature_morte_vivante</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Living_Still_Life</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Living_Still_Life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Living_Still_Life</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_Moving_Fast</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Живой_натюрморт</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Living_Still_Life</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Living_Still_Life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Живой_натюрморт</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Живий_натюрморт</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09xxqg</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Natureza-Morta_Viva</field>
+<field name="sameAs">http://dbpedia.org/resource/Living_Still_Life</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Nature_morte_vivante</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Living_Still_Life</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2508181</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1956_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">Living Still Life (1956) is a hand oil painting on canvas by the Spanish surrealist Salvador Dalí. The painting was originally known as Nature Morte Vivante and is considered to be one of Dalí's masterworks. Dalí described the work as illustrating "the decomposition of a fruit dish. " While the picture can be termed a still life, Dalí incorporates irony by making it evident that nothing in the image is actually still. Even the knife on the table, for example, although not seemingly moving at all is interpreted by the human brain to be in motion. The mind infers that no everyday object can simply hover in the air and that gravity must be pulling down on it; therefore, the knife must be in a falling motion.</field>
+<field name="label">Living Still Life</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7e/Still_Life_Moving_Fast.jpg</field>
+<field name="comment">Living Still Life (1956) is a hand oil painting on canvas by the Spanish surrealist Salvador Dalí. The painting was originally known as Nature Morte Vivante and is considered to be one of Dalí's masterworks. Dalí described the work as illustrating "the decomposition of a fruit dish. " While the picture can be termed a still life, Dalí incorporates irony by making it evident that nothing in the image is actually still.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Still_Life_Moving_Fast.jpg/200px-Still_Life_Moving_Fast.jpg</field>
+<field name="link_external">http://www.dali-gallery.com/html/analyses/1956_01a.htm</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/St._Petersburg,_Florida</field>
+<field name="height">125</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Salvador_Dali_Museum</field>
+<field name="title">Living Still Life</field>
+<field name="width">160</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Living_Still_Life</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Living_Still_Life</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Natureza-Morta_Viva</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Living_Still_Life</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2508181</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Living_Still_Life</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Живий_натюрморт</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Living_Still_Life</field>
+</doc>
+</add>

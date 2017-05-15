@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Van_Gogh's_family_in_his_art</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7913353</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtwbbv</field>
+<field name="sameAs">http://dbpedia.org/resource/Van_Gogh's_family_in_his_art</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Van_Gogh's_family_in_his_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="abstract">Van Gogh's family in his art is a group of works that Vincent van Gogh made for or about Van Gogh family members. In 1881 Van Gogh drew a portrait of his grandfather, Vincent van Gogh, and his sister Wil. While living in Nuenen, Van Gogh memorialized his father in Still Life with Bible following his death in 1885. There he also made many paintings and drawings in 1884 and 1885 of his parent's vicarage, its garden and the church. At the height of his career in Arles he made Portrait of the Artist's Mother, Memory of the Garden at Etten of his mother and sister and Novel Reader, which is thought to be of his sister, Wil. While Van Gogh was at the Saint-Paul Asylum, Saint-Remy, he made several paintings as gifts for his mother and sister, and the painting Almond Blossoms for his brother Theo and his wife Johanna to celebrate the birth of their son whom they named Vincent. Although Vincent experienced some strife with his family, when he became an accomplished artist and made paintings his family members liked, he shared his love for them through his art.</field>
+<field name="label">Van Gogh's family in his art</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cf/Vincent_Willem_van_Gogh_098.jpg</field>
+<field name="comment">Van Gogh's family in his art is a group of works that Vincent van Gogh made for or about Van Gogh family members. In 1881 Van Gogh drew a portrait of his grandfather, Vincent van Gogh, and his sister Wil. While living in Nuenen, Van Gogh memorialized his father in Still Life with Bible following his death in 1885. There he also made many paintings and drawings in 1884 and 1885 of his parent's vicarage, its garden and the church.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Vincent_Willem_van_Gogh_098.jpg/200px-Vincent_Willem_van_Gogh_098.jpg</field>
+<field name="link_external">http://books.google.com/books?id=lqSjxGgvVMMC</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Hermitage_Museum</field>
+<field name="title">Memory of the Garden at Etten</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Van_Gogh's_family_in_his_art</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Van_Gogh's_family_in_his_art</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Van_Gogh's_family_in_his_art</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Van_Gogh's_family_in_his_art</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Congregation_Leaving_the_Reformed_Church_in_Nuenen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Parsonage_Garden_at_Nuenen,_The</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Parsonage_Garden_at_Nuenen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7913353</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Van_Gogh's_family_in_his_art</field>
+</doc>
+</add>

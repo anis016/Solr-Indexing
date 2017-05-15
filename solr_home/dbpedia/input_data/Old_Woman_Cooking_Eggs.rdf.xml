@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Old_woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Old_Woman_Cooking_Eggs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Old_Woman_Cooking_Eggs</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Old_Woman_Cooking_Eggs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Seville-period_Velazquez_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1618_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Galleries_of_Scotland</field>
+<field name="abstract">The Old Woman Frying Eggs is a genre painting by Diego Velázquez, produced during his Seville period (its date is not clearly defined but is considered to be around the turn of 1618, before his definitive move to Madrid in 1623). It is now in the National Gallery of Scotland, in Edinburgh. Velázquez frequently used working-class characters in his early works such as this, using his family as models in many cases – the old woman here also appears in his Christ in the House of Martha and Mary (1618). Like other early works by the artist, it shows the influence of chiaroscuro, with a strong light source coming in from the left, illuminating the woman, her utensils and the poaching eggs but throwing the background and the boy standing to her right into deep shadow. Here the chiaroscuro is very intense, so much so that it would be impossible to see the wall at the bottom of the painting but for the basket hanging from it, but also managing to combine the murky darkness and high contrasts of light and shadow with a use of subtle hues and a palette dominated by ochres and browns. The composition is organised as an oval, with the middle figures in the nearest plane, thus drawing in the viewer. The realism is near photographic and gives distinction of everyday plates, cutlery, pans, pestles, jugs and mortars, capturing the special shine on a glass surface and the light's play on the melon carried by the boy. The boiling pan is particularly well-captured, with its spitting oil and the whites of the eggs. He has also worked particularly hard on the detail of the two figures's hands.</field>
+<field name="label">Old Woman Cooking Eggs</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/52/VELÁZQUEZ_-_Vieja_friendo_huevos_(National_Galleries_of_Scotland,_1618._Óleo_sobre_lienzo,_100.5_x_119.5_cm).jpg</field>
+<field name="comment">The Old Woman Frying Eggs is a genre painting by Diego Velázquez, produced during his Seville period (its date is not clearly defined but is considered to be around the turn of 1618, before his definitive move to Madrid in 1623). It is now in the National Gallery of Scotland, in Edinburgh.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/VELÁZQUEZ_-_Vieja_friendo_huevos_(National_Galleries_of_Scotland,_1618._Óleo_sobre_lienzo,_100.5_x_119.5_cm).jpg/200px-VELÁZQUEZ_-_Vieja_friendo_huevos_(National_Galleries_of_Scotland,_1618._Óleo_sobre_lienzo,_100.5_x_119.5_cm).jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Edinburgh</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Old Woman Cooking Eggs</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Old_Woman_Cooking_Eggs</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Old_Woman_Cooking_Eggs</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Old_Woman_Cooking_Eggs_(Vel%C3%A1zquez)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Old_Woman_Cooking_Eggs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Old_Woman_Cooking_Eggs</field>
+</doc>
+</add>

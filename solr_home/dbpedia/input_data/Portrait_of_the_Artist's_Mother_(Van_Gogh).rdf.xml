@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_matki_artysty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Artist's_Mother_(Van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Artist's_Mother_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Artist's_Mother_(Van_Gogh)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232350</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_the_Artist's_Mother_(Van_Gogh)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtxr0g</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_matki_artysty</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Norton_Simon_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Portrait of Artist's Mother is a 1888 painting by Vincent van Gogh of his mother, Anna Carbentus van Gogh, drawn from a black-and-white photograph. Van Gogh's introduction to art was through his mother, herself an amateur artist. After years of strained relations with family members, Van Gogh excitedly shared some of his works he thought his mother would appreciate most, of flowers and natural settings. In this painting, Van Gogh captures his mother's dignified and proud nature.</field>
+<field name="label">Portrait of the Artist's Mother (Van Gogh)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a5/Van_Gogh_-_Bildnis_der_Mutter_des_Künstlers.jpeg</field>
+<field name="comment">Portrait of Artist's Mother is a 1888 painting by Vincent van Gogh of his mother, Anna Carbentus van Gogh, drawn from a black-and-white photograph. Van Gogh's introduction to art was through his mother, herself an amateur artist. After years of strained relations with family members, Van Gogh excitedly shared some of his works he thought his mother would appreciate most, of flowers and natural settings. In this painting, Van Gogh captures his mother's dignified and proud nature.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Van_Gogh_-_Bildnis_der_Mutter_des_Künstlers.jpeg/200px-Van_Gogh_-_Bildnis_der_Mutter_des_Künstlers.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="height">40.5</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Portrait of Artist's Mother</field>
+<field name="width">32.5</field>
+<field name="year">October, 1888</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_the_Artist's_Mother_(Van_Gogh)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_the_Artist's_Mother_(Van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Artist's_Mother_(1888_Van_Gogh_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_the_Artist's_Mother_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_the_Artist's_Mother_(Van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232350</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Artist's_Mother_(Van_Gogh)</field>
+</doc>
+</add>

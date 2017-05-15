@@ -1,0 +1,118 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/F%C3%A9lix_Rey</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint-Paul_Asylum,_Saint-R%C3%A9my_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hospital_in_Arles_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hospital_in_Arles_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Corsia_dell'ospedale_di_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hospital_in_Arles_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dr._F%C3%A9lix_Rey</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Dr._F%C3%A9lix_Rey</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hospital_in_Arles_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmgj0b</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3694590</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hospital_in_Arles_(Van_Gogh_series)</field>
+<field name="sameAs">http://dbpedia.org/resource/Hospital_in_Arles_(Van_Gogh_series)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Szpital_w_Arles_(obrazy_Vincenta_van_Gogha)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Corsia_dell'ospedale_di_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="abstract">Hospital at Arles is the subject of two paintings that Vincent van Gogh made of the hospital in which he stayed in December 1888 and again in January 1889. The hospital is located in Arles in southern France. One of the paintings is of the central garden between four buildings titled Garden of the Hospital in Arles (also known as the Courtyard of the Hospital at Arles), the other painting is of a ward within the hospital titled Ward of the Hospital in Arles. Van Gogh also painted a Portrait of Dr. Félix Rey who was his physician while in the hospital.</field>
+<field name="label">Hospital in Arles (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/74/Van_Gogh_-_Garten_des_Hospitals_in_Arles1.jpeg</field>
+<field name="comment">Hospital at Arles is the subject of two paintings that Vincent van Gogh made of the hospital in which he stayed in December 1888 and again in January 1889. The hospital is located in Arles in southern France. One of the paintings is of the central garden between four buildings titled Garden of the Hospital in Arles (also known as the Courtyard of the Hospital at Arles), the other painting is of a ward within the hospital titled Ward of the Hospital in Arles.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Van_Gogh_-_Garten_des_Hospitals_in_Arles1.jpeg/200px-Van_Gogh_-_Garten_des_Hospitals_in_Arles1.jpeg</field>
+<field name="link_external">http://books.google.com/books?id=-CIiItGuisoC</field>
+<field name="link_external">http://books.google.com/books?id=95ydh8dDth8C</field>
+<field name="link_external">http://books.google.com/books?id=jcxmw4ODZlcC</field>
+<field name="link_external">http://www.roemerholz.ch</field>
+<field name="link_external">http://books.google.com/books?id=l4gbXITFl-gC</field>
+<field name="link_external">http://books.google.com/books?id=KRbgR7QtwvgC</field>
+<field name="link_external">http://books.google.com/books?id=_0OsfNV6I7EC</field>
+<field name="link_external">http://books.google.com/books?id=VwcHLRuIzkAC</field>
+<field name="link_external">http://www.arles-tourisme.com/en_gb/bookAndRoute.aspx?TripCode=fbe19e94-8531-4eff-907c-3772ccefdfe5</field>
+<field name="link_external">http://books.google.com/books?id=wf_PoXKhggkC</field>
+<field name="link_external">http://www.tourisme.ville-arles.fr/</field>
+<field name="link_external">http://books.google.com/books?id=Sz0Pla9mLSYC</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Garden of the Hospital in Arles</field>
+<field name="type">Oil on canvas</field>
+<field name="width">130</field>
+<field name="width">205</field>
+<field name="width">200</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hospital_in_Arles_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hospital_in_Arles_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Courtyard_of_the_Hospital_at_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dr._Felix_Rey</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Felix_Rey</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hospital_in_Arles_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Dr._Felix_Rey</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ward_in_the_Hospital_at_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3694590</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hospital_in_Arles_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Szpital_w_Arles_(obrazy_Vincenta_van_Gogha)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hospital_in_Arles_(Van_Gogh_series)</field>
+</doc>
+</add>

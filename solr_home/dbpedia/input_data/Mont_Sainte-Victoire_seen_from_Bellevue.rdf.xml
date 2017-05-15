@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mont_Sainte-Victoire_seen_from_Bellevue</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mont_Sainte-Victoire_seen_from_Bellevue</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03nvlqz</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mont_Sainte-Victoire_seen_from_Bellevue</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3210778</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Montagne_Sainte-Victoire_vue_de_Bellevue</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_montaña_Sainte-Victoire_vista_desde_Bellevue</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_C%C3%A9zanne</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="abstract">Mont Sainte-Victoire seen from Bellevue is a landscape painting dating from around 1885, by the French artist Paul Cézanne. The subject of the painting is the Montagne Sainte-Victoire in Provence in southern France. Cézanne spent a lot of time in Aix-en-Provence at the time, and developed a special relationship with the landscape. This particular mountain, that stood out in the surrounding landscape, he could see from his house, and he painted it in on numerous occasions. Moreover, Cézanne depicted the railway bridge on the Aix-Marseille line at the Arc River Valley in the center on the right side of this picture. The painting shows clearly Cézanne's project of rendering order and clarity to natural scenes, without giving up the optical realism of Impressionism. Both the light and the colours of the painting give the impression of a pattern that is not imposed on nature, but is there naturally.</field>
+<field name="label">Mont Sainte-Victoire seen from Bellevue</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/30/Paul_Cezanne_La_Montagne_Saint_Victoire_Barnes.jpg</field>
+<field name="comment">Mont Sainte-Victoire seen from Bellevue is a landscape painting dating from around 1885, by the French artist Paul Cézanne. The subject of the painting is the Montagne Sainte-Victoire in Provence in southern France. Cézanne spent a lot of time in Aix-en-Provence at the time, and developed a special relationship with the landscape. This particular mountain, that stood out in the surrounding landscape, he could see from his house, and he painted it in on numerous occasions.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Paul_Cezanne_La_Montagne_Saint_Victoire_Barnes.jpg/200px-Paul_Cezanne_La_Montagne_Saint_Victoire_Barnes.jpg</field>
+<field name="link_external">http://tomokiakimaru.web.fc2.com/cezanne_and_the_steam_railway_1.html</field>
+<field name="artist">http://dbpedia.org/resource/Paul_C%C3%A9zanne</field>
+<field name="city">http://dbpedia.org/resource/Pennsylvania</field>
+<field name="height">73</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Barnes_Foundation</field>
+<field name="title">Mont Sainte-Victoire seen from Bellevue</field>
+<field name="width">92</field>
+<field name="year">c. 1885</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mont_Sainte-Victoire_seen_from_Bellevue</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mont_Sainte-Victoire_seen_from_Bellevue</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_montaña_Sainte-Victoire_vista_desde_Bellevue</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mont_Sainte-Victoire_seen_from_Bellevue</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mont_Sainte-Victoire_seen_from_Bellevue</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mont_Sainte-Victoire_seen_from_Bellevue</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Montagne_Sainte-Victoire_vue_de_Bellevue</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mont_Sainte-Victoire_seen_from_Bellevue</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3210778</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mont_Sainte-Victoire_seen_from_Bellevue</field>
+</doc>
+</add>

@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_expulsión_de_los_mercaderes_(El_Greco,_Madrid)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h52zm3</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Madrid)</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Madrid)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wypędzenie_przekupniów_ze_świątyni_(obraz_El_Greca_z_1600)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5108847</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_El_Greco</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1609_paintings</field>
+<field name="abstract">Christ Driving the Money Changers from the Temple is a 1609 Christian art painting by El Greco, now in the church of San Ginés in Madrid. It depicts the Cleansing of the Temple, an event in the Life of Christ.</field>
+<field name="label">Christ Driving the Money Changers from the Temple (El Greco, Madrid)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/81/La_Purificacion_del_templo_version6_El_Greco.jpg</field>
+<field name="comment">Christ Driving the Money Changers from the Temple is a 1609 Christian art painting by El Greco, now in the church of San Ginés in Madrid. It depicts the Cleansing of the Temple, an event in the Life of Christ.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/La_Purificacion_del_templo_version6_El_Greco.jpg/200px-La_Purificacion_del_templo_version6_El_Greco.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Madrid)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_expulsión_de_los_mercaderes_(El_Greco,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Purification_of_the_Temple_(El_Greco,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5108847</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wypędzenie_przekupniów_ze_świątyni_(obraz_El_Greca_z_1600)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Driving_the_Money_Changers_from_the_Temple_(El_Greco,_Madrid)</field>
+</doc>
+</add>

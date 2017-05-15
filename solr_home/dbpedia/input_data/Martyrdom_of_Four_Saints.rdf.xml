@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Martyrdom_of_Four_Saints</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3850306</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Martirio_di_quattro_santi</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Męczeństwo_czterech_świętych</field>
+<field name="sameAs">http://dbpedia.org/resource/Martyrdom_of_Four_Saints</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h54nxq</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Martyrdom_of_Four_Saints</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Correggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Galleria_nazionale_di_Parma</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520s_paintings</field>
+<field name="abstract">The Martyrdom of Four Saints is an oil on canvas painting by the Italian Renaissance artist Correggio, dating from around 1524 and housed in the Galleria Nazionale of Parma, Italy.</field>
+<field name="label">Martyrdom of Four Saints</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ed/Correggio,_martirio_dei_quattro_santi.jpg</field>
+<field name="comment">The Martyrdom of Four Saints is an oil on canvas painting by the Italian Renaissance artist Correggio, dating from around 1524 and housed in the Galleria Nazionale of Parma, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Correggio,_martirio_dei_quattro_santi.jpg/200px-Correggio,_martirio_dei_quattro_santi.jpg</field>
+<field name="link_external">http://www.correggioarthome.it/SchedaOpera.jsp?idDocumentoArchivio=2515#</field>
+<field name="artist">http://dbpedia.org/resource/Antonio_da_Correggio</field>
+<field name="height">160</field>
+<field name="image"/>
+<field name="imageSize">380</field>
+<field name="museum">http://dbpedia.org/resource/Parma</field>
+<field name="museum">http://dbpedia.org/resource/Galleria_nazionale_di_Parma</field>
+<field name="title">Martyrdom of Four Saints</field>
+<field name="width">185</field>
+<field name="year">c. 1524</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Martyrdom_of_Four_Saints</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Martyrdom_of_Four_Saints</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Martirio_di_quattro_santi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Martyrdom_of_Four_Saints</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Męczeństwo_czterech_świętych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Martyrdom_of_Four_Saints</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Martyrdom_of_four_saints</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Martyrdom_of_Four_Saints</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Martyrdom_of_Saint_Placidus_and_Saint_Flavia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Martyrdom_of_Four_Saints</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Martyrdom_of_Four_Saints</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3850306</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Martyrdom_of_Four_Saints</field>
+</doc>
+</add>

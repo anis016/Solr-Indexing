@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Honey_ant_dreaming</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Honey_ant_dreaming</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Honigtopfameisen-Wandgemälde</field>
+<field name="sameAs">http://dbpedia.org/resource/Honey_ant_dreaming</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gg5hkw</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1627110</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">The Honey Ant Dreaming was a mural painted in the early from June to August 1971 by Pintupi tribesmen on the outer wall of the school in Papunya where Geoffrey Bardon taught. In exchange, the tribesmen received paint from Bardon. This event marked a major turning point in the history of Australian Aboriginal art, and was particularly important in helping launch the Western Desert Art Movement. Pintupi elders approached Bardon after observing him encourage his Aboriginal students to paint patterns similar to those he saw them painting in the sand for one another during their free time. The Pintupi elders were eager to revitalize their own painting traditions, which until then had been mainly focused on "sand and body painting. " The Honey Ant Dreaming mural was revised at least two times before it was painted over by a maintenance worker in 1974. The original version contained symbols representing the honey ant Ancestors. This version was revised because some elders believed it revealed too many tribal secrets. In the newer version the original, knot-like patterns were replaced by simple cartoon-like representations, which Bardon objected to. The third version included symbols chosen in advance by all parties involved. Victoria Finlay notes that "all the versions [of Honey Ant Dreaming] were in ochre colors, red, yellow, and black."</field>
+<field name="label">Honey ant dreaming</field>
+<field name="comment">The Honey Ant Dreaming was a mural painted in the early from June to August 1971 by Pintupi tribesmen on the outer wall of the school in Papunya where Geoffrey Bardon taught. In exchange, the tribesmen received paint from Bardon. This event marked a major turning point in the history of Australian Aboriginal art, and was particularly important in helping launch the Western Desert Art Movement.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Honey_ant_dreaming</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Honey_ant_dreaming</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Honey_ant_dreaming</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Honey_ant_dreaming</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Honigtopfameisen-Wandgemälde</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Honey_ant_dreaming</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1627110</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Honey_ant_dreaming</field>
+</doc>
+</add>

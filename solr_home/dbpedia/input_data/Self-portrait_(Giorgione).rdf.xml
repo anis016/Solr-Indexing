@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-portrait_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self-portrait_(Giorgione)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h2_ny</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7448169</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_(Giorgione)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_of_Fine_Arts_(Budapest)</field>
+<field name="abstract">The Self-portrait of Giorgione is a 1510 self-portrait by the Italian painter Giorgione. It is held at the Museum of Fine Arts in Budapest, from which it was stolen on 5 November 1983. It was recovered in Operation Budapest.</field>
+<field name="label">Self-portrait (Giorgione)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a8/Autoritratto_(Giorgione).jpg</field>
+<field name="comment">The Self-portrait of Giorgione is a 1510 self-portrait by the Italian painter Giorgione. It is held at the Museum of Fine Arts in Budapest, from which it was stolen on 5 November 1983. It was recovered in Operation Budapest.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Autoritratto_(Giorgione).jpg/200px-Autoritratto_(Giorgione).jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Budapest</field>
+<field name="height">31</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts_(Budapest)</field>
+<field name="title">Self-portrait</field>
+<field name="type">oil on paper, transferred to canvas</field>
+<field name="width">28</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self-portrait_(Giorgione)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self-portrait_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self-portrait_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self-portrait_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7448169</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_(Giorgione)</field>
+</doc>
+</add>

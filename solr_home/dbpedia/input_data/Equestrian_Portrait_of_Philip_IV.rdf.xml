@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Philippe_IV_à_cheval_(Vélasquez)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_IV</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_IV</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3076680</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Equestrian_Portrait_of_Philip_IV</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Філіп_IV_верхи</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05p1t0w</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Philippe_IV_à_cheval_(Vélasquez)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Felipe_IV_a_caballo</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_IV</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_of_Philip_IV</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_of_monarchs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1636_paintings</field>
+<field name="abstract">The Equestrian Portrait of Philip IV was a portrait of Philip IV of Spain on horseback, painted by Velázquez in 1635-36 as part of a series of equestrian portraits for the Salón de Reinos at the palacio del Buen Retiro in Madrid (a series that also included that of Philip's son prince Balthasar Charles).</field>
+<field name="label">Equestrian Portrait of Philip IV</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7b/69_Velázquez_-_Felipe_IV_(Museo_del_Prado,_1634-35).jpg</field>
+<field name="comment">The Equestrian Portrait of Philip IV was a portrait of Philip IV of Spain on horseback, painted by Velázquez in 1635-36 as part of a series of equestrian portraits for the Salón de Reinos at the palacio del Buen Retiro in Madrid (a series that also included that of Philip's son prince Balthasar Charles).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/69_Velázquez_-_Felipe_IV_(Museo_del_Prado,_1634-35).jpg/200px-69_Velázquez_-_Felipe_IV_(Museo_del_Prado,_1634-35).jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">Equestrian Portrait of Philip IV</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Equestrian_Portrait_of_Philip_IV</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Equestrian_Portrait_of_Philip_IV</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Felipe_IV_a_caballo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_IV</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Equestrian_Portrait_of_Philip_IV</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_IV</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equestrian_portrait_of_Philip_IV</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3076680</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_IV</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Філіп_IV_верхи</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_IV</field>
+</doc>
+</add>

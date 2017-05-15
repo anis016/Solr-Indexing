@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Three_Musicians</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Drei_Musikanten</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Three_Musicians</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Three_Musicians</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1113293</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Musicians</field>
+<field name="sameAs">http://it.dbpedia.org/resource/I_tre_musici</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vyfth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cubist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1921_paintings</field>
+<field name="abstract">Three Musicians is the title of two similar collage and oil paintings by Spanish artist Pablo Picasso. They were both completed in 1921 in Fontainebleau near Paris, France, and exemplify the Synthetic Cubist style. One version is currently owned by the Museum of Modern Art (MoMA) in New York City; the other is found in the Philadelphia Museum of Art http://www. philamuseum. org/collections/permanent/53963. html. Each painting features a Harlequin, a Pierrot, and a monk, who are generally believed to represent Picasso, Guillaume Apollinaire, and Max Jacob, respectively. Apollinaire and Jacob, both poets, had been close friends of Picasso during the 1910s. However, Apollinaire died of the Spanish flu in 1918, while Jacob decided to enter a monastery in 1921.</field>
+<field name="label">Three Musicians</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d1/Picasso_three_musicians_moma_2006.jpg</field>
+<field name="comment">Three Musicians is the title of two similar collage and oil paintings by Spanish artist Pablo Picasso. They were both completed in 1921 in Fontainebleau near Paris, France, and exemplify the Synthetic Cubist style. One version is currently owned by the Museum of Modern Art (MoMA) in New York City; the other is found in the Philadelphia Museum of Art http://www. philamuseum. org/collections/permanent/53963. html.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Picasso_three_musicians_moma_2006.jpg/200px-Picasso_three_musicians_moma_2006.jpg</field>
+<field name="link_external">http://www.philamuseum.org/collections/permanent/53963.html</field>
+<field name="link_external">http://www.philamuseum.org/education/resources/81.html</field>
+<field name="link_external">http://moma.org/collection/browse_results.php?object_id=78630</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Three_Musicians</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Three_Musicians</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Three_Musicians</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Musicians</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Drei_Musikanten</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Musicians</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/I_tre_musici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Musicians</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Three_Musicians</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Three_Musicians</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Three_Musicians</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1113293</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Musicians</field>
+</doc>
+</add>

@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cabeza_de_Alabardero</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Head_of_a_Halberdier</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Head_of_a_Halberdier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Head_of_a_Halberdier</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Head_of_a_Halberdier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Head_of_a_Halberdier</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cabeza_de_Alabardero</field>
+<field name="sameAs">http://dbpedia.org/resource/Head_of_a_Halberdier</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02620cy</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5689364</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="abstract">Head of a Halberdier is a fragment of a Hieronymus Bosch painting. It is currently in the Museo del Prado in Madrid.</field>
+<field name="label">Head of a Halberdier</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2e/BoschHeadOfAHalberdierFragment.jpg</field>
+<field name="comment">Head of a Halberdier is a fragment of a Hieronymus Bosch painting. It is currently in the Museo del Prado in Madrid.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/BoschHeadOfAHalberdierFragment.jpg/200px-BoschHeadOfAHalberdierFragment.jpg</field>
+<field name="artist"/>
+<field name="height">28</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Head of a Halberdier</field>
+<field name="type">oil on panel</field>
+<field name="width">20</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Head_of_a_Halberdier</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Head_of_a_Halberdier</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5689364</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Head_of_a_Halberdier</field>
+</doc>
+</add>

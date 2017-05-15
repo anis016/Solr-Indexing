@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Metaphysical_Interior_with_Biscuits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Metaphysical_Interior_with_Biscuits</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6823130</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0drcrv</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Metaphysical_Interior_with_Biscuits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1916_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico</field>
+<field name="abstract">Metaphysical Interior with Biscuits (1916) is a painting by the Greek-Italian metaphysical painter Giorgio de Chirico. It is one of the earliest editions in a series of works that extended late into de Chirico’s career. Like the others in this series, this painting depicts a room that is cluttered with objects in a surreal arrangement. In this case the main focus is a panel on which is mounted several biscuits (crackers) that are arranged to resemble an abstract face. Behind this panel is a picture in an irregularly shaped frame. The image in the frame is an architectural scene in the style of de Chirico’s earlier work.</field>
+<field name="label">Metaphysical Interior with Biscuits</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0c/Metaphysical_with_Biscuits.jpg</field>
+<field name="comment">Metaphysical Interior with Biscuits (1916) is a painting by the Greek-Italian metaphysical painter Giorgio de Chirico. It is one of the earliest editions in a series of works that extended late into de Chirico’s career. Like the others in this series, this painting depicts a room that is cluttered with objects in a surreal arrangement. In this case the main focus is a panel on which is mounted several biscuits (crackers) that are arranged to resemble an abstract face.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Metaphysical_with_Biscuits.jpg/200px-Metaphysical_with_Biscuits.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Giorgio_de_Chirico</field>
+<field name="city">http://dbpedia.org/resource/Houston</field>
+<field name="height">81.28</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Menil_Collection</field>
+<field name="title">Metaphysical Interior with Biscuits</field>
+<field name="width">65.0875</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Biscuits</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Metaphysical_Interior_with_Biscuits</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Metaphysical_Interior_with_Biscuits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Metaphysical_Interior_with_Biscuits</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6823130</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Metaphysical_Interior_with_Biscuits</field>
+</doc>
+</add>

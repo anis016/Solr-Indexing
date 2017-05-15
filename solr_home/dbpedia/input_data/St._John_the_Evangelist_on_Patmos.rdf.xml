@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Juan_en_Patmos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Evangelist_on_Patmos</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._John_the_Evangelist_on_Patmos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._John_the_Evangelist_on_Patmos</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025zqyy</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2390197</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Juan_en_Patmos</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Evangelist_on_Patmos</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Jean_l'Évangéliste_à_Patmos_(Bosh)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Святой_Иоанн_на_Патмосе_(картина_Босха)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Johannes_de_Evangelist_op_Patmos</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="abstract">St. John on Patmos is a painting by Hieronymus Bosch. The painting is currently in the Gemäldegalerie, in Berlin, Germany. The reverse is also painted, the title of that picture is Scenes from the Passion of Christ and the Pelican with Her Young. 		 			Hieronymus Bosch - St John the Evangelist on Patmos (reverse) - WGA2548. jpg 			 reverse side of painting, Oil on panel, diameter 39 cm</field>
+<field name="label">St. John the Evangelist on Patmos</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/61/Johannes_op_Patmos_Jeroen_Bosch.jpg</field>
+<field name="comment">St. John on Patmos is a painting by Hieronymus Bosch. The painting is currently in the Gemäldegalerie, in Berlin, Germany. The reverse is also painted, the title of that picture is Scenes from the Passion of Christ and the Pelican with Her Young. 		 			Hieronymus Bosch - St John the Evangelist on Patmos (reverse) - WGA2548. jpg 			 reverse side of painting, Oil on panel, diameter 39 cm</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Johannes_op_Patmos_Jeroen_Bosch.jpg/200px-Johannes_op_Patmos_Jeroen_Bosch.jpg</field>
+<field name="artist"/>
+<field name="height">63</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">St. John on Patmos</field>
+<field name="type">Oil on oak panel</field>
+<field name="width">43.3</field>
+<field name="year">circa 1500</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._John_the_Evangelist_on_Patmos</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._John_the_Evangelist_on_Patmos</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Святой_Иоанн_на_Патмосе_(картина_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Evangelist_on_Patmos</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._John_the_Evangelist_on_Patmos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._John_the_Evangelist_on_Patmos</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2390197</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Evangelist_on_Patmos</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Jean_l'Évangéliste_à_Patmos_(Bosh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Evangelist_on_Patmos</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Johannes_de_Evangelist_op_Patmos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Evangelist_on_Patmos</field>
+</doc>
+</add>

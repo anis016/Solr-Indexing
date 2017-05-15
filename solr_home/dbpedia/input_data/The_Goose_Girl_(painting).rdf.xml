@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Goose_Girl_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Goose_Girl_(painting)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Sadə_qız_(Buqro)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cfkmd</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Goose_Girl_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3344256</field>
+<field name="sameAs">http://bn.dbpedia.org/resource/দ্যা_গুস_গার্ল</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William-Adolphe_Bouguereau</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1891_paintings</field>
+<field name="abstract">The Goose Girl is an 1891 painting by Adolphe William Bouguereau, a French academic painter. The Goose Girl is one of many examples that Bouguereau specialized in paintings of beautiful women, and innocent, barefoot, young peasant girls. It is part of the permanent collection of the Herbert F. Johnson Museum of Art at Cornell University.</field>
+<field name="label">The Goose Girl (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/11/William-Adolphe_Bouguereau_(1825-1905)_-_The_Goose_Girl_(1891).jpg</field>
+<field name="comment">The Goose Girl is an 1891 painting by Adolphe William Bouguereau, a French academic painter. The Goose Girl is one of many examples that Bouguereau specialized in paintings of beautiful women, and innocent, barefoot, young peasant girls. It is part of the permanent collection of the Herbert F. Johnson Museum of Art at Cornell University.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/William-Adolphe_Bouguereau_(1825-1905)_-_The_Goose_Girl_(1891).jpg/200px-William-Adolphe_Bouguereau_(1825-1905)_-_The_Goose_Girl_(1891).jpg</field>
+<field name="link_external">http://www.museum.cornell.edu/HFJ/handbook/hb140.html</field>
+<field name="artist">http://dbpedia.org/resource/William-Adolphe_Bouguereau</field>
+<field name="city">http://dbpedia.org/resource/Ithaca,_New_York</field>
+<field name="height">152</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Herbert_F._Johnson_Museum_of_Art</field>
+<field name="title">The Goose Girl</field>
+<field name="width">74</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Goose_Girl_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Goose_Girl_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Goose_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Goose_Girl_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Goose_Girl_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Goose_Girl_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Sadə_qız_(Buqro)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Goose_Girl_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://bn.dbpedia.org/resource/দ্যা_গুস_গার্ল</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Goose_Girl_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3344256</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Goose_Girl_(painting)</field>
+</doc>
+</add>

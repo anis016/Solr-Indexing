@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Blue_Nude_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Blue_Nude_II</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blue_Nude_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02pb39q</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q882587</field>
+<field name="sameAs">http://dbpedia.org/resource/Blue_Nude_II</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Blauw_naakt_II</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Blauer_Akt</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Blue_Nude_II</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1952_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Blue Nudes refer to a series of gouaches découpées by Henri Matisse, executed in 1952. They represent female nudes either seated or standing, and are among Matisse's final works in any medium. During the early-to-mid-1940s Matisse was in poor health. Eventually by 1950 he stopped painting in favor of his paper cutouts. The Blue Nudes are a major series' of Matisse's final body of works known as the cutouts. The color blue signified distance and volume to Matisse. Frustrated in his attempts to successfully marry dominant and contrasting tones, the artist was moved to use solid slabs of single color early in his career, a technique that became known as Fauvism. The painted gouache cut-outs that comprise the Blue Nudes were inspired by Matisse's collection of African sculpture and a visit that he made to Tahiti in 1930. It took another twenty years and a period of incapacity after an operation before Matisse synthesized these influences into this seminal series.</field>
+<field name="label">Blue Nude II</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/78/Blue_Nudes_Henri_Matisse.jpg</field>
+<field name="comment">Blue Nudes refer to a series of gouaches découpées by Henri Matisse, executed in 1952. They represent female nudes either seated or standing, and are among Matisse's final works in any medium. During the early-to-mid-1940s Matisse was in poor health. Eventually by 1950 he stopped painting in favor of his paper cutouts. The Blue Nudes are a major series' of Matisse's final body of works known as the cutouts. The color blue signified distance and volume to Matisse.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Blue_Nudes_Henri_Matisse.jpg/200px-Blue_Nudes_Henri_Matisse.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">116.2</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Centre_Georges_Pompidou</field>
+<field name="title">Blue Nude II</field>
+<field name="type">stuck to paper mounted on canvas</field>
+<field name="type">Gouache-painted paper cut-outs</field>
+<field name="width">88.9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Blue_Nude_II</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Blue_Nude_II</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blue_Nude</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Blauer_Akt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Blue_Nude_II</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blue_Nudes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Blauw_naakt_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Blue_Nude_II</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q882587</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Blue_Nude_II</field>
+</doc>
+</add>

@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paintings_of_Children_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paintings_of_Children_(Van_Gogh_series)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Paintings_of_Children_(Van_Gogh_series)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glqrfk</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7125093</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Saint-R%C3%A9my</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="abstract">Vincent van Gogh enjoyed making Paintings of Children. He once said that it's the only thing that "excites me to the depths of my soul, and which makes me feel the infinite more than anything else. " Painting children, in particular represented rebirth and the infinite. Over his career Van Gogh did not make many paintings of children, but those he completed were special to him. During the ten years of Van Gogh's career as a painter, from 1881 to 1890, his work changed and grew richer, particularly in how he used color and techniques symbolically or evocatively. His early works were earth-toned and dull. After a transformative period in Paris, Van Gogh embarked on his most prolific periods starting in Arles, in the south of France and continuing until his final days in Auvers-sur-Oise. During those times his work became more colorful and more reflective of influences, such as Impressionism and Japonism. Japonism influences are understood in the painting of a young girl, La Mousmé. Among others, he was inspired by the work of Jean-François Millet which he emulated in First Steps and Evening: The Watch. Van Gogh enjoyed painting portraits when he had available models. Possibly the greatest impact to his paintings of children came out of the friendship with Joseph Roulin and the many paintings of his family.</field>
+<field name="label">Paintings of Children (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/65/Portrait_of_Camille_Roulin_1888_Vincent_van_Gogh.jpg</field>
+<field name="comment">Vincent van Gogh enjoyed making Paintings of Children. He once said that it's the only thing that "excites me to the depths of my soul, and which makes me feel the infinite more than anything else. " Painting children, in particular represented rebirth and the infinite. Over his career Van Gogh did not make many paintings of children, but those he completed were special to him.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Portrait_of_Camille_Roulin_1888_Vincent_van_Gogh.jpg/200px-Portrait_of_Camille_Roulin_1888_Vincent_van_Gogh.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="height">40.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Van_Gogh_Museum</field>
+<field name="title">Portrait of Camille Roulin</field>
+<field name="type">Oil on canvas</field>
+<field name="width">140</field>
+<field name="width">125</field>
+<field name="width">250</field>
+<field name="width">32.5</field>
+<field name="width">200</field>
+<field name="width">175</field>
+<field name="width">275</field>
+<field name="width">150</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Paintings_of_Children_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Paintings_of_Children_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paintings_of_Children_(van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Paintings_of_Children_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Paintings_of_Children_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7125093</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paintings_of_Children_(Van_Gogh_series)</field>
+</doc>
+</add>

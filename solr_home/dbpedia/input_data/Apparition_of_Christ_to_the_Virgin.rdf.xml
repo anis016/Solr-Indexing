@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Apparition_of_Christ_to_the_Virgin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Apparition_of_Christ_to_the_Virgin</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Apparition_of_Christ_to_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Apparition_of_Christ_to_the_Virgin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Apparition_of_Christ_to_the_Virgin</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Apparizione_di_Cristo_alla_Madonna</field>
+<field name="sameAs">http://dbpedia.org/resource/Apparition_of_Christ_to_the_Virgin</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvsfgm</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3620835</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippino_Lippi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="abstract">The Apparition of Christ to the Virgin is a painting by the Italian Renaissance master Filippino Lippi, executed around 1493 and now housed in the Alte Pinakothek of Munich, Germany. The work dates to around to the period after Lippi's return to Florence after his works in the Carafa Chapel at Rome. It is perhaps to be identified with the panel mentioned by the Renaissance art historian Giorgio Vasari in the church of San Francesco al Palco of Prato. In the 19th century, Ludwig I of Bavaria acquired the paintings, which later, together with the other royal collections, was included in the Alte Pinakothek.</field>
+<field name="label">Apparition of Christ to the Virgin</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9b/Filippino_lippi,_apparizione_di_cristo_alla_madonna,_monaco_1493_circa.jpg</field>
+<field name="comment">The Apparition of Christ to the Virgin is a painting by the Italian Renaissance master Filippino Lippi, executed around 1493 and now housed in the Alte Pinakothek of Munich, Germany. The work dates to around to the period after Lippi's return to Florence after his works in the Carafa Chapel at Rome. It is perhaps to be identified with the panel mentioned by the Renaissance art historian Giorgio Vasari in the church of San Francesco al Palco of Prato.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Filippino_lippi,_apparizione_di_cristo_alla_madonna,_monaco_1493_circa.jpg/200px-Filippino_lippi,_apparizione_di_cristo_alla_madonna,_monaco_1493_circa.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Filippino_Lippi</field>
+<field name="city">http://dbpedia.org/resource/Munich</field>
+<field name="height">156.1</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Alte_Pinakothek</field>
+<field name="title">Apparition of Christ to the Virgin</field>
+<field name="width">146.7</field>
+<field name="year">c. 1493</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Apparition_of_Christ_to_the_Virgin</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Apparition_of_Christ_to_the_Virgin</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Apparizione_di_Cristo_alla_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Apparition_of_Christ_to_the_Virgin</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3620835</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Apparition_of_Christ_to_the_Virgin</field>
+</doc>
+</add>

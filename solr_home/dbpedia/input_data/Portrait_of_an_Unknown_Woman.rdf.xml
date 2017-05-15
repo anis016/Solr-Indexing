@@ -1,0 +1,92 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_an_Unknown_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_an_Unknown_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Неизвестная_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_an_Unknown_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Unbekannte_(Gemälde)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_an_Unknown_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/見知らぬ女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_an_Unknown_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/An_Unknown_Lady</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_an_Unknown_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1217003</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Невідома_(картина)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Неизвестная_(картина)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/見知らぬ女</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_an_Unknown_Woman</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Inconnue_(peinture)</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Người_đàn_bà_xa_lạ</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Unbekannte_(Gemälde)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bh8kbr</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_an_Unknown_Woman</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ivan_Kramskoi</field>
+<field name="abstract">Portrait of an Unknown Woman (also known as The Unknown Woman, An Unknown Lady or Stranger) is a painting by the Russian artist Ivan Kramskoi, executed in 1883. The identity of the model is unknown and depicts a woman of "quiet strength and forthright gaze". It is one of Russia's best-known art works, although a number of critics were indignant when the painting was first exhibited and condemned what they saw as a depiction of a haughty and immoral woman. Its popularity has grown with changes in public taste. Frederick R. Andresen states that the painting supposedly inspired Leo Tolstoy’s Anna Karenina character, but further notes the book was published about ten years prior to the painting. The painting has been used as the cover for some editions of the book. The painting hangs in the Tretyakov Gallery, Moscow, while an earlier version, also dated 1883, is housed at the Arts Center in Kiel.</field>
+<field name="label">Portrait of an Unknown Woman</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/ce/Kramskoy_Portrait_of_a_Woman.jpg</field>
+<field name="comment">Portrait of an Unknown Woman (also known as The Unknown Woman, An Unknown Lady or Stranger) is a painting by the Russian artist Ivan Kramskoi, executed in 1883. The identity of the model is unknown and depicts a woman of "quiet strength and forthright gaze". It is one of Russia's best-known art works, although a number of critics were indignant when the painting was first exhibited and condemned what they saw as a depiction of a haughty and immoral woman.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Kramskoy_Portrait_of_a_Woman.jpg/200px-Kramskoy_Portrait_of_a_Woman.jpg</field>
+<field name="link_external">http://www.artsstudio.com/reproductions/new_kramskoy-portrait_of_lady.htm</field>
+<field name="link_external">http://www.tretyakovgallery.ru/ru/collection/_show/image/_id/193</field>
+<field name="artist">http://dbpedia.org/resource/Ivan_Kramskoi</field>
+<field name="city">http://dbpedia.org/resource/Moscow</field>
+<field name="city">http://dbpedia.org/resource/Russia</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Tretyakov_Gallery</field>
+<field name="title">Portrait of an Unknown Woman</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_an_Unknown_Woman</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_an_Unknown_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Inconnue_(peinture)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_an_Unknown_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1217003</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_an_Unknown_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Невідома_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_an_Unknown_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Người_đàn_bà_xa_lạ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_an_Unknown_Woman</field>
+</doc>
+</add>

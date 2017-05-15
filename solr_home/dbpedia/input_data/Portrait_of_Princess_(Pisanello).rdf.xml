@@ -1,0 +1,113 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Портрет_Джиневри_д'Есте</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภาพเหมือนเจ้าหญิง_(พิซาเนลโล)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Princess_(Pisanello)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_principessa_estense</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.027tl13</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2478403</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_Джиневры_д'Эсте</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_księżniczki_(obraz_Pisanella)</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Portretul_unei_prințese_d'Este</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_d'une_princesse_d'Este</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_una_princesa_de_la_casa_de_Este</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:House_of_Este</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pisanello</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1440s_paintings</field>
+<field name="abstract">Portrait of Princess is a tempera painting on panel attributed to the Italian Late-Gothic master Pisanello. It was probably executed between 1435 and 1449 and is also known as Portrait of a Princess of the House of Este. It is firmly attributed to Pisanello on stylistic grounds and because he stayed in Ferrara in the period, where he also finished a portrait and a celebrative medal of Marquis Leonello d'Este. The princess is shown in profile against a background of numerous butterflies and columbine flowers. The butterfly near the princess' brow is a symbol of the soul. The painting is currently housed and exhibited in the Musée du Louvre in Paris, France.</field>
+<field name="label">Portrait of Princess (Pisanello)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3b/Pisanello_016.jpg</field>
+<field name="comment">Portrait of Princess is a tempera painting on panel attributed to the Italian Late-Gothic master Pisanello. It was probably executed between 1435 and 1449 and is also known as Portrait of a Princess of the House of Este. It is firmly attributed to Pisanello on stylistic grounds and because he stayed in Ferrara in the period, where he also finished a portrait and a celebrative medal of Marquis Leonello d'Este.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Pisanello_016.jpg/200px-Pisanello_016.jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/p/pisanell/princess.html</field>
+<field name="link_external">http://saintpassionate.tumblr.com/post/5606004332/pisanello-portrait-of-a-princess-this-is-one-of</field>
+<field name="artist">http://dbpedia.org/resource/Pisanello</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">43</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Portrait of Princess</field>
+<field name="type">Tempera on panel</field>
+<field name="width">30</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Princess_(Pisanello)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Princess_(Pisanello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_Джиневры_д'Эсте</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_una_princesa_de_la_casa_de_Este</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_księżniczki_(obraz_Pisanella)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Princess_(Pisanello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_d'une_princesse_d'Este</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_principessa_estense</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2478403</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Portretul_unei_prințese_d'Este</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภาพเหมือนเจ้าหญิง_(พิซาเนลโล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Портрет_Джиневри_д'Есте</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Princess_(Pisanello)</field>
+</doc>
+</add>

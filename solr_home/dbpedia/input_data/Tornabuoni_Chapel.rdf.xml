@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Capilla_Tornabuoni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cappella_Tornabuoni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03c5zzc</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2593098</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Tornabuoni_koplyčia</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cappella_Tornabuoni</field>
+<field name="sameAs">http://th.dbpedia.org/resource/โบสถ์น้อยตอร์นาบูโอนี</field>
+<field name="sameAs">http://af.dbpedia.org/resource/Tornabuoni-kapel</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Chapelle_Tornabuoni</field>
+<field name="sameAs">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Капелла_Торнабуони</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Capilla_Tornabuoni</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Tornabuoni_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Domenico_Ghirlandaio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Chapels_in_Florence</field>
+<field name="abstract">The Tornabuoni Chapel is the main chapel in the church of Santa Maria Novella, Florence, Italy. It is famous for the extensive and well-preserved fresco cycle on its walls, one of the most complete in the city, which was created by Domenico Ghirlandaio and his workshop between 1485 and 1490.</field>
+<field name="label">Tornabuoni Chapel</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/58/Cappella_tornabuoni_smn,_02.JPG</field>
+<field name="comment">The Tornabuoni Chapel is the main chapel in the church of Santa Maria Novella, Florence, Italy. It is famous for the extensive and well-preserved fresco cycle on its walls, one of the most complete in the city, which was created by Domenico Ghirlandaio and his workshop between 1485 and 1490.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Cappella_tornabuoni_smn,_02.JPG/200px-Cappella_tornabuoni_smn,_02.JPG</field>
+<field name="link_external">http://www.chiesasantamarianovella.it/en/artworks/tornabuoni-chapel-maggiore-chapel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Tornabuoni_Chapel</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tornabuoni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Капелла_Торнабуони</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Chapelle_Tornabuoni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Tornabuoni_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cappella_Tornabuoni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://af.dbpedia.org/resource/Tornabuoni-kapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Tornabuoni_koplyčia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/โบสถ์น้อยตอร์นาบูโอนี</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2593098</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tornabuoni_Chapel</field>
+</doc>
+</add>

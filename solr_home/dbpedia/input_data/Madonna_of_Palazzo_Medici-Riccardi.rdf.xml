@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_di_palazzo_Medici-Riccardi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Palazzo_Medici-Riccardi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Palazzo_Medici-Riccardi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_Palazzo_Medici-Riccardi</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Palazzo_Medici-Riccardi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtvpmz</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_di_palazzo_Medici-Riccardi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3842747</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippo_Lippi</field>
+<field name="abstract">The Madonna of Palazzo Medici-Riccardi is a painting by the Italian Renaissance artist Filippo Lippi. It is housed in the Palazzo Medici-Riccardi of Florence, central Italy.</field>
+<field name="label">Madonna of Palazzo Medici-Riccardi</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9f/Madonna_col_bambino,_palazzo_medici_riccardi,_filippo_lippi.jpg</field>
+<field name="comment">The Madonna of Palazzo Medici-Riccardi is a painting by the Italian Renaissance artist Filippo Lippi. It is housed in the Palazzo Medici-Riccardi of Florence, central Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Madonna_col_bambino,_palazzo_medici_riccardi,_filippo_lippi.jpg/200px-Madonna_col_bambino,_palazzo_medici_riccardi,_filippo_lippi.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Filippo_Lippi</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">115</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Medici_Riccardi</field>
+<field name="title">Madonna of Palazzo Medici-Riccardi</field>
+<field name="type">Tempera on panel</field>
+<field name="width">71</field>
+<field name="year">c. 1466-1469</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_Palazzo_Medici-Riccardi</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_Palazzo_Medici-Riccardi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Palazzo_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Palazzo_Medici_Riccardi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_Palazzo_Medici-Riccardi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_Palazzo_Medici-Riccardi</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3842747</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Palazzo_Medici-Riccardi</field>
+</doc>
+</add>

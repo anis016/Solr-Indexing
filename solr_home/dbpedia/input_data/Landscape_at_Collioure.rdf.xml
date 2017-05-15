@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_at_Collioure</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6485079</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vnvjj</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_at_Collioure</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Landscape_at_Collioure</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1905_paintings</field>
+<field name="abstract">Landscape at Collioure is a painting by Henri Matisse from 1905, part of the collection of the Museum of Modern Art.</field>
+<field name="label">Landscape at Collioure</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fb/Matisse_Les_toits.jpg</field>
+<field name="comment">Landscape at Collioure is a painting by Henri Matisse from 1905, part of the collection of the Museum of Modern Art.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Matisse_Les_toits.jpg/200px-Matisse_Les_toits.jpg</field>
+<field name="link_external">http://www.moma.org/collection/browse_results.php?object_id=79542</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Landscape_at_Collioure</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Landscape_at_Collioure</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Landscape_at_Collioure</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Landscape_at_Collioure</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Landscape_at_Collioure</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6485079</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_at_Collioure</field>
+</doc>
+</add>

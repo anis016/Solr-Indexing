@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Clubfoot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_pie_varo</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Storpio_(Ribera)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q24118</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gfd78r</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Clubfoot</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clubfoot</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1642_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Spanish_paintings</field>
+<field name="abstract">The Clubfoot (also known as The Club-Footed Boy) is a 1642 oil on canvas painting by Jusepe de Ribera. It is housed in the Musée du Louvre in Paris, and was painted in Naples. Part of the La Caze bequest, in 1869. Commissioned by a Flemish dealer, the painting features a Neapolitan beggar boy with a deformed foot. Behind him is a vast and luminous landscape, against which the boy stands with a gap-toothed grin, wearing earth-toned clothes and holding his crutch slung over his left shoulder. Written in Latin on the paper in the boy's hand is the sentence "DA MIHI ELEMOSINAM PROPTER AMOREM DEI" ("Give me alms, for the love of God").</field>
+<field name="label">The Clubfoot</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ad/José_de_Ribera_017.jpg</field>
+<field name="comment">The Clubfoot (also known as The Club-Footed Boy) is a 1642 oil on canvas painting by Jusepe de Ribera. It is housed in the Musée du Louvre in Paris, and was painted in Naples. Part of the La Caze bequest, in 1869. Commissioned by a Flemish dealer, the painting features a Neapolitan beggar boy with a deformed foot. Behind him is a vast and luminous landscape, against which the boy stands with a gap-toothed grin, wearing earth-toned clothes and holding his crutch slung over his left shoulder.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/José_de_Ribera_017.jpg/200px-José_de_Ribera_017.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/81943</field>
+<field name="link_external">http://www.independent.co.uk/arts-entertainment/art/great-works/de-ribera-jusepe-the-boy-with-the-club-foot-1642-795447.html</field>
+<field name="link_external">http://www.artble.com/artists/jusepe_de_ribera/paintings/the_clubfoot</field>
+<field name="link_external">http://www.louvre.fr/en/oeuvre-notices/clubfoot</field>
+<field name="artist">http://dbpedia.org/resource/Jusepe_de_Ribera</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">164</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Clubfoot</field>
+<field name="type">Oil on canvas</field>
+<field name="width">92</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Clubfoot</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Clubfoot</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Clubfoot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Clubfoot</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_pie_varo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clubfoot</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Club-footed_Boy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Storpio_(Ribera)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clubfoot</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q24118</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Clubfoot</field>
+</doc>
+</add>

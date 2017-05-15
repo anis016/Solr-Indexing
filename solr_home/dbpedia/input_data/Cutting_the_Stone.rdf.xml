@@ -1,0 +1,120 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Extraction_of_the_Stone_of_Madness_(The_Cure_of_Folly)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Extracción_de_la_piedra_de_la_locura_(El_Bosco)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Leczenie_głupoty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cutting_the_Stone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_keisnijding_(Madrid)</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Extracção_da_Pedra_da_Loucura</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07bp0l</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Извлечение_камня_глупости_(картина_Босха)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Cutting_the_Stone</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Lithotomie</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Leczenie_głupoty</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2270768</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Видалення_каменю_глупоти_(Босх)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Extracción_de_la_piedra_de_la_locura_(El_Bosco)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Estrazione_della_pietra_della_follia</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Deliliğin_Tedavisi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1494_paintings</field>
+<field name="abstract">Cutting the Stone, also called The Extraction of the Stone of Madness or The Cure of Folly, is a painting by Hieronymus Bosch in the Museo del Prado in Madrid, completed around 1494 or later. The painting depicts the extraction of the stone of madness, a "keye" (in English a "stone" or "bulb") from a patient's head, using trepanation by a man wearing a funnel hat. In the painting Bosch has exchanged the traditional "stone" as the object of extraction with the bulb of a flower. Another flower is on the table. The Gothic inscription reads Meester snyt die keye rasMyne name Is lubbert Das . Lubbert Das was a comical (foolish) character in Dutch literature.</field>
+<field name="label">Cutting the Stone</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b1/Cutting_the_Stone_(Bosch).jpg</field>
+<field name="comment">Cutting the Stone, also called The Extraction of the Stone of Madness or The Cure of Folly, is a painting by Hieronymus Bosch in the Museo del Prado in Madrid, completed around 1494 or later. The painting depicts the extraction of the stone of madness, a "keye" (in English a "stone" or "bulb") from a patient's head, using trepanation by a man wearing a funnel hat. In the painting Bosch has exchanged the traditional "stone" as the object of extraction with the bulb of a flower.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Cutting_the_Stone_(Bosch).jpg/200px-Cutting_the_Stone_(Bosch).jpg</field>
+<field name="link_external">http://books.google.com/books?id=o-5VpyGAHSgC&amp;printsec=frontcover&amp;source=gbs_navlinks_s#v=onepage&amp;q=&amp;f=false</field>
+<field name="artist">http://dbpedia.org/resource/Hieronymus_Bosch</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">48</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">Cutting the Stone</field>
+<field name="width">35</field>
+<field name="year">c. 1494 or later</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Cutting_the_Stone</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Cutting_the_Stone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Lithotomie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Извлечение_камня_глупости_(картина_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Cure_of_Folly</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Extraction_of_the_Stone_of_Fools_(The_Cure_of_Folly)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Estrazione_della_pietra_della_follia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Extracção_da_Pedra_da_Loucura</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_keisnijding_(Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2270768</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Deliliğin_Tedavisi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Видалення_каменю_глупоти_(Босх)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cutting_the_Stone</field>
+</doc>
+</add>

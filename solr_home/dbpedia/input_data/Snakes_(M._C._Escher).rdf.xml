@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Snakes_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Snakes_(M._C._Escher)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03xls2</field>
+<field name="sameAs">http://dbpedia.org/resource/Snakes_(M._C._Escher)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7547192</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Woodcuts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1969_paintings</field>
+<field name="abstract">Snakes is a woodcut print by the Dutch artist M. C. Escher which was first printed in July 1969. It depicts a disc made up of interlocking circles which grow progressively smaller towards the center and towards the edge. There are three snakes laced through the edge of the disc. Snakes has rotational symmetry of order 3, comprising a single wedge-shaped image which is repeated three times in a circle. This means that it was printed from three blocks which were rotated on a pin to make three impressions each. Close inspection reveals the central mark left by the pin. The image is printed in three colours: green, brown and black. In several earlier works Escher explored the limits of infinitesimal size and infinite number, for example the Circle Limit series, by actually carrying through the rendering of smaller and smaller figures to the smallest possible sizes. By contrast, in Snakes, the infinite diminution of size – and infinite increase in number – is only suggested in the finished work. Nevertheless, the print shows very clearly how this rendering would have been carried out to the limits of human visibility. This was Escher’s last print.</field>
+<field name="label">Snakes (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/16/Escher_Snakes.jpg</field>
+<field name="comment">Snakes is a woodcut print by the Dutch artist M. C. Escher which was first printed in July 1969. It depicts a disc made up of interlocking circles which grow progressively smaller towards the center and towards the edge. There are three snakes laced through the edge of the disc. Snakes has rotational symmetry of order 3, comprising a single wedge-shaped image which is repeated three times in a circle.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Escher_Snakes.jpg/200px-Escher_Snakes.jpg</field>
+<field name="link_external">http://www.youtube.com/watch?v=cEQcuIRROzM</field>
+<field name="link_external">http://etereaestudios.com/docs_html/snakes_htm/snakes_index.htm</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Snakes</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Snakes_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Snakes_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Snakes_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Snakes_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Snakes_(M.C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7547192</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Snakes_(M._C._Escher)</field>
+</doc>
+</add>

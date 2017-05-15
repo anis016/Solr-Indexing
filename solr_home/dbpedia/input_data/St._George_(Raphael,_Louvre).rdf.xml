@@ -1,0 +1,83 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._George_(Raphael,_Louvre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2529918</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._George_(Raphael,_Louvre)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Jorge_(Rafael)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/นักบุญจอร์จ_(ราฟาเอล)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Georges_et_le_Dragon_(Raphaël,_musée_du_Louvre)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Giorgio_e_il_drago_(Raffaello_Parigi)</field>
+<field name="sameAs">http://dbpedia.org/resource/St._George_(Raphael,_Louvre)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Müqəddəs_Georq_(Rafael,_Luvr)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026zf3n</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horses_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1504_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">St. George or St. George and the Dragon is a small painting by the Italian Renaissance artist Raphael. It is housed in the Louvre in Paris. A later version of the same subject is the St. George in the National Gallery of Art in Washington, D.C.</field>
+<field name="label">St. George (Raphael, Louvre)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/69/Raphael_-_Saint_George_Fighting_the_Dragon.jpg</field>
+<field name="comment">St. George or St. George and the Dragon is a small painting by the Italian Renaissance artist Raphael. It is housed in the Louvre in Paris. A later version of the same subject is the St. George in the National Gallery of Art in Washington, D.C.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Raphael_-_Saint_George_Fighting_the_Dragon.jpg/200px-Raphael_-_Saint_George_Fighting_the_Dragon.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">31</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">St. George and the Dragon</field>
+<field name="width">27</field>
+<field name="year">c. 1504</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._George_(Raphael,_Louvre)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._George_(Raphael,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Jorge_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._George_(Raphael,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Georges_et_le_Dragon_(Raphaël,_musée_du_Louvre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._George_(Raphael,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Giorgio_e_il_drago_(Raffaello_Parigi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._George_(Raphael,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._George_(Raphael,_Louvre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._George_(Raphael,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._George_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2529918</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._George_(Raphael,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Müqəddəs_Georq_(Rafael,_Luvr)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._George_(Raphael,_Louvre)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/นักบุญจอร์จ_(ราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._George_(Raphael,_Louvre)</field>
+</doc>
+</add>

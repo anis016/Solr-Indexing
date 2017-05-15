@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Endless_Night_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Endless_Night_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Endless_Night_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5376182</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h65c4m</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lebanese_Civil_War</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1983_paintings</field>
+<field name="abstract">Endless Night is the title of a painting executed in 1983 by Nabil Kanso in oil paint on canvas measuring 2.25 X 3 meters (7.5 X 10 feet). It is part of a group of interrelated paintings made by Kanso in response to the Lebanese Civil War. The painting depicts the ravages war in a scene that “embodies recurrent themes of carnage, suffering and the disintegration of humanity. " The composition seems to divide the canvas in two zones that contrast one mass of helpless and tormented figures on the left and one group of complacent looking and rigidly poised figures on the upper right. The focal point appears to fall between the two contrasting sections toward the central horizontal line in the middle distance creating a variation of focus that moves from one side to another and spread the attention over the various areas. The swirls of somber tone emanating from the blaze of torched places in the background seem to reinforce the tense mood and sharpen the interplay of dark and light. Critical opinion notes “A dark palette tending to brown is set afire by strongly contrasting hues. A lurid orange illuminates the Endless Night, in which figures with masklike faces standing on a parapet stonily witness the suffering of people and animals below. ”</field>
+<field name="label">Endless Night (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/09/Endless_Night_K83.jpg</field>
+<field name="comment">Endless Night is the title of a painting executed in 1983 by Nabil Kanso in oil paint on canvas measuring 2.25 X 3 meters (7.5 X 10 feet). It is part of a group of interrelated paintings made by Kanso in response to the Lebanese Civil War. The painting depicts the ravages war in a scene that “embodies recurrent themes of carnage, suffering and the disintegration of humanity.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Endless_Night_K83.jpg/200px-Endless_Night_K83.jpg</field>
+<field name="link_external">http://nabilkanso.com/INSIDE_OUT.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Endless_Night_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Endless_Night_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Endless_Night_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Endless_Night_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5376182</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Endless_Night_(painting)</field>
+</doc>
+</add>

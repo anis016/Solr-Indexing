@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Vision_of_the_Last_Judgment</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Vision_of_the_Last_Judgment</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Vision_of_the_Last_Judgment</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06zrcs1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4660501</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Una_visión_del_Juicio_Final</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1808_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1810_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_by_William_Blake</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lost_paintings</field>
+<field name="abstract">A Vision of the Last Judgment is a painting by William Blake that was designed in 1808 before becoming a lost artwork. The painting was to be shown in an 1810 exhibition with a detailed analysis added to a second edition of his Descriptive Catalogue. This plan was dropped after the exhibition was cancelled, and the painting disappeared. Blake's notes for the Descriptive Catalogue describe various aspects of the work in a detailed manner, which allow the aspects of the painting to be known. Additionally, earlier designs that reveal similar Blake depiction of the Last Judgment have survived, and these date back to an 1805 precursor design created for Robert Blair's The Grave. In addition to Blake's notes on the painting, a letter written to Ozias Humphrey provides a description of the various images within an earlier design of the Last Judgment.</field>
+<field name="label">A Vision of the Last Judgment</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/53/The_Vision_of_the_Last_Judgment.png</field>
+<field name="comment">A Vision of the Last Judgment is a painting by William Blake that was designed in 1808 before becoming a lost artwork. The painting was to be shown in an 1810 exhibition with a detailed analysis added to a second edition of his Descriptive Catalogue. This plan was dropped after the exhibition was cancelled, and the painting disappeared. Blake's notes for the Descriptive Catalogue describe various aspects of the work in a detailed manner, which allow the aspects of the painting to be known.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Vision_of_the_Last_Judgment.png/200px-The_Vision_of_the_Last_Judgment.png</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Vision_of_the_Last_Judgment</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Vision_of_the_Last_Judgment</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Una_visión_del_Juicio_Final</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Vision_of_the_Last_Judgment</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Vision_of_the_Last_Judgement</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Last_Judgment_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Vision_of_the_Last_Judgment</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Vision_of_the_Last_Judgment</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4660501</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Vision_of_the_Last_Judgment</field>
+</doc>
+</add>

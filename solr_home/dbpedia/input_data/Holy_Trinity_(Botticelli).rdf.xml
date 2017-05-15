@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Holy_Trinity_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Santíssima_Trinitat_(Botticelli)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Pala_delle_Convertite</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_delle_Convertite</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2416277</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Santísima_Trinidad_(Botticelli)</field>
+<field name="sameAs">http://dbpedia.org/resource/Holy_Trinity_(Botticelli)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08ndyd</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Holy_Trinity_(Botticelli)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Sandro_Botticelli</field>
+<field name="abstract">The Holy Trinity or Pala delle Convertite is an altarpiece by the Italian Renaissance painter Sandro Botticelli, dating to c. 1491-1493. It is housed in Courtauld Institute Galleries of London. It was originally commissioned by the Arte dei Medici e degli Speziali (guild of the Doctors and Pharmacists) for the church of Santa Elisabetta delle Convertite in Florence, a church/monastery housing former prostitutes or fallen women, who had converted from the licentious life to one of honesty, and whose patron saint was Mary Magdalene The picture shows the Trinity (Jesus Crucified, God and the Holy Spirit's Dove) within an almond with seraphims. In the background is a blue sky within two rocky spurs, in front of which are Mary Magdalene, taken in an intense praying posture, and St. John the Baptist, patron saint of Florence, who, as usual in the pictures of the period, is pointing to the center of the composition. The figure of Magdalene resembles the contemporary "Magdalene Penitent" by Donatello (1453–1455) and that by Desiderio da Settignano (c. 1455) in the church of Santa Trinita. In the lower part, in a smaller scale, are the Archangel Raphael with Tobias, who is holding the fish that, in the Biblical tale, he had been ordered by angel to capture in order to save his father. Raphael was the patron saint of the Arte dei Medici e degli Speziali.</field>
+<field name="label">Holy Trinity (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/Botticelli_Trinity.jpg</field>
+<field name="comment">The Holy Trinity or Pala delle Convertite is an altarpiece by the Italian Renaissance painter Sandro Botticelli, dating to c. 1491-1493. It is housed in Courtauld Institute Galleries of London.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Botticelli_Trinity.jpg/200px-Botticelli_Trinity.jpg</field>
+<field name="link_external">http://www.wga.hu/framex-e.html?file=html/b/botticel/91late/030trini.html&amp;find=london</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">215</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Holy Trinity</field>
+<field name="type">Tempera on panel</field>
+<field name="width">192</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Holy_Trinity_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Holy_Trinity_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Pala_delle_Convertite</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Holy_Trinity_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Santísima_Trinidad_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Holy_Trinity_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_delle_Convertite</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Holy_Trinity_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pala_delle_Convertite</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Holy_Trinity_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Holy_Trinity_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Santíssima_Trinitat_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Holy_Trinity_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2416277</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Holy_Trinity_(Botticelli)</field>
+</doc>
+</add>

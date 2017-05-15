@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision</field>
+<field name="sameAs">http://dbpedia.org/resource/Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02pk0s0</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7528381</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Stuckism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:2000_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Sir Nicholas Serota Makes an Acquisitions Decision is one of the best known paintings to come out of the Stuckism art movement, and a likely "signature piece" for the movement, standing for its opposition to conceptual art. It was painted by the Stuckism co-founder Charles Thomson in 2000, and has been exhibited in a number of shows since, as well as being featured on placards during Stuckist demonstrations against the Turner Prize. It depicts Sir Nicholas Serota, Director of the Tate Gallery, and the usual chairman of the Turner Prize jury. "Emin" satirises Young British Artist Tracey Emin's installation My Bed, consisting of her bed and objects, including knickers, which she exhibited in 1999 as a Turner Prize nominee.</field>
+<field name="label">Sir Nicholas Serota Makes an Acquisitions Decision</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8d/Charles_Thomson._Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision.jpg</field>
+<field name="comment">Sir Nicholas Serota Makes an Acquisitions Decision is one of the best known paintings to come out of the Stuckism art movement, and a likely "signature piece" for the movement, standing for its opposition to conceptual art. It was painted by the Stuckism co-founder Charles Thomson in 2000, and has been exhibited in a number of shows since, as well as being featured on placards during Stuckist demonstrations against the Turner Prize.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Charles_Thomson._Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision.jpg/200px-Charles_Thomson._Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision.jpg</field>
+<field name="link_external">http://www.stuckism.com/Tate/Tate06.html</field>
+<field name="artist">http://dbpedia.org/resource/Charles_Thomson_(artist)</field>
+<field name="height">101.6</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="title">an Acquisitions Decision</field>
+<field name="title">Sir Nicholas Serota Makes</field>
+<field name="type">Oil and acrylic on canvas</field>
+<field name="width">76.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Charles_Thomson_(artist)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7528381</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sir_Nicholas_Serota_Makes_an_Acquisitions_Decision</field>
+</doc>
+</add>

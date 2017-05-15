@@ -1,0 +1,31 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paintings_of_Amsterdam_by_Vincent_van_Gogh</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Paintings_of_Amsterdam_by_Vincent_van_Gogh</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtxwsf</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7125091</field>
+<field name="sameAs">http://dbpedia.org/resource/Paintings_of_Amsterdam_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="abstract">Paintings of Amsterdam by Vincent van Gogh were made by Vincent van Gogh during a visit in October 1885. Van Gogh traveled to Amsterdam in early October, 1885 where he spent much of his three days there at the museum exploring the work of Frans Hals, Rembrandt and other great artists. While there he completed two paintings of which he wrote, "The small panels I painted in Amsterdam were done in a great hurry. One even in the waiting room of the station, when I was too early for the train, the other in the morning, before I went to the museum at 10 o'clock. Yet I am sending them to you, look upon them as 'Dutch tiles,' on which something is dashed off in a few strokes. " While in Amsterdam his travel companion shopped at Van Gogh's Uncle Cor's business, but he did not enter the store, likely due to strained relations after Van Gogh's experiences in The Hague. Van Gogh's art dealer uncle, Cornelis Marinus, commissioned 20 ink drawings of the city, which the artist completed by the end of May but were not acceptable to his uncle. To further complicate matters, Van Gogh had a falling out with cousin-in-law, Anton Mauve, who had funded a studio for Van Gogh and provided training and guidance in developing his artistic skills. Mauve and his family did not approve of his domestic relationship with prostitute Sien Hoornik. 		 			Van Gogh - Blick auf Amsterdam vom Hauptbahnhof. jpeg 			 View of Amsterdam from Central Station, October 1885, P. and N. de Boer Foundation, Amsterdam (F113) 			 		 		 			Van Gogh - Kai in Antwerpen mit Schiffen. jpeg 			 The De Ruijterkade in Amsterdam, 1885, Van Gogh Museum, Amsterdam (F211)</field>
+<field name="label">Paintings of Amsterdam by Vincent van Gogh</field>
+<field name="comment">Paintings of Amsterdam by Vincent van Gogh were made by Vincent van Gogh during a visit in October 1885. Van Gogh traveled to Amsterdam in early October, 1885 where he spent much of his three days there at the museum exploring the work of Frans Hals, Rembrandt and other great artists. While there he completed two paintings of which he wrote, "The small panels I painted in Amsterdam were done in a great hurry.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Paintings_of_Amsterdam_by_Vincent_van_Gogh</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Paintings_of_Amsterdam_by_Vincent_van_Gogh</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Paintings_of_Amsterdam_by_Vincent_van_Gogh</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Paintings_of_Amsterdam_by_Vincent_van_Gogh</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7125091</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paintings_of_Amsterdam_by_Vincent_van_Gogh</field>
+</doc>
+</add>

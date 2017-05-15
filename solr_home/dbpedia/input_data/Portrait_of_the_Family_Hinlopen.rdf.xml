@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Family_Hinlopen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Portret_van_de_familie_Hinlopen</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05p50vp</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Family_Hinlopen</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_the_Family_Hinlopen</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2151645</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_paintings</field>
+<field name="abstract">There is some confusion among art historians about the history of the Portrait of the Family Hinlopen painting by Metsu. The painting is in the Berlin Gemäldegalerie. It is not clear if this painting is a genre work or a portrait. Who are the sitters? Is the man dressed in black Jan J. Hinlopen or is it Gillis Valckenier? In his diary Jan J. Hinlopen made distinct notes about his marriage and family births, dates of baptisms in the Westerkerk, and funerals. Hinlopen and Leonore Huydecoper, the sister of Joan Huydecoper, had four children by 1663: Jacob (October 20, 1658 – Lage Vuursche, July 12, 1664), Johanna Maria (April 16, 1659 – June 15, 1706), Sara (June 12, 1660 – June 16, 1749), and Geertrui (January 1, 1662 – August 14, 1663). In the second half of 1663 two members of the family died. Jan J. Hinlopen lost his youngest daughter, Geertrui, who died of measles on August 14. On October 28 his wife had a miscarriage. The next day, around ten in the evening, his servant, accompanied by two other men, most probably the undertakers, buried a small coffin in the church. On November 1, his wife Leonora died at 5.30 in the morning, after having been ill for seven days. His only son Jacob died at Pijnenburg, Jan's and Leonora's country estate. Jacob was kept isolated and it is likely he died of the plague.</field>
+<field name="label">Portrait of the Family Hinlopen</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/76/Gabriel-Metsu-Familie-Hinlopen-Gemaeldegalerie_Berlin.jpg</field>
+<field name="comment">There is some confusion among art historians about the history of the Portrait of the Family Hinlopen painting by Metsu. The painting is in the Berlin Gemäldegalerie. It is not clear if this painting is a genre work or a portrait. Who are the sitters? Is the man dressed in black Jan J. Hinlopen or is it Gillis Valckenier? In his diary Jan J. Hinlopen made distinct notes about his marriage and family births, dates of baptisms in the Westerkerk, and funerals.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Gabriel-Metsu-Familie-Hinlopen-Gemaeldegalerie_Berlin.jpg/200px-Gabriel-Metsu-Familie-Hinlopen-Gemaeldegalerie_Berlin.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_the_Family_Hinlopen</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_the_Family_Hinlopen</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_family_Hinlopen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_the_Family_Hinlopen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_the_Family_Hinlopen</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Portret_van_de_familie_Hinlopen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Family_Hinlopen</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2151645</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Family_Hinlopen</field>
+</doc>
+</add>

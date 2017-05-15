@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Woman_Walking_in_a_Garden</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Woman_Walking_in_a_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Woman_Walking_in_a_Garden</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Woman_Walking_in_a_Garden</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Woman_Walking_in_a_Garden</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czd4f2</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4660742</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Paris</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">A Woman Walking in a Garden was painted by Vincent Van Gogh in 1887. As the title indicates, it depicts a woman walking through a garden. Greenery is everywhere and numerous trees can be seen in the background. In 1886 van Gogh left Holland for Paris never to return. His brother Theo, a successful Parisian art dealer, provided van Gogh the support and connections for an immersion in modern art. In the two years, from 1886 through 1888, van Gogh emerged as a sophisticated, thoughtful and provoking artist. During 1886 van Gogh was introduced to Impressionist artists and their works, such as Edgar Degas, Claude Monet, Auguste Renoir, Georges Seurat and Paul Signac. In 1887 van Gogh continued to make important connections with other artists who he befriended and exchanged paintings with, such as Louis Anquetin, Émile Bernard, Armand Guillaumin, Lucien Pissarro and Paul Signac. Having been introduced to Impressionism and Pointillism in Paris, van Gogh began experimenting with related techniques. Van Gogh also utilized complementary colors to allow the formation of vibrant contrasts which enhance each other when juxtaposed.</field>
+<field name="label">A Woman Walking in a Garden</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6a/Vangogh_femme-dans-un-jardin.jpg</field>
+<field name="comment">A Woman Walking in a Garden was painted by Vincent Van Gogh in 1887. As the title indicates, it depicts a woman walking through a garden. Greenery is everywhere and numerous trees can be seen in the background. In 1886 van Gogh left Holland for Paris never to return. His brother Theo, a successful Parisian art dealer, provided van Gogh the support and connections for an immersion in modern art.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Vangogh_femme-dans-un-jardin.jpg/200px-Vangogh_femme-dans-un-jardin.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">A Woman Walking in a Garden</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Woman_Walking_in_a_Garden</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Woman_Walking_in_a_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_woman_walking_in_a_garden</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4660742</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Woman_Walking_in_a_Garden</field>
+</doc>
+</add>

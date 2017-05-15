@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Salita_al_Calvario_(Bosch_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Несение_креста_(картина_Босха,_Мадрид)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0261fgh</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Çarmıh_Taşıyan_İsa_(Madrid_Versiyonu)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Salita_al_Calvario_(Bosch_Madrid)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Kruisdraging_(Jheronimus_Bosch_en/of_atelier)</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2328603</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="abstract">Christ Carrying the Cross is a painting by Hieronymus Bosch. The date of this painting is unknown. It currently resides at Palacio Real in Madrid.</field>
+<field name="label">Christ Carrying the Cross (Bosch, Madrid)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bd/Hieronymus_Bosch_-_Christ_Carrying_the_Cross_-_WGA02556.jpg</field>
+<field name="comment">Christ Carrying the Cross is a painting by Hieronymus Bosch. The date of this painting is unknown. It currently resides at Palacio Real in Madrid.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Hieronymus_Bosch_-_Christ_Carrying_the_Cross_-_WGA02556.jpg/200px-Hieronymus_Bosch_-_Christ_Carrying_the_Cross_-_WGA02556.jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/b/bosch/5panels/14carryi.html</field>
+<field name="artist"/>
+<field name="height">150</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Christ Carrying the Cross</field>
+<field name="type">Oil on panel</field>
+<field name="width">94</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Несение_креста_(картина_Босха,_Мадрид)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Madrid_version)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Kruisdraging_(Jheronimus_Bosch_en/of_atelier)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2328603</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Çarmıh_Taşıyan_İsa_(Madrid_Versiyonu)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Carrying_the_Cross_(Bosch,_Madrid)</field>
+</doc>
+</add>

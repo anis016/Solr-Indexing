@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_Cook</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_Cook</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03ftbq</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5247413</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Death_of_Cook</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1784_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:James_Cook</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Hawaii_art</field>
+<field name="abstract">Death of Cook is the name of several paintings depicting the 1779 death of British explorer and European discoverer of the Hawaiian Islands, Captain James Cook at Kealakekua Bay. Most of these paintings seem to go back to an original by John Cleveley the Younger, painted in 1784, although other versions, like that of John Webber, stood model for later copies too. Such artworks were reproduced in paint and engraving over the course of modern world history. The much more famous reproductions, like the one at the Honolulu Museum of Art (allegedly based on the Cleveley version), often depicted Cook as a peacemaker trying to stop the fighting between his sailors and the native Hawaiians that they had challenged in combat. However, in 2004, the original Cleverley painting was discovered in a private collection belonging to a family since 1851. Cleveley's brother was a member of Cook's crew, and the painting is said to concur with eyewitness accounts. The original depicted Cook involved in hand-to-hand combat with the native Hawaiians. The discovery of the original painting has not changed the way most historians view Cook's relationship with the Hawaiians, as during his last voyage, Cook was reported by his contemporaries to have become irrationally violent. The original painting, worth approximately USD $200,000 to $300,000, was put up for auction by Christie's auction house in London, England.</field>
+<field name="label">Death of Cook</field>
+<field name="comment">Death of Cook is the name of several paintings depicting the 1779 death of British explorer and European discoverer of the Hawaiian Islands, Captain James Cook at Kealakekua Bay. Most of these paintings seem to go back to an original by John Cleveley the Younger, painted in 1784, although other versions, like that of John Webber, stood model for later copies too. Such artworks were reproduced in paint and engraving over the course of modern world history.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Death_of_Cook</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Death_of_Cook</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Death_of_Cook</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Death_of_Cook</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_cook</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5247413</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_Cook</field>
+</doc>
+</add>

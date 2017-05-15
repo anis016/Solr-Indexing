@@ -1,0 +1,90 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Marcos_liberando_al_esclavo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Miracle_of_the_Slave_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Miracle_of_the_Slave</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Miracle_of_St._Mark_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Miracle_of_St_Mark_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Miracle_of_the_Slave_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Miracle_of_the_Slave_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Miracolo_di_san_Marco</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Miracle_de_l'esclave</field>
+<field name="sameAs">http://dbpedia.org/resource/Miracle_of_the_Slave_(Tintoretto)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Miracle_of_the_Slave_(Tintoretto)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Marcos_liberando_al_esclavo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2273890</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zp3t3</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Cud_świętego_Marka</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1548_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gallerie_dell'Accademia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tintoretto</field>
+<field name="abstract">The Miracle of the Slave (also known as The Miracle of St. Mark, 1548) is a painting by the Italian Renaissance artist Jacopo Tintoretto. Currently housed in the Gallerie dell'Accademia in Venice, northern Italy, it was originally commissioned for the Scuola Grande di San Marco, a confraternity in the city. It portrays an episode of the life of St. Mark, patron saint of Venice, taken from Jacopo da Varazze's Golden Legend. The scene shows, in the upper part, the saint intervening to make invulnerable a slave about to be martyred for his veneration of another saint's relics. All the figures are inscribed into an architectonic scenario. Different influences on Tintoretto's art can be seen in the picture: while the anatomies are Michelangelo-like, the vivid and intense colors are typical of the Venetian School.</field>
+<field name="label">Miracle of the Slave (Tintoretto)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/78/Jacopo_Tintoretto_017.jpg</field>
+<field name="comment">The Miracle of the Slave (also known as The Miracle of St. Mark, 1548) is a painting by the Italian Renaissance artist Jacopo Tintoretto. Currently housed in the Gallerie dell'Accademia in Venice, northern Italy, it was originally commissioned for the Scuola Grande di San Marco, a confraternity in the city. It portrays an episode of the life of St. Mark, patron saint of Venice, taken from Jacopo da Varazze's Golden Legend.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Jacopo_Tintoretto_017.jpg/200px-Jacopo_Tintoretto_017.jpg</field>
+<field name="link_external">http://www.artive.arti.beniculturali.it/Accademia/Frame%20accademia.htm</field>
+<field name="artist">http://dbpedia.org/resource/Tintoretto</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="height">416</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Accademia</field>
+<field name="title">Miracle of the Slave</field>
+<field name="width">544</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Miracle_of_the_Slave_(Tintoretto)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Miracle_of_the_Slave_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Cud_świętego_Marka</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Miracle_of_the_Slave_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Miracle_de_l'esclave</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Miracle_of_the_Slave_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Miracolo_di_san_Marco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Miracle_of_the_Slave_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Miracle_of_the_Slave_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Miracle_of_the_Slave_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2273890</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Miracle_of_the_Slave_(Tintoretto)</field>
+</doc>
+</add>

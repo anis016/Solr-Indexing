@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jessica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jessica_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6187064</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Jessica_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Jessica_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czc40r</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Fine_Arts,_Boston</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="abstract">Jessica is an 1890 painting by Dennis Miller Bunker in the Museum of Fine Arts, Boston. It is considered one of Bunker's finest figure paintings, and has been described by art historian Theodore Stebbins as "among the most evocative" works of its time. In October 1889 Bunker took a studio and living quarters at 3 North Washington Square in New York City, alongside friends and fellow artists Abbott Handerson Thayer, Thomas Dewing, and Charles A. Platt. Newly married and seeking to establish a reputation as a portrait artist in order to support himself and his bride, Bunker painted Jessica in the spring of 1890 using a hired professional model. Jessica depicts an elegant and aristocratic looking woman in a black dress. She is painted bust length, life size and in profile, her fair skin and red hair set against a dark background. The painting evidences the influence of the circle of Bunker's intimates, including Thayer and Dewing, for its heightened sense of refinement. At the time of the painting Bunker wrote: "I've been doing badly all day long— and I thought I was doing uncommonly well— but about four o' clock I scraped everything I had done for the last two days and my canvas is back again where I started it— and I am as blue as indigo. " Bunker died just after Christmas 1890 at the age of 29; in 1891 the painting was given to the Museum of Fine Arts, Boston, by a group of his admirers. Artist and writer R. H. Ives Gammell wrote of the painting: "One of the most beautifully studied heads in American art. The transitions of tone and the minor shifts are stated with great subtlety without losing the larger color relations. At the same time the edges and accents throughout the canvas are given exactly the relative degree of definition perceptible to eyes focused so as to take in the entire area depicted. In the painting itself the young woman appears to exist in space, surrounded by atmosphere and light and shadow. Yet the draftsmanship is so sure that we never lose our sense of the form in all its inherent loveliness. The combination of qualities has only rarely been attained in the painting of a head."</field>
+<field name="label">Jessica (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1e/Dennis_Miller_Bunker_-_Jessica_1890.jpg</field>
+<field name="comment">Jessica is an 1890 painting by Dennis Miller Bunker in the Museum of Fine Arts, Boston. It is considered one of Bunker's finest figure paintings, and has been described by art historian Theodore Stebbins as "among the most evocative" works of its time. In October 1889 Bunker took a studio and living quarters at 3 North Washington Square in New York City, alongside friends and fellow artists Abbott Handerson Thayer, Thomas Dewing, and Charles A. Platt.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Dennis_Miller_Bunker_-_Jessica_1890.jpg/200px-Dennis_Miller_Bunker_-_Jessica_1890.jpg</field>
+<field name="link_external">http://www.mfa.org/collections/search_art.asp?recview=true&amp;id=31024&amp;coll_keywords=&amp;coll_accession=&amp;coll_name=&amp;coll_artist=&amp;coll_place=&amp;coll_medium=&amp;coll_culture=&amp;coll_classification=&amp;coll_credit=&amp;coll_provenance=&amp;coll_location=&amp;coll_has_images=&amp;coll_on_view=&amp;coll_sort=0&amp;coll_sort_order=0&amp;coll_view=0&amp;coll_package=2670&amp;coll_start=31</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Jessica_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jessica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Jessica_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Jessica_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6187064</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jessica_(painting)</field>
+</doc>
+</add>

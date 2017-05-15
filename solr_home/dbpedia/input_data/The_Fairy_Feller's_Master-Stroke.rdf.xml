@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Fairy_Feller's_Master-Stroke</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/The_Fairy_Feller’s_Master-Stroke</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мастерский_замах_сказочного_дровосека</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_fairy_feller's_masterstroke</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q931407</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05bfjl</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/The_Fairy_Feller’s_Master-Stroke_(festmény)</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мастерский_замах_сказочного_дровосека</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+<field name="sameAs">http://de.dbpedia.org/resource/The_Fairy_Feller’s_Master-Stroke</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Fati_lignicidae_ictus_magistralis</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1864_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="abstract">The Fairy Feller's Master-Stroke is a Richard Dadd painting. It was commissioned by George Henry Haydon, who was head steward at Bethlem Royal Hospital at the time. He was impressed by Dadd's artistic efforts and asked for a fairy painting of his own. Dadd worked on the painting for nine years, paying microscopic attention to detail and using a layering technique to produce 3D-like results. Although it is generally regarded as his most important work, Dadd himself considered the painting to be unfinished (the background of the lower left corner is only sketched in), and as such added the suffix of "Quasi" to its title. In order to give context to his work, Dadd subsequently wrote a long poem by the name of Elimination of a Picture &amp; its Subject—called The Fellers' Master Stroke in which each of the characters appearing in the picture is given a name and purpose—including myriad references to old English folklore and Shakespeare—in an apparent attempt to show that the painting's unique composition was not merely a product of random, wild inspiration. The painting is in the Tate Britain collection. It was presented to the Tate by the war poet Siegfried Sassoon in memory of his friend and fellow officer Julian Dadd, a great-nephew of the artist, and of his two brothers who gave their lives in the First World War.</field>
+<field name="label">The Fairy Feller's Master-Stroke</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/95/Image-Dadd_-_Fairy_Feller's.jpg</field>
+<field name="comment">The Fairy Feller's Master-Stroke is a Richard Dadd painting. It was commissioned by George Henry Haydon, who was head steward at Bethlem Royal Hospital at the time. He was impressed by Dadd's artistic efforts and asked for a fairy painting of his own. Dadd worked on the painting for nine years, paying microscopic attention to detail and using a layering technique to produce 3D-like results.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Image-Dadd_-_Fairy_Feller's.jpg/200px-Image-Dadd_-_Fairy_Feller's.jpg</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&amp;workid=2979&amp;searchid=7731&amp;tabview=work</field>
+<field name="link_external">http://www.googleartproject.com/museums/tate/the-fairy-fellers-master-stroke-230</field>
+<field name="link_external">http://www.popsubculture.com/pop/bio_project/richard_dadd.html</field>
+<field name="link_external">http://www.tate.org.uk/tateetc/issue1/article6.htm</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ArtistWorks?cgroupid=999999961&amp;artistid=130&amp;tabview=bio</field>
+<field name="link_external">http://www.english.emory.edu/classes/Shakespeare_Illustrated/Dadd.Feller.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Fairy_Feller's_Master-Stroke</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Fairy_Feller's_Master-Stroke</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q931407</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/The_Fairy_Feller’s_Master-Stroke_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Fati_lignicidae_ictus_magistralis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fairy_Feller's_Master-Stroke</field>
+</doc>
+</add>

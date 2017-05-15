@@ -1,0 +1,27 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Printemps_(The_Return_of_Spring)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Printemps_(The_Return_of_Spring)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Le_Printemps_(The_Return_of_Spring)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William-Adolphe_Bouguereau</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1886_paintings</field>
+<field name="abstract">Le Printemps (The Return of Spring) is a title of many paintings. Le Printemps, created by artist William-Adolphe Bouguereau in 1886, is among the more well-known of his works. It is currently in the collection of the Joslyn Art Museum in Omaha, Nebraska, and was acquired in 1951 as the gift of Francis T. B. Martin. The painting was brought to Omaha shortly after it was completed by George W. Lininger. Lininger was an art collector and private gallery owner who routinely opened his gallery to the public for no charge. The painting was in the possession of the Lininger family until it was sold in the late 1920's. The painting was physically attacked twice - in 1890 and in 1976. Both times, damages were minimal. The attackers were offended by the painting's overtly sensual nudity. A replica of the painting appeared in the ballroom scene at the Beaufort home in the 1993 film, The Age of Innocence.</field>
+<field name="label">Le Printemps (The Return of Spring)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/56/William-Adolphe_Bouguereau_(1825-1905)_-_Return_of_Spring_(1886).jpg</field>
+<field name="comment">Le Printemps (The Return of Spring) is a title of many paintings. Le Printemps, created by artist William-Adolphe Bouguereau in 1886, is among the more well-known of his works. It is currently in the collection of the Joslyn Art Museum in Omaha, Nebraska, and was acquired in 1951 as the gift of Francis T. B. Martin. The painting was brought to Omaha shortly after it was completed by George W. Lininger.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/William-Adolphe_Bouguereau_(1825-1905)_-_Return_of_Spring_(1886).jpg/200px-William-Adolphe_Bouguereau_(1825-1905)_-_Return_of_Spring_(1886).jpg</field>
+<field name="link_external">http://durhammuseum.contentdm.oclc.org/cdm/singleitem/collection/p15426coll1/id/2129/rec/2</field>
+<field name="link_external">http://www.joslyn.org/collections-and-exhibitions/permanent-collections/european/william-a-bouguereau-return-of-spring-le-printemps/</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/bouguereau/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Le_Printemps_(The_Return_of_Spring)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Le_Printemps_(The_Return_of_Spring)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Le_Printemps_(The_Return_of_Spring)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Le_Printemps_(The_Return_of_Spring)</field>
+</doc>
+</add>

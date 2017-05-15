@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Blood_Compact</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7718659</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Blood_Compact</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blood_Compact</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05t077x</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1886_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Juan_Luna</field>
+<field name="abstract">The Blood Compact is an award-winning 1886 “historic and historical' painting by Filipino painter Juan Luna.</field>
+<field name="label">The Blood Compact</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bd/The_Blood_Compact_by_Juan_Luna.jpg</field>
+<field name="comment">The Blood Compact is an award-winning 1886 “historic and historical' painting by Filipino painter Juan Luna.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/The_Blood_Compact_by_Juan_Luna.jpg/200px-The_Blood_Compact_by_Juan_Luna.jpg</field>
+<field name="artist"/>
+<field name="museum">http://dbpedia.org/resource/Malaca%C3%B1ang_Palace</field>
+<field name="title">The Blood Compact</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Blood_Compact</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Blood_Compact</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Blood_compact_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Blood_Compact</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Blood_Compact</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Pacto_De_Sangre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Pacto_de_Sangre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pacto_de_sangre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7718659</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blood_Compact</field>
+</doc>
+</add>

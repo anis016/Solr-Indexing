@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Recanati_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gwzfcs</field>
+<field name="sameAs">http://dbpedia.org/resource/Recanati_Polyptych</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3907513</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Polittico_di_Recanati</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Recanati_Polyptych</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1508_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lorenzo_Lotto</field>
+<field name="abstract">The Recanati Polyptych is a painting by the Italian Renaissance painter Lorenzo Lotto, executed in 1506-1508 and housed in the Civic Museum of Villa Colloredo Mels, Recanati, Italy. The work is dated and signed Laurent[ius ius] Lotus MDVIII. Lotto began to work on the piece in 1506 as a devotional for the church of San Domenico in Recanati. By 1861 it was disassembled, but was later recomposed and transferred to the Communal Art Gallery.</field>
+<field name="label">Recanati Polyptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0b/Lotto,_polittico_di_recanati.jpg</field>
+<field name="comment">The Recanati Polyptych is a painting by the Italian Renaissance painter Lorenzo Lotto, executed in 1506-1508 and housed in the Civic Museum of Villa Colloredo Mels, Recanati, Italy. The work is dated and signed Laurent[ius ius] Lotus MDVIII. Lotto began to work on the piece in 1506 as a devotional for the church of San Domenico in Recanati. By 1861 it was disassembled, but was later recomposed and transferred to the Communal Art Gallery.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Lotto,_polittico_di_recanati.jpg/200px-Lotto,_polittico_di_recanati.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">307</field>
+<field name="image"/>
+<field name="imageSize">360</field>
+<field name="museum"/>
+<field name="title">Recanati Polyptych</field>
+<field name="type">Oil on panel</field>
+<field name="width">242</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Recanati_Polyptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Recanati_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Recanati_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Recanati_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Polittico_di_Recanati</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Recanati_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3907513</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Recanati_Polyptych</field>
+</doc>
+</add>

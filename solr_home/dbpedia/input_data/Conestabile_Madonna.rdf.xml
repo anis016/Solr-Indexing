@@ -1,0 +1,119 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_Connestabile</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Madona_Connestabile</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_Connestabile</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_Conestabile</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Conestabile_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Conestabile_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Konestabile_Madonna</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Conestabile_Madonna</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025z01x</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q919294</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_Конестабиле</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Madona_Conestabile</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Madona_Connestabile</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Мадонна_Конестабіле</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_Connestabile</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Conestabile_Madonna</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระแม่มารีคอนเนสตาบิเล</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_Conestabile</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_Connestabile</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nude_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Hermitage_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="abstract">The Conestabile Madonna is a small (and probably unfinished) painting by the Italian Renaissance artist Raphael. It was likely the last work painted by Raphael in Umbria before moving to Florence. Its name comes from the Conestabile family of Perugia, from whom it was acquired by Alexander II of Russia in 1871. The Tsar presented it to his consort, Maria Alexandrovna. Since then, the painting has been on exhibit in the Hermitage Museum of St. Petersburg. The painting portrays the Madonna holding the Child while reading a book. In 1881, when the picture was moved to canvas, it was discovered that in the original version the Madonna contemplated a pomegranate (symbol of the Passion) instead of the book.</field>
+<field name="label">Conestabile Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fe/Raffael_024.jpg</field>
+<field name="comment">The Conestabile Madonna is a small (and probably unfinished) painting by the Italian Renaissance artist Raphael. It was likely the last work painted by Raphael in Umbria before moving to Florence. Its name comes from the Conestabile family of Perugia, from whom it was acquired by Alexander II of Russia in 1871. The Tsar presented it to his consort, Maria Alexandrovna. Since then, the painting has been on exhibit in the Hermitage Museum of St. Petersburg.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Raffael_024.jpg/200px-Raffael_024.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Saint_Petersburg</field>
+<field name="height">17.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Hermitage_Museum</field>
+<field name="title">Conestabile Madonna</field>
+<field name="type">Tempera on canvas transferred from wood</field>
+<field name="width">18</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Conestabile_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_Конестабиле</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Connestabile_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q919294</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Konestabile_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Madona_Conestabile</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระแม่มารีคอนเนสตาบิเล</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Conestabile_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Мадонна_Конестабіле</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conestabile_Madonna</field>
+</doc>
+</add>

@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Rainbow_Swash</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Rainbow_Swash</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rainbow_Swash</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rainbow_Swash</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7284719</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04jlcj6</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Rainbow_Swash</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1971_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_of_Boston,_Massachusetts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landmarks_in_Boston,_Massachusetts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">The Rainbow Swash is a work by Corita Kent in the Dorchester neighborhood of Boston, Massachusetts. The rainbow design painted on a 140-foot tall LNG storage tank is the largest copyrighted work of art in the world. Highly visible from daily commuters drives on Interstate 93, the landmark is considered one of the major landmarks of Boston, akin to the Citgo sign.</field>
+<field name="label">Rainbow Swash</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7a/Boston_gas_tank.JPG</field>
+<field name="comment">The Rainbow Swash is a work by Corita Kent in the Dorchester neighborhood of Boston, Massachusetts. The rainbow design painted on a 140-foot tall LNG storage tank is the largest copyrighted work of art in the world. Highly visible from daily commuters drives on Interstate 93, the landmark is considered one of the major landmarks of Boston, akin to the Citgo sign.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Boston_gas_tank.JPG/200px-Boston_gas_tank.JPG</field>
+<field name="link_external">http://www.boston-online.com/bizarro/the_ho_chi_minh_memorial_gas_tank.html</field>
+<field name="link_external">http://clara.nmwa.org/index.php?g=entity_detail&amp;entity_id=4251</field>
+<field name="link_external">http://news.bostonherald.com/business/general/view.bg?articleid=1031974</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Rainbow_Swash</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Rainbow_Swash</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dorchester_Gas_Tank</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7284719</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rainbow_Swash</field>
+</doc>
+</add>

@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Worship_of_Venus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Worship_of_Venus</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Festa_degli_amorini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Worship_of_Venus</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Feast_of_the_Cupids</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Worship_of_Venus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Ofrenda_a_Venus</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Worship_of_Venus</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmbcff</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Festa_degli_amorini</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Worship_of_Venus</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3743879</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1519_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_commissioned_for_the_camerini_d'alabastro</field>
+<field name="abstract">The Worship of Venus is an oil on canvas painting by the Italian artist Titian completed between 1518–1519, housed at the Museo del Prado in Madrid, Spain. It describes a Roman rite of worship conducted in honour of the goddess Venus each 1 April. On this occasion, women would make offerings to representations of the goddess so as to cleanse "every blemish on their bodies". In Titian's work, two nymphs, one young and one matronly, are situated to the right of the ceremony, attending to a shrine holding a representation of Venus. The shrine is surrounded by votive tablets. The older woman checks on the decorations with the use of a mirror which she holds high in her extended right hand. The foreground of the canvas is thronged with a swarm of male infants, or putti, who distract themselves in activities such as climbing trees, leaping, flying, gathering apples, lying around, fighting, fondling, shooting arrows and pulling each other's hair. A dam is shown in the middle background, near a sunlit meadow. The far distance is decorated with a mountain and blue sky. Titian based the image on the writings of the Greek sophist Philostratus. In his "Imagines I, VI", Philostratus wrote, "See cupids are gathering apples: and if there are many of them, do not be surprised... The cupids' quiver are studded with gold, and golden also are the darts in them... they have hung their quivers on the apple trees; and in the grass lie their broidered mantles... Ah, the baskets into which they gather their apples!"</field>
+<field name="label">The Worship of Venus</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1a/Ofrenda_a_Venus.jpg</field>
+<field name="comment">The Worship of Venus is an oil on canvas painting by the Italian artist Titian completed between 1518–1519, housed at the Museo del Prado in Madrid, Spain. It describes a Roman rite of worship conducted in honour of the goddess Venus each 1 April. On this occasion, women would make offerings to representations of the goddess so as to cleanse "every blemish on their bodies".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Ofrenda_a_Venus.jpg/200px-Ofrenda_a_Venus.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">The Worship of Venus</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Worship_of_Venus</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Worship_of_Venus</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Ofrenda_a_Venus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Worship_of_Venus</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3743879</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Worship_of_Venus</field>
+</doc>
+</add>

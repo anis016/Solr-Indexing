@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Westminster_Retable</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3428054</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05440gt</field>
+<field name="sameAs">http://dbpedia.org/resource/Westminster_Retable</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Westminster_Retable</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_de_Westminster</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gothic_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:13th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Westminster_Abbey</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Catholic_Church_paintings</field>
+<field name="abstract">The Westminster Retable, the oldest known panel painting altarpiece in England, is estimated to have been painted in the 1270s in the circle of Plantagenet court painters, for Westminster Abbey, very probably for the high altar. It is thought to have been donated by Henry III of England as part of his Gothic redesign of the Abbey. The painting survived only because it was incorporated into furniture between the 16th and 19th centuries, and much of it has been damaged beyond restoration. According to one specialist, the "Westminster Retable, for all its wounded condition, is the finest panel painting of its time in Western Europe. " In 1998 the Hamilton Kerr Institute in Cambridge, with support from the Getty Foundation and the Heritage Lottery Fund, began a six-year project to clean and conserve what remained of the work. Upon completion, it was displayed at the National Gallery, London for four months in 2005 before being returned to Westminster Abbey, where it is on display in the museum.</field>
+<field name="label">Westminster Retable</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/50/Westminster_400.jpg</field>
+<field name="comment">The Westminster Retable, the oldest known panel painting altarpiece in England, is estimated to have been painted in the 1270s in the circle of Plantagenet court painters, for Westminster Abbey, very probably for the high altar. It is thought to have been donated by Henry III of England as part of his Gothic redesign of the Abbey. The painting survived only because it was incorporated into furniture between the 16th and 19th centuries, and much of it has been damaged beyond restoration.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/Westminster_400.jpg/200px-Westminster_400.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Westminster_Retable</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Westminster_Retable</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Westminster_Retable</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Westminster_Retable</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_de_Westminster</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Westminster_Retable</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3428054</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Westminster_Retable</field>
+</doc>
+</add>

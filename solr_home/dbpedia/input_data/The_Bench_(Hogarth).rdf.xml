@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bench</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Bench_(Hogarth)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Bench_(Hogarth)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7716503</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bench_(Hogarth)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03gwd1c</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1758_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="abstract">The Bench is the title of both a 1758 oil-on-canvas painting by the English artist William Hogarth, and a print issued by him in the same year. Unlike many of Hogarth's engravings produced from painted originals, the print differs considerably from the painting. It was intended as a demonstration of the differences between character painting, caricature and outré—developing on the theme he had begun to address in Characters and Caricaturas (his subscription ticket for Marriage à-la-mode)—but Hogarth was unhappy with the result as it showed only "characters", and he continued to work on the piece until his death.</field>
+<field name="label">The Bench (Hogarth)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4d/William_Hogarth_004.jpg</field>
+<field name="comment">The Bench is the title of both a 1758 oil-on-canvas painting by the English artist William Hogarth, and a print issued by him in the same year. Unlike many of Hogarth's engravings produced from painted originals, the print differs considerably from the painting.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/William_Hogarth_004.jpg/200px-William_Hogarth_004.jpg</field>
+<field name="link_external">http://books.google.com/books?vid=OCLC08654397&amp;id=nwgIAAAAMAAJ&amp;printsec=titlepage</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="city">http://dbpedia.org/resource/Cambridge</field>
+<field name="height">14.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Fitzwilliam_Museum</field>
+<field name="title">The Bench</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">18</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Bench_(Hogarth)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Bench_(Hogarth)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Bench_(Hogarth)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Bench_(Hogarth)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7716503</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bench_(Hogarth)</field>
+</doc>
+</add>

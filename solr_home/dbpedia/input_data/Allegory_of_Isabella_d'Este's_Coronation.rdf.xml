@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Allegory_of_Isabella_d'Este's_Coronation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvvc3d</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Isabella_d'Este_nel_regno_di_Armonia</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Allegory_of_Isabella_d'Este's_Coronation</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3802301</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegory_of_Isabella_d'Este's_Coronation</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lorenzo_Costa_the_Elder</field>
+<field name="abstract">The Allegory of Isabella d'Este's Coronation is a painting by the Italian Renaissance painter Lorenzo Costa the Elder, dating to about 1505-1506. It is displayed in the Louvre Museum of Paris, France.</field>
+<field name="label">Allegory of Isabella d'Este's Coronation</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8d/Lorenzo_Costa_003.jpg</field>
+<field name="comment">The Allegory of Isabella d'Este's Coronation is a painting by the Italian Renaissance painter Lorenzo Costa the Elder, dating to about 1505-1506. It is displayed in the Louvre Museum of Paris, France.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/Lorenzo_Costa_003.jpg/200px-Lorenzo_Costa_003.jpg</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&amp;idNotice=14959</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">164.5</field>
+<field name="image"/>
+<field name="imageSize">420</field>
+<field name="museum"/>
+<field name="title">Allegory of Isabella d'Este's Coronation</field>
+<field name="type">Oil and tempera on canvas</field>
+<field name="width">197.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Allegory_of_Isabella_d'Este's_Coronation</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Allegory_of_Isabella_d'Este's_Coronation</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Allegory_of_Isabella_d'Este's_Coronation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Allegory_of_Isabella_d'Este's_Coronation</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Isabella_d'Este_nel_regno_di_Armonia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegory_of_Isabella_d'Este's_Coronation</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Allegory_of_the_Court_of_Isabella_d'Este</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Coronation_of_Isabella_d'Este</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3802301</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegory_of_Isabella_d'Este's_Coronation</field>
+</doc>
+</add>

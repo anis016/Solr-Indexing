@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Visitation_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h1sls</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Visitation_(Raphaël)</field>
+<field name="sameAs">http://dbpedia.org/resource/Visitation_(Raphael)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Visitation_(Raphael)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2467082</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Yoluxma_(Rafael)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/การเสด็จเยี่ยม_(ราฟาเอล)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Visitazione_(Raffaello)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="abstract">The Visitation is a c. 1517 painting of the Visitation of the Virgin Mary to Saint Elizabeth by Raphael, in the Prado Museum since 1837. Commissioned by the Apostolic Protonotary Giovanni Branconio at his father Marino's request for their family chapel in the church of San Silvestre in Aquila (Marino's wife was called Elisabeth), it was plundered by the occupation troops of Philip IV of Spain in 1655 and placed at El Escorial.</field>
+<field name="label">Visitation (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/65/Visitación_de_Rafael_.jpg</field>
+<field name="comment">The Visitation is a c. 1517 painting of the Visitation of the Virgin Mary to Saint Elizabeth by Raphael, in the Prado Museum since 1837. Commissioned by the Apostolic Protonotary Giovanni Branconio at his father Marino's request for their family chapel in the church of San Silvestre in Aquila (Marino's wife was called Elisabeth), it was plundered by the occupation troops of Philip IV of Spain in 1655 and placed at El Escorial.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Visitación_de_Rafael_.jpg/200px-Visitación_de_Rafael_.jpg</field>
+<field name="link_external">http://www.museodelprado.es/en/the-collection/online-gallery/on-line-gallery/obra/the-visitation-1/</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city"/>
+<field name="height">200</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">Visitation</field>
+<field name="width">145</field>
+<field name="year">c.1517</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Visitation_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Visitation_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Visitation_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Visitation_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Visitation_(Raphaël)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Visitation_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Visitazione_(Raffaello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Visitation_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2467082</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Visitation_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Yoluxma_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Visitation_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/การเสด็จเยี่ยม_(ราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Visitation_(Raphael)</field>
+</doc>
+</add>

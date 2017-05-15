@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Juges_intègres</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Just_Judges</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Los_Jueces_Justos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Just_Judges</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Just_Judges</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Els_Jutges_Justos</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Juges_intègres</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Los_Jueces_Justos</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_rechtvaardige_rechters_(paneel)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Just_Judges</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Just_Judges</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gz3jj</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2157202</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lost_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Stolen_works_of_art</field>
+<field name="abstract">The Just Judges or The Righteous Judges is the lower left panel of the Ghent Altarpiece, by Jan Van Eyck or his brother Hubert Van Eyck, (145 × 51 cm) oil on oak. As part of the Ghent altarpiece, it was displayed at the Saint Bavo Cathedral in Ghent, Belgium, until stolen during the night of 10 April 1934, possibly by the Belgian Arsène Goedertier (Lede, 23 December 1876 – Dendermonde, 25 November 1934). The panel was removed from the frame, apparently with care, leaving the other panels undamaged. In the empty space was left a note, written in French, with the words, "Taken from Germany by the Treaty of Versaile", a reference to the fact that the altarpiece had been returned to the Ghent only a decade earlier after having been moved to Berlin during World War I. On 30 April, the Bishop of Ghent received a ransom demand for one million Belgian francs, to which the Belgium minister refused to agree. A second letter was delivered in May and at the time the Belgium government took on the negotiations with the thief on the pretext that as national treasures, the diocese ownership was secondary to the nation. Correspondence continued through October between the thieve and the government, with the exchange of at least 11 letters. On 25 November 1934 the thief revealed on his deathbed that he was the only one who knew where the masterpiece was hidden, and that he would take the secret to his grave. Although several people have claimed to know its whereabouts, the painting has never been recovered and is now believed to be destroyed. The panel was replaced in 1945 by a copy by Belgian copyist Jef Vanderveken. It is believed the panel showed portraits of several contemporary figures such as Philip the Good, and the artists themselves with Hubert van Eyck and Jan van Eyck both possibly shown in the now lost panel. The panel is a prominent symbol in the novel The Fall (1956) by Albert Camus. Its protagonist, Jean-Baptiste Clamence, claims to have found the painting in a bar called "Mexico City", and his secret withholding of the painting empowers him, he feels, in his newfound role of "judge-penitent".</field>
+<field name="label">The Just Judges</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2d/Ghent_Altarpiece_E_-_Just_Judges_by_Vanderveken.jpg</field>
+<field name="comment">The Just Judges or The Righteous Judges is the lower left panel of the Ghent Altarpiece, by Jan Van Eyck or his brother Hubert Van Eyck, (145 × 51 cm) oil on oak. As part of the Ghent altarpiece, it was displayed at the Saint Bavo Cathedral in Ghent, Belgium, until stolen during the night of 10 April 1934, possibly by the Belgian Arsène Goedertier (Lede, 23 December 1876 – Dendermonde, 25 November 1934).</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Ghent_Altarpiece_E_-_Just_Judges_by_Vanderveken.jpg/200px-Ghent_Altarpiece_E_-_Just_Judges_by_Vanderveken.jpg</field>
+<field name="link_external">http://judges.mysticlamb.net/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Just_Judges</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Just_Judges</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Just_Judges</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Just_Judges</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Just_Judges</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ars%C3%A8ne_Goedertier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_rechtvaardige_rechters_(paneel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Just_Judges</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2157202</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Just_Judges</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Els_Jutges_Justos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Just_Judges</field>
+</doc>
+</add>

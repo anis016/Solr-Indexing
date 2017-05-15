@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Almond_Blossoms_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Almond_Blossoms_(Van_Gogh_series)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4733887</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Almond_Blossoms_(Van_Gogh_series)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glrqp1</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="abstract">Almond Blossoms is a group of several paintings made in 1888 and 1890 by Vincent van Gogh in Arles and Saint-Rémy, southern France of blossoming almond trees. Flowering trees were special to Van Gogh. They represented awakening and hope. He enjoyed them aesthetically and found joy in painting flowering trees. The works reflect Impressionist, Divisionist and Japanese woodcut influences. Almond Blossoms was made to celebrate the birth of his nephew and namesake, son of his brother Theo and sister-in-law Jo.</field>
+<field name="label">Almond Blossoms (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2a/Vincent_van_Gogh_-_Branches_of_an_Almond_Tree_in_Blossom_(F671).jpg</field>
+<field name="comment">Almond Blossoms is a group of several paintings made in 1888 and 1890 by Vincent van Gogh in Arles and Saint-Rémy, southern France of blossoming almond trees. Flowering trees were special to Van Gogh. They represented awakening and hope. He enjoyed them aesthetically and found joy in painting flowering trees. The works reflect Impressionist, Divisionist and Japanese woodcut influences.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Vincent_van_Gogh_-_Branches_of_an_Almond_Tree_in_Blossom_(F671).jpg/200px-Vincent_van_Gogh_-_Branches_of_an_Almond_Tree_in_Blossom_(F671).jpg</field>
+<field name="link_external">http://www.vangoghmuseum.nl/vgm/index.jsp?page=3128&amp;collection=625&amp;lang=en</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Van_Gogh_Museum</field>
+<field name="title">Almond Blossoms</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Almond_Blossoms_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Almond_Blossoms_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Almond_Blossoms_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Almond_Blossoms_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Almond_Blossoms_(series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4733887</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Almond_Blossoms_(Van_Gogh_series)</field>
+</doc>
+</add>

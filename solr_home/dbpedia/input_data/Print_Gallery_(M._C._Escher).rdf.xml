@@ -1,0 +1,30 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Print_Gallery_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7245255</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3lp9q</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Print_Gallery_(M._C._Escher)</field>
+<field name="sameAs">http://dbpedia.org/resource/Print_Gallery_(M._C._Escher)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1956_paintings</field>
+<field name="abstract">Print Gallery is a lithograph printed in 1956 by the Dutch artist M. C. Escher. It depicts a man in a gallery viewing a print of a seaport, and among the buildings in the seaport is the very gallery in which he is standing. In the book Gödel, Escher, Bach, Douglas Hofstadter explains it as a strange loop showing three kinds of "in-ness": the gallery is physically in the town ("inclusion"); the town is artistically in the picture ("depiction"); the picture is mentally in the person ("representation"). Escher’s signature is on a circular void in the center of the work. In 2003, two mathematicians reported a way of filling in the void by treating the work as drawn on an elliptic curve over the field of complex numbers. They deem an idealized version of Print Gallery to contain a copy of itself, rotated clockwise by about 157.63 degrees and shrunk by a factor of about 22.58. Print Gallery has been discussed in relation to post-modernism by a number of writers, including Silvio Gaggi, Barbara Freedman, Stephen Bretzius, and Marie-Laure Ryan.</field>
+<field name="label">Print Gallery (M. C. Escher)</field>
+<field name="comment">Print Gallery is a lithograph printed in 1956 by the Dutch artist M. C. Escher. It depicts a man in a gallery viewing a print of a seaport, and among the buildings in the seaport is the very gallery in which he is standing.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Print_Gallery_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Print_Gallery_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Print_Gallery_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Print_Gallery_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7245255</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Print_Gallery_(M._C._Escher)</field>
+</doc>
+</add>

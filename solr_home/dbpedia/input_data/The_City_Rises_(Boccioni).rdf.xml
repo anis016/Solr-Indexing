@@ -1,0 +1,95 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_City_Rises_(Boccioni)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_città_che_sale</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/城市的興起</field>
+<field name="sameAs">http://dbpedia.org/resource/The_City_Rises_(Boccioni)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q587514</field>
+<field name="sameAs">http://he.dbpedia.org/resource/העיר_מתעוררת</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_City_Rises_(Boccioni)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fd8pf</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_ville_se_lève</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1910_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Futurist_painting</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_Futurism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">The City Rises (La città che sale) (1910) is an important painting by the Italian painter Umberto Boccioni. In 1912 the picture was bought by the musician Ferruccio Busoni during the travelling futurist art exposition in Europe. It has been exhibited in the Museum of Modern Art in New York as part of their permeant collection though currently (January 2013) it is not listed as one of their exhibited paintings. The original title of the painting was Il lavoro (Work), as it appeared at the Mostra d'arte libera (Exhibition of free art) in Milan in 1911. Though realistic elements are present, such as the building, and the space is still rendered through perspective, this painting is considered the first really futurist work by Umberto Boccioni, even though it is not markedly different from his previous works, all centered on suburbs. In this painting the naturalistic vision of the previous works is partly abandoned, replaced by a more dynamic vision. Buildings in construction in a suburb can be seen with chimneys in the upper part, but the most of the space is occupied by men and horses, melted together in a dynamic effort. Boccioni thus emphasizes some among the most typical elements of futurism, the exaltation of human work and the importance of the modern town, built around modern necessities. The painting portrays the construction of a new city, with developments and technology. Suburbs, and the urban environment in general, formed the basis of many of Boccioni's paintings, from the capture of the staccato sounds of construction in Street-pavers to the riot of sound and colour offered to the observer of street scenes, as typified by The Street Enters the House.</field>
+<field name="label">The City Rises (Boccioni)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/44/Immagine-Umberto_boccioni_la_città_che_sale.jpg</field>
+<field name="comment">The City Rises (La città che sale) (1910) is an important painting by the Italian painter Umberto Boccioni. In 1912 the picture was bought by the musician Ferruccio Busoni during the travelling futurist art exposition in Europe. It has been exhibited in the Museum of Modern Art in New York as part of their permeant collection though currently (January 2013) it is not listed as one of their exhibited paintings.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/44/Immagine-Umberto_boccioni_la_città_che_sale.jpg/200px-Immagine-Umberto_boccioni_la_città_che_sale.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">The City Rises</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_City_Rises_(Boccioni)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_City_Rises_(Boccioni)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_città_che_sale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_City_Rises_(Boccioni)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Umberto_Boccioni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/The_City_Rises_(Boccioni)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_City_Rises</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_city_rises</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_City_Rises_(Boccioni)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_City_Rises_(Boccioni)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_citt%C3%A0_che_sale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_citta_che_sale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_ville_se_lève</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_City_Rises_(Boccioni)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q587514</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_City_Rises_(Boccioni)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/城市的興起</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_City_Rises_(Boccioni)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/העיר_מתעוררת</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_City_Rises_(Boccioni)</field>
+</doc>
+</add>

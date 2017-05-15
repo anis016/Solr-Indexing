@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Амазонка_(картина_Р._Френца)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Horsewoman_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Horsewoman_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Horsewoman_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Horsewoman_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Horsewoman_(painting)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Амазонка_(картина_Р._Френца)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h_d9bd</field>
+<field name="sameAs">http://dbpedia.org/resource/Horsewoman_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4063893</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Amazona_(Frentz)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rudolf_Frentz</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horses_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1925_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="abstract"/>
+<field name="label">Horsewoman (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c9/Frentz-Rudolf-Horsewoman-7port2bw.jpg</field>
+<field name="comment"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Frentz-Rudolf-Horsewoman-7port2bw.jpg/200px-Frentz-Rudolf-Horsewoman-7port2bw.jpg</field>
+<field name="link_external">http://www.leningradartist.com/</field>
+<field name="link_external">http://www.leningradartist.com/7port2b.jpg</field>
+<field name="link_external">http://www.leningradartist.com/bio/f.htm#8</field>
+<field name="link_external">http://www.leningradartist.com/bo182b.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Rudolf_Frentz</field>
+<field name="city">http://dbpedia.org/resource/Russia</field>
+<field name="height">89</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">Horsewoman</field>
+<field name="width">89</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Horsewoman_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Horsewoman_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Amazona_(Frentz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Horsewoman_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Horsewoman_(Frentz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4063893</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Horsewoman_(painting)</field>
+</doc>
+</add>

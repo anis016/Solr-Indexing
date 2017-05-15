@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Lugubrious_Game</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lugubrious_Game</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q195776</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Lugubrious_Game</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Jeu_lugubre</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мрачная_игра</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03nwqlq</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Похмура_гра</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1929_paintings</field>
+<field name="abstract">The Lugubrious Game (or The Mournful Game) is a part oil painting and part collage on cardboard artwork created by Salvador Dalí in 1929. It displays references to feces (in the form of a man wearing soiled underpants), sexual desire, castration and alludes to the "safety" of masturbation. The name of the painting was given by poet, Paul Éluard.</field>
+<field name="label">The Lugubrious Game</field>
+<field name="comment">The Lugubrious Game (or The Mournful Game) is a part oil painting and part collage on cardboard artwork created by Salvador Dalí in 1929. It displays references to feces (in the form of a man wearing soiled underpants), sexual desire, castration and alludes to the "safety" of masturbation. The name of the painting was given by poet, Paul Éluard.</field>
+<field name="name"/>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="height">44.4</field>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">The Lugubrious Game</field>
+<field name="type">oil and collage on cardboard</field>
+<field name="width">30.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Lugubrious_Game</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Lugubrious_Game</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Lugubrious_Game</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Lugubrious_Game</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Jeu_lugubre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lugubrious_Game</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мрачная_игра</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lugubrious_Game</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q195776</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lugubrious_Game</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Похмура_гра</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lugubrious_Game</field>
+</doc>
+</add>

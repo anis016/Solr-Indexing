@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dancing_Girl_(Rabindranath_Tagore)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5215473</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Dancing_Girl_(Rabindranath_Tagore)</field>
+<field name="sameAs">http://dbpedia.org/resource/Dancing_Girl_(Rabindranath_Tagore)</field>
+<field name="sameAs">http://pa.dbpedia.org/resource/ਨੱਚਦੀ_ਕੁੜੀ_(ਰਾਬਿੰਦਰਨਾਥ_ਟੈਗੋਰ)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0640cgt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1905_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Rabindranath_Tagore</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Indian_paintings</field>
+<field name="abstract">Dancing Girl is a painting by Nobel laureate, Rabindranath Tagore.</field>
+<field name="label">Dancing Girl (Rabindranath Tagore)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c4/Rabindranath_Tagore_Untitled_Dacing_Girl.jpg</field>
+<field name="comment">Dancing Girl is a painting by Nobel laureate, Rabindranath Tagore.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Rabindranath_Tagore_Untitled_Dacing_Girl.jpg/200px-Rabindranath_Tagore_Untitled_Dacing_Girl.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Rabindranath_Tagore</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="title">Dancing Girl</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Dancing_Girl_(Rabindranath_Tagore)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dancing_Girl_(Rabindranath_Tagore)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Dancing_Girl_(Rabindranath_Tagore)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Dancing_Girl_(Rabindranath_Tagore)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5215473</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dancing_Girl_(Rabindranath_Tagore)</field>
+</doc>
+<doc>
+<field name="uri">http://pa.dbpedia.org/resource/ਨੱਚਦੀ_ਕੁੜੀ_(ਰਾਬਿੰਦਰਨਾਥ_ਟੈਗੋਰ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dancing_Girl_(Rabindranath_Tagore)</field>
+</doc>
+</add>

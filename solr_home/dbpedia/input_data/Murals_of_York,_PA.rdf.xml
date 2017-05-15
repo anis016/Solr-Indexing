@@ -1,0 +1,31 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Murals_of_York,_PA</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Murals_of_York,_PA</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtyclq</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Murals_of_York,_PA</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Histories_of_cities_in_Pennsylvania</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:York,_Pennsylvania</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_in_Pennsylvania</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">The Murals of York, PA are a series of murals painted on the sides of buildings in York, Pennsylvania between 1996 and 2002. Paid for with local donations, the murals provide the community with details about some lesser-known people, businesses, and customs of the city while adding artistic beauty. The York County Heritage Trust owns and shares rights to the use of the mural images.</field>
+<field name="label">Murals of York, PA</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a3/Lewis_Miller_Murals.jpg</field>
+<field name="comment">The Murals of York, PA are a series of murals painted on the sides of buildings in York, Pennsylvania between 1996 and 2002. Paid for with local donations, the murals provide the community with details about some lesser-known people, businesses, and customs of the city while adding artistic beauty. The York County Heritage Trust owns and shares rights to the use of the mural images.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Lewis_Miller_Murals.jpg/200px-Lewis_Miller_Murals.jpg</field>
+<field name="link_external">http://www.livescribe.com/cgi-bin/WebObjects/LDApp.woa/wa/MLSOverviewPage?sid=TXHxvfj2j4pD</field>
+<field name="link_external">http://www.livescribe.com/cgi-bin/WebObjects/LDApp.woa/wa/MLSOverviewPage?sid=sx2SKbDRnVhJ</field>
+<field name="link_external">http://www.livescribe.com/cgi-bin/WebObjects/LDApp.woa/wa/MLSOverviewPage?sid=wk7rnS6HXL2b</field>
+<field name="link_external">http://www.ydr.com/murals</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Murals_of_York,_PA</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Murals_of_York,_PA</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Murals_of_York,_PA</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Murals_of_York,_PA</field>
+</doc>
+</add>

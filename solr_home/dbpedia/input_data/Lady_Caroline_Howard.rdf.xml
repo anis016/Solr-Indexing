@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lady_Caroline_Howard</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Caroline_Howard</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6470018</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hr3y5q</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lady_Caroline_Howard</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1778_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1778_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joshua_Reynolds</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="abstract">Lady Caroline Howard (1778) is an oil on canvas portrait by Joshua Reynolds. Lady Caroline was the daughter of Frederick Howard, 5th Earl of Carlisle, and Margaret Caroline Howard. She was a spirited child, according to her father, and was seven years old when she sat to Reynolds. The portrait was commissioned by the Earl, and exhibited in 1779 at the Royal Academy before it was hung in Castle Howard. Reynolds was a chief proponent of the Grand Manner and, to that end, the roses Lady Caroline plucks from an urn may have been intended to suggest Chastity, Beauty, and Love, the attributes of Venus and the Three Graces. The NGA writes "Reynolds has captured some of Lady Caroline's complexity in the serious, intent expression of her attractive face, her averted gaze, and the tension implied in her closed left hand ... the painting is broadly and fluidly executed in thick, opaque layers, with thin translucent glazes in the background. " National Gallery of Art acquired the portrait in 1937.</field>
+<field name="label">Lady Caroline Howard</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/75/Reynolds_Sir_Joshua-Lady_Caroline_Howard.jpg</field>
+<field name="comment">Lady Caroline Howard (1778) is an oil on canvas portrait by Joshua Reynolds. Lady Caroline was the daughter of Frederick Howard, 5th Earl of Carlisle, and Margaret Caroline Howard. She was a spirited child, according to her father, and was seven years old when she sat to Reynolds. The portrait was commissioned by the Earl, and exhibited in 1779 at the Royal Academy before it was hung in Castle Howard.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Reynolds_Sir_Joshua-Lady_Caroline_Howard.jpg/200px-Reynolds_Sir_Joshua-Lady_Caroline_Howard.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=113&amp;detail=none</field>
+<field name="artist">http://dbpedia.org/resource/Joshua_Reynolds</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">143</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">Lady Caroline Howard</field>
+<field name="width">113</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lady_Caroline_Howard</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lady_Caroline_Howard</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lady_Caroline_Howard</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lady_Caroline_Howard</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6470018</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Caroline_Howard</field>
+</doc>
+</add>

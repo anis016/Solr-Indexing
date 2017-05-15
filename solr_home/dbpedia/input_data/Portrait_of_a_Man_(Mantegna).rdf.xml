@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_virile_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_d'homme_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Man_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_(Mantegna)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_d'homme_(Mantegna)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_virile_(Mantegna)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Man_(Mantegna)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3399399</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h54zhd</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="abstract">Portrait of a Man (c. 1460-1470) is a painting attributed to the Italian Renaissance artist Andrea Mantegna. It is housed in the National Gallery of Art, Washington, DC, USA.</field>
+<field name="label">Portrait of a Man (Mantegna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f3/Mantegna_ritratto_d'uomo_washington.jpg</field>
+<field name="comment">Portrait of a Man (c. 1460-1470) is a painting attributed to the Italian Renaissance artist Andrea Mantegna. It is housed in the National Gallery of Art, Washington, DC, USA.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Mantegna_ritratto_d'uomo_washington.jpg/200px-Mantegna_ritratto_d'uomo_washington.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=41584</field>
+<field name="artist"/>
+<field name="height">24.2</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of a Man</field>
+<field name="type">Tempera on panel</field>
+<field name="width">19</field>
+<field name="year">c. 1460-1470</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Man_(Mantegna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Man_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Man_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Man_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3399399</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_(Mantegna)</field>
+</doc>
+</add>

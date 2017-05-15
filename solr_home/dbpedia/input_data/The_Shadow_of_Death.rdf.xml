@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Shadow_of_Death</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/The_Shadow_of_Death</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q949567</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Cień_śmierci</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shadow_of_Death</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Shadow_of_Death</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025ycb5</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Тень_смерти</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1873_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William_Holman_Hunt</field>
+<field name="abstract">The Shadow of Death is a religious painting by William Holman Hunt, on which he worked from 1870 to 1873, during his second trip to the Holy Land. It depicts Jesus as a young man prior to his ministry, working as a carpenter. He is shown stretching his arms after sawing wood. The shadow of his outstretched arms falls on a wooden spar on which carpentry tools hang, creating a "shadow of death" prefiguring the crucifixion. His mother Mary is depicted from behind, gazing up at the shadow, having been looking into a box in which she has kept the gifts given by the Magi. In 1850 Hunt's colleague John Everett Millais had already portrayed Jesus as a budding carpenter, helping his father as a young boy. Millais' painting, Christ in the House of his Parents, had been viciously attacked by critics because of the alleged squalour of the workshop. Hunt repeats many features of Millais's painting, but emphasises Jesus' physical health and muscularity. Hunt's portrayal of Jesus as a hard-working adult craftsman and labourer was also probably influenced by Thomas Carlyle who repeatedly emphasised the spiritual value of honest labour. It also corresponds to the emergence of Muscular Christianity, the view of writers Charles Kingsley, Thomas Hughes and others, who promoted physical strength and health as well as a vigorous pursuit of Christian ideals in personal and political life. Carlyle had strongly criticised Hunt's earlier depiction of Jesus in The Light of the World, identifying it as a "papistical" picture because it showed Jesus in regal clothing. The portrayal of Mary's thriftiness (by carefully "saving" the gifts) also fits the emphasis on working class financial responsibility promoted by contemporary evangelical publications such as The British Workman. The painting contains detailed typological symbolism, referring to the theological significance of Christ's role and identity. This may be related to Millais's contemporaneous Victory O Lord!. Diarist Francis Kilvert describes a visit to see the painting on display in 1874, the year after its completion. His entry for 27 June 1874 reads, 'I regret to say that against good advice and wise warning I went to see Holman Hunt's picture of the Shadow of Death. It was a waste of a good shilling. I thought the picture theatrical and detestable and wished I had never seen it. ' The painting was a popular success and was widely reproduced as an engraving. The profits made possible the donation of the original to the city of Manchester in 1883. It is now held by Manchester City Art Gallery.</field>
+<field name="label">The Shadow of Death</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/03/William_holman_hunt-the_shadow_of_death.jpg</field>
+<field name="comment">The Shadow of Death is a religious painting by William Holman Hunt, on which he worked from 1870 to 1873, during his second trip to the Holy Land. It depicts Jesus as a young man prior to his ministry, working as a carpenter. He is shown stretching his arms after sawing wood. The shadow of his outstretched arms falls on a wooden spar on which carpentry tools hang, creating a "shadow of death" prefiguring the crucifixion.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/William_holman_hunt-the_shadow_of_death.jpg/200px-William_holman_hunt-the_shadow_of_death.jpg</field>
+<field name="artist">http://dbpedia.org/resource/William_Holman_Hunt</field>
+<field name="city">http://dbpedia.org/resource/Manchester</field>
+<field name="height">214.2</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Manchester_Art_Gallery</field>
+<field name="title">The Shadow of Death</field>
+<field name="width">168.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Shadow_of_Death</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Shadow_of_Death</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Cień_śmierci</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shadow_of_Death</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Shadow_of_Death</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Shadow_of_Death</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_shadow_of_death</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shadow_of_Death</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Тень_смерти</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shadow_of_Death</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q949567</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shadow_of_Death</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/The_Shadow_of_Death</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shadow_of_Death</field>
+</doc>
+</add>

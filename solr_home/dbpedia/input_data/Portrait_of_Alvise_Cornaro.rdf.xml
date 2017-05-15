@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Alvise_Cornaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Alvise_Cornaro</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0jkylkf</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Alvise_Cornaro</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937458</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Alvise_Cornaro</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tintoretto</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="abstract">The Portrait of Alvise Cornaro is a portrait by the Venetian painter Tintoretto, showing the man of letters Alvise 'Luigi' Cornaro. Datable to around 1560-1565, it was acquired by Leopoldo de' Medici and is now in the Galleria Palatina in Florence. In 1698 and 1829 inventories it was misattributed to Titian.</field>
+<field name="label">Portrait of Alvise Cornaro</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4c/Jacopo_Tintoretto_-_Portrait_of_Alvise_Cornaro_-_WGA22687.jpg</field>
+<field name="comment">The Portrait of Alvise Cornaro is a portrait by the Venetian painter Tintoretto, showing the man of letters Alvise 'Luigi' Cornaro. Datable to around 1560-1565, it was acquired by Leopoldo de' Medici and is now in the Galleria Palatina in Florence. In 1698 and 1829 inventories it was misattributed to Titian.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Jacopo_Tintoretto_-_Portrait_of_Alvise_Cornaro_-_WGA22687.jpg/200px-Jacopo_Tintoretto_-_Portrait_of_Alvise_Cornaro_-_WGA22687.jpg</field>
+<field name="link_external">http://www.polomuseale.firenze.it/catalogo/scheda.asp?nctn=00295440&amp;value=1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Alvise_Cornaro</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Alvise_Cornaro</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Alvise_Cornaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Alvise_Cornaro</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Alvise_Cornaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Alvise_Cornaro</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937458</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Alvise_Cornaro</field>
+</doc>
+</add>

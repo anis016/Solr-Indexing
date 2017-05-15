@@ -1,0 +1,17 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Michael_Vanquishing_Satan_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Michael_Vanquishing_Satan_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Michael_Vanquishing_Satan_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Michael_Vanquishing_Satan_(Raphael)</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Michael_Vanquishing_Satan_(Raphael)</field>
+<field name="label">St. Michael Vanquishing Satan (Raphael)</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Michael_Vanquishing_Satan_(Raphael)</field>
+</doc>
+</add>

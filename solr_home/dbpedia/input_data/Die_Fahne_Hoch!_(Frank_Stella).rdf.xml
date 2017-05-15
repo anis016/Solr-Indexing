@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Die_Fahne_Hoch!_(Frank_Stella)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Die_Fahne_Hoch!_(Frank_Stella)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Die_Fahne_Hoch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Die_Fahne_Hoch!_(Frank_Stella)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5274343</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.064lgr_</field>
+<field name="sameAs">http://dbpedia.org/resource/Die_Fahne_Hoch!_(Frank_Stella)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Die_Fahne_Hoch!_(Frank_Stella)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Frank_Stella</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1950s_paintings</field>
+<field name="abstract">Die Fahne Hoch! is a Minimalist painting by Frank Stella completed in 1959. The use of basic geometric systems in the work is regarded by many as the precursor of Minimalism. The painting was made by marking equal subdivisions along the sides, bottom and top edges of the canvas and using these intervals to generate simple, symmetrical patterns consisting of bands of black enamel paint separated by thin lines of unpainted canvas. Frank Stella gave the work a provocative title. Die Fahne Hoch! is named after the anthem of the Nazi Party, the Horst-Wessel-Lied, and is one of several paintings in the series that make direct reference to Nazism. By applying a hotly emotive title to the image, Stella's ironic purpose was that of destabilizing the idea of meaning itself.</field>
+<field name="label">Die Fahne Hoch! (Frank Stella)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f6/DFHFrankStella.jpg</field>
+<field name="comment">Die Fahne Hoch! is a Minimalist painting by Frank Stella completed in 1959. The use of basic geometric systems in the work is regarded by many as the precursor of Minimalism. The painting was made by marking equal subdivisions along the sides, bottom and top edges of the canvas and using these intervals to generate simple, symmetrical patterns consisting of bands of black enamel paint separated by thin lines of unpainted canvas. Frank Stella gave the work a provocative title.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/DFHFrankStella.jpg/200px-DFHFrankStella.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Frank_Stella</field>
+<field name="city">http://dbpedia.org/resource/New_York</field>
+<field name="height">308.6</field>
+<field name="image"/>
+<field name="imageSize">150</field>
+<field name="museum">http://dbpedia.org/resource/Whitney_Museum_of_American_Art</field>
+<field name="title">Die Fahne Hoch!</field>
+<field name="type">Enamel paint on canvas</field>
+<field name="width">185.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Die_Fahne_Hoch!_(Frank_Stella)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Die_Fahne_Hoch!_(Frank_Stella)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5274343</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Die_Fahne_Hoch!_(Frank_Stella)</field>
+</doc>
+</add>

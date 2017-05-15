@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wood_(Max_Ernst)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7775711</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0f2s8k</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wood_(Max_Ernst)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Wood_(Max_Ernst)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_National_Museum_Cardiff</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Max_Ernst</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1927_paintings</field>
+<field name="abstract">The Wood (1927) is a painting by the German surrealist Max Ernst. Ernst was haunted by the atmosphere of forests and by the birds which inhabit them. Here, the herring-bone effect of the trees and the grainy sky reveal his technique of grattage. Layers of paint were applied to the canvas, which was pressed against a sheet of stamped metal and a rough plank and scraped. This work was given to the Contemporary Art Society by Miss A.F. Brown in 1940. It is currently on display in the National Museum of Wales.</field>
+<field name="label">The Wood (Max Ernst)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3c/Max_Ernst's_The_Wood.jpg</field>
+<field name="comment">The Wood (1927) is a painting by the German surrealist Max Ernst. Ernst was haunted by the atmosphere of forests and by the birds which inhabit them. Here, the herring-bone effect of the trees and the grainy sky reveal his technique of grattage. Layers of paint were applied to the canvas, which was pressed against a sheet of stamped metal and a rough plank and scraped. This work was given to the Contemporary Art Society by Miss A.F. Brown in 1940.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Max_Ernst's_The_Wood.jpg/200px-Max_Ernst's_The_Wood.jpg</field>
+<field name="link_external">http://www.museumwales.ac.uk/en/art/online/?action=show_item&amp;item=542</field>
+<field name="artist">http://dbpedia.org/resource/Max_Ernst</field>
+<field name="city">http://dbpedia.org/resource/Cardiff</field>
+<field name="height">60.5</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Museum_Cardiff</field>
+<field name="title">The Wood</field>
+<field name="width">81.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Wood_(Max_Ernst)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Wood_(Max_Ernst)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wood_(2)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Wood_(Max_Ernst)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Wood_(Max_Ernst)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7775711</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wood_(Max_Ernst)</field>
+</doc>
+</add>

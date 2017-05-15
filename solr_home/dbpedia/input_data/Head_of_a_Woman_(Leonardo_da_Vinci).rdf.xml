@@ -1,0 +1,17 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Head_of_a_Woman_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Head_of_a_Woman_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://dbpedia.org/resource/Head_of_a_Woman_(Leonardo_da_Vinci)</field>
+<field name="label">Head of a Woman (Leonardo da Vinci)</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Head_of_a_Woman_(Leonardo_da_Vinci)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Head_of_a_Woman_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Head_of_a_Woman_(Leonardo_da_Vinci)</field>
+</doc>
+</add>

@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cupola_di_San_Giovanni_a_Parma</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_St._John_on_Patmos</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vision_of_St._John_on_Patmos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dekoracja_kopuły_kościoła_San_Giovanni_w_Parmie</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Vision_of_St._John_on_Patmos</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cupola_di_San_Giovanni_a_Parma</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cw8g1</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_St._John_on_Patmos</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3699558</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Correggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1522_paintings</field>
+<field name="abstract">The Vision of St. John the Evangelist at Patmos (1520-1522) is a series of frescoes by the Italian late Renaissance artist Antonio Allegri da Correggio. It occupies the interior of the dome, and the relative pendentives, of the Benedictine church of San Giovanni Evangelista of Parma, Italy. The centre of the cupola is occupied by an illusionistic space based on series of concentric planes indicated by the clouds, from which the apostles stretch out. Starting from the border of the dome, the clouds thin out and open to a shiny light Christ descending towards the floor of the nave. The scene is a faithful rendering of John's Book of Revelation (I,7). The figure of St. John leans from the drum of the dome. This part of the fresco was hidden to the people present in the church, but visible to the monks in the choir and under the dome. In the four pendentives Correggio painted, coupled, the Four Evangelists and the Four Doctors of the Church. These are: St. Matthew with an angel; St. Mark with a winged lion; St. Luke with an ox; St. John with an eagle and, respectively, St. Jerome with the white beard and red garments; St. Ambrose with a staff; St. Gregory with the Papal tiara; St. Augustine portrayed counting together with St. John.</field>
+<field name="label">Vision of St. John on Patmos</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/27/Correggio_022.jpg</field>
+<field name="comment">The Vision of St. John the Evangelist at Patmos (1520-1522) is a series of frescoes by the Italian late Renaissance artist Antonio Allegri da Correggio. It occupies the interior of the dome, and the relative pendentives, of the Benedictine church of San Giovanni Evangelista of Parma, Italy. The centre of the cupola is occupied by an illusionistic space based on series of concentric planes indicated by the clouds, from which the apostles stretch out.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Correggio_022.jpg/200px-Correggio_022.jpg</field>
+<field name="artist"/>
+<field name="height">969</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Vision of St. John the Evangelist</field>
+<field name="type">Fresco</field>
+<field name="width">889</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Vision_of_St._John_on_Patmos</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Vision_of_St._John_on_Patmos</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vision_of_St._John_the_Evangelist_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Vision_of_St._John_on_Patmos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Vision_of_St._John_on_Patmos</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ascension_of_Christ_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dekoracja_kopuły_kościoła_San_Giovanni_w_Parmie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_St._John_on_Patmos</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3699558</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vision_of_St._John_on_Patmos</field>
+</doc>
+</add>

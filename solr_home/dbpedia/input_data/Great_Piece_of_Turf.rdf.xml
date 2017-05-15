@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Great_Piece_of_Turf</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Great_Piece_of_Turf</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_große_Rasenstück</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_grote_graszode</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q254794</field>
+<field name="sameAs">http://dbpedia.org/resource/Great_Piece_of_Turf</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Большой_кусок_луга</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04ybkbw</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1503_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Watercolours</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="abstract">The Great Piece of Turf (German: Das große Rasenstück) is a watercolor painting by Albrecht Dürer. The painting was created at Dürer's workshop in Nuremberg in 1503. It is a study of a seemingly random group of wild plants, including dandelion and greater plantain. The work is considered one of the masterpieces of Dürer's realistic nature studies.</field>
+<field name="label">Great Piece of Turf</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f6/Albrecht_Dürer_-_The_Large_Piece_of_Turf,_1503_-_Google_Art_Project.jpg</field>
+<field name="comment">The Great Piece of Turf (German: Das große Rasenstück) is a watercolor painting by Albrecht Dürer. The painting was created at Dürer's workshop in Nuremberg in 1503. It is a study of a seemingly random group of wild plants, including dandelion and greater plantain. The work is considered one of the masterpieces of Dürer's realistic nature studies.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Albrecht_Dürer_-_The_Large_Piece_of_Turf,_1503_-_Google_Art_Project.jpg/200px-Albrecht_Dürer_-_The_Large_Piece_of_Turf,_1503_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.albertina.at/jart/prj3/albertina/main.jart?rel=en&amp;content-id=1207841207641&amp;images_id=1214208144645</field>
+<field name="link_external">http://smarthistory.khanacademy.org/durer-the-large-piece-of-turf.html</field>
+<field name="artist">http://dbpedia.org/resource/Albrecht_D%C3%BCrer</field>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="height">40.3</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Albertina</field>
+<field name="title">Great Piece of Turf</field>
+<field name="width">31.1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Great_Piece_of_Turf</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Great_Piece_of_Turf</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Das_gro%C3%9Fe_Rasenst%C3%BCck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_große_Rasenstück</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Great_Piece_of_Turf</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Большой_кусок_луга</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Great_Piece_of_Turf</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Great_Piece_of_Turf</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Great_Piece_of_Turf</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Large_Piece_of_Turf</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Large_Turf</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_grote_graszode</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Great_Piece_of_Turf</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q254794</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Great_Piece_of_Turf</field>
+</doc>
+</add>

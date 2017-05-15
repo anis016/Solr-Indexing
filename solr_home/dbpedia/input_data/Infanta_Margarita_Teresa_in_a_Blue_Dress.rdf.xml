@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Infanta_Margarita_en_azul</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_dell'infanta_Margherita_in_azzurro</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05pbyns</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Infante_Marguerite_en_bleu</field>
+<field name="sameAs">http://th.dbpedia.org/resource/เจ้าหญิงมาร์การิตา_เทเรซาในชุดสีน้ำเงิน</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2264914</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1659_paintings</field>
+<field name="abstract">Infanta Margarita Teresa in a Blue Dress is a one of the best known portraits by Spanish painter Diego Velázquez. It was done in oil on canvas, and measures 127 cm high by 107 cm wide. It was one of his last paintings, produced in 1659, a year before his death. It shows Margaret Theresa of Spain, who also appears in the artist's Las Meninas. Currently, the painting is in the Kunsthistorisches Museum. This is one of the several court portraits made by Velázquez, who, in different occasions portrayed Infanta Margaret Theresa, who married at fifteen her uncle, Leopold I, Holy Roman Emperor. She's the little infanta who appears in Las Meninas (1656). These paintings show her in different stages of her childhood, and they were sent to Vienna to inform Leopold how his young fiancée looked like. The Kunsthistorisches Museum in Vienna has other two outstanding paintings by Velázquez: Infanta Maria Teresa and Prince Philip Prospero. However, this portrait of Infanta Margarita is possibly the best of the three. In this painting, Velázquez used the technique of loose brushstrokes that fuse into coherence only when viewed from a certain distance. The infanta, here eight years old, is shown with a solemn expression. She wears a blue silk dress, adorned with silver borders after the Spanish fashion of the era; the most striking characteristic is the huge expanse of the voluminous crinoline, which is accentuated by the trimmed borders and the wide lace collar. In one of her hands she holds a brown fur muff, perhaps a present from Vienna. The young girl, who is presented as pretty and appealing, has a pale countenance which is enhanced by the blue and silver tones. In the background, there is a high console table with a round mirror behind it.</field>
+<field name="label">Infanta Margarita Teresa in a Blue Dress</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f1/Diego_Velázquez_027.jpg</field>
+<field name="comment">Infanta Margarita Teresa in a Blue Dress is a one of the best known portraits by Spanish painter Diego Velázquez. It was done in oil on canvas, and measures 127 cm high by 107 cm wide. It was one of his last paintings, produced in 1659, a year before his death. It shows Margaret Theresa of Spain, who also appears in the artist's Las Meninas. Currently, the painting is in the Kunsthistorisches Museum.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Diego_Velázquez_027.jpg/200px-Diego_Velázquez_027.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="height">127</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Infanta Margarita Teresa in a Blue Dress</field>
+<field name="type">Oil on canvas</field>
+<field name="width">107</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_dell'infanta_Margherita_in_azzurro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Infanta_Margarita_en_azul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Infante_Marguerite_en_bleu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2264914</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/เจ้าหญิงมาร์การิตา_เทเรซาในชุดสีน้ำเงิน</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Infanta_Margarita_Teresa_in_a_Blue_Dress</field>
+</doc>
+</add>

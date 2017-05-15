@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Scapegoat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Scapegoat_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Scapegoat_(painting)</field>
+<field name="sameAs">http://mk.dbpedia.org/resource/Жртвениот_јарец_(слика)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Козёл_отпущения_(картина)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q9k_q</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Scapegoat_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3402890</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1856_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Lady_Lever_Art_Gallery</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William_Holman_Hunt</field>
+<field name="abstract">The Scapegoat (1854-6) is a painting by William Holman Hunt which depicts the "scapegoat" described in the Book of Leviticus. On the Day of Atonement, a goat would have its horns wrapped with a red cloth - representing the sins of the community - and be driven off. He started painting on the shore of the Dead Sea, and continued in his studio in London. The work exists in two versions, a small version in brighter colours with a dark-haired goat and a rainbow, held by Manchester Art Gallery, and a larger version in more muted tones with a light-haired goat held by the Lady Lever Art Gallery in Port Sunlight.</field>
+<field name="label">The Scapegoat (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/97/William_Holman_Hunt_-_The_Scapegoat.jpg</field>
+<field name="comment">The Scapegoat (1854-6) is a painting by William Holman Hunt which depicts the "scapegoat" described in the Book of Leviticus. On the Day of Atonement, a goat would have its horns wrapped with a red cloth - representing the sins of the community - and be driven off. He started painting on the shore of the Dead Sea, and continued in his studio in London.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/William_Holman_Hunt_-_The_Scapegoat.jpg/200px-William_Holman_Hunt_-_The_Scapegoat.jpg</field>
+<field name="link_external">http://www.english.uwosh.edu/roth/huntarticle.htm</field>
+<field name="artist">http://dbpedia.org/resource/William_Holman_Hunt</field>
+<field name="city">http://dbpedia.org/resource/Port_Sunlight</field>
+<field name="city">http://dbpedia.org/resource/Manchester</field>
+<field name="height">33.7</field>
+<field name="height">86</field>
+<field name="image"/>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Manchester_Art_Gallery</field>
+<field name="museum">http://dbpedia.org/resource/Lady_Lever_Art_Gallery</field>
+<field name="title">The Scapegoat</field>
+<field name="width">140</field>
+<field name="width">45.9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Scapegoat_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Scapegoat_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Scapegoat_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Scapegoat_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Козёл_отпущения_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Scapegoat_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3402890</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Scapegoat_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://mk.dbpedia.org/resource/Жртвениот_јарец_(слика)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Scapegoat_(painting)</field>
+</doc>
+</add>

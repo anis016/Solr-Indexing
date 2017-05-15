@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Malaja_Sadovaja_(Semiónov)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malaya_Sadovaya_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Malaya_Sadovaya_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Мала_Садова_вулиця_(картина)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Malaya_Sadovaya_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2058198</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Malaja_Sadovaja_(dipinto)</field>
+<field name="sameAs">http://dbpedia.org/resource/Malaya_Sadovaya_(painting)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Malaja_Sadovaja_(Semiónov)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx009d</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Alexander_Semionov</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1979_paintings</field>
+<field name="abstract">Malaya Sadovaya street is a painting executed by the Russian artist Alexander M. Semionov (1922–1984) in 1979. In the painting the artist has depicted a view of Malaya Sadovaya Street in Leningrad at the end of the 1970s.</field>
+<field name="label">Malaya Sadovaya (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b2/Semionov-Alexase35bw.jpg</field>
+<field name="comment">Malaya Sadovaya street is a painting executed by the Russian artist Alexander M. Semionov (1922–1984) in 1979. In the painting the artist has depicted a view of Malaya Sadovaya Street in Leningrad at the end of the 1970s.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Semionov-Alexase35bw.jpg/200px-Semionov-Alexase35bw.jpg</field>
+<field name="link_external">http://www.leningradartist.com/ase35b.jpg</field>
+<field name="link_external">http://www.leningradartist.com/bo148b.jpg</field>
+<field name="link_external">http://www.leningradartist.com/about-leningrad-landscapes-of-Alexander-Semionov_r.html</field>
+<field name="link_external">http://www.leningradartist.com</field>
+<field name="artist">http://dbpedia.org/resource/Alexander_Semionov</field>
+<field name="city">http://dbpedia.org/resource/Russia</field>
+<field name="height">70</field>
+<field name="image"/>
+<field name="imageSize">280</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">Malaya Sadovaya street</field>
+<field name="width">60</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Malaya_Sadovaya_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Malaya_Sadovaya_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Malaya_Sadovaya_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Malaya_Sadovaya_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Malaja_Sadovaja_(dipinto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malaya_Sadovaya_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Malaya_Sadovaya_street_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2058198</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malaya_Sadovaya_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Мала_Садова_вулиця_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malaya_Sadovaya_(painting)</field>
+</doc>
+</add>

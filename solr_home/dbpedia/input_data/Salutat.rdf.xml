@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Salutat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05q5hks</field>
+<field name="sameAs">http://bn.dbpedia.org/resource/স্যালুট্যাট</field>
+<field name="sameAs">http://dbpedia.org/resource/Salutat</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Salutat</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7406321</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1898_paintings</field>
+<field name="abstract">Salutat is an 1898 painting by Thomas Eakins (1844–1916). Based on a real-life boxing match that occurred in 1898, the work depicts a boxer waving to the crowd after the match. According to Eakins' biographer Lloyd Goodrich, Salutat is "one of Eakins' finest achievements in figure-painting. " The painting's title is Latin for "He greets" or "He salutes."</field>
+<field name="label">Salutat</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/62/Salutat.jpg</field>
+<field name="comment">Salutat is an 1898 painting by Thomas Eakins (1844–1916). Based on a real-life boxing match that occurred in 1898, the work depicts a boxer waving to the crowd after the match. According to Eakins' biographer Lloyd Goodrich, Salutat is "one of Eakins' finest achievements in figure-painting. " The painting's title is Latin for "He greets" or "He salutes."</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Salutat.jpg/200px-Salutat.jpg</field>
+<field name="link_external">http://accessaddison.andover.edu/Obj1024?sid=4710&amp;x=427500</field>
+<field name="artist">http://dbpedia.org/resource/Thomas_Eakins</field>
+<field name="city">http://dbpedia.org/resource/Andover,_Massachusetts</field>
+<field name="city">http://dbpedia.org/resource/Massachusetts</field>
+<field name="height">126.4</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Addison_Gallery_of_American_Art</field>
+<field name="title">Salutat</field>
+<field name="width">101</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Salutat</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Salutat</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Salutat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Salutat</field>
+</doc>
+<doc>
+<field name="uri">http://bn.dbpedia.org/resource/স্যালুট্যাট</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Salutat</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7406321</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Salutat</field>
+</doc>
+</add>

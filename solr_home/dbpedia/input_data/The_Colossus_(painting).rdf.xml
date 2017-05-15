@@ -1,0 +1,131 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Colossus_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Kolosoa_(margolana)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047lvh0</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Colosse_(tableau)</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/غول_(نقاشی)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2413468</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Kolos_(obraz)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/El_coloso</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/El_Coloso</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_colosso</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_coloso</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Colossus_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1800s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="abstract">The Colossus (also known as The Giant), is known in Spanish as El coloso and also El gigante (The Giant), El pánico (The Panic) and La tormenta (The Storm). It is a painting traditionally attributed to Francisco de Goya that shows a giant in the centre of the canvas walking towards the left hand side of the picture. Mountains obscure his legs up to his thighs and clouds surround his body; the giant appears to be adopting an aggressive posture as he is holding one of his fists up at shoulder height. A dark valley containing a crowd of people and herds of cattle fleeing in all directions occupies the lower third of the painting. The painting became the property of Goya’s son, Javier Goya, in 1812. The painting was later owned by Pedro Fernández Durán, who bequeathed his collection to Madrid’s Museo del Prado, where it has been kept since 1931.</field>
+<field name="label">The Colossus (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/be/El_coloso.jpg</field>
+<field name="comment">The Colossus (also known as The Giant), is known in Spanish as El coloso and also El gigante (The Giant), El pánico (The Panic) and La tormenta (The Storm). It is a painting traditionally attributed to Francisco de Goya that shows a giant in the centre of the canvas walking towards the left hand side of the picture.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/El_coloso.jpg/200px-El_coloso.jpg</field>
+<field name="link_external">http://www.almendron.com/arte/pintura/goya/obras_goya/goya_43.htm</field>
+<field name="link_external">http://sites.google.com/site/franciscodegoyaelcoloso/d---glendinning-coloso-2004</field>
+<field name="link_external">http://sites.google.com/site/franciscodegoyaelcoloso/home</field>
+<field name="link_external">http://goya.unizar.es/InfoGoya/Obra/Catalogo_/Pintura_/462p.html</field>
+<field name="link_external">https://docs.google.com/viewer?a=v&amp;pid=explorer&amp;chrome=true&amp;srcid=0B1YPayP2L2_PMTJmMWRkNzAtNWRkYy00ZDZmLTk4M2ItYTk0NDMxZTBkZTE4&amp;hl=es</field>
+<field name="link_external">http://dialnet.unirioja.es/servlet/listaarticulos?tipo_busqueda=EJEMPLAR&amp;revista_busqueda=627&amp;clave_busqueda=199758</field>
+<field name="link_external">http://www.museodelprado.es/coleccion/galeria-on-line/galeria-on-line/obra/el-coloso</field>
+<field name="link_external">http://www.abc.es/20080624/cultura-arte/prado-anuncia-pruebas-coloso_200806240247.html</field>
+<field name="link_external">http://sites.google.com/site/franciscodegoyaelcoloso/029-en-torno-al-coloso-atribuido-a-goya-una-vez-mas-por-n-glendinning/Goya329_Glendinning_baja.pdf?attredirects=0&amp;d=1</field>
+<field name="link_external">http://servicios.bne.es/productos/Goya/es_home_grabados.html</field>
+<field name="link_external">http://servicios.bne.es/productos/Goya/gs29.html</field>
+<field name="link_external">http://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxmcmFuY2lzY29kZWdveWFlbGNvbG9zb3xneDo2OGYyODQ1YmYwYjUxNDEw</field>
+<field name="link_external">http://www.flg.es/revista_goya/revista_goya.htm</field>
+<field name="link_external">http://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxmcmFuY2lzY29kZWdveWFlbGNvbG9zb3xneDo3MjBlN2Y0Yzg3NWY1Mjlj</field>
+<field name="link_external">http://www.raco.cat/index.php/e-art/article/view/147801/19961</field>
+<field name="link_external">http://docs.google.com/viewer?a=v&amp;pid=sites&amp;srcid=ZGVmYXVsdGRvbWFpbnxmcmFuY2lzY29kZWdveWFlbGNvbG9zb3xneDoxYzIxMzlmODAzMjMzODVj</field>
+<field name="link_external">http://www.raco.cat/index.php/e-art/article/view/147801/199617</field>
+<field name="link_external">http://books.google.com/books?id=vdgFAAAAQAAJ&amp;printsec=titlepage&amp;dq=Profecia+Pirineo&amp;num=100&amp;as_brr=1&amp;hl=es#PPA27,M1</field>
+<field name="link_external">http://news.bbc.co.uk/2/hi/entertainment/1261705.stm</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">116</field>
+<field name="image"/>
+<field name="imageSize">230</field>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">The Colossus</field>
+<field name="width">105</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Colossus_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Colossus_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Coloso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Colossus_(Goya)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_coloso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Colossus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Colosse_(tableau)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_colosso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/El_coloso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2413468</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Kolos_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Kolosoa_(margolana)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/غول_(نقاشی)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/El_Coloso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Colossus_(painting)</field>
+</doc>
+</add>

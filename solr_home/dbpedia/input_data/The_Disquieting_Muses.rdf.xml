@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Disquieting_Muses</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Disquieting_Muses</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disquieting_Muses</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7730357</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dy6dd</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Muses</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1916_paintings</field>
+<field name="abstract">The Disquieting Muses is a painting by the Italian metaphysical painter Giorgio de Chirico. The Disquieting Muses was painted during World War I, when De Chirico was in Ferrara. The Castello Estense, near which de Chirico lived, is in the background, rust-red and among industrial buildings. At the front are the two Muses, dressed in classical clothing. One is standing and the other sitting, and they are placed among various objects, including a red mask and staff, an allusion to Melpomene and Thalia, the Muses of tragedy and comedy. The statue on a pedestal in the background is Apollo, leader of the Muses. Giorgio Castelfranco, an art collector and critic, described the painting in 1948: The spaces are dominated and interpenetrated fantastically, to such an extent that, at times, the lyric simultaneity of different coordinate systems is reached; this clearly happens in Metaphysical Interior and also in The Disquieting Muse where the box in the foreground is seen through the sitting Muse's perspective, and therefore, for the onlooker, in reversed perspective... de Chirico's peculiar mindset and culture in those years, founded in a vein of art and thought that is definitely—broadly speaking—anti-impressionist: an idealistic critique on the categories of time and space, which had found pathetic, alluring terms in Schopenauer's oneric-critique, and also that of young Nietzsche with regard to the interpretation of Greek tragedy, as well as German illustration tending to classicism, which also took the enigmatic side of ancient myths into consideration. The artist Carlo Belli discussed the merits of the painting in a letter to the collector Feroldi in 1939: [I I]t is not the strangeness of the subject that makes this work a great thing, but the marvel that can arise from the unusual positioning of the objects that make up the landscape which can determine the painting's worth. It is the conscious elevation of the human spirit to a higher plane, the carrying of this life into a superior zone where everything is order and light, philosophical silence and measure [... ... ] put two human figures in place of the mannequins [... ... ] the faces will have their own expression and that expression will inescapably drag the work on a lower plane [... ... ] the chronicle of psychological palpitation [... ... ] holds the place which should be held by the sublime [... ... ] The fantastic creatures that dwell in the de Chirican landscape contemplate reality and pour into us the amazement they feel sitting at the edge of eternity. This painting would later become the inspiration for Sylvia Plath's poem "The Disquieting Muses".</field>
+<field name="label">The Disquieting Muses</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/df/The_Disquieting_Muses.jpg</field>
+<field name="comment">The Disquieting Muses is a painting by the Italian metaphysical painter Giorgio de Chirico. The Disquieting Muses was painted during World War I, when De Chirico was in Ferrara. The Castello Estense, near which de Chirico lived, is in the background, rust-red and among industrial buildings. At the front are the two Muses, dressed in classical clothing.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/The_Disquieting_Muses.jpg/200px-The_Disquieting_Muses.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Giorgio_de_Chirico</field>
+<field name="city"/>
+<field name="height">97.16</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">The Disquieting Muses</field>
+<field name="width">66</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Disquieting_Muses</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Disquieting_Muses</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Disquieting_Muses</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Disquieting_Muses</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7730357</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disquieting_Muses</field>
+</doc>
+</add>

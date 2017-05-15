@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Still_Life_with_Spherical_Mirror</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Spherical_Mirror</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Spherical_Mirror</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2343298</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Still_Life_with_Spherical_Mirror</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Натюрморт_с_отражающим_шаром</field>
+<field name="sameAs">http://he.dbpedia.org/resource/דומם_וכדור_שיקוף</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Spherical_Mirror</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Still_Life_with_Spherical_Mirror</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03sznj</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1934_paintings</field>
+<field name="abstract">Still Life with Spherical Mirror is a lithography print by the Dutch artist M. C. Escher which was first printed in November, 1934. It depicts a setting with rounded bottle and a metal sculpture of a bird with a human face seated atop a newspaper and a book. The background is dark but in the bottle can be seen the reflection of Escher’s studio and Escher himself sketching the scene. Self portraits in reflective spherical surfaces can be found in Escher’s early ink drawings and in his prints as late as the 1950s. The metal bird/human sculpture is real and was given to Escher by his father-in-law. This sculpture appears again in Escher’s later prints Another World Mezzotint (Other World Gallery) (1946) and Another World (1947).</field>
+<field name="label">Still Life with Spherical Mirror</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b3/StillLifewSphericalMirror.jpg</field>
+<field name="comment">Still Life with Spherical Mirror is a lithography print by the Dutch artist M. C. Escher which was first printed in November, 1934. It depicts a setting with rounded bottle and a metal sculpture of a bird with a human face seated atop a newspaper and a book. The background is dark but in the bottle can be seen the reflection of Escher’s studio and Escher himself sketching the scene.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/StillLifewSphericalMirror.jpg/200px-StillLifewSphericalMirror.jpg</field>
+<field name="artist"/>
+<field name="height">28.6</field>
+<field name="image"/>
+<field name="title">Still Life with Spherical Mirror</field>
+<field name="type">Lithography</field>
+<field name="width">32.6</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Still_Life_with_Spherical_Mirror</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Still_Life_with_Spherical_Mirror</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Still_Life_with_Spherical_Mirror</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Still_Life_with_Spherical_Mirror</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Натюрморт_с_отражающим_шаром</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Spherical_Mirror</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2343298</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Spherical_Mirror</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/דומם_וכדור_שיקוף</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Spherical_Mirror</field>
+</doc>
+</add>

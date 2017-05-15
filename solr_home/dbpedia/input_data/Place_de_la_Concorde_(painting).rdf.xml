@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Place_de_la_Concorde_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7200240</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0f1c2v</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Place_de_la_Concorde_(pintura)</field>
+<field name="sameAs">http://dbpedia.org/resource/Place_de_la_Concorde_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Place_de_la_Concorde_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edgar_Degas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Hermitage_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1875_paintings</field>
+<field name="abstract">Place de la Concorde or Viscount Lepic and his Daughters Crossing the Place de la Concorde or Ludovic Lepic and his Daughters is an 1875 oil by Edgar Degas. It depicts the cigar smoking Vicomte Ludovic-Napoléon Lepic, his daughters, and his dog, and a solitary man on the left in Place de la Concorde in Paris. The Tuileries Gardens can be seen in the background behind a stone wall. Many art historians believe that the large amount of negative space, the cropping and the way in which the figures are facing in random directions was influenced by photography. The painting was considered lost for four decades following World War II, until the Russian authorities put it on exhibition at the Hermitage Museum, where it remains to this day. During Soviet occupation of Germany the work was moved from the collection of Otto Gerstenberg to the Hermitage. Degas also painted the Viscount Lepic and His Daughters in a separate 1870 painting.</field>
+<field name="label">Place de la Concorde (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ef/Edgar_Degas_Place_de_la_Concorde.jpg</field>
+<field name="comment">Place de la Concorde or Viscount Lepic and his Daughters Crossing the Place de la Concorde or Ludovic Lepic and his Daughters is an 1875 oil by Edgar Degas. It depicts the cigar smoking Vicomte Ludovic-Napoléon Lepic, his daughters, and his dog, and a solitary man on the left in Place de la Concorde in Paris. The Tuileries Gardens can be seen in the background behind a stone wall.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Edgar_Degas_Place_de_la_Concorde.jpg/200px-Edgar_Degas_Place_de_la_Concorde.jpg</field>
+<field name="link_external">http://www.abcgallery.com/D/degas/degasbio.html</field>
+<field name="link_external">http://www.jstor.org/view/09510788/ap020423/02a00050/6?frame=noframe&amp;userID=800485af@udel.edu/01cce4403500501d305fe&amp;dpi=3&amp;config=jstor</field>
+<field name="link_external">http://www.hermitagemuseum.org/fcgi-bin/db2www/descrPage.mac/descrPage?selLang=English&amp;indexClass=PICTURE_EN&amp;PID=ZK-1399&amp;numView=1&amp;ID_NUM=11&amp;thumbFile=%2Ftmplobs%2FDS2O_23E5ZTKFWQQIX6.jpg&amp;embViewVer=last&amp;thumbId=6&amp;numResults=11&amp;author=Degas%2C%26%2332%3BEdgar&amp;comeFrom=quick&amp;check=&amp;tmCond=Degas&amp;searchIndex=TAGFILEN</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/60673/rec/6</field>
+<field name="link_external">http://smarthistory.khanacademy.org/place-de-la-concorde-or-viscount-lepic-and-his-daughters.html</field>
+<field name="artist"/>
+<field name="height">78.4</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Place de la Concorde</field>
+<field name="type">oil on canvas</field>
+<field name="width">117.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Place_de_la_Concorde_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Place_de_la_Concorde_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Place_de_la_Concorde_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Place_de_la_Concorde_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Place_De_La_Concorde_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7200240</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Place_de_la_Concorde_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Place_de_la_Concorde_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Place_de_la_Concorde_(painting)</field>
+</doc>
+</add>

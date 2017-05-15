@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_the_Reprobate</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Death_of_the_Reprobate</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5247601</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Reprobate</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026wycv</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="abstract">Death of the Reprobate is an oil on panel painting by Hieronymus Bosch which depicts the deathbed struggle for the human soul between the angel and the demon. The style is somewhat similar to his Death of the Miser. It is currently in a private collection, New York, USA. The painting is likely a copy of detail from a larger hell panel. It dates from the second half of the sixteenth century.</field>
+<field name="label">Death of the Reprobate</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0c/BoschDeathOfTheReprobate.jpg</field>
+<field name="comment">Death of the Reprobate is an oil on panel painting by Hieronymus Bosch which depicts the deathbed struggle for the human soul between the angel and the demon. The style is somewhat similar to his Death of the Miser. It is currently in a private collection, New York, USA. The painting is likely a copy of detail from a larger hell panel. It dates from the second half of the sixteenth century.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BoschDeathOfTheReprobate.jpg/200px-BoschDeathOfTheReprobate.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Hieronymus_Bosch</field>
+<field name="image"/>
+<field name="title">Death of the Reprobate</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Death_of_the_Reprobate</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Death_of_the_Reprobate</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Death_of_the_Reprobate</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Death_of_the_Reprobate</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_the_reprobate</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5247601</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Reprobate</field>
+</doc>
+</add>

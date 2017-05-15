@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Atropos_(Goya)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Atropos_(Goya)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Atropos_(Goya)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3543882</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Átropos_o_Las_Parcas</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Атропа_(картина_Гойи)</field>
+<field name="sameAs">http://dbpedia.org/resource/Atropos_(Goya)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Atropos_(Goya)</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Άτροπος_(Γκόγια)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Parki_(obraz_Goi)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Àtropos_o_Les_Parques</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmhn_7</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">Atropos, or The Fates is one of the 14 black paintings painted by Francisco de Goya between 1819-23. Goya, then 75 and in mental and physical despair, created the series directly onto the interior walls of the house known as "The House of the Deaf Man" (Quinta del Sordo), purchased in 1819. It probably occupied a position on the second floor of the house beside the Fight with Cudgels and across from the Fantastic Vision. Like the rest of the black paintings, it was transferred to canvas in 1873-74 under the supervision of Salvador Martínez Cubells, a curator at the Museo del Prado. The owner, Baron Emile d'Erlanger, donated the canvases to the Spanish state in 1881, and they are now on display at the Prado. The painting is a reinterpretation of the mythological subject of the goddesses of destiny- the Moirai or fates as recounted in Homer, Hesiod, Virgil and other classical writers. These "Daughters of Night" were headed by Atropos, the inexorable goddess of death, who carries a few scissors to cut the thread of life; Clotho, with her distaff (which Goya replaces with a doll or newborn child, possibly an allegory of life), and Lachesis, the spinning one, which in this representation looks across a lens or in a mirror and symbolizes time, since she was the one who measured the length of the fiber. To the three female figures suspended in the air a fourth figure is added in the foreground. Possibly male, this figure's hands are bound behind him as if is captive. If this interpretation is true, the fates would be deciding the destiny of the man whose bound hands cannot be opposed to his fate. It has been speculated that he may represent Prometheus, who was bound on a mountain and left to be savaged by an eagle as punishment for stealing fire from Mount Olympus. All four are hideously ugly. The painting's range of color is diminished, as much or even more so than the other black paintings, to ochres and blacks. This reinforces a nocturnal and unreal atmosphere, appropriate to the mythical subject of this work. The arbitrary, irrational aspects of Goyas black paintings have given them a place as precursors to Modern art.</field>
+<field name="label">Atropos (Goya)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c8/Atropos_o_Las_Parcas.jpg</field>
+<field name="comment">Atropos, or The Fates is one of the 14 black paintings painted by Francisco de Goya between 1819-23. Goya, then 75 and in mental and physical despair, created the series directly onto the interior walls of the house known as "The House of the Deaf Man" (Quinta del Sordo), purchased in 1819. It probably occupied a position on the second floor of the house beside the Fight with Cudgels and across from the Fantastic Vision.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Atropos_o_Las_Parcas.jpg/200px-Atropos_o_Las_Parcas.jpg</field>
+<field name="link_external">http://www.ucm.es/BUCM/tesis/bba/ucm-t25732.pdf</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Atropos_(Goya)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Atropos_(Goya)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Átropos_o_Las_Parcas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Atropos_(Goya)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Atropos_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Атропа_(картина_Гойи)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Atropos_(Goya)</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Άτροπος_(Γκόγια)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Atropos_(Goya)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Parki_(obraz_Goi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Atropos_(Goya)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3543882</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Atropos_(Goya)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Àtropos_o_Les_Parques</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Atropos_(Goya)</field>
+</doc>
+</add>

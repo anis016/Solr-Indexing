@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Flower_Book</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Flower_Book_(Edward_Burne-Jones)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Flower_Book_(Edward_Burne-Jones)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7734529</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flower_Book_(Edward_Burne-Jones)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j25y4w</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Watercolours</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edward_Burne-Jones</field>
+<field name="abstract">The Flower Book by Edward Burne-Jones (1833-1898) is a series of 38 round watercolours, each about six inches across, painted from 1882 to 1898. The paintings do not depict flowers; rather, they were inspired by the flowers' names. Burne-Jones called them "a series of illustrations to the Names of Flowers". "Not a single flower itself appears", according to his wife Georgiana. They were painted for his private pleasure, many while he was resting at his summer home in Rottingdean, and were described by his wife as the "most soothing piece of work that he ever did". In 1905 Georgiana, by then a widow, published a limited edition of high-quality printed facsimiles.</field>
+<field name="label">The Flower Book (Edward Burne-Jones)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/de/Edward-Burne-Jones-Wake-Dearest.jpg</field>
+<field name="comment">The Flower Book by Edward Burne-Jones (1833-1898) is a series of 38 round watercolours, each about six inches across, painted from 1882 to 1898. The paintings do not depict flowers; rather, they were inspired by the flowers' names. Burne-Jones called them "a series of illustrations to the Names of Flowers". "Not a single flower itself appears", according to his wife Georgiana.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/de/Edward-Burne-Jones-Wake-Dearest.jpg/200px-Edward-Burne-Jones-Wake-Dearest.jpg</field>
+<field name="link_external">http://www.youtube.com/watch?v=zozvLknxHZg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Flower_Book_(Edward_Burne-Jones)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Flower_Book_(Edward_Burne-Jones)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Flower_Book_(Edward_Burne-Jones)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Flower_Book_(Edward_Burne-Jones)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7734529</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flower_Book_(Edward_Burne-Jones)</field>
+</doc>
+</add>

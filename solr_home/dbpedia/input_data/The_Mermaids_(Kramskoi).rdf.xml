@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Mermaids_(Kramskoi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Mermaids_(Kramskoi)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Mermaids_(Kramskoi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4400244</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bh8pq5</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Русалки_(картина_Крамского)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mermaids_(Kramskoi)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Mermaids_(Kramskoi)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ivan_Kramskoi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1871_paintings</field>
+<field name="abstract">The Mermaids is a 1871 oil on canvas by the Russian artist Ivan Kramskoi. It depicts nineteen rusalki, who, according to Slavic mythology, were river or lake spirits who appeared at night in the form of young women. Some versions of the myths describe them as spirits who had died unbaptised or unmarried, or had drowned themselves following an unrequited love. They would emerge from the water at night, to sing and dance. They fulfilled a similar folkloric role to sirens; often enchanting young men before luring them to their deaths at the bottom of the water. The painting is based around works by Alexander Pushkin and Nikolai Gogol's 1831 fantastic story "A May Night, or The Drowned Maidens", and shows that despite the realist principles of the newly formed Peredvizhniki movement in which Kramskoi was a leading light, the artist continued to be interested in more Romantic fantasy and fairy-tale subject matter. The painting is set at night and is almost entirely without colour. The women occupy the centre mid-ground of the painting and are lit from high above the left hand of the canvas, presumably by the moon. The source of light throws shadow inconsistently. Most of the women are huddled together in a row, while some are at the edge of the bank or alone to the right seemingly lost in their own thoughts. In the left foreground the last of Kramskoi's rusalki is emerging from among the reeds, while in the background one of the women wrings out the water from her hair. The water bank is at the foot of a steep hill and surrounded by deep forest to the right. At the top of the small hill and to the right background is a small, seemingly unnoccupied cabin. The subject matter and composition is likely to have been influenced by the work of the Hungarian painter and designer Hans Makart. The Mermaids is held in the Tretyakov Gallery, Moscow.</field>
+<field name="label">The Mermaids (Kramskoi)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3c/Iwan_Nikolajewitsch_Kramskoj_002.jpg</field>
+<field name="comment">The Mermaids is a 1871 oil on canvas by the Russian artist Ivan Kramskoi. It depicts nineteen rusalki, who, according to Slavic mythology, were river or lake spirits who appeared at night in the form of young women. Some versions of the myths describe them as spirits who had died unbaptised or unmarried, or had drowned themselves following an unrequited love. They would emerge from the water at night, to sing and dance.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Iwan_Nikolajewitsch_Kramskoj_002.jpg/200px-Iwan_Nikolajewitsch_Kramskoj_002.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Mermaids_(Kramskoi)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Mermaids_(Kramskoi)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Русалки_(картина_Крамского)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mermaids_(Kramskoi)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4400244</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mermaids_(Kramskoi)</field>
+</doc>
+</add>

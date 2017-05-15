@@ -1,0 +1,80 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Klinik_Gross</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gross_Clinic</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/グロス・クリニック</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gross_Clinic</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Gross_Clinic</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1213936</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/The_Gross_Clinic</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Gross_Clinic</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/グロス・クリニック</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dy5fh</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gross_Clinic</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Klinik_Gross</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1875_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Philadelphia_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="abstract">The Gross Clinic, or, The Clinic of Dr. Gross, is an 1875 painting by American artist Thomas Eakins. It is oil on canvas and measures 8 feet by 6.5 feet . Dr. Samuel D. Gross, a seventy-year-old professor dressed in a black frock coat, lectures a group of Jefferson Medical College students. Included among the group is a self-portrait of Eakins, who is seated to the right of the tunnel railing, sketching or writing. Seen over Dr. Gross's right shoulder is the clinic clerk, Dr. Franklin West, taking notes on the operation. Eakins's signature is painted into the painting, on the front of the surgical table.</field>
+<field name="label">The Gross Clinic</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/41/Thomas_Eakins,_American_-_Portrait_of_Dr._Samuel_D._Gross_(The_Gross_Clinic)_-_Google_Art_Project.jpg</field>
+<field name="comment">The Gross Clinic, or, The Clinic of Dr. Gross, is an 1875 painting by American artist Thomas Eakins. It is oil on canvas and measures 8 feet by 6.5 feet . Dr. Samuel D. Gross, a seventy-year-old professor dressed in a black frock coat, lectures a group of Jefferson Medical College students. Included among the group is a self-portrait of Eakins, who is seated to the right of the tunnel railing, sketching or writing. Seen over Dr. Gross's right shoulder is the clinic clerk, Dr.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Thomas_Eakins,_American_-_Portrait_of_Dr._Samuel_D._Gross_(The_Gross_Clinic)_-_Google_Art_Project.jpg/200px-Thomas_Eakins,_American_-_Portrait_of_Dr._Samuel_D._Gross_(The_Gross_Clinic)_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.npr.org/templates/story/story.php?storyId=6622315</field>
+<field name="link_external">http://www.npr.org/templates/story/story.php?storyId=6626805</field>
+<field name="link_external">http://www.philamuseum.org/collections/permanent/299524.html?mulR=3970</field>
+<field name="artist"/>
+<field name="height">240</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Gross Clinic</field>
+<field name="type">oil on canvas</field>
+<field name="width">200</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Gross_Clinic</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Gross_Clinic</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_gross_clinic</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gross_Clinic</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Clinic_of_Dr._Gross</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Gross_Clinic</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Gross_Clinic</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1213936</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gross_Clinic</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/The_Gross_Clinic</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gross_Clinic</field>
+</doc>
+</add>

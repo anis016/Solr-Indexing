@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Spanish_Singer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Spanish_Singer</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Spanish_Singer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_Spaanse_zanger</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Spanish_Singer</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Spanish_Singer</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Gitarzysta_(Hiszpański_śpiewak)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Chanteur_espagnol</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmgxqz</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2024709</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_chitarrista_spagnolo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_%C3%89douard_Manet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1860_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="abstract">The Spanish Singer is a 1860 painting by the French painter Édouard Manet, conserved since 1949 at the Metropolitan Museum of Art of New York. It was composed in Manet's studio and used a model and props which were later used for at least another painting. The work is both realistic and exotic and shows the influence of Spanish art, especially that of Diego Velázquez, on Manet's style. The painting allowed Manet to be accepted for the first time at the Salon of Paris in 1861, where he also exhibited a portrait of his parents. The Spanish Singer received positive criticism at the time and won a decent mention. It was appreciated by French writer Charles Baudelaire, and by French journalist and literary critic Theophile Gautier, who praised the painting for its "very true color" and "vigorous brush". This painting helped Manet become the leader of the avant-garde movement and inspired a group of young artists, including Henri Fantin-Latour and Carolus-Duran, who decided to visit Manet's studio.</field>
+<field name="label">The Spanish Singer</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/40/Edouard_Manet_061.jpg</field>
+<field name="comment">The Spanish Singer is a 1860 painting by the French painter Édouard Manet, conserved since 1949 at the Metropolitan Museum of Art of New York. It was composed in Manet's studio and used a model and props which were later used for at least another painting. The work is both realistic and exotic and shows the influence of Spanish art, especially that of Diego Velázquez, on Manet's style.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Edouard_Manet_061.jpg/200px-Edouard_Manet_061.jpg</field>
+<field name="artist">http://dbpedia.org/resource/%C3%89douard_Manet</field>
+<field name="city">http://dbpedia.org/resource/New_York</field>
+<field name="height">147.3</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">The Spanish Singer</field>
+<field name="type">oil on canvas</field>
+<field name="width">114.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Spanish_Singer</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Spanish_Singer</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Chanteur_espagnol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Spanish_Singer</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Chanteur_espagnol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_chitarrista_spagnolo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Spanish_Singer</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Gitarzysta_(Hiszpański_śpiewak)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Spanish_Singer</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_Spaanse_zanger</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Spanish_Singer</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2024709</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Spanish_Singer</field>
+</doc>
+</add>

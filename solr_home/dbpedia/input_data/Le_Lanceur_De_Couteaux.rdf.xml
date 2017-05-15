@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Lanceur_De_Couteaux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vnvmm</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6507135</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Lanceur_De_Couteaux</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Le_Lanceur_De_Couteaux</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1947_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Le Lanceur De Couteaux is a paper cut by Henri Matisse from 1947. It is from Jazz, 1947. Tériade, a noted 20th century art publisher, arranged to have Matisse's cutouts rendered as pochoir prints. The knife thrower was a popular print from the Jazz portfolio.</field>
+<field name="label">Le Lanceur De Couteaux</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3e/Lanceur_Matisse.jpg</field>
+<field name="comment">Le Lanceur De Couteaux is a paper cut by Henri Matisse from 1947. It is from Jazz, 1947. Tériade, a noted 20th century art publisher, arranged to have Matisse's cutouts rendered as pochoir prints. The knife thrower was a popular print from the Jazz portfolio.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Lanceur_Matisse.jpg/200px-Lanceur_Matisse.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Houston</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Menil_Collection</field>
+<field name="title">Le Lanceur De Couteaux</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Le_Lanceur_De_Couteaux</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Le_Lanceur_De_Couteaux</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Le_Lanceur_De_Couteaux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Le_Lanceur_De_Couteaux</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6507135</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Lanceur_De_Couteaux</field>
+</doc>
+</add>

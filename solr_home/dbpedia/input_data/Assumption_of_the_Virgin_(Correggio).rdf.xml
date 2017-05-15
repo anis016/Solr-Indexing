@@ -1,0 +1,79 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Asunción_de_la_Virgen_(Correggio)</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Correggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Assumption_of_the_Virgin_(Correggio)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Assomption_de_la_Vierge_(Le_Corrège)</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Mergelės_paėmimas_į_dangų_(Correggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Assunzione_della_Vergine_(Correggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c4nfn</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q771210</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Correggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="abstract">The Assumption of the Virgin is a fresco by the Italian Late Renaissance artist Antonio da Correggio decorating the dome of the Cathedral of Parma, Italy. Correggio signed the contract for the painting on November 3, 1522. It was finished in 1530. The composition was influenced by Melozzo da Forlì's perspective and includes the decoration of the dome base, which represents the four protector saints of Parma: St. John the Baptist with the lamb, St. Hilary with a yellow mantle, St. Thomas (or Joseph) with an angel carrying the martyrdom palm leaf, and St. Bernard, the sole figure looking upwards. Below the feet of Jesus, the uncorrupt Virgin in red and blue robes is lofted upward by a vortex of singing or otherwise musical angels. Ringing the base of the dome, between the windows, stand the perplexed Apostles, as if standing around the empty tomb in which they have just placed her. In the group of the blessed can be seen: Adam and Eve, Judith with the head of Holofernes. At the centre of the dome is a foreshortened beardless Jesus descending to meet his mother. Correggio's Assumption would eventually serve as a catalyst and inspiration for the dramatically-illusionistic, di sotto in su ceiling paintings of the 17th-century Baroque period. In Correggio's work, and in the work of his Baroque heirs, the entire architectural surface is treated as a single pictorial unit of vast proportions and opened up via painting, so that the dome of the church is equated with the vault of heaven. The illusionistic manner in which the figures seem to protrude into the spectators' space was, at the time, an audacious and astounding use of foreshortening, though the technique later became common among Baroque artists who specialized in illusionistic vault decoration. Among many other works, Correggio's Assumption inspired Carlo Cignani for his fresco Assumption of the Virgin, in the cathedral church of Forlì; and Giovanni Lanfranco's fresco of the dome in the church of Sant'Andrea della Valle in Rome.</field>
+<field name="label">Assumption of the Virgin (Correggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a5/Cupola_Duomo_Parma_Correggio.jpg</field>
+<field name="comment">The Assumption of the Virgin is a fresco by the Italian Late Renaissance artist Antonio da Correggio decorating the dome of the Cathedral of Parma, Italy. Correggio signed the contract for the painting on November 3, 1522. It was finished in 1530. The composition was influenced by Melozzo da Forlì's perspective and includes the decoration of the dome base, which represents the four protector saints of Parma: St. John the Baptist with the lamb, St. Hilary with a yellow mantle, St.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Cupola_Duomo_Parma_Correggio.jpg/200px-Cupola_Duomo_Parma_Correggio.jpg</field>
+<field name="link_external">http://www.wga.hu/index1.html</field>
+<field name="link_external">http://easyweb.easynet.co.uk/giorgio.vasari/corregg/correg.htm</field>
+<field name="link_external">http://www.cattedrale.parma.it/page.asp?IDData=15845&amp;IDCategoria=500&amp;IDSezione=2379</field>
+<field name="artist"/>
+<field name="height">1093</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Assumption of the Virgin</field>
+<field name="type">Fresco</field>
+<field name="width">1195</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Correggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Assumption_of_the_Virgin_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Asunción_de_la_Virgen_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Assunzione_della_Vergine_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/1530_in_art</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Assumption_of_the_Virgin_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Assomption_de_la_Vierge_(Le_Corrège)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q771210</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Mergelės_paėmimas_į_dangų_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Assumption_of_the_Virgin_(Correggio)</field>
+</doc>
+</add>

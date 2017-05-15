@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ince_Hall_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระแม่มารีและพระบุตรอ่านหนังสือ_(ยาน_ฟาน_เอค)</field>
+<field name="sameAs">http://dbpedia.org/resource/Ince_Hall_Madonna</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02ryd8s</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Vierge_à_l'Enfant_lisant</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q837829</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ince_Hall_Madonna</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Ince-Hall-Madonna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1433_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jan_van_Eyck</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_National_Gallery_of_Victoria</field>
+<field name="abstract">The Virgin and Child Reading (also the Ince Hall Madonna) is an oil painting attributed to the Early Netherlandish master Jan van Eyck, from 1433. It is on display in the National Gallery of Victoria in Melbourne. The inscription on the wall at top left says: "COPLETV ANO D M CCCC XXXIIJ P IOHEM DE EYC BRVGIS". There is a motto on the right: "ALC IXH XAN" ("As I Can").</field>
+<field name="label">Ince Hall Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3e/Jan_van_Eyck_075.jpg</field>
+<field name="comment">The Virgin and Child Reading (also the Ince Hall Madonna) is an oil painting attributed to the Early Netherlandish master Jan van Eyck, from 1433. It is on display in the National Gallery of Victoria in Melbourne. The inscription on the wall at top left says: "COPLETV ANO D M CCCC XXXIIJ P IOHEM DE EYC BRVGIS". There is a motto on the right: "ALC IXH XAN" ("As I Can").</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Jan_van_Eyck_075.jpg/200px-Jan_van_Eyck_075.jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/a/albani/4winter.html</field>
+<field name="artist">http://dbpedia.org/resource/Jan_van_Eyck</field>
+<field name="city"/>
+<field name="height">26.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Victoria</field>
+<field name="title">Virgin and Child Reading</field>
+<field name="type">Oil on wood</field>
+<field name="width">19.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ince_Hall_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ince_Hall_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Ince-Hall-Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ince_Hall_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Vierge_à_l'Enfant_lisant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ince_Hall_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_Child_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_the_Child_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Virgin_and_Child_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Virgin_and_Child_Reading_(Van_Eyck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ince_Hall_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ince_Hall_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q837829</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ince_Hall_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระแม่มารีและพระบุตรอ่านหนังสือ_(ยาน_ฟาน_เอค)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ince_Hall_Madonna</field>
+</doc>
+</add>

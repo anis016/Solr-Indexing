@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Vale_of_Rest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Vale_of_Rest</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gg639y</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q470541</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Vale_of_Rest</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/A_nyugalom_völgye</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1859_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1858_paintings</field>
+<field name="abstract">The Vale of Rest (1858-9) is a painting by John Everett Millais. The painting is of a graveyard, as night is coming on. Beyond the graveyard wall there's a low chapel with a bell. In the foreground of the scene, there are two nuns - the heads of the two nuns are level and symmetrical. They're Roman Catholic nuns, one of the nuns holds a rosary, and one of the nuns is digging a grave. Her forearm and body strain under the weight of a shovelful. The other, overseeing the work, turns with a look of apprehension, anguish. Art critic, Tom Lubbock : " Graves. Dusk. A walled enclosure. The spooky, looming trees. Nuns. Catholics (in England then, still an object of suspicion). Sexual segregation. Religiosity. Mistress and servant, a power relationship, maybe some deeper emotional bondage. Female labour. Something being buried or exhumed. Twin wreaths. The deep dark earth. Corpses, secrets, conspiracy, fear. It's a picture that pulls out all the stops. " The painting is one of those satirised in Florence Claxton's watercolour The Choice of Paris - an idyll (1860). Claxton criticized " the perceived ugliness of early pre-Raphaelite paintings by exaggerating details from many of their works, including The Vale of Rest, Claudio and Isabella, and, lying in the grass, Alice Gray from Spring "</field>
+<field name="label">The Vale of Rest</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0f/Millais_-_Das_Tal_der_Stille.jpg</field>
+<field name="comment">The Vale of Rest (1858-9) is a painting by John Everett Millais. The painting is of a graveyard, as night is coming on. Beyond the graveyard wall there's a low chapel with a bell. In the foreground of the scene, there are two nuns - the heads of the two nuns are level and symmetrical. They're Roman Catholic nuns, one of the nuns holds a rosary, and one of the nuns is digging a grave. Her forearm and body strain under the weight of a shovelful.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Millais_-_Das_Tal_der_Stille.jpg/200px-Millais_-_Das_Tal_der_Stille.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/millais-the-vale-of-rest.html</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="image"/>
+<field name="imageSize">380</field>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">The Vale of Rest</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Vale_of_Rest</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Vale_of_Rest</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Vale_of_Rest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Vale_of_Rest</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q470541</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Vale_of_Rest</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/A_nyugalom_völgye</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Vale_of_Rest</field>
+</doc>
+</add>

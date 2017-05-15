@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pyramid_of_Skulls</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Kəllə_piramidası</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2258217</field>
+<field name="sameAs">http://dbpedia.org/resource/Pyramid_of_Skulls</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Schädelpyramide</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Pyramid_of_Skulls</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glpv3d</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1900s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_C%C3%A9zanne</field>
+<field name="abstract">Pyramid of Skulls is a c. 1901 oil painting by French Post-Impressionist artist Paul Cézanne. It depicts four human skulls stacked in a pyramidal configuration. Painted in a pale light against a dark background, Pyramid of Skulls is exceptional in the artist's oeuvre, for "in no other painting did Cézanne place his objects so close to the viewer. " For art historian Françoise Cachin, "these bony visages all but assault the viewer, displaying an assertiveness very much at odds with the usual reserve of domestic still-life tableaux. " Working in isolation in the last decade of his life, Cézanne frequently alluded to mortality in his letters: "For me, life has begun to be deathly monotonous"; "As for me, I'm old. I won't have time to express myself"; and "I might as well be dead. " It is possible that the death of his mother on October 25, 1897—she had been a protective and supportive influence—accelerated his meditations on mortality, a subject which had obsessed the artist since the late 1870s, but did not find pictorial form for another twenty years. Cézanne's health started to deteriorate at the same time. The dramatic resignation to death informs a number of still life paintings he made between 1898 and 1905 of skulls. These works, some painted in oils and some with watercolor, are more subtle in meaning yet also more visually stark than the traditional approach to the theme of vanitas. Cézanne's interest in the subject may have had roots in thoughts other than the contemplation of death. He could have been drawn to the skulls' volumetric forms, just as he was to those of fruits and vases, and he supposedly exclaimed "How beautiful a skull is to paint!" They also share physical similarities with his self-portrayals: "the skulls confront the viewer straight-on in a manner reminiscent of the artist's portraits. " In both sets of works the mass of the cranium is emphasized: in the self-portraits the lower half of his face is obscured by his beard, while the skulls lack lower jaws altogether. In both series attention is focused on the round pate and eye sockets. There would have been further reason for the subject to interest Cézanne: skulls were prominent in the homes of Catholics, and Cézanne was a devout Catholic knowledgeable in ancient Christian texts. Human skulls had also long been common accessories in artists' studios. Indeed, the contents of Cézanne's studio were known to include "three skulls, (and) an ivory Christ on an ebony cross" near one another on the mantelpiece. Joachim Gasquet, a friend of the artist, later recalled "on his last mornings he clarified this idea of death into a heap of bony brainpans to which the eyeholes added a bluish notion. I can still hear him reciting to me, one evening along the Arc River, the quatrain by Verlaine: For in this lethargic world Perpetually prey to old remorse The only laughter to still make sense Is that of death's heads. " Pyramid of Skulls was painted at Cézanne's studio in Aix, where he worked prior to his move into the new Les Lauves studio in September 1902. A visitor to the studio in July 1902 wrote: "In his bedroom, on a narrow table in the middle, I noticed three human skulls facing one another, three beautiful polished ivories. He spoke of a very good painted study that was somewhere in the attic. I wanted to see it. " But Cézanne could not find the key to the garret, and blamed his maid for its misplacement. A watercolor study, Three Skulls, at the Art Institute of Chicago, is similar in composition, though relatively more graceful in handling. The skull studies would serve as inspiration to 20th-century artists like Pablo Picasso and Andy Warhol. Today the skulls themselves remain in Cézanne's studio outside of Aix-en-Provence.</field>
+<field name="label">Pyramid of Skulls</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/83/Paul_Cézanne,_Pyramid_of_Skulls,_c._1901.jpg</field>
+<field name="comment">Pyramid of Skulls is a c. 1901 oil painting by French Post-Impressionist artist Paul Cézanne. It depicts four human skulls stacked in a pyramidal configuration. Painted in a pale light against a dark background, Pyramid of Skulls is exceptional in the artist's oeuvre, for "in no other painting did Cézanne place his objects so close to the viewer.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Paul_Cézanne,_Pyramid_of_Skulls,_c._1901.jpg/200px-Paul_Cézanne,_Pyramid_of_Skulls,_c._1901.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Pyramid_of_Skulls</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pyramid_of_Skulls</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Pyramid_of_Skulls</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Pyramid_of_Skulls</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Schädelpyramide</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pyramid_of_Skulls</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2258217</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pyramid_of_Skulls</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Kəllə_piramidası</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pyramid_of_Skulls</field>
+</doc>
+</add>

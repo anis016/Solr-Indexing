@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adrianus_Jacobus_Zuyderland_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adrianus_Jacobus_Zuyderland_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adrianus_Jacobus_Zuyderland_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adrianus_Jacobus_Zuyderland_(Van_Gogh_series)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j44l7v</field>
+<field name="sameAs">http://dbpedia.org/resource/Adrianus_Jacobus_Zuyderland_(Van_Gogh_series)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4685611</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="abstract">Adrianus Jacobus Zuyderland was Vincent van Gogh's favorite model during his Hague period. He appears in dozens of drawings, easily identified by his bald head and prominent white whiskers, and he was the model for van Gogh's iconic painting At Eternity's Gate.</field>
+<field name="label">Adrianus Jacobus Zuyderland (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/32/Vincent_van_Gogh_-_Orphan_Man_with_Top_Hat_(F954).jpg</field>
+<field name="comment">Adrianus Jacobus Zuyderland was Vincent van Gogh's favorite model during his Hague period. He appears in dozens of drawings, easily identified by his bald head and prominent white whiskers, and he was the model for van Gogh's iconic painting At Eternity's Gate.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Vincent_van_Gogh_-_Orphan_Man_with_Top_Hat_(F954).jpg/200px-Vincent_van_Gogh_-_Orphan_Man_with_Top_Hat_(F954).jpg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="height">40</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Worcester_Art_Museum</field>
+<field name="title">Orphan Man with Top Hat</field>
+<field name="type">Graphite drawing with white heightening on cream wove paper</field>
+<field name="width">24.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adrianus_Jacobus_Zuyderland_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adrianus_Jacobus_Zuyderland_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4685611</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adrianus_Jacobus_Zuyderland_(Van_Gogh_series)</field>
+</doc>
+</add>

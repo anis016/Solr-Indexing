@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hermit_of_Tong</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hermit_of_Tong</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5741750</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04yc591</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hermit_of_Tong</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lost_paintings</field>
+<field name="abstract">"The Hermit of Tong" is a missing/lost masterpiece of the British artist, William Armfield Hobday (1771–1831). The painting is a portrait of Carolus, aka Charles Evans, resident Hermit on the estate of Colonel Durant, Tong Castle, Shropshire, England. In the biography of William Armfield Hobday, printed in Arnolds' Library of the Fine Arts in 1831, the painting and hermit are described as follows: "If, as it is said, genius is more felicitous at one time than another, certain it is that Hobday while at Broad Street painted a picture, the like of which he never did before nor after; viz. the painting known as the Hermit of Tong, and individual passing under the name of Carolus, living on the estate of Colonel Durant in Staffordshire [actually, Shropshire]. This work is distinguished by a fine subdued brilliancy in the flesh, depth and transparency in the shadows, and great harmony of colouring in the whole. It represented the Hermit at the mouth of his Hermitage, the left elbow resting on a book and hand raised to the temples; the back part of his head was enveloped in a hood, and the transparency of its shadow on the upper part of the head was particularly clear, rich, and well painted, and the folds of his dark brown habit were broad and easy. Altogether this was undoubtedly his chef-d'oevre. Many were the applicants for its purchase; but, with all its Excellencies, no one would give the moderate sum he fixed, of 100 guineas; and this likewise went, like all his other effects, at the sale. " The location of this portrait of the Hermit of Tong is unknown. The last mention of the painting in the literature is in the bankruptcy proceedings, sales of personal goods and effects, of William Armfield Hobday, in London, 1829. Renewed interest in Hobday's work has created a strong drive to locate this painting, as its value has increased significantly, reputed to be worth 800,000 pounds sterling.</field>
+<field name="label">Hermit of Tong</field>
+<field name="comment">"The Hermit of Tong" is a missing/lost masterpiece of the British artist, William Armfield Hobday (1771–1831). The painting is a portrait of Carolus, aka Charles Evans, resident Hermit on the estate of Colonel Durant, Tong Castle, Shropshire, England.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hermit_of_Tong</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hermit_of_Tong</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hermit_of_tong</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hermit_of_Tong</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hermit_of_Tong</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5741750</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hermit_of_Tong</field>
+</doc>
+</add>

@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gravitation_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gravitation_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03w3p5</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Gravitation_(M._C._Escher)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Yer_çekimi_(M._C._Escher)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5597990</field>
+<field name="sameAs">http://dbpedia.org/resource/Gravitation_(M._C._Escher)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1952_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="abstract">Gravitation (also known as Gravity) is a mixed media work by the Dutch artist M. C. Escher which was completed in June, 1952. It was first printed as a black-and-white lithograph and then coloured by hand in watercolour. It depicts a nonconvex regular polyhedron known as the small stellated dodecahedron. Each facet of the figure has a trapezoidal doorway. Out of these doorways protrude the heads and legs of twelve turtles without shells, who are using the object as a common shell. The turtles are in six coloured pairs (red, orange, yellow, magenta, green and indigo) with each turtle directly opposite its counterpart.</field>
+<field name="label">Gravitation (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c7/Gravitation.jpg</field>
+<field name="comment">Gravitation (also known as Gravity) is a mixed media work by the Dutch artist M. C. Escher which was completed in June, 1952. It was first printed as a black-and-white lithograph and then coloured by hand in watercolour. It depicts a nonconvex regular polyhedron known as the small stellated dodecahedron. Each facet of the figure has a trapezoidal doorway. Out of these doorways protrude the heads and legs of twelve turtles without shells, who are using the object as a common shell.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Gravitation.jpg/200px-Gravitation.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Gravitation</field>
+<field name="type">lithograph and watercolor</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Gravitation_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Gravitation_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Gravitation_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Gravitation_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5597990</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gravitation_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Yer_çekimi_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gravitation_(M._C._Escher)</field>
+</doc>
+</add>

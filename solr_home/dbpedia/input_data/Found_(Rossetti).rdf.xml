@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Found_(Rossetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j28tky</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Found_(Rossetti)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5474251</field>
+<field name="sameAs">http://dbpedia.org/resource/Found_(Rossetti)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Prostitution</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Delaware_Art_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="abstract">Found is an unfinished oil painting by Dante Gabriel Rossetti, now in the Delaware Art Museum. The painting is Rossetti's only treatment in oil of a contemporary moral subject, urban prostitution, and although the work remained incomplete at Rossetti's death in 1882, he always considered it one of his most important works, returning to it many times from the mid-1850s until the year before his death.</field>
+<field name="label">Found (Rossetti)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1f/Found_rossetti.jpg</field>
+<field name="comment">Found is an unfinished oil painting by Dante Gabriel Rossetti, now in the Delaware Art Museum. The painting is Rossetti's only treatment in oil of a contemporary moral subject, urban prostitution, and although the work remained incomplete at Rossetti's death in 1882, he always considered it one of his most important works, returning to it many times from the mid-1850s until the year before his death.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Found_rossetti.jpg/200px-Found_rossetti.jpg</field>
+<field name="link_external">http://www.rossettiarchive.org/docs/s64.rap.html</field>
+<field name="link_external">http://www.biblegateway.com/passage/?search=Jeremiah+2&amp;version=NIV</field>
+<field name="link_external">http://books.google.com/books?id=wMlLAQAAIAAJ</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">91.4</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Delaware_Art_Museum</field>
+<field name="title">Found</field>
+<field name="type">oil on canvas</field>
+<field name="width">80</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Found_(Rossetti)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Found_(Rossetti)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Found_(Rossetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Found_(Rossetti)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Found</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5474251</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Found_(Rossetti)</field>
+</doc>
+</add>

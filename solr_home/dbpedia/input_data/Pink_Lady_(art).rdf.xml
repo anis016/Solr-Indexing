@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pink_lady_(art)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pink_Lady</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pink_Lady_(art)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g9655</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7196036</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Pink_Lady_(art)</field>
+<field name="sameAs">http://dbpedia.org/resource/Pink_Lady_(art)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Public_art_in_the_United_States</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1966_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Graffiti_in_the_United_States</field>
+<field name="abstract">The Pink Lady was a short-lived painting on a rock face near Malibu, California in 1966. The painting was created by Lynne Seemayer, a paralegal from Northridge, California, and depicted a 60-foot (18m) tall, nude woman in a running position.</field>
+<field name="label">Pink Lady (art)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b5/Pink-lady.jpg</field>
+<field name="comment">The Pink Lady was a short-lived painting on a rock face near Malibu, California in 1966. The painting was created by Lynne Seemayer, a paralegal from Northridge, California, and depicted a 60-foot (18m) tall, nude woman in a running position.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Pink-lady.jpg/200px-Pink-lady.jpg</field>
+<field name="link_external">http://wikimapia.org/9728285/The-Pink-Lady-of-Malibu</field>
+<field name="link_external">http://maps.google.com/maps?hl=en&amp;geocode=&amp;ie=UTF8&amp;q=http:%2F%2Fbbs.keyhole.com%2Fubb%2Fplacemarks%2F258578-ThePinkLady.kmz&amp;ftid=3ACCEB62836EFB11&amp;ll=34.069836,-118.707173&amp;spn=0.004061,0.006652&amp;t=h&amp;z=17</field>
+<field name="link_external">http://www.csudh.edu/oliver/sabrep/sabrep.htm</field>
+<field name="link_external">http://www.snopes.com/autos/hazards/pinklady.asp</field>
+<field name="link_external">http://coveringterrain.wordpress.com/2011/05/22/context-la/</field>
+<field name="link_external">http://laist.com/2008/07/19/laistory_pink_lady_of_malibu.php</field>
+<field name="link_external">http://www.flickr.com/photos/kkanouse/502726754/sizes/o/in/photostream/</field>
+<field name="link_external">http://blogging.la/2004/04/21/the-pink-lady-of-malibu/</field>
+<field name="width">240</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Pink_Lady_(art)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pink_Lady_(art)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Pink_Lady_(art)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Pink_Lady_(art)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7196036</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pink_Lady_(art)</field>
+</doc>
+</add>

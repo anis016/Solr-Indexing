@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Unfinished_portrait_of_Franklin_D._Roosevelt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Unfinished_portrait_of_Franklin_D._Roosevelt</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/未完成的羅斯福肖像</field>
+<field name="sameAs">http://dbpedia.org/resource/Unfinished_portrait_of_Franklin_D._Roosevelt</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7884355</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02_mhz</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1945_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Franklin_D._Roosevelt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:20th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Unfinished_paintings</field>
+<field name="abstract">The Unfinished Portrait is a watercolor of Franklin Delano Roosevelt that was in progress at the time of his collapse and subsequent death.</field>
+<field name="label">Unfinished portrait of Franklin D. Roosevelt</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/00/FDR_unfinished.jpg</field>
+<field name="comment">The Unfinished Portrait is a watercolor of Franklin Delano Roosevelt that was in progress at the time of his collapse and subsequent death.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/FDR_unfinished.jpg/200px-FDR_unfinished.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Elizabeth_Shoumatoff</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="title">Unfinished portrait of Franklin D. Roosevelt</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Unfinished_portrait_of_Franklin_D._Roosevelt</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Unfinished_portrait_of_Franklin_D._Roosevelt</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Unfinished_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Unfinished_portrait_of_Franklin_D._Roosevelt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Unfinished_portrait_of_Franklin_D._Roosevelt</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7884355</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Unfinished_portrait_of_Franklin_D._Roosevelt</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/未完成的羅斯福肖像</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Unfinished_portrait_of_Franklin_D._Roosevelt</field>
+</doc>
+</add>

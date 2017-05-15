@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_of_San_Giovanni_Valdarno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_di_San_Giovanni_Valdarno</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Annonciation_de_San_Giovanni_Valdarno</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Annunciation_of_San_Giovanni_Valdarno</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_of_San_Giovanni_Valdarno</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c3yxdm</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3202078</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Fra_Angelico</field>
+<field name="abstract">The Annunciation of San Giovanni Valdarno is a painting by Fra Angelico, painted in 1430 to 1432 in tempera on panel. It measures 195 cm by 158 cm. It was looted from Italy during the Second World War by the Germans and returned to the country via the work of Rodolfo Siviero. It is now held at the Museo della Basilica di Santa Maria delle Grazie in San Giovanni Valdarno.</field>
+<field name="label">Annunciation of San Giovanni Valdarno</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/47/Annunciation_angelico_valdarno.jpg</field>
+<field name="comment">The Annunciation of San Giovanni Valdarno is a painting by Fra Angelico, painted in 1430 to 1432 in tempera on panel. It measures 195 cm by 158 cm. It was looted from Italy during the Second World War by the Germans and returned to the country via the work of Rodolfo Siviero. It is now held at the Museo della Basilica di Santa Maria delle Grazie in San Giovanni Valdarno.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Annunciation_angelico_valdarno.jpg/200px-Annunciation_angelico_valdarno.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Annunciation_of_San_Giovanni_Valdarno</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Annunciation_of_San_Giovanni_Valdarno</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_di_San_Giovanni_Valdarno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_of_San_Giovanni_Valdarno</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Annonciation_de_San_Giovanni_Valdarno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_of_San_Giovanni_Valdarno</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Annunciation_of_San_Giovanni_Valdarno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Annunciation_of_San_Giovanni_Valdarno</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3202078</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_of_San_Giovanni_Valdarno</field>
+</doc>
+</add>

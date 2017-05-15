@@ -1,0 +1,106 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Vermählung_Mariä_(Raffael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Los_desposorios_de_la_Virgen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sposalizio_della_Vergine_(Raffaello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Zaślubiny_Marii_z_Józefem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Mariage_de_la_Vierge_(Raphaël)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Обручение_Девы_Марии_(картина_Рафаэля)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Bakirənin_toyu_(Rafael)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Vermählung_Mariä_(Raffael)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Zaślubiny_Marii_z_Józefem</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2030685</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Los_desposorios_de_la_Virgen</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sposalizio_della_Vergine_(Raffaello)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Обручение_Девы_Марии_(картина_Рафаэля)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Mariage_de_la_Vierge_(Raphaël)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/การสมรสของพระนางพรหมจารี_(ราฟาเอล)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08pxxr</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1504_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="abstract">The Marriage of the Virgin, also known as Lo Sposalizio, is an oil painting by Italian High Renaissance artist Raphael. Completed in 1504 for a Franciscan church in Città di Castello, the painting depicts a marriage ceremony between Mary and Joseph. It changed hands several times before settling in 1806 at the Pinacoteca di Brera.</field>
+<field name="label">The Marriage of the Virgin (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/06/Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg</field>
+<field name="comment">The Marriage of the Virgin, also known as Lo Sposalizio, is an oil painting by Italian High Renaissance artist Raphael. Completed in 1504 for a Franciscan church in Città di Castello, the painting depicts a marriage ceremony between Mary and Joseph. It changed hands several times before settling in 1806 at the Pinacoteca di Brera.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/06/Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg/200px-Raffaello_-_Spozalizio_-_Web_Gallery_of_Art.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Milan</field>
+<field name="height">174</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Pinacoteca_di_Brera</field>
+<field name="title">The Marriage of the Virgin</field>
+<field name="width">121</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Marriage_of_the_Virgin_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Marriage_of_the_Virgin_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Marriage_of_the_Virgin_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sposalizio_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2030685</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Bakirənin_toyu_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/การสมรสของพระนางพรหมจารี_(ราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_of_the_Virgin_(Raphael)</field>
+</doc>
+</add>

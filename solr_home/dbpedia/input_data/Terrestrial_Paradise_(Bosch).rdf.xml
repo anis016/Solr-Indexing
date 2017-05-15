@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Visión_del_Más_Allá</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Terrestrial_Paradise_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Terrestrial_Paradise_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Terrestrial_Paradise_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Terrestrial_Paradise_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Terrestrial_Paradise_(Bosch)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Visión_del_Más_Allá</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025zqb9</field>
+<field name="sameAs">http://dbpedia.org/resource/Terrestrial_Paradise_(Bosch)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Kutsanmışın_Göğe_Yükselişi_(Bosch)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Visioenen_uit_het_hiernamaals</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wizje_Sądu_Ostatecznego</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2467518</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="abstract">Terrestrial Paradise is a Hieronymus Bosch painting made in the 16th century. It is currently in the Palazzo Ducale in Venice, Italy. The painting depicts Terrestrial Paradise, where the remaining sins of the saved were washed away. The Fountain of Life stands on top of the hill. This artwork is part of a series of four, the others are Ascent of the Blessed, Fall of the Damned and Hell.</field>
+<field name="label">Terrestrial Paradise (Bosch)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9a/TerrestrialParadise.jpg</field>
+<field name="comment">Terrestrial Paradise is a Hieronymus Bosch painting made in the 16th century. It is currently in the Palazzo Ducale in Venice, Italy. The painting depicts Terrestrial Paradise, where the remaining sins of the saved were washed away. The Fountain of Life stands on top of the hill. This artwork is part of a series of four, the others are Ascent of the Blessed, Fall of the Damned and Hell.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/TerrestrialParadise.jpg/200px-TerrestrialParadise.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Terrestrial Paradise</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Terrestrial_Paradise_(Bosch)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Terrestrial_Paradise_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wizje_Sądu_Ostatecznego</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Terrestrial_Paradise_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Visioenen_uit_het_hiernamaals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Terrestrial_Paradise_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2467518</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Terrestrial_Paradise_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Kutsanmışın_Göğe_Yükselişi_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Terrestrial_Paradise_(Bosch)</field>
+</doc>
+</add>

@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Monarch_of_the_Glen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Monarch_of_the_Glen_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026h1zx</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Monarch_of_the_Glen_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Monarch_of_the_Glen_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3320114</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Monarch_of_the_Glen</field>
+<field name="sameAs">http://mk.dbpedia.org/resource/Монарх_на_гленот_(слика)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1851_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edwin_Landseer</field>
+<field name="abstract">Monarch of the Glen is an oil-on-canvas painting from 1851 by the English painter Sir Edwin Landseer, which was commissioned as part of a series of three panels to hang in the Palace of Westminster in London, England. Copies made from steel engravings were widely distributed. Landseer was a member of the Royal Academy, a favourite of Queen Victoria, and had become famous for his paintings and drawings of animals. His later works include the sculptures of the lions at the foot of Nelson's Column in Trafalgar Square. From the 1840s, he produced a series of intricately observed studies of stags based on those he had seen on the trips he had been making to the Scottish Highlands since 1824. In 1850 Landseer received a national commission to paint three subjects connected with the chase for the Refreshment Rooms of the House of Lords, for which he produced Monarch of the Glen and two other paintings. Once they were completed the House of Commons refused to grant the £150 promised for the commission, and, as a result, the paintings were sold to private collectors. The painting was eventually purchased by Pears soap company and featured in their advertising. It was sold on to John Dewar &amp; Sons distillery and became their trademark before similarly being used by Glenfiddich. The original is now part of the Diageo collection and is currently on display in the National Museum of Scotland, Edinburgh. The logo of The Hartford Financial Services Group, Inc, a U.S. insurance services company, is taken directly from this painting, as is that of Exmoor Ales. Nestlé Waters North America's Deer Park Spring Water uses a variant reverse image on their logo. In 2012 Peter Saville collaborated with Dovecot Studios Edinburgh in celebration of their centenery to create a large scale tapestry of his work After, After Monach of the Glen. This new tapestry commission is Dovecot Studios re appropriation of Peter Saville’s appropriation of Sir Peter Blake’s appropriation of Sir Edwin Landseer’s 1851 painting Monarch of the Glen. Dovecot Studios has woven this new tapestry of Peter Saville’s design, thereby joining an enviable list of artists who have re interpreted this British masterpiece.</field>
+<field name="label">Monarch of the Glen (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a5/LandseerMonarch1851.jpg</field>
+<field name="comment">Monarch of the Glen is an oil-on-canvas painting from 1851 by the English painter Sir Edwin Landseer, which was commissioned as part of a series of three panels to hang in the Palace of Westminster in London, England. Copies made from steel engravings were widely distributed. Landseer was a member of the Royal Academy, a favourite of Queen Victoria, and had become famous for his paintings and drawings of animals.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/LandseerMonarch1851.jpg/200px-LandseerMonarch1851.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Monarch of the Glen</field>
+<field name="type">Oil-on-canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Monarch_of_the_Glen_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Monarch_of_the_Glen_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Monarch_of_the_Glen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Monarch_of_the_Glen_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Monarch_of_the_Glen_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Monarch_of_the_Glen_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3320114</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Monarch_of_the_Glen_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://mk.dbpedia.org/resource/Монарх_на_гленот_(слика)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Monarch_of_the_Glen_(painting)</field>
+</doc>
+</add>

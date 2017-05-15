@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Contarini_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Contarini_Madonna</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_Contarini</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Contarini_Madonna</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx1bc9</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Madonna_Contarini</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1762826</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Bellini</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gallerie_dell'Accademia</field>
+<field name="abstract">The Contarini Madonna is an oil painting by the Italian Renaissance master Giovanni Bellini, dating from c. 1475-1480 now in the Accademia Gallery in Venice.</field>
+<field name="label">Contarini Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e6/Giovanni_bellini,_madonna_contarini.jpg</field>
+<field name="comment">The Contarini Madonna is an oil painting by the Italian Renaissance master Giovanni Bellini, dating from c. 1475-1480 now in the Accademia Gallery in Venice.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Giovanni_bellini,_madonna_contarini.jpg/200px-Giovanni_bellini,_madonna_contarini.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Giovanni_Bellini</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="height">78</field>
+<field name="image"/>
+<field name="imageSize">310</field>
+<field name="museum"/>
+<field name="title">Contarini Madonna</field>
+<field name="type">Oil on panel</field>
+<field name="width">256</field>
+<field name="year">c. 1475-1480</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Contarini_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Contarini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Contarini_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Contarini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_Contarini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Contarini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1762826</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Contarini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Madonna_Contarini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Contarini_Madonna</field>
+</doc>
+</add>

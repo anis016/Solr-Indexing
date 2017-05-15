@@ -1,0 +1,92 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Magdalen_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Maria_Madalena_a_Ler</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Magdalena_leyendo</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Maria_Magdalena_leest</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Maria_Magdalena_läser</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Marie-Madeleine_lisant</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3039856</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magdalen_Reading</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/読書するマグダラのマリア</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Magdalen_Reading</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqr774</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rogier_van_der_Weyden</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="abstract">The Magdalen Reading is one of three surviving fragments of a large mid-15th century oil-on-oak altarpiece by the Early Netherlandish painter Rogier van der Weyden. The panel was completed some time between 1435 and 1438 and has been in the National Gallery, London since 1860. It shows a woman with the pale skin, high cheek bones and oval eyelids typical of the idealised portraits of noble women of the period. The woman is identifiable as the Magdalen from the jar of ointment placed in the foreground, which is her traditional attribute in Christian art. She is presented as completely absorbed in her reading, a model of the contemplative life, repentant and absolved of past sins. In Catholic tradition the Magdalen was conflated with both Mary of Bethany who anointed the feet of Jesus with oil and the unnamed "sinner" of Luke 7:36–50. Iconography of the Magdalen commonly shows her with a book, in a moment of reflection, in tears, or with eyes averted. Van der Weyden pays close attention to detail in many passages, in particular the folds and cloth of the woman's dress, the rock crystal of the rosary beads held by the figure standing over her, and the lushness of the exterior. The background of the painting had been overpainted with a thick layer of brown paint. A cleaning between 1955 and 1956 revealed the figure standing behind the Magdalen and the kneeling figure with bare foot protruding in front of her, with a landscape visible through a window. The two partially seen figures are both cut off at the edges of the London panel. The figure above her has been identified as belonging to a fragment in the Museu Calouste Gulbenkian, Lisbon, which shows the head of Saint Joseph, while another Lisbon fragment, showing what is believed to be Saint Catherine of Alexandria, is thought to be from the same larger work. The original altarpiece was a sacra conversazione, known only through a drawing, Virgin and Child with Saints, in Stockholm's Nationalmuseum, which followed a partial copy of the painting that probably dated from the late 1500s. The drawing shows that the Magdalen occupied the lower right-hand corner of the altarpiece. The Lisbon fragments are each a third of the size of The Magdalen, which measures 62.2 cm × 54.4 cm ( in ×  in). Although internationally successful in his lifetime, van der Weyden fell from view during the 17th century, and was not rediscovered until the early 19th century. The Magdalen Reading can first be traced to an 1811 sale. After passing through the hands of a number of dealers in Holland, the panel was purchased by the National Gallery, London, in 1860 from a collector in Paris. It is described by art historian Lorne Campbell as "one of the great masterpieces of 15th-century art and among van der Weyden's most important early works."</field>
+<field name="label">The Magdalen Reading</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0d/The_Magdalen_Reading_Rogier.jpg</field>
+<field name="comment">The Magdalen Reading is one of three surviving fragments of a large mid-15th century oil-on-oak altarpiece by the Early Netherlandish painter Rogier van der Weyden. The panel was completed some time between 1435 and 1438 and has been in the National Gallery, London since 1860. It shows a woman with the pale skin, high cheek bones and oval eyelids typical of the idealised portraits of noble women of the period.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/The_Magdalen_Reading_Rogier.jpg/200px-The_Magdalen_Reading_Rogier.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/visiting/floorplans/level-2/room-56</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/rogier-van-der-weyden-the-magdalen-reading</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Magdalen_Reading</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Magdalen_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Magdalena_leyendo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magdalen_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Marie-Madeleine_lisant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magdalen_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/読書するマグダラのマリア</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magdalen_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Magdalen_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Magdalen_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Magdalen_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Magdalene_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Magdalene_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Maria_Madalena_a_Ler</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magdalen_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Maria_Magdalena_leest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magdalen_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3039856</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magdalen_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Maria_Magdalena_läser</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magdalen_Reading</field>
+</doc>
+</add>

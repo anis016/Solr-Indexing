@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Первые_дни_весны</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Days_of_Spring</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_First_Days_of_Spring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czv99</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Перші_дні_весни</field>
+<field name="sameAs">http://he.dbpedia.org/resource/ימי_אביב_ראשונים</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Первые_дни_весны</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_First_Days_of_Spring</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Days_of_Spring</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2920341</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1929_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">The First Days of Spring (1929) is a painting by the Spanish surrealist Salvador Dalí. This is probably the most famous example of Dalí's early surrealist work. The setting for this image is an expansive, smooth gray plane. It is elevated on the right and steps down to a lower level at the left. Clustered in the middle of this space is a variety of strange and colorful surrealist images. In the distance is the small shadowy figures of a man holding the hand of a small boy. Toward the left is a figure seated in a chair with his back turned to the entire scene. This work was created during a time of extreme personal stress for Dalí. His father was becoming increasingly disappointed with his son's choice of profession and unorthodox behavior. The figures of the man and boy appear several times in Dalí's future works. They represent Dali's wish to heal his relationship with his father. The seated figure on the left has also been speculated to represent the artist's father.</field>
+<field name="label">The First Days of Spring</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/03/The_First_Days_of_Spring.jpg</field>
+<field name="comment">The First Days of Spring (1929) is a painting by the Spanish surrealist Salvador Dalí. This is probably the most famous example of Dalí's early surrealist work. The setting for this image is an expansive, smooth gray plane. It is elevated on the right and steps down to a lower level at the left. Clustered in the middle of this space is a variety of strange and colorful surrealist images. In the distance is the small shadowy figures of a man holding the hand of a small boy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/The_First_Days_of_Spring.jpg/200px-The_First_Days_of_Spring.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/St._Petersburg,_Florida</field>
+<field name="height">49.5</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Salvador_Dali_Museum</field>
+<field name="title">The First Days of Spring</field>
+<field name="type">Oil and collage on panel</field>
+<field name="width">64</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_First_Days_of_Spring</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_First_Days_of_Spring</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_First_Days_of_Spring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_First_Days_of_Spring</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/ימי_אביב_ראשונים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Days_of_Spring</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Перші_дні_весни</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Days_of_Spring</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2920341</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Days_of_Spring</field>
+</doc>
+</add>

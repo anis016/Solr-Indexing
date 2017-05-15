@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portraits_by_Vincent_van_Gogh</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dd7th</field>
+<field name="sameAs">http://dbpedia.org/resource/Portraits_by_Vincent_van_Gogh</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portraits_by_Vincent_van_Gogh</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232361</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Saint-R%C3%A9my</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Paris</field>
+<field name="abstract">Vincent van Gogh lived during the Impressionists’ era. With the development of photography, painters and artists turned to conveying the feeling and ideas behind people, places, and things rather than trying to imitate their physical forms. Impressionist artists did this by emphasizing certain hues, using vigorous brushstrokes, and paying attention to highlighting. Vincent van Gogh implemented this ideology to pursue his goal of depicting his own feelings toward and involvement with his subjects. Van Gogh’s portraiture focuses on color and brushstrokes to demonstrate their inner qualities and van Gogh’s own relationship with them. Portraits painted by Vincent van Gogh throughout his career from 1881 through 1890.</field>
+<field name="label">Portraits by Vincent van Gogh</field>
+<field name="comment">Vincent van Gogh lived during the Impressionists’ era. With the development of photography, painters and artists turned to conveying the feeling and ideas behind people, places, and things rather than trying to imitate their physical forms. Impressionist artists did this by emphasizing certain hues, using vigorous brushstrokes, and paying attention to highlighting.</field>
+<field name="link_external">http://www.musee-rodin.fr/en/collections/paintings/harvesters</field>
+<field name="link_external">http://www.musee-rodin.fr/en/collections/paintings/pere-tanguy</field>
+<field name="link_external">http://www.eugeneboch.com/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portraits_by_Vincent_van_Gogh</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portraits_by_Vincent_van_Gogh</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adeline_Ravoux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Paul-Eug%C3%A8ne_Milliet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Adeline_Ravoux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Paul-Eugene_Milliet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_adeline_ravoux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portraits,_by_Vincent_van_Gogh</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portraits_by_Vincent_van_Gogh</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portraits_by_Vincent_van_Gogh</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Eugene_Boch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232361</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portraits_by_Vincent_van_Gogh</field>
+</doc>
+</add>

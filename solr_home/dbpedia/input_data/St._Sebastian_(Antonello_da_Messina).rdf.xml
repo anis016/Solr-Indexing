@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Sebastian_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_heilige_Sebastian_(Antonello_da_Messina)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Sebastian_(Antonello_da_Messina)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch5hq</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Sebastiano_(Antonello_da_Messina)</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Antonello_da_Messina)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q444078</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Sébastien_(Antonello_de_Messine)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Antonello_da_Messina</field>
+<field name="abstract">St. Sebastian is a painting by the Italian Renaissance artist Antonello da Messina, finished in 1477-1479. It is currently housed in the Gemäldegalerie Alte Meister, Dresden, Germany. One of the most famous pictures of the early Renaissance, it was once part of a triptych which was later disassembled. Until the discover of Antonello's sign, it was usually attributed to Giovanni Bellini. The work was commissioned by the Venetian School of Saint Roch after a plague, and was completed by the Messinese painter before his death, which occurred in February 1479. This picture, dominated by the vertical figure of the saint, shows a marked influence by Piero della Francesca: this can be seen in particular in the perspective of the floor and in the "mathematical" disposition of the figurative elements. Original to Antonello is the smooth rendering of the body of St. Sebastian (defying any geometrical break-down) and the passion for the details of landscape, seen for example in Umbrian school painters like Carlo Crivelli. Famous details include the man reclining on the left, the typical Venetian-style chimneys, the columns and the monumental appearance of the buildings (probably inspired by some of Mantegna's works) and the debating pairs of men on the right side, forming an interesting mixing of late Gothic elements with Venetian, Flemish and advanced Renaissance ones.</field>
+<field name="label">St. Sebastian (Antonello da Messina)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/47/Antonello_da_Messina_018.jpg</field>
+<field name="comment">St. Sebastian is a painting by the Italian Renaissance artist Antonello da Messina, finished in 1477-1479. It is currently housed in the Gemäldegalerie Alte Meister, Dresden, Germany. One of the most famous pictures of the early Renaissance, it was once part of a triptych which was later disassembled. Until the discover of Antonello's sign, it was usually attributed to Giovanni Bellini.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Antonello_da_Messina_018.jpg/200px-Antonello_da_Messina_018.jpg</field>
+<field name="artist"/>
+<field name="height">171</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">St. Sebastian</field>
+<field name="type">Oil on canvas transferred on table</field>
+<field name="width">85</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Sebastian_(Antonello_da_Messina)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Sebastian_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Sébastien_(Antonello_de_Messine)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Sebastian_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Sebastian_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Sebastiano_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_heilige_Sebastian_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q444078</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Antonello_da_Messina)</field>
+</doc>
+</add>

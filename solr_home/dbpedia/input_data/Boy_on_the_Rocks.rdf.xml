@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Boy_on_the_Rocks</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07wkn1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4952174</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Boy_on_the_Rocks</field>
+<field name="sameAs">http://dbpedia.org/resource/Boy_on_the_Rocks</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Rousseau</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1897_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Post-impressionist_paintings</field>
+<field name="abstract">Boy On The Rocks is a painting by Henri Rousseau. It was created during 1895–7. Rousseau's work has been described as having a "mysterious poetry" and a "dreamlike force". According to Nicolas Pioch's comments on the painting: "Only a child can so bestride the world with such ease, and only a childlike artist with a simple, naïve vision can understand this elevation and make us see it as dauntingly true. " The painting was used on the cover of the May 19, 1999 issue of the Journal of the American Medical Association.</field>
+<field name="label">Boy on the Rocks</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/42/Boy_on_the_Rocks_-_1985-7_-_Henri_Rousseau.jpg</field>
+<field name="comment">Boy On The Rocks is a painting by Henri Rousseau. It was created during 1895–7. Rousseau's work has been described as having a "mysterious poetry" and a "dreamlike force". According to Nicolas Pioch's comments on the painting: "Only a child can so bestride the world with such ease, and only a childlike artist with a simple, naïve vision can understand this elevation and make us see it as dauntingly true.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/Boy_on_the_Rocks_-_1985-7_-_Henri_Rousseau.jpg/200px-Boy_on_the_Rocks_-_1985-7_-_Henri_Rousseau.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Boy_on_the_Rocks</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Boy_on_the_Rocks</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Boy_On_The_Rocks</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Boy_on_the_rocks</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Boy_on_the_Rocks</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Boy_on_the_Rocks</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4952174</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Boy_on_the_Rocks</field>
+</doc>
+</add>

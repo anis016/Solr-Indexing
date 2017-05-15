@@ -1,0 +1,84 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Леди_из_Шалот_(картина_Уотерхауса)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_dama_de_Shalott</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/The_Lady_of_Shalott_(Waterhouse)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/เลดี้แห่งชาลอตต์_(วอเทอร์เฮาส์)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Lady_of_Shalott_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2445726</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_dama_de_Shalott</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cbyg3</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/The_Lady_of_Shalott_(peinture)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/The_Lady_of_Shalott_(taolenn)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Леди_из_Шалот_(картина_Уотерхауса)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_William_Waterhouse</field>
+<field name="abstract">The Lady of Shalott is an 1888 oil-on-canvas painting by the English Pre-Raphaelite painter John William Waterhouse. The work is a representation of a scene from Alfred, Lord Tennyson's 1832 poem of the same name, in which the poet describes the plight of a young woman (loosely based on Elaine of Astolat, who yearned with an unrequited love for the knight Sir Lancelot) isolated under an undisclosed curse in a tower near King Arthur's Camelot. Waterhouse painted three different versions of this character, in 1888, 1894 and 1916. According to legend, the Lady of Shalott was forbidden to look directly at reality or the outside world; instead she was doomed to view the world through a mirror, and weave what she saw into tapestry. Her despair was heightened when she saw loving couples entwined in the far distance, and she spent her days and nights aching for a return to normality. One day the Lady saw Sir Lancelot passing on his way in the reflection of the mirror, and dared to look out at Camelot, bringing about a curse. The lady escaped by boat during an autumn storm, inscribing 'The Lady of Shalott' on the prow. As she sailed towards Camelot and certain death, she sang a lament. Her frozen body was found shortly afterwards by the knights and ladies of Camelot, one of whom is Lancelot, who prayed to God to have mercy on her soul. The tapestry she wove during her imprisonment was found draped over the side of the boat. From part IV of Tennyson's poem: And down the river's dim expanse Like some bold seer in a trance, Seeing all his own mischance With glassy countenance Did she look to Camelot. And at the closing of the day She loosed the chain, and down she lay; The broad stream bore her far away, The Lady of Shalott. Tennyson's verse was popular with many of the Pre-Raphaelite poets and painters, and was illustrated by such artists as Dante Gabriel Rossetti, William Maw Egley, and William Holman Hunt. Throughout his career, Waterhouse was preoccupied with the poetry of both Tennyson and John Keats. Between 1886 and 1894 Waterhouse painted three episodes from the former's epic. Although the painting is typically Pre-Raphaelite in composition and tone, its central framing, as well as the linear echoes between the leaves of the overhanging trees and the hair and creases of the lady's dress and tapestry, betray formal and spatial elements borrowed from the earlier Neo-Classical style. It is typically Pre-Raphaelite in that it illustrates a vulnerable and doomed woman and is bathed in natural early-evening light. The lady is portrayed staring away from the crucifix, which sits beside three candles. During the late nineteenth century, candles were often used to symbolise life: In this image, two have blown out. The Lady of Shalott was donated to the public by Sir Henry Tate in 1894.</field>
+<field name="label">The Lady of Shalott (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/83/JWW_TheLadyOfShallot_1888.jpg</field>
+<field name="comment">The Lady of Shalott is an 1888 oil-on-canvas painting by the English Pre-Raphaelite painter John William Waterhouse. The work is a representation of a scene from Alfred, Lord Tennyson's 1832 poem of the same name, in which the poet describes the plight of a young woman (loosely based on Elaine of Astolat, who yearned with an unrequited love for the knight Sir Lancelot) isolated under an undisclosed curse in a tower near King Arthur's Camelot.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/JWW_TheLadyOfShallot_1888.jpg/200px-JWW_TheLadyOfShallot_1888.jpg</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ArtistWorks?cgroupid=999999961&amp;artistid=583&amp;page=1&amp;sole=y&amp;collab=y&amp;attr=y&amp;sort=default&amp;tabview=worklist</field>
+<field name="artist">http://dbpedia.org/resource/John_William_Waterhouse</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">153</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate</field>
+<field name="title">The Lady of Shalott</field>
+<field name="width">200</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Lady_of_Shalott_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Lady_of_Shalott_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Lady_of_Shalott_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/The_Lady_of_Shalott_(peinture)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/The_Lady_of_Shalott_(Waterhouse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2445726</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/The_Lady_of_Shalott_(taolenn)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/เลดี้แห่งชาลอตต์_(วอเทอร์เฮาส์)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Lady_of_Shalott_(painting)</field>
+</doc>
+</add>

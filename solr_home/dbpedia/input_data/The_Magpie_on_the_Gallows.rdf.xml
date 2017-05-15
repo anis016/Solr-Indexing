@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Magpie_on_the_Gallows</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pejzaż_z_szubienicą</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_urraca_sobre_el_cadalso</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magpie_on_the_Gallows</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Gazza_sulla_forca</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Elster_auf_dem_Galgen</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qsxs1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1122842</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Magpie_on_the_Gallows</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_ekster_op_de_galg_(schilderij)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="abstract">The Magpie on the Gallows is an oil on wood panel of 1568 by Pieter Bruegel the Elder. The painting shows a woodland clearing containing three peasants dancing to a bagpipes, next to a gallows upon which a magpie is perched. The gallows stands in the centre of the picture, dividing the painting in two, a Mannerist composition with the right side more "open" and left more "closed", with the magpie close to the exact centre of the painting. The gallows appears to form an "impossible object", similar to a Penrose triangle, with the bases of the posts seemingly planted side by side, but with the right side of the cross-member receding into the distance, and contradictory lighting. Another magpie sits on a rock at the base of the gallows, near the skull of an animal. The only people occupy the left foreground: a man defecates in the shadows to the left, while others watch the three dancers. To the right stands a cross with a watermill behind. The background opens on to a view of a river valley, with a town to the left and castle on a rocky crag above, and a tower on a rock outcrop to the right, and distant hills and the sky beyond. Behind the dancers rise two intertwined trees, a motif used by Bruegel in an earlier drawing of bears playing in a forest. An impression of depth is given by the progression from dense brown tones dominating of the foreground, through green midtones in the middle distance, to light blues and greys for the background. Bruegel's painting was created the year after Fernando Álvarez de Toledo, 3rd Duke of Alba, arrived in the Netherlands, sent by the Spanish king, Philip II to suppress the Dutch Revolt. The gallows may represent the threat of execution of those preaching the new Protestant doctrine, and the painting may allude to several Netherlandish proverbs. There is a direct allusion to the Netherlandish proverbs of dancing or shitting on the gallows, meaning a mocking of the state. It also alludes to the belief that magpies are gossips, and that gossip leads to hangings. And that the way to the gallows leads through pleasant meadows. It is not known why or for whom the picture was painted. Its date of 1568 makes this painting one of Bruegel's last works before his death in 1569; indeed, perhaps his final work. Bruegel asked his wife to burn some of his pictures on his death, but told her to keep the Magpie on the Gallows for herself. It is now held by the Hessisches Landesmuseum in Darmstadt.</field>
+<field name="label">The Magpie on the Gallows</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1c/Die_Elster_auf_dem_Galgen.jpg</field>
+<field name="comment">The Magpie on the Gallows is an oil on wood panel of 1568 by Pieter Bruegel the Elder. The painting shows a woodland clearing containing three peasants dancing to a bagpipes, next to a gallows upon which a magpie is perched. The gallows stands in the centre of the picture, dividing the painting in two, a Mannerist composition with the right side more "open" and left more "closed", with the magpie close to the exact centre of the painting.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Die_Elster_auf_dem_Galgen.jpg/200px-Die_Elster_auf_dem_Galgen.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/97318</field>
+<field name="artist">http://dbpedia.org/resource/Pieter_Bruegel_the_Elder</field>
+<field name="image"/>
+<field name="title">The Magpie on the Gallows</field>
+<field name="type">oil on wood panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Magpie_on_the_Gallows</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Magpie_on_the_Gallows</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Gazza_sulla_forca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magpie_on_the_Gallows</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Elster_auf_dem_Galgen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magpie_on_the_Gallows</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_urraca_sobre_el_cadalso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magpie_on_the_Gallows</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pejzaż_z_szubienicą</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magpie_on_the_Gallows</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Magpie_on_the_Gallows</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Magpie_on_the_Gallows</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1122842</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magpie_on_the_Gallows</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_ekster_op_de_galg_(schilderij)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Magpie_on_the_Gallows</field>
+</doc>
+</add>

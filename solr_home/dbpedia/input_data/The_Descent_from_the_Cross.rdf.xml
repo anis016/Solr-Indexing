@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Descent_from_the_Cross</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09ktpz</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_della_Deposizione_dalla_croce</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Kruisafneming_(Rubens)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Zdjęcie_z_krzyża_(obraz_Rubensa_z_1614)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2667782</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Descent_from_the_Cross</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Снятие_с_креста_(картина_Рубенса)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Descendimiento_de_Cristo_(Rubens)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Descent_from_the_Cross</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Peter_Paul_Rubens</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1614_paintings</field>
+<field name="abstract">The Descent from the Cross is the central panel of a triptych painting by Peter Paul Rubens in 1612-1614. The painting is the second of Rubens's great altarpieces for the Cathedral of Our Lady, Antwerp, Belgium, along with The Elevation of the Cross. The subject was one Rubens returned to again and again in his career. This particular work was commissioned on September 7, 1611, by the Confraternity of the Arquebusiers, whose Patron Saint was St. Christopher. Although essentially Baroque, the oil on panel piece is rooted in the Venetian tradition, and likely influenced by the work of Daniele da Volterra, Federico Barocci and Cigoli, amongst others. In its composition and use of light, the triptych recalls Caravaggio's Roman period. Sequentially, the triptych describes the Visitation, the Descent from the Cross, and the Presentation of Jesus at the Temple. Theophile Silvestre wrote, in his "On Rubens' Descent from the Cross - 1868": “The principal subject is composed of nine figures: at the top of two ladders, workers are lowering the body of Christ with the aid of a shroud which one of them holds in his teeth, the other in the left hand. Bracing themselves firmly against the arms of the cross, each bends forward to guide the Christ with the hand that is left free while St. John, with one foot on the ladder and his back arched, supports him most energetically. One of Savior’s feet comes to rest on the beautiful shoulder of the Magdalene, grazing her golden hair. Joseph of Arimathea and Nicodemus, placed midway on ladders so as to face each other, form, together with the two workmen in the upper part of the picture, a square of vigorous but plebeian figures. The Virgin, standing at the foot of the sacrificial tree, extends her arms towards her Son; Salome (properly, Mary Cleophas), kneeling, gathers up her robe. On the ground are seen the superscription and a copper basin where the crown of thorns and the nails of the Crucifixion lie in the congealed blood. The crowd, always elated by the spectacle of torture, has departed from Golgotha as daylight fades. After the sacrifice of Calvary, as it is called in Scripture, the sad, dark sky is crossed by a light that illumines the shoulders of the workmen, whose bold posture recalls the composition by Daniele da Volterra". The altarpiece has been located in Antwerp's Cathedral of Our Lady since it was painted, but Napoleon took the painting and The Elevation of the Cross to Paris during his rule. They were returned to the cathedral in the late 1800s.</field>
+<field name="label">The Descent from the Cross</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/53/Peter_Paul_Rubens_066.jpg</field>
+<field name="comment">The Descent from the Cross is the central panel of a triptych painting by Peter Paul Rubens in 1612-1614. The painting is the second of Rubens's great altarpieces for the Cathedral of Our Lady, Antwerp, Belgium, along with The Elevation of the Cross. The subject was one Rubens returned to again and again in his career. This particular work was commissioned on September 7, 1611, by the Confraternity of the Arquebusiers, whose Patron Saint was St. Christopher.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Peter_Paul_Rubens_066.jpg/200px-Peter_Paul_Rubens_066.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Peter_Paul_Rubens</field>
+<field name="city">http://dbpedia.org/resource/Antwerp</field>
+<field name="height">420.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Cathedral_of_Our_Lady_(Antwerp)</field>
+<field name="title">The Descent from the Cross</field>
+<field name="type">Oil on panel</field>
+<field name="width">320</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Descent_from_the_Cross</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Descent_from_the_Cross</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Descent_from_the_Cross</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Descent_from_the_Cross</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Descent_from_the_Cross_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Descent_of_the_Cross_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

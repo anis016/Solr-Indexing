@@ -1,0 +1,92 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Chambre_des_Époux_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Camera_degli_Sposi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Camera_degli_Sposi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2529899</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Camera_degli_Sposi</field>
+<field name="sameAs">http://dbpedia.org/resource/Camera_degli_Sposi</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ห้องเจ้าสาว_(มานเทนยา)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Chambre_des_Époux_(Mantegna)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03whwg2</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Camera_degli_Sposi</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Камера_дельи_Спози</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Camera_degli_Sposi_(Mantegna)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cámara_de_los_esposos</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="abstract">The Camera degli Sposi ("bridal chamber"), sometimes known as the Camera picta ("painted chamber"), is a room frescoed with illusionistic paintings by Andrea Mantegna in the Ducal Palace, Mantua, Italy. It was painted between 1465 and 1474 and commissioned by Ludovico Gonzaga, and is notable for the use of trompe l'oeil details and its di sotto in sù ceiling. The chronological sequence of the paintings has been recently discovered: the painter started from the vault by dry painting in the background small bits particularly those of the oculus and the wreath surrounding it. Then he moved onto the ‘Court scene’ where he used a mysterious oily tempera dry laid out on the surface. The east and south walls followed, with the traditional fresco technique representing heavy curtains. Finally the ‘Meeting scene’ on the west wall was painted, always ‘a fresco’ but in very small bits which confirms an almost ten-year period of work on that part of the chamber.</field>
+<field name="label">Camera degli Sposi</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d1/Andrea_Mantegna_064.jpg</field>
+<field name="comment">The Camera degli Sposi ("bridal chamber"), sometimes known as the Camera picta ("painted chamber"), is a room frescoed with illusionistic paintings by Andrea Mantegna in the Ducal Palace, Mantua, Italy. It was painted between 1465 and 1474 and commissioned by Ludovico Gonzaga, and is notable for the use of trompe l'oeil details and its di sotto in sù ceiling.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Andrea_Mantegna_064.jpg/200px-Andrea_Mantegna_064.jpg</field>
+<field name="link_external">http://guideturistichemantova.it/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Camera_degli_Sposi</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Camera_degli_Sposi</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Camera_degli_Sposi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Camera_degli_Sposi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Camera_degli_Sposi_(Mantua)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Camera_degli_sposi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Camera_picta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Camera_degli_Sposi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Camera_degli_Sposi</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Камера_дельи_Спози</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Camera_degli_Sposi</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2529899</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Camera_degli_Sposi</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cámara_de_los_esposos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Camera_degli_Sposi</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Camera_degli_Sposi_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Camera_degli_Sposi</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ห้องเจ้าสาว_(มานเทนยา)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Camera_degli_Sposi</field>
+</doc>
+</add>

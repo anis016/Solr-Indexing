@@ -1,0 +1,108 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Loge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_loge_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Ложа_(картина_Ренуара)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q74339</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_loge_(painting)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Loża_(obraz)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gfh0w1</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_loge_(Renoir)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/L'avant-scéne</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_palco</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_palco</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Loge_(Renoir)</field>
+<field name="sameAs">http://dbpedia.org/resource/La_loge_(painting)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_llotja_(Renoir)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1874_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pierre-Auguste_Renoir</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Courtauld_Institute_of_Art</field>
+<field name="abstract">La loge (The Theater Box) is an 1874 oil painting by Pierre-Auguste Renoir, considered one of his masterpieces. It is part of the collection at Courtauld Institute of Art in London.</field>
+<field name="label">La loge (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7d/Pierre-Auguste_Renoir,_La_loge_(The_Theater_Box).jpg</field>
+<field name="comment">La loge (The Theater Box) is an 1874 oil painting by Pierre-Auguste Renoir, considered one of his masterpieces. It is part of the collection at Courtauld Institute of Art in London.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Pierre-Auguste_Renoir,_La_loge_(The_Theater_Box).jpg/200px-Pierre-Auguste_Renoir,_La_loge_(The_Theater_Box).jpg</field>
+<field name="link_external">http://www.courtauld.ac.uk/gallery/exhibitions/2008/renoir/furtherinfo.shtml</field>
+<field name="artist"/>
+<field name="height">80</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">La loge</field>
+<field name="type">oil on canvas</field>
+<field name="width">63.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_loge_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_loge_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_loge_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_loge_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_palco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_loge_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Loża_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_loge_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Loge_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_palco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_loge_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Loge_(Renoir)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_loge_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/L'avant-scéne</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_loge_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Ложа_(картина_Ренуара)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_loge_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_loge_(Renoir)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_loge_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q74339</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_loge_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_llotja_(Renoir)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_loge_(painting)</field>
+</doc>
+</add>

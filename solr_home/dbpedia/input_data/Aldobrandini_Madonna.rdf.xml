@@ -1,0 +1,100 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_Aldobrandini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_Альдобрандини</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_Aldobrandini</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/アルドブランディーニの聖母</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Aldobrandini_Madonna</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_Aldobrandini</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_Aldobrandini</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Aldobrandini_Madonna</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Aldobrandini_Madonna</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2503581</field>
+<field name="sameAs">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025z07r</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="abstract">The Aldobrandini Madonna is a painting from about 1509-1510 oil by the Italian renaissance artist Raphael. The picture is of the Virgin Mother, Christ child and infant John the Baptist, one of many paintings by Raphael with this trio. It is from early in his third, or Roman period, where distinctive changes are seen from his Umbrian or Florentine period in style, use of colour, and introduction of more natural subjects and settings. Owned for centuries by the aristocratic Roman Aldobrandini family, it has been part of the collection of the National Gallery in London since 1865. It was sold to the National Gallery in 1865 after about five decades of ownership by the Lord and Lady Garvagh, and is still sometimes known as the Garvagh Madonna.</field>
+<field name="label">Aldobrandini Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c5/The_Aldobrandini_Madonna.jpg</field>
+<field name="comment">The Aldobrandini Madonna is a painting from about 1509-1510 oil by the Italian renaissance artist Raphael. The picture is of the Virgin Mother, Christ child and infant John the Baptist, one of many paintings by Raphael with this trio. It is from early in his third, or Roman period, where distinctive changes are seen from his Umbrian or Florentine period in style, use of colour, and introduction of more natural subjects and settings.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Aldobrandini_Madonna.jpg/200px-The_Aldobrandini_Madonna.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/research/provenance</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/r/raphael/5roma/1/02garvag.html</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">38.9</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Aldobrandini Madonna</field>
+<field name="type">Oil on wood panel</field>
+<field name="width">32.9</field>
+<field name="year">About 1509-1510</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Aldobrandini_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Aldobrandini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_Альдобрандини</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_Aldobrandini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Aldobrandini_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_Aldobrandini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Garvagh_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/アルドブランディーニの聖母</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2503581</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Aldobrandini_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Aldobrandini_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aldobrandini_Madonna</field>
+</doc>
+</add>

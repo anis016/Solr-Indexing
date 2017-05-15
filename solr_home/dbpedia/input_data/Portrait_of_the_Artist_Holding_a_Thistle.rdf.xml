@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Autorretrato_de_Durero_(Louvre)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Artist_Holding_a_Thistle</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Autoritratto_con_fiore_d'eringio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Artist_Holding_a_Thistle</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Автопортрет_Дюрера_(1493)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Artist_Holding_a_Thistle</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_the_Artist_Holding_a_Thistle</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Artist_Holding_a_Thistle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Artist_Holding_a_Thistle</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_the_Artist_Holding_a_Thistle</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h_932j</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Автопортрет_Дюрера_(1493)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2428778</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Autorretrato_de_Durero_(Louvre)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Autoritratto_con_fiore_d'eringio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:German_Renaissance_painters</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1493_paintings</field>
+<field name="abstract">Portrait of the Artist Holding a Thistle is an oil painting on parchment pasted on canvas by German artist Albrecht Dürer, painted in 1493. It is the earliest of Dürer's painted self-portraits and has been identified as one of the first self-portraits painted by a Northern artist. It is currently held and exhibited at the Louvre in Paris.</field>
+<field name="label">Portrait of the Artist Holding a Thistle</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/da/Albrecht-self.jpg</field>
+<field name="comment">Portrait of the Artist Holding a Thistle is an oil painting on parchment pasted on canvas by German artist Albrecht Dürer, painted in 1493. It is the earliest of Dürer's painted self-portraits and has been identified as one of the first self-portraits painted by a Northern artist. It is currently held and exhibited at the Louvre in Paris.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Albrecht-self.jpg/200px-Albrecht-self.jpg</field>
+<field name="link_external">http://www.clarkart.edu/exhibitions/durer/content/exhibition.cfm/</field>
+<field name="link_external">http://www.louvre.fr/en/oeuvre-notices/self-portrait-or-portrait-artist-holding-thistle</field>
+<field name="artist">http://dbpedia.org/resource/Albrecht_D%C3%BCrer</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">56.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Portrait of the Artist Holding a Thistle</field>
+<field name="type">Oil on vellum</field>
+<field name="width">44.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_the_Artist_Holding_a_Thistle</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_the_Artist_Holding_a_Thistle</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Artist_Holding_a_Thistle_(Albrecht_D%C3%BCrer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2428778</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Artist_Holding_a_Thistle</field>
+</doc>
+</add>

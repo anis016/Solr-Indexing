@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Lecture</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_Lecture</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Lecture</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6463353</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gfdhtc</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:20th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1932_paintings</field>
+<field name="abstract">La Lecture (or Reading) is a painting by Spanish artist Pablo Picasso completed in January 1932. The oil painting depicts Picasso's mistress and muse, Marie-Thérèse Walter, asleep with a book upon her lap. The painting led to the breakup of Picasso's marriage to Olga Khokhlova after she saw it at a retrospective exhibition and realised that the facial features were not her own. The painting went to auction in 1989 and in 1996, where it failed to sell. In January 2011, it was announced that La Lecture would be going to auction on 8 February. The painting, which had not been seen in Europe since the exhibition, was then displayed at Sotheby's in Paris.</field>
+<field name="label">La Lecture</field>
+<field name="comment">La Lecture (or Reading) is a painting by Spanish artist Pablo Picasso completed in January 1932. The oil painting depicts Picasso's mistress and muse, Marie-Thérèse Walter, asleep with a book upon her lap. The painting led to the breakup of Picasso's marriage to Olga Khokhlova after she saw it at a retrospective exhibition and realised that the facial features were not her own. The painting went to auction in 1989 and in 1996, where it failed to sell.</field>
+<field name="name"/>
+<field name="artist">http://dbpedia.org/resource/Pablo_Picasso</field>
+<field name="height">65.5</field>
+<field name="museum"/>
+<field name="title">La Lecture</field>
+<field name="type">Oil on panel</field>
+<field name="width">51</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_Lecture</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_Lecture</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_Lecture</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_Lecture</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6463353</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Lecture</field>
+</doc>
+</add>

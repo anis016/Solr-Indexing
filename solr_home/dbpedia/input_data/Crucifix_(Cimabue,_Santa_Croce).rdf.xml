@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifix_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifix_(Cimabue,_Santa_Croce)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Crucifix_(Cimabue,_Santa_Croce)</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Festett_feszület_(Firenze)</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifix_(Cimabue,_Santa_Croce)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3698260</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hrbr8k</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Crocifisso_di_Santa_Croce</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:13th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Cimabue</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crucifixion_of_Jesus_in_art</field>
+<field name="abstract">Crucifix (c. 1265) is a large, badly damaged, distemper on wood painting by the Italian painter and mosaicist Cimabue, one of his three surviving painted crucifixions. It is noted for being one of the first Italian artworks to break away from the Byzantine style. It is renowned both for its technical innovations and for its move towards a more humanistic interpretation of religious iconography and the representation of saints. Cimabue confronts the viewer with a mercilessly realistic depiction of the passion at Calvary and a limp, defeated body of Christ on the cross. In its graphic depiction of human suffering and physical pain, the painting is of seminal importance in the history of art and has influenced painters from Michelangelo and Caravaggio to Velasquez and later Francis Bacon. Cimabue's Christ possesses a more naturalistic and physically accurate appearance than its artistic predecessors. In contrast to other crucifixion scenes of the time, Christ's eyes are closed, his unidealised face lifeless and defeated, and his body slumped in rigor mortis, obviously contorted from the prolonged agonies leading up to death. The work anticipates that of Cimabue's pupil Giotto, in particular his great suspended crucifix at Santa Maria Novella (1300) and his later Rimini crucifix (c. 1310-1317). While Cimabue mostly retains the static pose, rich gilding and monumentality of the Byzantine tradition, a number of elements in this work hint at a new, more naturalistic approach. The work reflects the influence of both architecture and sculpture, adding to the visual effect of the Christ rising above the cross. The painting hung in the Basilica di Santa Croce, Florence from the late thirteenth century until 1966, when it was severely damaged in the Arno flood and lost almost 60% of its paint. The restoration took ten years and required reapplication of nearly the entire painted surface and a complete dismantling and reconstruction.</field>
+<field name="label">Crucifix (Cimabue, Santa Croce)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/19/Cimabue_025.jpg</field>
+<field name="comment">Crucifix (c. 1265) is a large, badly damaged, distemper on wood painting by the Italian painter and mosaicist Cimabue, one of his three surviving painted crucifixions. It is noted for being one of the first Italian artworks to break away from the Byzantine style. It is renowned both for its technical innovations and for its move towards a more humanistic interpretation of religious iconography and the representation of saints.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Cimabue_025.jpg/200px-Cimabue_025.jpg</field>
+<field name="link_external">http://www.casasantapia.com/art/cimabue/santacroce.htm</field>
+<field name="width">145</field>
+<field name="width">130</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Santa_Croce)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Crucifix_(Cimabue,_Santa_Croce)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Crucifix_(Cimabue,_Santa_Croce)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Crucifix_(Cimabue,_Santa_Croce)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Crocifisso_di_Santa_Croce</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifix_(Cimabue,_Santa_Croce)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3698260</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifix_(Cimabue,_Santa_Croce)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Festett_feszület_(Firenze)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifix_(Cimabue,_Santa_Croce)</field>
+</doc>
+</add>

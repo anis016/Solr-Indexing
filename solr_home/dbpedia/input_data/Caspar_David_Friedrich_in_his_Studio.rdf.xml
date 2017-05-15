@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Caspar_David_Friedrich_dans_son_atelier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Caspar_David_Friedrich_in_his_Studio</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Caspar_David_Friedrich_in_his_Studio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.055w290</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q832831</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Caspar_David_Friedrich_in_his_Studio</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Caspar_David_Friedrich_dans_son_atelier</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Caspar_David_Friedrich_in_seinem_Atelier</field>
+<field name="sameAs">http://dbpedia.org/resource/Caspar_David_Friedrich_in_his_Studio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Romantic_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Nationalgalerie</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1819_paintings</field>
+<field name="abstract">Caspar David Friedrich in his Studio refers to two paintings by the German romantic artist Georg Friedrich Kersting of 1811 and 1819. Of these the 1819 version is the best known. In these two paintings Kersting depicted fellow German painter Caspar David Friedrich in his studio.</field>
+<field name="label">Caspar David Friedrich in his Studio</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/ff/Georg_Friedrich_Kersting_002.jpg</field>
+<field name="comment">Caspar David Friedrich in his Studio refers to two paintings by the German romantic artist Georg Friedrich Kersting of 1811 and 1819. Of these the 1819 version is the best known. In these two paintings Kersting depicted fellow German painter Caspar David Friedrich in his studio.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Georg_Friedrich_Kersting_002.jpg/200px-Georg_Friedrich_Kersting_002.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/71300</field>
+<field name="artist">http://dbpedia.org/resource/Georg_Friedrich_Kersting</field>
+<field name="city">http://dbpedia.org/resource/Berlin</field>
+<field name="height">51</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Alte_Nationalgalerie</field>
+<field name="title">Caspar David Friedrich in his Studio</field>
+<field name="width">40</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Caspar_David_Friedrich_in_his_Studio</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Caspar_David_Friedrich_in_his_Studio</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Caspar_David_Friedrich_in_seinem_Atelier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Caspar_David_Friedrich_in_his_Studio</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Caspar_david_friedrich_in_his_studio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Caspar_David_Friedrich_in_his_Studio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Caspar_David_Friedrich_in_his_Studio</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q832831</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Caspar_David_Friedrich_in_his_Studio</field>
+</doc>
+</add>

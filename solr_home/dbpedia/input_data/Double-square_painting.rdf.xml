@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Double-square_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Double-square_painting</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Double-square_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5299615</field>
+<field name="sameAs">http://dbpedia.org/resource/Double-square_painting</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g4sky</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Double-square_painting</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="abstract">Double-square paintings have uncommonly large canvases. Vincent van Gogh, for example, used them exclusively during the final weeks of his life in Auvers, in June and July 1890. To arrive at this size, Van Gogh simply had to combine the legs of two standard sizes: the 50 cm leg from a size 12 and the 100 cm leg of a size 40 stretcher. The result was a double-square of 50 x 100 cm, and from this size easily the square could be derived by using two 50 cm legs. Other artists prior to Van Gogh and admired by him, like Charles-François Daubigny and Puvis de Chavannes, had used canvases of similar proportions, and Van Gogh was aware of this. But his choice of this size points into another direction. His double-squares can easily be combined with size 30 canvases to more elaborated décorations, and his squares extend these possibilities. One dimension of a double-square canvas is twice the size of the other. In other words, the canvas is the shape of two adjoining squares. The overall effect of this is stability, and the compositional challenge is to avoid monotony.</field>
+<field name="label">Double-square painting</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b2/Vincent_Willem_van_Gogh_073.jpg</field>
+<field name="comment">Double-square paintings have uncommonly large canvases. Vincent van Gogh, for example, used them exclusively during the final weeks of his life in Auvers, in June and July 1890. To arrive at this size, Van Gogh simply had to combine the legs of two standard sizes: the 50 cm leg from a size 12 and the 100 cm leg of a size 40 stretcher. The result was a double-square of 50 x 100 cm, and from this size easily the square could be derived by using two 50 cm legs.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Vincent_Willem_van_Gogh_073.jpg/200px-Vincent_Willem_van_Gogh_073.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Double-square_painting</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Double-square_painting</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adjustable_square</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Double-square</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Double-squares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Double-squares_and_Squares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Double_Square</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Double_square</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Double_squares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Doublesquare</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Doublesquares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5299615</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Double-square_painting</field>
+</doc>
+</add>

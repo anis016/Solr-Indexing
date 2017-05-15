@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape,_Branchville</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Landscape,_Branchville</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c3xmf9</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6485050</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape,_Branchville</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Landscape, Branchville (also Branchville Lane or Branchville) is an oil on canvas painting by John Henry Twachtman. Painted c. 1888, it is Twachtman's largest known work, and was painted in front of the home of his friend J. Alden Weir.</field>
+<field name="label">Landscape, Branchville</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fe/JHTwachtmanBranchville.jpg</field>
+<field name="comment">Landscape, Branchville (also Branchville Lane or Branchville) is an oil on canvas painting by John Henry Twachtman. Painted c. 1888, it is Twachtman's largest known work, and was painted in front of the home of his friend J. Alden Weir.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/JHTwachtmanBranchville.jpg/200px-JHTwachtmanBranchville.jpg</field>
+<field name="link_external">http://www.flogris.org/learning/foxchase/html/essay_impress.php</field>
+<field name="link_external">http://www.nps.gov/wefa/historyculture/johntwachtman.htm</field>
+<field name="artist">http://dbpedia.org/resource/John_Henry_Twachtman</field>
+<field name="height">152.4</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">Landscape, Branchville</field>
+<field name="width">203.2</field>
+<field name="year">c. 1888</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Landscape,_Branchville</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Landscape,_Branchville</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Landscape,_Branchville</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Landscape,_Branchville</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6485050</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape,_Branchville</field>
+</doc>
+</add>

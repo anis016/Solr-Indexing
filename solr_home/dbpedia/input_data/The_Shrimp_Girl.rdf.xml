@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Shrimp_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_vendedora_de_camarones</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qjhlh</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Shrimp_Girl</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Shrimp_Girl</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shrimp_Girl</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4164272</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1740s_paintings</field>
+<field name="abstract">The Shrimp Girl is a painting by the English artist William Hogarth. It was painted around 1740–45, and is held by the National Gallery, London. The painting, a relatively late work by Hogarth, is one of several in which he experimented with a loose, almost impressionistic style comparable to the work of Fragonard. In its subject matter, it resembles the prints of hawkers and traders popular in Hogarth's day. The painting depicts a woman selling shellfish on the streets of London, typically a job for the wives and daughters of fishmongers who owned stalls in markets such as Billingsgate. The subject balances a large basket on her head, bearing shrimps and mussels, together with a half-pint pewter pot as a measure. Its size suggests that it was intended as a portrait, rather than a sketch for a larger work. It is not strictly finished and was still in Hogarth's estate after his death. His widow Jane was said to have told visitors on showing the picture to them: "They say he could not paint flesh. There is flesh and blood for you. " It was only sold after his wife's death in 1789, and first received its title The Shrimp Girl in a Christie's sale catalogue. The painting (retitled The Saleswoman of Crabs) was used on a postage stamp by the Yemen Arab Republic in 1969.</field>
+<field name="label">The Shrimp Girl</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e4/William_Hogarth_002.jpg</field>
+<field name="comment">The Shrimp Girl is a painting by the English artist William Hogarth. It was painted around 1740–45, and is held by the National Gallery, London. The painting, a relatively late work by Hogarth, is one of several in which he experimented with a loose, almost impressionistic style comparable to the work of Fragonard. In its subject matter, it resembles the prints of hawkers and traders popular in Hogarth's day.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e4/William_Hogarth_002.jpg/200px-William_Hogarth_002.jpg</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">63.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">The Shrimp Girl</field>
+<field name="width">52.5</field>
+<field name="year">circa 1740–1745</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Shrimp_Girl</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Shrimp_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_vendedora_de_camarones</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shrimp_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shrimp_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Shrimp_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Shrimp_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4164272</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shrimp_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Shrimp_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Shrimp_Girl</field>
+</doc>
+</add>

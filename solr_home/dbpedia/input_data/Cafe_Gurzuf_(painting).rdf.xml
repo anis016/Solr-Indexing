@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cafe_Gurzuf_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h96v3z</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q619287</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Café_Gurzuf_(Samokhvalov)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Cafe_Gurzuf_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Cafe_Gurzuf_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1956_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Alexander_Nikolayevich_Samokhvalov</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_art</field>
+<field name="abstract">Cafe Gurzuf is a painting by Alexander Nikolayevich Samokhvalov (Russian: Алекса́ндр Никола́евич Самохва́лов)(1894-1971), well-known Russian painter, watercolorists, graphic artist, illustrator, and art teacher, Honored Arts Worker of the RSFSR, lived and worked in Leningrad, regarded as one of the founder and brightest representatives of the Socialist realism art. In the painting artist has depicted a view of summer cafe in Gurzuf, Crimea, in the middle of the 1950s.</field>
+<field name="label">Cafe Gurzuf (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/23/Samokhvalov-Alexander-Cafe-Gurzuf-sbo10bw.jpg</field>
+<field name="comment">Cafe Gurzuf is a painting by Alexander Nikolayevich Samokhvalov (Russian: Алекса́ндр Никола́евич Самохва́лов)(1894-1971), well-known Russian painter, watercolorists, graphic artist, illustrator, and art teacher, Honored Arts Worker of the RSFSR, lived and worked in Leningrad, regarded as one of the founder and brightest representatives of the Socialist realism art. In the painting artist has depicted a view of summer cafe in Gurzuf, Crimea, in the middle of the 1950s.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Samokhvalov-Alexander-Cafe-Gurzuf-sbo10bw.jpg/200px-Samokhvalov-Alexander-Cafe-Gurzuf-sbo10bw.jpg</field>
+<field name="link_external">http://www.leningradartist.com</field>
+<field name="link_external">http://www.leningradartist.com/sbo10b.jpg</field>
+<field name="link_external">http://www.leningradartist.com/bo134b.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Alexander_Nikolayevich_Samokhvalov</field>
+<field name="city">http://dbpedia.org/resource/Moscow</field>
+<field name="height">50</field>
+<field name="image"/>
+<field name="imageSize">340</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">Cafe Gurzuf</field>
+<field name="width">53</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Cafe_Gurzuf_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cafe_Gurzuf_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Cafe_Gurzuf_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Cafe_Gurzuf_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Café_Gurzuf_(Samokhvalov)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cafe_Gurzuf_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q619287</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cafe_Gurzuf_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Bar_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bar_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Bar_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7715588</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09gj48y</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Brack</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1954_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_National_Gallery_of_Victoria</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Melbourne_culture</field>
+<field name="abstract">The Bar is a 1954 painting by Australian artist John Brack. The subject of the painting is a direct reference to Édouard Manet's 1882 work A Bar at the Folies-Bergère. It depicts a barmaid working in an Australian pub at the time of the "six o'clock swill". As in Manet's work, the patrons of the bar are shown in a reflection behind the barmaid. The work is considered a companion piece to Brack's later work Collins St. , 5 pm. The painting was first sold to a Melbourne art collector for 90 guineas in 1954. In 2006, the painting sold for $3.12m, a then record for an Australian work of art at auction. The National Gallery of Victoria acquired the painting in 2009. The painting is part of the National Gallery of Victoria's Australian art collection and exhibited in the Ian Potter Centre in Federation Square in Melbourne.</field>
+<field name="label">The Bar (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/81/John_Brack_-_The_Bar.jpg</field>
+<field name="comment">The Bar is a 1954 painting by Australian artist John Brack. The subject of the painting is a direct reference to Édouard Manet's 1882 work A Bar at the Folies-Bergère. It depicts a barmaid working in an Australian pub at the time of the "six o'clock swill". As in Manet's work, the patrons of the bar are shown in a reflection behind the barmaid. The work is considered a companion piece to Brack's later work Collins St. , 5 pm.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/John_Brack_-_The_Bar.jpg/200px-John_Brack_-_The_Bar.jpg</field>
+<field name="artist">http://dbpedia.org/resource/John_Brack</field>
+<field name="city">http://dbpedia.org/resource/Melbourne</field>
+<field name="height">96.4</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Victoria</field>
+<field name="title">The Bar</field>
+<field name="type">oil on canvas</field>
+<field name="width">140</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Bar_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Bar_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Bar_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Bar_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7715588</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bar_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mnemosyne_(Rossetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mnemosyne_(Rossetti)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6885900</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mnemosyne_(Rossetti)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j278hn</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Delaware_Art_Museum</field>
+<field name="abstract">Mnemosyne, also titled Lamp of Memory and Ricordanza, is an oil painting by Dante Gabriel Rossetti begun in 1875 or early 1876 and completed in 1881. Jane Morris was the model, and Frederick Richards Leyland bought the painting in 1881 and displayed it in his drawing room with five other Rossetti "stunners. " At about the same time Rossetti was painting Astarte Syriaca, a larger painting completed in 1877, with Morris in a very similar pose.</field>
+<field name="label">Mnemosyne (Rossetti)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0b/Gabriel_Dante_Rosetti,_Mnemosyne.jpg</field>
+<field name="comment">Mnemosyne, also titled Lamp of Memory and Ricordanza, is an oil painting by Dante Gabriel Rossetti begun in 1875 or early 1876 and completed in 1881. Jane Morris was the model, and Frederick Richards Leyland bought the painting in 1881 and displayed it in his drawing room with five other Rossetti "stunners. " At about the same time Rossetti was painting Astarte Syriaca, a larger painting completed in 1877, with Morris in a very similar pose.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Gabriel_Dante_Rosetti,_Mnemosyne.jpg/200px-Gabriel_Dante_Rosetti,_Mnemosyne.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">126.4</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Delaware_Art_Museum</field>
+<field name="title">Mnemosyne</field>
+<field name="type">oil on canvas</field>
+<field name="width">61</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mnemosyne_(Rossetti)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mnemosyne_(Rossetti)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mnemosyne_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mnemosyne_(Rossetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mnemosyne_(Rossetti)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6885900</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mnemosyne_(Rossetti)</field>
+</doc>
+</add>

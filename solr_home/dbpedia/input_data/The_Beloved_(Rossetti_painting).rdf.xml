@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Beloved_(Rossetti_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Beloved_(Rossetti_painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j25s35</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Beloved_(Rossetti_painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Song_of_Songs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Solomon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Erotic_poetry</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1866_paintings</field>
+<field name="abstract">The Beloved (also The Bride) is an oil painting on canvas by English artist Dante Gabriel Rossetti, first painted in 1865 and currently housed at Tate Britain.</field>
+<field name="label">The Beloved (Rossetti painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8c/Dante_Gabriel_Rossetti_-_The_Bride_-_WGA20108.jpg</field>
+<field name="comment">The Beloved (also The Bride) is an oil painting on canvas by English artist Dante Gabriel Rossetti, first painted in 1865 and currently housed at Tate Britain.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Dante_Gabriel_Rossetti_-_The_Bride_-_WGA20108.jpg/200px-Dante_Gabriel_Rossetti_-_The_Bride_-_WGA20108.jpg</field>
+<field name="link_external">http://www.preraphaelites.org/the-collection/artist-biography/dante-gabriel-rossetti/</field>
+<field name="link_external">http://www.rossettiarchive.org</field>
+<field name="link_external">http://www.tate.org.uk/britain/</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">80</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">The Beloved</field>
+<field name="type">oil on canvas</field>
+<field name="width">76</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Beloved_(Rossetti_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Beloved_(Rossetti_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Beloved_(Rossetti_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Beloved_(Rossetti_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Beloved_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

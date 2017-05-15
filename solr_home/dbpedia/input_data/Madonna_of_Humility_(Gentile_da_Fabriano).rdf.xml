@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_Humility_(Gentile_da_Fabriano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_Humility_(Gentile_da_Fabriano)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_humility_(Gentile_da_Fabriano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Humility_(Gentile_da_Fabriano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_Humility_(Gentile_da_Fabriano)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_dell'Umiltà_(Gentile_da_Fabriano_Pisa)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3842654</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Humility_(Gentile_da_Fabriano)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h51w91</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1420s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gentile_da_Fabriano_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Pisa</field>
+<field name="abstract">The Madonna of Humility is an tempera-on-panel painting by the Italian late medieval artist Gentile da Fabriano, dating from around 1420-1423 and housed in the Museo nazionale di San Matteo, Pisa. The work, once in the local Pious House of Misericordy, was commissioned in unknown circumstances, although its size suggests that is was destined to private devotion. It was perhaps ordered by cardinal Alemanno Adimari, archbishop of Pisa, who had his sepulchre in the Roman church of Santa Maria Nova decorated by Gentile (a lost work mentioned by late Renaissance art biographer Giorgio Vasari).</field>
+<field name="label">Madonna of Humility (Gentile da Fabriano)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cf/Gentile_da_fabriano,_madonna_col_bambino,_pisa.jpg</field>
+<field name="comment">The Madonna of Humility is an tempera-on-panel painting by the Italian late medieval artist Gentile da Fabriano, dating from around 1420-1423 and housed in the Museo nazionale di San Matteo, Pisa. The work, once in the local Pious House of Misericordy, was commissioned in unknown circumstances, although its size suggests that is was destined to private devotion.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Gentile_da_fabriano,_madonna_col_bambino,_pisa.jpg/200px-Gentile_da_fabriano,_madonna_col_bambino,_pisa.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Gentile_da_Fabriano</field>
+<field name="height">56</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museo_Nazionale_di_San_Matteo</field>
+<field name="museum">http://dbpedia.org/resource/Pisa</field>
+<field name="title">Madonna of Humility</field>
+<field name="type">Tempera on panel</field>
+<field name="width">41</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_Humility_(Gentile_da_Fabriano)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_Humility_(Gentile_da_Fabriano)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_dell'Umiltà_(Gentile_da_Fabriano_Pisa)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Humility_(Gentile_da_Fabriano)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3842654</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Humility_(Gentile_da_Fabriano)</field>
+</doc>
+</add>

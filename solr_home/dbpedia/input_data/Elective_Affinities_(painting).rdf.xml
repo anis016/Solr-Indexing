@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Elective_Affinities_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Elective_Affinities_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Elective_Affinities_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Elective_Affinities_(painting)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_zielsverwantschappen</field>
+<field name="sameAs">http://dbpedia.org/resource/Elective_Affinities_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04f6141</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2571851</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">Elective Affinities (French: Les affinités électives) is a 1933 painting by the Belgian surrealist René Magritte. The title is taken from the Johann Wolfgang von Goethe book Elective Affinities. Magritte had the following to say about this work: One night, I woke up in a room in which a cage with a bird sleeping in it had been placed. A magnificent error caused me to see an egg in the cage, instead of the vanished bird. I then grasped a new and astonishing poetic secret, for the shock which I experienced had been provoked precisely by the affinity of two objects -- the cage and the egg -- to each other, whereas previously this shock had been caused by my bringing together two objects that were unrelated.</field>
+<field name="label">Elective Affinities (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6f/Magritte36.jpg</field>
+<field name="comment">Elective Affinities (French: Les affinités électives) is a 1933 painting by the Belgian surrealist René Magritte. The title is taken from the Johann Wolfgang von Goethe book Elective Affinities. Magritte had the following to say about this work: One night, I woke up in a room in which a cage with a bird sleeping in it had been placed. A magnificent error caused me to see an egg in the cage, instead of the vanished bird.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Magritte36.jpg/200px-Magritte36.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="height">41</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Elective Affinities</field>
+<field name="width">33</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Elective_Affinities_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Elective_Affinities_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_zielsverwantschappen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Elective_Affinities_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2571851</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Elective_Affinities_(painting)</field>
+</doc>
+</add>

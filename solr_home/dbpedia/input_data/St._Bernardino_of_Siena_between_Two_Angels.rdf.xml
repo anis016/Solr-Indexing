@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Bernardino_of_Siena_between_Two_Angels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Bernardino_of_Siena_between_Two_Angels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Bernardino_of_Siena_between_Two_Angels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Bernardino_of_Siena_between_Two_Angels</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Bernardino_of_Siena_between_Two_Angels</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Bernardino_da_Siena_tra_due_angeli</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3946841</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fq1_p8</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Pinacoteca_di_Brera</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="abstract">St. Bernardino of Siena between Two Angels is a painting attributed to the Italian Renaissance artist Andrea Mantegna and assistants, dated to 1460 and housed in the Pinacoteca di Brera of Milan. The painting was located in the funerary chapel of marquis Ludovico II Gonzaga, dedicated to St. Bernardino and situated in church of San Francesco in Mantua. It was acquired by the Milanese gallery in 1811.</field>
+<field name="label">St. Bernardino of Siena between Two Angels</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e5/Mantegna,_san_bernardino_tra_angeli.jpg</field>
+<field name="comment">St. Bernardino of Siena between Two Angels is a painting attributed to the Italian Renaissance artist Andrea Mantegna and assistants, dated to 1460 and housed in the Pinacoteca di Brera of Milan. The painting was located in the funerary chapel of marquis Ludovico II Gonzaga, dedicated to St. Bernardino and situated in church of San Francesco in Mantua. It was acquired by the Milanese gallery in 1811.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Mantegna,_san_bernardino_tra_angeli.jpg/200px-Mantegna,_san_bernardino_tra_angeli.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Milan</field>
+<field name="height">385</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Pinacoteca_di_Brera</field>
+<field name="title">St. Bernardino of Siena between Two Angels</field>
+<field name="type">Tempera on canvas</field>
+<field name="width">220</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Bernardino_of_Siena_between_Two_Angels</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Bernardino_of_Siena_between_Two_Angels</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Bernardino_da_Siena_tra_due_angeli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Bernardino_of_Siena_between_Two_Angels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St_Bernardino_of_Siena_between_Two_Angels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3946841</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Bernardino_of_Siena_between_Two_Angels</field>
+</doc>
+</add>

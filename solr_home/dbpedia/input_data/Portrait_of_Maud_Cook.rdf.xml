@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Maud_Cook</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Maud_Cook</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232294</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Maud_Cook</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dgs9bw</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1895_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="abstract">Portrait of Maud Cook is an 1895 oil on canvas painting by the American artist Thomas Eakins. Given the artist's lack of interest in fashion or conventional beauty, the portrait has been noted as "a rare example of Eakins's studying the physical beauty of a young woman," and "one of Eakins's loveliest paintings. " Maud was the sister of Weda Cook, who posed for Eakins' The Concert Singer in 1892. She is seen in a pink dress, the fabric flowing from her shoulders and pinned between her breasts. Her head is tilted to the left, in the direction of the light source. The light creates deep shadows that define the structure of her face, yet is subtle enough to suggest a youthful skin tone. In a letter written to Lloyd Goodrich in 1930, Cook recalled: "As I was just a young girl my hair is down low in the neck and tied with a ribbon.... Mr. Eakins never gave (the painting) a name but said to himself it was like a 'big rose bud'. " Several art historians have remarked on the implications of Eakins' description, especially the Victorian association of the rose with virginity, and the bud with sexual potential. Cook was in her twenties when she sat for the portrait and did not marry until eleven years later. The painting has been described as an example of Eakins' typical stark and unflattering vision. Although described as "resembling a classical sculpture more than a pretty, contemporary woman", Cook's representation is viewed as sensual, and representing an intensely private moment, underscored by the attention paid to her features and the disarray of her hairline. The suggestion of repressed sexuality has been seen as both intriguing and disturbing. Before giving the painting to Cook, Eakins inscribed "To his friend/Maude Cook/Thomas Eakins/1895" on the back and carved its frame. Eventually the painting was acquired by Stephen Carlton Clark, who bequeathed it to Yale University Art Gallery, where it has been held since 1961.</field>
+<field name="label">Portrait of Maud Cook</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/28/Eakins_cook.jpg</field>
+<field name="comment">Portrait of Maud Cook is an 1895 oil on canvas painting by the American artist Thomas Eakins. Given the artist's lack of interest in fashion or conventional beauty, the portrait has been noted as "a rare example of Eakins's studying the physical beauty of a young woman," and "one of Eakins's loveliest paintings. " Maud was the sister of Weda Cook, who posed for Eakins' The Concert Singer in 1892. She is seen in a pink dress, the fabric flowing from her shoulders and pinned between her breasts.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Eakins_cook.jpg/200px-Eakins_cook.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Maud_Cook</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Maud_Cook</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Maud_Cook</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Maud_Cook</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232294</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Maud_Cook</field>
+</doc>
+</add>

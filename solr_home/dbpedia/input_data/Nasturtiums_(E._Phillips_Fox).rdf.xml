@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Nasturtiums_(E._Phillips_Fox)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Nasturtiums_(E._Phillips_Fox)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nasturtiums_(E._Phillips_Fox)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6967730</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j3crqx</field>
+<field name="sameAs">http://dbpedia.org/resource/Nasturtiums_(E._Phillips_Fox)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Nasturtiums_(E._Phillips_Fox)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Art_Gallery_of_New_South_Wales</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1912_paintings</field>
+<field name="abstract">Nasturtiums is an oil painting by the Australian Impressionist painter Emanuel Phillips Fox painted in 1912 during a period of great creativity for the artist in which he produced some of his finest works. It shows a woman wearing a printed mauve dress, black hat and black gloves, reading in a garden seated in a cane chair against a background of climbing nasturtium leaves and flowers growing up a trellis. After being owned by the model's family, the Boyds, since its creation, it was purchased in 2011 at auction by the Society of the Art Gallery of New South Wales as a memorial to Margaret Olley, a Sydney painter and longtime patron of the gallery who had died a few months earlier. The then Director Edmund Capon said that "Olley would have loved this painting as Phillips Fox was one of her favourite artists". and the Curator of Australian Art said its "combination of the poetic and the pragmatic, the decorative and the real", reflected Margaret Olley’s own aesthetic preoccupations".</field>
+<field name="label">Nasturtiums (E. Phillips Fox)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/05/Emanuel_Phillips_Fox_-_Nasturtiums,_1912.jpg</field>
+<field name="comment">Nasturtiums is an oil painting by the Australian Impressionist painter Emanuel Phillips Fox painted in 1912 during a period of great creativity for the artist in which he produced some of his finest works. It shows a woman wearing a printed mauve dress, black hat and black gloves, reading in a garden seated in a cane chair against a background of climbing nasturtium leaves and flowers growing up a trellis.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Emanuel_Phillips_Fox_-_Nasturtiums,_1912.jpg/200px-Emanuel_Phillips_Fox_-_Nasturtiums,_1912.jpg</field>
+<field name="link_external">http://www.artgallery.nsw.gov.au/work/400.2011</field>
+<field name="link_external">http://www.thearttribune.com/A-Painting-by-Emanuel-Phillips-Fox.html</field>
+<field name="artist">http://dbpedia.org/resource/E._Phillips_Fox</field>
+<field name="city"/>
+<field name="height">91.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Art_Gallery_of_New_South_Wales</field>
+<field name="title">Nasturtiums</field>
+<field name="width">71.5</field>
+<field name="year">c. 1912</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Nasturtiums_(E._Phillips_Fox)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Nasturtiums_(E._Phillips_Fox)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nasturtium</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6967730</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nasturtiums_(E._Phillips_Fox)</field>
+</doc>
+</add>

@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Westward_the_Course_of_Empire_Takes_Its_Way</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047ns09</field>
+<field name="sameAs">http://dbpedia.org/resource/Westward_the_Course_of_Empire_Takes_Its_Way</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7989813</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Westward_the_Course_of_Empire_Takes_Its_Way</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Masterpiece_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:United_States_House_of_Representatives</field>
+<field name="abstract">Westward the Course of Empire Takes Its Way (also known as Westward Ho) is a 20-by-30-foot ( m ×  m) painted mural currently displayed behind the western staircase of the House of Representatives chamber in the United States Capitol Building. The mural was painted by Emanuel Gottlieb Leutze in 1861 and symbolizes Manifest Destiny, the belief that the United States was destined for Western exploration and expansion originating from the initial colonies along the Atlantic seaboard to the Pacific Ocean. A study measuring 33+⁄4 by 43+⁄8 inches ( cm ×  cm) hangs in the Smithsonian American Art Museum.</field>
+<field name="label">Westward the Course of Empire Takes Its Way</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/26/Emanuel_Leutze_-_Westward_the_Course_of_Empire_Takes_Its_Way_-_Capitol.jpg</field>
+<field name="comment">Westward the Course of Empire Takes Its Way (also known as Westward Ho) is a 20-by-30-foot ( m ×  m) painted mural currently displayed behind the western staircase of the House of Representatives chamber in the United States Capitol Building.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/26/Emanuel_Leutze_-_Westward_the_Course_of_Empire_Takes_Its_Way_-_Capitol.jpg/200px-Emanuel_Leutze_-_Westward_the_Course_of_Empire_Takes_Its_Way_-_Capitol.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Emanuel_Leutze</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="image"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Smithsonian_American_Art_Museum</field>
+<field name="museum">http://dbpedia.org/resource/United_States_Capitol</field>
+<field name="title">Westward the Course of Empire Takes Its Way</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Westward_the_Course_of_Empire_Takes_Its_Way</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Westward_the_Course_of_Empire_Takes_Its_Way</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Westward_the_Course_of_Empire_Takes_Its_Way</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Westward_the_Course_of_Empire_Takes_Its_Way</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7989813</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Westward_the_Course_of_Empire_Takes_Its_Way</field>
+</doc>
+</add>

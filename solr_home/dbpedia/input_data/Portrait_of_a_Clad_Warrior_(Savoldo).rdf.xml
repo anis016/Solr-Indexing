@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Gaston_de_Foix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Clad_Warrior_(Savoldo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Clad_Warrior_(Savoldo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Clad_Warrior_(Savoldo)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gw_7q0</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Gaston_de_Foix</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Clad_Warrior_(Savoldo)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q654044</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520s_paintings</field>
+<field name="abstract">The Portrait of a Clad Warrior, also known as Portrait of Gaston of Foix is a painting by the Italian High Renaissance painter Girolamo Savoldo, dating to c. 1529 and housed in the Louvre Museum of Paris, France. The subject is traditionally identified with the French military leader Gaston of Foix, Duke of Nemours, or as a self-portrait, although there is no documentary evidence for either hypothesis. The painting depicts a man wearing armor in a small room with two mirrors. He lies diagonally on a shelf, one hand pointing at his reflected image. The presence of three sources of light (front, rear and side) was inspired by a lost work by Giorgione.</field>
+<field name="label">Portrait of a Clad Warrior (Savoldo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a1/Giovanni_Gerolamo_Savoldo_004.jpg</field>
+<field name="comment">The Portrait of a Clad Warrior, also known as Portrait of Gaston of Foix is a painting by the Italian High Renaissance painter Girolamo Savoldo, dating to c. 1529 and housed in the Louvre Museum of Paris, France. The subject is traditionally identified with the French military leader Gaston of Foix, Duke of Nemours, or as a self-portrait, although there is no documentary evidence for either hypothesis. The painting depicts a man wearing armor in a small room with two mirrors.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Giovanni_Gerolamo_Savoldo_004.jpg/200px-Giovanni_Gerolamo_Savoldo_004.jpg</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&amp;idNotice=22873&amp;langue=fr</field>
+<field name="artist"/>
+<field name="height">91</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum"/>
+<field name="title">Portrait of a Clad Warrior</field>
+<field name="type">oil on canvas</field>
+<field name="width">123</field>
+<field name="year">c. 1529</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Clad_Warrior_(Savoldo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Clad_Warrior_(Savoldo)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Clad_Warrior_(Savoldo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Clad_Warrior_(Savoldo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Gaston_de_Foix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Gaston_of_Foix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q654044</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Clad_Warrior_(Savoldo)</field>
+</doc>
+</add>

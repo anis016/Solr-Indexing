@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_de_la_galería</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_de_la_loggia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_della_Loggia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_делла_Лоджиа_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Мадонна_дэла_Лоджыа,_карціна</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_de_la_loggia</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_делла_Лоджиа_(картина)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cy_37</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_de_la_galería</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2717478</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_della_Loggia</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระแม่มารีบนระเบียง_(บอตติเชลลี)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1467_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_paintings_in_the_Uffizi</field>
+<field name="abstract">The Madonna della Loggia is a painting attributed to the Italian Renaissance artist Sandro Botticelli, dating to c. 1467. A tempera on panel work, it is located in the Uffizi, Florence, Italy.</field>
+<field name="label">Madonna della Loggia (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b5/MadonnaLoggiaBotticelli.jpg</field>
+<field name="comment">The Madonna della Loggia is a painting attributed to the Italian Renaissance artist Sandro Botticelli, dating to c. 1467. A tempera on panel work, it is located in the Uffizi, Florence, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/MadonnaLoggiaBotticelli.jpg/200px-MadonnaLoggiaBotticelli.jpg</field>
+<field name="link_external">http://www.wga.hu/art/b/botticel/1early/03loggia.jpg</field>
+<field name="artist"/>
+<field name="height">72</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna della Loggia</field>
+<field name="type">Tempera on panel</field>
+<field name="width">50</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_della_Loggia_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_della_Loggia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_della_loggia_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_della_Loggia_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2717478</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Мадонна_дэла_Лоджыа,_карціна</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระแม่มารีบนระเบียง_(บอตติเชลลี)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_della_Loggia_(Botticelli)</field>
+</doc>
+</add>

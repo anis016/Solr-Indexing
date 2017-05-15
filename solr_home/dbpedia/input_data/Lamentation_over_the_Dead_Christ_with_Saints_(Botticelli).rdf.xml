@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gv5fn</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Compianto_sul_Cristo_morto_(Botticelli)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+<field name="sameAs">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Lamentation_sur_le_Christ_mort_(Botticelli,_Milan)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1115423</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Piedad_(Botticelli,_Milán)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Sandro_Botticelli</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="abstract">The Lamentation over the Dead Christ with Saints is a painting of the Lamentation of Christ by the Italian Renaissance artist Sandro Botticelli, dated between 1490-1495. It is housed in the Museo Poldi Pezzoli of Milan. The composition is pyramidal, with tightly connected figures. At the same times, it evocates the shape of a cross, culminating in Joseph of Arimathea, who shows the crown of thorns and the nails.</field>
+<field name="label">Lamentation over the Dead Christ with Saints (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/74/Sandro_Botticelli_015.jpg</field>
+<field name="comment">The Lamentation over the Dead Christ with Saints is a painting of the Lamentation of Christ by the Italian Renaissance artist Sandro Botticelli, dated between 1490-1495. It is housed in the Museo Poldi Pezzoli of Milan. The composition is pyramidal, with tightly connected figures. At the same times, it evocates the shape of a cross, culminating in Joseph of Arimathea, who shows the crown of thorns and the nails.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sandro_Botticelli_015.jpg/200px-Sandro_Botticelli_015.jpg</field>
+<field name="artist"/>
+<field name="height">107</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Lamentation over the Dead Christ</field>
+<field name="type">Tempera on panel</field>
+<field name="width">71</field>
+<field name="year">c. 1490-1495</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Piedad_(Botticelli,_Milán)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Compianto_sul_Cristo_morto_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Lamentation_sur_le_Christ_mort_(Botticelli,_Milan)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1115423</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lamentation_over_the_Dead_Christ_with_Saints_(Botticelli)</field>
+</doc>
+</add>

@@ -1,0 +1,83 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Census_at_Bethlehem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Перепис_у_Віфлеємі</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Censo_en_Belén</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Census_at_Bethlehem</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j295gg</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q375216</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Spis_ludności_w_Betlejem</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Censimento_di_Betlemme</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Census_at_Bethlehem</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Volkszählung_zu_Bethlehem</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="abstract">The Census at Bethlehem (also known as The Numbering at Bethlehem) is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder, painted in 1566. Acquired in 1902, it is currently held and exhibited at the Royal Museums of Fine Arts of Belgium in Brussels.</field>
+<field name="label">The Census at Bethlehem</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7e/Pieter_Bruegel_the_Elder_-_The_Census_at_Bethlehem_-_WGA03379.jpg</field>
+<field name="comment">The Census at Bethlehem (also known as The Numbering at Bethlehem) is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder, painted in 1566. Acquired in 1902, it is currently held and exhibited at the Royal Museums of Fine Arts of Belgium in Brussels.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Pieter_Bruegel_the_Elder_-_The_Census_at_Bethlehem_-_WGA03379.jpg/200px-Pieter_Bruegel_the_Elder_-_The_Census_at_Bethlehem_-_WGA03379.jpg</field>
+<field name="link_external">http://www.pieter-bruegel-the-elder.org</field>
+<field name="link_external">http://www.art-drawing.ru/biographies/brief-biographies/199-bruegel-peter</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/97318</field>
+<field name="link_external">http://www.boschbruegel.com</field>
+<field name="link_external">http://www.fine-arts-museum.be/fabritiusweb/FullBBBody.csp?SearchMethod=Find_1&amp;Profile=Default&amp;OpacLanguage=fre&amp;RequestId=646805_3&amp;RecordNumber=9</field>
+<field name="artist">http://dbpedia.org/resource/Pieter_Bruegel_the_Elder</field>
+<field name="city">http://dbpedia.org/resource/Brussels</field>
+<field name="height">116</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="title">The Census at Bethlehem</field>
+<field name="type">Oil on panel</field>
+<field name="width">164.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Census_at_Bethlehem</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Census_at_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Censimento_di_Betlemme</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Census_at_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Spis_ludności_w_Betlejem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Census_at_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Census_at_Bethlehem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Census_at_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Volkszählung_zu_Bethlehem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Census_at_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Censo_en_Belén</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Census_at_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q375216</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Census_at_Bethlehem</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Перепис_у_Віфлеємі</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Census_at_Bethlehem</field>
+</doc>
+</add>

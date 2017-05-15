@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Assedio_di_Asola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Siege_of_Asola</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Siege_of_Asola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Siege_of_Asola</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Assedio_di_Asola</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bwmjrx</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Siege_of_Asola</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1125410</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tintoretto</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1544_paintings</field>
+<field name="abstract">The Siege of Asola is a painting by the Italian late Renaissance master Tintoretto, executed in 1544-1545. It is housed in the National Museum of Poznań, Poland. The canvas portrays two scenes. From the left to the middle is, in the foreground, a clash of knights occurred during the siege of the Venetian town of Asola by the troops of the Austrian emperor Maximilian I in 1516. Among the clashing soldiers is the banner of Asola, the fortress itself being shown in the background. On the right is depicted to homage of the citizens of Asola to the Venetian provveditore (curator) Francesco Contarini, the nobleman who organized the city's defence and forced Maximilian's troop to withdraw.</field>
+<field name="label">The Siege of Asola</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/31/Assedio_di_asola.jpg</field>
+<field name="comment">The Siege of Asola is a painting by the Italian late Renaissance master Tintoretto, executed in 1544-1545. It is housed in the National Museum of Poznań, Poland. The canvas portrays two scenes. From the left to the middle is, in the foreground, a clash of knights occurred during the siege of the Venetian town of Asola by the troops of the Austrian emperor Maximilian I in 1516. Among the clashing soldiers is the banner of Asola, the fortress itself being shown in the background.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Assedio_di_asola.jpg/200px-Assedio_di_asola.jpg</field>
+<field name="link_external">http://www.mnp.art.pl/Piasecka/</field>
+<field name="artist">http://dbpedia.org/resource/Tintoretto</field>
+<field name="city">http://dbpedia.org/resource/Pozna%C5%84</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="museum">http://dbpedia.org/resource/National_Museum,_Pozna%C5%84</field>
+<field name="title">The Siege of Asola</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Siege_of_Asola</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Siege_of_Asola</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Siege_of_Asola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Siege_of_Asola</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1125410</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Siege_of_Asola</field>
+</doc>
+</add>

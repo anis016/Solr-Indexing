@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arrival_of_the_Hungarians</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q716162</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Arrival_of_the_Hungarians</field>
+<field name="sameAs">http://dbpedia.org/resource/Arrival_of_the_Hungarians</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09v2_mf</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Feszty-Panorama</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/Landokupo_de_la_madjaroj_(rundpentraĵo)</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Feszty-körkép</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Przybycie_Węgrów</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cycloramas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Hungarian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1894_paintings</field>
+<field name="abstract">This is about a painting. See Hungarian Conquest of the Carpathian Basin for the historical event. {{#invoke:Coordinates|coord}}{{#coordinates:46|29|22|N|20|5|46|E|region:HU_type:landmark |primary |name= }} Arrival of the Hungarians (Feszty Panorama) Hungarian: A magyarok bejövetele (Feszty-körkép) 350px Artist Árpád Feszty et al. Year 1892-1894 Type Oil on canvas, cyclorama Dimensions 1500 cm × 12000 cm Location National Historical Memorial Park, Ópusztaszer, Hungary The Arrival of the Hungarians (Hungarian: A magyarok bejövetele; commonly known as Feszty Panorama or Feszty Cyclorama, Hungarian: Feszty-körkép) is a large cyclorama - a circular panoramic painting - by Hungarian painter Árpád Feszty and his assistants, depicting the arrival of the Hungarians to the Carpathian Basin in 895. It was completed in 1894 for the 1000th anniversary of the event. Since the 1100th anniversary of the event in 1995, the painting has been displayed in the National Historical Memorial Park in Ópusztaszer, Hungary.</field>
+<field name="label">Arrival of the Hungarians</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b6/Feszty_Panorama.jpg</field>
+<field name="comment">This is about a painting. See Hungarian Conquest of the Carpathian Basin for the historical event. {{#invoke:Coordinates|coord}}{{#coordinates:46|29|22|N|20|5|46|E|region:HU_type:landmark |primary |name= }} Arrival of the Hungarians (Feszty Panorama) Hungarian: A magyarok bejövetele (Feszty-körkép) 350px Artist Árpád Feszty et al.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Feszty_Panorama.jpg/200px-Feszty_Panorama.jpg</field>
+<field name="link_external">http://hungarianconsulate.co.nz/mszo/mszo91.pdf</field>
+<field name="link_external">http://www.opusztaszer.hu/</field>
+<field name="link_external">http://www.budapest360.hu/feszty_panoramahu.htm</field>
+<field name="link_external">http://www.panoramio.com/photo/19428651</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/%C3%93pusztaszer</field>
+<field name="city">http://dbpedia.org/resource/Hungary</field>
+<field name="height">1500</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/National_Historical_Memorial_Park_of_%C3%93pusztaszer</field>
+<field name="title">Arrival of the Hungarians</field>
+<field name="width">12000</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Arrival_of_the_Hungarians</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Arrival_of_the_Hungarians</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Przybycie_Węgrów</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arrival_of_the_Hungarians</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Feszty_Cyclorama</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Feszty_Panorama</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Arrival_of_the_Hungarians</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Arrival_of_the_Hungarians</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Feszty-Panorama</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arrival_of_the_Hungarians</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q716162</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arrival_of_the_Hungarians</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/Landokupo_de_la_madjaroj_(rundpentraĵo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arrival_of_the_Hungarians</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Feszty-körkép</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Arrival_of_the_Hungarians</field>
+</doc>
+</add>

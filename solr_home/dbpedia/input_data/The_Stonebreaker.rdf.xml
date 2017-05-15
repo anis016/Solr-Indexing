@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Stonebreaker</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Stonebreaker</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02wvzld</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Дробильщик_камня</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stonebreaker</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q28722</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Birmingham_Museum_and_Art_Gallery</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henry_Wallis</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1857_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Walker_Art_Gallery_Liverpool</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="abstract">The Stonebreaker is an 1857 oil-on-canvas painting by Henry Wallis. It depicts a manual labourer who appears to be asleep, worn out by his work, but has actually been worked to death. The painting was first exhibited in 1858 at the Royal Academy in London and was highly acclaimed. Many viewers assumed the man was sleeping, worn out by his day of hard but honest labour. Wallis gave no outright statement that the man depicted was dead, but there are many suggestions to this effect. The frame was inscribed with a line paraphrased from Tennyson's A Dirge (1830): "Now is thy long day's work done"; the muted colours and setting sun give a feeling of finality; the man's posture indicates that his hammer has slipped from his grasp as he was working rather than being laid aside while he rests, and his body is so still that a stoat, only visible on close examination, has climbed onto his right foot. The painting's listing in the catalogue was accompanied by a long passage from Thomas Carlyle's "Helotage", a chapter in his Sartor Resartus, which extols the virtues of the working man and laments that "thy body like thy soul was not to know freedom". Wallis is believed to have painted The Stonebreaker as a commentary on the Poor Law Amendment Act of 1834 which had formalised the workhouse system for paupers and discouraged other forms of relief for the poor. The able-bodied poor were forced into long hours of manual labour in order to qualify for the lodgings and food provided by the workhouse and the gruelling work sometimes resulted in the death of the workers. Carlyle's accompanying passage also has strong words for supporters of the workhouses: Perhaps in the most thickly-peopled country, some three days annually might suffice to shoot all the able-bodied Paupers that had accumulated during the year. It was later claimed that by this painting, Wallis moved away from the Pre-Raphaelite principles towards those of an early Victorian Social Realism. However, for Wallis' contemporaries, The Stonebreaker consolidated his reputation as a true Pre-Raphaelite. The dead man wears the smock of an agricultural labourer which suggests that in former times he would have been employed year-round on a farm. Changing social conditions have robbed him of his employment and forced him instead to accept the charity of the workhouse and the arduous job of flint-knapping to produce material for the roads. The painting provides a strong contrast with John Brett's painting of the same name, completed the year after Wallis's version. Brett's Stonebreaker shows another pauper breaking rocks, but this time it is a smartly dressed, well-nourished boy, accompanied by a playful puppy, working away in a bright, sunlit landscape. Brett's painting made his reputation. The details are captured with a scientific accuracy, and the painting was lauded by the art critic John Ruskin. It too makes a statement about the poor, although it lacks the hopelessness and finality of Wallis's painting, just as in Wallis's version there is an underlying realism that is not at first obvious: the boy is rosy-cheeked not because of healthy exercise, but because of the work he is forced to undertake; the puppy cavorts happily, but the boy, working for the chance of receiving charity, cannot afford to stop to play. Brett's painting is in the Walker Art Gallery, Liverpool. Although Wallis's technique was admired, his choice of subject divided the critics. The Illustrated London News found it shocking and offensive while The Spectator said it embodied "the sacredness and solemnity which dwell in a human creature, however seared, and in death, however obscure".</field>
+<field name="label">The Stonebreaker</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/99/Wallis_The_Stonebreaker.jpg</field>
+<field name="comment">The Stonebreaker is an 1857 oil-on-canvas painting by Henry Wallis. It depicts a manual labourer who appears to be asleep, worn out by his work, but has actually been worked to death. The painting was first exhibited in 1858 at the Royal Academy in London and was highly acclaimed. Many viewers assumed the man was sleeping, worn out by his day of hard but honest labour. Wallis gave no outright statement that the man depicted was dead, but there are many suggestions to this effect.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wallis_The_Stonebreaker.jpg/200px-Wallis_The_Stonebreaker.jpg</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ArtistWorks?cgroupid=999999961&amp;artistid=578&amp;page=1&amp;sole=y&amp;collab=y&amp;attr=y&amp;sort=default&amp;tabview=bio</field>
+<field name="artist">http://dbpedia.org/resource/Henry_Wallis</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Birmingham_Museum_and_Art_Gallery</field>
+<field name="title">The Stonebreaker</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Stonebreaker</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Stonebreaker</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Дробильщик_камня</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stonebreaker</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Stonebreaker</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Stonebreaker</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q28722</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stonebreaker</field>
+</doc>
+</add>

@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Titan's_Goblet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Titan's_Goblet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cnytrh</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Titan's_Goblet</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7769468</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Titan's_Goblet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1833_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Cole</field>
+<field name="abstract">The Titan's Goblet is an oil painting by the English-born American landscape artist Thomas Cole. Painted in 1833, it is perhaps the most enigmatic of Cole's allegorical or imaginary landscape scenes. It is a work that "defies full explanation", according to the Metropolitan Museum of Art. The Titan's Goblet has been called a "picture within a picture" and a "landscape within a landscape": the goblet stands on conventional terrain, but its inhabitants live along its rim in a world all their own. Vegetation covers the entire brim, broken only by two tiny buildings, a Greek temple and an Italian palace. The vast waters are dotted with sailing vessels. Where the water spills upon the ground below, grass and a more rudimentary civilization spring up.</field>
+<field name="label">The Titan's Goblet</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/05/Cole,_Thomas_-_Der_Pokal_des_Riesen_-_hi_res_-_1833.JPG</field>
+<field name="comment">The Titan's Goblet is an oil painting by the English-born American landscape artist Thomas Cole. Painted in 1833, it is perhaps the most enigmatic of Cole's allegorical or imaginary landscape scenes. It is a work that "defies full explanation", according to the Metropolitan Museum of Art. The Titan's Goblet has been called a "picture within a picture" and a "landscape within a landscape": the goblet stands on conventional terrain, but its inhabitants live along its rim in a world all their own.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Cole,_Thomas_-_Der_Pokal_des_Riesen_-_hi_res_-_1833.JPG/200px-Cole,_Thomas_-_Der_Pokal_des_Riesen_-_hi_res_-_1833.JPG</field>
+<field name="link_external">http://www.metmuseum.org/publications/journals/1/pdf/1512618.pdf.bannered.pdf</field>
+<field name="link_external">http://www.metmuseum.org/works_of_art/collection_database/all/the_titan_s_goblet_thomas_cole/objectview.aspx?page=1&amp;sort=0&amp;sortdir=asc&amp;keyword=titan%27s%20goblet&amp;fp=1&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=20010846&amp;vT=1&amp;hi=0&amp;ov=0</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Titan's_Goblet</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Titan's_Goblet</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Titan's_Goblet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Titan's_Goblet</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7769468</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Titan's_Goblet</field>
+</doc>
+</add>

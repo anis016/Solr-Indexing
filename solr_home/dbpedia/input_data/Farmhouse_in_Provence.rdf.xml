@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Farmhouse_in_Provence</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Farmhouse_in_Provence</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Farmhouse_in_Provence</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Farmhouse_in_Provence</field>
+<field name="sameAs">http://dbpedia.org/resource/Farmhouse_in_Provence</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5435849</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gjdgck</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="abstract">Farmhouse in Provence also known as Entrance Gate to a Farm with Haystacks was made in 1888 by Vincent van Gogh in Arles in Provence at the height of his career. Partially due to having been inspired by painter Adolphe Monticelli, Van Gogh sought the Provence region of France to further expand his painting skill and experience. Van Gogh used several pairs of complementary colors in the Farmhouse in Provence, the color contrast bringing an intensity to his work. The painting is owned by the National Gallery of Art of Washington, D.C.</field>
+<field name="label">Farmhouse in Provence</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a4/Vincent_van_Gogh_-_Farmhouse_in_Provence.jpg</field>
+<field name="comment">Farmhouse in Provence also known as Entrance Gate to a Farm with Haystacks was made in 1888 by Vincent van Gogh in Arles in Provence at the height of his career. Partially due to having been inspired by painter Adolphe Monticelli, Van Gogh sought the Provence region of France to further expand his painting skill and experience. Van Gogh used several pairs of complementary colors in the Farmhouse in Provence, the color contrast bringing an intensity to his work.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Vincent_van_Gogh_-_Farmhouse_in_Provence.jpg/200px-Vincent_van_Gogh_-_Farmhouse_in_Provence.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/timage_f?object=52178&amp;image=12003&amp;c=</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">46.1</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">Farmhouse in Provence</field>
+<field name="type">Oil on canvas</field>
+<field name="width">60.9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Farmhouse_in_Provence</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Farmhouse_in_Provence</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5435849</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Farmhouse_in_Provence</field>
+</doc>
+</add>

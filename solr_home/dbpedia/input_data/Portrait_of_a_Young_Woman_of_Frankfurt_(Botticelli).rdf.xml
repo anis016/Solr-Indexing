@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08nf3l</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4373363</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_jeune_femme_(Botticelli,_Francfort-sur-le-Main)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_una_joven_(Botticelli)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_молодой_женщины_(картина_Боттичелли,_1480—1485)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Portret_van_een_jonge_vrouw_(Botticelli)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_St%C3%A4del</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="abstract">Portrait of a Young Woman is a painting which is commonly believed to be by the Italian Renaissance painter Sandro Botticelli, executed between 1480 and 1485. Others attribute authorship to Jacopo del Sellaio. The subject, likely Simonetta Vespucci, is shown in side profile, wearing "Nero's Seal" around her neck. It is housed in the Städel of Frankfurt, Germany. Other Botticelli portraits with the same name are housed in Uffizi, Florence, and the Staatliche Museen in Berlin.</field>
+<field name="label">Portrait of a Young Woman of Frankfurt (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5a/Sandro_Botticelli_069.jpg</field>
+<field name="comment">Portrait of a Young Woman is a painting which is commonly believed to be by the Italian Renaissance painter Sandro Botticelli, executed between 1480 and 1485. Others attribute authorship to Jacopo del Sellaio. The subject, likely Simonetta Vespucci, is shown in side profile, wearing "Nero's Seal" around her neck. It is housed in the Städel of Frankfurt, Germany. Other Botticelli portraits with the same name are housed in Uffizi, Florence, and the Staatliche Museen in Berlin.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Sandro_Botticelli_069.jpg/200px-Sandro_Botticelli_069.jpg</field>
+<field name="artist"/>
+<field name="height">82</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/St%C3%A4del</field>
+<field name="title">Portrait of a Young Woman</field>
+<field name="type">Tempera on wood</field>
+<field name="width">54</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_молодой_женщины_(картина_Боттичелли,_1480—1485)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_una_joven_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_jeune_femme_(Botticelli,_Francfort-sur-le-Main)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4373363</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Portret_van_een_jonge_vrouw_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_of_Frankfurt_(Botticelli)</field>
+</doc>
+</add>

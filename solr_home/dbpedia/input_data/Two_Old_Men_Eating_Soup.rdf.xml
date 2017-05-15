@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Two_Old_Men_Eating_Soup</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dwie_staruchy_jedzące_zupę</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_Old_Men_Eating_Soup</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Two_Old_Men_Eating_Soup</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Dois_velhos_comendo_sopa</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Δύο_γέροι_τρώνε_σούπα</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmcjmg</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3291664</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Dos_viejos_comiendo_sopa</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">Two Old Men Eating Soup or The Witchy Brew one of the Black Paintings created by Francisco Goya between 1819-23. By this time, Goya was in his mid-70s and deeply disillusioned. He painted the works on the interior walls of the house known as "The House of the Deaf Man" (Quinta del Sordo). They were not intended for public display. Two Old Men Eating Soup likely occupied a position above the main door to the house, between La Leocadia and Two Old Men. Like all other Black Paintings, it was transferred to canvas in 1874-78 under the supervision of Salvador Martínez Cubells, a curator at the Museo del Prado, Madrid. The owner, Baron Émile d'Erlanger, donated the canvases to the Spanish state in 1881, and they are now on display at the Prado. In the image, two elderly figures loom forward from a black background; although they are assumed to be men, their gender is not readily apparent. The mouth of the left figure is drawn into a grimace, possibly from lack of teeth. In stark contrast to this animated expression, the face of the other figure hardly seems alive at all. Its eyes are black hollows and the head in general bears the aspect of a skull. As in the rest of the Black Paintings, Goya's use of his medium displays an assurance that comes only from a lifetime of experience. Paint is handled freely and rapidly yet with great decisiveness. The palette knife is also used to apply paint in some areas. Blacks, ochres, earth tones and grays are the only colors used, as in the rest of the black paintings.</field>
+<field name="label">Two Old Men Eating Soup</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cf/Viejos_comiendo_sopa.jpg</field>
+<field name="comment">Two Old Men Eating Soup or The Witchy Brew one of the Black Paintings created by Francisco Goya between 1819-23. By this time, Goya was in his mid-70s and deeply disillusioned. He painted the works on the interior walls of the house known as "The House of the Deaf Man" (Quinta del Sordo). They were not intended for public display. Two Old Men Eating Soup likely occupied a position above the main door to the house, between La Leocadia and Two Old Men.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Viejos_comiendo_sopa.jpg/200px-Viejos_comiendo_sopa.jpg</field>
+<field name="link_external">http://www.ucm.es/BUCM/tesis/bba/ucm-t25732.pdf</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Two_Old_Men_Eating_Soup</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Two_Old_Men_Eating_Soup</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Two_Old_Men_Eating_Soup</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Two_Old_Men_Eating_Soup</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Dos_viejos_comiendo_sopa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_Old_Men_Eating_Soup</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Dois_velhos_comendo_sopa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_Old_Men_Eating_Soup</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Δύο_γέροι_τρώνε_σούπα</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_Old_Men_Eating_Soup</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dwie_staruchy_jedzące_zupę</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_Old_Men_Eating_Soup</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3291664</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_Old_Men_Eating_Soup</field>
+</doc>
+</add>

@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Balmy_Alley</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4852412</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Balmy_Alley</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07k52qr</field>
+<field name="sameAs">http://dbpedia.org/resource/Balmy_Alley</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mission_District,_San_Francisco,_California</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Streets_in_San_Francisco,_California</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_of_San_Francisco,_California</field>
+<field name="abstract">Balmy Alley is the location of the most concentrated collection of murals in the city of San Francisco. Located in the south central portion of the Inner Mission District between 24th Street and Garfield Square. The project to install murals in Balmy Alley has been described, along with San Diego's Chicano Park and Los Angeles' Estrada Courts, as a leading example Chicano/a mural environments giving expression to a history of displacement and marginalization traditionally experienced by Mexican and Chicano/a of the United States, and as a means to reclaim the spaces historically denied to them. The murals of Balmy Alley date to 1972, as work of the two woman team of Patricia Rodriquez and Graciela Carillo known as Las Mujeres Muralistas. A further project for this space began in 1984 spearheaded by Ray Patlan to install murals throughout the alley with the common theme of a celebration of indigenous Central American cultures and as protest of US intervention in Central America. This culminated in the addition of twenty seven murals during the summer of 1985, funded in part by a grant of $2,500 from the Zellerbach Foundation. This art project proved influential, inspiring the La Lucha Continua Art Park/La Lucha Mural Park in New York City the following year.</field>
+<field name="label">Balmy Alley</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/42/BalmyAlleyLookingNorth.jpg</field>
+<field name="comment">Balmy Alley is the location of the most concentrated collection of murals in the city of San Francisco. Located in the south central portion of the Inner Mission District between 24th Street and Garfield Square.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/42/BalmyAlleyLookingNorth.jpg/200px-BalmyAlleyLookingNorth.jpg</field>
+<field name="link_external">http://www.google.com/search?q=balmy+alley+murals&amp;hl=en&amp;safe=off&amp;prmd=ivns&amp;tbm=isch&amp;tbo=u&amp;source=univ</field>
+<field name="link_external">http://www.balmyalley.com/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Balmy_Alley</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Balmy_Alley</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Balmy_Alley</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Balmy_Alley</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4852412</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Balmy_Alley</field>
+</doc>
+</add>

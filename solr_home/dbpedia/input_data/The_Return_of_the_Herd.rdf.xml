@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Return_of_the_Herd</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rljwg</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Herd</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Sürünün_Geri_Dönüşü</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q698254</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Heimkehr_der_Herde</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Powrót_stada</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Return_of_the_Herd</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ต้อนสัตว์เลี้ยงกลับบ้าน_(บรูเกลผู้พ่อ)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_regreso_de_la_manada</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritorno_della_mandria</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1565_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cattle_in_art</field>
+<field name="abstract">The Return of the Herd is an oil on wood painting by Pieter Bruegel in 1565. The painting is one in a series of six works, five of which are still intact, that depict different times of the year. The painting is currently in the collection of the Kunsthistorisches Museum, located in Vienna, Austria. Note the painting's clockwise movement and its thematic contrasts. There is movement not just of the river flowing downstream, but of the cattle moving ploddingly uphill. This resolves into the mountains' march into the distance across the top, matched by the fold of the valley. One point of contrast is the ease of the water issuing downstream, against the visible effort of humans guiding their herd home, away from an inhospitable storm. The painting reminds us that human endeavor in working with nature for survival is a steady challenge. The mountains provide another contrast with their sharp, upward thrusts conveying a sense of timeless isolation, making a bleak backdrop to the farmers' familiar, daily labors.</field>
+<field name="label">The Return of the Herd</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/38/Pieter_Bruegel_d._Ä._103b.jpg</field>
+<field name="comment">The Return of the Herd is an oil on wood painting by Pieter Bruegel in 1565. The painting is one in a series of six works, five of which are still intact, that depict different times of the year. The painting is currently in the collection of the Kunsthistorisches Museum, located in Vienna, Austria. Note the painting's clockwise movement and its thematic contrasts. There is movement not just of the river flowing downstream, but of the cattle moving ploddingly uphill.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Pieter_Bruegel_d._Ä._103b.jpg/200px-Pieter_Bruegel_d._Ä._103b.jpg</field>
+<field name="link_external">http://www.khm.at/homeE/homeE.html</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/97318</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="height">117</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">The Return of the Herd</field>
+<field name="type">Oil on wood</field>
+<field name="width">159</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Return_of_the_Herd</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Return_of_the_Herd</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Heimkehr_der_Herde</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Herd</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritorno_della_mandria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Herd</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Powrót_stada</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Herd</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_regreso_de_la_manada</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Herd</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Return_of_the_Herd</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Return_of_the_Herd</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q698254</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Herd</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ต้อนสัตว์เลี้ยงกลับบ้าน_(บรูเกลผู้พ่อ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Herd</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Sürünün_Geri_Dönüşü</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Return_of_the_Herd</field>
+</doc>
+</add>

@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Fruit_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08s9fp</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Fruit_(Caravaggio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3337119</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Nature_morte_aux_fruits</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Natura_morta_con_frutta</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Still_Life_with_Fruit_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_still_life_painters</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Borghese_Collection</field>
+<field name="abstract">Still Life with Fruit is a painting by the Italian Baroque master Michelangelo Merisi da Caravaggio (1571–1610). The picture has been variously dated between 1601 and 1605 (Caravaggio scholar John T. Spike favours the later date in his 1996 study of the artist). It depicts a wicker basket heaped with various fruit and vegetables sitting on a stone table, caught in Caravaggio's usual strong yet mellow shaft of light falling from top left, "as if through a hole in the ceiling. " (Caravaggio at around this time was sued by a landlady for having cut a hole in the ceiling of the rooms he rented, presumably to create his characteristic lighting). The bulk of the space is taken up by the large melons, marrows and pumpkins, the watermelon and pumpkin cut open to display the interior, the marrows, long and twisting, seeming to wish to escape the two-dimensional space of the picture plane. While at one level the painting is a bravura study of texture and form and light, the Renaissance symbology of fruit and vegetables was rich and intricate, and given this fact and the fact that so many of Caravaggio's apparently simple paintings, such as Boy Bitten by a Lizard, in fact carry coded messages, it is not unlikely that the Still Life with Fruit is equally complex. Nevertheless, no plausible reading has so far been advanced, although several commentators have noted the visual suggestiveness of the moistly cut fruits and melons and the writhing, thrusting marrows. It was first recorded in the collection of Cardinal Antonio Barberini in 1671, as being "in the hand" of the artist; how it came to be there (and this is the first recorded mention of its existence) is open to speculation, but Barberini is known to have bought up part of the collection of Cardinal Francesco Maria Del Monte, Caravaggio's first patron, when the cardinal died in 1627 . It may therefore have been a private work for Del Monte. Another possibility is that in 1644 Cardinal Antonio Barberini inherited the Still Life with Fruit from his uncle, Pope Urban VIII, who was the greatest patron of the Roman Baroque and an avid art collector. It is documented that in 1603, while he was still a cardinal, Urban VIII acquired a number of paintings directly from Caravaggio. The Still Life with Fruit could easily have been one of these. It shares the same dimensions and the same palette as the Sacrifice of Isaac now at the Uffizi, which is known to have been part of this group and which dates from the same period in Caravaggio's career. Caravaggio has justly been credited as the father of Roman still-life painting, a genre which was in its infancy in the early 17th century. Although Caravaggio very frequently included still-life elements in his works, only two independent still lifes from his hand have been identified to date. These are the Still Life with Fruit and the Basket of Fruit at the Ambrosiana in Milan. Because of both the extraordinary virtuosity of its execution and the complexity of meaning suggested by its composition, scholars have referred to the Still Life with Fruit as a "capital picture for the artist" and a "masterpiece of still life."</field>
+<field name="label">Still Life with Fruit (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/17/Still_life_-_Caravaggio.png</field>
+<field name="comment">Still Life with Fruit is a painting by the Italian Baroque master Michelangelo Merisi da Caravaggio (1571–1610). The picture has been variously dated between 1601 and 1605 (Caravaggio scholar John T. Spike favours the later date in his 1996 study of the artist). It depicts a wicker basket heaped with various fruit and vegetables sitting on a stone table, caught in Caravaggio's usual strong yet mellow shaft of light falling from top left, "as if through a hole in the ceiling.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Still_life_-_Caravaggio.png/200px-Still_life_-_Caravaggio.png</field>
+<field name="link_external">http://www.hort.purdue.edu/newcrop/caravaggio/caravaggio.html</field>
+<field name="link_external">http://www.wm.edu/muscarelle/still_life.php</field>
+<field name="artist"/>
+<field name="height">105</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Still Life with Fruit</field>
+<field name="type">Oil on canvas</field>
+<field name="width">84</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Still_Life_with_Fruit_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Still_Life_with_Fruit_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Fruit</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Nature_morte_aux_fruits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Fruit_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Still_Life_with_Fruit_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Still_Life_with_Fruit_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Natura_morta_con_frutta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Fruit_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3337119</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Still_Life_with_Fruit_(Caravaggio)</field>
+</doc>
+</add>

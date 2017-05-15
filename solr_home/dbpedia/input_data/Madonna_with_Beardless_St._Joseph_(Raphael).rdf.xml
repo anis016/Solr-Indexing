@@ -1,0 +1,79 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sacra_Famiglia_con_san_Giuseppe_imberbe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_с_безбородым_Иосифом</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_à_l'Enfant_et_saint_Joseph</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Madonna_saqqalsız_Müqəddəs_Cozeflə_(Rafael)</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_с_безбородым_Иосифом</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Madona_so_svätým_Jozefom_(Raffael)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sacra_Famiglia_con_san_Giuseppe_imberbe</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_à_l'Enfant_et_saint_Joseph</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2629419</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h2hg0</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1506_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Hermitage_Museum</field>
+<field name="abstract">The Madonna with Beardless St. Joseph is an early painting by Raphael, produced in 1506, now at the Hermitage Museum.</field>
+<field name="label">Madonna with Beardless St. Joseph (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c5/Raphael_Madonna_with_Beardless_St._Joseph.jpg</field>
+<field name="comment">The Madonna with Beardless St. Joseph is an early painting by Raphael, produced in 1506, now at the Hermitage Museum.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Raphael_Madonna_with_Beardless_St._Joseph.jpg/200px-Raphael_Madonna_with_Beardless_St._Joseph.jpg</field>
+<field name="link_external">http://www.hermitagemuseum.org/html_En/03/hm3_3_1g.html</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Saint_Petersburg</field>
+<field name="height">72.5</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Hermitage_Museum</field>
+<field name="title">Madonna with Beardless St. Joseph</field>
+<field name="type">Tempera on canvas</field>
+<field name="width">56.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2629419</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Madonna_saqqalsız_Müqəddəs_Cozeflə_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Madona_so_svätým_Jozefom_(Raffael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Beardless_St._Joseph_(Raphael)</field>
+</doc>
+</add>

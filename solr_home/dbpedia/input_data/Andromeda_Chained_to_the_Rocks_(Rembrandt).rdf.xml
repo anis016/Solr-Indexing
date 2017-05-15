@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://he.dbpedia.org/resource/אנדרומדה_כבולה_אל_הסלעים</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Andromeda_aan_de_rots_geketend</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Andromeda_(Rembrandt)</field>
+<field name="sameAs">http://dbpedia.org/resource/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05b_v7n</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1130734</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mauritshuis</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1631_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="abstract">Andromeda Chained to the Rock was painted by Rembrandt in 1631, and is now in the Mauritshuis, in The Hague. Andromeda represents Rembrandt's first full length mythological female nude history painting and is taken from a story in Ovid's Metamorphoses. This story is about the daughter of an Ethiopian king who, as punishment for her mother's boasting, was chained to a rock to be sacrificed to a sea monster that was tormenting the Ethiopian people. Many artists such as Titian have depicted this story by showing Andromeda, her rescuer Perseus, and the sea monster all in the same composition. In this work, Rembrandt shies away from classical conventions by showing her not as a glamorous beauty but as a frightened naturalistic looking girl. No other figure is included, but her alarmed look out of the picture space to the right creates narrative tension. The painting is an example of Rembrandt's rejection of idealized beauty. Since he did not believe true beauty existed naturally, he painted women as he saw them; naturally imperfect and flawed. Rembrandt's subsequent nude mythological paintings from this period Diana Bathing and Danaë show his evolving portrayal of the nude.</field>
+<field name="label">Andromeda Chained to the Rocks (Rembrandt)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/89/Rembrandt_Harmensz._van_Rijn_011.jpg</field>
+<field name="comment">Andromeda Chained to the Rock was painted by Rembrandt in 1631, and is now in the Mauritshuis, in The Hague. Andromeda represents Rembrandt's first full length mythological female nude history painting and is taken from a story in Ovid's Metamorphoses. This story is about the daughter of an Ethiopian king who, as punishment for her mother's boasting, was chained to a rock to be sacrificed to a sea monster that was tormenting the Ethiopian people.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Rembrandt_Harmensz._van_Rijn_011.jpg/200px-Rembrandt_Harmensz._van_Rijn_011.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Rembrandt</field>
+<field name="city">http://dbpedia.org/resource/The_Hague</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mauritshuis</field>
+<field name="title">Andromeda Chained to the Rock</field>
+<field name="year">c. 1631</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Andromeda_Chained_to_the_Rocks</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Andromeda_chained_to_the_rocks</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Andromeda_(Rembrandt)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Andromeda_aan_de_rots_geketend</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1130734</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/אנדרומדה_כבולה_אל_הסלעים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Andromeda_Chained_to_the_Rocks_(Rembrandt)</field>
+</doc>
+</add>

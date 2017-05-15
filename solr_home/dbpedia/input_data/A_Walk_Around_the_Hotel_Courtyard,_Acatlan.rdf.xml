@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Walk_Around_the_Hotel_Courtyard,_Acatlan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.027hltr</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Walk_Around_the_Hotel_Courtyard,_Acatlan</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Walk_Around_the_Hotel_Courtyard,_Acatlan</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4660521</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_David_Hockney</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1985_paintings</field>
+<field name="abstract">A Walk Around the Hotel Courtyard, Acatlán is a 1985 painting by British artist David Hockney. Hockney painted A Walk Around the Hotel Courtyard after discovering a hotel courtyard in Mexico, when car trouble forced him to stop on the way while driving to Mexico City. The painting is one of his more hotly coloured works, being mostly red, with green and yellow, and is done in reverse perspective. The oil on two canvases or a diptych measures 183x610 centimeters overall. It is owned by the Benesse Corporation and is currently on display at Benesse House and Art Site, a contemporary art museum and hotel at the art village of Noashima, Japan.</field>
+<field name="label">A Walk Around the Hotel Courtyard, Acatlan</field>
+<field name="comment">A Walk Around the Hotel Courtyard, Acatlán is a 1985 painting by British artist David Hockney. Hockney painted A Walk Around the Hotel Courtyard after discovering a hotel courtyard in Mexico, when car trouble forced him to stop on the way while driving to Mexico City. The painting is one of his more hotly coloured works, being mostly red, with green and yellow, and is done in reverse perspective. The oil on two canvases or a diptych measures 183x610 centimeters overall.</field>
+<field name="link_external">http://bad.eserver.org/reviews/1999/1999-6-3-4.44PM.html</field>
+<field name="link_external">http://translate.google.com/translate?hl=en&amp;sl=fr&amp;u=http://davidhockney.online.fr/awalkaroundthehotel.htm&amp;sa=X&amp;oi=translate&amp;resnum=6&amp;ct=result&amp;prev=/search%3Fq%3DA%2BWalk%2BAround%2Bthe%2BHotel%2BCourtyard,%2BAcatlan%26hl%3Den%26sa%3DG</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Walk_Around_the_Hotel_Courtyard,_Acatlan</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Walk_Around_the_Hotel_Courtyard,_Acatlan</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Walk_Around_the_Hotel_Courtyard,_Acatlan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Walk_Around_the_Hotel_Courtyard,_Acatlan</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Walk_Around_the_Hotel_Courtyard</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_walk_around_the_hotel_courtyard</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4660521</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Walk_Around_the_Hotel_Courtyard,_Acatlan</field>
+</doc>
+</add>

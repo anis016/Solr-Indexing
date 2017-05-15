@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Gate_of_Calais</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Gate_of_Calais</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rqzgg</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7735910</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gate_of_Calais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1748_paintings</field>
+<field name="abstract">The Gate of Calais or O, the Roast Beef of Old England is a 1748 painting by William Hogarth, reproduced as a print from an engraving the next year. Hogarth produced the painting directly after his return from France, where he had been arrested as a spy while sketching in Calais. The scene depicts a side of beef being transported from the harbour to an English tavern in the port, while a group of undernourished, ragged French soldiers and a fat friar look on hungrily. Hogarth painted himself in the left corner with a "soldier's hand upon my shoulder."</field>
+<field name="label">The Gate of Calais</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ab/William_Hogarth_063.jpg</field>
+<field name="comment">The Gate of Calais or O, the Roast Beef of Old England is a 1748 painting by William Hogarth, reproduced as a print from an engraving the next year. Hogarth produced the painting directly after his return from France, where he had been arrested as a spy while sketching in Calais. The scene depicts a side of beef being transported from the harbour to an English tavern in the port, while a group of undernourished, ragged French soldiers and a fat friar look on hungrily.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/William_Hogarth_063.jpg/200px-William_Hogarth_063.jpg</field>
+<field name="link_external">http://books.google.com/books?id=nwgIAAAAMAAJ&amp;dq=%22William+Hogarth%22&amp;as_brr=1&amp;source=gbs_navlinks_s</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">80</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">The Gate of Calais</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">96</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Gate_of_Calais</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Gate_of_Calais</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Calais_Gate</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/O_the_Roast_Beef_of_Old_England</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/O_the_Roastbeef_of_Old_England</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Gate_of_Calais</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Gate_of_Calais</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7735910</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gate_of_Calais</field>
+</doc>
+</add>

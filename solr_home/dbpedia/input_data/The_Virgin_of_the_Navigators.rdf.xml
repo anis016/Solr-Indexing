@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Virgin_of_the_Navigators</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Virgin_of_the_Navigators</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Virgin_of_the_Navigators</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.064pzgd</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_Mare_de_Déu_dels_Navegants</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Virgin_of_the_Navigators</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Jungfrau_der_Seefahrer</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_de_los_Navegantes</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1213702</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/Virgulino_de_la_Navigantoj</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_of_the_Navigators</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_dei_Navigatori</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Spanish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Spanish_artists</field>
+<field name="abstract">The Virgin of the Navigators (Spanish: La Virgen de los Mareantes) is a painting by Spanish artist Alejo Fernández, created as the central panel of an altarpiece for the chapel of the Casa de Contratación building in Seville, southern Spain. It is the earliest known painting whose subject is the discovery of the Americas. The painting is a version of the common iconography of the Virgin of Mercy, in which the Virgin Mary protects the faithful under the folds of her mantel, best known from the 1445 painting The Madonna of Mercy by Piero della Francesca. In this the Virgin Mary is always the largest figure in the picture, towering above those being protected. Sometime before 1536, officials at the Casa de Contratación commissioned the painting as the central panel of an altarpiece that they installed in the Hall of Audiences, so that the room could also serve as a chapel. Scholars date the painting to 1531–36.</field>
+<field name="label">The Virgin of the Navigators</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4d/Fernandez-Virgin_of_the_Navigators_(proper_inversion).jpg</field>
+<field name="comment">The Virgin of the Navigators (Spanish: La Virgen de los Mareantes) is a painting by Spanish artist Alejo Fernández, created as the central panel of an altarpiece for the chapel of the Casa de Contratación building in Seville, southern Spain. It is the earliest known painting whose subject is the discovery of the Americas.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Fernandez-Virgin_of_the_Navigators_(proper_inversion).jpg/200px-Fernandez-Virgin_of_the_Navigators_(proper_inversion).jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Virgin_of_the_Navigators</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Virgin_of_the_Navigators</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Jungfrau_der_Seefahrer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_of_the_Navigators</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_de_los_Navegantes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_of_the_Navigators</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_dei_Navigatori</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_of_the_Navigators</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1213702</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_of_the_Navigators</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_Mare_de_Déu_dels_Navegants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_of_the_Navigators</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/Virgulino_de_la_Navigantoj</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Virgin_of_the_Navigators</field>
+</doc>
+</add>

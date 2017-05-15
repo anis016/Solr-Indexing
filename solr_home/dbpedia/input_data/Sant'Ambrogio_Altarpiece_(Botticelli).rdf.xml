@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_de_Saint-Ambroise</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retablo_de_San_Ambrosio</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02ry5h1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1761496</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_di_Sant'Ambrogio</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_Madonnas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_paintings_in_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="abstract">The Madonna and Child with Six Saints, also known as Sant'Ambrogio Altarpiece, is a painting by the Italian Renaissance master Sandro Botticelli, finished around 1470. It is housed in the Galleria degli Uffizi, in Florence. It portrays the Virgin enthroned with the saints Mary Magdalene, John the Baptist, Francis, Catherine of Alexandria and, kneeling, Cosmas and Damian (patrons of the House of Medici). It is in fact most likely that the latter are portraits of Medici members. Lorenzo il Magnifico and his brother Giuliano have been considered.</field>
+<field name="label">Sant'Ambrogio Altarpiece (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/db/Botticelli_Sant'Ambrogio.jpg</field>
+<field name="comment">The Madonna and Child with Six Saints, also known as Sant'Ambrogio Altarpiece, is a painting by the Italian Renaissance master Sandro Botticelli, finished around 1470. It is housed in the Galleria degli Uffizi, in Florence. It portrays the Virgin enthroned with the saints Mary Magdalene, John the Baptist, Francis, Catherine of Alexandria and, kneeling, Cosmas and Damian (patrons of the House of Medici). It is in fact most likely that the latter are portraits of Medici members.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Botticelli_Sant'Ambrogio.jpg/200px-Botticelli_Sant'Ambrogio.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=270</field>
+<field name="artist"/>
+<field name="height">167</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna and Child with Six Saints</field>
+<field name="type">Tempera on panel</field>
+<field name="width">195</field>
+<field name="year">c. 1470</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retablo_de_San_Ambrosio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_de_Saint-Ambroise</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_di_Sant'Ambrogio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1761496</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sant'Ambrogio_Altarpiece_(Botticelli)</field>
+</doc>
+</add>

@@ -1,0 +1,125 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_un_músico</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_musicien</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_muzyka</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_музыканта</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Musician</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_musico</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_musician</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_musico</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Portretul_unui_muzician</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_музыканта</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_muzyka</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Musician</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.079x2_</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_musicien</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_un_músico</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2338404</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Hudobník_(Leonardo)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Retrat_d'un_músic_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Retrato_de_um_Músico</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/صورة_موسيقي</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Bildnis_eines_Musikers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Leonardo_da_Vinci</field>
+<field name="abstract">Portrait of a Musician is an oil on wood painting attributed to Leonardo da Vinci by some scholars. It was probably painted in 1490. The man in the painting was at one time thought to be Franchino Gaffurio, who was the maestro di cappella of the Milanese Cathedral. Although some believe it to be a portrait of Gaffurio, others think the man is famous Leonardo da Pistoia (monk) of the court of Cosimo de' Medici painted after his discovery of the ancien texts of the Corpus Hermeticus or an anonymous courtman. The piece of paper he holds is at least one part of a musical score; it has notes written on it. The painting was greatly restored and repainted, and Leonardo probably left the portrait unfinished but close to completion. The man is positioned in a three-quarter position and he is holding a partition sheet. The musician stares at something outside the spectator's field of vision. Compared to the detailed face of the musician, the red hat, his tunic and his hair seem to be painted by a completely other painter. Art historians have recognized the fine art of da Vinci in the young man's face, though the partition sheet and his hand may have been added on to the original work. Siegfried Woldhek, a Dutch illustrator, has claimed that 'Portrait of a Musician' is one of three self-portraits by Leonardo.</field>
+<field name="label">Portrait of a Musician</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c2/Leonardo_da_Vinci_-_Franchino_Gaffurio.jpg</field>
+<field name="comment">Portrait of a Musician is an oil on wood painting attributed to Leonardo da Vinci by some scholars. It was probably painted in 1490. The man in the painting was at one time thought to be Franchino Gaffurio, who was the maestro di cappella of the Milanese Cathedral.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Leonardo_da_Vinci_-_Franchino_Gaffurio.jpg/200px-Leonardo_da_Vinci_-_Franchino_Gaffurio.jpg</field>
+<field name="link_external">http://www.ted.com/index.php/speakers/siegfried_woldhek.html</field>
+<field name="link_external">http://www.leonardo-davinci.org/portraitofamusician.htm</field>
+<field name="artist">http://dbpedia.org/resource/Leonardo_da_Vinci</field>
+<field name="city">http://dbpedia.org/resource/Milan</field>
+<field name="height">45</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Biblioteca_Ambrosiana</field>
+<field name="title">Portrait of a Musician</field>
+<field name="width">32</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Musician</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Retrato_de_um_Músico</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Bildnis_eines_Musikers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2338404</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/صورة_موسيقي</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Retrat_d'un_músic_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Portretul_unui_muzician</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Hudobník_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Musician</field>
+</doc>
+</add>

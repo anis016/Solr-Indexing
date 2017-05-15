@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Dance_to_the_Music_of_Time_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2513438</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Una_dansa_per_la_música_del_Temps</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Dance_to_the_Music_of_Time_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h1bvkc</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Dance_to_the_Music_of_Time_(painting)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_Dans_van_de_Tijd</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Wallace_Collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Nicolas_Poussin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1636_paintings</field>
+<field name="abstract">A Dance to the Music of Time is a painting by Nicolas Poussin in The Wallace Collection in London. It was painted between 1634 and 1636 as a commission for Giulio Rospigliosi, who according to Gian Pietro Bellori dictated its detailed iconography. It is best known for giving its name to the novel cycle of the same name, though this title is first seen in a Wallace Collection catalogue of 1913, before which it was given more prosaic titles referring to the Four Seasons. In the 1845 sale it was called La Danse des Saisons, ou l'Image de la vie humaine. It passed from the Rospigliosi family to the Fesch collection in 1806, when it was taken to France for a period, and was bought along with several other paintings by Richard Seymour-Conway, 4th Marquess of Hertford in the great Fesch sale in Rome in 1845, passing to his son Sir Richard Wallace.</field>
+<field name="label">A Dance to the Music of Time (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f1/The_dance_to_the_music_of_time_c._1640.jpg</field>
+<field name="comment">A Dance to the Music of Time is a painting by Nicolas Poussin in The Wallace Collection in London. It was painted between 1634 and 1636 as a commission for Giulio Rospigliosi, who according to Gian Pietro Bellori dictated its detailed iconography. It is best known for giving its name to the novel cycle of the same name, though this title is first seen in a Wallace Collection catalogue of 1913, before which it was given more prosaic titles referring to the Four Seasons.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/The_dance_to_the_music_of_time_c._1640.jpg/200px-The_dance_to_the_music_of_time_c._1640.jpg</field>
+<field name="link_external">http://wallacelive.wallacecollection.org/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=65042&amp;viewType=detailView</field>
+<field name="artist">http://dbpedia.org/resource/Nicolas_Poussin</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Wallace_Collection</field>
+<field name="title">A Dance to the Music of Time</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Dance_to_the_Music_of_Time_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Dance_to_the_Music_of_Time_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Dance_to_the_Music_of_Time_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Dance_to_the_Music_of_Time_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Dance_to_the_Music_of_Time_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_Dans_van_de_Tijd</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Dance_to_the_Music_of_Time_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2513438</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Dance_to_the_Music_of_Time_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Una_dansa_per_la_música_del_Temps</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Dance_to_the_Music_of_Time_(painting)</field>
+</doc>
+</add>

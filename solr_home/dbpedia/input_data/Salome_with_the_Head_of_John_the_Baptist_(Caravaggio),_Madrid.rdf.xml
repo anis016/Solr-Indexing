@@ -1,0 +1,80 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Salomé_avec_la_tête_de_saint_Jean-Baptiste_(Le_Caravage,_Madrid)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+<field name="sameAs">http://th.dbpedia.org/resource/สะโลเมกับศีรษะของยอห์นแบปติสต์_(การาวัจโจ)_มาดริด</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2318957</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Salomé_con_la_cabeza_de_Juan_el_Bautista_(Caravaggio,_Madrid)</field>
+<field name="sameAs">http://dbpedia.org/resource/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09f3dc</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Salomè_con_la_testa_del_Battista_(Caravaggio_Madrid)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:John_the_Baptist</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">Salome with the Head of John the Baptist (Madrid), c. 1609, is a painting by the Italian master Caravaggio in the Palacio Real, Madrid. The early Caravaggio biographer Giovanni Bellori, writing in 1672, records the artist sending a Salome with the Head of John the Baptist from Naples to the Grand Master of the Knights of Malta, Fra Alof de Wignacourt, in the hope of regaining favour after having been expelled from the Order in 1608. It seems likely that this is the work, according to Caravaggio scholar John Gash. Gash also notes that the executioner, looking down at the severed head, helps transform the painting "from a provocative spectacle into a profound meditation on death and human malevolence."</field>
+<field name="label">Salome with the Head of John the Baptist (Caravaggio), Madrid</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/48/CaravaggioSalomeMadrid.jpg</field>
+<field name="comment">Salome with the Head of John the Baptist (Madrid), c. 1609, is a painting by the Italian master Caravaggio in the Palacio Real, Madrid. The early Caravaggio biographer Giovanni Bellori, writing in 1672, records the artist sending a Salome with the Head of John the Baptist from Naples to the Grand Master of the Knights of Malta, Fra Alof de Wignacourt, in the hope of regaining favour after having been expelled from the Order in 1608.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/CaravaggioSalomeMadrid.jpg/200px-CaravaggioSalomeMadrid.jpg</field>
+<field name="artist"/>
+<field name="height">116</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Salome with the Head of</field>
+<field name="title">John the Baptist</field>
+<field name="type">Oil on canvas</field>
+<field name="width">140</field>
+<field name="year">c. 1609</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Salomé_con_la_cabeza_de_Juan_el_Bautista_(Caravaggio,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Salome_with_the_Head_of_John_the_Baptist_(Madrid)_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Salomè_con_la_testa_del_Battista_(Caravaggio_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Salomé_avec_la_tête_de_saint_Jean-Baptiste_(Le_Caravage,_Madrid)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2318957</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/สะโลเมกับศีรษะของยอห์นแบปติสต์_(การาวัจโจ)_มาดริด</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Salome_with_the_Head_of_John_the_Baptist_(Caravaggio),_Madrid</field>
+</doc>
+</add>

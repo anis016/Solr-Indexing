@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Caveira_com_Cigarro_Aceso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Skull_of_a_Skeleton_with_Burning_Cigarette</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Czaszka_z_palącym_się_papierosem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Skull_of_a_Skeleton_with_Burning_Cigarette</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Skull_of_a_Skeleton_with_Burning_Cigarette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j27fmm</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Czaszka_z_palącym_się_papierosem</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Caveira_com_Cigarro_Aceso</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7536969</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Skull_of_a_Skeleton_with_Burning_Cigarette</field>
+<field name="sameAs">http://dbpedia.org/resource/Skull_of_a_Skeleton_with_Burning_Cigarette</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cigarettes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Van_Gogh_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1886_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Skull</field>
+<field name="abstract">Skull of a Skeleton with Burning Cigarette (Dutch: Kop van een skelet met brandende sigaret) is a 1886 painting by Vincent van Gogh. The painting is in the permanent collection of the Van Gogh Museum. In 1887/1888, Vincent van Gogh painted two more paintings with skulls. 153px 148px Skull (1887/1888) Skull (1887/1888)</field>
+<field name="label">Skull of a Skeleton with Burning Cigarette</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/25/WLANL_-_wikiphotophile_-_Kop_van_een_skelet_met_brandende_sigaret,_Vincent_van_Gogh,_1886.jpg</field>
+<field name="comment">Skull of a Skeleton with Burning Cigarette (Dutch: Kop van een skelet met brandende sigaret) is a 1886 painting by Vincent van Gogh. The painting is in the permanent collection of the Van Gogh Museum. In 1887/1888, Vincent van Gogh painted two more paintings with skulls. 153px 148px Skull (1887/1888) Skull (1887/1888)</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/WLANL_-_wikiphotophile_-_Kop_van_een_skelet_met_brandende_sigaret,_Vincent_van_Gogh,_1886.jpg/200px-WLANL_-_wikiphotophile_-_Kop_van_een_skelet_met_brandende_sigaret,_Vincent_van_Gogh,_1886.jpg</field>
+<field name="link_external">http://www.vangoghmuseum.nl/vgm/index.jsp?page=1628&amp;collection=619&amp;lang=en</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Van_Gogh_Museum</field>
+<field name="title">Skull of a Skeleton with Burning Cigarette</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Skull_of_a_Skeleton_with_Burning_Cigarette</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Skull_of_a_Skeleton_with_Burning_Cigarette</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Skull_of_a_Skeleton_with_Burning_Cigarette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Skull_of_a_Skeleton_with_Burning_Cigarette</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7536969</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Skull_of_a_Skeleton_with_Burning_Cigarette</field>
+</doc>
+</add>

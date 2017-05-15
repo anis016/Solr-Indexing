@@ -1,0 +1,116 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_música_en_las_Tullerías</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Koncert_w_ogrodzie_Tuileries</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Muziek_in_de_Tuilerieën</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02z97km</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Tuileriesdə_Musiqi_(tablo)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Musique_aux_Tuileries</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Koncert_w_ogrodzie_Tuileries</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Musik_im_Tuileriengarten</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q210277</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Tuileries'de_Müzik</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Musica_alle_Tuileries</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Musica_in_hortis_Tuileries</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/杜伊勒里花园音乐会</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_música_en_las_Tullerías</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Music_in_the_Tuileries</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Musika_Tuilerietan</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1862_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_%C3%89douard_Manet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="abstract">Music in the Tuileries is a painting by Édouard Manet which hangs in the The Hugh Lane, Dublin. It is an early example of Manet's painterly style, inspired by Frans Hals and Diego Velázquez, and it is a harbinger of his lifelong interest in the subject of leisure. While the picture was not regarded as finished by some, the suggested atmosphere imparts a sense of what the Tuileries gardens were like at the time; one may imagine the music and conversation. Here Manet has depicted his friends, artists, authors, and musicians who take part, and he has included a self-portrait among the subjects. Included in the image are Manet himself, Charles Baudelaire, Théophile Gautier, Henri Fantin-Latour, Jacques Offenbach, and Manet's brother Eugène.</field>
+<field name="label">Music in the Tuileries</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/94/MANET_-_Música_en_las_Tullerías_(National_Gallery,_Londres,_1862).jpg</field>
+<field name="comment">Music in the Tuileries is a painting by Édouard Manet which hangs in the The Hugh Lane, Dublin. It is an early example of Manet's painterly style, inspired by Frans Hals and Diego Velázquez, and it is a harbinger of his lifelong interest in the subject of leisure. While the picture was not regarded as finished by some, the suggested atmosphere imparts a sense of what the Tuileries gardens were like at the time; one may imagine the music and conversation.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/MANET_-_Música_en_las_Tullerías_(National_Gallery,_Londres,_1862).jpg/200px-MANET_-_Música_en_las_Tullerías_(National_Gallery,_Londres,_1862).jpg</field>
+<field name="artist">http://dbpedia.org/resource/%C3%89douard_Manet</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Music in the Tuileries</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Music_in_the_Tuileries</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Musik_im_Tuileriengarten</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Musique_aux_Tuileries</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Musica_alle_Tuileries</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Music_in_the_Tuileries</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Muziek_in_de_Tuilerieën</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Musika_Tuilerietan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q210277</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/杜伊勒里花园音乐会</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Tuileriesdə_Musiqi_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Musica_in_hortis_Tuileries</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Tuileries'de_Müzik</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_in_the_Tuileries</field>
+</doc>
+</add>

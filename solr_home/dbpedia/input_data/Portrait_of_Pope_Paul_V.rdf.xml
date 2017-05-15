@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Pope_Paul_V</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Pope_Paul_V</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Pope_Paul_V</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pope_Paul_V</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_Pablo_V</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1460271</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_du_pape_Paul_V</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Papa_Paolo_V</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09jq9p</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Pope_Paul_V</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pope_Paul_V</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Borghese_Collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_of_popes</field>
+<field name="abstract">Portrait of Pope Paul V (c. 1605-1606) is a painting by the Italian artist Michelangelo Merisi da Caravaggio (1571–1610), now in the Galleria Borghese, Rome. Camillo Borghese reigned as Pope Paul V from 1605 to 1621. Caravaggio's biographer Giovanni Bellori records that the artist painted a seated portrait of him as pope, which must place the work between Borghese's election on 16 May 1605 and Caravaggio's flight from Rome in May 1606 following the death of Ranuccio Tommassoni. The portrait is attested in the Borghese collection from 1650. Many scholars have doubted the authenticity of this painting, considering the composition too uninspired for the artist's style. But the scholar John Gash in his authoritative (revised) 2003 catalogue of Caravaggio believes the work is genuine, pointing out that the pose would have been beyond the artist's control - Paul V was noted for his dignified and even taciturn demeanor, and would be unlikely to accept direction. "[H H]is unostentatious bearing exemplifies the sober, cautious and, in fact, genuinely religious spirit of the man...". Gash also points out that Paul's narrowed eyes, far from conveying suspicion and malevolence as many writers assert, are the result of chronic myopia. Also note the startling similarities between this portrait and Velázquez's Portrait of Pope Innocent X. According to Bellori Caravaggio obtained his introduction to Paul through the papal nephew, cardinal Scipione Borghese. Scipione was an avid art collector, destined to acquire many of Caravaggio's canvasses, but he was to prove of little value as a patron either to Caravaggio or to others, preferring to enhance his collection through extortion and sharp practice rather than by support and purchase. He would eventually become one of the crucial figures in Caravaggio's final days.</field>
+<field name="label">Portrait of Pope Paul V</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ad/Pope_Paul_V.jpg</field>
+<field name="comment">Portrait of Pope Paul V (c. 1605-1606) is a painting by the Italian artist Michelangelo Merisi da Caravaggio (1571–1610), now in the Galleria Borghese, Rome. Camillo Borghese reigned as Pope Paul V from 1605 to 1621. Caravaggio's biographer Giovanni Bellori records that the artist painted a seated portrait of him as pope, which must place the work between Borghese's election on 16 May 1605 and Caravaggio's flight from Rome in May 1606 following the death of Ranuccio Tommassoni.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Pope_Paul_V.jpg/200px-Pope_Paul_V.jpg</field>
+<field name="artist"/>
+<field name="height">203</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum"/>
+<field name="title">Portrait of Pope Paul V</field>
+<field name="type">Oil on canvas</field>
+<field name="width">119</field>
+<field name="year">c. 1605-1606</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Pope_Paul_V</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Pope_Paul_V</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_Pablo_V</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pope_Paul_V</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_pope_paul_v</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_du_pape_Paul_V</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pope_Paul_V</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Papa_Paolo_V</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pope_Paul_V</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Pope_Paul_V_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1460271</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Pope_Paul_V</field>
+</doc>
+</add>

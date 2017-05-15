@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Madone_des_Médicis_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medici_Madonna_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_Medici_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medici_Madonna_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Medici_Madonna_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Medici_Madonna_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medici_Madonna_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medici_Madonna_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medici_Madonna_(van_der_Weyden)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3276176</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Medici_Madonna_(van_der_Weyden)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h544gr</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_Medici_(Rogier_van_der_Weyden)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Madone_des_Médicis_(van_der_Weyden)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rogier_van_der_Weyden</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_St%C3%A4del</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="abstract">The Medici Madonna is an oil-on-panel painting by the Netherlandish artist Rogier van der Weyden, dating from around 1460–1464 and housed in the Städel, Frankfurt, Germany. The work is known to have been commissioned by the Medici family in Florence, as testified by the Florentine coat of arms with a red lily at the center of the lower step. The work has been variously dated from 1450–1451, when the artist travelled to Rome visiting several Italian courts, or from 1460–1464, the same years of the Lamentation of Christ, inspired by Beato Angelico and now at the Uffizi.</field>
+<field name="label">Medici Madonna (van der Weyden)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/87/Rogier_van_der_Weyden_021.jpg</field>
+<field name="comment">The Medici Madonna is an oil-on-panel painting by the Netherlandish artist Rogier van der Weyden, dating from around 1460–1464 and housed in the Städel, Frankfurt, Germany. The work is known to have been commissioned by the Medici family in Florence, as testified by the Florentine coat of arms with a red lily at the center of the lower step.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Rogier_van_der_Weyden_021.jpg/200px-Rogier_van_der_Weyden_021.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Rogier_van_der_Weyden</field>
+<field name="height">61.7</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Medici Madonna</field>
+<field name="type">Oil on panel</field>
+<field name="width">46.1</field>
+<field name="year">c. 1460–1464</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Medici_Madonna_(van_der_Weyden)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Medici_Madonna_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3276176</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medici_Madonna_(van_der_Weyden)</field>
+</doc>
+</add>

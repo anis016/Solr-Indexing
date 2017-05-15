@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Girl_in_White_in_the_Woods</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Girl_in_White_in_the_Woods</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_in_White_in_the_Woods</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmcdcb</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_in_White_in_the_Woods</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5564476</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Girl_in_White_in_the_Woods</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Girl in White in the Woods is an oil painting created in 1882 by Vincent van Gogh. Of a study that Van Gogh made for Girl in a Wood or Girl in White in the Woods, he remarked at how much he enjoyed the work and explains how he wishes to trigger the audience's senses and how they may experience the painting: "The other study in the wood is of some large green beech trunks on a stretch of ground covered with dry sticks, and the little figure of a girl in white. There was the great difficulty of keeping it clear, and of getting space between the trunks standing at different distances - and the place and relative bulk of those trunks change with the perspective - to make it so that one can breathe and walk around in it, and to make you smell the fragrance of the wood."</field>
+<field name="label">Girl in White in the Woods</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d2/Girl_in_White_in_the_Woods.jpg</field>
+<field name="comment">Girl in White in the Woods is an oil painting created in 1882 by Vincent van Gogh. Of a study that Van Gogh made for Girl in a Wood or Girl in White in the Woods, he remarked at how much he enjoyed the work and explains how he wishes to trigger the audience's senses and how they may experience the painting: "The other study in the wood is of some large green beech trunks on a stretch of ground covered with dry sticks, and the little figure of a girl in white.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Girl_in_White_in_the_Woods.jpg/200px-Girl_in_White_in_the_Woods.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Girl_in_White_in_the_Woods</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Girl_in_White_in_the_Woods</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5564476</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_in_White_in_the_Woods</field>
+</doc>
+</add>

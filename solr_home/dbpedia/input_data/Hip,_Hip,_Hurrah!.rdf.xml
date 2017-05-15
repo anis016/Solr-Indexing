@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hip,_Hip,_Hurrah!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hip,_Hip,_Hurrah!</field>
+<field name="sameAs">http://dbpedia.org/resource/Hip,_Hip,_Hurrah!</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch2n8g</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Hip,_Hip,_Hurrah!</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3135789</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Danish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:P._S._Kr%C3%B8yer_paintings</field>
+<field name="abstract">Hip, Hip, Hurrah! is an oil-on-canvas painting from 1888 by Norwegian-Danish painter Peder Severin Krøyer. It shows various members of what Krøyer referred to as the "guild" of Skagen Painters: a group of Danish, Norwegian and Swedish artists who formed a loose community in Skagen at the northern tip of Jutland in the 1880s and early 1890s. Hip, Hip, Hurrah! is typical of the work produced by the Skagen Painters; very much in the style of the French Impressionists and Naturalists, it celebrates the play of light in the scene (and in composition and subject draws obvious comparisons to Renoir's Luncheon of the Boating Party), but at the same time it harks back to the freundschaftbild tradition of artists of the Danish Golden Age such as Ditlev Blunck and Wilhelm Bendz in depicting artistic communities spontaneously drawing together. The development of Krøyer's Skagen style can be seen by comparing Hip, Hip, Hurrah! with (Artists' Luncheon at Skagen), a similarly themed 1883 painting which features many of the same people; and with later works like ' (Summer Evening at Skagen beach. The Artist and his Wife) and Roser (Roses). The painting was started in 1884 after a party at Michael Ancher's house; the composition was inspired by photographs taken at the celebration by the German artist Fritz Stoltenberg, although the individuals featured are not all the same. Krøyer returned uninvited to Ancher's house the morning after the gathering with his easel and paints, eager to start sketching and expecting the freedom to come and go as he pleased. His lack of consideration annoyed Ancher who had only recently moved to the house in an attempt to escape the hustle and bustle of town life; as a result, the two artists suffered their first serious falling-out. Although they reconciled soon afterwards, Krøyer did not get the unlimited access to Ancher's garden that he had expected and, frustrated, he struggled to progress with the work. He made do with the garden at Ancher's old apartment and worked from photographs and from life when he got the chance. It was four years before he could complete the picture. Helga, Ancher's daughter who had been less than a year old at the time of the original festivities is shown to be older in the final painting, suggesting she was not included until later in the composition. Swedish art collector Pontus Fürstenberg bought the painting unseen (or at least before it was completed). It was displayed at Charlottenborg in 1888, and Fürstenberg later donated it to the Gothenburg Museum of Art, where it has hung ever since. The Skagens Museum has a small sketch from 1888. From left to right the people pictured are: Martha Møller Johansen, her husband, the painter Viggo Johansen, Norwegian painter Christian Krohg, Krøyer, Degn Brøndum (Anna Ancher's brother), Michael Ancher, Swedish painter Oscar Björck, Danish painter Thorvald Niss, teacher Helene Christensen (who was romantically involved with Krøyer), Danish painter Anna Ancher and her daughter Helga Ancher.</field>
+<field name="label">Hip, Hip, Hurrah!</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/20/PS_Krøyer_-_Hip_hip_hurra!_Kunstnerfest_på_Skagen_1888.jpg</field>
+<field name="comment">Hip, Hip, Hurrah! is an oil-on-canvas painting from 1888 by Norwegian-Danish painter Peder Severin Krøyer. It shows various members of what Krøyer referred to as the "guild" of Skagen Painters: a group of Danish, Norwegian and Swedish artists who formed a loose community in Skagen at the northern tip of Jutland in the 1880s and early 1890s.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/20/PS_Krøyer_-_Hip_hip_hurra!_Kunstnerfest_på_Skagen_1888.jpg/200px-PS_Krøyer_-_Hip_hip_hurra!_Kunstnerfest_på_Skagen_1888.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Peder_Severin_Kr%C3%B8yer</field>
+<field name="height">134.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Gothenburg_Museum_of_Art</field>
+<field name="title">Hip, Hip, Hurrah!</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">165.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hip,_Hip,_Hurrah!</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hip,_Hip,_Hurrah!</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hip,_Hip,_Hurrah!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hip,_Hip,_Hurrah!</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hip,_Hip,_Hurra!_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hip,_hip,_hurra!_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Hip,_Hip,_Hurrah!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hip,_Hip,_Hurrah!</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3135789</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hip,_Hip,_Hurrah!</field>
+</doc>
+</add>

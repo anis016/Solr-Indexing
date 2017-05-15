@@ -1,0 +1,97 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/O_guarda-sol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Parasol</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_parasole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Parasol</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Parasol_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Parasol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2537138</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Parasol</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_quitasol</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/O_guarda-sol</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05p8g59</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_para-sol</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_parasole</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Parasolka_(obraz_Goi)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Parasol</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1777_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">The Parasol (also known as El Quitasol) is one of a cartoon series of oil on linen paintings made by the painter Francisco Goya. This series of paintings was specifically made in order to be transformed into tapestries that would be hung on the walls of the Royal Palace of El Pardo in Madrid, Spain. The tapestries showed serene events in everyday life, which make them a nice addition to the dining room of Prince and Princess of Asturias—the future King Charles IV and Maria Luisa of Parma. The queen called on Goya because she wanted to decorate the dining room with cheerful scenes; The Parasol and the other tapestry paintings were Goya's response to this request. The painting is currently located in the Museo del Prado in Madrid as is another in the series, Blind man's bluff.</field>
+<field name="label">The Parasol</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d5/El_Quitasol_(Goya).jpg</field>
+<field name="comment">The Parasol (also known as El Quitasol) is one of a cartoon series of oil on linen paintings made by the painter Francisco Goya. This series of paintings was specifically made in order to be transformed into tapestries that would be hung on the walls of the Royal Palace of El Pardo in Madrid, Spain. The tapestries showed serene events in everyday life, which make them a nice addition to the dining room of Prince and Princess of Asturias—the future King Charles IV and Maria Luisa of Parma.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/El_Quitasol_(Goya).jpg/200px-El_Quitasol_(Goya).jpg</field>
+<field name="link_external">http://www.museodelprado.es</field>
+<field name="link_external">http://books.google.com/books?id=JIb45zQG-o4C&amp;pg=PA3&amp;lpg=PA3&amp;dq=the+history+of+the+parasol+by+goya&amp;source=bl&amp;ots=HsQgAmWl2L&amp;sig=FSh6-nztxw3O9b0CULW9U3aHq5Q&amp;hl=en&amp;ei=lbPISYu8DNm0jAfqyqTIAw&amp;sa=X&amp;oi=book_result&amp;resnum=2&amp;ct=result#PPA3,M1</field>
+<field name="link_external">http://www.fineart-china.com/opus_go.php?opus_name=The%20Parasol</field>
+<field name="link_external">http://www.signandsight.com/features/271.html</field>
+<field name="link_external">http://eeweems.com/goya/parasol.html</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/goya/</field>
+<field name="link_external">http://womansartjournal.org/26-2.php</field>
+<field name="link_external">http://www.artefamoso.com/obras-arte-a/go03/ficha/El-quitasol-(parasol)-de-Goya.html</field>
+<field name="link_external">http://www.spanisharts.com/prado/goya.htm</field>
+<field name="artist">http://dbpedia.org/resource/Francisco_Goya</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">104</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">The Parasol</field>
+<field name="width">152</field>
+<field name="year">c. 1777</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Parasol</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Parasol</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_quitasol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Parasol</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Parasol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Parasol</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Parasol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Parasolka_(obraz_Goi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Parasol</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2537138</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Parasol</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_para-sol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Parasol</field>
+</doc>
+</add>

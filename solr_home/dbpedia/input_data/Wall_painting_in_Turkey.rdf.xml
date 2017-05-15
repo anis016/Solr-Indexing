@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Wall_painting_in_Turkey</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f6_j7</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Wall_painting_in_Turkey</field>
+<field name="sameAs">http://dbpedia.org/resource/Wall_painting_in_Turkey</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Anatolia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Turkish_art</field>
+<field name="abstract">Wall Painting in Turkey often reflect influences from the eastern and western styles and subject matters that date back to the Neolithic Age as the region has been the crossroad between Europe and the Middle East.</field>
+<field name="label">Wall painting in Turkey</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c2/Museum_of_Anatolian_Civilizations003.jpg</field>
+<field name="comment">Wall Painting in Turkey often reflect influences from the eastern and western styles and subject matters that date back to the Neolithic Age as the region has been the crossroad between Europe and the Middle East.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Museum_of_Anatolian_Civilizations003.jpg/200px-Museum_of_Anatolian_Civilizations003.jpg</field>
+<field name="link_external">http://www.about-turkey.com/karun/aktepe.htm</field>
+<field name="link_external">http://www.about-turkey.com/karun/harta.htm</field>
+<field name="link_external">http://asiaminor.ehw.gr/Forms/fMedia.aspx?lemmaid=5161&amp;contlang=57&amp;lemmatitle=%CE%91%CF%81%CF%87%CE%B1%CF%8A%CE%BA%CE%AE%20%CE%B6%CF%89%CE%B3%CF%81%CE%B1%CF%86%CE%B9%CE%BA%CE%AE%20%CF%83%CF%84%CE%B7%20%CE%9C.%20%CE%91%CF%83%CE%AF%CE%B1</field>
+<field name="link_external">http://www.about-turkey.com/karun/karaburun.htm</field>
+<field name="link_external">http://www.catalhoyuk.com/archive_reports/2005/ar05_35.html</field>
+<field name="link_external">http://sites.museum.upenn.edu/gordion/history/achaemenid.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Wall_painting_in_Turkey</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Wall_painting_in_Turkey</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Wall_Painting_in_Turkey</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Wall_painting_in_Turkey</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Wall_painting_in_Turkey</field>
+</doc>
+</add>

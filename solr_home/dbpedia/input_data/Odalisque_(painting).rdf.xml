@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Odalisque_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Odalisque_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Odalisque_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmgdvw</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Philippine_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Juan_Luna</field>
+<field name="abstract">The Odalisque is a famous 1885 painting by awarding Filipino painter and hero Juan Luna. It is one of Luna’s so-called “Academic Salon portraits” that followed the standards of proper proportion and perspective, and realistic depictions with “an air of dignity and allure”. Although less polished compared to Luna’s other works of art, the Odalisque is typical of the well-planned characteristic of the artist’s portraits, meaning it was painted in a personal studio while expertly studying the desired effects, and with finesse. The Odalisque is one of the paintings that made Luna as an officially accepted artist at the Salon of Paris because it shows Luna’s skill at draftsmanship, his “talent to draw and to draw well”. The Odalisque was formerly a part of the painting collection of Philippine national hero José Rizal. It is currently a component of the Don Luis Araneta Collection in the Philippines.</field>
+<field name="label">Odalisque (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a2/Odalisque_painting_by_Juan_Luna_1885.jpg</field>
+<field name="comment">The Odalisque is a famous 1885 painting by awarding Filipino painter and hero Juan Luna. It is one of Luna’s so-called “Academic Salon portraits” that followed the standards of proper proportion and perspective, and realistic depictions with “an air of dignity and allure”.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Odalisque_painting_by_Juan_Luna_1885.jpg/200px-Odalisque_painting_by_Juan_Luna_1885.jpg</field>
+<field name="link_external">http://www.flickr.com/photos/diamonds_in_the_soles_of_her_shoes/578675424/in/set-72157600119021830/</field>
+<field name="artist"/>
+<field name="museum"/>
+<field name="title">Odalisque</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Odalisque_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Odalisque_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Odalisque_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Odalisque_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Odalisque_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

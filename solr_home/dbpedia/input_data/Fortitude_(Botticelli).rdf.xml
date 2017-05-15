@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Force_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fortitude_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Fortezza_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fortitude_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fortitude_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Fortezza_(Botticelli)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Force_(Botticelli)</field>
+<field name="sameAs">http://dbpedia.org/resource/Fortitude_(Botticelli)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1109340</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gv51w</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Fortitude_(Botticelli)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Fortaleza_(Botticelli)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_paintings_in_the_Uffizi</field>
+<field name="abstract">The Fortitude is a painting by the Italian Renaissance master Sandro Botticelli, finished in 1470. It is housed in the Galleria degli Uffizi, in Florence. Fortitude is the first recorded work by Botticelli. This work originally belonged to a set of seven panels representing Virtues, intended to decorate the Tribunal Hall of Piazza della Signoria in Florence. The other six panels are painted by Pietro Pollaiolo's workshop.</field>
+<field name="label">Fortitude (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/54/Fortitude.jpg</field>
+<field name="comment">The Fortitude is a painting by the Italian Renaissance master Sandro Botticelli, finished in 1470. It is housed in the Galleria degli Uffizi, in Florence. Fortitude is the first recorded work by Botticelli. This work originally belonged to a set of seven panels representing Virtues, intended to decorate the Tribunal Hall of Piazza della Signoria in Florence. The other six panels are painted by Pietro Pollaiolo's workshop.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Fortitude.jpg/200px-Fortitude.jpg</field>
+<field name="link_external">http://www.polomuseale.firenze.it/english/musei/uffizi/Default.asp</field>
+<field name="artist"/>
+<field name="height">167</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Fortitude</field>
+<field name="type">Tempera on panel</field>
+<field name="width">87</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Fortitude_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Fortitude_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Fortaleza_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fortitude_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Fortitude_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Fortitude_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fortitude_Sandro_Botticelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1109340</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fortitude_(Botticelli)</field>
+</doc>
+</add>

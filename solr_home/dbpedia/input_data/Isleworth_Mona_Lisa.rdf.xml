@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Isleworth_Mona_Lisa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4390923</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Mona_Lisa_de_Isleworth</field>
+<field name="sameAs">http://dbpedia.org/resource/Isleworth_Mona_Lisa</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Mona_Lisa_d'Isleworth</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Isleworth_Mona_Lisa</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/アイルワースのモナ・リザ</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fvq2c</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/艾爾沃斯蒙娜麗莎</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Айзелуортская_Мона_Лиза</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mona_Lisa</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_attributed_to_Leonardo_da_Vinci</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Forgery_controversies</field>
+<field name="abstract">The Isleworth Mona Lisa is a painting of the same subject as Leonardo da Vinci's Mona Lisa. Though insufficiently examined, the painting is claimed by some to be partly an original work of Leonardo dating from the early 16th century.</field>
+<field name="label">Isleworth Mona Lisa</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bb/The_Isleworth_Mona_Lisa.jpg</field>
+<field name="comment">The Isleworth Mona Lisa is a painting of the same subject as Leonardo da Vinci's Mona Lisa. Though insufficiently examined, the painting is claimed by some to be partly an original work of Leonardo dating from the early 16th century.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/The_Isleworth_Mona_Lisa.jpg/200px-The_Isleworth_Mona_Lisa.jpg</field>
+<field name="link_external">http://d.hatena.ne.jp/images/diary/n/nutra/2005-03-27.jpg</field>
+<field name="link_external">http://monalisa.org</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Isleworth_Mona_Lisa</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Isleworth_Mona_Lisa</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Isleworth_Mona_Lisa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Isleworth_Mona_Lisa</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Mona_Lisa_de_Isleworth</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isleworth_Mona_Lisa</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Mona_Lisa_d'Isleworth</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isleworth_Mona_Lisa</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/アイルワースのモナ・リザ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isleworth_Mona_Lisa</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Айзелуортская_Мона_Лиза</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isleworth_Mona_Lisa</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4390923</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isleworth_Mona_Lisa</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/艾爾沃斯蒙娜麗莎</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isleworth_Mona_Lisa</field>
+</doc>
+</add>

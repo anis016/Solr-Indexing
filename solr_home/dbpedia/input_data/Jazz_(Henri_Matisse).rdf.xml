@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Jazz_(Henri_Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jazz_(Henri_Matisse)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Jazz_(Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jazz_(Henri_Matisse)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jazz_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jazz_(Henri_Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Jazz_(Matisse)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1684457</field>
+<field name="sameAs">http://dbpedia.org/resource/Jazz_(Henri_Matisse)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Jazz_(Henri_Matisse)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Jazz_(Henri_Matisse)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08_cpc</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Artists'_books</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Jazz (1947) is an artist's book of about one hundred prints based on paper cutouts by Henri Matisse. Tériade, a noted 20th century art publisher, arranged to have Matisse's cutouts rendered as pochoir prints.</field>
+<field name="label">Jazz (Henri Matisse)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6f/Jazz_Henri_Matisse.JPG</field>
+<field name="comment">Jazz (1947) is an artist's book of about one hundred prints based on paper cutouts by Henri Matisse. Tériade, a noted 20th century art publisher, arranged to have Matisse's cutouts rendered as pochoir prints.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Jazz_Henri_Matisse.JPG/200px-Jazz_Henri_Matisse.JPG</field>
+<field name="link_external">http://www.musee-matisse-nice.org/anglais/image/gouaches/b_jazz_avaleur_1943.jpg</field>
+<field name="link_external">http://www.anthese.fr/product_info.php?products_id=64</field>
+<field name="link_external">http://www.weinstein.com/matisse/HM0040.jpg</field>
+<field name="link_external">http://www.gregkucera.com/matisse.htm</field>
+<field name="link_external">http://www.musee-matisse-nice.org/anglais/image/gouaches/b_jazz_clown_1947.jpg</field>
+<field name="link_external">http://www.cienciateca.com/icarmati.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Jazz_(Henri_Matisse)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jazz_(Henri_Matisse)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Jazz_(Henri_Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Jazz_(Henri_Matisse)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jazz_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1684457</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jazz_(Henri_Matisse)</field>
+</doc>
+</add>

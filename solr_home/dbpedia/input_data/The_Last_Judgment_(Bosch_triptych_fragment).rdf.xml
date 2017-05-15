@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Giudizio_universale_(Bosch_Monaco)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych_fragment)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych_fragment)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Last_Judgment_(Bosch_triptych_fragment)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026195f</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1995698</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych_fragment)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Opstanding_van_de_doden_en_verdoemden_die_naar_de_hel_worden_gevoerd</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Giudizio_universale_(Bosch_Monaco)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="abstract">The Last Judgment is a triptych created by Hieronymus Bosch. Unlike the alternate triptych with the same name, The Last Judgment, only a fragment of this one exists today. It resides at the Alte Pinakothek in Munich. After being damaged, this fragment was heavily repainted, then the paint was removed in 1936.</field>
+<field name="label">The Last Judgment (Bosch triptych fragment)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/da/Last_Judgement.jpg</field>
+<field name="comment">The Last Judgment is a triptych created by Hieronymus Bosch. Unlike the alternate triptych with the same name, The Last Judgment, only a fragment of this one exists today. It resides at the Alte Pinakothek in Munich. After being damaged, this fragment was heavily repainted, then the paint was removed in 1936.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/Last_Judgement.jpg/200px-Last_Judgement.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Hieronymus_Bosch</field>
+<field name="city"/>
+<field name="height">60</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Alte_Pinakothek</field>
+<field name="title">The Last Judgement</field>
+<field name="width">114</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Last_Judgment_(Bosch_triptych_fragment)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Last_Judgment_(Bosch_triptych_fragment)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Last_Judgment_(Bosch_triptych_fragment)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych_fragment)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Judgement_(Bosch_triptych_fragment)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Last_Judgment_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Opstanding_van_de_doden_en_verdoemden_die_naar_de_hel_worden_gevoerd</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych_fragment)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1995698</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Last_Judgment_(Bosch_triptych_fragment)</field>
+</doc>
+</add>

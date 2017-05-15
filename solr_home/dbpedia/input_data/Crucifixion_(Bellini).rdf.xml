@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Crucifixion_(Bellini)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Crocifissione_di_San_Salvador</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04121r1</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Bellini)</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Korsfestelse_(Bellini)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5189807</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crucifixion_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Bellini</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="abstract">Crucifixion is a painting by the Venetian master Giovanni Bellini, created between 1501 and 1503. It is painted in tempera on panel and is 54.5 by 30cm. The painting is in the Civico Museo Correr in Venice.</field>
+<field name="label">Crucifixion (Bellini)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/99/Crocifisione_di_prato,_giovanni_bellini.jpg</field>
+<field name="comment">Crucifixion is a painting by the Venetian master Giovanni Bellini, created between 1501 and 1503. It is painted in tempera on panel and is 54.5 by 30cm. The painting is in the Civico Museo Correr in Venice.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Crocifisione_di_prato,_giovanni_bellini.jpg/200px-Crocifisione_di_prato,_giovanni_bellini.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Crucifixion_(Bellini)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Crucifixion_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Crucifixion_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Crucifixion_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Crocifissione_di_San_Salvador</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5189807</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Korsfestelse_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Bellini)</field>
+</doc>
+</add>

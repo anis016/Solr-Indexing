@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Picasso's_Rose_Period</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Picasso's_Rose_Period</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.071bmq</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Période_rose</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q613872</field>
+<field name="sameAs">http://dbpedia.org/resource/Picasso's_Rose_Period</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Thời_kì_Hồng</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/畢卡索的玫瑰時期</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1906_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="abstract">The Rose Period comes from the time when the style of Pablo Picasso's painting used cheerful orange and pink colours in contrast to the cool, somber tones of the previous Blue Period. The Rose Period lasted from 1904 to 1906. Picasso was happy in his relationship with Fernande Olivier whom he had met in 1904 and this has been suggested as one of the possible reasons he changed his style of painting. Harlequins, circus performers and clowns appear frequently in the Rose Period and populated Picasso's paintings at various stages throughout the rest of his long career. The harlequin, a comedic character usually depicted in checkered patterned clothing, became a personal symbol for Picasso. The Rose Period has been considered French influenced, while the Blue Period more Spanish influenced, although both styles emerged while Picasso was living in Paris. Picasso's Blue Period lasted from late 1901, following the death of his friend Casagemas, and the onset of a bout of major depression. It lasted until 1904, when Picasso's psychological condition improved. The Rose Period is named after Picasso's heavy use of pink tones in his works from this period, from the French word for pink, which is rose. Picasso's highest selling painting, Garçon à la pipe (Boy with a pipe) was painted during the Rose Period. Other significant Rose Period works include: Woman in a Chemise (Madeleine) (1904–05), The Actor (1904–1905), Lady with a Fan (1905), Two Youths (1905), Harlequin Family (1905), Harlequin's Family With an Ape (1905), La famille de saltimbanques (1905), Boy with a Dog (1905), Nude Boy (1906), Boy Leading a Horse (1906), and The Girl with a Goat (1906). 		 			Picasso The Actor 1904. JPG 			 L'acteur, 1904 			 		 		 			Garçon à la pipe. jpg 			 Garçon à la pipe, (Boy with a Pipe), 1905 			 		 		 			Family of Saltimbanques. JPG 			 Family of Saltimbanques, 1905 			 		 The Rose Period was followed by Picasso's somewhat lesser known African influenced period, where his cubism took form. The most famous painting from Picasso's African Period is Les Demoiselles d'Avignon, painted in 1907, which created a sensation among critics and the public when it was exhibited in 1916.</field>
+<field name="label">Picasso's Rose Period</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/03/Boy_Leading_a_Horse.jpg</field>
+<field name="comment">The Rose Period comes from the time when the style of Pablo Picasso's painting used cheerful orange and pink colours in contrast to the cool, somber tones of the previous Blue Period. The Rose Period lasted from 1904 to 1906. Picasso was happy in his relationship with Fernande Olivier whom he had met in 1904 and this has been suggested as one of the possible reasons he changed his style of painting.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Boy_Leading_a_Horse.jpg/200px-Boy_Leading_a_Horse.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pablo_Picasso</field>
+<field name="city"/>
+<field name="height">220.3</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Boy Leading a Horse</field>
+<field name="width">130.6</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Picasso's_Rose_Period</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Picasso's_Rose_Period</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Période_rose</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Picasso's_Rose_Period</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Picasso's_circus_period</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rose_Period</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Picasso's_Rose_Period</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Picasso's_Rose_Period</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q613872</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Picasso's_Rose_Period</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/畢卡索的玫瑰時期</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Picasso's_Rose_Period</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Thời_kì_Hồng</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Picasso's_Rose_Period</field>
+</doc>
+</add>

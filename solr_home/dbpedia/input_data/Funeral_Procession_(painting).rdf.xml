@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Funeral_Procession_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Funeral_Procession_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Funeral_Procession_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5509112</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05t08k4</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:The_Cosby_Show</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ellis_Wilson</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:African-American_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_art</field>
+<field name="abstract">Funeral Procession is the name of a painting by Ellis Wilson, which went from obscurity to notoriety in 1985, when it was featured heavily in the plot of a season 2 episode of the hit TV series The Cosby Show. In the episode, Mrs. Huxtable wins the painting at an auction and pays $11,000 for it. She states that the painting was made by her "great-uncle Ellis". At the end of the episode, Dr. Huxtable hangs the painting over the family's living room mantle, where it would stay for the remainder of the eight-season series. In real life, the painting is displayed as part of the Aaron Douglas Collection at the Amistad Research Center at Tulane University in New Orleans, Louisiana. Ellis Wilson was born on April 20, 1899 in Mayfield, Kentucky, and died on either January 1 or 2, 1977. In real life, the most he ever got for one of his paintings was about $300.</field>
+<field name="label">Funeral Procession (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e0/Funeral_Procession_by_Ellis_Wilson.jpg</field>
+<field name="comment">Funeral Procession is the name of a painting by Ellis Wilson, which went from obscurity to notoriety in 1985, when it was featured heavily in the plot of a season 2 episode of the hit TV series The Cosby Show. In the episode, Mrs. Huxtable wins the painting at an auction and pays $11,000 for it. She states that the painting was made by her "great-uncle Ellis". At the end of the episode, Dr.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Funeral_Procession_by_Ellis_Wilson.jpg/200px-Funeral_Procession_by_Ellis_Wilson.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Funeral_Procession_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Funeral_Procession_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Funeral_Procession_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Funeral_Procession_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Funeral_Procession_by_Ellis_Wilson</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5509112</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Funeral_Procession_(painting)</field>
+</doc>
+</add>

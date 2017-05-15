@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Whaam!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Whaam!</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3567592</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04ggj8p</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Whaam!</field>
+<field name="sameAs">http://dbpedia.org/resource/Whaam!</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1963_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Roy_Lichtenstein</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Whaam! is a 1963 diptych painting by pop artist Roy Lichtenstein. It follows the comic strip-based themes of some of his previous paintings and is part of a body of war-themed work created between 1962 and 1964. It is one of his two notable large war-themed paintings. It was purchased by the Tate Modern in 1966, after being exhibited at the Leo Castelli Gallery in 1963, and has remained in their collection since. Although derived from comics, Lichtenstein made numerous alterations to the work creating two panels from one original which is the subject of significant critical commentary. He also altered the relative significance of the various subjects of the work, both graphical and narrative. It is widely regarded as one of his finest and most notable works.</field>
+<field name="label">Whaam!</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b7/Roy_Lichtenstein_Whaam.jpg</field>
+<field name="comment">Whaam! is a 1963 diptych painting by pop artist Roy Lichtenstein. It follows the comic strip-based themes of some of his previous paintings and is part of a body of war-themed work created between 1962 and 1964. It is one of his two notable large war-themed paintings. It was purchased by the Tate Modern in 1966, after being exhibited at the Leo Castelli Gallery in 1963, and has remained in their collection since.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Roy_Lichtenstein_Whaam.jpg/200px-Roy_Lichtenstein_Whaam.jpg</field>
+<field name="link_external">http://image-duplicator.com/main.php?work_id=0137&amp;year=1963&amp;decade=60</field>
+<field name="artist">http://dbpedia.org/resource/Roy_Lichtenstein</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">170</field>
+<field name="image"/>
+<field name="imageSize">325</field>
+<field name="museum">http://dbpedia.org/resource/Tate_Modern</field>
+<field name="title">Whaam!</field>
+<field name="width">400</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Whaam!</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Whaam!</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Whaam!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Whaam!</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Whaam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Wham_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Whaam!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whaam!</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3567592</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whaam!</field>
+</doc>
+</add>

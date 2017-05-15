@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Living_Memory_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Living_Memory_(paintings)</field>
+<field name="sameAs">http://dbpedia.org/resource/Living_Memory_(paintings)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvs472</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1980_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1990s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Diptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Living Memory is the title of a series of 9 mural-size paintings on the Holocaust painted by Nabil Kanso in 1980, 1990 and 1993-94.</field>
+<field name="label">Living Memory (paintings)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bf/Extinguishing_the_Sun_the_Moon_and_the_Stars.jpg</field>
+<field name="comment">Living Memory is the title of a series of 9 mural-size paintings on the Holocaust painted by Nabil Kanso in 1980, 1990 and 1993-94.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/Extinguishing_the_Sun_the_Moon_and_the_Stars.jpg/200px-Extinguishing_the_Sun_the_Moon_and_the_Stars.jpg</field>
+<field name="link_external">http://worksforpeace.com/livingmemory.html</field>
+<field name="link_external">http://worksforpeace.com/auschwitz.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Living_Memory_(paintings)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Living_Memory_(paintings)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Living_Memory_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Living_Memory_(paintings)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Living_memory</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

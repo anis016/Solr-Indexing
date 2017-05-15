@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Женщина_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_III</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02r07xt</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Женщина_III</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Woman_III</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Woman_III</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/زن_۳</field>
+<field name="sameAs">http://hi.dbpedia.org/resource/वुमन_III</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_III</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Woman_III</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1887644</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1953_paintings</field>
+<field name="abstract">Woman III is a painting by abstract expressionist painter Willem de Kooning. Woman III is one of a series of six paintings by de Kooning done between 1951 and 1953 in which the central theme was a woman. It measures 68 by 48+⁄2 inches (by m) and was completed in 1953. From late 70s to 1994 this painting was part of Tehran Museum of Contemporary Art collection, but after the revolution in 1979, this painting could not be shown because of strict rules set by the government about the visual arts and what they depict. Finally, in 1994 it was quietly traded by Thomas Ammann Fine Art to David Geffen for the remainder of the 16th century Persian manuscript, the Tahmasbi Shahnameh. In November 2006, the painting was sold by Geffen to billionaire Steven A. Cohen for $137.5 million, making it the third most expensive painting ever sold.</field>
+<field name="label">Woman III</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e7/Woman3.jpg</field>
+<field name="comment">Woman III is a painting by abstract expressionist painter Willem de Kooning. Woman III is one of a series of six paintings by de Kooning done between 1951 and 1953 in which the central theme was a woman. It measures 68 by 48+⁄2 inches (by m) and was completed in 1953.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Woman3.jpg/200px-Woman3.jpg</field>
+<field name="link_external">http://www.nytimes.com/2006/11/18/arts/design/18pain.html?ex=1321506000&amp;en=9406bad47cfaf903&amp;ei=5088&amp;partner=rssnyt&amp;emc=rss</field>
+<field name="link_external">http://www.artnet.com/magazineus/features/kuspit/kuspit3-6-07_detail.asp?picnum=1</field>
+<field name="artist">http://dbpedia.org/resource/Willem_de_Kooning</field>
+<field name="height">172.7</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Woman III</field>
+<field name="type">Oil on canvas</field>
+<field name="width">123.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Woman_III</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Woman_III</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Woman_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Woman_III</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Woman_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_III</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Woman_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_III</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1887644</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_III</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/زن_۳</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_III</field>
+</doc>
+<doc>
+<field name="uri">http://hi.dbpedia.org/resource/वुमन_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_III</field>
+</doc>
+</add>

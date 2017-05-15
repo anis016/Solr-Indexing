@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Natività_della_Vergine_(Pietro_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_of_the_Virgin_(Pietro_Lorenzetti)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nativity_of_the_Virgin_(Pietro_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h64zl6</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Natività_della_Vergine_(Pietro_Lorenzetti)</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_of_the_Virgin_(Pietro_Lorenzetti)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3873247</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Nativity_of_the_Virgin_(Pietro_Lorenzetti)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gothic_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:14th-century_paintings</field>
+<field name="abstract">The Nativity of the Virgin is a painting by the Italian late medieval painter Pietro Lorenzetti, dating from around 1335-1342, now housed in the Museo dell'Opera del Duomo of Siena, Italy.</field>
+<field name="label">Nativity of the Virgin (Pietro Lorenzetti)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c7/Pietro_lorenzetti,_natività_della_vergine_del_duomo_di_siena,_1342,_tempera_su_tavola_187x182,_museo_dell'opera_del_duomo_di_siena.jpg</field>
+<field name="comment">The Nativity of the Virgin is a painting by the Italian late medieval painter Pietro Lorenzetti, dating from around 1335-1342, now housed in the Museo dell'Opera del Duomo of Siena, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/Pietro_lorenzetti,_natività_della_vergine_del_duomo_di_siena,_1342,_tempera_su_tavola_187x182,_museo_dell'opera_del_duomo_di_siena.jpg/200px-Pietro_lorenzetti,_natività_della_vergine_del_duomo_di_siena,_1342,_tempera_su_tavola_187x182,_museo_dell'opera_del_duomo_di_siena.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pietro_Lorenzetti</field>
+<field name="city">http://dbpedia.org/resource/Siena</field>
+<field name="height">182</field>
+<field name="image"/>
+<field name="imageSize">310</field>
+<field name="museum">http://dbpedia.org/resource/Siena_Cathedral</field>
+<field name="title">Nativity of the Virgin</field>
+<field name="type">Tempera on panel</field>
+<field name="width">187</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Nativity_of_the_Virgin_(Pietro_Lorenzetti)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Nativity_of_the_Virgin_(Pietro_Lorenzetti)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nativity_of_the_Virgin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Nativity_of_the_Virgin_(Pietro_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Nativity_of_the_Virgin_(Pietro_Lorenzetti)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3873247</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nativity_of_the_Virgin_(Pietro_Lorenzetti)</field>
+</doc>
+</add>

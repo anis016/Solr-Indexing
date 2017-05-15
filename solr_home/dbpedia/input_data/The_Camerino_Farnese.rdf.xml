@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Camerino_Farnese</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7721087</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Camerino_Farnese</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0806v6j</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Camerino_Farnese</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Baroque_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">The decision to paint the ceiling of the Camerino instead of proceeding with the original plans for the Alessandro Farnese cycle Farnese Gallery was taken before the summer of 1595. The frescoes glorifying their father's deeds would have to wait until the arrival of the book of drawing which Odoardo had asked Ranuccio to send him; in the meantime Annibale Carracci was to be given as his first task of the decoration of the cardinal's own study. The Camerino is on the first, or principal, floor of the Palazzo Farnese, it measures slightly more than fifteen by thirty feet.</field>
+<field name="label">The Camerino Farnese</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ad/CarracciHercules.jpg</field>
+<field name="comment">The decision to paint the ceiling of the Camerino instead of proceeding with the original plans for the Alessandro Farnese cycle Farnese Gallery was taken before the summer of 1595. The frescoes glorifying their father's deeds would have to wait until the arrival of the book of drawing which Odoardo had asked Ranuccio to send him; in the meantime Annibale Carracci was to be given as his first task of the decoration of the cardinal's own study.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/CarracciHercules.jpg/200px-CarracciHercules.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Camerino_Farnese</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Camerino_Farnese</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Camerino_Farnese</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Camerino_Farnese</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7721087</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Camerino_Farnese</field>
+</doc>
+</add>

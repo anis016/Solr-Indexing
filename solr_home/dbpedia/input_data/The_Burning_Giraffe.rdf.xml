@@ -1,0 +1,97 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Жираф_в_огне</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Płonąca_żyrafa_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Płonąca_żyrafa_(obraz)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Жираф_у_вогні</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+<field name="sameAs">http://lv.dbpedia.org/resource/Degošā_žirafe</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Girafe_en_feu</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הג'ירפה_הבוערת</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d1xqh</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q133839</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Жираф_в_огне</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Burning_Giraffe</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Palava_kirahvi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1937_paintings</field>
+<field name="abstract">'The Burning Giraffe' (1937) is a painting by the Spanish surrealist Salvador Dalí. Dalí painted Burning Giraffe before his exile in the United States which was from 1940 - 1948. Although Dalí declared himself apolitical— "I am Dalí, and only that"—this painting shows his personal struggle with the battle in his home country. Characteristic are the opened drawers in the blue female figure, which Dalí on a later date described as "Femme-coccyx" (tail bone woman). This phenomenon can be traced back to Sigmund Freud's psychoanalytical method, much admired by Dalí. He regarded him as an enormous step forward for civilization, as shown in the following quote. "The only difference between immortal Greece and our era is Sigmund Freud who discovered that the human body, which in Greek times was merely neoplatonical, is now filled with secret drawers only to be opened through psychoanalysis. " The opened drawers in this expressive, propped up female figure thus refer to the inner, subconscious within man. In Dalí's own words his paintings form "a kind of allegory which serves to illustrate a certain insight, to follow the numerous narcissistic smells which ascend from each of our drawers. " The image is set in a twilight atmosphere with deep blue sky. There are two female figures in the foreground, one with drawers opening from her side like a chest. They both have undefined phallic shapes (perhaps melted clocks, as a recurring image from Dali's previous works) protruding from their backs which are supported by crutch-like objects. The hands, forearms and face of the nearest figure are stripped down to the muscular tissue beneath the skin. One figure is holding a strip of meat. Both humanures that double as a chest of drawers as well as the crutch like shapes are common archetypes in Dalí’s work. In the distance is a giraffe with its back on fire. Dalí first used the burning giraffe image in his 1930 film L'Âge d'Or (The Golden Age). It appears again in 1937 in the painting The Invention of Monsters. Dalí described this image as “the masculine cosmic apocalyptic monster. ” He believed it to be a premonition of war.</field>
+<field name="label">The Burning Giraffe</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e6/The_Burning_Giraffe.jpg</field>
+<field name="comment">'The Burning Giraffe' (1937) is a painting by the Spanish surrealist Salvador Dalí. Dalí painted Burning Giraffe before his exile in the United States which was from 1940 - 1948. Although Dalí declared himself apolitical— "I am Dalí, and only that"—this painting shows his personal struggle with the battle in his home country. Characteristic are the opened drawers in the blue female figure, which Dalí on a later date described as "Femme-coccyx" (tail bone woman).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/The_Burning_Giraffe.jpg/200px-The_Burning_Giraffe.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/Basel</field>
+<field name="height">35</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Kunstmuseum_Basel</field>
+<field name="title">The Burning Giraffe</field>
+<field name="width">27</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Burning_Giraffe</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Burning_Giraffe</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Burning_Giraffe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Burning_Giraffe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Girafe_en_feu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q133839</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Palava_kirahvi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הג'ירפה_הבוערת</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+</doc>
+<doc>
+<field name="uri">http://lv.dbpedia.org/resource/Degošā_žirafe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Жираф_у_вогні</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burning_Giraffe</field>
+</doc>
+</add>

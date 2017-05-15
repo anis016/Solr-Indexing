@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Odalisque_with_Raised_Arms</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Odalisque_with_Raised_Arms</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q9w7r</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Odalisque_with_Raised_Arms</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1923_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Odalisque with Raised Arms is a painting by Henri Matisse from 1923. The full title is Odalisque assise aux bras levés, fauteuil rayé vert, which translates as "Odalisque with raised arms sitting on a green striped armchair". It is located in the National Gallery of Art, Washington, D. C, which acquired it in 1963 from the art collector Chester Dale.</field>
+<field name="label">Odalisque with Raised Arms</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/54/Odalisque_with_Arms_Raised.jpg</field>
+<field name="comment">Odalisque with Raised Arms is a painting by Henri Matisse from 1923. The full title is Odalisque assise aux bras levés, fauteuil rayé vert, which translates as "Odalisque with raised arms sitting on a green striped armchair". It is located in the National Gallery of Art, Washington, D. C, which acquired it in 1963 from the art collector Chester Dale.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Odalisque_with_Arms_Raised.jpg/200px-Odalisque_with_Arms_Raised.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">68</field>
+<field name="image"/>
+<field name="imageSize">230</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">Odalisque with Raised Arms</field>
+<field name="width">64</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Odalisque_with_Raised_Arms</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Odalisque_with_Raised_Arms</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Odalisque_with_Raised_Arms</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Odalisque_with_Raised_Arms</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Odalisque_with_raised_arms</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Odalisque_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

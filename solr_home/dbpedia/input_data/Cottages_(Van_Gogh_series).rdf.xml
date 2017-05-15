@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cottages_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cottages_(Van_Gogh_series)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bs92dt</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wiejskie_chaty</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Cottages_(Van_Gogh_series)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5175552</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="abstract">Cottages is a subject of paintings created by Vincent van Gogh from 1883 and 1885. This is related to the Peasant Character Studies that Van Gogh worked on during the same time period.</field>
+<field name="label">Cottages (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b3/Van_Gogh_-_Bauernhäuser.jpeg</field>
+<field name="comment">Cottages is a subject of paintings created by Vincent van Gogh from 1883 and 1885. This is related to the Peasant Character Studies that Van Gogh worked on during the same time period.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Van_Gogh_-_Bauernhäuser.jpeg/200px-Van_Gogh_-_Bauernhäuser.jpeg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Cottages_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cottages_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Cottages_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Cottages_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cottages_(Van_Gogh_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wiejskie_chaty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cottages_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5175552</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cottages_(Van_Gogh_series)</field>
+</doc>
+</add>

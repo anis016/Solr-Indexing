@@ -1,0 +1,31 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Composition_with_Still_Life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3qf7b</field>
+<field name="sameAs">http://dbpedia.org/resource/Composition_with_Still_Life</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Composition_with_Still_Life</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5156803</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1937_paintings</field>
+<field name="abstract">Composition with Still Life is a painting by the American artist Edwin Dickinson (1891–1978). Begun in 1933 and completed in 1937, it is Dickinson's largest work. Painted in oil on canvas and nearly monochromatic, the allegorical composition depicts two headless nudes in a mysterious setting amid still life elements. The painting is in the collection of The Museum of Modern Art in New York.</field>
+<field name="label">Composition with Still Life</field>
+<field name="comment">Composition with Still Life is a painting by the American artist Edwin Dickinson (1891–1978). Begun in 1933 and completed in 1937, it is Dickinson's largest work. Painted in oil on canvas and nearly monochromatic, the allegorical composition depicts two headless nudes in a mysterious setting amid still life elements. The painting is in the collection of The Museum of Modern Art in New York.</field>
+<field name="link_external">http://www.aaa.si.edu/collections/oralhistories/transcripts/dickin62.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Composition_with_Still_Life</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Composition_with_Still_Life</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Composition_with_Still_Life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Composition_with_Still_Life</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5156803</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Composition_with_Still_Life</field>
+</doc>
+</add>

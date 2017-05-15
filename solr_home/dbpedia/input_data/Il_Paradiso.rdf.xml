@@ -1,0 +1,29 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Il_Paradiso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Il_Paradiso</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Il_Paradiso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Il_Paradiso</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5996597</field>
+<field name="sameAs">http://dbpedia.org/resource/Il_Paradiso</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j42fnj</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tintoretto</field>
+<field name="abstract">Il Paradiso is a massive fresco that dominates the main hall of the Doge's Palace in Venice.</field>
+<field name="label">Il Paradiso</field>
+<field name="comment">Il Paradiso is a massive fresco that dominates the main hall of the Doge's Palace in Venice.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Il_Paradiso</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Il_Paradiso</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5996597</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Il_Paradiso</field>
+</doc>
+</add>

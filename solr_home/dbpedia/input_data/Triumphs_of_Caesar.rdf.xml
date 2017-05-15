@@ -1,0 +1,87 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Triumphs_of_Caesar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02pqtq9</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Triomphes_de_César</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trionfi_di_Cesare</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Triumphi_Caesaris_(Mantegna)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Triumphs_of_Caesar</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumphs_of_Caesar</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Los_triunfos_del_César</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q385499</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Collection_of_the_United_Kingdom</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Military_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Hampton_Court_Palace</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="abstract">The Triumphs of Caesar are a series of nine large paintings created by the Italian Renaissance artist Andrea Mantegna between 1484 and 1492 for the Gonzaga Ducal Palace, Mantua. They depict a triumphal military parade celebrating the victory of Julius Caesar in the Gallic Wars. Acknowledged from the time of Mantegna as his greatest masterpiece, they remain the most complete pictorial representation of a Roman triumph ever attempted and together they form the world's largest metric area of renaissance paintings outside Italy . Acquired by Charles I in 1629, they now form part of the Royal Collection at Hampton Court Palace in Greater London. Originally painted in the fragile medium of egg and glue tempera on canvas, the paintings underwent successive repaintings and restorations through the centuries. In the 1960s a careful restoration to reveal the original paintwork was conducted on all but the seventh canvas, where no trace had been left by previous restorers. Although now mere shadows of Mantegna's cinquecento paintings, they still convey a powerful impression of epic grandeur. In the words of Anthony Blunt, who as Surveyor of the Queen's Pictures supervised the restoration, "The Triumphs may be a ruin but it is a noble one, one as noble as those of ancient Rome which Mantegna so deeply admired. " Art critic Tom Lubbock called the series " the epitome of Renaissance art in the service of state power - they carry a powerful sense of inexorable procession - impressing the viewer with the inexhaustible quantity of available power and plunder. " "We can see grouped and cleverly arranged in the Triumph the ornate and beautiful chariot, the figure of a man cursing the victorious hero, the victor's relations, the perfumes, incense and sacrifices, the priests, the bulls crowned for sacrifice, the prisoners, the booty captured by the troops, the rank of the squadrons, the elephants, the spoils, the victories and the cities represented in various chariots, along with a mass of trophies on spears, and with helmets and armour, headgear of all kinds, ornaments and countless pieces of plate. " -Giorgio Vasari</field>
+<field name="label">Triumphs of Caesar</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/43/Tiumphs_of_Ceasar-Vase-Bearers-Mantegna.jpg</field>
+<field name="comment">The Triumphs of Caesar are a series of nine large paintings created by the Italian Renaissance artist Andrea Mantegna between 1484 and 1492 for the Gonzaga Ducal Palace, Mantua. They depict a triumphal military parade celebrating the victory of Julius Caesar in the Gallic Wars.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Tiumphs_of_Ceasar-Vase-Bearers-Mantegna.jpg/200px-Tiumphs_of_Ceasar-Vase-Bearers-Mantegna.jpg</field>
+<field name="link_external">http://www.royalcollection.org.uk/eGallery/maker.asp?maker=12248&amp;row=0</field>
+<field name="link_external">http://classics.mit.edu/Plutarch/paulus.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Triumphs_of_Caesar</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Triumphs_of_Caesar</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Triumphs_of_Caesar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Triumphs_of_Caesar</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Los_triunfos_del_César</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumphs_of_Caesar</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trionfi_di_Cesare</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumphs_of_Caesar</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Triumphs_of_Caesar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Triump_of_Caesar_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Triumph_of_Caesar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Triumph_of_Caesar_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Triomphes_de_César</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumphs_of_Caesar</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q385499</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumphs_of_Caesar</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Triumphi_Caesaris_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumphs_of_Caesar</field>
+</doc>
+</add>

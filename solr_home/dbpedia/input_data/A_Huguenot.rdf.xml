@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Huguenot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Huguenot</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Huguenot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«A_Huguenot»</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Huguenot</field>
+<field name="sameAs">http://th.dbpedia.org/resource/อูกโน_(มิเล)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q287169</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/A_hugenotta</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Un_Huguenot</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Huguenot</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qd3kl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1852_paintings</field>
+<field name="abstract">A Huguenot, on St. Bartholomew's Day, Refusing to Shield Himself from Danger by Wearing the Roman Catholic Badge (1852) is a painting by John Everett Millais. The long title is usually abbreviated to A Huguenot or A Huguenot on St Bartholomew's Day. It depicts a pair of young lovers in an embrace. The familiar subject is given a dramatic twist because the "embrace" is in fact an attempt by the girl to get her beloved to wear a white armband, declaring his allegiance to Roman Catholicism. The young man gently pulls the armband off with the same hand with which he embraces the girl. The incident refers to the St. Bartholomew's Day massacre in 1572 when French Protestants were massacred in Paris, leading to other massacres elsewhere in France. A small number of Protestants escaped from the city by wearing white armbands. Millais had initially planned simply to depict lovers, but had been persuaded by his Pre-Raphaelite colleague William Holman Hunt that the subject was too trite. After seeing Giacomo Meyerbeer's opera Les Huguenots, which tells the story of the massacre, Millais adapted the painting to refer to the event. In the opera the character Valentine also attempts unsuccessfully to get her lover Raoul to wear the armband. The choice of a pro-Protestant subject was also significant because the Pre-Raphaelites had previously been attacked for their alleged sympathies to the Oxford Movement and to Catholicism. Some of the flowers depicted in the scene may have been chosen because of the contemporary interest in the so-called language of flowers. The blue Canterbury Bells at the left, for example, can stand for faith and constancy. The painting was exhibited with Ophelia in 1852, and helped to change attitudes towards the Pre-Raphaelites. Tom Taylor wrote an extremely positive review in Punch. The painting was reproduced as an engraving, which became Millais's first major popular success. As a result Millais went on to produce a number of other paintings on similar subjects.</field>
+<field name="label">A Huguenot</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3c/Huguenot_lovers_on_St._Bartholomew's_Day.jpg</field>
+<field name="comment">A Huguenot, on St. Bartholomew's Day, Refusing to Shield Himself from Danger by Wearing the Roman Catholic Badge (1852) is a painting by John Everett Millais. The long title is usually abbreviated to A Huguenot or A Huguenot on St Bartholomew's Day. It depicts a pair of young lovers in an embrace. The familiar subject is given a dramatic twist because the "embrace" is in fact an attempt by the girl to get her beloved to wear a white armband, declaring his allegiance to Roman Catholicism.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Huguenot_lovers_on_St._Bartholomew's_Day.jpg/200px-Huguenot_lovers_on_St._Bartholomew's_Day.jpg</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="height">92.71</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">A Huguenot on St. Bartholomew's Day</field>
+<field name="width">64.13</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Huguenot</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Huguenot</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Un_Huguenot</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Huguenot</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q287169</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Huguenot</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/A_hugenotta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Huguenot</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«A_Huguenot»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Huguenot</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/อูกโน_(มิเล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Huguenot</field>
+</doc>
+</add>

@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Child_with_a_Walking_Frame</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5108662</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Child_with_a_Walking_Frame</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02620p6</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_Child_with_a_Walking_Frame</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="abstract">Christ Child with a Walking Frame is a painting by Hieronymus Bosch. Measuring 28 centimetres (11 inches) in diameter, it is at the Kunsthistorisches Museum (Museum of Art History), Vienna, Austria. Christ Child With a Walking Frame is painted on the reverse of Christ Carrying the Cross.</field>
+<field name="label">Christ Child with a Walking Frame</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/57/Hieronymus_Bosch_101.jpg</field>
+<field name="comment">Christ Child with a Walking Frame is a painting by Hieronymus Bosch. Measuring 28 centimetres (11 inches) in diameter, it is at the Kunsthistorisches Museum (Museum of Art History), Vienna, Austria. Christ Child With a Walking Frame is painted on the reverse of Christ Carrying the Cross.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Hieronymus_Bosch_101.jpg/200px-Hieronymus_Bosch_101.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="imageSize">100</field>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Christ Child with a Walking Frame</field>
+<field name="type">oil on panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_Child_with_a_Walking_Frame</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_Child_with_a_Walking_Frame</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_Child_with_a_Walking_Frame</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_Child_with_a_Walking_Frame</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_child_with_a_walking_frame</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5108662</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Child_with_a_Walking_Frame</field>
+</doc>
+</add>

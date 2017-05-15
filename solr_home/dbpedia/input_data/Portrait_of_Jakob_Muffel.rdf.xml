@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Jakob_Muffel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Jakob_Muffel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Jakob_Muffel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h53_w9</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Jakob_Muffel</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Jakob_Muffel</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937578</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Jakob_Muffel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1526_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_German_artists</field>
+<field name="abstract">The Portrait of Jakob Muffel is a painting by German Renaissance master Albrecht Dürer, signed and dated from 1526, now housed in the Gemäldegalerie of Berlin, Germany. The work was executed in Nuremberg, the same year in which the German artist portrayed Johann Kleberger and Hieronymus Holzschuher. Jakob Muffel was burgmaster of the city in the year in which Dürer had donated it his four panels of the Four Apostles, and the two paintings are perhaps related with each other. The panel has the same size than the portrait of Holzschuher, and thus it has been speculated that they could have been commissioned for some official celebration and exhbited in the city's town hall</field>
+<field name="label">Portrait of Jakob Muffel</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fd/Albrecht_Dürer_-_Jakob_Muffel_-_Google_Art_Project.jpg</field>
+<field name="comment">The Portrait of Jakob Muffel is a painting by German Renaissance master Albrecht Dürer, signed and dated from 1526, now housed in the Gemäldegalerie of Berlin, Germany. The work was executed in Nuremberg, the same year in which the German artist portrayed Johann Kleberger and Hieronymus Holzschuher. Jakob Muffel was burgmaster of the city in the year in which Dürer had donated it his four panels of the Four Apostles, and the two paintings are perhaps related with each other.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Albrecht_Dürer_-_Jakob_Muffel_-_Google_Art_Project.jpg/200px-Albrecht_Dürer_-_Jakob_Muffel_-_Google_Art_Project.jpg</field>
+<field name="artist"/>
+<field name="height">48</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Jakob Muffel</field>
+<field name="type">Oil on panel transferred to canvas</field>
+<field name="width">36</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Jakob_Muffel</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Jakob_Muffel</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Jakob_Muffel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Jakob_Muffel</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937578</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Jakob_Muffel</field>
+</doc>
+</add>

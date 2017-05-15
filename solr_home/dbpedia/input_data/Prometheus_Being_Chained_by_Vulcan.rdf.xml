@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Prometheus_Being_Chained_by_Vulcan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Prometheus_Being_Chained_by_Vulcan</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.027nlnr</field>
+<field name="sameAs">http://dbpedia.org/resource/Prometheus_Being_Chained_by_Vulcan</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1623_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Baroque_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Rijksmuseum_Amsterdam</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_paintings</field>
+<field name="abstract">Prometheus Being Chained by Vulcan is an oil painting of 1623 by Dirck van Baburen of the Utrecht School, and an example of Baroque chiaroscuro. The painting represents a tale from Roman mythology. Mercury, the messenger of the gods, watches the club-footed blacksmith god, Vulcan, punish the bold and cunning Titan Prometheus for stealing fire from the gods and giving it to mortals. Prometheus's punishment is to be bound to a rock and to have his liver consumed daily by an eagle. The painting mysteriously has two signatures: the first is a clear signature below the right-hand shoulder of Prometheus. During a restoration of the painting, a second signature was discovered at the lower left by his hand. Prometheus is associated with the Greek creation myth in that, in some versions, he creates humans from clay and the stolen fire is to bring them to life. A painting, Adam and Eve, also by Baburen, was sold at auction in 1707 together with the Prometheus Being Chained by Vulcan, and one might conjecture that the two works formed a pair, both being illustrations of creation.</field>
+<field name="label">Prometheus Being Chained by Vulcan</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ef/Dirck_van_Baburen_-_Prometheus_door_Vulcanus_geketend.jpg</field>
+<field name="comment">Prometheus Being Chained by Vulcan is an oil painting of 1623 by Dirck van Baburen of the Utrecht School, and an example of Baroque chiaroscuro. The painting represents a tale from Roman mythology. Mercury, the messenger of the gods, watches the club-footed blacksmith god, Vulcan, punish the bold and cunning Titan Prometheus for stealing fire from the gods and giving it to mortals. Prometheus's punishment is to be bound to a rock and to have his liver consumed daily by an eagle.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Dirck_van_Baburen_-_Prometheus_door_Vulcanus_geketend.jpg/200px-Dirck_van_Baburen_-_Prometheus_door_Vulcanus_geketend.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Dirck_van_Baburen</field>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="image"/>
+<field name="imageSize">340</field>
+<field name="museum">http://dbpedia.org/resource/Rijksmuseum</field>
+<field name="title">Prometheus Being Chained by Vulcan</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Prometheus_Being_Chained_by_Vulcan</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Prometheus_Being_Chained_by_Vulcan</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Prometheus_Being_Chained_by_Vulcan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Prometheus_Being_Chained_by_Vulcan</field>
+</doc>
+</add>

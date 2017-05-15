@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bani_Thani</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bani_Thani</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4855724</field>
+<field name="sameAs">http://dbpedia.org/resource/Bani_Thani</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.080p39w</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«Bani_Thani»</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Bani_Thani</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Indian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:18th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Rajasthani_arts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ajmer_district</field>
+<field name="abstract">Bani Thani is an Indian painting in the Kishangarh school of paintings. It has been labeled as India's "Mona Lisa". The painting's subject, Bani Thani, was a singer and poet in Kishangarh in the time of king Savant Singh (1748–1764).</field>
+<field name="label">Bani Thani</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/12/Mughal_painting2.jpg</field>
+<field name="comment">Bani Thani is an Indian painting in the Kishangarh school of paintings. It has been labeled as India's "Mona Lisa". The painting's subject, Bani Thani, was a singer and poet in Kishangarh in the time of king Savant Singh (1748–1764).</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Mughal_painting2.jpg/200px-Mughal_painting2.jpg</field>
+<field name="link_external">http://www.davidrumsey.com/amica/amico214220-58138.html</field>
+<field name="link_external">http://wiki.indianfolklore.org/images/8/87/Rajasthan_miniature.pdf</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bani_Thani</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bani_Thani</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Bani_Thani</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bani_Thani</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bani_Thani</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bani_Thani</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4855724</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bani_Thani</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«Bani_Thani»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bani_Thani</field>
+</doc>
+</add>

@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Autoportret_z_Saskią</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Prodigal_Son_in_the_Tavern</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Prodigal_Son_in_the_Tavern</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Autoportret_z_Saskią</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qw2gy</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Prodigal_Son_in_the_Tavern</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Allegra_coppia</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1111394</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Блудный_сын_в_таверне</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Prodigal_Son_in_the_Tavern</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gem%C3%A4ldegalerie_Alte_Meister</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1637_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="abstract">The Prodigal Son in the Brothel is a painting by the Dutch master Rembrandt. It is housed in the Gemäldegalerie Alte Meister of Dresden, Germany. It is signed "REMBRANDT F.". It portrays two people who had been identified as Rembrandt himself and his wife Saskia. In the Protestant contemporary world, the theme of the prodigal son was a frequent subject for works of art due to its moral background. Rembrandt himself painted a Return of the Prodigal Son in 1669. The left side of the canvas was cut, perhaps by the artist himself, to remove secondary characters and focus the observer's attention on the main theme.</field>
+<field name="label">The Prodigal Son in the Tavern</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ae/Rembrandt_-_Rembrandt_and_Saskia_in_the_Scene_of_the_Prodigal_Son_-_Google_Art_Project.jpg</field>
+<field name="comment">The Prodigal Son in the Brothel is a painting by the Dutch master Rembrandt. It is housed in the Gemäldegalerie Alte Meister of Dresden, Germany. It is signed "REMBRANDT F.". It portrays two people who had been identified as Rembrandt himself and his wife Saskia. In the Protestant contemporary world, the theme of the prodigal son was a frequent subject for works of art due to its moral background. Rembrandt himself painted a Return of the Prodigal Son in 1669.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Rembrandt_-_Rembrandt_and_Saskia_in_the_Scene_of_the_Prodigal_Son_-_Google_Art_Project.jpg/200px-Rembrandt_-_Rembrandt_and_Saskia_in_the_Scene_of_the_Prodigal_Son_-_Google_Art_Project.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Rembrandt</field>
+<field name="city">http://dbpedia.org/resource/Dresden</field>
+<field name="height">161</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Gem%C3%A4ldegalerie_Alte_Meister</field>
+<field name="title">The Prodigal Son in the Brothel</field>
+<field name="width">131</field>
+<field name="year">c. 1637</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Prodigal_Son_in_the_Tavern</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Prodigal_Son_in_the_Tavern</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Prodigal_Son_in_the_Tavern</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Prodigal_Son_in_the_Tavern</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Allegra_coppia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Prodigal_Son_in_the_Tavern</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Блудный_сын_в_таверне</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Prodigal_Son_in_the_Tavern</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1111394</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Prodigal_Son_in_the_Tavern</field>
+</doc>
+</add>

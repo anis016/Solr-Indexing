@@ -1,0 +1,111 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Série_des_Cathédrales_de_Rouen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Katedra_w_Rouen_(obrazy_Moneta)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Руанский_собор_(Моне)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Claude_Monet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Kathedrale_von_Rouen_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Katedra_w_Rouen_(obrazy_Moneta)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Руанский_собор_(Моне)</field>
+<field name="sameAs">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Roueni_katedrális_(Monet_festményei)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Série_des_Cathédrales_de_Rouen</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Kathedraal_van_Rouen_(Monet)</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Rouengo_katedrala_(Monet)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0285_kl</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Rouen_Cathedral_(Monet)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Kathedrale_von_Rouen_(Monet)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q637414</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="abstract">The Rouen Cathedral series was painted in the 1890s by French impressionist Claude Monet. The paintings in the series each capture the façade of the cathedral at different times of the day and year, and reflect changes in its appearance under different lighting conditions.</field>
+<field name="label">Rouen Cathedral (Monet)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/30/RouenCathedral_Monet_1894.jpg</field>
+<field name="comment">The Rouen Cathedral series was painted in the 1890s by French impressionist Claude Monet. The paintings in the series each capture the façade of the cathedral at different times of the day and year, and reflect changes in its appearance under different lighting conditions.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/RouenCathedral_Monet_1894.jpg/200px-RouenCathedral_Monet_1894.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/rouen-cathedral-series.html</field>
+<field name="link_external">http://www.getty.edu/art/gettyguide/artObjectDetails?artobj=142049</field>
+<field name="link_external">http://smarthistory.khanacademy.org/lichtensteins-rouen-cathedral-set-v.html</field>
+<field name="link_external">http://www.theartwolf.com/monet_cathedral.htm</field>
+<field name="artist">http://dbpedia.org/resource/Claude_Monet</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">Rouen Cathedral, Full Sunlight</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rouen_cathedral_(Monet_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Rouen_Cathedral_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Kathedraal_van_Rouen_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Rouengo_katedrala_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q637414</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Roueni_katedrális_(Monet_festményei)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rouen_Cathedral_(Monet)</field>
+</doc>
+</add>

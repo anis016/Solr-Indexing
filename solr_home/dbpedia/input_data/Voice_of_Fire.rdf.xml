@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Voice_of_Fire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Voice_of_Fire</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Voz_de_Fuego</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Voice_of_Fire</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Alovun_səsi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2900280</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bym74</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1967_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Canada</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture-related_controversies</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_Barnett_Newman</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Voice of Fire is an acrylic on canvas abstract painting made by American painter Barnett Newman in 1967. The purchase of Voice of Fire by the National Gallery of Canada in Ottawa for its permanent collection in 1989 at a cost of $1.8 million caused a storm of controversy. Some residents mocked the purchase with striped T-shirts and ties that mimicked the painting. A book called Voices of Fire: Art Rage, Power, and the State, edited by Bruce Barber, Serge Guilbaut and John O'Brian, and published in 1996, discusses the issues around the purchase of the painting.</field>
+<field name="label">Voice of Fire</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/23/Voice_of_Fire_photo.jpg</field>
+<field name="comment">Voice of Fire is an acrylic on canvas abstract painting made by American painter Barnett Newman in 1967. The purchase of Voice of Fire by the National Gallery of Canada in Ottawa for its permanent collection in 1989 at a cost of $1.8 million caused a storm of controversy. Some residents mocked the purchase with striped T-shirts and ties that mimicked the painting.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Voice_of_Fire_photo.jpg/200px-Voice_of_Fire_photo.jpg</field>
+<field name="link_external">http://books.google.com/books?id=XiBA86UK_a4C&amp;printsec=frontcover&amp;dq=Voices+of+Fire:+Art+Rage,+Power,+and+the+State&amp;ei=wa1OSYiWHYq2NNW1kZsM</field>
+<field name="link_external">http://books.google.com/books/about/Voices_of_fire.html?id=XiBA86UK_a4C</field>
+<field name="link_external">http://www.gallery.ca/en/see/collections/artwork.php?mkey=35828</field>
+<field name="artist">http://dbpedia.org/resource/Barnett_Newman</field>
+<field name="city">http://dbpedia.org/resource/Ottawa</field>
+<field name="height">540</field>
+<field name="image"/>
+<field name="imageSize">178</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Canada</field>
+<field name="title">Voice of Fire</field>
+<field name="width">240</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Voice_of_Fire</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Voice_of_Fire</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Voice_of_fire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Voices_of_Fire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Voice_of_Fire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Voice_of_Fire</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Voz_de_Fuego</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Voice_of_Fire</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2900280</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Voice_of_Fire</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Alovun_səsi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Voice_of_Fire</field>
+</doc>
+</add>

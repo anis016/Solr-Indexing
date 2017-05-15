@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_at_the_Column_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_at_the_Column_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_at_the_Column_(Antonello_da_Messina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_at_the_Column_(Antonello_da_Messina)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5108945</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0chjnz</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_at_the_Column_(Antonello_da_Messina)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Antonello_da_Messina</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="abstract">Christ at the Column is a small painting by the Italian Renaissance artist Antonello da Messina, finished around 1475, showing the Flagellation of Christ. It is in the Louvre in Paris. Painted in his final years, the pictures shows Antonello's assimilation of the Early Netherlandish and Venetian influences into a mature art. For long time the unusual small size and close-up view of the subject led scholars to think that the work had been cut down and originally extended lower, and that originally a parapet separated Christ from the watchers. This theory has been proved to be wrong. The face of Christ was a common theme in Antonello's art: however, portraying Christ in the middle of his pain, in the moment in which the tortures have just begun, Antonello managed to obtain an emotive impact sometimes lacking in his similar works. As usual, Antonello devoted high attention to the rendering of details: the sweaty hair, the beard (each hair of which can be distinguished), the half open mouth, in which teeth and tongue can be seen, the first stripes of blood marking the face, the perfectly transparent drops.</field>
+<field name="label">Christ at the Column (Antonello da Messina)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/39/Antonello_Christ.jpg</field>
+<field name="comment">Christ at the Column is a small painting by the Italian Renaissance artist Antonello da Messina, finished around 1475, showing the Flagellation of Christ. It is in the Louvre in Paris. Painted in his final years, the pictures shows Antonello's assimilation of the Early Netherlandish and Venetian influences into a mature art.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Antonello_Christ.jpg/200px-Antonello_Christ.jpg</field>
+<field name="link_external">http://www.mostraantonellodamessina.it/galleria/galleria_a_cristoallacolonna.html</field>
+<field name="link_external">http://www.louvre.fr/llv/oeuvres/detail_notice.jsp?CONTENT%3C%3Ecnt_id=10134198673225173&amp;CURRENT_LLV_NOTICE%3C%3Ecnt_id=10134198673225173&amp;FOLDER%3C%3Efolder_id=9852723696500816&amp;bmLocale=en</field>
+<field name="artist"/>
+<field name="height">25.8</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Christ at the Column</field>
+<field name="type">Oil on table</field>
+<field name="width">21</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_at_the_Column_(Antonello_da_Messina)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_at_the_Column_(Antonello_da_Messina)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_at_the_Column_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5108945</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_at_the_Column_(Antonello_da_Messina)</field>
+</doc>
+</add>

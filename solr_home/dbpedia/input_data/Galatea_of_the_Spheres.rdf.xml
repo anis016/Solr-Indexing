@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Galatea_of_the_Spheres</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Galatea_of_the_Spheres</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Галатея_зі_сферами</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Галатея_со_сферами</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q137457</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05q9n11</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_of_the_Spheres</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Galatée_aux_sphères</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1952_paintings</field>
+<field name="abstract">Galatea of the Spheres is a painting by Salvador Dalí made in 1952. It depicts Gala Dalí, Salvador Dalí's wife and muse, as pieced together through a series of spheres. The name Galatea refers to a sea nymph of Classical mythology renowned for her virtue, and may also refer to the statue beloved by its creator, Pygmalion. Measuring 65.0 x 54.0 cm, the painting depicts the head and shoulders of Gala composed of a matrix of spheres seemingly suspended in space. It represents a synthesis of Renaissance art and atomic theory and illustrates the ultimate discontinuity of matter, the spheres themselves representing atomic particles. Dalí had been greatly interested in nuclear physics since the first atomic bomb explosions of August 1945, and described the atom as his "favourite food for thought". Recognising that matter was made up of atoms which did not touch each other, he sought to replicate this in his art at the time, with items suspended and not interacting with each other, such as in The Madonna of Port Lligat. This painting was also symbolic of his attempt to reconcile his new faith in Catholicism with nuclear physics. His friend, painter Antoni Pitxot, recalled that Dalí held in high regard the depth of perspective in the painting and the spheres he had painted. Dalí wished for this painting to be displayed on an easel, which had been owned by French painter Jean-Louis-Ernest Meissonier, in a suite of three rooms called the Palace of the Winds (named for the tramontana) in the Dalí Theatre and Museum in Figueres. It remains on display there to this day. It was transported to and exhibited at the National Gallery of Victoria in Melbourne in 2009, along with many other Dalí paintings in the Liquid Desire exhibition.</field>
+<field name="label">Galatea of the Spheres</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/08/Galaofspheres.JPG</field>
+<field name="comment">Galatea of the Spheres is a painting by Salvador Dalí made in 1952. It depicts Gala Dalí, Salvador Dalí's wife and muse, as pieced together through a series of spheres. The name Galatea refers to a sea nymph of Classical mythology renowned for her virtue, and may also refer to the statue beloved by its creator, Pygmalion. Measuring 65.0 x 54.0 cm, the painting depicts the head and shoulders of Gala composed of a matrix of spheres seemingly suspended in space.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Galaofspheres.JPG/200px-Galaofspheres.JPG</field>
+<field name="link_external">http://www.theartistsalvadordali.com/galatea-spheres.htm</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/Figueres</field>
+<field name="city">http://dbpedia.org/resource/Spain</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Dal%C3%AD_Theatre_and_Museum</field>
+<field name="title">Galatea of the Spheres</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Galatea_of_the_Spheres</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Galatea_of_the_Spheres</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Galatea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Galatea_of_the_Spheres</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Galatea_of_the_Spheres</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Galatée_aux_sphères</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_of_the_Spheres</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Галатея_со_сферами</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_of_the_Spheres</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q137457</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_of_the_Spheres</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Галатея_зі_сферами</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_of_the_Spheres</field>
+</doc>
+</add>

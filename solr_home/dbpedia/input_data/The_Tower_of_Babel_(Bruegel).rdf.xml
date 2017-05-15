@@ -1,0 +1,205 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Tour_de_Babel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_torre_de_Babel_(Brueghel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Torre_de_Babel_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Вавилонская_башня_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tower_of_Babel_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Einstein's_Monsters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Tower_of_Babel_(Brueghel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tower_of_babel_(brueghel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://hy.dbpedia.org/resource/Բաբելոնի_աշտարակը_(նկար)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/ბაბილონის_გოდოლი_(ნახატი)</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Bábel_tornya_építése</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Torre_di_Babele_(Bruegel)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_torre_de_Babel_(Brueghel)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Зведення_Вавилонської_вежі</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Tour_de_Babel</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dbqkd</field>
+<field name="sameAs">http://lv.dbpedia.org/resource/Bābeles_tornis_(glezna)</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Babelio_bokštas_(paveikslas)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Вавилонская_башня_(картина)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_Toren_van_Babel_(Bruegel)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/מגדל_בבל_(ברויגל)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q699091</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Torre_de_Babel_(Bruegel)</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Turris_Babel_(Petrus_Bruegel_senex)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Babil_Kulesi_(tablo)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Turmbau_zu_Babel_(Bruegel)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wieża_Babel_(obraz_Bruegla)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Torre_de_Babel_(Brueghel)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Tower_of_Babel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="abstract">The Tower of Babel is the subject of three oil paintings by Pieter Bruegel the Elder. The first, a miniature painted on ivory, was painted while Bruegel was in Rome and is now lost. The two surviving paintings depict the construction of the Tower of Babel, which according to the Book of Genesis in the Bible, was a tower built by a unified, monolingual humanity as a mark of their achievement and to prevent them from scattering: "Then they said, 'Come, let us build ourselves a city, and a tower with its top in the heavens, and let us make a name for ourselves; otherwise we shall be scattered abroad upon the face of the whole earth. '" . The person in the foreground is likely Nimrod, who was said to have ordered the construction of the Tower.</field>
+<field name="label">The Tower of Babel (Bruegel)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg</field>
+<field name="comment">The Tower of Babel is the subject of three oil paintings by Pieter Bruegel the Elder. The first, a miniature painted on ivory, was painted while Bruegel was in Rome and is now lost.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg/200px-Pieter_Bruegel_the_Elder_-_The_Tower_of_Babel_(Vienna)_-_Google_Art_Project_-_edited.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/bruegels-tower-of-babel.html</field>
+<field name="link_external">http://arttube.nl/en/video/Boijmans/Pieter_Brueghel</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=323</field>
+<field name="link_external">http://collectie.boijmans.nl/en/work/2443%20%28OK%29</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/97318</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Rotterdam</field>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="height">60</field>
+<field name="height">114</field>
+<field name="image"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="museum">http://dbpedia.org/resource/Museum_Boijmans_Van_Beuningen</field>
+<field name="title">The "Little" Tower of Babel</field>
+<field name="title">The Tower of Babel</field>
+<field name="type">oil on panel</field>
+<field name="width">74.5</field>
+<field name="width">155</field>
+<field name="width">210</field>
+<field name="year">c. 1563</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Tower_of_Babel_(Bruegel)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Turmbau_zu_Babel_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Torre_di_Babele_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wieża_Babel_(obraz_Bruegla)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_Toren_van_Babel_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q699091</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Torre_de_Babel_(Brueghel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/מגדל_בבל_(ברויגל)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Bábel_tornya_építése</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://hy.dbpedia.org/resource/Բաբելոնի_աշտարակը_(նկար)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/ბაბილონის_გოდოლი_(ნახატი)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Turris_Babel_(Petrus_Bruegel_senex)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Babelio_bokštas_(paveikslas)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://lv.dbpedia.org/resource/Bābeles_tornis_(glezna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Babil_Kulesi_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Зведення_Вавилонської_вежі</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Tower_of_Babel_(Bruegel)</field>
+</doc>
+</add>

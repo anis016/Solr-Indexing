@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Baccanale_degli_Andrii</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bacchanal_of_the_Andrians</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Bacchanal_of_the_Andrians</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Bacchanal_of_the_Andrians</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bacchanal_of_the_Andrians</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3l702</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3632485</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Baccanale_degli_Andrii</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_bacanal_de_los_andrios</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_commissioned_for_the_camerini_d'alabastro</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1523_paintings</field>
+<field name="abstract">The Bacchanal of the Andrians is an oil painting by Titian, dated to 1523–1526 and now held at the Museo del Prado in Madrid. It is signed ". [aciebat aciebat]" and was commissioned by Alfonso I d'Este for his camerini d'alabastro.</field>
+<field name="label">The Bacchanal of the Andrians</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e9/Bacanal_de_los_andrios.jpg</field>
+<field name="comment">The Bacchanal of the Andrians is an oil painting by Titian, dated to 1523–1526 and now held at the Museo del Prado in Madrid. It is signed ". [aciebat aciebat]" and was commissioned by Alfonso I d'Este for his camerini d'alabastro.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Bacanal_de_los_andrios.jpg/200px-Bacanal_de_los_andrios.jpg</field>
+<field name="link_external">http://www.museodelprado.es/en/the-collection/what-to-see/3-hours-in-the-museum/obra/bacchanal-on-andros/</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">The Bacchanal of the Andrians</field>
+<field name="type">oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Bacchanal_of_the_Andrians</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Bacchanal_of_the_Andrians</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Baccanale_degli_Andrii</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Bacchanal_of_the_Andrians</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Bacchanal_of_the_Andrians</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_bacanal_de_los_andrios</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bacchanal_of_the_Andrians</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3632485</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bacchanal_of_the_Andrians</field>
+</doc>
+</add>

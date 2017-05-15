@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Malchiostro_Annunciation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Malchiostro_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Malchiostro_Annunciation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_Malchiostro</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Malchiostro_Annunciation</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3618192</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtxbr3</field>
+<field name="sameAs">http://dbpedia.org/resource/Malchiostro_Annunciation</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520s_paintings</field>
+<field name="abstract">Malchiostro Annunciation is a painting by the Italian Renaissance artist Titian, executed around 1520, and housed in the Cathedral of Treviso, northern Italy. The Malchiostro Chapel, located to the left of the high altar of the Cathedral of Treviso, near the sacristy, was commissioned by Broccardo Malchiostro, secretary of the bishop and humanist Bernardo de' Rossi. Designed by Tullio of Antonio Lombardo, it was completed in 1519 and frescoed by Il Pordenone until 1520. The decoration was completed in around 1523, and this Annunciation was executed by Titian around that period, perhaps with the help of Paris Bordone. The face of the donor was possibly repainted after 1526. Lorenzo Lotto was inspired by this work for his Recanati Annunciation. The painting depicts the Annunciation in a church with a chessboard pavement. Titian, instead of painting the angel on the left and Mary on the right as usual, moved the Madonna into the foreground with the angel behind, pushed towards Mary by the divine light behind him. At the center, kneeling, is the donor, put in a rather far position from the viewer.</field>
+<field name="label">Malchiostro Annunciation</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/92/Tiziano,_annunciazione_malchiostro_00.jpg</field>
+<field name="comment">Malchiostro Annunciation is a painting by the Italian Renaissance artist Titian, executed around 1520, and housed in the Cathedral of Treviso, northern Italy. The Malchiostro Chapel, located to the left of the high altar of the Cathedral of Treviso, near the sacristy, was commissioned by Broccardo Malchiostro, secretary of the bishop and humanist Bernardo de' Rossi. Designed by Tullio of Antonio Lombardo, it was completed in 1519 and frescoed by Il Pordenone until 1520.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Tiziano,_annunciazione_malchiostro_00.jpg/200px-Tiziano,_annunciazione_malchiostro_00.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Treviso</field>
+<field name="height">210</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Treviso_Cathedral</field>
+<field name="title">Malchiostro Annunciation</field>
+<field name="width">176</field>
+<field name="year">c. 1520</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Malchiostro_Annunciation</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Malchiostro_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_Malchiostro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malchiostro_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3618192</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Malchiostro_Annunciation</field>
+</doc>
+</add>

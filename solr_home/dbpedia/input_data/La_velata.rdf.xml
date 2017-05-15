@@ -1,0 +1,148 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_Velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Донна_Велата</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_velada_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_kobiety_(obraz_Rafaela)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_velada_(Rafael)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Донна_Велата</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_donna_velata</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Donna_Velata</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q948034</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025y594</field>
+<field name="sameAs">http://az.dbpedia.org/resource/La_velata</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Донна_Велата</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_velata</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/La_Donna_Velata</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_kobiety_(obraz_Rafaela)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/La_velata</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_Velata</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1515_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="abstract">La velata, or La donna velata ("The woman with the veil"), is one of the most famous portraits by the Italian Renaissance painter Raphael. The subject of the painting appears in another portrait, La Fornarina, and is traditionally identified as the fornarina (bakeress) Margherita Luti, Raphael's Roman mistress.</field>
+<field name="label">La velata</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4d/Raphael.woman.600pix.jpg</field>
+<field name="comment">La velata, or La donna velata ("The woman with the veil"), is one of the most famous portraits by the Italian Renaissance painter Raphael. The subject of the painting appears in another portrait, La Fornarina, and is traditionally identified as the fornarina (bakeress) Margherita Luti, Raphael's Roman mistress.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Raphael.woman.600pix.jpg/200px-Raphael.woman.600pix.jpg</field>
+<field name="link_external">http://www.chez.com/suriyakantha/Rafael.htm</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">82</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">La velata</field>
+<field name="width">60.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_velata</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Donna_Velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_donna_velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_donna_velata_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_velata_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_woman_with_the_veil_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_with_a_veil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_donna_velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/La_Donna_Velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q948034</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/La_velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Donna_Velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/La_velata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Донна_Велата</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_velata</field>
+</doc>
+</add>

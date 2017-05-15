@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Speculation_about_Mona_Lisa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Speculation_about_Mona_Lisa</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7575329</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Speculation_about_Mona_Lisa</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Wikipédia:Oracle/semaine_9_2009</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mona_Lisa</field>
+<field name="abstract">The 16th-century portrait Mona Lisa, or La Gioconda (La Joconde), painted in oil on a poplar panel by Leonardo da Vinci, has been the subject of a considerable deal of speculation.</field>
+<field name="label">Speculation about Mona Lisa</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ec/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg</field>
+<field name="comment">The 16th-century portrait Mona Lisa, or La Gioconda (La Joconde), painted in oil on a poplar panel by Leonardo da Vinci, has been the subject of a considerable deal of speculation.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg/200px-Mona_Lisa,_by_Leonardo_da_Vinci,_from_C2RMF_retouched.jpg</field>
+<field name="link_external">http://www.royalcollection.org.uk/egallery/object.asp?maker=12196&amp;object=912278&amp;row=435&amp;detail=magnify</field>
+<field name="link_external">http://vorontzov.com/mona-lisa/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Speculation_about_Mona_Lisa</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Speculation_about_Mona_Lisa</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Speculation_about_Mona_Lisa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Speculation_about_Mona_Lisa</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7575329</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Speculation_about_Mona_Lisa</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Wikipédia:Oracle/semaine_9_2009</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Speculation_about_Mona_Lisa</field>
+</doc>
+</add>

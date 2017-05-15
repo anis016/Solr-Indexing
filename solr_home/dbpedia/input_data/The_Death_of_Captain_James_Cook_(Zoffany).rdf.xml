@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_Captain_James_Cook_(Zoffany)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Captain_James_Cook_(Zoffany)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7729420</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dd9gjf</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Death_of_Captain_James_Cook_(Zoffany)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:James_Cook</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johann_Zoffany</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1790s_paintings</field>
+<field name="abstract">The Death of Captain James Cook, 14 February 1779 is a painting by Johann Zoffany. The painting records the loss of the British explorer Captain James Cook. The painting was completed in 1794 some years after the death of Cook in 1779. Other paintings of the death of Cook were painted earlier. The Mahiole (Feathered Helmet) that was included in the painting of Cook's death by Zoffany is said to be the helmet given to Cook when he first landed in Hawaii.</field>
+<field name="label">The Death of Captain James Cook (Zoffany)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8a/Death_of_Captain_Cook,_by_Johann_Zoffany.jpg</field>
+<field name="comment">The Death of Captain James Cook, 14 February 1779 is a painting by Johann Zoffany. The painting records the loss of the British explorer Captain James Cook. The painting was completed in 1794 some years after the death of Cook in 1779. Other paintings of the death of Cook were painted earlier. The Mahiole (Feathered Helmet) that was included in the painting of Cook's death by Zoffany is said to be the helmet given to Cook when he first landed in Hawaii.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Death_of_Captain_Cook,_by_Johann_Zoffany.jpg/200px-Death_of_Captain_Cook,_by_Johann_Zoffany.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Johann_Zoffany</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">137.2</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Maritime_Museum</field>
+<field name="title">The Death of Captain James Cook</field>
+<field name="width">182.9</field>
+<field name="year">c. 1795</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Death_of_Captain_James_Cook_(Zoffany)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Death_of_Captain_James_Cook_(Zoffany)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Death_of_Captain_James_Cook_(Zoffany)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Death_of_Captain_James_Cook_(Zoffany)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7729420</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Captain_James_Cook_(Zoffany)</field>
+</doc>
+</add>

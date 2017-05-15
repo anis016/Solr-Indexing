@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Butcher's_Shop_(Annibale_Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Butcher's_Shop_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Butcher's_Shop_(Annibale_Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rw_cp</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Bottega_del_macellaio</field>
+<field name="sameAs">http://dbpedia.org/resource/Butcher's_Shop_(Annibale_Carracci)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Butcher's_Shop_(Annibale_Carracci)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/М'ясна_крамниця</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_carnicería</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1221070</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Taberna_macellaria_(Carracci)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Annibale_Carracci</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1580s_paintings</field>
+<field name="abstract">The Butcher's Shop are paintings by the Italian Baroque painter Annibale Carracci. Dating from the 1580s (probably 1583-1585), they are in the collection of Christ Church Picture Gallery, Oxford and the Kimbell Art Museum in Fort Worth, Texas. The paintings are connected to the contemporary Beaneater, as they are very early examples of Italian genre painting. The large size of the Christ Church painting is exceptional for such a subject at this date, and it has been suggested they were commissioned by a butcher's guild, or for use as a sign. Carracci was influenced in his depiction of everyday life subjects by Vincenzo Campi and Bartolomeo Passarotti, whom in fact the Butcher's Shop was originally attributed to. Carracci's ability to adapt his style is demonstrated, making it "lower" when concerning "lower", quasi-satirical subjects like the Mangiafagioli and the Butcher's Shop, while in his more academic works (such as the roughly contemporary Assumption of the Virgin) he was able to use a more finished manner with the same ease. It is claimed that members of the painter's family were used as models. Significant alterations to some figures are revealed by x-rays, and the hand on the edge of the table, now apparently belonging to the old woman, though not in proportion with the rest of her, may have originally have belonged to the butcher to the right of her. The Christ Church painting was in the collections of the Gonzaga Dukes of Mantua and Charles I of England.</field>
+<field name="label">Butcher's Shop (Annibale Carracci)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a7/Carracci-Butcher's_shop.jpg</field>
+<field name="comment">The Butcher's Shop are paintings by the Italian Baroque painter Annibale Carracci. Dating from the 1580s (probably 1583-1585), they are in the collection of Christ Church Picture Gallery, Oxford and the Kimbell Art Museum in Fort Worth, Texas. The paintings are connected to the contemporary Beaneater, as they are very early examples of Italian genre painting.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Carracci-Butcher's_shop.jpg/200px-Carracci-Butcher's_shop.jpg</field>
+<field name="link_external">http://yalepress.yale.edu/yupbooks/book.asp?isbn=9780300166408</field>
+<field name="link_external">http://www.artble.com/artists/annibale_carracci/paintings/the_butcher%27s_shop</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">185</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Butcher's Shop</field>
+<field name="type">Oil on canvas</field>
+<field name="width">266</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Butcher's_Shop_(Annibale_Carracci)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Butcher's_Shop_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_carnicería</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Butcher's_Shop_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Butcher's_Shop</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Bottega_del_macellaio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Butcher's_Shop_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1221070</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Butcher's_Shop_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Taberna_macellaria_(Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Butcher's_Shop_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/М'ясна_крамниця</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Butcher's_Shop_(Annibale_Carracci)</field>
+</doc>
+</add>

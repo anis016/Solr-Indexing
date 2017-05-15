@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Souvenir_de_Mortefontaine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Souvenir_de_Mortefontaine</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Souvenir_de_Mortefontaine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zy8sv</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Souvenir_de_Mortefontaine</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7571529</field>
+<field name="sameAs">http://dbpedia.org/resource/Souvenir_de_Mortefontaine</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean-Baptiste-Camille_Corot</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1864_paintings</field>
+<field name="abstract">Souvenir de Mortefontaine (Recollection of Mortefontaine) is a 1864 oil-on-canvas painting by French artist Jean-Baptiste-Camille Corot. It is a scene of tranquillity: a woman and children quietly enjoying themselves by a glass-flat, tree-flanked lake. Generally acknowledged as one of his masterpieces, it is among the most successful of Corot's later, more poetic works. The painting captures an idealized scene while still drawing from the real world. Corot's early painting showed Realist leanings, but as his career progressed he began to combine more Romantic elements, and his works are often viewed as a bridge between Realism and the evolving Impressionist movement. Souvenir de Mortefontaine verges on the Impressionistic, with the lake and landscape captured by broad rather than detailed strokes and Corot's careful attention to the play of light within the scene, though the brushwork is precise and the painting has a more muted palette than the bright colours favoured by the Impressionists. The indistinct features are reminiscent of the blurry details of early landscape photography; Corot had a large collection of these photographs and may have been attempting to recreate the effect in paint. Mortefontaine is a small village in the Oise département in northern France. Corot made frequent visits to the area in the 1850s to study the effects of light and reflection on water. In Souvenir de Mortefontaine Corot was not producing a scene from life, but (as the title suggests) his recollections of his visits and the play of light on the ponds in the village. Corot produced a second similar painting, The Boatman of Mortefontaine (1865–70), which shows the same lake and trees from the same perspective. Changes in the features of the landscape in The Boatman from those depicted in Souvenir hint at the paintings being generalised impressions rather than details captured from life. Souvenir de Mortefontaine was purchased in 1864 for the French state directly from Corot through Napoleon III's Civil List, and after hanging at Fontainebleau for 25 years it was transferred to the Louvre in 1889.</field>
+<field name="label">Souvenir de Mortefontaine</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/74/Jean-Baptiste-Camille_Corot_012.jpg</field>
+<field name="comment">Souvenir de Mortefontaine (Recollection of Mortefontaine) is a 1864 oil-on-canvas painting by French artist Jean-Baptiste-Camille Corot. It is a scene of tranquillity: a woman and children quietly enjoying themselves by a glass-flat, tree-flanked lake. Generally acknowledged as one of his masterpieces, it is among the most successful of Corot's later, more poetic works. The painting captures an idealized scene while still drawing from the real world.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Jean-Baptiste-Camille_Corot_012.jpg/200px-Jean-Baptiste-Camille_Corot_012.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Jean-Baptiste-Camille_Corot</field>
+<field name="height">65.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Souvenir de Mortefontaine</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">89</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Souvenir_de_Mortefontaine</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Souvenir_de_Mortefontaine</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Memory_of_Mortefontaine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Recollection_of_Mortefontaine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7571529</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Souvenir_de_Mortefontaine</field>
+</doc>
+</add>

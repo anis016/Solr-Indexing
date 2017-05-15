@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_с_рыбой</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Fish</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Fish</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_the_Fish</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gkym4v</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_au_poisson</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_с_рыбой</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Fish</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_del_pez</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_with_the_Fish</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Мадонна_з_рибою</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Pesce</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Madonna_balıqla</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2631335</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1506_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="abstract">Madonna of the Fish, known also as Madonna with the Fish is a painting by the Italian master Raphael in the gallery at Madrid and is done in the painter's most perfect style. Mary sits enthroned with the Jesus on her knee. On one side is St. Jerome kneeling by the Lion; he is holding a book. On the other side the archangel Raphael is presenting at the foot of the throne the young Tobias, whom he formerly guided to the River Tigris, and who bears the miraculous fish whose heart, liver and gall were to restore his father's sight, and drive the demons from his bride. Tobias with his fish was an early type of baptism. Raphael leading Tobias always expresses protection, and especially protection to the young. The picture is believed to have been painted to commemorate the introduction of Tobit among the canonical books of the Roman Catholic Church. St. Jerome translated the book of Tobit into Latin, which explains his presence on the right of Mary.</field>
+<field name="label">Madonna with the Fish</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/90/Raphael_-_Madona_of_the_Fish.jpg</field>
+<field name="comment">Madonna of the Fish, known also as Madonna with the Fish is a painting by the Italian master Raphael in the gallery at Madrid and is done in the painter's most perfect style. Mary sits enthroned with the Jesus on her knee. On one side is St. Jerome kneeling by the Lion; he is holding a book.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/90/Raphael_-_Madona_of_the_Fish.jpg/200px-Raphael_-_Madona_of_the_Fish.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">113</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">Madonna with the Fish</field>
+<field name="type">oil on board</field>
+<field name="width">88</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_with_the_Fish</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_with_the_Fish</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_with_the_Fish</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_with_the_Fish</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_au_poisson</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Fish</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Pesce</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Fish</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_del_pez</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Fish</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2631335</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Fish</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Madonna_balıqla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Fish</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Мадонна_з_рибою</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Fish</field>
+</doc>
+</add>

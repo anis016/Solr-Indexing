@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Jurist_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_jurista</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jurist_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7743886</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.027hg33</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Jurist_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mannerist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giuseppe_Arcimboldo</field>
+<field name="abstract">The Jurist, also known as The Lawyer, is an oil-on-canvas painting by Italian artist Giuseppe Arcimboldo, painted in 1566. It shows a member of the legal profession, whose facial features are depicted using meat and fish, and whose body is composed of legal documents. Two versions of the painting exist; the first, from 1566, is held by the National Museum of Fine Arts (Nationalmuseum) in Stockholm (acquired from a collection at Gripsholm Castle in 1866), and a later version is held by a private collector in Milan. Arcimboldo was employed as court painter to Maximilian II and was already well established as an artist by the time he created The Jurist. He was known for his innovative style, particularly for his portraits in which the subjects were composed of everyday objects. His fantastical and imaginative paintings somewhat foreshadowed the Surrealist movement of the 20th century, but were also appreciated as part of the Mannerist tradition of his own time. His series of paintings, The Four Seasons, which depicted the changing seasons as series of portraits composed of seasonal plants, were particularly popular, and he even created a portrait of Rudolf II (entitled Vertemnus) in the same style. The artist's feelings about his subject in The Jurist are clear from the composition; the features of the face are represented by the plucked carcasses of poultry and the sneering mouth by fish. It is not known if the subject is a caricature of the legal profession in general or based on a real jurist of the time. The German jurist Ulrich Zasius is normally suggested as the subject; the Nationalmuseum lists the picture in its catalogue as The Lawyer (Ulrich Zasius), but Calvin has also been suggested. Arcimboldo's portrait of The Librarian (Il Bibliotecario), painted the same year, has a more noble aspect, although this portrait too has been interpreted as a parody of librarianship, book collectors, and intellectualism.</field>
+<field name="label">The Jurist (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f8/Jurist-arcimboldo.png</field>
+<field name="comment">The Jurist, also known as The Lawyer, is an oil-on-canvas painting by Italian artist Giuseppe Arcimboldo, painted in 1566. It shows a member of the legal profession, whose facial features are depicted using meat and fish, and whose body is composed of legal documents.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Jurist-arcimboldo.png/200px-Jurist-arcimboldo.png</field>
+<field name="artist">http://dbpedia.org/resource/Giuseppe_Arcimboldo</field>
+<field name="city">http://dbpedia.org/resource/Stockholm</field>
+<field name="city">http://dbpedia.org/resource/Sweden</field>
+<field name="height">64</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Nationalmuseum</field>
+<field name="title">The Jurist</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">51</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Jurist_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Jurist_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_jurista</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jurist_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Jurist_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Jurist_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7743886</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jurist_(painting)</field>
+</doc>
+</add>

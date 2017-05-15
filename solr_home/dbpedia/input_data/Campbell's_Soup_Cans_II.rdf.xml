@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Campbell's_Soup_Cans_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5027966</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Campbell's_Soup_Cans_II</field>
+<field name="sameAs">http://dbpedia.org/resource/Campbell's_Soup_Cans_II</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03chbfl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andy_Warhol</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Campbell_Soup_Company</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pop_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1969_paintings</field>
+<field name="abstract">Campbell's Soup Cans II is a work of art produced in 1969 by Andy Warhol as part of his Campbell's Soup Cans series. 250 sets of this print were made, and edition #17 is in the collection at the Museum of Contemporary Art, Chicago. It consists of ten prints: Tomato Beef Noodle O' Chicken 'n Dumplings Vegetarian Vegetable Clam Chowder Old fashioned vegetable made with beef stock Scotch Broth Cheddar Cheese Oyster Stew Golden Mushroom Hot Dog Bean</field>
+<field name="label">Campbell's Soup Cans II</field>
+<field name="comment">Campbell's Soup Cans II is a work of art produced in 1969 by Andy Warhol as part of his Campbell's Soup Cans series. 250 sets of this print were made, and edition #17 is in the collection at the Museum of Contemporary Art, Chicago. It consists of ten prints: Tomato Beef Noodle O' Chicken 'n Dumplings Vegetarian Vegetable Clam Chowder Old fashioned vegetable made with beef stock Scotch Broth Cheddar Cheese Oyster Stew Golden Mushroom Hot Dog Bean</field>
+<field name="name"/>
+<field name="artist">http://dbpedia.org/resource/Andy_Warhol</field>
+<field name="city">http://dbpedia.org/resource/Chicago</field>
+<field name="height">88.9</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Contemporary_Art,_Chicago</field>
+<field name="title">Campbell's Soup Cans II</field>
+<field name="type">Screenprint on paper</field>
+<field name="width">58.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Campbell's_Soup_Cans_II</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Campbell's_Soup_Cans_II</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Campbell's_Soup_Cans_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Campbell's_Soup_Cans_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Campbell's_Soup_Cans_II</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5027966</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Campbell's_Soup_Cans_II</field>
+</doc>
+</add>

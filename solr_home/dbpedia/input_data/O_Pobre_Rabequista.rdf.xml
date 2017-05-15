@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/O_Pobre_Rabequista</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/O_Pobre_Rabequista</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/O_Pobre_Rabequista</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/O_Pobre_Rabequista</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/O_Pobre_Rabequista</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7073311</field>
+<field name="sameAs">http://dbpedia.org/resource/O_Pobre_Rabequista</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04cr5fr</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/O_Pobre_Rabequista</field>
+<field name="sameAs">http://yago-knowledge.org/resource/O_Pobre_Rabequista</field>
+<field name="sameAs">http://es.dbpedia.org/resource/O_Pobre_Rabequista</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jos%C3%A9_Rodrigues</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1855_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portuguese_paintings</field>
+<field name="abstract">O Pobre Rabequista is an oil painting, 1855 (oil on canvas 170 X 122 cm), by José Rodrigues.</field>
+<field name="label">O Pobre Rabequista</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/39/Cego_Rabequista_GPEG_.jpg</field>
+<field name="comment">O Pobre Rabequista is an oil painting, 1855 (oil on canvas 170 X 122 cm), by José Rodrigues.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Cego_Rabequista_GPEG_.jpg/200px-Cego_Rabequista_GPEG_.jpg</field>
+<field name="link_external">http://www.pitoresco.com.br/portugal/portugal/10_jose/jose.htm</field>
+<field name="artist">http://dbpedia.org/resource/Jos%C3%A9_Rodrigues</field>
+<field name="image"/>
+<field name="imageSize">220</field>
+<field name="title">The Poor Rebecker</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/O_Pobre_Rabequista</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/O_Pobre_Rabequista</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/O_Pobre_Rabequista</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/O_Pobre_Rabequista</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7073311</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/O_Pobre_Rabequista</field>
+</doc>
+</add>

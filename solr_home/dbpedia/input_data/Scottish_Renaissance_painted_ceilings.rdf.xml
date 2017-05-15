@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Scottish_Renaissance_painted_ceilings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Scottish_Renaissance_painted_ceilings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Scottish_Renaissance_painted_ceilings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scottish_Renaissance_painted_ceilings</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7437936</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Scottish_Renaissance_painted_ceilings</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmghnm</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_history</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_in_Scotland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:17th_century_in_Scotland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Scottish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th_century_in_Scotland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Scottish_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ceilings</field>
+<field name="abstract">A number of Scottish houses and castles built between 1540 and 1640 have painted ceilings. This is a distinctive national style, though there is common ground with similar work elsewhere, especially in France, Spain and Scandinavia. An example in England, at Wickham, Hampshire, was recorded in 1974. Most surviving examples are painted simply on the boards and joists forming the floor of the room above. Rooms or galleries in attic storeys were fully lined with thin pine boarding and painted. The fashion was superseded by decorative plasterwork and sometimes the painted ceilings were broken up to form lathing for the new plaster.</field>
+<field name="label">Scottish Renaissance painted ceilings</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c9/Aberdour_Castle_-17th_century_painted_ceiling.jpg</field>
+<field name="comment">A number of Scottish houses and castles built between 1540 and 1640 have painted ceilings. This is a distinctive national style, though there is common ground with similar work elsewhere, especially in France, Spain and Scandinavia. An example in England, at Wickham, Hampshire, was recorded in 1974. Most surviving examples are painted simply on the boards and joists forming the floor of the room above. Rooms or galleries in attic storeys were fully lined with thin pine boarding and painted.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Aberdour_Castle_-17th_century_painted_ceiling.jpg/200px-Aberdour_Castle_-17th_century_painted_ceiling.jpg</field>
+<field name="link_external">http://www.buildingconservation.com/articles/restoring/restoring.htm</field>
+<field name="link_external">http://www.euppublishing.com/doi/abs/10.3366/arch.2007.18.1.73</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/arch-352-1/dissemination/pdf/vol_007/7_409_413.pdf</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/arch-352-1/dissemination/pdf/vol_075/75_184_204.pdf</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/arch-352-1/dissemination/pdf/vol_077/77_147_154.pdf</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/arch-352-1/dissemination/pdf/vol_091/91_144_176.pdf</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/PSAS_2002/pdf/vol_033/33_387_413.pdf</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/PSAS_2002/pdf/vol_038/38_151_173.pdf</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/arch-352-1/dissemination/pdf/vol_007/7_141_152.pdf</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/arch-352-1/dissemination/pdf/vol_044/44_237_259.pdf</field>
+<field name="link_external">http://www.archive.org/details/proceedingssoci18unkngoog</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/PSAS_2002/pdf/vol_035/35_109_111.pdf</field>
+<field name="link_external">http://www.northernrenaissance.org/documents/uploaded/file/Bath.pdf</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/arch-352-1/dissemination/pdf/vol_002/2_339_344.pdf</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/arch-352-1/dissemination/pdf/vol_104/104_222_235.pdf</field>
+<field name="link_external">http://www.deepdyve.com/lp/edinburgh-university-press/provost-skene-s-house-in-aberdeen-and-its-catholic-chapel-I4pcrUbXRG</field>
+<field name="link_external">http://www.bvh.univ-tours.fr/Consult/index.asp?numfiche=62&amp;numtable=B372616101_3540_2&amp;url=/resauteur.asp?numauteur=37-ordre=titre</field>
+<field name="link_external">http://www.e-conservationline.com/content/view/773</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/arch-352-1/dissemination/pdf/vol_106/106_158_160.pdf</field>
+<field name="link_external">http://ads.ahds.ac.uk/catalogue/adsdata/PSAS_2002/pdf/vol_092/92_085_103.pdf</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Scottish_Renaissance_painted_ceilings</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Scottish_Renaissance_painted_ceilings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Scottish_renaissance_painted_ceilings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7437936</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scottish_Renaissance_painted_ceilings</field>
+</doc>
+</add>

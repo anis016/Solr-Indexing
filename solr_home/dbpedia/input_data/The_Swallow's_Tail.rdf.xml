@@ -1,0 +1,84 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_coda_di_rondine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swallow's_Tail</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Ласточкин_хвост_(поверхность)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swallow's_Tail</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Swallow's_Tail</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_coda_di_rondine</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Queue_d'aronde</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Хвіст_ластівки_(поверхня)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05_4jy</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/دم_پرستو</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swallow's_Tail</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Ласточкин_хвост_(поверхность)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q611945</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Swallow's_Tail</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mathematics_and_culture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1983_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Singularity_theory</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">The Swallow's Tail — Series on Catastrophes (French: La queue d'aronde — Série des catastrophes) was Salvador Dalí's last painting. It was completed in May 1983, as the final part of a series based on René Thom's catastrophe theory. Thom suggested that in four-dimensional phenomena, there are seven possible equilibrium surfaces, and therefore seven possible discontinuities, or "elementary catastrophes": fold, cusp, swallowtail, butterfly, hyperbolic umbilic, elliptic umbilic, and parabolic umbilic. "The shape of Dalí’s Swallow’s Tail is taken directly from Thom’s four-dimensional graph of the same title, combined with a second catastrophe graph, the s-curve that Thom dubbed, "the cusp". Thom’s model is presented alongside the elegant curves of a cello and the instrument’s f-holes, which, especially as they lack the small pointed side-cuts of a traditional f-hole, equally connote the mathematical symbol for an integral in calculus: . " In his 1979 speech, "Gala, Velázquez and the Golden Fleece", presented upon his 1979 induction into the prestigious Académie des Beaux-Arts of the Institut de France, Dalí described Thom’s theory of catastrophes as ‘the most beautiful aesthetic theory in the world’. He also recollected his first and only meeting with René Thom, at which Thom purportedly told Dalí that he was studying tectonic plates; this provoked Dalí to question Thom about the railway station at Perpignan, France, which the artist had declared in the 1960s as the centre of the universe. Thom reportedly replied, "I can assure you that Spain pivoted precisely — not in the area of — but exactly there where the Railway Station in Perpignan stands today". Dalí was immediately enraptured by Thom’s statement, influencing his painting Topological Abduction of Europe — Homage to René Thom, the lower left corner of which features an equation closely linked to the ‘swallow’s tail’: an illustration of the graph, and the term ‘queue d'aronde’. The seismic fracture that transverses Topological Abduction of Europe reappears in The Swallow’s Tail at the precise point where the y-axis of the swallow’s tail graph intersects with the S-curve of the cusp.</field>
+<field name="label">The Swallow's Tail</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/22/The_Swallowtail.jpg</field>
+<field name="comment">The Swallow's Tail — Series on Catastrophes (French: La queue d'aronde — Série des catastrophes) was Salvador Dalí's last painting. It was completed in May 1983, as the final part of a series based on René Thom's catastrophe theory.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/The_Swallowtail.jpg/200px-The_Swallowtail.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/Figueres</field>
+<field name="height">73</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Dal%C3%AD_Theatre_and_Museum</field>
+<field name="title">The Swallow's Tail — Series on Catastrophes</field>
+<field name="width">92.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Swallow's_Tail</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Swallow's_Tail</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Swallow's_Tail</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Swallow's_Tail</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Swallowtail</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Queue_d'aronde</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swallow's_Tail</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q611945</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swallow's_Tail</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/دم_پرستو</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swallow's_Tail</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Хвіст_ластівки_(поверхня)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Swallow's_Tail</field>
+</doc>
+</add>

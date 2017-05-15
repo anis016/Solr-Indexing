@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lansdowne</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lansdowne_portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1760522</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05hc09</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lansdowne_portrait</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Lansdowne_Portrait</field>
+<field name="sameAs">http://dbpedia.org/resource/Lansdowne_portrait</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cultural_depictions_of_George_Washington</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1796_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Artifacts_in_the_collection_of_the_Smithsonian_Institution</field>
+<field name="abstract">The Lansdowne portrait is an iconic oil-on-canvas portrait of George Washington, the first President of the United States. The portrait was commissioned in April 1796 by Senator William Bingham of Pennsylvania—one of the wealthiest men in the U.S. at the time—and his wife, Anne. The portrait measures 8 by 5 feet (2.44 by 1.52 m) and was given as a gift of appreciation to British Prime Minister, born William Petty FitzMaurice; the second Earl of Shelburne and subsequently the first Marquess of Lansdowne. Petty-FitzMaurice was an American sympathizer who supported independence of the colonies in Parliament. He succeeded in securing peace with America during his term as Prime Minister of Great Britain. The Lansdowne portrait was completed in the fall of that year by American artist Gilbert Stuart (who made two other portraits of George Washington, and many others of prominent American revolutionaries). The painting shows Washington (then at 64 years old) renouncing a third term as U.S. President. It is currently on permanent display at the National Portrait Gallery of the Smithsonian Institution. Replicas painted by Stuart are on display in the East Room of the White House, the Old State House in Hartford, Connecticut, and the Pennsylvania Academy of the Fine Arts Museum. Additional copies painted by other artists are displayed in the U.S. House Chamber and the Rayburn room of the Capitol. In 2001, The Donald W. Reynolds Foundation committed $30 million to buy the painting and created a permanent home for it at the National Portrait Gallery where it had previously been on anonymous loan.</field>
+<field name="label">Lansdowne portrait</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/95/Washington_(3).jpg</field>
+<field name="comment">The Lansdowne portrait is an iconic oil-on-canvas portrait of George Washington, the first President of the United States. The portrait was commissioned in April 1796 by Senator William Bingham of Pennsylvania—one of the wealthiest men in the U.S. at the time—and his wife, Anne.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Washington_(3).jpg/200px-Washington_(3).jpg</field>
+<field name="link_external">http://www.googleartproject.com/collection/the-white-house/artwork/george-washington-gilbert-stuart/6494278/</field>
+<field name="link_external">http://www.googleartproject.com/collection/brooklyn-museum/artwork/george-washington-gilbert-stuart/6966745/</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/74976</field>
+<field name="link_external">http://www.vvdailypress.com/2001-2003/103743360089528.html</field>
+<field name="link_external">http://www.artnews.com/2004/10/01/the-white-house-washington/</field>
+<field name="link_external">http://www.georgewashington.si.edu/portrait/index.html</field>
+<field name="artist"/>
+<field name="height">243.8</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">George Washington</field>
+<field name="type">Oil on canvas</field>
+<field name="width">152.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lansdowne_portrait</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lansdowne_portrait</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/George_Washington_portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Lansdowne_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lansdowne_portrait</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lansdowne_portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lansdowne_portrait</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1760522</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lansdowne_portrait</field>
+</doc>
+</add>

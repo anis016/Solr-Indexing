@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Приказ_об_освобождении_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Order_of_Release</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Order_of_Release</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Szabadon_bocsátó_parancs</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q822541</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Приказ_об_освобождении_(картина)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0268dw6</field>
+<field name="sameAs">http://th.dbpedia.org/resource/คำสั่งปล่อย_(มิเล)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Order_of_Release</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Order_of_Release</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1853_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Jacobite_rising_of_1745</field>
+<field name="abstract">The Order of Release, 1746 is a painting by John Everett Millais exhibited in 1853. It is notable for the fact that it marks the beginnings of Millais's move away from the highly detailed Pre-Raphaelitism of his early years. Another notable fact is that Effie Gray, who later left her husband for the artist, modelled for the principal figure. The painting depicts the wife of a rebel Scottish soldier, who has been imprisoned after the Jacobite rising of 1745, arriving with an order securing his release. She holds her child, showing the order to a guard, while her husband embraces her. The Illustrated London News reviewed the painting as follows: It is time now that we speak of Millais – Millais the Pre-Raffaelite; the "pretender" Millais that was; the "usurper" Millais that is; the "legitimate" Millais that perhaps (much virtue in that little word) may be; and who has certainly a larger crowd of admirers in his little corner in the Middle Room than all the Academicians put together command; . . . Truth to say, Mr. Millais, in this "Order of Release" (265), has achieved for himself an "order of merit" worth more than any academic honour, and has earned a fame which a whole corporate academy might be proud to portion amongst its constituent members. Whilst we admit – nay assert this – we would by no means wish to be understood as enrolling ourselves incontinently of this young artist’s "party" (for there is partisanship in everything, even in art); but simply as asserting that Pre-Raffaelitism (or rather the artists who have been foolishly styled Pre-Raffaelites) is a "great fact," and perhaps may lead to the regeneration of art in this country;. . . The subject is simply that of a wife, with child in her arms, coming with an order of release for her husband, who has been taken in the Civil Wars. The husband, overcome with emotions, and weak from a recent wound (his arm is in a sling), can but fall upon her neck and weep; moan, "firm of purpose," sheds no tear; she has none to shed; but her eye is red and heavy with weeping and waking; and she looks at the stern and unconcerned gaoler with a proud look, expressing that she has won the reward for all her trouble past. The colouring, the textural execution, are marvellous (for these degenerate days). The dark, generalised background is a departure from the highly detailed backgrounds of earlier works such as Ophelia, as is the emphatic chiaroscuro. However, the portrayal of tense relationships disrupted by historical dramas was a continuation of the theme of A Huguenot and The Proscribed Royalist, 1651. While working on the painting, Millais fell in love with Effie, the wife of his principal supporter, the critic John Ruskin. A study for the painting has a drawing of her head of one side and an image of a man kneeling in supplication to a woman on the other, labelled "accepted".</field>
+<field name="label">The Order of Release</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/13/Millais_Order_of_Release.jpg</field>
+<field name="comment">The Order of Release, 1746 is a painting by John Everett Millais exhibited in 1853. It is notable for the fact that it marks the beginnings of Millais's move away from the highly detailed Pre-Raphaelitism of his early years. Another notable fact is that Effie Gray, who later left her husband for the artist, modelled for the principal figure.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Millais_Order_of_Release.jpg/200px-Millais_Order_of_Release.jpg</field>
+<field name="link_external">http://www.victorianweb.org/painting/millais/paintings/king5.html</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">102.9</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">The Order of Release, 1746</field>
+<field name="width">73.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Order_of_Release</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Order_of_Release</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Order_of_Release</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Order_of_Release</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q822541</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Order_of_Release</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Szabadon_bocsátó_parancs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Order_of_Release</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/คำสั่งปล่อย_(มิเล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Order_of_Release</field>
+</doc>
+</add>

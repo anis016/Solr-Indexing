@@ -1,0 +1,98 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Sabines</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Intervention_of_the_Sabine_Women</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sabine_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Сабинянки,_останавливающие_битву_между_римлянами_и_сабинянами</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Intervention_of_the_Sabine_Women</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Intervention_of_the_Sabine_Women</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047q6xx</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Сабинянки,_останавливающие_битву_между_римлянами_и_сабинянами</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Le_Sabine</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Intervention_of_the_Sabine_Women</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Les_Sabines</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Sabinele</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Sabines</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1314013</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Intervention_of_the_Sabine_Women</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/مداخله_زنان_اهل_سابین</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Neoclassical_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1799_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jacques-Louis_David</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Intervention of the Sabine Women is a 1799 painting by the French painter Jacques-Louis David. David began planning the work while he was imprisoned in the Luxembourg Palace in 1795. France was at war with other European nations after a period of civil conflict culminating in the Reign of Terror and the Thermidorian Reaction, during which David had been imprisoned as a supporter of Robespierre. David hesitated between representing either this subject or that of Homer reciting his verses to the Greeks. He finally chose to make a canvas representing the Sabine women interposing themselves to separate the Romans and Sabines, as a 'sequel' to Poussin's The Rape of the Sabine Women. David began work on it in 1796, after his estranged wife visited him in jail. He conceived the idea of telling the story, to honour his wife, with the theme being love prevailing over conflict. The painting was also seen as a plea for the people to reunite after the bloodshed of the revolution. Its realization took him nearly four years. The painting depicts Romulus's wife Hersilia – the daughter of Titus Tatius, leader of the Sabines – rushing between her husband and her father and placing her babies between them. A vigorous Romulus prepares to strike a half-retreating Tatius with his spear, but hesitates. The rocky outcrop in the background is the Tarpeian Rock, a reference to civil conflict, since the Roman punishment for treason was to be thrown from the rock. According to legend, when Tatius attacked Rome, he almost succeeded in capturing the city because of the treason of the Vestal Virgin Tarpeia, daughter of Spurius Tarpeius, governor of the citadel on the Capitoline Hill. She opened the city gates for the Sabines in return for 'what they bore on their arms. ' She believed that she would receive their golden bracelets. Instead, the Sabines crushed her to death with their shields, and she was thrown from the rock which since bore her name. In 1799 David exhibited the The Intervention of the Sabine Women at the Louvre, where it attracted a large number of paying visitors until 1805. After the expulsion of artists including David from the Louvre, the picture could be found in the ancient church of Cluny, which he used as a workshop. In 1819 he sold the Sabines and his Léonidas at Thermopylae to the Royal Museums for 10,000 francs.</field>
+<field name="label">The Intervention of the Sabine Women</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b1/The_Intervention_of_the_Sabine_Women.jpg</field>
+<field name="comment">The Intervention of the Sabine Women is a 1799 painting by the French painter Jacques-Louis David. David began planning the work while he was imprisoned in the Luxembourg Palace in 1795. France was at war with other European nations after a period of civil conflict culminating in the Reign of Terror and the Thermidorian Reaction, during which David had been imprisoned as a supporter of Robespierre.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/The_Intervention_of_the_Sabine_Women.jpg/200px-The_Intervention_of_the_Sabine_Women.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/davids-the-intervention-of-the-sabine-women.html</field>
+<field name="artist">http://dbpedia.org/resource/Jacques-Louis_David</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Intervention of the Sabine Women</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Intervention_of_the_Sabine_Women</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Intervention_of_the_Sabine_Women</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Le_Sabine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Intervention_of_the_Sabine_Women</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Intervention_of_the_Sabine_Women</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Intervention_of_the_Sabine_Women</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Intervention_of_the_Sabine_Women</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Intervention_des_Sabines</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1314013</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Intervention_of_the_Sabine_Women</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/مداخله_زنان_اهل_سابین</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Intervention_of_the_Sabine_Women</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Sabinele</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Intervention_of_the_Sabine_Women</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Les_Sabines</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Intervention_of_the_Sabine_Women</field>
+</doc>
+</add>

@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Skater</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Skater</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c03364</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Łyżwiarz_(obraz_Stuarta)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4131769</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Skater</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:18th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ice_skating</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1782_paintings</field>
+<field name="abstract">The Skater is a 1782 oil on canvas portrait of Sir William Grant by the American artist Gilbert Stuart. Painted while Stuart was living in London, it was the work that first brought the artist broad recognition.</field>
+<field name="label">The Skater</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/96/GSskater.jpg</field>
+<field name="comment">The Skater is a 1782 oil on canvas portrait of Sir William Grant by the American artist Gilbert Stuart. Painted while Stuart was living in London, it was the work that first brought the artist broad recognition.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/GSskater.jpg/200px-GSskater.jpg</field>
+<field name="link_external">http://www.nga.gov/collection/gallery/gg59/gg59-39729.html</field>
+<field name="link_external">http://www.encyclopedia.com/doc/1P2-12956156.html</field>
+<field name="link_external">http://www.jstor.org/pss/1594456</field>
+<field name="link_external">http://www.npg.si.edu/cexh/stuart/skater1.htm</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/74976</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=39729</field>
+<field name="artist"/>
+<field name="height">245.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Skater</field>
+<field name="type">Oil on canvas</field>
+<field name="width">147.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Skater</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Skater</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Skater</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Skater</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Łyżwiarz_(obraz_Stuarta)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Skater</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4131769</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Skater</field>
+</doc>
+</add>

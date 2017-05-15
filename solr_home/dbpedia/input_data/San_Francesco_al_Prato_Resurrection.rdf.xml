@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Resurrezione_di_San_Francesco_al_Prato</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Francesco_al_Prato_Resurrection</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Résurrection_de_San_Francesco_al_Prato</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Francesco_al_Prato_Resurrection</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/San_Francesco_al_Prato_Resurrection</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/San_Francesco_al_Prato_Resurrection</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Francesco_al_Prato_Resurrection</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Resurrezione_di_San_Francesco_al_Prato</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvrx4l</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Résurrection_de_San_Francesco_al_Prato</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Francesco_al_Prato_Resurrection</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3212610</field>
+<field name="sameAs">http://yago-knowledge.org/resource/San_Francesco_al_Prato_Resurrection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Vatican_Museums</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="abstract">The San Francesco al Prato Resurrection is a painting by the Italian Renaissance painter Pietro Perugino, dating to c. 1499. It is housed in the Pinacoteca Vaticana, Rome.</field>
+<field name="label">San Francesco al Prato Resurrection</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1e/Resurrection-of-christ-3929-mid.jpg</field>
+<field name="comment">The San Francesco al Prato Resurrection is a painting by the Italian Renaissance painter Pietro Perugino, dating to c. 1499. It is housed in the Pinacoteca Vaticana, Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Resurrection-of-christ-3929-mid.jpg/200px-Resurrection-of-christ-3929-mid.jpg</field>
+<field name="link_external">http://www.restaurofilippolippi.it/opere/scheda_15.htm</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">233</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">San Francesco al Prato Resurrection</field>
+<field name="type">Oil on panel</field>
+<field name="width">165</field>
+<field name="year">c. 1499</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/San_Francesco_al_Prato_Resurrection</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/San_Francesco_al_Prato_Resurrection</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Resurrection_of_San_Francesco_al_Prato</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3212610</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Francesco_al_Prato_Resurrection</field>
+</doc>
+</add>

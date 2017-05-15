@@ -1,0 +1,156 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fisherman_on_the_Beach</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Early_works_of_Vincent_van_Gogh</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Early_works_of_Vincent_van_Gogh</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Early_works_of_Vincent_van_Gogh</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5326908</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmhnm6</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1881_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="abstract">The early works of Vincent van Gogh is a group of paintings and drawings that Vincent van Gogh made when he was 27 and 28, in 1881 and 1882, his first two years of serious artistic exploration. Over the course of the two-year period Van Gogh lived in several places. He left Brussels, where he had studied for about a year in 1881, to return to his parent's home in Etten, Netherlands where he made studies of some of the residents of the town. In January 1882 Van Gogh went to The Hague where he studied with his cousin-in-law Anton Mauve and set up a studio, funded by Mauve. During the ten years of Van Gogh's artistic career from 1881 to 1890 Vincent's brother Theo would be a continuing source of inspiration and financial support; his first financial support began in 1880 funding Vincent while he lived in Brussels. In 1882 Van Gogh had an offer for a commission of paintings of The Hague however the paintings, now considered masterpieces, were not acceptable. Van Gogh started out primarily drawing and painting with watercolor. Under Mauve's tutelage Van Gogh began painting with oils in 1882. A subject that fascinated Van Gogh was the working class or peasant, inspired by the works of Jean-François Millet and others.</field>
+<field name="label">Early works of Vincent van Gogh</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5a/Van_Gogh_1881-04,_Etten_-_Sower_(after_Millet)_F_830_JH_1.jpg</field>
+<field name="comment">The early works of Vincent van Gogh is a group of paintings and drawings that Vincent van Gogh made when he was 27 and 28, in 1881 and 1882, his first two years of serious artistic exploration. Over the course of the two-year period Van Gogh lived in several places. He left Brussels, where he had studied for about a year in 1881, to return to his parent's home in Etten, Netherlands where he made studies of some of the residents of the town.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Van_Gogh_1881-04,_Etten_-_Sower_(after_Millet)_F_830_JH_1.jpg/200px-Van_Gogh_1881-04,_Etten_-_Sower_(after_Millet)_F_830_JH_1.jpg</field>
+<field name="link_external">http://www.vangoghmuseum.nl/vgm/index.jsp?page=619&amp;lang=en</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">The Sower</field>
+<field name="type">Drawing</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Early_works_of_Vincent_van_Gogh</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Early_works_of_Vincent_van_Gogh</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beach_at_Scheveningen_in_Calm_Weather</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dunes_(Van_Gogh_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dunes_with_Figures</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Edge_of_a_Wood</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fisherman's_Wife_on_the_Beach</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Man_Stooping_with_Stick_or_Spade</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Two_Women_in_the_Woods</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/View_of_the_Sea_at_Scheveningen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Women_Mending_Nets_in_the_Dunes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Early_works_of_Vincent_van_Gogh</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Early_works_of_Vincent_van_Gogh</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Back_Garden_of_Sien's_Mother's_House,_the_Hague</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beach_at_Scheveningen_in_Stormy_Weather</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bleaching_Ground_at_Scheveningen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cluster_of_Old_Houses_with_the_New_Church_in_The_Hague</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Meadows_near_Rijswijk</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pollard_Willow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Jozef_Blok</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rooftops,_View_from_the_Atelier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Cabbage_and_Clogs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Iron_Mill_in_The_Hague</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Potato_Market</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_State_Lottery</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Van_Gogh_Early_Works</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5326908</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Early_works_of_Vincent_van_Gogh</field>
+</doc>
+</add>

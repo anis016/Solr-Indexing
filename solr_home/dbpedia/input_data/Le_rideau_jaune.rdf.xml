@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_rideau_jaune</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vnvkk</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Le_rideau_jaune</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6508100</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_rideau_jaune</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1915_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="abstract">Le rideau jaune is a painting by Henri Matisse painted in 1915. Its size is 57½ × 38⅛" (146 × 97 cm). It is currently in the collection of the Museum of Modern Art, New York. It was donated to them as a gift of Jo Carole and Ronald S. Lauder, Nelson Rockefeller Bequest, gift of Mr. and Mrs. William H. Weintraub, and Mary Sisler Bequest, all by exchange.</field>
+<field name="label">Le rideau jaune</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f9/Yellow_Curtain.jpg</field>
+<field name="comment">Le rideau jaune is a painting by Henri Matisse painted in 1915. Its size is 57½ × 38⅛" (146 × 97 cm). It is currently in the collection of the Museum of Modern Art, New York. It was donated to them as a gift of Jo Carole and Ronald S. Lauder, Nelson Rockefeller Bequest, gift of Mr. and Mrs. William H. Weintraub, and Mary Sisler Bequest, all by exchange.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Yellow_Curtain.jpg/200px-Yellow_Curtain.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/New_York</field>
+<field name="height">146</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Le rideau jaune</field>
+<field name="width">97</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Le_rideau_jaune</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Le_rideau_jaune</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Le_rideau_jaune</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Le_rideau_jaune</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6508100</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_rideau_jaune</field>
+</doc>
+</add>

@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Los_servidores_del_pintor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hogarth's_Servants</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hogarth's_Servants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hogarth's_Servants</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hogarth's_Servants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hogarth's_Servants</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Hogarth's_Servants</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Hogarth's_Servants</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5722643</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Los_servidores_del_pintor</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h1hrxn</field>
+<field name="sameAs">http://dbpedia.org/resource/Hogarth's_Servants</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1750s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="abstract">Heads of Six of Hogarth's Servants is an oil-on-canvas painting by William Hogarth from c.1750-5. Measuring 63 centimetres high and 75.5 centimetres wide, it depicts the heads of six of his servants. It is held by in the Tate Gallery in London. This is evidently a late work by Hogarth, demonstrating his mastery of portraiture. The subject matter and composition are unusual, with six studies of heads crammed in a small space, distributed in three groups of two, all lit by a light source at the upper left. Space for a seventh head has been marked out roughly in the lower left corner but it was not completed like the other six. The left edge of the canvas was later cut to frame the six completed heads better, cutting off part of the absent seventh head. The painting shows three men and three women, of varying ages from youth to maturity, reminiscent of the seven ages of man, and with varying skin tones. Hogarth is exploring the differences of human physiognomy as he had in his print Characters and Caricaturas of 1743. Each subject looks in a different direction, with no lines of vision intersecting, as if awaiting orders from their master. The three female figures have similarly youthful appearances, not children but also not old. The male figures progress in age from a boy at the top centre, through a mature man at the bottom centre, to a more elderly man at the top right. The older man is possibly Ben Ives; the other servants may be "Samuel"; Mary Lewis, Hogarth's wife's cousin, who later inherited the painting; and Mrs Chappel, who was known to have worked for the Hogarths in Chiswick. Ronald Paulson believes the servants featured could be a coachman, valet, page, housekeeper and two housemaids. The servants are shown in their natural appearance, in their usual work clothes, capturing their individual characters. It was painted with warmth and sensitivity, demonstrating Hogarth's affection for his servants, and a lightness of touch reminiscent of his uncompleted portrait of The Shrimp Girl. The work was not commissioned, but rather painted for Hogarth's own amusement. It may have been hung in Hogarth's studio to demonstrate his ability as a portraitist to his patrons. It was inherited by Hogarth's wife after his death, and left to Mary Lewis in 1789. It was sold at Greenwood's in April 1790; displayed at the British Institution in 1817 and Suffolk Street Gallery in 1833. It was sold at Christie's in 1879 and again in 1892, when it was bought by the National Gallery with money from the Lewis Fund. It was transferred to the Tate Gallery in 1960.</field>
+<field name="label">Hogarth's Servants</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9f/Hogarths-Servants_313r.jpg</field>
+<field name="comment">Heads of Six of Hogarth's Servants is an oil-on-canvas painting by William Hogarth from c.1750-5. Measuring 63 centimetres high and 75.5 centimetres wide, it depicts the heads of six of his servants. It is held by in the Tate Gallery in London. This is evidently a late work by Hogarth, demonstrating his mastery of portraiture.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Hogarths-Servants_313r.jpg/200px-Hogarths-Servants_313r.jpg</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?cgroupid=-1&amp;workid=6616&amp;searchid=false&amp;roomid=false&amp;tabview=text&amp;texttype=8</field>
+<field name="link_external">http://books.google.co.uk/books?id=2c7L7UvYYgoC&amp;pg=PA299</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=6616</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hogarth's_Servants</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hogarth's_Servants</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Heads_of_Six_of_Hogarth's_Servants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5722643</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hogarth's_Servants</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Hogarth's_Servants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hogarth's_Servants</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Hogarth's_Servants</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hogarth's_Servants</field>
+</doc>
+</add>

@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Le_tre_età_dell'uomo_(Friedrich)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stages_of_Life</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Lebensstufen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stages_of_Life</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Stages_of_Life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Lebensstufen</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1214313</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Τα_σκαλοπάτια_της_ζωής</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Stages_of_Life</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stages_of_Life</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Le_tre_età_dell'uomo_(Friedrich)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04zyjlm</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Hayatın_Evreleri</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caspar_David_Friedrich</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1835_paintings</field>
+<field name="abstract">The Stages of Life is an allegorical oil painting of 1835 by the German Romantic landscape painter Caspar David Friedrich. Completed just five years before his death, this picture, like many of his works, forms a meditation both on his own mortality and on the transience of life. The painting is set on a sea shore and shows in the foreground an aged man with his back turned to the viewer, walking towards two adults and two children on a hilltop overlooking a harbour. The figures are echoed by five ships shown in the harbour, each at a different distance from the shore, an allegorical reference to the different stages of human life, to the end of a journey, to the closeness of death. The figures have been identified as Friedrich and his family. The aged man is the artist himself, the small boy is his young son Gustav Adolf, the young girl is his daughter Agnes Adelheid, the older girl is his daughter Emma, and the man in the top hat is his nephew Johann Heinrich. Although many of Friedrich's paintings were set in imagined landscapes, The Stages of Life is recognisably located at Utkiek, near Friedrich's birthplace of Greifswald in today's northeastern Germany.</field>
+<field name="label">The Stages of Life</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5c/Caspar_David_Friedrich_013.jpg</field>
+<field name="comment">The Stages of Life is an allegorical oil painting of 1835 by the German Romantic landscape painter Caspar David Friedrich. Completed just five years before his death, this picture, like many of his works, forms a meditation both on his own mortality and on the transience of life. The painting is set on a sea shore and shows in the foreground an aged man with his back turned to the viewer, walking towards two adults and two children on a hilltop overlooking a harbour.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Caspar_David_Friedrich_013.jpg/200px-Caspar_David_Friedrich_013.jpg</field>
+<field name="link_external">http://www.actualsizer.com/?scanno=190&amp;screenw=1024&amp;screenh=768</field>
+<field name="artist">http://dbpedia.org/resource/Caspar_David_Friedrich</field>
+<field name="city">http://dbpedia.org/resource/Leipzig</field>
+<field name="height">72.5</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_der_bildenden_K%C3%BCnste</field>
+<field name="title">The Stages of Life</field>
+<field name="width">94</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Stages_of_Life</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Stages_of_Life</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Τα_σκαλοπάτια_της_ζωής</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stages_of_Life</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Stages_of_Life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Stages_of_Life</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1214313</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stages_of_Life</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Hayatın_Evreleri</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Stages_of_Life</field>
+</doc>
+</add>

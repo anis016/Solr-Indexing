@@ -1,0 +1,139 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild_(Rembrandt)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Syndycy_cechu_sukienników</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Syndic_de_la_guilde_des_drapiers</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0407lg2</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Syndics_of_the_Drapers'_Guild</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Los_síndicos_de_los_pañeros</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Синдики</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Vorsteher_der_Tuchmacherzunft</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sei_sindaci_dei_drappieri_di_Amsterdam</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Veverlaugets_formenn</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Klädesvävarskråets_föreståndare_i_Amsterdam</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1170480</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_Staalmeesters</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Els_síndics_dels_drapers</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Syndycy_cechu_sukienników</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1662_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Rijksmuseum_Amsterdam</field>
+<field name="abstract">The Sampling Officials, also called Syndics of the Drapers' Guild, is a 1662 oil painting by Rembrandt. It is currently owned by the Rijksmuseum in Amsterdam. It has been described as his "last great collective portrait". The painting appears on the packaging of Dutch Masters cigars.</field>
+<field name="label">Syndics of the Drapers' Guild</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8b/Rembrandt_-_Klesveverlaugets_forstandere_i_Amsterdam.jpg</field>
+<field name="comment">The Sampling Officials, also called Syndics of the Drapers' Guild, is a 1662 oil painting by Rembrandt. It is currently owned by the Rijksmuseum in Amsterdam. It has been described as his "last great collective portrait". The painting appears on the packaging of Dutch Masters cigars.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Rembrandt_-_Klesveverlaugets_forstandere_i_Amsterdam.jpg/200px-Rembrandt_-_Klesveverlaugets_forstandere_i_Amsterdam.jpg</field>
+<field name="link_external">https://www.rijksmuseum.nl/nl/collectie/SK-C-6</field>
+<field name="artist">http://dbpedia.org/resource/Rembrandt</field>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="height">191.5</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Rijksmuseum</field>
+<field name="title">The Sampling Officials</field>
+<field name="type">Oil on canvas</field>
+<field name="width">279</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Syndics_of_the_Drapers'_Guild</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sei_sindaci_dei_drappieri_di_Amsterdam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Vorsteher_der_Tuchmacherzunft</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Los_síndicos_de_los_pañeros</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Syndic_de_la_guilde_des_drapiers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Синдики</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/De_Staalmeesters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sampling_Officials</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Staalmeesters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sampling_Officials</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Syndics_of_the_Drapers'_Guild</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_Staalmeesters</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1170480</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Els_síndics_dels_drapers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Veverlaugets_formenn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Klädesvävarskråets_föreståndare_i_Amsterdam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Syndics_of_the_Drapers'_Guild</field>
+</doc>
+</add>

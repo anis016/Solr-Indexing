@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/%E9%BB%91%E9%AC%BC%E5%96%9D%E7%9F%B3%E6%B2%B9</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Black_Ghosts_Drink_Petrol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmczcd</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Ghosts_Drink_Petrol</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4920821</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Black_Ghosts_Drink_Petrol</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Public_art</field>
+<field name="abstract">Black Ghosts Drink Petrol is a work of public art, a mural by the Dutch situational artist Masaharu Nishiura. Nisiura's mural tells about Chinese racism that projects itself upon occidental colonialism regarding the African continent in the 21st century. The work consists of live action / black spray paint / tar paint on an installation of the local water supply situated near La Caldera, La Orotava, Tenerife, Spain. Its goal is to comment on world water supply, the changing interhuman dynamics between white, yellow, and black populations, and how 'vessels' of colonial inspired infrastructure can function in 21st century daily life.</field>
+<field name="label">Black Ghosts Drink Petrol</field>
+<field name="comment">Black Ghosts Drink Petrol is a work of public art, a mural by the Dutch situational artist Masaharu Nishiura. Nisiura's mural tells about Chinese racism that projects itself upon occidental colonialism regarding the African continent in the 21st century. The work consists of live action / black spray paint / tar paint on an installation of the local water supply situated near La Caldera, La Orotava, Tenerife, Spain.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Black_Ghosts_Drink_Petrol</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Black_Ghosts_Drink_Petrol</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Black_Ghosts_Drink_Petrol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Black_Ghosts_Drink_Petrol</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4920821</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Black_Ghosts_Drink_Petrol</field>
+</doc>
+</add>

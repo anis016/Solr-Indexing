@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Finding_of_the_Saviour_in_the_Temple</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Finding_of_the_Saviour_in_the_Temple</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Нахождение_Спасителя_во_Храме</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Finding_of_the_Saviour_in_the_Temple</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4314748</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qq7d4</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1860_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William_Holman_Hunt</field>
+<field name="abstract">The Finding of the Saviour in the Temple (1854–60) is a painting by William Holman Hunt intended as an ethnographically accurate version of the subject traditionally known as "Christ Among the Doctors", an illustration of the child Jesus debating the interpretation of the scripture with learned rabbis. The passage illustrated is from the Gospel of Luke, 2:41, which states: Every year his parents went to Jerusalem for the Feast of the Passover. When he was twelve years old, they went up to the Feast, according to the custom. After the Feast was over, while his parents were returning home, the boy Jesus stayed behind in Jerusalem, but they were unaware of it. Thinking he was in their company, they traveled on for a day. Then they began looking for him among their relatives and friends. When they did not find him, they went back to Jerusalem to look for him. After three days they found him in the temple courts, sitting among the teachers, listening to them and asking them questions. Everyone who heard him was amazed at his understanding and his answers. When his parents saw him, they were astonished. His mother said to him, "Son, why have you treated us like this? Your father and I have been anxiously searching for you. " "Why were you searching for me?" he asked. "Didn't you know I had to be in my Father's house?" But they did not understand what he was saying to them. Hunt depicts the moment at which Mary and Joseph find Jesus, while the rabbis in the temple are reacting in various contrasting ways to his discourse, some intrigued, others angry or dismissive. This depiction of contrasting reactions is part of the tradition of the subject, as evidenced in Albrecht Dürer's much earlier version. Hunt would also have known Bernardino Luini's version of the subject in the National Gallery. At the time this was ascribed to Leonardo da Vinci.</field>
+<field name="label">The Finding of the Saviour in the Temple</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/27/William_Holman_Hunt_-_The_Finding_of_the_Saviour_in_the_Temple.jpg</field>
+<field name="comment">The Finding of the Saviour in the Temple (1854–60) is a painting by William Holman Hunt intended as an ethnographically accurate version of the subject traditionally known as "Christ Among the Doctors", an illustration of the child Jesus debating the interpretation of the scripture with learned rabbis. The passage illustrated is from the Gospel of Luke, 2:41, which states: Every year his parents went to Jerusalem for the Feast of the Passover.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/William_Holman_Hunt_-_The_Finding_of_the_Saviour_in_the_Temple.jpg/200px-William_Holman_Hunt_-_The_Finding_of_the_Saviour_in_the_Temple.jpg</field>
+<field name="artist">http://dbpedia.org/resource/William_Holman_Hunt</field>
+<field name="city">http://dbpedia.org/resource/Birmingham</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Birmingham_Museum_and_Art_Gallery</field>
+<field name="title">The Finding of the Saviour in the Temple</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Finding_of_the_Saviour_in_the_Temple</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Finding_of_the_Saviour_in_the_Temple</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Finding_of_the_Saviour_in_the_Temple</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Finding_of_the_Saviour_in_the_Temple</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Finding_of_the_Saviour_In_the_Temple</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Нахождение_Спасителя_во_Храме</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Finding_of_the_Saviour_in_the_Temple</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4314748</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Finding_of_the_Saviour_in_the_Temple</field>
+</doc>
+</add>

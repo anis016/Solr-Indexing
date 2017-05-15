@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Farmers'_Lunch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Farmers'_Lunch</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Esmorzar_de_pagesos</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3500414</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f9n62</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Селяни_на_маса</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Chłopi_przy_posiłku</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Almuerzo_de_campesinos</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Déjeuner_de_paysans_(Velázquez)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Farmers'_Lunch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1618_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Seville-period_Velazquez_paintings</field>
+<field name="abstract">The Farmers' Lunch (Almuerzo de campesinos) is one of the earliest paintings by the Spanish artist Diego Velázquez. Painted in oil on canvas in 1618, it combines a still life of food and drink with a depiction of three comic farmers, whose physiognomy the artist studies closely. The composition shows a younger man gesturing with his right hand to reinforce the story coming from his half-open lips, and an older man listening attentively while holding his cup up to a woman so she can refill it with wine. The still life includes fish, bread, a carrot, a lemon, and a copper vessel. The Farmer's Lunch is nearly identical to another painting by Velázquez, The Lunch (ca. 1617).</field>
+<field name="label">The Farmers' Lunch</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a6/Diego_Velázquez_005.jpg</field>
+<field name="comment">The Farmers' Lunch (Almuerzo de campesinos) is one of the earliest paintings by the Spanish artist Diego Velázquez. Painted in oil on canvas in 1618, it combines a still life of food and drink with a depiction of three comic farmers, whose physiognomy the artist studies closely.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Diego_Velázquez_005.jpg/200px-Diego_Velázquez_005.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Budapest</field>
+<field name="height">96</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Farmers' Lunch</field>
+<field name="type">oil on canvas</field>
+<field name="width">112</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Farmers'_Lunch</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Farmers'_Lunch</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Farmers'_Lunch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Farmers'_Lunch</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Almuerzo_de_campesinos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Farmers'_Lunch</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Chłopi_przy_posiłku</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Farmers'_Lunch</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Déjeuner_de_paysans_(Velázquez)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Farmers'_Lunch</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3500414</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Farmers'_Lunch</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Селяни_на_маса</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Farmers'_Lunch</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Esmorzar_de_pagesos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Farmers'_Lunch</field>
+</doc>
+</add>

@@ -1,0 +1,101 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Beaneater</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rw_7k</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Beaneater</field>
+<field name="sameAs">http://th.dbpedia.org/resource/คนกินถั่ว_(คารัคชี)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Beaneater</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Hombre_comiendo_judías</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Phaseolos_comedens_(Carracci)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1232131</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1580s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Annibale_Carracci</field>
+<field name="abstract">The Beaneater is a painting by the Italian Baroque painter Annibale Carracci. Dating from 1580-1590 (probably 1583-1585), it is housed in the Galleria Colonna of Rome. The painting is connected to the contemporary Butcher's Shop (now at Oxford), for it shares the same popularesque style. Carracci was influenced in the depiction of everyday life subjects by Vincenzo Campi and Bartolomeo Passarotti. Manifest is Carracci's capability to adapt his style, making it "lower" when concerning "lower" subjects like the Mangiafagioli, while in his more academic works (such as the broadly contemporary Assumption of the Virgin) he was able to use a more classicist composure with the same easiness.</field>
+<field name="label">The Beaneater</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/36/Annibale_Carracci_The_Beaneater.jpg</field>
+<field name="comment">The Beaneater is a painting by the Italian Baroque painter Annibale Carracci. Dating from 1580-1590 (probably 1583-1585), it is housed in the Galleria Colonna of Rome. The painting is connected to the contemporary Butcher's Shop (now at Oxford), for it shares the same popularesque style. Carracci was influenced in the depiction of everyday life subjects by Vincenzo Campi and Bartolomeo Passarotti.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Annibale_Carracci_The_Beaneater.jpg/200px-Annibale_Carracci_The_Beaneater.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=1376</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Beaneater</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Beaneater</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Beaneater</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beaneater</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beaneater_(Annibale_Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beaneater_(Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beaneter_(Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Il_Mangiafagioli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Il_mangiafagioli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mangiafagioli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Beaneater_(Annibale_Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Hombre_comiendo_judías</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Beaneater</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Beaneater</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Beaneater</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1232131</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Beaneater</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Phaseolos_comedens_(Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Beaneater</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/คนกินถั่ว_(คารัคชี)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Beaneater</field>
+</doc>
+</add>

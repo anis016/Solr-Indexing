@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Pianist_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Pianist_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bm9qj8</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7757014</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Pianist_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1896_paintings</field>
+<field name="abstract">The Pianist: Portrait of Stanley Addicks is an 1896 portrait by Thomas Eakins, Goodrich #278. The painting is in the permanent collection of the Indianapolis Museum of Art. Eakins also painted Addicks's wife, Weda Cook, several times, including for The Concert Singer.</field>
+<field name="label">The Pianist (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ee/The-Pianist-(Stanley-Addicks)-1896-large.jpg</field>
+<field name="comment">The Pianist: Portrait of Stanley Addicks is an 1896 portrait by Thomas Eakins, Goodrich #278. The painting is in the permanent collection of the Indianapolis Museum of Art. Eakins also painted Addicks's wife, Weda Cook, several times, including for The Concert Singer.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/The-Pianist-(Stanley-Addicks)-1896-large.jpg/200px-The-Pianist-(Stanley-Addicks)-1896-large.jpg</field>
+<field name="link_external">http://www.imamuseum.org/art/collections/artwork/pianist-stanley-addicks-eakins-thomas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Pianist_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Pianist_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pianist_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Pianist_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Pianist_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7757014</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Pianist_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Cemetery</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Cemetery</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Cemetery</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07k49jb</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Cemetery</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cemetery</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7721862</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Swedish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1877_paintings</field>
+<field name="abstract">The Cemetery is an 1877 painting by Swedish artist Carl Fredrik Hill. The painting is currently on display at the Malmö Art Museum in Sweden. In the late fall of 1877 Hill suffered from a tense situation where he hovered between arrogance and deepest despair. The contact with the outside world, with his comrades, became less and less. His studio door in Paris was shut. In his Christmas letters to his family in Sweden from 1877 Hill recounts the motifs that had occupied him, as well as those he wanted to paint in the future, including a cemetery with a man standing in front of a cross adorned with a wreath. A picture of the deepest sorrow and desolation. The lone figure's total isolation from the outside world is a dramatic and desperate moment. The painting was painted shortly before the artist's collapse. It belonged to one of the 18 paintings that Hill wanted to show at the World Exhibition in Paris in 1878.</field>
+<field name="label">The Cemetery</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e7/Hill_kyrkogården.jpg</field>
+<field name="comment">The Cemetery is an 1877 painting by Swedish artist Carl Fredrik Hill. The painting is currently on display at the Malmö Art Museum in Sweden. In the late fall of 1877 Hill suffered from a tense situation where he hovered between arrogance and deepest despair. The contact with the outside world, with his comrades, became less and less. His studio door in Paris was shut.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Hill_kyrkogården.jpg/200px-Hill_kyrkogården.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Carl_Fredrik_Hill</field>
+<field name="city">http://dbpedia.org/resource/Malm%C3%B6</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Malm%C3%B6_Art_Museum</field>
+<field name="title">The Cemetery</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Cemetery</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Cemetery</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7721862</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cemetery</field>
+</doc>
+</add>

@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Brighton_Belle_street_mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Brighton_Belle_street_mural</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Brighton_Belle_street_mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4967606</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hrdxlv</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Brighton_Belle_street_mural</field>
+<field name="sameAs">http://dbpedia.org/resource/Brighton_Belle_street_mural</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">The Brighton Belle mural is a series of three painted panels set into the arches of the forecourt of Brighton station, on Trafalgar Street, Brighton. The mural depicts a full-size view of one of the carriages of the Brighton Belle Pullman electric train waiting to depart Brighton Station. The mural is designed to show a view of the train as seen through the arches, and occupies three of the four arches occupied by Brighton Toy and Model Museum. Laurence Olivier, the leading actor of his day and a regular traveller on the train, is pictured at one of the carriage windows. It is within sight of another well-known Brighton mural, Banksy’s Kissing Policemen.</field>
+<field name="label">Brighton Belle street mural</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1a/BBMural.jpg</field>
+<field name="comment">The Brighton Belle mural is a series of three painted panels set into the arches of the forecourt of Brighton station, on Trafalgar Street, Brighton. The mural depicts a full-size view of one of the carriages of the Brighton Belle Pullman electric train waiting to depart Brighton Station. The mural is designed to show a view of the train as seen through the arches, and occupies three of the four arches occupied by Brighton Toy and Model Museum.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/BBMural.jpg/200px-BBMural.jpg</field>
+<field name="link_external">http://vintagebrighton.com/2011/07/brighton-belle-murals/</field>
+<field name="link_external">http://www.visitbrighton.com/whats-on/launch-of-the-atmospheric-pullman-wall-mural-painting-p640221</field>
+<field name="link_external">http://www.brightontoymuseum.co.uk/newsletters/BTMM_Newsletter_Feb2011.pdf</field>
+<field name="link_external">http://www.heritagerailway.co.uk/news/brighton-belle-return-to-home-station</field>
+<field name="link_external">http://brightonbelle.com/index.php?option=com_content&amp;view=article&amp;id=124:brighton-belle-mural-at-brighton-station&amp;catid=26:news&amp;Itemid=200105</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Brighton_Belle_street_mural</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Brighton_Belle_street_mural</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4967606</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Brighton_Belle_street_mural</field>
+</doc>
+</add>

@@ -1,0 +1,89 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Kreuztragung_Christi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procession_to_Calvary_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Droga_krzyżowa_(obraz_Pietera_Bruegla)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procession_to_Calvary_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Procession_to_Calvary_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j243m6</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Uspon_na_Kalvariju_(Brueghel)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Calvary_Alayı</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procession_to_Calvary_(Bruegel)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Kreuztragung_Christi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q686107</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Salita_al_Calvario_(Bruegel)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Procession_to_Calvary_(Bruegel)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Droga_krzyżowa_(obraz_Pietera_Bruegla)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gospel_episodes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1564_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Iconography_of_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="abstract">The Procession to Calvary is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder of Christ carrying the Cross set in a large landscape, painted in 1564. It is in the Kunsthistorisches Museum in Vienna.</field>
+<field name="label">The Procession to Calvary (Bruegel)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4e/Pieter_Bruegel_d._Ä._007.jpg</field>
+<field name="comment">The Procession to Calvary is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder of Christ carrying the Cross set in a large landscape, painted in 1564. It is in the Kunsthistorisches Museum in Vienna.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Pieter_Bruegel_d._Ä._007.jpg/200px-Pieter_Bruegel_d._Ä._007.jpg</field>
+<field name="link_external">http://www.boschbruegel.com</field>
+<field name="link_external">http://www.art-drawing.ru/biographies/brief-biographies/199-bruegel-peter</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=324</field>
+<field name="link_external">http://www.khm.at/en/</field>
+<field name="link_external">http://www.pieter-bruegel-the-elder.org</field>
+<field name="artist">http://dbpedia.org/resource/Pieter_Bruegel_the_Elder</field>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="height">124</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">The Procession to Calvary</field>
+<field name="type">Oil on panel</field>
+<field name="width">170</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Procession_to_Calvary_(Bruegel)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Procession_to_Calvary_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Salita_al_Calvario_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procession_to_Calvary_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Procession_to_Calvary_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Procession_to_Calvary_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Procession_to_Calvary_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q686107</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procession_to_Calvary_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Uspon_na_Kalvariju_(Brueghel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procession_to_Calvary_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Calvary_Alayı</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Procession_to_Calvary_(Bruegel)</field>
+</doc>
+</add>

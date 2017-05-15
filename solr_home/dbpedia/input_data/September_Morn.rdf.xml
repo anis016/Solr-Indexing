@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/September_Morn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Matinée_de_septembre</field>
+<field name="sameAs">http://dbpedia.org/resource/September_Morn</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Сентябрьское_утро</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3299143</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0lxj0</field>
+<field name="sameAs">http://yago-knowledge.org/resource/September_Morn</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1912_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Matinée de Septembre (or September Morn) is a painting by the French artist Paul Émile Chabas (1869–1937). Painted over three summers ending in 1912, it became famous when it provoked a scandal in the USA. Chabas first exhibited the painting in the Paris Salon of 1912, where it won a medal but did not create any sensation. The next year, when it was displayed in a window of an art gallery in Chicago, Illinois (USA), it came to the attention of the mayor of the city, Carter Harrison, Jr. , who charged the owner of the gallery with indecency. The resulting court case, which the art dealer won, made the painting famous. Two months after the conclusion of the Chicago trial, Anthony Comstock (1844–1915), a self-appointed crusader against "vice", threatened a New York City art dealer who was displaying the painting in his window. However, Comstock never followed up this threat with legal action. The public relations pioneer Harry Reichenbach claimed to have brought it to Comstock's attention as a contract job for the targeted gallery. However, Reichenbach's claim has been questioned. Lithograph copies of the artwork were popularly sold for over a decade, extending the success that followed the scandal. Ultimately, the painting would be labelled as kitsch by critics who thought it lacking in interesting artistic features: contrast, coordinated lines, and a worthy subject. It has never lacked admirers, however, and copies of the image are still sold on postcards and reproduced prints. The original painting is in the Metropolitan Museum of Art in New York City.</field>
+<field name="label">September Morn</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/58/September-Morning.jpg</field>
+<field name="comment">Matinée de Septembre (or September Morn) is a painting by the French artist Paul Émile Chabas (1869–1937). Painted over three summers ending in 1912, it became famous when it provoked a scandal in the USA. Chabas first exhibited the painting in the Paris Salon of 1912, where it won a medal but did not create any sensation. The next year, when it was displayed in a window of an art gallery in Chicago, Illinois (USA), it came to the attention of the mayor of the city, Carter Harrison, Jr.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/September-Morning.jpg/200px-September-Morning.jpg</field>
+<field name="link_external">http://www.septembermorn.org</field>
+<field name="link_external">http://www.bullworks.net/ffg/sptmrn/sptmrn.html</field>
+<field name="link_external">http://www.sniggle.net/septmorn.php</field>
+<field name="link_external">http://www.museumofhoaxes.com/hoax/Hoaxipedia/September_Morn</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/September_Morn</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/September_Morn</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Matinée_de_septembre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/September_Morn</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Сентябрьское_утро</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/September_Morn</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/September_Morn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/September_Morn</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3299143</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/September_Morn</field>
+</doc>
+</add>

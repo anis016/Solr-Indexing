@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Prince_Baltasar_Carlos_chasseur</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prince_Balthasar_Charles_as_a_Hunter</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_príncipe_Baltasar_Carlos_cazador</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prince_Balthasar_Charles_as_a_Hunter</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Prince_Balthasar_Charles_as_a_Hunter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05nzqr9</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Prince_Balthasar_Charles_as_a_Hunter</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3076965</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Prince_Baltasar_Carlos_chasseur</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Retrat_del_príncep_Baltasar_Carles_caçador</field>
+<field name="sameAs">http://dbpedia.org/resource/Prince_Balthasar_Charles_as_a_Hunter</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_príncipe_Baltasar_Carlos_cazador</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1635_paintings</field>
+<field name="abstract">Prince Balthasar Charles as a Hunter is a 1635 portrait of Balthasar Charles, Prince of Asturias by Velázquez. It is now held at the Museo del Prado.</field>
+<field name="label">Prince Balthasar Charles as a Hunter</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cd/Príncipe_BaltasarCarlos_cazador_Velázquez_lou.jpg</field>
+<field name="comment">Prince Balthasar Charles as a Hunter is a 1635 portrait of Balthasar Charles, Prince of Asturias by Velázquez. It is now held at the Museo del Prado.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Príncipe_BaltasarCarlos_cazador_Velázquez_lou.jpg/200px-Príncipe_BaltasarCarlos_cazador_Velázquez_lou.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Prince Balthasar Charles as a Hunter</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Prince_Balthasar_Charles_as_a_Hunter</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Prince_Balthasar_Charles_as_a_Hunter</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Prince_Balthasar_Charles_as_a_Hunter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Prince_Balthasar_Charles_as_a_Hunter</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Prince_Balthasar_Charles_as_a_hunter</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3076965</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prince_Balthasar_Charles_as_a_Hunter</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Retrat_del_príncep_Baltasar_Carles_caçador</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prince_Balthasar_Charles_as_a_Hunter</field>
+</doc>
+</add>

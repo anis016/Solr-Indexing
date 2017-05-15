@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Ambrogio_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_(Ambrogio_Lorenzetti)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3618171</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Ambrogio_Lorenzetti)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h634nv</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Annunciation_(Ambrogio_Lorenzetti)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1344_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gothic_paintings</field>
+<field name="abstract">The Annunciation is a painting by the Italian late medieval painter Ambrogio Lorenzetti, signed and dated 1344, now housed in the Pinacoteca Nazionale of Siena, Italy. It was painted for the Ufficio della Gabella ("Office of the Tax") of the commune of Siena, as specified by two-line signature at the bottom (the painter named himself Ambruogio Lorenzi). It was originally located in the Consistory Hall of the Palazzo Pubblico.</field>
+<field name="label">Annunciation (Ambrogio Lorenzetti)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg</field>
+<field name="comment">The Annunciation is a painting by the Italian late medieval painter Ambrogio Lorenzetti, signed and dated 1344, now housed in the Pinacoteca Nazionale of Siena, Italy. It was painted for the Ufficio della Gabella ("Office of the Tax") of the commune of Siena, as specified by two-line signature at the bottom (the painter named himself Ambruogio Lorenzi). It was originally located in the Consistory Hall of the Palazzo Pubblico.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Lorenzetti_Ambrogio_annunciation-_1344..jpg/200px-Lorenzetti_Ambrogio_annunciation-_1344..jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ambrogio_Lorenzetti</field>
+<field name="city">http://dbpedia.org/resource/Siena</field>
+<field name="height">127</field>
+<field name="image"/>
+<field name="imageSize">310</field>
+<field name="museum">http://dbpedia.org/resource/Pinacoteca_Nazionale_(Siena)</field>
+<field name="title">Annunciation</field>
+<field name="type">Tempera and gold on panel</field>
+<field name="width">120</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Annunciation_(Ambrogio_Lorenzetti)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Annunciation_(Ambrogio_Lorenzetti)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Annunciation_(Ambrogio_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Annunciation_(Ambrogio_Lorenzetti)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_(Ambrogio_Lorenzetti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Ambrogio_Lorenzetti)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3618171</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Ambrogio_Lorenzetti)</field>
+</doc>
+</add>

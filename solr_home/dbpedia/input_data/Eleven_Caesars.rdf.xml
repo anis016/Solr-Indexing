@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Undici_Cesari</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Eleven_Caesars</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Eleven_Caesars</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4004621</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Undici_Cesari</field>
+<field name="sameAs">http://dbpedia.org/resource/Eleven_Caesars</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f67gv</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Eleven_Caesars</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="abstract">The Eleven Caesars are eleven paintings of half-busts of Roman emperors painted by Titian for Federico II, Duke of Mantua. The original busts were by among Pieve di Cadore's best-known works, inspired by the Lives of the Caesars by Suetonius and copied by artists such as Bernardino Campi and Giovan Paolo Lomazzo. The paintings were originally to have been housed in a room devoted to them to plans by Giulio Romano inside the Palazzo Ducale di Mantova. Between 1627 and 1628 the paintings were sold to Charles I of England by Vincenzo II Gonzaga, and when Charles's collection was dissolved during the English Commonwealth the Eleven Caesars passed into the collection of the king of Spain. They were lost in a fire at Alcazar near Madrid. Some works by Giulio Romano, or his workshop, designed to hang below the portraits are in the British Royal Collection.</field>
+<field name="label">Eleven Caesars</field>
+<field name="comment">The Eleven Caesars are eleven paintings of half-busts of Roman emperors painted by Titian for Federico II, Duke of Mantua. The original busts were by among Pieve di Cadore's best-known works, inspired by the Lives of the Caesars by Suetonius and copied by artists such as Bernardino Campi and Giovan Paolo Lomazzo. The paintings were originally to have been housed in a room devoted to them to plans by Giulio Romano inside the Palazzo Ducale di Mantova.</field>
+<field name="link_external">http://www.stud.uni-karlsruhe.de/~um9t/sa/ART311_2.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Eleven_Caesars</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Eleven_Caesars</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Eleven_Caesars</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Eleven_Caesars</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4004621</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Eleven_Caesars</field>
+</doc>
+</add>

@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Ceppo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f7c11</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Ceppo</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_del_Ceppo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3842608</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Ceppo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippo_Lippi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="abstract">The Madonna del Ceppo is a painting by the Italian Renaissance painter Filippo Lippi, commissioned to him between 1452 and 1453. It is housed in the Civic Museum of Prato, Italy (though exposed in the local Museum of Wall Painting). The name derives from the fact it was located over a pit of the garden of Pia Casa dei Ceppi in Palazzo Datini, in Prato. It depicts, in the centre, the Madonna and Child flanked by St. Stephen and St. John the Baptist; below are Francesco Datini presenting to the Virgin the four Buonomini ("Honourable Men") of the Ceppo: Andrea di Giovanni Bertelli, Filippo Manassei, Pietro Pugliesi and Jacopo degli Obizzi.</field>
+<field name="label">Madonna del Ceppo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e7/Filippo_Lippi_Madonna_del_Ceppo.jpg</field>
+<field name="comment">The Madonna del Ceppo is a painting by the Italian Renaissance painter Filippo Lippi, commissioned to him between 1452 and 1453. It is housed in the Civic Museum of Prato, Italy (though exposed in the local Museum of Wall Painting). The name derives from the fact it was located over a pit of the garden of Pia Casa dei Ceppi in Palazzo Datini, in Prato. It depicts, in the centre, the Madonna and Child flanked by St. Stephen and St.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Filippo_Lippi_Madonna_del_Ceppo.jpg/200px-Filippo_Lippi_Madonna_del_Ceppo.jpg</field>
+<field name="link_external">http://www.po-net.prato.it/artestoria/galleria/htm/ceppogr.htm</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">187</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum"/>
+<field name="title">Madonna del Ceppo</field>
+<field name="type">Oil on panel</field>
+<field name="width">120</field>
+<field name="year">c. 1452-1453</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_del_Ceppo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_del_Ceppo</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_del_Ceppo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_del_Ceppo</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Ceppo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Ceppo</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3842608</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Ceppo</field>
+</doc>
+</add>

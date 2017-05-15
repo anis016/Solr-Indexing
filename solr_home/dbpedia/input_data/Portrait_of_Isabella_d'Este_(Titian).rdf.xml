@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Isabella_d'Este_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Isabella_d'Este_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Isabella_d'Este_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Isabella_d'Este_(Tiziano)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3853901</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cm7sbj</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Isabella_d'Este_(Titian)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Isabella_d'Este_(Titian)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Titian_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="abstract">Portrait of Isabella d'Este is an oil-on-canvas painting by the Italian Renaissance artist Titian created between 1534 and 1536. It shows the Marquess of Mantua, Isabella d'Este (1474–1539), daughter of Ercole I d'Este, Duke of Ferrara, and Eleanor of Naples. Although she is shown as a young woman, Isabella was 62 by the time the work was painted. Titian had originally painted a more aged Isabella, but she was so displeased with the picture that she made him repaint it in an idealised form, so that she looked forty years younger. Titian concentrates on her high social rank, beauty and intelligence. Isabella was a collector of antique and contemporary art, and as a powerful patron of culture was in part responsible for developing a highly refined court in Mantua. Because of this Titian would have been keen to flatter and pay tribute to his sitter. She is shown wearing a sumptuous balzo and gown with sleeves decorated with gold and silver trim. Isabella had very strong ideas about how she should be portrayed, and had requested of previous artists that she be painted from written descriptions - believing words captured more closely a person's essence than life sittings. Isabella sought to influence Titian by sending him a 1511 portrait painted by Giovanni Francesco Zaninello which showed her as a young woman and highlighted her girlish beauty. This work was in turn based on an even earlier portrait. She was so pleased with Titian's second, idealised, work that she wrote, "The portrait by Titian's hand is of such a pleasing type that we doubt that we were ever, at the age he represents, of such beauty that is contained in it. " Others were not so impressed by the obvious deceit. Contemporary writer and satirist Pietro Aretino wrote that she was "dishonestly ugly" and "supremely dishonestly embellished" with undeserved "white teeth" and "ivory eyelashes". Art historians examining the work tend to focus on the her vanity, while largely acknowledging that court women of the time were on public display and expected to be physically pleasing and personally charming while at the same time showing signs of modesty and chastity. This was not the first time that Titian had flattered a sitter with a rejuvenated, retrospective, or idealised image; his portrait of Philip II of Spain shows the king, who was puny in life, as a military hero bathed by light to grant both an aura to the hero and an actual halo. Portrait of Isabella d'Este had earlier been mistakenly described as a portrait of the Queen of Cyprus before it was correctly identified by Alessandro Luzio.</field>
+<field name="label">Portrait of Isabella d'Este (Titian)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/75/Tizian_056b.jpg</field>
+<field name="comment">Portrait of Isabella d'Este is an oil-on-canvas painting by the Italian Renaissance artist Titian created between 1534 and 1536. It shows the Marquess of Mantua, Isabella d'Este (1474–1539), daughter of Ercole I d'Este, Duke of Ferrara, and Eleanor of Naples. Although she is shown as a young woman, Isabella was 62 by the time the work was painted.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Tizian_056b.jpg/200px-Tizian_056b.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city"/>
+<field name="height">102</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Portrait of Isabella d'Este</field>
+<field name="type">oil on canvas</field>
+<field name="width">64</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Isabella_d'Este_(Titian)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Isabella_d'Este_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Isabella_d'Este</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Isabella_d'Este_(Tiziano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Isabella_d'Este_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3853901</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Isabella_d'Este_(Titian)</field>
+</doc>
+</add>

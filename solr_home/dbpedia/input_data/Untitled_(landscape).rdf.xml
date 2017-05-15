@@ -1,0 +1,31 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Untitled_(landscape)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Untitled_(landscape)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Untitled_(landscape)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Untitled_(landscape)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Untitled_(landscape)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07k9q5m</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7897717</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Swedish_paintings</field>
+<field name="abstract">untitled (landscape) is an 1883-1911 drawing by Swedish artist Carl Fredrik Hill. The drawing is in the collection of the Malmö Art Museum in Sweden.</field>
+<field name="label">Untitled (landscape)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4c/Hill-walking-trees-.jpg</field>
+<field name="comment">untitled (landscape) is an 1883-1911 drawing by Swedish artist Carl Fredrik Hill. The drawing is in the collection of the Malmö Art Museum in Sweden.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hill-walking-trees-.jpg/200px-Hill-walking-trees-.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Untitled_(landscape)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Untitled_(landscape)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7897717</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Untitled_(landscape)</field>
+</doc>
+</add>

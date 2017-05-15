@@ -1,0 +1,114 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Junge_Dame_mit_Perlenhalsband</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Donna_con_collana_di_perle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_muchacha_del_collar_de_perlas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Dame_au_collier_de_perles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Sznur_pereł</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Maouez_gant_un_dro-c'houzoug_perlez</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Dame_au_collier_de_perles</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h55lp9</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Sznur_pereł</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Vrouw_met_parelsnoer</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q151143</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_muchacha_del_collar_de_perlas</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Donna_con_collana_di_perle</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Kvinna_med_pärlhalsband</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Woman_with_a_Pearl_Necklace</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Puella_cum_margaritarum_catella</field>
+<field name="sameAs">http://ksh.dbpedia.org/resource/Jong_Vrau_met_Perlehalsband</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Junge_Dame_mit_Perlenhalsband</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1665_paintings</field>
+<field name="abstract">Woman with a Pearl Necklace by Johannes Vermeer is a seventeenth century Northern European painting. Painted in oils on canvas, Johannes Vermeer portrayed a young Dutch woman, most likely of upper-class-descent, dressing herself with two yellow ribbons, pearl earrings, and a pearl necklace. As a very popular artist of the 17th and 18th centuries, the Dutch Golden Age, Vermeer depicted many women in similar circumstances within interior, domestic scenes. The same woman also appears in The Love Letter and A Lady Writing a Letter.</field>
+<field name="label">Woman with a Pearl Necklace</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/09/Jan_Vermeer_van_Delft_008.jpg</field>
+<field name="comment">Woman with a Pearl Necklace by Johannes Vermeer is a seventeenth century Northern European painting. Painted in oils on canvas, Johannes Vermeer portrayed a young Dutch woman, most likely of upper-class-descent, dressing herself with two yellow ribbons, pearl earrings, and a pearl necklace. As a very popular artist of the 17th and 18th centuries, the Dutch Golden Age, Vermeer depicted many women in similar circumstances within interior, domestic scenes.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Jan_Vermeer_van_Delft_008.jpg/200px-Jan_Vermeer_van_Delft_008.jpg</field>
+<field name="link_external">http://arthistory.about.com/od/vermeer/p/vermeer.htm</field>
+<field name="link_external">http://www.metmuseum.org/Collections/search-the-collections/110002334</field>
+<field name="link_external">http://www.essentialvermeer.com/</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/65202/rec/17</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/Berlin</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="title">Woman with a Pearl Necklace</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Woman_with_a_Pearl_Necklace</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Woman_with_a_Pearl_Necklace</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Vrouw_met_parelsnoer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q151143</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Maouez_gant_un_dro-c'houzoug_perlez</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Puella_cum_margaritarum_catella</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Kvinna_med_pärlhalsband</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+<doc>
+<field name="uri">http://ksh.dbpedia.org/resource/Jong_Vrau_met_Perlehalsband</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Pearl_Necklace</field>
+</doc>
+</add>

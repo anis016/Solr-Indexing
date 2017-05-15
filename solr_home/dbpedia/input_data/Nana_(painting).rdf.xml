@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Nana_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Nana_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Nana_(Manet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nana_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Nana_(Manet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nana_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nana_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Nana_(Manet)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Nana_(Manet)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Nana_(painting)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Nana_(obraz_Maneta)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Nana_(tablo)</field>
+<field name="sameAs">http://dbpedia.org/resource/Nana_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q536024</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Nana_(Manet)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmf03h</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Nana_(tablo)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1877_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_%C3%89douard_Manet</field>
+<field name="abstract">Nana is a painting by French painter Édouard Manet. It was completed in 1877, and was refused at the Salon of Paris the same year. The work is now at the Kunsthalle Hamburg art museum, in Germany.</field>
+<field name="label">Nana (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ed/Edouard_Manet_037.jpg</field>
+<field name="comment">Nana is a painting by French painter Édouard Manet. It was completed in 1877, and was refused at the Salon of Paris the same year. The work is now at the Kunsthalle Hamburg art museum, in Germany.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Edouard_Manet_037.jpg/200px-Edouard_Manet_037.jpg</field>
+<field name="artist">http://dbpedia.org/resource/%C3%89douard_Manet</field>
+<field name="city">http://dbpedia.org/resource/Hamburg</field>
+<field name="height">264</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthalle_Hamburg</field>
+<field name="title">Nana</field>
+<field name="type">oil on canvas</field>
+<field name="width">115</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Nana_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Nana_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Nana_(obraz_Maneta)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nana_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q536024</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nana_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Nana_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nana_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Nana_(Manet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nana_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Nana_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Nana_(painting)</field>
+</doc>
+</add>

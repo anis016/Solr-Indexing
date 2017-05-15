@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Salma_di_Cristo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Corpse_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Corpse_of_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtvxvh</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/死去的基督_(卡拉齐)</field>
+<field name="sameAs">http://dbpedia.org/resource/Corpse_of_Christ</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1091213</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Salma_di_Cristo</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Corpse_of_Christ</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cristo_muerto_(Carracci)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1580s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Annibale_Carracci</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Corpse of Christ is a painting by the Italian Baroque master Annibale Carracci, dating to c. 1583-1585 and housed in the Staatsgalerie of Stuttgart, Germany. The work, dating to Carracci's early career, is a manifest homage to Andrea Mantegna's Dead Christ, which he had perhaps seen in the Aldobrandini collection. Christ is portrayed laying in a contorted position, seen from his feet. Differently from Mantegna, Carracci did not paint the mourners at the side, and adopted a more realistic depiction of the body. The artist put the instruments of the Passion.</field>
+<field name="label">Corpse of Christ</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9b/Annibale_carracci,_salma_di_cristo.jpg</field>
+<field name="comment">The Corpse of Christ is a painting by the Italian Baroque master Annibale Carracci, dating to c. 1583-1585 and housed in the Staatsgalerie of Stuttgart, Germany. The work, dating to Carracci's early career, is a manifest homage to Andrea Mantegna's Dead Christ, which he had perhaps seen in the Aldobrandini collection. Christ is portrayed laying in a contorted position, seen from his feet.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Annibale_carracci,_salma_di_cristo.jpg/200px-Annibale_carracci,_salma_di_cristo.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">70.7</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Corpse of Christ</field>
+<field name="type">Oil on canvas</field>
+<field name="width">88.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Corpse_of_Christ</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Corpse_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cristo_muerto_(Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Corpse_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dead_Christ_(Annibale_Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dead_Christ_(Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Corpse_of_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Corpse_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1091213</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Corpse_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/死去的基督_(卡拉齐)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Corpse_of_Christ</field>
+</doc>
+</add>

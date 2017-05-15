@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Семь_скорбей_(Дюрер)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sorrows_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Polittico_dei_Sette_Dolori</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sorrows_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Seven_Sorrows_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Seven_Sorrows_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Seven_Sorrows_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Seven_Sorrows_Polyptych</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1988321</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Polittico_dei_Sette_Dolori</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sorrows_Polyptych</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Семь_скорбей_(Дюрер)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Сім_скорбот_(Дюрер)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvtv76</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gem%C3%A4ldegalerie_Alte_Meister</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_works</field>
+<field name="abstract">The Seven Sorrows Polyptych is an oil on panel painting by Albrecht Dürer. The painting includes a central picture (108 x 43 cm), currently at the Alte Pinakothek in Munich, and seven surrounding panels (measuring some 60 x 46 cm) which are exhibited at the Gemäldegalerie Alte Meister of Dresden.</field>
+<field name="label">Seven Sorrows Polyptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/64/Durer,_polittico_dei_sette_dolori,_ricostruzione.jpg</field>
+<field name="comment">The Seven Sorrows Polyptych is an oil on panel painting by Albrecht Dürer. The painting includes a central picture (108 x 43 cm), currently at the Alte Pinakothek in Munich, and seven surrounding panels (measuring some 60 x 46 cm) which are exhibited at the Gemäldegalerie Alte Meister of Dresden.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/64/Durer,_polittico_dei_sette_dolori,_ricostruzione.jpg/200px-Durer,_polittico_dei_sette_dolori,_ricostruzione.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Albrecht_D%C3%BCrer</field>
+<field name="height">189</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum"/>
+<field name="title">Seven Sorrows Polyptych</field>
+<field name="type">Oil on panel</field>
+<field name="width">138</field>
+<field name="year">c. 1500</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Seven_Sorrows_Polyptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Seven_Sorrows_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Polyptych_of_the_Seven_Sorrows</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1988321</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sorrows_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Сім_скорбот_(Дюрер)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Seven_Sorrows_Polyptych</field>
+</doc>
+</add>

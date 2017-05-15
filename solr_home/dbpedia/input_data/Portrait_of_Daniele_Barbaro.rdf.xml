@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Daniele_Barbaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232266</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Daniele_Barbaro</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vp93w</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Daniele_Barbaro</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Rijksmuseum_Amsterdam</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paolo_Veronese</field>
+<field name="abstract">The Portrait of Daniele Barbaro is a painting by the Italian Renaissance master Paolo Veronese (from circa 1565-1567), belonging to the collection of the Rijksmuseum Amsterdam. There is a portrait by Veronese in the Pitti Palace, Florence, which has been described as Barbaro dressed as a Venetian aristocrat, but this identification is not certain. Barbaro was also portrayed by Titian.</field>
+<field name="label">Portrait of Daniele Barbaro</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/ca/Daniele_Barbaro.jpg</field>
+<field name="comment">The Portrait of Daniele Barbaro is a painting by the Italian Renaissance master Paolo Veronese (from circa 1565-1567), belonging to the collection of the Rijksmuseum Amsterdam. There is a portrait by Veronese in the Pitti Palace, Florence, which has been described as Barbaro dressed as a Venetian aristocrat, but this identification is not certain. Barbaro was also portrayed by Titian.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Daniele_Barbaro.jpg/200px-Daniele_Barbaro.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Paolo_Veronese</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">121</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Daniele Barbaro</field>
+<field name="type">Oil on canvas</field>
+<field name="width">105.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Daniele_Barbaro</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Daniele_Barbaro</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_daniele_barbaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Daniele_Barbaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Daniele_Barbaro</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232266</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Daniele_Barbaro</field>
+</doc>
+</add>

@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Philosopher_in_Meditation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Uczony_w_pokoju_z_krętą_klatką_schodową</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3381192</field>
+<field name="sameAs">http://dbpedia.org/resource/Philosopher_in_Meditation</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Philosopher_in_Meditation</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Philosophe_en_méditation</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h52zlr</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1632_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Philosophy_and_culture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="abstract">Philosopher in Meditation (Bredius 431) is the traditional title of an oil painting in the Musée du Louvre, Paris, that has long been attributed to the 17th-century Dutch artist Rembrandt. It is signed "RHL-van Rijn" and dated 1632, at the time of Rembrandt's move from Leiden to Amsterdam. Recent scholarship suggests that the painting depicts "Tobit and Anna waiting for their son Tobias" instead. The painting appeared in Paris around the middle of the 18th century and made the rounds of aristocratic collections before being acquired for the royal collections housed in the Louvre Palace. The presumed subject matter, the finely graded chiaroscuro treatment and intricate composition were widely appreciated in France and the painting is mentioned in the writings of many 19th- and 20th-century literary figures, including George Sand, Théophile Gautier, Jules Michelet, Marcel Proust, Paul Valéry, Gaston Bachelard, Paul Claudel, and Aldous Huxley. The popularity of the painting may be measured by its presence on the internet, where it is often used as an emblem of philosophy, or interpreted along esoteric or occult lines.</field>
+<field name="label">Philosopher in Meditation</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d6/Rembrandt_-_The_Philosopher_in_Meditation.jpg</field>
+<field name="comment">Philosopher in Meditation (Bredius 431) is the traditional title of an oil painting in the Musée du Louvre, Paris, that has long been attributed to the 17th-century Dutch artist Rembrandt. It is signed "RHL-van Rijn" and dated 1632, at the time of Rembrandt's move from Leiden to Amsterdam. Recent scholarship suggests that the painting depicts "Tobit and Anna waiting for their son Tobias" instead.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Rembrandt_-_The_Philosopher_in_Meditation.jpg/200px-Rembrandt_-_The_Philosopher_in_Meditation.jpg</field>
+<field name="link_external">http://www.ottobwiersma.nl/philosophy/kunst986.htm</field>
+<field name="link_external">http://www.rembrandt-signature-file.com</field>
+<field name="link_external">http://www.rembrandtresearchproject.org/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Philosopher_in_Meditation</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Philosopher_in_Meditation</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Uczony_w_pokoju_z_krętą_klatką_schodową</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Philosopher_in_Meditation</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Philosopher_in_Meditation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Philosopher_in_Meditation</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Philosophe_en_méditation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Philosopher_in_Meditation</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3381192</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Philosopher_in_Meditation</field>
+</doc>
+</add>

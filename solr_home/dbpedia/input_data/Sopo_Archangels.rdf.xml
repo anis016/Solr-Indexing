@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sopo_Archangels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03b_rbc</field>
+<field name="sameAs">http://id.dbpedia.org/resource/Malaikat_Agung_dari_Sopo</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Archange_de_Sopó</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sopo_Archangels</field>
+<field name="sameAs">http://dbpedia.org/resource/Sopo_Archangels</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q403550</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_Colombia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Colombian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Angels_in_Christianity</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Roman_Catholic_Church_paintings</field>
+<field name="abstract">The Sopo Archangels (Arcángeles de Sopó) is a famous collection of oil paintings from the Colombian colonial period which is located in the Church of the Divine Savior in the Colombian municipality of Sopó. This art collection has an important historic value. The Archangels are believed to be painted around 1650, but the artist remains unknown. Some art experts believe that the paintings are from Baltasar de Figueroa, others point to the Ecuadorian painter Miguel de Santiago. A third theory indicates the Bogotan painter Bernabe de Posadas. The national Ministry of Culture and the Board of Colonial Art developed a restoration program for the pieces, which have various degrees of damage. Twelve canvas of 2.38 x 1.67 meters depict eleven archangels, plus the Guardian Angel. Each piece contains the Hebraic name of the angel and the Spanish language description: 		 			Arielsopo. jpg 			 Ariel – Command of God: The archangel of divine war 			 		 		 			Baraquel. jpg 			 Baraquel – Blessing of God: The archangel of virtue 			 		 		 			Custodiosopo. jpg 			 Guardian Angel – Company of God: The angel of children 			 		 		 			Esriel. jpg 			 Esriel – Justice of God: The archangel of divine discipline 			 		 		 			Gabrielsopo. jpg 			 Gabriel – Strength of God: The archangel of divine salvation 			 		 		 			Jehudielsopo. jpg 			 Jehudiel – Penance of God: The archangel of divine hope 			 		 		 			Laruelsopo. jpg 			 Laruel – Mercy of God: Angel of Mercy 			 		 		 			Lehadsopo. jpg 			 Leadh – The sun of justice. (Severely damaged. ) 			 		 		 			Miguelsopo. jpg 			 Michael – Who is like God?: The divine triumph against evil 			 		 		 			Rafaelsopo. jpg 			 Rafael – Medicine from God: The divine healing 			 		 		 			Seactielsopo. jpg 			 Seactiel – Pray of God: Angel of divine serenity 			 		 		 			Urielsopo. jpg 			 Uriel – Fire of God: The divine wrath</field>
+<field name="label">Sopo Archangels</field>
+<field name="comment">The Sopo Archangels (Arcángeles de Sopó) is a famous collection of oil paintings from the Colombian colonial period which is located in the Church of the Divine Savior in the Colombian municipality of Sopó. This art collection has an important historic value. The Archangels are believed to be painted around 1650, but the artist remains unknown. Some art experts believe that the paintings are from Baltasar de Figueroa, others point to the Ecuadorian painter Miguel de Santiago.</field>
+<field name="link_external">http://elhablador.net/arcangeles-de-sopo.html</field>
+<field name="link_external">http://www.banrepcultural.org/blaavirtual/revistas/credencial/diciembre1991/diciembre1.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sopo_Archangels</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sopo_Archangels</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sopo_Archangels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sopo_Archangels</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Archange_de_Sopó</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sopo_Archangels</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q403550</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sopo_Archangels</field>
+</doc>
+<doc>
+<field name="uri">http://id.dbpedia.org/resource/Malaikat_Agung_dari_Sopo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sopo_Archangels</field>
+</doc>
+</add>

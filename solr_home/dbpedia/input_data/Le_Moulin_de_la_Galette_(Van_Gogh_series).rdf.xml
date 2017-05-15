@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Moulin_de_la_Galette_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Le_Moulin_de_la_Galette_(obrazy_van_Gogha)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Le_Moulin_de_la_Galette_(Van_Gogh_series)</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Moulin_de_la_Galette_(Van_Gogh_series)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmc2g1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6507323</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1886_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Paris</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_paintings</field>
+<field name="abstract">Le Moulin de la Galette is the subject and title of several paintings made by Vincent van Gogh in 1886 of a windmill. The Moulin de la Galette was near Van Gogh's apartment with his brother, Theo in Montmartre. The owners of the windmill maximized the view on a butte overlooking Paris, creating a terrace for viewing and a dance hall for entertainment. The windmill paintings are a subset of paintings from Montmartre (Van Gogh series).</field>
+<field name="label">Le Moulin de la Galette (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b9/Van_Gogh_-_Le_Moulin_de_la_Galette8.jpeg</field>
+<field name="comment">Le Moulin de la Galette is the subject and title of several paintings made by Vincent van Gogh in 1886 of a windmill. The Moulin de la Galette was near Van Gogh's apartment with his brother, Theo in Montmartre. The owners of the windmill maximized the view on a butte overlooking Paris, creating a terrace for viewing and a dance hall for entertainment. The windmill paintings are a subset of paintings from Montmartre (Van Gogh series).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Van_Gogh_-_Le_Moulin_de_la_Galette8.jpeg/200px-Van_Gogh_-_Le_Moulin_de_la_Galette8.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Carnegie_Museum_of_Art</field>
+<field name="title">Le Moulin de la Galette</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Le_Moulin_de_la_Galette_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Le_Moulin_de_la_Galette_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Moulin_de_la_Galette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Le_Moulin_de_la_Galette_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Le_Moulin_de_la_Galette_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Le_Moulin_de_la_Galette_(obrazy_van_Gogha)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Moulin_de_la_Galette_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6507323</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Moulin_de_la_Galette_(Van_Gogh_series)</field>
+</doc>
+</add>

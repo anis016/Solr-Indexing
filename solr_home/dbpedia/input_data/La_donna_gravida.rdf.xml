@@ -1,0 +1,102 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_donna_gravida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_Gravida</field>
+<field name="sameAs">http://dbpedia.org/resource/La_donna_gravida</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qn6tw</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_mujer_encinta</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_donna_gravida</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_donna_gravida</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/La_Donna_Gravida</field>
+<field name="sameAs">http://th.dbpedia.org/resource/สตรีมีครรภ์_(ราฟาเอล)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_zwangere</field>
+<field name="sameAs">http://az.dbpedia.org/resource/La_donna_gravida</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2276546</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1506_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="abstract">La donna gravida (or simply La gravida; Italian for "The Pregnant Woman") is an oil on wood portrait by the Italian High Renaissance artist Raphael. It was painted between 1505 and 1506, during Raphael's stay in Florence, Italy. It is currently housed in the Palazzo Pitti in Florence. The portrait depicts a woman who is pregnant sitting with her left hand resting on her stomach. Paintings of pregnant women were unusual in the Renaissance period.</field>
+<field name="label">La donna gravida</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fe/Raphael-LaDonnaGravida(1505-1506).jpg</field>
+<field name="comment">La donna gravida (or simply La gravida; Italian for "The Pregnant Woman") is an oil on wood portrait by the Italian High Renaissance artist Raphael. It was painted between 1505 and 1506, during Raphael's stay in Florence, Italy. It is currently housed in the Palazzo Pitti in Florence. The portrait depicts a woman who is pregnant sitting with her left hand resting on her stomach. Paintings of pregnant women were unusual in the Renaissance period.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Raphael-LaDonnaGravida(1505-1506).jpg/200px-Raphael-LaDonnaGravida(1505-1506).jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/r/raphael/2firenze/1/27gravid.htm</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">66</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Pitti</field>
+<field name="title">La donna gravida</field>
+<field name="width">52</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_donna_gravida</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_donna_gravida</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_mujer_encinta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_donna_gravida</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Donna_Gravida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_gravida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_Gravida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_donna_gravida</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_donna_gravida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_donna_gravida</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_donna_gravida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_donna_gravida</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_zwangere</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_donna_gravida</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2276546</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_donna_gravida</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/La_donna_gravida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_donna_gravida</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/La_Donna_Gravida</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_donna_gravida</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/สตรีมีครรภ์_(ราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_donna_gravida</field>
+</doc>
+</add>

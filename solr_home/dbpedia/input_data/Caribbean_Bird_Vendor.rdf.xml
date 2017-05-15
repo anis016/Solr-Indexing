@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Caribbean_Bird_Vendor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Caribbean_Bird_Vendor</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Caribbean_Bird_Vendor</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zqn0w</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5039353</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1953_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ellis_Wilson</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:African-American_art</field>
+<field name="abstract">Caribbean Bird Vendor is a painting by Ellis Wilson in 1953. It is now part of Hampton University’s permanent exhibition.</field>
+<field name="label">Caribbean Bird Vendor</field>
+<field name="comment">Caribbean Bird Vendor is a painting by Ellis Wilson in 1953. It is now part of Hampton University’s permanent exhibition.</field>
+<field name="link_external">http://www.ket.org/elliswilson/bio4south.htm</field>
+<field name="link_external">http://www.ket.org/elliswilson/bio1kentucky.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Caribbean_Bird_Vendor</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Caribbean_Bird_Vendor</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Caribbean_Bird_Vendor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Caribbean_Bird_Vendor</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5039353</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Caribbean_Bird_Vendor</field>
+</doc>
+</add>

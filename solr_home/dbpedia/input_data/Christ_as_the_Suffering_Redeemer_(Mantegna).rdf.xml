@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cristo_in_pietà_sorretto_da_due_angeli_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_as_the_Suffering_Redeemer_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Christ_mort_soutenu_par_deux_anges_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_as_the_Suffering_Redeemer_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_as_the_Suffering_Redeemer_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_as_the_Suffering_Redeemer_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_as_the_Suffering_Redeemer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_as_the_Suffering_Redeemer_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_as_the_Suffering_Redeemer_(Mantegna)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cristo_in_pietà_sorretto_da_due_angeli_(Mantegna)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3221348</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h51tkv</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_as_the_Suffering_Redeemer_(Mantegna)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Christ_mort_soutenu_par_deux_anges_(Mantegna)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Depictions_of_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="abstract">The Christ as the Suffering Redeemer is a painting by the Italian Renaissance artist Andrea Mantegna, dated to c. 1488-1500 and housed in the Statens Museum for Kunst, Copenhagen, Denmark.</field>
+<field name="label">Christ as the Suffering Redeemer (Mantegna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a1/Kristus_som_den_lidende_frelser.jpg</field>
+<field name="comment">The Christ as the Suffering Redeemer is a painting by the Italian Renaissance artist Andrea Mantegna, dated to c. 1488-1500 and housed in the Statens Museum for Kunst, Copenhagen, Denmark.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Kristus_som_den_lidende_frelser.jpg/200px-Kristus_som_den_lidende_frelser.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Copenhagen</field>
+<field name="height">78</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Statens_Museum_for_Kunst</field>
+<field name="title">Christ as the Suffering Redeemer</field>
+<field name="type">Tempera on panel</field>
+<field name="width">48</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_as_the_Suffering_Redeemer_(Mantegna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_as_the_Suffering_Redeemer_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3221348</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_as_the_Suffering_Redeemer_(Mantegna)</field>
+</doc>
+</add>

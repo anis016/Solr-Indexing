@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Allegories_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegories_(Bellini)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Quattro_allegorie</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b75glm</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q726430</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Allegories_(Bellini)</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Τέσσερις_αλληγορίες_του_Μπελίνι</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gallerie_dell'Accademia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Bellini</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="abstract">The Four Allegories is a series of four small panel paintings in the Gallerie dell'Accademia, Venice, Italy by the Italian Renaissance master Giovanni Bellini, whose date has been variously argued as different points in the range 1490-1504. They all measure 34 (Perseverance) or 32 x 22 cm in size.</field>
+<field name="label">Allegories (Bellini)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/dd/Giovanni_bellini,_quattro_allegorie,_perseveranza.jpg</field>
+<field name="comment">The Four Allegories is a series of four small panel paintings in the Gallerie dell'Accademia, Venice, Italy by the Italian Renaissance master Giovanni Bellini, whose date has been variously argued as different points in the range 1490-1504. They all measure 34 (Perseverance) or 32 x 22 cm in size.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Giovanni_bellini,_quattro_allegorie,_perseveranza.jpg/200px-Giovanni_bellini,_quattro_allegorie,_perseveranza.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Allegories_(Bellini)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Allegories_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Quattro_allegorie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegories_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Allegories_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Allegories_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Four_Allegories</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Four_Allegories_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Four_allegories_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Τέσσερις_αλληγορίες_του_Μπελίνι</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegories_(Bellini)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q726430</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Allegories_(Bellini)</field>
+</doc>
+</add>

@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Basket_of_Bread</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04cwn0l</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Корзина_с_хлебом</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q153517</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Corbeille_de_pain_(Dalí,_1926)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Basket_of_Bread</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cestino_di_pane</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Кошница_хляб</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Bread</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1926_paintings</field>
+<field name="abstract">The Basket of Bread is a painting by Spanish surrealist Salvador Dalí. The painting depicts four pieces of bread with butter on them sitting in a basket. One is separated from the others and is half-bitten. The basket sits on a white cloth. The painting resides at the Salvador Dalí Museum, St. Petersburg, Florida. The painting was completed in 1926 when Dalí was twenty-two years old, shortly after he had finished his formal art class in Madrid where he was studying the Dutch Masters. It is among the earliest of several paintings of bread by Dalí; a later example is Basket of Bread (1945).</field>
+<field name="label">The Basket of Bread</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3d/TheBasketofBread.jpg</field>
+<field name="comment">The Basket of Bread is a painting by Spanish surrealist Salvador Dalí. The painting depicts four pieces of bread with butter on them sitting in a basket. One is separated from the others and is half-bitten. The basket sits on a white cloth. The painting resides at the Salvador Dalí Museum, St. Petersburg, Florida. The painting was completed in 1926 when Dalí was twenty-two years old, shortly after he had finished his formal art class in Madrid where he was studying the Dutch Masters.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/TheBasketofBread.jpg/200px-TheBasketofBread.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/St._Petersburg,_Florida</field>
+<field name="height">12.5</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Salvador_Dali_Museum</field>
+<field name="title">The Basket of Bread</field>
+<field name="width">12.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Basket_of_Bread</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Basket_of_Bread</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Corbeille_de_pain_(Dalí,_1926)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cestino_di_pane</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Корзина_с_хлебом</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q153517</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Кошница_хляб</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Bread</field>
+</doc>
+</add>

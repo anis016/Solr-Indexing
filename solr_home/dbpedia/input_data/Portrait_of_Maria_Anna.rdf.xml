@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Maria_Anna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Maria_Anna</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3292964</field>
+<field name="sameAs">http://es.dbpedia.org/resource/María_de_Austria_(pintura)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05p3p1x</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Marie_d’Autriche_(Vélasquez)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Maria_Anna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1630_paintings</field>
+<field name="abstract">The Portrait of Maria Anna is a 1630 portrait of Maria Anna of Spain by Diego Velázquez. It is now in the Prado. It was painted during his three-month stay in Naples on his return to Spain from Naples. It was made prior to its subject's marriage to Ferdinand III of Austria to be taken to Spain as a reminder of her in her absence for her brother Philip IV of Spain (since the time of Charles I of Spain it had been customary for Spanish kings and their relatives to exchange kinship portraits to show their character to others, to demonstrate their appearance in marriage negotiations or simply to remind each other of their appearance). As in his previous portraits, Velázquez paints his subject against a dark background to make the figure stand out, whilst the green suit, grey ruff and hair are all realised in minute detail.</field>
+<field name="label">Portrait of Maria Anna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/91/Velázquez_-_María_de_Hungría_(Museo_del_Prado,_1630).jpg</field>
+<field name="comment">The Portrait of Maria Anna is a 1630 portrait of Maria Anna of Spain by Diego Velázquez. It is now in the Prado. It was painted during his three-month stay in Naples on his return to Spain from Naples.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Velázquez_-_María_de_Hungría_(Museo_del_Prado,_1630).jpg/200px-Velázquez_-_María_de_Hungría_(Museo_del_Prado,_1630).jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of María Anna</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Maria_Anna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Maria_Anna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Maria_of_Austria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Marie_d’Autriche_(Vélasquez)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Maria_Anna</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/María_de_Austria_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Maria_Anna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Maria_Anna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Maria_Anna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3292964</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Maria_Anna</field>
+</doc>
+</add>

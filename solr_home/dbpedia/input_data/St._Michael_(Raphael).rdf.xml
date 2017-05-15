@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Michael_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Müqəddəs_Mikayıl_(Rafael)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Miguel_(Rafael,_1501)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Michael_(Raphael)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Michele_e_il_drago</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Michael_(Raphael)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Michel_et_le_Dragon</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08myw4</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2415259</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1505_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="abstract">St. Michael is an oil painting by Italian artist Raphael. Also called the Little St. Michael to distinguish it from a larger, later treatment of the same theme, St. Michael Vanquishing Satan, it is housed in the Louvre in Paris. The work depicts the Archangel Michael in combat with the demons of Hell, while the damned suffer behind him. Along with St. George, it represents the first of Raphael's works on martial subjects.</field>
+<field name="label">St. Michael (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c3/St_Michael_Raphael.jpg</field>
+<field name="comment">St. Michael is an oil painting by Italian artist Raphael. Also called the Little St. Michael to distinguish it from a larger, later treatment of the same theme, St. Michael Vanquishing Satan, it is housed in the Louvre in Paris. The work depicts the Archangel Michael in combat with the demons of Hell, while the damned suffer behind him. Along with St. George, it represents the first of Raphael's works on martial subjects.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/St_Michael_Raphael.jpg/200px-St_Michael_Raphael.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">30</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">St. Michael</field>
+<field name="width">26</field>
+<field name="year">c. 1504-1505</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Michael_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Michael_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Miguel_(Rafael,_1501)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Michael_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Michele_e_il_drago</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Michael_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Michel_et_le_Dragon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Michael_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Michael_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Michael_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Müqəddəs_Mikayıl_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Michael_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2415259</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Michael_(Raphael)</field>
+</doc>
+</add>

@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_the_Blue_Diadem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Diadema_blu</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q738038</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_au_diadème_bleu</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Mavi_Taçlı_Madonna</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/青い冠の聖母</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h4nq1</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Blue_Diadem</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Mavi_taclı_Madonna</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_with_the_Blue_Diadem</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1512_paintings</field>
+<field name="abstract">The Madonna with the Blue Diadem is a painting by Raphael and his pupil Gianfrancesco Penni, probably painted in Rome around 1512, now at the Louvre. In the Louvre, the painting is named Virgin and Child with the Infant Saint John, also known as Virgin with the Veil or Virgin with the Blue Diadem. Additional names include Virgin with the Linen, Slumbering Child and Silence of the Holy Virgin.</field>
+<field name="label">Madonna with the Blue Diadem</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/ba/La_Vierge_au_voile,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg</field>
+<field name="comment">The Madonna with the Blue Diadem is a painting by Raphael and his pupil Gianfrancesco Penni, probably painted in Rome around 1512, now at the Louvre. In the Louvre, the painting is named Virgin and Child with the Infant Saint John, also known as Virgin with the Veil or Virgin with the Blue Diadem. Additional names include Virgin with the Linen, Slumbering Child and Silence of the Holy Virgin.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/La_Vierge_au_voile,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg/200px-La_Vierge_au_voile,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">68</field>
+<field name="image"/>
+<field name="imageSize">220</field>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Madonna with the Blue Diadem</field>
+<field name="type">Oil on wood</field>
+<field name="width">48</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_with_the_Blue_Diadem</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_with_the_Blue_Diadem</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_au_diadème_bleu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Blue_Diadem</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Diadema_blu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Blue_Diadem</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_with_the_Blue_Diadem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_with_the_Blue_Diadem</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Blue_Diadem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_vierge_au_diad%C3%A8me</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/青い冠の聖母</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Blue_Diadem</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q738038</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Blue_Diadem</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Mavi_taclı_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Blue_Diadem</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Mavi_Taçlı_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Blue_Diadem</field>
+</doc>
+</add>

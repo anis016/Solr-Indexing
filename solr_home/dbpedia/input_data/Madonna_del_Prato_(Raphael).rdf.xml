@@ -1,0 +1,118 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_à_la_prairie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_в_зелени</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_del_prado</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_del_prado</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h3k2g</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2452858</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/草地上的聖母</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_del_Prato_(Raphael)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Madonna_del_Prato_(Rafael)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_à_la_prairie</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/Virgulino_de_la_Prato_(pentraĵo)</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_в_зелени</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Belvedere</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Мадонна_на_луці_(Рафаель)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1506_paintings</field>
+<field name="abstract">The Madonna with the Christ Child and Saint John the Baptist is a 1506 painting by Raphael, now held in the Kunsthistorisches Museum in Vienna. It is also known as Madonna del prato (Madonna of the Meadow) or Madonna del Belvedere (after its long residence in the imperial collection in the Vienna Belvedere). The three figures in a calm green meadow are linked by looks and touching hands. The Virgin Mary is shown in a contrapposto pose, wearing a gold-bordered blue mantle set against a red dress and with her right leg lying along a diagonal. The blue symbolizes the church and the red Christ's death, with the Madonna the uniting of Mother Church with Christ's sacrifice. With her eyes fixed on Christ, her head is turned to the left and slightly inclined, and in her hands she holds up Christ, as he leans forward unsteadily to touch the miniature cross held by John. The poppy refers to Christ's passion, death and resurrection.</field>
+<field name="label">Madonna del Prato (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/51/Raffaello_belvedere_madonna.jpg</field>
+<field name="comment">The Madonna with the Christ Child and Saint John the Baptist is a 1506 painting by Raphael, now held in the Kunsthistorisches Museum in Vienna. It is also known as Madonna del prato (Madonna of the Meadow) or Madonna del Belvedere (after its long residence in the imperial collection in the Vienna Belvedere). The three figures in a calm green meadow are linked by looks and touching hands.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Raffaello_belvedere_madonna.jpg/200px-Raffaello_belvedere_madonna.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">113</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Madonna del prato</field>
+<field name="type">oil on board</field>
+<field name="width">88</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_del_Prato_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_del_Prato_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Prato</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_del_Prato_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Belvedere</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Belvedere</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_meadow_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_the_Christ_Child_and_Saint_John_the_Baptist</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2452858</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/草地上的聖母</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Madonna_del_Prato_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/Virgulino_de_la_Prato_(pentraĵo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Мадонна_на_луці_(Рафаель)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Prato_(Raphael)</field>
+</doc>
+</add>

@@ -1,0 +1,29 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Facial-maschera_(red)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5428548</field>
+<field name="sameAs">http://dbpedia.org/resource/Facial-maschera_(red)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Facial-maschera_(red)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03h4z2c</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Facial-Maschera is a fauvism painting by Henri Matisse. It was created in the year 1951 and is one of Matisse's best examples of his use of color and form. It is currently located in a private collection belonging to a distant relative of the artist.</field>
+<field name="label">Facial-maschera (red)</field>
+<field name="comment">Facial-Maschera is a fauvism painting by Henri Matisse. It was created in the year 1951 and is one of Matisse's best examples of his use of color and form. It is currently located in a private collection belonging to a distant relative of the artist.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Facial-maschera_(red)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Facial-maschera_(red)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Facial-maschera_(red)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Facial-maschera_(red)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5428548</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Facial-maschera_(red)</field>
+</doc>
+</add>

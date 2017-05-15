@@ -1,0 +1,98 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_dell'Annunciazione_(Barthélemy_d'Eyck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aix_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мастер_Благовещения_из_Экса</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aix_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Meister_der_Verkündigung_von_Aix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aix_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Triptyque_de_l'Annonciation_d'Aix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aix_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ołtarz_Zwiastowania</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aix_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_Triptych_(Barth%C3%A9lemy_d'Eyck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Aix_Annunciation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_dell'Annunciazione_(Barthélemy_d'Eyck)</field>
+<field name="sameAs">http://dbpedia.org/resource/Aix_Annunciation</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Aix_Annunciation</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ołtarz_Zwiastowania</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Tríptic_de_l'Anunciació_d'Ais</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Meister_der_Verkündigung_von_Aix</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Triptyque_de_l'Annonciation_d'Aix</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1535573</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Annunciatietriptiek_van_Aix</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мастер_Благовещения_из_Экса</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3mpg9</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_Boijmans_Van_Beuningen</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1440s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Rijksmuseum_Amsterdam</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="abstract">The Aix Annunciation is a painting attributed to the Barthélemy d'Eyck or the so-called Master of the Annunciation of Aix-en-Provance. Executed in 1443-1445, it was originally placed in the church of Saint-Sauveur, Aix-en-Provence, southern France. Now it is divided between the church of the Madeleine in the same city (central panel with the Annunciation), the Museum Boijmans Van Beuningen (part of the left panel with the prophet Isaiah) at Rotterdam, the Rijksmuseum of Amsterdam (upper part of the left panel), while the right panel is in the Royal Museum of Fine Arts of Belgium in Brussels. The rear of the triptych once had a Noli Me Tangere, which is now lost.</field>
+<field name="label">Aix Annunciation</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0f/Barthélemy_d'_Eyck_001.jpg</field>
+<field name="comment">The Aix Annunciation is a painting attributed to the Barthélemy d'Eyck or the so-called Master of the Annunciation of Aix-en-Provance. Executed in 1443-1445, it was originally placed in the church of Saint-Sauveur, Aix-en-Provence, southern France.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Barthélemy_d'_Eyck_001.jpg/200px-Barthélemy_d'_Eyck_001.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="imageSize">420</field>
+<field name="museum"/>
+<field name="title">Aix Annunciation</field>
+<field name="type">Several techniques on panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Aix_Annunciation</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Aix_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Aix_Annunciation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Aix_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Annunciatietriptiek_van_Aix</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aix_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1535573</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aix_Annunciation</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Tríptic_de_l'Anunciació_d'Ais</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aix_Annunciation</field>
+</doc>
+</add>

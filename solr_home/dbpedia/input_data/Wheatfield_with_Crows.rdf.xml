@@ -1,0 +1,145 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/까마귀가_나는_밀밭</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pole_pszenicy_z_krukami</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Campo_de_Trigo_com_Corvos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Campo_di_grano_con_volo_di_corvi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/까마귀가_나는_밀밭</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Wheatfield_with_Crows</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Campo_de_Trigo_com_Corvos</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Campo_di_grano_con_volo_di_corvi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q634122</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pole_pszenicy_z_krukami</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Champ_de_blé_aux_corbeaux</field>
+<field name="sameAs">http://he.dbpedia.org/resource/שדה_חיטה_עם_עורבים</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Lan_de_grâu_cu_corbi</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Wheatfield_with_Crows</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Пшеничное_поле_с_воронами</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+<field name="sameAs">http://af.dbpedia.org/resource/Koringland_met_Kraaie</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/カラスのいる麦畑</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Camp_de_blat_amb_corbs</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/گندم‌زار_با_کلاغ‌ها</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Qarğalarla_taxıl_sahəsi_(tablo)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05c0ps</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/麥田群鴉</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Van_Gogh_Museum</field>
+<field name="abstract">Wheatfield with Crows is a July 1890 painting by Vincent van Gogh. It is commonly stated that this was van Gogh's last painting. However, art historians are uncertain as to which painting was van Gogh's last, as no clear historical records exist. The evidence of his letters suggests that Wheatfield with Crows was completed around 10 July and predates such paintings as Auvers Town Hall on 14 July 1890 and Daubigny's Garden. Moreover, Jan Hulsker points out that a painting of harvested wheat, Field with Stacks of Wheat (F771), must be a later painting.</field>
+<field name="label">Wheatfield with Crows</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f8/A_Vincent_Van_Gogh.jpg</field>
+<field name="comment">Wheatfield with Crows is a July 1890 painting by Vincent van Gogh. It is commonly stated that this was van Gogh's last painting. However, art historians are uncertain as to which painting was van Gogh's last, as no clear historical records exist. The evidence of his letters suggests that Wheatfield with Crows was completed around 10 July and predates such paintings as Auvers Town Hall on 14 July 1890 and Daubigny's Garden.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/A_Vincent_Van_Gogh.jpg/200px-A_Vincent_Van_Gogh.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Wheatfield_with_Crows</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Champ_de_blé_aux_corbeaux</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/カラスのいる麦畑</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Пшеничное_поле_с_воронами</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Wheat_Field_with_Crows</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Wheatfield_with_Crows</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q634122</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/麥田群鴉</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://af.dbpedia.org/resource/Koringland_met_Kraaie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Qarğalarla_taxıl_sahəsi_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Camp_de_blat_amb_corbs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/گندم‌زار_با_کلاغ‌ها</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/שדה_חיטה_עם_עורבים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Lan_de_grâu_cu_corbi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Wheatfield_with_Crows</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Wheatfield_with_Crows</field>
+</doc>
+</add>

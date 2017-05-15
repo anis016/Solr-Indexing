@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Донская_икона_Божией_Матери</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Our_Lady_of_the_Don</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Our_Lady_of_the_Don</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Донская_икона_Божией_Матери</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Our_Lady_of_the_Don</field>
+<field name="sameAs">http://dbpedia.org/resource/Our_Lady_of_the_Don</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05myr3j</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3649209</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/დონის_ღვთისმშობლის_ხატი</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_icons</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Eastern_Orthodox_icons_of_the_Virgin_Mary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:14th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:14th-century_Christianity</field>
+<field name="abstract">Our Lady of the Don (Russian: Донская икона Божией Матери) is a 14th-century Eleusa icon representing Virgin Mary with the infant Jesus Christ. The icon, currently held in Tretyakov Gallery in Moscow, displays an Eleusa composition. The origins of the icon and the exact date of its creation are contested. It is believed to be painted by Theophanes the Greek circa 1382-1395. The monastery book of Donskoy Monastery states that Our Lady of the Don was a gift from Don Cossacks to Dmitry Donskoy the day before Battle of Kulikovo (1380).</field>
+<field name="label">Our Lady of the Don</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7b/Feofan_Donskaja.jpg</field>
+<field name="comment">Our Lady of the Don (Russian: Донская икона Божией Матери) is a 14th-century Eleusa icon representing Virgin Mary with the infant Jesus Christ. The icon, currently held in Tretyakov Gallery in Moscow, displays an Eleusa composition. The origins of the icon and the exact date of its creation are contested. It is believed to be painted by Theophanes the Greek circa 1382-1395.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Feofan_Donskaja.jpg/200px-Feofan_Donskaja.jpg</field>
+<field name="link_external">http://www.pravoslavie.ru/put/1920.htm</field>
+<field name="artist">http://dbpedia.org/resource/Theophanes_the_Greek</field>
+<field name="city">http://dbpedia.org/resource/Moscow</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Tretyakov_Gallery</field>
+<field name="title">Our Lady of the Don</field>
+<field name="type">Wood, tempera</field>
+<field name="year">circa 1382-1395</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Our_Lady_of_the_Don</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Our_Lady_of_the_Don</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Our_Lady_of_the_Don</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Our_Lady_of_the_Don</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Donskaja</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3649209</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Our_Lady_of_the_Don</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/დონის_ღვთისმშობლის_ხატი</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Our_Lady_of_the_Don</field>
+</doc>
+</add>

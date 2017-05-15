@@ -1,0 +1,119 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Balcon_(Manet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_balcó</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q775407</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gjd_mf</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_Balkon_(Manet)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Balkon_(tablo)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Balcony_(painting)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Balkon_(tablo)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_balcone</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Balcon_(Manet)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_balcón</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Balkon_(Manet)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Ar_Balkon</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Het_balkon</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Balcony</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1868_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_%C3%89douard_Manet</field>
+<field name="abstract">The Balcony is an 1868 oil painting by the French painter Édouard Manet and was exhibited at the Paris Salon of 1869. The painting depicts four figures. On the left is Berthe Morisot, who became in 1874 the wife of his brother, Eugène. In the centre is the painter Jean Baptiste Antoine Guillemet. On the right is Fanny Claus, a violist. The fourth figure is the background is possibly Leon Leenhoff, Manet's (step) son. It was sold by Gustave Caillebotte in 1884 and is currently kept at the Musée d'Orsay, in Paris.</field>
+<field name="label">The Balcony (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ad/Edouard_Manet_-_The_Balcony_-_Google_Art_Project.jpg</field>
+<field name="comment">The Balcony is an 1868 oil painting by the French painter Édouard Manet and was exhibited at the Paris Salon of 1869. The painting depicts four figures. On the left is Berthe Morisot, who became in 1874 the wife of his brother, Eugène. In the centre is the painter Jean Baptiste Antoine Guillemet. On the right is Fanny Claus, a violist. The fourth figure is the background is possibly Leon Leenhoff, Manet's (step) son.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/Edouard_Manet_-_The_Balcony_-_Google_Art_Project.jpg/200px-Edouard_Manet_-_The_Balcony_-_Google_Art_Project.jpg</field>
+<field name="artist">http://dbpedia.org/resource/%C3%89douard_Manet</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">170</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">The Balcony</field>
+<field name="type">Oil on canvas</field>
+<field name="width">124</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Balcony_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_Balkon_(Manet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_balcone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_balcón</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Balkon_(Manet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Balcony_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Het_balkon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q775407</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Balkon_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Ar_Balkon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_balcó</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Balcony</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Balkon_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Balcony_(painting)</field>
+</doc>
+</add>

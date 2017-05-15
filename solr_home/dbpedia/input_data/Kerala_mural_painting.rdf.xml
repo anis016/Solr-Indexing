@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Kerala_mural_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0396lg</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Kerala_mural_painting</field>
+<field name="sameAs">http://dbpedia.org/resource/Kerala_mural_painting</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q13479486</field>
+<field name="sameAs">http://ml.dbpedia.org/resource/കേരളത്തിലെ_ചുമർ_ചിത്രങ്ങൾ</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals_in_India</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Arts_of_Kerala</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Schools_of_Indian_painting</field>
+<field name="abstract">Kerala mural paintings are the frescos depicting mythology and legends, which are drawn on the walls of temples and churches in South India, principally in Kerala. Ancient temples, churches and palaces in Kerala, South India, display an abounding tradition of mural paintings mostly dating back between the 9th to 12th centuries CE when this form of art enjoyed Royal patronage.</field>
+<field name="label">Kerala mural painting</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/75/Kerala_Mural.jpg</field>
+<field name="comment">Kerala mural paintings are the frescos depicting mythology and legends, which are drawn on the walls of temples and churches in South India, principally in Kerala. Ancient temples, churches and palaces in Kerala, South India, display an abounding tradition of mural paintings mostly dating back between the 9th to 12th centuries CE when this form of art enjoyed Royal patronage.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Kerala_Mural.jpg/200px-Kerala_Mural.jpg</field>
+<field name="link_external">http://www.artribal.com.com/</field>
+<field name="link_external">http://www.unnismurals.in</field>
+<field name="link_external">http://www.keralamurals.com/</field>
+<field name="link_external">http://www.anilmural.com/</field>
+<field name="link_external">http://www.muralpagoda.com/</field>
+<field name="link_external">http://www.traditionalmurals.com/</field>
+<field name="link_external">http://www.dhyanasankalpam.blogspot.com/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Kerala_mural_painting</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Kerala_mural_painting</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Kerala_murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Kerala_mural_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Kerala_mural_painting</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Murals_of_Kerala</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dravidian_mural_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mural_paintings_of_Kerala</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q13479486</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Kerala_mural_painting</field>
+</doc>
+<doc>
+<field name="uri">http://ml.dbpedia.org/resource/കേരളത്തിലെ_ചുമർ_ചിത്രങ്ങൾ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Kerala_mural_painting</field>
+</doc>
+</add>

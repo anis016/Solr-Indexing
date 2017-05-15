@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Around_the_Piano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Autour_du_piano</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2873059</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Around_the_Piano</field>
+<field name="sameAs">http://dbpedia.org/resource/Around_the_Piano</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gj9cjd</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Fantin-Latour</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="abstract">Around the Piano is an 1885 painting by French artist Henri Fantin-Latour. It was exhibited at the Paris Salon the same year, then was bought by Adolphe Jullien. In 1915, it was gave to the Musée du Luxembourg, then was at the Musée du Louvre until 1986. It is currently kept at the Musée d'Orsay in Paris.</field>
+<field name="label">Around the Piano</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8a/Fantin-Latour_Autour_du_piano.jpg</field>
+<field name="comment">Around the Piano is an 1885 painting by French artist Henri Fantin-Latour. It was exhibited at the Paris Salon the same year, then was bought by Adolphe Jullien. In 1915, it was gave to the Musée du Luxembourg, then was at the Musée du Louvre until 1986. It is currently kept at the Musée d'Orsay in Paris.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fantin-Latour_Autour_du_piano.jpg/200px-Fantin-Latour_Autour_du_piano.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Fantin-Latour</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">160</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">Around the Piano</field>
+<field name="width">220</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Around_the_Piano</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Around_the_Piano</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Autour_du_piano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Around_the_Piano</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Around_the_Piano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Around_the_Piano</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2873059</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Around_the_Piano</field>
+</doc>
+</add>

@@ -1,0 +1,82 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Juicio_de_Paris_(Simonet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gyw5zx</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Barn_Paris_(Simonet)</field>
+<field name="sameAs">http://dbpedia.org/resource/El_Juicio_de_Paris_(Simonet)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1194202</field>
+<field name="sameAs">http://yago-knowledge.org/resource/El_Juicio_de_Paris_(Simonet)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Aphrodite</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Athena</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Spanish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Judgment_of_Paris</field>
+<field name="abstract">El Juicio de Paris (The Judgment of Paris in English) is an oil-on-canvas painting of the Greek myth, the Judgment of Paris. It was executed in 1904 by Enrique Simonet Lombardo, a Spanish painter, and is one of the many works depicting the scene. The composition is 215 cm. tall and 331 cm. wide. It is currently owned by heirs of Simonet, and is in the Museo de Málaga.</field>
+<field name="label">El Juicio de Paris (Simonet)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e2/Enrique_Simonet_-_El_Juicio_de_Paris_-_1904.jpg</field>
+<field name="comment">El Juicio de Paris (The Judgment of Paris in English) is an oil-on-canvas painting of the Greek myth, the Judgment of Paris. It was executed in 1904 by Enrique Simonet Lombardo, a Spanish painter, and is one of the many works depicting the scene. The composition is 215 cm. tall and 331 cm. wide. It is currently owned by heirs of Simonet, and is in the Museo de Málaga.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Enrique_Simonet_-_El_Juicio_de_Paris_-_1904.jpg/200px-Enrique_Simonet_-_El_Juicio_de_Paris_-_1904.jpg</field>
+<field name="link_external">http://www.museosdeandalucia.es/cultura/museos/MMA/visitavirtual/h00/h0303.html</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/M%C3%A1laga</field>
+<field name="height">215</field>
+<field name="image"/>
+<field name="imageSize">615</field>
+<field name="museum">http://dbpedia.org/resource/Museo_de_M%C3%A1laga</field>
+<field name="title">El Juicio de Paris</field>
+<field name="width">331</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/El_Juicio_de_Paris_(Simonet)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/El_Juicio_de_Paris_(Simonet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Juicio_de_Paris</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Judgement_of_Paris_(Simonet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Judgment_of_Paris_(Simonet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Judgement_of_Paris_(Simonet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Judgment_of_Paris_(Enrique_Simonet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Judgment_of_Paris_(Simonet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/El_Juicio_de_Paris_(Simonet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/El_Juicio_de_Paris_(Simonet)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1194202</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/El_Juicio_de_Paris_(Simonet)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Barn_Paris_(Simonet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/El_Juicio_de_Paris_(Simonet)</field>
+</doc>
+</add>

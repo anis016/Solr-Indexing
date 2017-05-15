@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Morphological_Echo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q12406429</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Morphological_Echo</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הד_מורפולוגי</field>
+<field name="sameAs">http://dbpedia.org/resource/Morphological_Echo</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.064xjx</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1936_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Morphology</field>
+<field name="abstract">Morphological Echo is a title shared by two oil on panel paintings created by the Spanish surrealist Salvador Dalí. The first of these works was painted between 1934 and 1936 and measures 64 x 54 cm. It depicts a seemingly minimal architectural setting with several surrealist images in its finer details. In the distance is a wall housing a bell resembling the figure of a woman in bundled skirts. In the distance towards the center is a strangely eroded rock form. The most significant element of this image is a small figure in the lower right of a woman running with a large hoop. In the shadow cast by the figure, her arms appear to merge into a circle around her head. The shadow cast by the figures head takes on the appearance of the hub of a wheel. This painting is displayed at the Salvador Dalí Museum in St. Petersburg, Florida on loan from the E. and A. Reynolds Morse collection. The second work by this title was painted in 1936 and measures 12 x 13”. It depicts a table with three objects set upon it. In the distance beyond the table are six more objects in two horizontal rows of three. These objects roughly resemble the three shapes they are aligned with on the table. This painting is owned by the Salvador Dalí Museum.</field>
+<field name="label">Morphological Echo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/41/Morphological_Echo_1.jpg</field>
+<field name="comment">Morphological Echo is a title shared by two oil on panel paintings created by the Spanish surrealist Salvador Dalí. The first of these works was painted between 1934 and 1936 and measures 64 x 54 cm. It depicts a seemingly minimal architectural setting with several surrealist images in its finer details. In the distance is a wall housing a bell resembling the figure of a woman in bundled skirts. In the distance towards the center is a strangely eroded rock form.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/41/Morphological_Echo_1.jpg/200px-Morphological_Echo_1.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/St._Petersburg,_Florida</field>
+<field name="height">64</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Salvador_Dali_Museum</field>
+<field name="title">Morphological Echo</field>
+<field name="width">54</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Morphological_Echo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Morphological_Echo</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Morphological_Echo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Morphological_Echo</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q12406429</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Morphological_Echo</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הד_מורפולוגי</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Morphological_Echo</field>
+</doc>
+</add>

@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Coniglio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_the_Rabbit</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Madonna_of_the_Rabbit</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Coniglio</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_the_Rabbit</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q24249</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3tjc3</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Madonna_of_the_Rabbit</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Мадонна_з_кроликом</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Madonna of the Rabbit is an oil painting by Titian, dated to 1530 and now held in the Louvre in Paris. It is signed "Ticianus f. " and is named after the white rabbit (a symbol of fertility and - due to its whiteness - of Mary's purity and the mystery of the Incarnation) held in Mary's left hand.</field>
+<field name="label">The Madonna of the Rabbit</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ab/Tizian_018.jpg</field>
+<field name="comment">The Madonna of the Rabbit is an oil painting by Titian, dated to 1530 and now held in the Louvre in Paris. It is signed "Ticianus f. " and is named after the white rabbit (a symbol of fertility and - due to its whiteness - of Mary's purity and the mystery of the Incarnation) held in Mary's left hand.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Tizian_018.jpg/200px-Tizian_018.jpg</field>
+<field name="link_external">http://www.louvre.fr/templates/llv/flash/viergeaulapinTitien/viergeaulapinTitien_acc_en.html</field>
+<field name="link_external">http://cartelen.louvre.fr/cartelen/visite?srv=car_not_frame&amp;idNotice=26352&amp;langue=fr</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Madonna of the Rabbit</field>
+<field name="type">Oil on canvas</field>
+<field name="year">c. 1530</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Madonna_of_the_Rabbit</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Madonna_of_the_Rabbit</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Madonna_of_the_Rabbit</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Madonna_of_the_Rabbit</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q24249</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_the_Rabbit</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Мадонна_з_кроликом</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_the_Rabbit</field>
+</doc>
+</add>

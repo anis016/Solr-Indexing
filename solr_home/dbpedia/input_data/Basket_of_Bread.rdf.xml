@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Basket_of_Bread</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Basket_of_Bread</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04crz8x</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Корзинка_с_хлебом</field>
+<field name="sameAs">http://dbpedia.org/resource/Basket_of_Bread</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Corbeille_de_pain_(Dalí,_1945)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_cistella_de_pa</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Basket_of_Bread</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q610803</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Кошик_з_хлібом</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1945_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="abstract">Basket of Bread (1945) or Basket of Bread-Rather Death Than Shame is a painting by Spanish Surrealist Salvador Dalí. The painting depicts a heel of a loaf bread in a basket, sitting near the edge of a table. Dalí's use of bread in his paintings is much more than a staple of one's diet. In this case, to understand Dalí's message, one must look at the political context at the time of the painting, his progression as an artist, his societal beliefs and how bread is used in the painting.</field>
+<field name="label">Basket of Bread</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ea/BasketofBread.jpg</field>
+<field name="comment">Basket of Bread (1945) or Basket of Bread-Rather Death Than Shame is a painting by Spanish Surrealist Salvador Dalí. The painting depicts a heel of a loaf bread in a basket, sitting near the edge of a table. Dalí's use of bread in his paintings is much more than a staple of one's diet. In this case, to understand Dalí's message, one must look at the political context at the time of the painting, his progression as an artist, his societal beliefs and how bread is used in the painting.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BasketofBread.jpg/200px-BasketofBread.jpg</field>
+<field name="link_external">http://www.virtualdali.com/45BreadBasket.html</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/Figueres</field>
+<field name="height">13</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Dal%C3%AD_Theatre_and_Museum</field>
+<field name="title">Basket of Bread</field>
+<field name="width">17</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Basket_of_Bread</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Корзинка_с_хлебом</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Basket_of_bread</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Corbeille_de_pain_(Dalí,_1945)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q610803</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_cistella_de_pa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Basket_of_Bread</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Кошик_з_хлібом</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Basket_of_Bread</field>
+</doc>
+</add>

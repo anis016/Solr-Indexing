@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Bordone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1133471</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05b_792</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Madonna_del_Bordone</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_del_Bordone</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Bordone</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Bordone</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_del_Bordón</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:13th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="abstract">The Madonna del Bordone is a panel painting by the Italian painter Coppo di Marcovaldo, in the church of Santa Maria dei Servi in Siena, Italy. Signed and dated 1261, the work is the only certain attribution to the Florentine painter. It was painted after he had been taken prisoner in the Battle of Montaperti in 1260, when the Republic of Siena defeated the Republic of Florence. Coppo paid his ransom by executing the work. It portrays the Madonna enthroned with a halo and two small angels on her sides. She is enthroned, and supports the blessing Child, who is holding the Book of the Law in his left hand and has a halo surrounded by a jewelled cross. The heads were painted in the following year by a local artist, who added a sfumato style influenced by that of Duccio di Buoninsegna, but different from Coppo's art. X-Ray analyses have shown the original heads to be characterized by Coppo's typical, rather sketchy manner of painting. Unlike the concentrated abstraction of contemporary works such as those by Margaritone d'Arezzo, in Coppo's Madonna the Child is looking in a tender way at his mother, a gesture aiming to humanize his divine status, but perhaps also to represent the love of the Child for the Catholic Church, symbolized by the Madonna. The posture of the two figures is typical of Byzantine painting of the subject.</field>
+<field name="label">Madonna del Bordone</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/ca/Coppo_di_marcovaldo,_madonna_del_bordone,_siena,_chiesa_dei_servi,_1261_tavola,.jpg</field>
+<field name="comment">The Madonna del Bordone is a panel painting by the Italian painter Coppo di Marcovaldo, in the church of Santa Maria dei Servi in Siena, Italy. Signed and dated 1261, the work is the only certain attribution to the Florentine painter. It was painted after he had been taken prisoner in the Battle of Montaperti in 1260, when the Republic of Siena defeated the Republic of Florence. Coppo paid his ransom by executing the work.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Coppo_di_marcovaldo,_madonna_del_bordone,_siena,_chiesa_dei_servi,_1261_tavola,.jpg/200px-Coppo_di_marcovaldo,_madonna_del_bordone,_siena,_chiesa_dei_servi,_1261_tavola,.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Coppo_di_Marcovaldo</field>
+<field name="city">http://dbpedia.org/resource/Siena</field>
+<field name="height">225</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Santa_Maria_dei_Servi_(Siena)</field>
+<field name="title">Madonna del Bordone</field>
+<field name="type">Tempera on panel</field>
+<field name="width">125</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_del_Bordone</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_del_Bordone</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Madonna_del_Bordone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Bordone</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Bordone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Bordone</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bordone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_del_Bordone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_del_Bordone</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_del_Bordón</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Bordone</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1133471</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Bordone</field>
+</doc>
+</add>

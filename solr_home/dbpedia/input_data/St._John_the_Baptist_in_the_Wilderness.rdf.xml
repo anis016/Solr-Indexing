@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Juan_Bautista_en_meditación</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_in_the_Wilderness</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Jean-Baptiste_dans_le_désert_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_in_the_Wilderness</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Святой_Иоанн_Креститель_в_пустыне_(картина_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_in_the_Wilderness</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Giovanni_Battista_in_meditazione</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_in_the_Wilderness</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._John_the_Baptist_in_the_Wilderness</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._John_the_Baptist_in_the_Wilderness</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Giovanni_Battista_in_meditazione</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2453980</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Святой_Иоанн_Креститель_в_пустыне_(картина_Босха)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025zqwj</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Juan_Bautista_en_meditación</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Johannes_de_Doper_in_de_wildernis</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_in_the_Wilderness</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Jean-Baptiste_dans_le_désert_(Bosch)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:John_the_Baptist</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="abstract">St. John the Baptist in the Wilderness is an oil painting by Hieronymus Bosch. The painting was acquired by the Spanish collector Lázaro Galdiano in 1913. It is on display in the Museo Lázaro Galdiano, in Madrid, Spain. The painting forms a pair with St. John the Evangelist on Patmos which is in Berlin. In the 1940s it was noticed that the two paintings could have been designed as the wings of an altarpiece. It has since been suggested that the altarpiece in question was an artwork which is known to have been made for St. John's Cathedral, 's-Hertogenbosch. The painting is difficult to date. If the 's-Hertogenbosch hypothesis is correct, the date would be around 1489, although later dates have been proposed based on other criteria. John the Baptist is often depicted with a lamb. The animal is said to symbolise the sacrifice of the saint as an innocent victim of the wickedness of mankind, or it could be that the saint is pointing towards Jesus Christ, whose symbol is the pascal lamb . Bosch's painting differs from other paintings of John the Baptist in the fantastical objects he carefully depicts.</field>
+<field name="label">St. John the Baptist in the Wilderness</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/70/StJohnWildernessBosch.jpg</field>
+<field name="comment">St. John the Baptist in the Wilderness is an oil painting by Hieronymus Bosch. The painting was acquired by the Spanish collector Lázaro Galdiano in 1913. It is on display in the Museo Lázaro Galdiano, in Madrid, Spain. The painting forms a pair with St. John the Evangelist on Patmos which is in Berlin. In the 1940s it was noticed that the two paintings could have been designed as the wings of an altarpiece.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/StJohnWildernessBosch.jpg/200px-StJohnWildernessBosch.jpg</field>
+<field name="artist"/>
+<field name="height">48.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">St. John the Baptist in the Wilderness</field>
+<field name="type">Oil</field>
+<field name="width">40</field>
+<field name="year">c. 1489</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._John_the_Baptist_in_the_Wilderness</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._John_the_Baptist_in_the_Wilderness</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._John_the_Baptist_in_the_Wilderness</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._John_the_Baptist_in_the_Wilderness</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Johannes_de_Doper_in_de_wildernis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_in_the_Wilderness</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2453980</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._John_the_Baptist_in_the_Wilderness</field>
+</doc>
+</add>

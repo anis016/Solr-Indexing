@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/On_the_Contrary</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/On_the_Contrary</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7091323</field>
+<field name="sameAs">http://yago-knowledge.org/resource/On_the_Contrary</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d7xhg</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1952_paintings</field>
+<field name="abstract">On The Contrary is an oil on canvas painting by Kay Sage, painted in 1952. It is housed in the Walker Art Center in Minneapolis, Minnesota.</field>
+<field name="label">On the Contrary</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c8/On_the_Contrary.jpg</field>
+<field name="comment">On The Contrary is an oil on canvas painting by Kay Sage, painted in 1952. It is housed in the Walker Art Center in Minneapolis, Minnesota.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/On_the_Contrary.jpg/200px-On_the_Contrary.jpg</field>
+<field name="link_external">http://www.artsconnected.org/artsnetmn/inner/sage.html</field>
+<field name="artist">http://dbpedia.org/resource/Kay_Sage</field>
+<field name="city">http://dbpedia.org/resource/Minneapolis</field>
+<field name="height">90.17</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Walker_Art_Center</field>
+<field name="title">On the Contrary</field>
+<field name="width">70.485</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/On_the_Contrary</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/On_the_Contrary</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/On_the_contrary</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/On_the_Contrary</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/On_the_Contrary</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/On_The_Contrary</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7091323</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/On_the_Contrary</field>
+</doc>
+</add>

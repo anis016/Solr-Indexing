@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Thematic_development_of_Italian_Renaissance_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rhqyv</field>
+<field name="sameAs">http://dbpedia.org/resource/Thematic_development_of_Italian_Renaissance_painting</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Thematic_development_of_Italian_Renaissance_painting</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_theme</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Iconography</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_Renaissance</field>
+<field name="abstract">This article about the development of themes in Italian Renaissance painting is an extension to the article Italian Renaissance painting, for which it provides additional pictures with commentary. The works encompassed are from Giotto in the early 14th century to Michelangelo's Last Judgement of the 1530s. The themes that preoccupied painters of the Italian Renaissance were those of both subject matter and execution- what was painted and the style in which it was painted. The artist had far more freedom of both subject and style than did a Medieval painter. Certain characteristic elements of Renaissance painting evolved a great deal during the period. These include perspective, both in terms of how it was achieved and the effect to which it was applied, and realism, particularly in the depiction of humanity, either as symbolic, portrait or narrative element.</field>
+<field name="label">Thematic development of Italian Renaissance painting</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2e/Piero_della_Francesca_042_Flagellation.jpg</field>
+<field name="comment">This article about the development of themes in Italian Renaissance painting is an extension to the article Italian Renaissance painting, for which it provides additional pictures with commentary. The works encompassed are from Giotto in the early 14th century to Michelangelo's Last Judgement of the 1530s. The themes that preoccupied painters of the Italian Renaissance were those of both subject matter and execution- what was painted and the style in which it was painted.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Piero_della_Francesca_042_Flagellation.jpg/200px-Piero_della_Francesca_042_Flagellation.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Thematic_development_of_Italian_Renaissance_painting</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Thematic_development_of_Italian_Renaissance_painting</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gallery_of_Italian_Renaissance_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Italian_Renaissance_painting,_development_of_themes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Thematic_development_of_Italian_Renaissance_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Thematic_development_of_Italian_Renaissance_painting</field>
+</doc>
+</add>

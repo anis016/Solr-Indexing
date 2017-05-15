@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_great_day_of_Girona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_great_day_of_Girona</field>
+<field name="sameAs">http://dbpedia.org/resource/The_great_day_of_Girona</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx138s</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q767421</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_gran_día_de_Gerona</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Grand_Jour_de_Gérone</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1864_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museu_Nacional_d'Art_de_Catalunya</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Girona</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_Catalonia</field>
+<field name="abstract">The Great Day of Girona, originally and in Catalan El gran dia de Girona, is a large oil painting (4.96 x 10.82 m) by Ramon Martí Alsina. It is the largest easel painting in the history of Catalan art. The creation process lasted more than 10 years and was about to bring the artist to his ruin on several occasions. It is now part of the collection of the Museu Nacional d'Art de Catalunya]] and is exhibited on deposit at the Girona premises of the Catalan Government, in the church of the former Hospital of Santa Caterina. Due to the spectacular size of the work, scholars suggest that it may have been an effort to compete with Marià Fortuny's Battle of Tetuan, a work commissioned by the council of Barcelona regarding the War of Africa. In 1938, during the Spanish Civil War, the painting was damaged during a bombardment whilst on exhibition in the Palau de les Belles Arts (Palace of the Fine Arts). To protect it from further damage, the work was rolled up and placed in one of the storage areas in the National Museum of Art (MNAC). It was some 70 years after its deposit that the painting was finally restored; between the years of 2009 and 2010.</field>
+<field name="label">The great day of Girona</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/89/Ramon_Martí_Alsina_El_gran_dia_de_Girona.jpg</field>
+<field name="comment">The Great Day of Girona, originally and in Catalan El gran dia de Girona, is a large oil painting (4.96 x 10.82 m) by Ramon Martí Alsina. It is the largest easel painting in the history of Catalan art. The creation process lasted more than 10 years and was about to bring the artist to his ruin on several occasions.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Ramon_Martí_Alsina_El_gran_dia_de_Girona.jpg/200px-Ramon_Martí_Alsina_El_gran_dia_de_Girona.jpg</field>
+<field name="link_external">http://www20.gencat.cat/portal/site/Patrimoni/menuitem.6a2dec9a300f68a8cd0181dfb0c0e1a0/?vgnextoid=e9304bd82cd50110VgnVCM1000000b0c1e0aRCRD&amp;vgnextchannel=e9304bd82cd50110VgnVCM1000000b0c1e0aRCRD&amp;vgnextfmt=detall&amp;contentid=3551ea2095fcb210VgnVCM1000008d0c1e0aRCRD</field>
+<field name="artist">http://dbpedia.org/resource/Ramon_Mart%C3%AD_Alsina</field>
+<field name="city">http://dbpedia.org/resource/Girona</field>
+<field name="height">496</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum"/>
+<field name="title">The Great Day of Girona</field>
+<field name="width">1082</field>
+<field name="year">Date completed: 1863-64</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_great_day_of_Girona</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_great_day_of_Girona</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_great_day_of_Girona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_great_day_of_Girona</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_gran_dia_de_Girona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Great_Day_of_Girona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

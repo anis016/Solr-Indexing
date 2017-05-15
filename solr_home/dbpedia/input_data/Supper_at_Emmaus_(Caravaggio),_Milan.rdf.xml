@@ -1,0 +1,87 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Los_discípulos_de_Emaús_(Milán)</field>
+<field name="sameAs">http://dbpedia.org/resource/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09gkq_</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wieczerza_w_Emmaus_(1606)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2097931</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cena_in_Emmaus_(Caravaggio_Milano)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Souper_à_Emmaüs_(Le_Caravage,_Milan)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Pinacoteca_di_Brera</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1606_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">Supper at Emmaus (1606) is a painting by the Italian master Caravaggio, housed in the Pinacoteca di Brera, Milan. In the collection of Marchese Patrizi by 1624 and possibly commissioned by him, references by Caravaggio's early biographers Giulio Mancini and Giovanni Bellori suggest it was painted in the few months after May 1606 when the artist was in hiding on the estates of Prince Marzio Colonna following the death of Ranuccio Tomassoni (see main article, Caravaggio), although it may also have been painted in Rome earlier in the year - the innkeeper's wife seems to be the same as the model for Saint Anne in Madonna and Child with St. Anne of 1605, although given the almost complete echoing of pose and lighting, she may have been done from memory. The painting inevitably invites comparison with the National Gallery version of the same subject: the expansive theatrical guestures have become understated and natural, the shadows are darkened, and the colours muted although still saturated. The effect is to emphasise presence more than drama. Some details - the ear of the disciple on the right, the right hand of the innkeeper's wife - remain badly drawn, but there is a fluidity in the handling of the paint which was to increase in Caravaggio's post-Roman work as his brushwork became increasingly calligraphic. The artist may have had problems working out his composition - the innkeeper's wife looks like a last-minute addition. Neither she nor the innkeeper are mentioned in the Gospel of Luke 24:28-32, but had been introduced by Renaissance painters to act as a foil to the amazement of the two disciples as they recognise the resurrected Christ.</field>
+<field name="label">Supper at Emmaus (Caravaggio), Milan</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9c/CaravaggioEmmaus.jpg</field>
+<field name="comment">Supper at Emmaus (1606) is a painting by the Italian master Caravaggio, housed in the Pinacoteca di Brera, Milan.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/CaravaggioEmmaus.jpg/200px-CaravaggioEmmaus.jpg</field>
+<field name="link_external">http://www.brera.beniculturali.it/Page/t04/view_html?idp=160</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">141</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Supper at Emmaus</field>
+<field name="type">Oil on canvas</field>
+<field name="width">175</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wieczerza_w_Emmaus_(1606)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Supper_at_Emmaus_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Supper_at_Emmaus_(Caravaggio,_Milan)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Supper_at_Emmaus_(Milan)_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Los_discípulos_de_Emaús_(Milán)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cena_in_Emmaus_(Caravaggio_Milano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Souper_à_Emmaüs_(Le_Caravage,_Milan)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2097931</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Supper_at_Emmaus_(Caravaggio),_Milan</field>
+</doc>
+</add>

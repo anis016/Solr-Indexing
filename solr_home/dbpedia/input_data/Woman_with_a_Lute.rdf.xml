@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Lautenspielerin_am_Fenster</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Lute</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Mujer_con_laúd</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Lute</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Suonatrice_di_liuto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Lute</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_with_a_Lute</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07s7g5g</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Kvinna_med_luta</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Suonatrice_di_liuto</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Mujer_con_laúd</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Woman_with_a_Lute</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_luitspeelster</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q839359</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Lautenspielerin_am_Fenster</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Lute</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="abstract">Woman with a Lute, also known as Woman with a Lute Near a Window, is a painting created about 1662–1663 by Dutch painter Johannes Vermeer and now at the Metropolitan Museum of Art in New York. The painting depicts a young woman wearing an ermine-trimmed jacket and enormous pearl earrings as she eagerly looks out a window, presumably expecting a male visitor. "A musical courtship is suggested by the viola da gamba on the floor in the foreground and by the flow of songbooks across the tabletop and onto the floor," according to a web page about the work at the Metropolitan Museum of Art website. The tuning of a lute was recognized by contemporary viewers as a symbol of the virtue of temperance. The oil on canvas work is 20¼ inches high and 18 inches wide (51.4 × 45.7 cm). The work likely was painted shortly after than Young Woman with a Water Pitcher, and it shares with that painting its framing of the figure within rectangular motifs. But the painting has more muted tones, reflecting a shift in that direction by Vermeer in the mid- to late 1660s. At this time, Vermeer began using shadows and soft contours to further evoke an atmosphere of intimacy. "The impression of spatial recession and atmosphere is somewhat diminished by darkening with age of the objects in the foreground and by abrasion of the paint surface, mostly in the same area," according to the Metropolitan Museum of Art web page. The painting was given to the museum in 1900 by a bequest of railroad industrialist Collis P. Huntington.</field>
+<field name="label">Woman with a Lute</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fe/Vermeer_-_Woman_with_a_Lute_near_a_window.jpg</field>
+<field name="comment">Woman with a Lute, also known as Woman with a Lute Near a Window, is a painting created about 1662–1663 by Dutch painter Johannes Vermeer and now at the Metropolitan Museum of Art in New York. The painting depicts a young woman wearing an ermine-trimmed jacket and enormous pearl earrings as she eagerly looks out a window, presumably expecting a male visitor.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Vermeer_-_Woman_with_a_Lute_near_a_window.jpg/200px-Vermeer_-_Woman_with_a_Lute_near_a_window.jpg</field>
+<field name="link_external">http://www.metmuseum.org/works_of_art/collection_database/all/woman_with_a_lute_johannes_vermeer/objectview.aspx?page=1&amp;sort=0&amp;sortdir=asc&amp;keyword=VermeerLute&amp;fp=1&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=110002333&amp;vT=1</field>
+<field name="link_external">http://www.metmuseum.org/special/vermeers_masterpiece/view_1.asp?item=8</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/121680</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/65202/rec/17</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/New_York</field>
+<field name="height">51.4</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">Woman With a Lute</field>
+<field name="width">45.7</field>
+<field name="year">c. 1662–1663</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Woman_with_a_Lute</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Woman_with_a_Lute</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Woman_with_a_Lute</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Woman_with_a_Lute</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_luitspeelster</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Lute</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q839359</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Lute</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Kvinna_med_luta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Lute</field>
+</doc>
+</add>

@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Aquis_Submersus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aquis_Submersus</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Aquis_Submersus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Aquis_Submersus</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Aquis_Submersus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Aquis_Submersus</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dc0np</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Aquis_Submersus</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4034252</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Aquis_Submersus</field>
+<field name="sameAs">http://dbpedia.org/resource/Aquis_Submersus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1919_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Max_Ernst</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">Aquis Submersus (Latin for Water Drowning) is a painting by the German dadaist/surrealist Max Ernst created in 1919. It is one of Ernst's earliest known surrealist works. It depicts a swimming pool surrounded by buildings. The sense of dimension is unclear. The features of the buildings appear to be hand-drawn. The buildings leave shadows against the sky like a wall. Hanging in the sky is a clock that reflects on the water as a moon. In the foreground is an upsidedown figure that appears to have been made out of clay and is drowning. It bears the handlebar mustache that was worn by Ernst's father. The painting carries the same name as a famous novella by Theodor Storm, published in 1876.</field>
+<field name="label">Aquis Submersus</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e7/Aquis_Submersus.jpg</field>
+<field name="comment">Aquis Submersus (Latin for Water Drowning) is a painting by the German dadaist/surrealist Max Ernst created in 1919. It is one of Ernst's earliest known surrealist works. It depicts a swimming pool surrounded by buildings. The sense of dimension is unclear. The features of the buildings appear to be hand-drawn. The buildings leave shadows against the sky like a wall. Hanging in the sky is a clock that reflects on the water as a moon.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Aquis_Submersus.jpg/200px-Aquis_Submersus.jpg</field>
+<field name="link_external">http://arts.guardian.co.uk/portrait/story/0,11109,740302,00.html</field>
+<field name="artist">http://dbpedia.org/resource/Max_Ernst</field>
+<field name="city">http://dbpedia.org/resource/Frankfurt</field>
+<field name="height">54</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/St%C3%A4delsches_Kunstinstitut_und_St%C3%A4dtische_Galerie</field>
+<field name="title">Aquis Submersus</field>
+<field name="width">43.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Aquis_Submersus</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Aquis_Submersus</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4034252</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aquis_Submersus</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Aquis_Submersus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Aquis_Submersus</field>
+</doc>
+</add>

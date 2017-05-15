@@ -1,0 +1,79 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Chocolate_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Schokoladenmädchen</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Шоколадниця_(картина)</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Chokladflickan</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q445627</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Шоколадница_(картина)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03wdc2p</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Chocolate_Girl</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chocolate_Girl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Swiss_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Swiss_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:18th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1740s_paintings</field>
+<field name="abstract">The Chocolate Girl is one of the most prominent pastels of Swiss artist Jean-Étienne Liotard, showing a chocolate-serving maid. The girl carries a tray with a porcelain chocolate mug and a glass of water. Liotard's contemporaries classed The Chocolate Girl as his masterpiece. On 3 February 1745 Francesco Algarotti bought the painting in Venice form Liotard. In an unknown year (between 1747 and 1754?) the painting became part of the collection of August III of Poland. In a letter dated 13 February 1751 to his friend Pierre-Jean Mariette he wrote: “ I have bought a pastel picture about three feet high by the celebrated Liotard. It shows a young German chamber-maid in profile, carrying a tray with a glass of water and a cup of chocolate. The picture is almost devoid of shadows, with a pale background, the light being furnished by two windows reflected in the glass. It is painted in half-tones with imperceptible graduations of light and with a perfect modelling... and although it is a European picture it could appeal to the Chinese who, as you know, are sworn enemies of shadows. With regard to the perfection of the work, it is a Holbein in pastel. ” Since 1855 the painting with the serving maid from Vienna, who might have been a certain Nannerl Baldauf, has been exposed in the Gemäldegalerie Alte Meister, Dresden. Around 1900, La Belle Chocolatière served as inspiration for the commercial illustration of the "nurse" that appeared on Droste's cocoa tins. This was most probably a work of the commercial artist Jan (Johannes) Musset. According to Droste, "The illustration indicated the wholesome effect of chocolate milk and became inextricably bound with the name Droste. " In 1862 the American Baker's Chocolate Company obtained the rights to use the painting. During World War II the Germans transported it to Königstein Fortress. The delicate painting managed to survive the cold and dampness in Königstein Fortress and brought back to Dresden after the Germans retreated from advancing Soviet troops. Theories concerning the girl's head-dress run from a cap cover to an echo of the colourful regional caps. The girl's apron features a small bodice.</field>
+<field name="label">The Chocolate Girl</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/46/Chocolate_girl.jpg</field>
+<field name="comment">The Chocolate Girl is one of the most prominent pastels of Swiss artist Jean-Étienne Liotard, showing a chocolate-serving maid. The girl carries a tray with a porcelain chocolate mug and a glass of water. Liotard's contemporaries classed The Chocolate Girl as his masterpiece. On 3 February 1745 Francesco Algarotti bought the painting in Venice form Liotard. In an unknown year (between 1747 and 1754?) the painting became part of the collection of August III of Poland.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/Chocolate_girl.jpg/200px-Chocolate_girl.jpg</field>
+<field name="link_external">http://www.alte-dosen.de/varia/chocolatiere/chocolatiere_e.htm</field>
+<field name="link_external">http://www.britishmuseum.org/research/search_the_collection_database/search_object_details.aspx?objectid=3295781&amp;partid=1&amp;output=People%2F!!%2FOR%2F!!%2F122077%2F!%2F122077-2-60%2F!%2FPrint+made+by+Franz+Hanfst%C3%A4ngl%2F!%2F%2F!!%2F%2F!!!%2Forig=%2Fresearch%2Fsearch_the_collection_database%2Fadvanced_search.aspx&amp;currentPage=5&amp;numpages=10</field>
+<field name="link_external">http://jefferson.library.millersville.edu/archon/?p=digitallibrary/digitalcontent&amp;id=692</field>
+<field name="link_external">http://www.kraftfoods.com/BakersChocolate/story.htm</field>
+<field name="artist">http://dbpedia.org/resource/Jean-%C3%89tienne_Liotard</field>
+<field name="city">http://dbpedia.org/resource/Dresden</field>
+<field name="height">82.5</field>
+<field name="image"/>
+<field name="imageSize">150</field>
+<field name="museum">http://dbpedia.org/resource/Gem%C3%A4ldegalerie_Alte_Meister</field>
+<field name="title">La Belle Chocolatière</field>
+<field name="title">The Chocolate Girl</field>
+<field name="type">Pastel on parchment</field>
+<field name="width">52.5</field>
+<field name="year">circa 1743-44</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Chocolate_Girl</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Chocolate_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Шоколадница_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chocolate_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Chocolate_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Chocolate_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Schokoladenmädchen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chocolate_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q445627</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chocolate_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Chokladflickan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chocolate_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Шоколадниця_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Chocolate_Girl</field>
+</doc>
+</add>

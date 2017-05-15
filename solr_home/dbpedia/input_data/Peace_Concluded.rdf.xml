@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Peace_Concluded</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Peace_Concluded</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Peace_Concluded</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Peace_Concluded</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Peace_Concluded</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ศึกสงบ_(มิเล)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q93kw</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q266435</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Military_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crimean_War</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1856_paintings</field>
+<field name="abstract">Peace Concluded, 1856 (1856) is a painting by John Everett Millais which depicts a wounded British officer reading The Times newspaper's report of the end of the Crimean war. It was exhibited at the Royal Academy in 1856 to mixed reviews, but was strongly endorsed by the critic John Ruskin who proclaimed that in the future it would be recognised as "among the world's best masterpieces". The central figure in the painting is a portrait of Millais's wife Effie Gray, who had previously been married to Ruskin, but had left her husband for the artist.</field>
+<field name="label">Peace Concluded</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/79/Peace_concluded.jpg</field>
+<field name="comment">Peace Concluded, 1856 (1856) is a painting by John Everett Millais which depicts a wounded British officer reading The Times newspaper's report of the end of the Crimean war. It was exhibited at the Royal Academy in 1856 to mixed reviews, but was strongly endorsed by the critic John Ruskin who proclaimed that in the future it would be recognised as "among the world's best masterpieces".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Peace_concluded.jpg/200px-Peace_concluded.jpg</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="city">http://dbpedia.org/resource/Minneapolis</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Minneapolis_Institute_of_Arts</field>
+<field name="title">Peace Concluded, 1856</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Peace_Concluded</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Peace_Concluded</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q266435</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Peace_Concluded</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ศึกสงบ_(มิเล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Peace_Concluded</field>
+</doc>
+</add>

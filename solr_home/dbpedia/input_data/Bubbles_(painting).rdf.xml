@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bubble</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bubbles_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ฟองสบู่_(มิเล)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4147036</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q78bm</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bubbles_(painting)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мыльные_пузыри_(картина)</field>
+<field name="sameAs">http://dbpedia.org/resource/Bubbles_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1886_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Lady_Lever_Art_Gallery</field>
+<field name="abstract">Bubbles, originally titled A Child's World, is a painting by Sir John Everett Millais that became famous when it was used over many generations in advertisements for Pears soap. During Millais's lifetime it led to widespread debate about the relationship between art and advertising. The painting was one of many child pictures for which Millais had become well known in his later years. It was modelled by his five-year-old grandson William Milbourne James and was based on 17th-century Dutch precursors in the tradition of vanitas imagery, which commented upon the transience of life. These sometimes depicted young boys blowing bubbles, typically set against skulls and other signs of death. The painting portrays a young golden-haired boy looking up at a bubble, symbolising the beauty and fragility of life. On one side of him is a young plant growing in a pot, emblematic of life, and on the other is a fallen broken pot, emblematic of death. He is spot-lit against a gloomy background. The painting was first exhibited in 1886 under the title A Child's World at the Grosvenor Gallery in London, and was acquired by Sir William Ingram of the Illustrated London News. The painting was reproduced and presented in the weekly newspaper as a colour plate, where it was seen by Thomas J. Barratt, managing director of A&amp;F Pears. Barratt purchased the original painting from Ingram for £2,200 which gave him exclusive copyright on the picture. Millais' permission was sought in order to alter the picture by the addition of a bar of Pears Soap, so that it could be used for the purposes of advertising. At the time Millais was one of the most popular artists in Britain and he was initially apprehensive at the prospect of his work and his grandson being the subject of commercial exploitation. However, when he was shown the proofs of the proposed advertisements he grew to appreciate the idea, which portrayed the soap as if the child had used it to make the bubbles. Following the success of this advertisement Millais was attacked in print by the novelist Marie Corelli who accused him in her novel The Sorrows of Satan of prostituting his talent to sell soap. Millais wrote to her pointing out that he had sold the copyright of the painting and so was unable to stop the company from altering it in reproduction. Millais's son later claimed that he had tried to stop the advertisement being made, but had been advised that he had no legal power to do so. Corelli retracted her comments in a later edition of the book. The advertisement became so well known that William Milbourne James, who later rose to the rank of Admiral in the British navy, was known as "Bubbles" for the rest of his life. Since A&amp;F Pears was acquired by Lever Brothers, the painting has been in their ownership. It was lent to the Royal Academy, but was transferred to the Lady Lever Art Gallery in Port Sunlight in 2006.</field>
+<field name="label">Bubbles (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8b/Bubbles_by_John_Everett_Millais.jpg</field>
+<field name="comment">Bubbles, originally titled A Child's World, is a painting by Sir John Everett Millais that became famous when it was used over many generations in advertisements for Pears soap. During Millais's lifetime it led to widespread debate about the relationship between art and advertising. The painting was one of many child pictures for which Millais had become well known in his later years.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Bubbles_by_John_Everett_Millais.jpg/200px-Bubbles_by_John_Everett_Millais.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Port_Sunlight</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Lady_Lever_Art_Gallery</field>
+<field name="title">Bubbles</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bubbles_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bubbles_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bubbles_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bubbles_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мыльные_пузыри_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bubbles_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4147036</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bubbles_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ฟองสบู่_(มิเล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bubbles_(painting)</field>
+</doc>
+</add>

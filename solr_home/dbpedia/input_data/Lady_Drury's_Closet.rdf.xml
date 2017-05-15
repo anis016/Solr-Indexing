@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hawstead_panels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lady_Drury's_Closet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6470092</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gh82bt</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lady_Drury's_Closet</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Drury's_Closet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:17th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Suffolk</field>
+<field name="abstract">Lady Drury's Closet (also known as the Hawstead Panels) is a series of painted wooden panels of early 17th-century date, currently installed in the room over the porch of Christchurch Mansion in Ipswich, Suffolk, England. They originally decorated a so-called painted closet, about 7 feet square, adjacent to a bedroom in Hawstead Place, near Bury St Edmunds. It is believed they were made for the private devotions of Lady Elizabeth Drury, wife of Sir Roger Drury of Hawstead and Hardwick, who died in 1615. They were removed to Hardwick House, Suffolk, probably by Sir Roger, before 1615; and when the Hardwick House contents were sold in 1924, they were purchased for and installed in Christchurch Mansion when it had already become the home of the Fine and Decorative Arts collections of the Ipswich Museum. The panels contain a series of emblems of the kind associated with emblem books—images fashionable throughout Europe for private religious meditation in that age. The original sequence of the emblems has become muddled. In addition to their importance for the study of emblems in general, they are significant because the Drurys were patrons of the poet and divine John Donne, two of whose elegies were written following the death in 1610 of their daughter Elizabeth Drury—namely, An Anatomy of the World and The Second Anniversarie of the Progresse of the Soule. The epigrammatic and verbally or visually paradoxical themes of the paintings are, however, linked more directly to the themes and techniques of meditation developed in the writings and sermons of the preacher Joseph Hall, who was chaplain and spiritual advisor to Lady Drury at Hawstead.</field>
+<field name="label">Lady Drury's Closet</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/ba/Lady_Drury's_Closet.JPG</field>
+<field name="comment">Lady Drury's Closet (also known as the Hawstead Panels) is a series of painted wooden panels of early 17th-century date, currently installed in the room over the porch of Christchurch Mansion in Ipswich, Suffolk, England. They originally decorated a so-called painted closet, about 7 feet square, adjacent to a bedroom in Hawstead Place, near Bury St Edmunds.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Lady_Drury's_Closet.JPG/200px-Lady_Drury's_Closet.JPG</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lady_Drury's_Closet</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lady_Drury's_Closet</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lady_Drury's_Closet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lady_Drury's_Closet</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6470092</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lady_Drury's_Closet</field>
+</doc>
+</add>

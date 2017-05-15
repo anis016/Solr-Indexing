@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self_Portrait_with_Two_Circles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bwgrhc</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self_Portrait_with_Two_Circles</field>
+<field name="sameAs">http://dbpedia.org/resource/Self_Portrait_with_Two_Circles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:17th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="abstract">Self Portrait with Two Circles is an oil on canvas painting by the Dutch artist Rembrandt, painted c. 1665–69. In it, he is seen at work, holding his palette, brushes, and maulstick. The painting is notable for its monumentality and for an enigmatic background consisting of a shallow space with the fragments of two circles. It is the most ambitious self-portrait in which he is depicted at work and is considered a masterpiece of his last years.</field>
+<field name="label">Self Portrait with Two Circles</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/98/Rembrandt_van_rijn-self_portrait.jpg</field>
+<field name="comment">Self Portrait with Two Circles is an oil on canvas painting by the Dutch artist Rembrandt, painted c. 1665–69. In it, he is seen at work, holding his palette, brushes, and maulstick. The painting is notable for its monumentality and for an enigmatic background consisting of a shallow space with the fragments of two circles. It is the most ambitious self-portrait in which he is depicted at work and is considered a masterpiece of his last years.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Rembrandt_van_rijn-self_portrait.jpg/200px-Rembrandt_van_rijn-self_portrait.jpg</field>
+<field name="link_external">http://books.google.com/books?id=DAjHamKGor0C&amp;printsec=frontcover&amp;source=gbs_v2_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</field>
+<field name="link_external">http://books.google.com/books?id=CGtvMeltxlIC&amp;pg=PA189&amp;lpg=PA189&amp;dq=Self+Portrait+with+Two+Circles&amp;source=bl&amp;ots=6RB7RzZ4K-&amp;sig=qKo2xYWs2fzSZUzeFgFSLJaDEzM&amp;hl=en&amp;ei=I1ffS6DVMoH58AaWmYSbBQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10&amp;ved=0CCUQ6AEwCTgK#v=onepage&amp;q=Self%20Portrait%20with%20Two%20Circles&amp;f=false</field>
+<field name="link_external">http://books.google.com/books?id=SyYhBOBVmcYC&amp;printsec=frontcover&amp;source=gbs_v2_summary_r&amp;cad=0#v=onepage&amp;q&amp;f=false</field>
+<field name="artist">http://dbpedia.org/resource/Rembrandt</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">114.3</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Kenwood_House</field>
+<field name="title">Self Portrait with Two Circles</field>
+<field name="type">Oil on canvas</field>
+<field name="width">94</field>
+<field name="year">c. 1665-9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self_Portrait_with_Two_Circles</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self_Portrait_with_Two_Circles</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self_Portrait_with_Two_Circles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self_Portrait_with_Two_Circles</field>
+</doc>
+</add>

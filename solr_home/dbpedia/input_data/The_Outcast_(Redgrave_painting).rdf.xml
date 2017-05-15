@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Outcast_(Redgrave_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Outcast_(Redgrave_painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j62dq3</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Outcast_(Redgrave_painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7755630</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1851_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Richard_Redgrave</field>
+<field name="abstract">The Outcast is an 1851 oil painting by Victorian artist Richard Redgrave, depicting a family's reaction to a daughter bearing an illegitimate child. The melodramatic moral work depicts a stern patriarch of inflexible puritanical morality casting out a fallen woman and her illegitimate baby - probably his daughter and grandchild - from his "respectable" house. Despite the snow visible on the ground outside, the paterfamilias stands by an open door, gesturing angrily for her to depart. Another young woman - probably another daughter - kneels, begging him to relent, while another weeps behind. The mother of the family comforts a weeping son, while a fourth daughter looks on in confusion. An incriminating letter lies on the floor, and a biblical painting - probably Abraham casting out Hagar and Ishmael, but possibly Christ and the woman taken in adultery - hangs on the wall. The device of the incriminating letter was used to better effect in a similar context by Augustus Egg in his 1858 painting Past and Present, No. 1. The painting is ambiguous: it could be meant as a warning to other women to avoid a similar fate, or could be intended to evoke sympathy for the plight of the young mother abandoned by her family. It measures 31 inches by 41 inches and was presented to the Royal Academy of Arts by Redgrave when he was elected to full membership.</field>
+<field name="label">The Outcast (Redgrave painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/83/TheOutcastRichardRedgrave.jpg</field>
+<field name="comment">The Outcast is an 1851 oil painting by Victorian artist Richard Redgrave, depicting a family's reaction to a daughter bearing an illegitimate child. The melodramatic moral work depicts a stern patriarch of inflexible puritanical morality casting out a fallen woman and her illegitimate baby - probably his daughter and grandchild - from his "respectable" house. Despite the snow visible on the ground outside, the paterfamilias stands by an open door, gesturing angrily for her to depart.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/TheOutcastRichardRedgrave.jpg/200px-TheOutcastRichardRedgrave.jpg</field>
+<field name="link_external">http://books.google.co.uk/books?id=zd0OAAAAQAAJ&amp;pg=PA63</field>
+<field name="link_external">http://www.tate.org.uk/research/tateresearch/tatepapers/07spring/rutherford.htm</field>
+<field name="link_external">http://www.racollection.org.uk/ixbin/indexplus?record=ART72</field>
+<field name="link_external">http://books.google.co.uk/books?id=zDAMxrLOUzEC&amp;pg=PA149</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Outcast_(Redgrave_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Outcast_(Redgrave_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Outcast</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Outcast_(1851)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Outcast_(Redgrave_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Outcast_(Redgrave_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7755630</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Outcast_(Redgrave_painting)</field>
+</doc>
+</add>

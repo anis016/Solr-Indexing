@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Три_человека,_рассматривающие_гладиатора_при_свечах</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Persons_Viewing_the_Gladiator_by_Candlelight</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Three_Persons_Viewing_the_Gladiator_by_Candlelight</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3r7s2</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q645120</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Persons_Viewing_the_Gladiator_by_Candlelight</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Qui_gladiatorem_candelae_luce_inspiciunt</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Три_человека,_рассматривающие_гладиатора_при_свечах</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Three_Persons_Viewing_the_Gladiator_by_Candlelight</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1760s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joseph_Wright_of_Derby</field>
+<field name="abstract">"Three Persons Viewing the Gladiator by Candlelight" is a painting of 1765 by Joseph Wright of Derby, now in a private collection in the United Kingdom. It shows three art-lovers examining the Borghese Gladiator, a famous Hellenistic statue discovered in Italy. They must rather be examining a reproduction, since the real statue is 1.99 metres high and stands on a different base. The painting, among the early works of Joseph Wright's maturity, was widely admired. Four years later a mezzotint print of it was made by William Pether. In Wright's time the Borghese Gladiator was in the Borghese Collection in the Villa Borghese Pinciana in Rome. In 1807 it was among the ancient sculptures sold by Camillo Borghese, 6th Prince of Sulmona to his brother-in-law Napoleon, who deposited it in the Louvre Museum in Paris, where it still is. The statue is now thought to represent a soldier, not a gladiator.</field>
+<field name="label">Three Persons Viewing the Gladiator by Candlelight</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/83/Three_Persons_Viewing_the_Gladiator_by_Candlelight.jpg</field>
+<field name="comment">"Three Persons Viewing the Gladiator by Candlelight" is a painting of 1765 by Joseph Wright of Derby, now in a private collection in the United Kingdom. It shows three art-lovers examining the Borghese Gladiator, a famous Hellenistic statue discovered in Italy. They must rather be examining a reproduction, since the real statue is 1.99 metres high and stands on a different base. The painting, among the early works of Joseph Wright's maturity, was widely admired.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Three_Persons_Viewing_the_Gladiator_by_Candlelight.jpg/200px-Three_Persons_Viewing_the_Gladiator_by_Candlelight.jpg</field>
+<field name="link_external">http://www.artic.edu/aic/collections/artwork/137059</field>
+<field name="link_external">http://books.google.com/books?id=Ms09AAAAIAAJ</field>
+<field name="link_external">http://www.louvre.fr/llv/oeuvres/detail_notice.jsp?CONTENT%3C%3Ecnt_id=10134198673225841&amp;CURRENT_LLV_NOTICE%3C%3Ecnt_id=10134198673225841</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Three_Persons_Viewing_the_Gladiator_by_Candlelight</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Three_Persons_Viewing_the_Gladiator_by_Candlelight</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Three_Persons_Viewing_the_Gladiator_by_Candlelight</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Three_Persons_Viewing_the_Gladiator_by_Candlelight</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q645120</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Persons_Viewing_the_Gladiator_by_Candlelight</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Qui_gladiatorem_candelae_luce_inspiciunt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Persons_Viewing_the_Gladiator_by_Candlelight</field>
+</doc>
+</add>

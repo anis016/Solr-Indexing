@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Farms_near_Auvers_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Farms_near_Auvers_(Van_Gogh)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Chaty_kryte_strzechą_pod_wzgórzem</field>
+<field name="sameAs">http://pnb.dbpedia.org/resource/آور_دے_نیڑے_کھیت</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0df55p</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3695962</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Farms_near_Auvers_(Van_Gogh)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Auvers</field>
+<field name="abstract">Farms near Auvers or Thatched Cottages by a Hill is an oil painting by Vincent van Gogh that he painted in July 1890 when he lived in Auvers-sur-Oise, France. The painting is an example of the double-square canvases that he employed in his last landscapes. Van Gogh spent the last few months of his life in Auvers-sur-Oise, a small town just north of Paris, after he left an asylum at Saint-Rémy in May 1890. Shortly after arriving at Auvers, Van Gogh wrote his sister Wil: "Here there are roofs of mossy thatch which are superb, and of which I’ll certainly do something. " The painting appears to be unfinished. It is similar to Thatched Cottages and Houses, a painting thought to have been executed shortly after arrival at Auvers. In 1933 the painting was bequeathed by C. Frank Stoop to the Tate Collection in London, where it currently resides.</field>
+<field name="label">Farms near Auvers (Van Gogh)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/51/VanGoghThatchedCottagesByAHill.jpg</field>
+<field name="comment">Farms near Auvers or Thatched Cottages by a Hill is an oil painting by Vincent van Gogh that he painted in July 1890 when he lived in Auvers-sur-Oise, France. The painting is an example of the double-square canvases that he employed in his last landscapes. Van Gogh spent the last few months of his life in Auvers-sur-Oise, a small town just north of Paris, after he left an asylum at Saint-Rémy in May 1890.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/51/VanGoghThatchedCottagesByAHill.jpg/200px-VanGoghThatchedCottagesByAHill.jpg</field>
+<field name="artist"/>
+<field name="height">50.2</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate</field>
+<field name="museum">http://dbpedia.org/resource/London</field>
+<field name="title">Farms near Auvers</field>
+<field name="type">Oil on canvas</field>
+<field name="width">103</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Farms_near_Auvers_(Van_Gogh)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Farms_near_Auvers_(Van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Chaty_kryte_strzechą_pod_wzgórzem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Farms_near_Auvers_(Van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Farms_near_Auvers_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Farms_near_Auvers_(Van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Thatched_Cottages_by_a_Hill</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Thatched_cottages_by_a_hill</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3695962</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Farms_near_Auvers_(Van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://pnb.dbpedia.org/resource/آور_دے_نیڑے_کھیت</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Farms_near_Auvers_(Van_Gogh)</field>
+</doc>
+</add>

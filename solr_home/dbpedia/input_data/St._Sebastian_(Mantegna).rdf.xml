@@ -1,0 +1,92 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Andrea_Mantegna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/St._Sebastian_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Sebastian_of_Venice_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Sebastián_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Sébastien_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Święty_Sebastian_(obrazy_Mantegni)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Sebastian_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Šv._Sebastijonas_(Mantegna)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08mtjs</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Mantegna)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2276972</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Sebastian_(Mantegna)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Sebastiano_(Mantegna_Parigi)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Sébastien_(Mantegna)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Święty_Sebastian_(obrazy_Mantegni)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Sebastián_(Mantegna)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">St. Sebastian is the subject of three paintings by the Italian Early Renaissance master Andrea Mantegna. The Paduan artist lived in a period of frequent plagues; Sebastian was considered protector against the plague as having been shot through by arrows, and it was thought that plague spread abroad through the air. In his long stay in Mantua, furthermore, Mantegna resided near the San Sebastiano church dedicated to St. Sebastian.</field>
+<field name="label">St. Sebastian (Mantegna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/aa/St_Sebastian_3_Mantegna.jpg</field>
+<field name="comment">St. Sebastian is the subject of three paintings by the Italian Early Renaissance master Andrea Mantegna. The Paduan artist lived in a period of frequent plagues; Sebastian was considered protector against the plague as having been shot through by arrows, and it was thought that plague spread abroad through the air. In his long stay in Mantua, furthermore, Mantegna resided near the San Sebastiano church dedicated to St. Sebastian.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/St_Sebastian_3_Mantegna.jpg/200px-St_Sebastian_3_Mantegna.jpg</field>
+<field name="link_external">http://www.francescomorante.it/pag_2/205bd.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Sebastian_(Mantegna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Sebastian_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Sebastian_of_Louvre_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Sebastian_of_Vienna_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Sebastiano_(Mantegna_Parigi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Sebastian_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Sebastian_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2276972</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Šv._Sebastijonas_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Sebastian_(Mantegna)</field>
+</doc>
+</add>

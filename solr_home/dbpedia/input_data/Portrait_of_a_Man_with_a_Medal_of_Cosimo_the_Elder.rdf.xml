@@ -1,0 +1,97 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_d'homme_avec_médaille_de_Cosme_l'ancien</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_d'uomo_con_medaglia_di_Cosimo_il_Vecchio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_неизвестного_с_медалью</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_d'homme_avec_médaille_de_Cosme_l'ancien</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_неизвестного_с_медалью</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภาพเหมือนของชายกับเหรียญโคสิโมผู้อาวุโส_(บอตติเชลลี)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_hombre_con_la_medalla_de_Cosme_el_Viejo</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Портрет_невідомого_з_медаллю_Козімо_Медічі_Старшого</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08pcjm</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_d'uomo_con_medaglia_di_Cosimo_il_Vecchio</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q959174</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_paintings_in_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="abstract">Portrait of a Man with a Medal of Cosimo the Elder, also known as Portrait of a Youth with a Medal, is a tempera painting by Italian Renaissance painter Sandro Botticelli. The painting features a young man displaying in triangled hands a medal stamped with the likeness of Cosimo de' Medici. The identity of the young man has been a long-enduring mystery. Completed in approximately 1475, it is on display in the Uffizi Gallery of Florence.</field>
+<field name="label">Portrait of a Man with a Medal of Cosimo the Elder</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/49/Sandro_Botticelli_074.jpg</field>
+<field name="comment">Portrait of a Man with a Medal of Cosimo the Elder, also known as Portrait of a Youth with a Medal, is a tempera painting by Italian Renaissance painter Sandro Botticelli. The painting features a young man displaying in triangled hands a medal stamped with the likeness of Cosimo de' Medici. The identity of the young man has been a long-enduring mystery. Completed in approximately 1475, it is on display in the Uffizi Gallery of Florence.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Sandro_Botticelli_074.jpg/200px-Sandro_Botticelli_074.jpg</field>
+<field name="link_external">http://collections.vam.ac.uk/item/O158399/cosimo-de-medici-medal-unknown/</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">575</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of a Man with the Medal of Cosimo de Medici the Elder</field>
+<field name="type">Tempera on panel</field>
+<field name="width">44</field>
+<field name="year">c. 1474-1475</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cosimo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_hombre_con_la_medalla_de_Cosme_el_Viejo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_man_with_a_medal_of_cosimo_the_elder</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q959174</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภาพเหมือนของชายกับเหรียญโคสิโมผู้อาวุโส_(บอตติเชลลี)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Портрет_невідомого_з_медаллю_Козімо_Медічі_Старшого</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Man_with_a_Medal_of_Cosimo_the_Elder</field>
+</doc>
+</add>

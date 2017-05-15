@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_dell'Alabarda</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Altarpiece_of_the_Halberd</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Altarpiece_of_the_Halberd</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmdqt4</field>
+<field name="sameAs">http://dbpedia.org/resource/Altarpiece_of_the_Halberd</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_dell'Alabarda</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Altarpiece_of_the_Halberd</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3889229</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lorenzo_Lotto</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="abstract">The Altarpiece of the Halberd is a painting from around 1539 by the Italian High Renaissance painter Lorenzo Lotto. It is housed in the Pinacoteca civica Francesco Podesti of Ancona, central Italy.</field>
+<field name="label">Altarpiece of the Halberd</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/27/Lotto,_pala_dell'Alabarda_01.jpg</field>
+<field name="comment">The Altarpiece of the Halberd is a painting from around 1539 by the Italian High Renaissance painter Lorenzo Lotto. It is housed in the Pinacoteca civica Francesco Podesti of Ancona, central Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Lotto,_pala_dell'Alabarda_01.jpg/200px-Lotto,_pala_dell'Alabarda_01.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">294</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Altarpiece of the Halberd</field>
+<field name="type">Oil on canvas</field>
+<field name="width">216</field>
+<field name="year">c. 1539</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Altarpiece_of_the_Halberd</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Altarpiece_of_the_Halberd</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Halberd_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pala_dell'Alabarda</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Altarpiece_of_the_Halberd</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Altarpiece_of_the_Halberd</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3889229</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Altarpiece_of_the_Halberd</field>
+</doc>
+</add>

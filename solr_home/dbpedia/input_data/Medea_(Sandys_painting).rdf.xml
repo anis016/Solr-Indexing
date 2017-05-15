@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medea_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Medea_(Sandys_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Medea_(Sandys_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medea_(Sandys_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Medea_(Sandys_painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q7hpb</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6805218</field>
+<field name="sameAs">http://dbpedia.org/resource/Medea_(Sandys_painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1868_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="abstract">Medea is an oil painting on canvas by the Pre-Raphaelite painter Frederick Sandys which was created in 1868. The painting was submitted to the Royal Academy of Arts for display in the Summer Exhibition of 1868 but it was rejected - most likely for political rather than artistic reasons. The picture was accepted the following year and reviewed very favourably by The Times, which commented pointedly on its previous failure to win a place. Medea was modelled on Keomi Gray, a gypsy woman whom Sandys had met in Norwich, England, and taken back to London to sit for many of his paintings. According to a contemporary critic it shows the enchantress Medea "... in the act of incantation, the baleful light of her chafing-dish playing in the folds of her robe, and making the pale cheeks look paler, and the ashy lips more ashy, and kindling the array of foul ingredients and witch's properties that surround her tripod - foul toads and strange roots, and images of strange gods, and quaint shells filled with evil compounds. " In 1911 the picture was among paintings representative of the best British art sent to Italy for the international exhibition at Rome held in honour of the jubilee of the Kingdom of Italy.</field>
+<field name="label">Medea (Sandys painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3f/Medea-Sandys.jpg</field>
+<field name="comment">Medea is an oil painting on canvas by the Pre-Raphaelite painter Frederick Sandys which was created in 1868. The painting was submitted to the Royal Academy of Arts for display in the Summer Exhibition of 1868 but it was rejected - most likely for political rather than artistic reasons. The picture was accepted the following year and reviewed very favourably by The Times, which commented pointedly on its previous failure to win a place.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Medea-Sandys.jpg/200px-Medea-Sandys.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Frederick_Sandys</field>
+<field name="city">http://dbpedia.org/resource/Birmingham</field>
+<field name="height">61.2</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Birmingham_Museum_and_Art_Gallery</field>
+<field name="title">Medea</field>
+<field name="width">45.6</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Medea_(Sandys_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Medea_(Sandys_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6805218</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Medea_(Sandys_painting)</field>
+</doc>
+</add>

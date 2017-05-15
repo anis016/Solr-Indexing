@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Game_of_Bowls</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_jeu-de-boulespelers</field>
+<field name="sameAs">http://dbpedia.org/resource/Game_of_Bowls</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2049345</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bs0y48</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Game_of_Bowls</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Hermitage_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1908_paintings</field>
+<field name="abstract">Game of Bowls is a 1908 painting by the french artist Henri Matisse. The painting shows three young men, probably Matisse's sons and nephew, playing a game of Boules. Matisse sees the game as a manifestation of man's creativity, and an instrument to use in understanding the codes of life. The painting is part of Matisse's series on man's "Golden Age" and was part of Sergei Shchukin's collection before the October Revolution of 1917. It is now in the collection of The Hermitage, St. Petersburg, Russia.</field>
+<field name="label">Game of Bowls</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c6/Matisse_-_Game_of_Bowls.jpg</field>
+<field name="comment">Game of Bowls is a 1908 painting by the french artist Henri Matisse. The painting shows three young men, probably Matisse's sons and nephew, playing a game of Boules. Matisse sees the game as a manifestation of man's creativity, and an instrument to use in understanding the codes of life. The painting is part of Matisse's series on man's "Golden Age" and was part of Sergei Shchukin's collection before the October Revolution of 1917. It is now in the collection of The Hermitage, St.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Matisse_-_Game_of_Bowls.jpg/200px-Matisse_-_Game_of_Bowls.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Saint_Petersburg</field>
+<field name="height">115</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Hermitage_Museum</field>
+<field name="title">Game of Bowls</field>
+<field name="width">147</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Game_of_Bowls</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Game_of_Bowls</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Game_of_Bowls</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Game_of_Bowls</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_jeu-de-boulespelers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Game_of_Bowls</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2049345</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Game_of_Bowls</field>
+</doc>
+</add>

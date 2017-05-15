@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Perseus_Freeing_Andromeda</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Perseus_Freeing_Andromeda</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Liberazione_di_Andromeda</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Perseus_Freeing_Andromeda</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Perseus_Freeing_Andromeda</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Perseus_Freeing_Andromeda</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3558043</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqr28z</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Perseus_Freeing_Andromeda</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Liberazione_di_Andromeda</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ο_Περσέας_ελευθερώνει_την_Ανδρομέδα_(Πιέρο_ντι_Κόζιμο)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1513_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piero_di_Cosimo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510_paintings</field>
+<field name="abstract">For the painting with the same name by Pieter Paul Rubens, see Perseus Freeing Andromeda (Rubens) Perseus Freeing Andromeda is a painting by the Italian Renaissance painter Piero di Cosimo, c. executed in 1510 or 1513 It is housed in the Uffizi Gallery of Florence, Italy. The painting is mentioned in 1568 by Giorgio Vasari, who states that it was commissioned by Filippo Strozzi the Elder, and gifted by Giovanni Battista Strozzi to a member of Cosimo de' Medici's personnel. The work shows the mythological hero Perseus killing the monster who had entrapped Andromeda. Piero gave a great deal of attention to the background, perhaps inspired to the contemporary Flemish school: details include the two characters with a turban on the left, the very detailed painting of the water on the shore, and the fantastic musical instruments. 40x40px Wikimedia Commons has media related to: Perseus frees Andromeda by Piero di Cosimo</field>
+<field name="label">Perseus Freeing Andromeda</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b4/Piero_di_Cosimo_-_Liberazione_di_Andromeda_-_Google_Art_Project.jpg</field>
+<field name="comment">For the painting with the same name by Pieter Paul Rubens, see Perseus Freeing Andromeda (Rubens) Perseus Freeing Andromeda is a painting by the Italian Renaissance painter Piero di Cosimo, c. executed in 1510 or 1513 It is housed in the Uffizi Gallery of Florence, Italy. The painting is mentioned in 1568 by Giorgio Vasari, who states that it was commissioned by Filippo Strozzi the Elder, and gifted by Giovanni Battista Strozzi to a member of Cosimo de' Medici's personnel.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Piero_di_Cosimo_-_Liberazione_di_Andromeda_-_Google_Art_Project.jpg/200px-Piero_di_Cosimo_-_Liberazione_di_Andromeda_-_Google_Art_Project.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">70</field>
+<field name="image"/>
+<field name="imageSize">420</field>
+<field name="museum"/>
+<field name="title">Perseus Freeing Andromeda</field>
+<field name="type">Oil on panel</field>
+<field name="width">123</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Perseus_Freeing_Andromeda</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Perseus_Freeing_Andromeda</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ο_Περσέας_ελευθερώνει_την_Ανδρομέδα_(Πιέρο_ντι_Κόζιμο)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Perseus_Freeing_Andromeda</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Liberation_of_Andromeda</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Perseus_Frees_Andromeda</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Perseus_Rescuing_Andromeda</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Freeing_of_Andromeda</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3558043</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Perseus_Freeing_Andromeda</field>
+</doc>
+</add>

@@ -1,0 +1,114 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Incubo_(Füssli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nightmare_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Nightmare</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_pesadilla</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/الكابوس_(فيلم)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Incubo_(Füssli)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Cauchemar_(Füssli)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Nocna_mara_(obraz)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03bx9f0</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Nightmare</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2317837</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ο_Εφιάλτης</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Нічний_кошмар_(картина_Фюзелі)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Ночной_кошмар_(Фюссли)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Kâbus_(tablo)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Romantic_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1781_paintings</field>
+<field name="abstract">The Nightmare is a 1781 oil painting by Anglo-Swiss artist Henry Fuseli (1741–1825). Since its creation, it has remained Fuseli's best-known work. With its first exhibition in 1782 at the Royal Academy of London, the image became famous; an engraved version was widely distributed and the painting was parodied in political satire. Due to its fame, Fuseli painted at least three other versions of the painting. Interpretation of The Nightmare have varied widely. The canvas seems to portray simultaneously a dreaming woman and the content of her nightmare. The incubus and the horse's head refer to contemporary belief and folklore about nightmares, but have been ascribed more specific meanings by some theorists. Contemporary critics were taken aback by the overt sexuality of the painting, which has since been interpreted by some scholars as anticipating Freudian ideas about the unconscious.</field>
+<field name="label">The Nightmare</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/56/John_Henry_Fuseli_-_The_Nightmare.JPG</field>
+<field name="comment">The Nightmare is a 1781 oil painting by Anglo-Swiss artist Henry Fuseli (1741–1825). Since its creation, it has remained Fuseli's best-known work. With its first exhibition in 1782 at the Royal Academy of London, the image became famous; an engraved version was widely distributed and the painting was parodied in political satire. Due to its fame, Fuseli painted at least three other versions of the painting. Interpretation of The Nightmare have varied widely.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/John_Henry_Fuseli_-_The_Nightmare.JPG/200px-John_Henry_Fuseli_-_The_Nightmare.JPG</field>
+<field name="link_external">http://sites.google.com/site/beautyandterror/Home/reason</field>
+<field name="link_external">http://onlinelibrary.wiley.com/doi/10.1111/j.1467-8365.2011.00854.x/abstract</field>
+<field name="link_external">http://www.copia-di-arte.com/kunst/giulio_romano/dream_hecuba_hi.jpg</field>
+<field name="link_external">http://content.cdlib.org/xtf/data/13030/00/ft4199n900/figures/ft4199n900_fig72.jpg</field>
+<field name="link_external">http://www.tate.org.uk/britain/exhibitions/gothicnightmares/</field>
+<field name="link_external">http://www.suicidepreventtriangle.org/Img01.gif</field>
+<field name="link_external">http://digital.library.mcgill.ca/gillray/images/napb03063.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henry_Fuseli</field>
+<field name="image"/>
+<field name="imageSize">330</field>
+<field name="museum">http://dbpedia.org/resource/Detroit_Institute_of_Arts</field>
+<field name="title">The Nightmare</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Nightmare</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_pesadilla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ο_Εφιάλτης</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Cauchemar_(Füssli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Nocna_mara_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Ночной_кошмар_(Фюссли)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Nightmare</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2317837</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/الكابوس_(فيلم)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Kâbus_(tablo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Нічний_кошмар_(картина_Фюзелі)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nightmare</field>
+</doc>
+</add>

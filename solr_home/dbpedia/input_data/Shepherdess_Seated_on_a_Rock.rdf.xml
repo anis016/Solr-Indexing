@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Shepherdess_Seated_on_a_Rock</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Shepherdess_Seated_on_a_Rock</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shepherdess_Seated_on_a_Rock</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02ppzn8</field>
+<field name="sameAs">http://dbpedia.org/resource/Shepherdess_Seated_on_a_Rock</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Shepherdess_Seated_on_a_Rock</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7494497</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean-Fran%C3%A7ois_Millet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1856_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="abstract">Shepherdess Seated on a Rock is an 1856 painting by Jean-François Millet, one of the painters of the Barbizon school, who reinvigorated the genre of landscape painting.</field>
+<field name="label">Shepherdess Seated on a Rock</field>
+<field name="comment">Shepherdess Seated on a Rock is an 1856 painting by Jean-François Millet, one of the painters of the Barbizon school, who reinvigorated the genre of landscape painting.</field>
+<field name="link_external">http://www.metmuseum.org/Works_Of_Art/viewOne.asp?dep=11&amp;viewmode=1&amp;item=1983.446&amp;section=prov</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Shepherdess_Seated_on_a_Rock</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Shepherdess_Seated_on_a_Rock</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7494497</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Shepherdess_Seated_on_a_Rock</field>
+</doc>
+</add>

@@ -1,0 +1,108 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cardsharps</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Grający_w_karty_(obraz_Caravaggia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Os_Trapaceiros</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Paginarum_lusores_(Caravaggius)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Jugadores_de_cartas</field>
+<field name="sameAs">http://th.dbpedia.org/resource/คนโกงไพ่_(คาราวัจโจ)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q663133</field>
+<field name="sameAs">http://it.dbpedia.org/resource/I_bari</field>
+<field name="sameAs">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Cardsharps_(Caravaggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08sswy</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Grający_w_karty_(obraz_Caravaggia)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Tricheurs_(Le_Caravage)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1590s_paintings</field>
+<field name="abstract">The Cardsharps (painted around 1594) is a painting by the Italian Baroque artist Michelangelo Merisi da Caravaggio.</field>
+<field name="label">Cardsharps (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e8/The_Cardsharps.jpg</field>
+<field name="comment">The Cardsharps (painted around 1594) is a painting by the Italian Baroque artist Michelangelo Merisi da Caravaggio.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/The_Cardsharps.jpg/200px-The_Cardsharps.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/42365/rec/5</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/96665</field>
+<field name="artist">http://dbpedia.org/resource/Caravaggio</field>
+<field name="city">http://dbpedia.org/resource/Fort_Worth,_Texas</field>
+<field name="height">94</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Kimbell_Art_Museum</field>
+<field name="title">The Cardsharps</field>
+<field name="width">131</field>
+<field name="year">c. 1594</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Cardsharps_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cardsharps_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Jugadores_de_cartas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Cardsharps</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Tricheurs_(Le_Caravage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/I_bari</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Cardsharps_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cardsharps_(Carrivaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Os_Trapaceiros</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q663133</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Paginarum_lusores_(Caravaggius)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/คนโกงไพ่_(คาราวัจโจ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cardsharps_(Caravaggio)</field>
+</doc>
+</add>

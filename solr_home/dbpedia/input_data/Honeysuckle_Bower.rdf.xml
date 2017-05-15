@@ -1,0 +1,96 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Autoritratto_con_la_moglie_Isabella_Brant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Honeysuckle_Bower</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Автопортрет_с_Изабеллой_Брант</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Honeysuckle_Bower</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Honeysuckle_Bower</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Autorretrato_con_su_esposa_Isabel_Brant</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q4tbs</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Автопортрет_з_Ізабеллою_Брант</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Autoritratto_con_la_moglie_Isabella_Brant</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Автопортрет_с_Изабеллой_Брант</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q571416</field>
+<field name="sameAs">http://dbpedia.org/resource/Honeysuckle_Bower</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Autoretrat_amb_la_seva_esposa_Isabella_Brant</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Rubens_und_Isabella_Brant_in_der_Geißblattlaube</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Honeysuckle_Bower</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Peter_Paul_Rubens</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:17th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="abstract">The Honeysuckle Bower (ca. 1609) is a self-portrait of the Flemish Baroque painter Peter Paul Rubens and his first wife Isabella Brant. They wed on 3 October 1609, in St. Michael's Abbey in Antwerp, shortly after he had returned to the city after eight years in Italy. The painting is a full-length double portrait of the couple seated in a bower of honeysuckle. They are surrounded by love and marriage symbolism: the honeysuckle and garden are both traditional symbols of love, and the holding of right hands (junctio dextrarum) represents union through marriage. Additionally, Rubens depicts himself as an aristocratic gentleman with his left hand on the hilt of his sword.</field>
+<field name="label">Honeysuckle Bower</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/55/Peter_Paul_Rubens_105.jpg</field>
+<field name="comment">The Honeysuckle Bower (ca. 1609) is a self-portrait of the Flemish Baroque painter Peter Paul Rubens and his first wife Isabella Brant. They wed on 3 October 1609, in St. Michael's Abbey in Antwerp, shortly after he had returned to the city after eight years in Italy. The painting is a full-length double portrait of the couple seated in a bower of honeysuckle.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Peter_Paul_Rubens_105.jpg/200px-Peter_Paul_Rubens_105.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Peter_Paul_Rubens</field>
+<field name="city">http://dbpedia.org/resource/Munich</field>
+<field name="height">178</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Alte_Pinakothek</field>
+<field name="title">The Honeysuckle Bower</field>
+<field name="width">136.5</field>
+<field name="year">ca. 1609</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Honeysuckle_Bower</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Honeysuckle_Bower</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Rubens_und_Isabella_Brant_in_der_Geißblattlaube</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Honeysuckle_Bower</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Autorretrato_con_su_esposa_Isabel_Brant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Honeysuckle_Bower</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Honeysuckle_Bower</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Honeysuckle_Bower</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Huneysuckle_Bower</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rubens_and_Isabella_Brant_in_the_Honeysuckle_Bower</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Autoretrat_amb_la_seva_esposa_Isabella_Brant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Honeysuckle_Bower</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Автопортрет_з_Ізабеллою_Брант</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Honeysuckle_Bower</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q571416</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Honeysuckle_Bower</field>
+</doc>
+</add>

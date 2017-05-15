@@ -1,0 +1,31 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Poet_Reclining</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7757572</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Poet_Reclining</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Poet_Reclining</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.043qkst</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1915_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Marc_Chagall</field>
+<field name="abstract">The Poet Reclining (Le Poète allongé) is a painting by Marc Chagall, painted in oils in 1915. It is on display at the Tate Modern in London as part of their "Poetry and Dream" collection.</field>
+<field name="label">The Poet Reclining</field>
+<field name="comment">The Poet Reclining (Le Poète allongé) is a painting by Marc Chagall, painted in oils in 1915. It is on display at the Tate Modern in London as part of their "Poetry and Dream" collection.</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=2143&amp;tabview=work</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Poet_Reclining</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Poet_Reclining</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Poet_Reclining</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Poet_Reclining</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7757572</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Poet_Reclining</field>
+</doc>
+</add>

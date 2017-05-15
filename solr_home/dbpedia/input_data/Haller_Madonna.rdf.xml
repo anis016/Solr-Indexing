@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Haller_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3842403</field>
+<field name="sameAs">http://dbpedia.org/resource/Haller_Madonna</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gyw8nl</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Haller_Madonna</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_Haller</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="abstract">The Haller Madonna is an oil painting by Albrecht Dürer, dating to around 1498. It is now in the National Gallery of Art, Washington, DC.</field>
+<field name="label">Haller Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3c/Madonna_Haller.jpg</field>
+<field name="comment">The Haller Madonna is an oil painting by Albrecht Dürer, dating to around 1498. It is now in the National Gallery of Art, Washington, DC.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Madonna_Haller.jpg/200px-Madonna_Haller.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=41598</field>
+<field name="artist">http://dbpedia.org/resource/Albrecht_D%C3%BCrer</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">50</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Haller Madonna</field>
+<field name="type">Oil on panel</field>
+<field name="width">40</field>
+<field name="year">before 1505</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Haller_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Haller_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Haller_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Haller_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_Haller</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Haller_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3842403</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Haller_Madonna</field>
+</doc>
+</add>

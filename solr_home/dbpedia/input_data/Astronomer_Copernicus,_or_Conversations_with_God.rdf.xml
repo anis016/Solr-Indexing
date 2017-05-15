@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Astronom_Kopernik,_czyli_rozmowa_z_Bogiem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Astronomer_Copernicus,_or_Conversations_with_God</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Astronom_Kopernik,_czyli_rozmowa_z_Bogiem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Astronomer_Copernicus,_or_Conversations_with_God</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6609114</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Astronom_Kopernik,_czyli_rozmowa_z_Bogiem</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Astronomer_Copernicus,_or_Conversations_with_God</field>
+<field name="sameAs">http://dbpedia.org/resource/Astronomer_Copernicus,_or_Conversations_with_God</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h6519c</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nicolaus_Copernicus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1873_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jan_Matejko</field>
+<field name="abstract">Astronomer Copernicus, or Conversations with God (Polish: Astronom Kopernik, czyli rozmowa z Bogiem) is an oil painting by the Polish artist Jan Matejko, finished in 1873, depicting Nicolaus Copernicus observing the heavens from a balcony by a tower near the cathedral in Frombork (seen in the back). Currently the painting is in the collection of the Jagiellonian University of Kraków, which purchased it from a private owner with money donated by the Polish public. The painting presently adorns the Aula of the Collegium Novum of the University. As with many other works, Matejko painted his artwork in 1872 as part of a series of paintings intended to represent profound moments in the history of Poland.</field>
+<field name="label">Astronomer Copernicus, or Conversations with God</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/88/Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg</field>
+<field name="comment">Astronomer Copernicus, or Conversations with God (Polish: Astronom Kopernik, czyli rozmowa z Bogiem) is an oil painting by the Polish artist Jan Matejko, finished in 1873, depicting Nicolaus Copernicus observing the heavens from a balcony by a tower near the cathedral in Frombork (seen in the back). Currently the painting is in the collection of the Jagiellonian University of Kraków, which purchased it from a private owner with money donated by the Polish public.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg/200px-Jan_Matejko-Astronomer_Copernicus-Conversation_with_God.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Jan_Matejko</field>
+<field name="image"/>
+<field name="imageSize">330</field>
+<field name="museum">http://dbpedia.org/resource/Jagiellonian_University</field>
+<field name="museum">http://dbpedia.org/resource/Collegium_Novum</field>
+<field name="title">Astronomer Copernicus, or Conversations with God</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Astronomer_Copernicus,_or_Conversations_with_God</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Astronomer_Copernicus,_or_Conversations_with_God</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Astronomer_Copernicus,_or_Conversations_with_God</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Astronomer_Copernicus,_or_Conversations_with_God</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6609114</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Astronomer_Copernicus,_or_Conversations_with_God</field>
+</doc>
+</add>

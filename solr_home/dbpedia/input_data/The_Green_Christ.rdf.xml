@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Zielony_Chrystus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Green_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Green_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://he.dbpedia.org/resource/ישו_הירוק</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ο_Πράσινος_Χριστός</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2504917</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gkq1_</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_groene_Christus_(Bretoense_kruisweg)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Green_Christ</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Green_Christ</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Zielony_Chrystus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_Gauguin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="abstract">The Green Christ is a painting executed by Paul Gauguin in autumn 1889 in Pont-Aven, Brittany, France. Together with The Yellow Christ, it is considered to be one of the key-works of Symbolism in painting. It depicts a Breton woman at the foot of a calvary, or sculpture of Christ's crucifixion. Calvaries are common in town squares in Brittany. Topographically, the site depicted is the Atlantic coast at Le Pouldu. But the calvary depicted is an amalgam of calvaires from different site; the cross is based upon that in the centre of Névez, a community close to Pont-Aven and several miles from the coast, and the figure of Christ is based upon the calvaire at Briec - also some distance from the sea.</field>
+<field name="label">The Green Christ</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/10/Paul_Gauguin_028.jpg</field>
+<field name="comment">The Green Christ is a painting executed by Paul Gauguin in autumn 1889 in Pont-Aven, Brittany, France. Together with The Yellow Christ, it is considered to be one of the key-works of Symbolism in painting. It depicts a Breton woman at the foot of a calvary, or sculpture of Christ's crucifixion. Calvaries are common in town squares in Brittany. Topographically, the site depicted is the Atlantic coast at Le Pouldu.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Paul_Gauguin_028.jpg/200px-Paul_Gauguin_028.jpg</field>
+<field name="artist"/>
+<field name="height">92</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Green Christ</field>
+<field name="type">Oil on canvas</field>
+<field name="width">73</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Green_Christ</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Green_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Christ_vert</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ο_Πράσινος_Χριστός</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Green_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Green_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Green_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_groene_Christus_(Bretoense_kruisweg)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Green_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2504917</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Green_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/ישו_הירוק</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Green_Christ</field>
+</doc>
+</add>

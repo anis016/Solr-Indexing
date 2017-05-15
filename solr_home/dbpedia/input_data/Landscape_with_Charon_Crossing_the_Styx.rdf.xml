@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_paso_de_la_laguna_Estigia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_Charon_Crossing_the_Styx</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_with_Charon_Crossing_the_Styx</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Passaggio_agli_Inferi</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Landscape_with_Charon_Crossing_the_Styx</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_paso_de_la_laguna_Estigia</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3whbv</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_Charon_Crossing_the_Styx</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3897210</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_paintings</field>
+<field name="abstract">Landscape with Charon Crossing the Styx is a painting by the Flemish Northern Renaissance artist Joachim Patinir. Dating to c. 1515-1524, it is currently housed in the Museo del Prado of Madrid, Spain. Landscape with Charon Crossing Styx fits into common Northern Renaissance and early Mannerist trends of art. The 16th century witnessed a new era for painting in Germany and the Netherlands that combined influences from local traditions and foreign influences. Many artists, including Patinir, traveled to Italy to study and these travels to the south provided new ideas, particular concerning representations of the natural world. Patinir's religious subjects, therefore, incorporate precise observation and naturalism with fantastic landscapes inspired by the northern traditions of Bosch.</field>
+<field name="label">Landscape with Charon Crossing the Styx</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1b/Crossing_the_River_Styx.jpg</field>
+<field name="comment">Landscape with Charon Crossing the Styx is a painting by the Flemish Northern Renaissance artist Joachim Patinir. Dating to c. 1515-1524, it is currently housed in the Museo del Prado of Madrid, Spain. Landscape with Charon Crossing Styx fits into common Northern Renaissance and early Mannerist trends of art. The 16th century witnessed a new era for painting in Germany and the Netherlands that combined influences from local traditions and foreign influences.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Crossing_the_River_Styx.jpg/200px-Crossing_the_River_Styx.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Joachim_Patinir</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">64</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">Landscape with Charon Crossing the Styx</field>
+<field name="width">103</field>
+<field name="year">c. 1515-1524</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Landscape_with_Charon_Crossing_the_Styx</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Landscape_with_Charon_Crossing_the_Styx</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Charon_Crossing_the_Styx</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Passaggio_agli_Inferi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_Charon_Crossing_the_Styx</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Landscape_with_Charon_Crossing_the_Styx</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Landscape_with_Charon_Crossing_the_Styx</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3897210</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_Charon_Crossing_the_Styx</field>
+</doc>
+</add>

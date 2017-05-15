@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Schiavona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05mwv6t</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Schiavona</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_Schiavona</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Слов'янка_(картина)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/La_Schiavona</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1633898</field>
+<field name="sameAs">http://no.dbpedia.org/resource/La_Schiavona</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_Schiavona</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Titian_portraits</field>
+<field name="abstract">Portrait of a Lady, also known as La Schiavona (the woman from Dalmatia), is a 1510–12 portrait by Titian of an unknown woman. Its subject is shown three-quarter length and in relief (inspired by ancient cameos) on a raised section of the parapet. The parapet is original, though the raised section appears to be a revision by Titian himself (drapery painted under it can now be seen through it). It is signed TV on the parapet. It was presented to the National Gallery in London in 1942 by Sir Francis Cook, Bt, in memory of his father Herbert, via the Art Fund – it is still in the Gallery's collection, as NG5385. From October 2009 to January 2010, La Schiavona was loaned to the Henry Moore Institute in Leeds to be shown as part of an exhibition called "Sculpture In Painting".</field>
+<field name="label">La Schiavona</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0c/Tizian_073.jpg</field>
+<field name="comment">Portrait of a Lady, also known as La Schiavona (the woman from Dalmatia), is a 1510–12 portrait by Titian of an unknown woman. Its subject is shown three-quarter length and in relief (inspired by ancient cameos) on a raised section of the parapet. The parapet is original, though the raised section appears to be a revision by Titian himself (drapery painted under it can now be seen through it). It is signed TV on the parapet.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Tizian_073.jpg/200px-Tizian_073.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=NG5385</field>
+<field name="link_external">http://www.googleartproject.com/museums/nationalgallery/portrait-of-a-lady-la-schiavona-214</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Portrait of a Lady</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_Schiavona</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_Schiavona</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_Schiavona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Schiavona</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_Schiavona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_Schiavona</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1633898</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Schiavona</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/La_Schiavona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Schiavona</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/La_Schiavona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Schiavona</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Слов'янка_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Schiavona</field>
+</doc>
+</add>

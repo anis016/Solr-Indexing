@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Siren_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Siren_(Waterhouse_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Siren_(Waterhouse_painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7764509</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Siren_(Waterhouse_painting)</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Siren_(Waterhouse)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047s70s</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_William_Waterhouse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1900_paintings</field>
+<field name="abstract">The Siren is a painting by John William Waterhouse. The painting depicts a siren sitting at the edge of a cliff, lyre in hand and staring down at a shipwrecked sailor floating in water, who in turn is staring up at her. According to the William Waterhouse's website, this picture was painted in 1900 and is now in a private collection. The estimated sale price for the painting in 2003 was one million pounds.</field>
+<field name="label">The Siren (Waterhouse painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/65/The_Siren.jpg</field>
+<field name="comment">The Siren is a painting by John William Waterhouse. The painting depicts a siren sitting at the edge of a cliff, lyre in hand and staring down at a shipwrecked sailor floating in water, who in turn is staring up at her. According to the William Waterhouse's website, this picture was painted in 1900 and is now in a private collection. The estimated sale price for the painting in 2003 was one million pounds.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/65/The_Siren.jpg/200px-The_Siren.jpg</field>
+<field name="artist">http://dbpedia.org/resource/John_William_Waterhouse</field>
+<field name="image"/>
+<field name="imageSize">240</field>
+<field name="title">The Siren</field>
+<field name="year">circa 1900</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Siren_(Waterhouse_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Siren_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Siren_(Waterhouse_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Siren_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7764509</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Siren_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Siren_(Waterhouse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Siren_(Waterhouse_painting)</field>
+</doc>
+</add>

@@ -1,0 +1,92 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Madona_cu_rozariul</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08srs2</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q698228</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Madonna_del_Rosario_(Caravaggio)</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_du_rosaire</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_Różańcowa_(obraz_Caravaggia)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Rosario_(Caravaggio)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/แม่พระแห่งลูกประคำ_(การาวัจโจ)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Rosenkranzmadonna_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1607_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">The Madonna of the Rosary is a painting finished in 1607 by the Italian Baroque painter Caravaggio, now in the Kunsthistorisches Museum in Vienna. The commissioner of the work is uncertain. According to some, it was Nicholas (or Nicholas) Radulovic, a rich merchant of Ragusa (now Dubrovnik in Croatia, and the first idea for the composition was a Madonna Enthroned with Saints Nicholas and Vito, then the subject was changed to reflect the wishes of the Dominicans. According to others, and perhaps more likely, it was made to decorate the family chapel in the Neapolitan church of San Domenico Maggiore, commissioned by Luigi Carafa-Column, relative of Martino Colonna, Overlord of Palestrina, Zagarolo and Paliano, where the painter had taken refuge after escaping from Rome. The large column to the left may be a reference to the Colonna family; it is linked to the big red drape that dominates the scene almost like a sail. The Feast of the Rosary was established in 1571 after the Battle of Lepanto, and Luigi Carafa-column was a relative of Marcantonio Colonna, a leading admiral in the battle. Another possibility is Cesare d'Este, Duke of Modena. The Madonna is seated on a throne, and seems to give assent with a wave of the hand to Saint Dominic who is dressed in his usual habit and holding a rosary. The faithful turn to him for grace, kneeling, with a donor portrait at far left, of a man in black with a ruff. On the right is St Peter Martyr with a large scar on his forehead, which indicates the Virgin who is out of the picture. Behind him are other Dominicans. THe painting was likely done between the 8th of January and mid-July of 1607, that is between the completion of the Seven Works of Mercy and the departure of painter for Malta. Something must have gone wrong with the original commission as the painting was very soon on the market and bought by a Flemish consortium that included Rubens. After being offered to Vincenzo I Gonzaga, Duke of Mantua, it was taken to Antwerp and offered to the Dominican church there.</field>
+<field name="label">Madonna of the Rosary (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/52/Michelangelo_Caravaggio_066.jpg</field>
+<field name="comment">The Madonna of the Rosary is a painting finished in 1607 by the Italian Baroque painter Caravaggio, now in the Kunsthistorisches Museum in Vienna. The commissioner of the work is uncertain. According to some, it was Nicholas (or Nicholas) Radulovic, a rich merchant of Ragusa (now Dubrovnik in Croatia, and the first idea for the composition was a Madonna Enthroned with Saints Nicholas and Vito, then the subject was changed to reflect the wishes of the Dominicans.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Michelangelo_Caravaggio_066.jpg/200px-Michelangelo_Caravaggio_066.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">364.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna of the Rosary</field>
+<field name="type">Oil on canvas</field>
+<field name="width">249.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_the_Rosary_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_the_Rosary_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Rosenkranzmadonna_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_du_rosaire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Rosario_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Madonna_del_Rosario_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_Różańcowa_(obraz_Caravaggia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_the_Rosary_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q698228</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Madona_cu_rozariul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/แม่พระแห่งลูกประคำ_(การาวัจโจ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Rosary_(Caravaggio)</field>
+</doc>
+</add>

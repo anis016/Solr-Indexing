@@ -1,0 +1,36 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Scene_from_Shakespeare's_The_Tempest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scene_from_Shakespeare's_The_Tempest</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Scene_from_Shakespeare's_The_Tempest</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7430749</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rq9k7</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="abstract">Scene from Shakespeare's The Tempest is a painting by William Hogarth, an 18th century English painter. Hogarth painted this work as a special project for one of his devoted band of patrons - The Earl of Macclesfield. The painting had hung on the walls of Nostell Priory, near Wakefield, West Yorkshire, England, since 1766, when it was bought by the owner, the 5th Baron, Lord St Oswald. In 2002, the painting was rescued for the nation, and bought by the National Trust, with a grant from the charity, Art Fund, when the current Lord St Oswald announced his wish to sell it. It is thought that Hogarth was hoping that more commissions for similar scenes would come flowing in after painting this scene, but unfortunately this did not happen, although the painting is a rich and vibrant example of the artist's work. The scene depicted, from William Shakespeare's The Tempest, shows Caliban glowering behind Miranda, and on the left of the picture, her adoring Ferdinand, and father Prospero. Ariel is shown floating above the figures, playing the lute.</field>
+<field name="label">Scene from Shakespeare's The Tempest</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/92/William_Hogarth_017.jpg</field>
+<field name="comment">Scene from Shakespeare's The Tempest is a painting by William Hogarth, an 18th century English painter. Hogarth painted this work as a special project for one of his devoted band of patrons - The Earl of Macclesfield. The painting had hung on the walls of Nostell Priory, near Wakefield, West Yorkshire, England, since 1766, when it was bought by the owner, the 5th Baron, Lord St Oswald.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/William_Hogarth_017.jpg/200px-William_Hogarth_017.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Scene_from_Shakespeare's_The_Tempest</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Scene_from_Shakespeare's_The_Tempest</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/(scene_from_Shakespeare's_The_Tempest)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Scene_from_Shakespeare's_The_Tempest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Scene_from_Shakespeare's_The_Tempest</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7430749</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Scene_from_Shakespeare's_The_Tempest</field>
+</doc>
+</add>

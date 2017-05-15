@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gassed_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Gassed_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0by0c0c</field>
+<field name="sameAs">http://dbpedia.org/resource/Gassed_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5526647</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Singer_Sargent</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Imperial_War_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1919_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:World_War_I_chemical_weapons</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="abstract">Gassed is a very large oil painting completed in March 1919 by John Singer Sargent. It depicts the aftermath of a mustard gas attack during the First World War, with a line of wounded soldiers walking towards a dressing station. Sargent was commissioned by the British War Memorials Committee to document the war and visited the Western Front in July 1918 spending time with the Guards Division near Arras, and then with the American Expeditionary Forces near Ypres. The painting was finished in March 1919 and voted picture of the year by the Royal Academy of Arts in 1919. It is now held by the Imperial War Museum.</field>
+<field name="label">Gassed (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/89/Sargent,_John_Singer_(RA)_-_Gassed_-_Google_Art_Project.jpg</field>
+<field name="comment">Gassed is a very large oil painting completed in March 1919 by John Singer Sargent. It depicts the aftermath of a mustard gas attack during the First World War, with a line of wounded soldiers walking towards a dressing station. Sargent was commissioned by the British War Memorials Committee to document the war and visited the Western Front in July 1918 spending time with the Guards Division near Arras, and then with the American Expeditionary Forces near Ypres.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/89/Sargent,_John_Singer_(RA)_-_Gassed_-_Google_Art_Project.jpg/200px-Sargent,_John_Singer_(RA)_-_Gassed_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.iwm.org.uk/server/show/ConMediaFile.36273</field>
+<field name="artist">http://dbpedia.org/resource/John_Singer_Sargent</field>
+<field name="city"/>
+<field name="height">231</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="museum">http://dbpedia.org/resource/Imperial_War_Museum</field>
+<field name="title">Gassed</field>
+<field name="width">611</field>
+<field name="year">c. March 1919</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Gassed_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Gassed_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Gassed_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Gassed_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5526647</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gassed_(painting)</field>
+</doc>
+</add>

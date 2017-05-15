@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ascanius_shooting_the_stag_of_sylvia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ascanius_Shooting_the_Stag_of_Sylvia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ascanius_Shooting_the_Stag_of_Sylvia</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ascanius_Shooting_the_Stag_of_Sylvia</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.063_my1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4803790</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1680s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Ashmolean_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Lorrain</field>
+<field name="abstract">Landscape with Ascanius Shooting the Stag of Sylvia is an 1682 oil on canvas painting by Claude Lorrain, a painter of the style of Classicism. It depicts a scene from book 7, verses 483–499, of Virgil's epic poem the Aeneid, where Aeneas's son Ascanius shoots Silvia's pet stag, provoking a war against Latium. Painted for Lorenzo Onofrio Colonna (1637–1689), it was Lorrain's's last painting. It was a pendant to Lorrain's earlier painting ' (1676) The painting is in the Ashmolean Museum in Oxford.</field>
+<field name="label">Ascanius Shooting the Stag of Sylvia</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ee/Ascanius_Shooting_the_Stag_of_Sylvia_1682_Claude_Lorrain.jpg</field>
+<field name="comment">Landscape with Ascanius Shooting the Stag of Sylvia is an 1682 oil on canvas painting by Claude Lorrain, a painter of the style of Classicism. It depicts a scene from book 7, verses 483–499, of Virgil's epic poem the Aeneid, where Aeneas's son Ascanius shoots Silvia's pet stag, provoking a war against Latium. Painted for Lorenzo Onofrio Colonna (1637–1689), it was Lorrain's's last painting. It was a pendant to Lorrain's earlier painting ' (1676) The painting is in the Ashmolean Museum in Oxford.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Ascanius_Shooting_the_Stag_of_Sylvia_1682_Claude_Lorrain.jpg/200px-Ascanius_Shooting_the_Stag_of_Sylvia_1682_Claude_Lorrain.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ascanius_Shooting_the_Stag_of_Sylvia</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ascanius_Shooting_the_Stag_of_Sylvia</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ascanius_Shooting_the_Stag_of_Sylvia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ascanius_Shooting_the_Stag_of_Sylvia</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4803790</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ascanius_Shooting_the_Stag_of_Sylvia</field>
+</doc>
+</add>

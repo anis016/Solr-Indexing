@@ -1,0 +1,34 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Le_Nain)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4684626</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hr1_mt</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Shepherds_(Le_Nain)</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Le_Nain)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nativity_of_Jesus_in_art</field>
+<field name="abstract">The Adoration of the Shepherds by the Le Nain Brothers is in the National Gallery in London. The painting dates from about 1640, and is relatively unusual as a religious subject or history painting in their oeuvre; they are best known for genre painting, especially groups of peasants. As with most of the works of Antoine (c 1600-1648), Louis (c. 1603?-1648) and Mathieu (1607-1677) Le Nain, it is not possible to establish which brother, or combination of brothers, painted it. This painting is unsigned, but when they signed their works, from 1641 to 1648, it was simply as Lenain.</field>
+<field name="label">Adoration of the Shepherds (Le Nain)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/54/Le_Nain_Adoration_NG.jpg</field>
+<field name="comment">The Adoration of the Shepherds by the Le Nain Brothers is in the National Gallery in London. The painting dates from about 1640, and is relatively unusual as a religious subject or history painting in their oeuvre; they are best known for genre painting, especially groups of peasants. As with most of the works of Antoine (c 1600-1648), Louis (c. 1603?-1648) and Mathieu (1607-1677) Le Nain, it is not possible to establish which brother, or combination of brothers, painted it.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Le_Nain_Adoration_NG.jpg/200px-Le_Nain_Adoration_NG.jpg</field>
+<field name="link_external">http://www.nationalgallery.org.uk/paintings/the-le-nain-brothers-the-adoration-of-the-shepherds</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Le_Nain)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Shepherds_(Le_Nain)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Le_Nain)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Le_Nain)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4684626</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Le_Nain)</field>
+</doc>
+</add>

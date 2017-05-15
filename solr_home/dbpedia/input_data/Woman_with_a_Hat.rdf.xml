@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_with_a_Hat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1437492</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Frau_mit_Hut_(Henri_Matisse)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Donna_con_cappello</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Woman_with_a_Hat</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Mulher_com_chapéu_(A_senhora_Matisse)</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Hat</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Γυναίκα_με_καπέλο_(Ανρί_Ματίς)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q98m4</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1905_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Woman with a Hat (La femme au chapeau) is a painting by Henri Matisse. An oil on canvas, it depicts Matisse's wife, Amelie. It was painted in 1905 and exhibited with the work of André Derain, Maurice de Vlaminck, and several other artists, now known as "Fauves" at the 1905 Salon d'Automne. Critic Louis Vauxcelles, in comparing the paintings of Matisse and his associates with a Renaissance-type sculpture that shared the room with them, used with the phrase "Donatello au milieu des fauve !" (Donatello among the wild beasts). His comment was printed on 17 October 1905 in Gil Blas, a daily newspaper, and passed into popular usage. Although the Fauve works on display were condemned by many—"A pot of paint has been flung in the face of the public", declared the critic Camille Mauclair—they also gained some favorable attention. The painting that was singled out for attacks was Matisse's Woman with a Hat, which was bought by Gertrude and Leo Stein: this had a very positive effect on Matisse's morale, which had suffered with the bad reception of his work. Gertrude and Leo's sister-in law Sarah Stein (the wife of their elder brother Michael) claimed to have been the original purchaser of this painting, not Gertrude (Leo did not like the painting at first). One can see it in photographs of Sarah and Michael's home on Rue Madame. It was a centerpiece in Sarah's home in Palo Alto, California for many years. Sarah Stein later sold the painting to her friend Elise Haas who donated it to SFMOMA.</field>
+<field name="label">Woman with a Hat</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fb/Matisse-Woman-with-a-Hat.jpg</field>
+<field name="comment">Woman with a Hat (La femme au chapeau) is a painting by Henri Matisse. An oil on canvas, it depicts Matisse's wife, Amelie. It was painted in 1905 and exhibited with the work of André Derain, Maurice de Vlaminck, and several other artists, now known as "Fauves" at the 1905 Salon d'Automne.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Matisse-Woman-with-a-Hat.jpg/200px-Matisse-Woman-with-a-Hat.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="height">79.4</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/San_Francisco_Museum_of_Modern_Art</field>
+<field name="title">Woman with a Hat</field>
+<field name="width">59.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Woman_with_a_Hat</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Woman_with_a_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Frau_mit_Hut_(Henri_Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Γυναίκα_με_καπέλο_(Ανρί_Ματίς)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Donna_con_cappello</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Mulher_com_chapéu_(A_senhora_Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Woman_with_a_Hat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Woman_with_a_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1437492</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_with_a_Hat</field>
+</doc>
+</add>

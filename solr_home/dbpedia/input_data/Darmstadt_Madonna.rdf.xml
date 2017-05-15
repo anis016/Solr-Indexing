@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_del_burgomaestre_Meyer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Darmstadt_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Darmstädter_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Darmstadt_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Darmstadt_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Darmstadt_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_et_l'Enfant_avec_la_famille_du_bourgmestre_Meyer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Darmstadt_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Darmstadt_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_del_burgomaestre_Meyer</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Darmstadt_Madonna</field>
+<field name="sameAs">http://dbpedia.org/resource/Darmstadt_Madonna</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Darmstädter_Madonna</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q455319</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bwm9lv</field>
+<field name="sameAs">http://als.dbpedia.org/resource/Darmstädter_Madonna</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/다름슈타트_마돈나</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_et_l'Enfant_avec_la_famille_du_bourgmestre_Meyer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1526_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hans_Holbein_the_Younger</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="abstract">The Darmstadt Madonna (also known as the Madonna of Jakob Meyer zum Hasen) is an oil painting by Hans Holbein the Younger. Completed in 1526 in Basel, the work shows the Bürgermeister of Basel Jakob Meyer zum Hasen, his first wife (who had died earlier), his current wife, and his daughter grouped around the Madonna and infant Jesus. The meaning of the two other male figures on the left side is, like the overall iconography of the image, not entirely clear. The image testified to the resolutely Catholic faith of the Bürgermeister, who actively opposed the Reformation. The painting was influenced by Italian Renaissance religious painting, with elements of Netherlandish portrait painting. Earlier located in Darmstadt, whence its title, the work has been on temporary loan to the Städelschen Kunstinstitut in Frankfurt am Main since 2004 and until 2011. As of 2012, the painting is at display in the Johanniterkirche in Schwäbisch Hall.</field>
+<field name="label">Darmstadt Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4e/Darmstadtmadonna.jpg</field>
+<field name="comment">The Darmstadt Madonna (also known as the Madonna of Jakob Meyer zum Hasen) is an oil painting by Hans Holbein the Younger. Completed in 1526 in Basel, the work shows the Bürgermeister of Basel Jakob Meyer zum Hasen, his first wife (who had died earlier), his current wife, and his daughter grouped around the Madonna and infant Jesus. The meaning of the two other male figures on the left side is, like the overall iconography of the image, not entirely clear.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Darmstadtmadonna.jpg/200px-Darmstadtmadonna.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Hans_Holbein_the_Younger</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="title">Darmstadt madonna</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Darmstadt_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Darmstadt_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/다름슈타트_마돈나</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Darmstadt_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Meyer_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q455319</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Darmstadt_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://als.dbpedia.org/resource/Darmstädter_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Darmstadt_Madonna</field>
+</doc>
+</add>

@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_cortigiana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Courtesan_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Courtesan_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Ritratto_di_Cortigiana_(Caravaggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08_dvr</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_d'une_courtisane</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Courtesan_(Caravaggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Courtesan_(Caravaggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_una_cortesana</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_cortigiana</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2395137</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1590s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ancient_Roman_society</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">Portrait of a Courtesan (also known as Portrait of Fillide) was a painting by the Baroque master Michelangelo Merisi da Caravaggio. Painted between 1597 and 1599, it was destroyed in Berlin in 1945 and is known only from photographs. It has been suggested that the portrait represents the goddess Flora.</field>
+<field name="label">Portrait of a Courtesan (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/CARAVAGGIOFillede.jpg</field>
+<field name="comment">Portrait of a Courtesan (also known as Portrait of Fillide) was a painting by the Baroque master Michelangelo Merisi da Caravaggio. Painted between 1597 and 1599, it was destroyed in Berlin in 1945 and is known only from photographs. It has been suggested that the portrait represents the goddess Flora.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/CARAVAGGIOFillede.jpg/200px-CARAVAGGIOFillede.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Caravaggio</field>
+<field name="height">66</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of a Courtesan</field>
+<field name="width">53</field>
+<field name="year">c. 1597</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Courtesan_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Courtesan_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_d'une_courtisane</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Courtesan_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_una_cortesana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Courtesan_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Courtesan_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Courtesan_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2395137</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Courtesan_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Ritratto_di_Cortigiana_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Courtesan_(Caravaggio)</field>
+</doc>
+</add>

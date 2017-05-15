@@ -1,0 +1,86 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rw_p_</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1115595</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Paesaggio_con_la_fuga_in_Egitto</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_huida_a_Egipto_(Annibale_Carracci)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Втеча_Святої_Родини_в_Єгипет_(Аннібалє_Каррачі)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Annibale_Carracci</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Doria_Pamphilj_Gallery</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Flight_into_Egypt_in_art</field>
+<field name="abstract">The Flight into Egypt is a painting by the Italian Baroque painter Annibale Carracci. Dating from c. 1604, it is housed in the Galleria Doria Pamphilj of Rome. The painting was commissioned in 1603 by Cardinal Pietro Aldobrandini for the family chapel in his palace in Rome, later known as Palazzo Doria Pamphilj. The commission include six paintings in six lunettes, which were executed by Carracci and his pupils. The work is considered one of Carracci's most important contributions to the veduta genre, which was a model for Domenichino, Nicolas Poussin, Gaspard Dughet and others. The painter sought for the effect of a balanced, idyllic landscape beauty, with a perfect sentimental fusion of the holy characters, their stories and the landscape</field>
+<field name="label">The Flight into Egypt (Annibale Carracci)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/92/Annibale_Carracci_003.jpg</field>
+<field name="comment">The Flight into Egypt is a painting by the Italian Baroque painter Annibale Carracci. Dating from c. 1604, it is housed in the Galleria Doria Pamphilj of Rome. The painting was commissioned in 1603 by Cardinal Pietro Aldobrandini for the family chapel in his palace in Rome, later known as Palazzo Doria Pamphilj. The commission include six paintings in six lunettes, which were executed by Carracci and his pupils.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/92/Annibale_Carracci_003.jpg/200px-Annibale_Carracci_003.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=1373</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">122</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Flight into Egypt</field>
+<field name="type">Oil on canvas</field>
+<field name="width">230</field>
+<field name="year">c. 1604</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_huida_a_Egipto_(Annibale_Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Flight_into_Egypt_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Paesaggio_con_la_fuga_in_Egitto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Flight_into_Egypt_(Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Flight_into_Egypt_(Annibale_Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Flight_into_Egypt_(Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1115595</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Втеча_Святої_Родини_в_Єгипет_(Аннібалє_Каррачі)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Flight_into_Egypt_(Annibale_Carracci)</field>
+</doc>
+</add>

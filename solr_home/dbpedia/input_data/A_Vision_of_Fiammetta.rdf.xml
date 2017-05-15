@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Vision_of_Fiammetta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Vision_of_Fiammetta</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Vision_of_Fiammetta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qdrky</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Vision_of_Fiammetta</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Vision_of_Fiammetta</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4660495</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1878_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="abstract">A Vision of Fiammetta is an oil painting in the Pre-Raphaelite which was created by Dante Gabriel Rossetti in 1878. The painting was one half of one of Rossetti's "double works", accompanying his Ballads and Sonnets (1881). Maria Spartali Stillman modelled for the painting. The subject of painting is Boccacio's muse named Fiammetta.</field>
+<field name="label">A Vision of Fiammetta</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/13/A_Vision_of_Fiammetta_by_Dante_Gabriel_Rossetti.jpg</field>
+<field name="comment">A Vision of Fiammetta is an oil painting in the Pre-Raphaelite which was created by Dante Gabriel Rossetti in 1878. The painting was one half of one of Rossetti's "double works", accompanying his Ballads and Sonnets (1881). Maria Spartali Stillman modelled for the painting. The subject of painting is Boccacio's muse named Fiammetta.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/A_Vision_of_Fiammetta_by_Dante_Gabriel_Rossetti.jpg/200px-A_Vision_of_Fiammetta_by_Dante_Gabriel_Rossetti.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Dante_Gabriel_Rossetti</field>
+<field name="height">140</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum"/>
+<field name="title">A Vision of Fiammetta</field>
+<field name="width">91</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Vision_of_Fiammetta</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Vision_of_Fiammetta</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4660495</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Vision_of_Fiammetta</field>
+</doc>
+</add>

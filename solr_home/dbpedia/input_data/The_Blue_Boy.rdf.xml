@@ -1,0 +1,118 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Голубой_мальчик</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Thomas_Gainsborough</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Blue_Boy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Хлопчык_у_блакітным</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q604761</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Голубой_мальчик</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_joven_azul</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+<field name="sameAs">http://de.dbpedia.org/resource/The_Blue_Boy</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Blue_Boy</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_noi_blau</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Blue_Boy</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07nmx5</field>
+<field name="sameAs">http://is.dbpedia.org/resource/Blái_drengurinn</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Enfant_bleu_(peinture)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/The_Blue_Boy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1770_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:18th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Gainsborough</field>
+<field name="abstract">The Blue Boy (c. 1770) is an oil painting by Thomas Gainsborough. Perhaps Gainsborough's most famous work, it is thought to be a portrait of Jonathan Buttall (1752–1805), the son of a wealthy hardware merchant, although this has never been proven. It is a historical costume study as well as a portrait: the youth in his 17th-century apparel is regarded as Gainsborough's homage to Anthony Van Dyck, and in particular is very close to Van Dyck's portrait of Charles II as a boy. Gainsborough had already painted something on the canvas before beginning The Blue Boy, which he painted over. The painting itself is on a fairly large canvas for a portrait, measuring 48 inches wide by 70 inches tall. The portrait now resides in the Huntington Library, San Marino, California. Gainsborough painted the portrait in response to the advice of rival Joshua Reynolds, who had written: "It ought, in my opinion, to be indispensably observed, that the masses of light in a picture be always of a warm, mellow colour, yellow, red, or a yellowish white, and that the blue, the grey, or the green colours be kept almost entirely out of these masses, and be used only to support or set off these warm colours; and for this purpose, a small proportion of cold colour will be sufficient. Let this conduct be reversed; let the light be cold, and the surrounding colour warm, as we often see in the works of the Roman and Florentine painters, and it will be out of the power of art, even in the hands of Rubens and Titian, to make a picture splendid and harmonious. " The painting was in Jonathan Buttall's possession until he filed for bankruptcy in 1796. It was bought first by the politician John Nesbitt and then, in 1802, by the portrait painter John Hoppner. In about 1809 The Blue Boy entered the collection of the Earl Grosvenor and remained with his descendants until its sale by the second Duke of Westminster to the dealer Joseph Duveen in 1921. In 1919 the painting had inspired German film producer Friedrich Wilhelm Murnau to create his debut film Knabe in Blau (The Boy in Blue). In a move that caused a public outcry in Britain, it was then sold to the American railway pioneer Henry Edwards Huntington for $728,800 (£182,200), according to dealer Duveen's bill, a then-record price for any painting. (According to a mention in The New York Times, dated 11 November 1921, the purchase price was $640,000, which would be over $7.75 million in 2010. ) Before its departure to California in 1922, The Blue Boy was briefly put on display at the National Gallery where it was seen by 90,000 people; the Gallery's director Charles Holmes was moved to scrawl farewell words on the back of the painting: "Au Revoir, C.H.". It was this painting that moved pop artist Robert Rauschenberg toward painting. It is often paired with a painting by Thomas Lawrence called Pinkie which sits opposite to it at the Huntington Library.</field>
+<field name="label">The Blue Boy</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f3/Thomas_Gainsborough_008.jpg</field>
+<field name="comment">The Blue Boy (c. 1770) is an oil painting by Thomas Gainsborough. Perhaps Gainsborough's most famous work, it is thought to be a portrait of Jonathan Buttall (1752–1805), the son of a wealthy hardware merchant, although this has never been proven. It is a historical costume study as well as a portrait: the youth in his 17th-century apparel is regarded as Gainsborough's homage to Anthony Van Dyck, and in particular is very close to Van Dyck's portrait of Charles II as a boy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/Thomas_Gainsborough_008.jpg/200px-Thomas_Gainsborough_008.jpg</field>
+<field name="link_external">http://www.gardenofpraise.com/art39.htm</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">177.8</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Huntington_Library</field>
+<field name="title">The Blue Boy</field>
+<field name="type">oil on canvas</field>
+<field name="width">112.1</field>
+<field name="year">circa 1770</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Blue_Boy</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/The_Blue_Boy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jonathan_Buttall</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Blue_Boy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_joven_azul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Enfant_bleu_(peinture)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q604761</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Хлопчык_у_блакітным</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_noi_blau</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://is.dbpedia.org/resource/Blái_drengurinn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Blue_Boy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/The_Blue_Boy</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Blue_Boy</field>
+</doc>
+</add>

@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Prince_Philippe_Prosper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Prince_Philip_Prospero</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Prince_Philip_Prospero</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Prince_Philip_Prospero</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Prince_Philippe_Prosper</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Prince_Philip_Prospero</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_príncipe_Felipe_Próspero</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05p1bcb</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Retrato_de_Filipe,_o_Próspero</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3225899</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_dell'Infante_Filippo_Prospero</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1659_paintings</field>
+<field name="abstract">The Portrait of Prince Philip Prospero is a 1659 portrait of Philip Prospero, Prince of Asturias by Diego Velázquez. It is now in the Kunsthistorisches Museum in Vienna.</field>
+<field name="label">Portrait of Prince Philip Prospero</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/ca/Prince_Philip_Prospero_by_Diego_Velázquez.jpg</field>
+<field name="comment">The Portrait of Prince Philip Prospero is a 1659 portrait of Philip Prospero, Prince of Asturias by Diego Velázquez. It is now in the Kunsthistorisches Museum in Vienna.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Prince_Philip_Prospero_by_Diego_Velázquez.jpg/200px-Prince_Philip_Prospero_by_Diego_Velázquez.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Prince Philip Prospero,</field>
+<field name="title">or The infante Philip Prospero</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Prince_Philip_Prospero</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Prince_Philip_Prospero</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_prince_Philip_Prospero</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_príncipe_Felipe_Próspero</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Prince_Philip_Prospero</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Prince_Philip_Prospero</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Prince_Philip_Prospero</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_dell'Infante_Filippo_Prospero</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Prince_Philip_Prospero</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Retrato_de_Filipe,_o_Próspero</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Prince_Philip_Prospero</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3225899</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Prince_Philip_Prospero</field>
+</doc>
+</add>

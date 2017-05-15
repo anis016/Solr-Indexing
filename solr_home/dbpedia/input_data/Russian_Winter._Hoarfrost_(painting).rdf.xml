@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Invierno_Ruso_(Timkov)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Russian_Winter._Hoarfrost_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Russian_Winter._Hoarfrost_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Russian_Winter._Hoarfrost_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gwy_0x</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Inverno_russo_(Timkov)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3800929</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Invierno_Ruso_(Timkov)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Russian_Winter._Hoarfrost_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1969_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Nikolai_Timkov</field>
+<field name="abstract">Russian Winter. Hoarfrost is a painting by the Russian artist Nikolai Timkov (1912-1993), painted in 1969. It depicts a winter view of Tver land, a picturesque corner near the Academic Dacha.</field>
+<field name="label">Russian Winter. Hoarfrost (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/82/Timkov_Rwinter_rim02bw.jpg</field>
+<field name="comment">Russian Winter. Hoarfrost is a painting by the Russian artist Nikolai Timkov (1912-1993), painted in 1969. It depicts a winter view of Tver land, a picturesque corner near the Academic Dacha.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Timkov_Rwinter_rim02bw.jpg/200px-Timkov_Rwinter_rim02bw.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Nikolai_Timkov</field>
+<field name="city">http://dbpedia.org/resource/Russia</field>
+<field name="height">100</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">Russian Winter. Hoarfrost</field>
+<field name="width">150</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Russian_Winter._Hoarfrost_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Russian_Winter._Hoarfrost_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Russian_Winter._Hoarfrost_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Russian_Winter._Hoarfrost_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Inverno_russo_(Timkov)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Russian_Winter._Hoarfrost_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3800929</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Russian_Winter._Hoarfrost_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Roulin_Family_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Roulin_Family_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Roulin_Family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Roulin_Family_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3399534</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g3w3h</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Roulin_Family_(Van_Gogh_series)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ครอบครัวรูแลง</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portraits_de_la_famille_Roulin</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Roulin_Family_(Van_Gogh_series)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Fine_Arts,_Boston</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="abstract">The Roulin Family is group of portrait paintings Vincent van Gogh executed in Arles in 1888 and 1889 on Joseph, his wife Augustine and their three children: Armand, Camille and Marcelle. This series is unique in many ways. Although Van Gogh loved to paint portraits, it was difficult for financial and other reasons for him to find models. So, finding an entire family that agreed to sit for paintings, in fact for several sittings each was a bounty. Joseph Roulin became a particularly good, loyal and supporting friend to Van Gogh during his stay in Arles. To represent a man he truly admired was important to him. The family, with children ranging in age from four months to seventeen years, also gave him the opportunity to produce works of individuals in several different stages of life. Rather than making photographic-like works, Van Gogh used his imagination, colors and themes artistically and creatively to evoke desired emotions from the audience.</field>
+<field name="label">The Roulin Family (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a7/Vincent_van_Gogh_-_Portret_van_de_postbode_Joseph_Roulin.jpg</field>
+<field name="comment">The Roulin Family is group of portrait paintings Vincent van Gogh executed in Arles in 1888 and 1889 on Joseph, his wife Augustine and their three children: Armand, Camille and Marcelle. This series is unique in many ways. Although Van Gogh loved to paint portraits, it was difficult for financial and other reasons for him to find models. So, finding an entire family that agreed to sit for paintings, in fact for several sittings each was a bounty.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Vincent_van_Gogh_-_Portret_van_de_postbode_Joseph_Roulin.jpg/200px-Vincent_van_Gogh_-_Portret_van_de_postbode_Joseph_Roulin.jpg</field>
+<field name="link_external">http://terresdefemmes.blogs.com/mon_weblog/2008/06/pierre-michon-v.html</field>
+<field name="artist"/>
+<field name="height">81.2</field>
+<field name="image"/>
+<field name="imageSize">220</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston</field>
+<field name="title">Portrait of the Postman Joseph Roulin  F432</field>
+<field name="type">Oil on canvas</field>
+<field name="width">175</field>
+<field name="width">150</field>
+<field name="width">155</field>
+<field name="width">140</field>
+<field name="width">143</field>
+<field name="width">125</field>
+<field name="width">120</field>
+<field name="width">110</field>
+<field name="width">230</field>
+<field name="width">210</field>
+<field name="width">200</field>
+<field name="width">65.3</field>
+<field name="width">160</field>
+<field name="year">early August, 1888</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Roulin_Family_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Roulin_Family_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portraits_de_la_famille_Roulin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Roulin_Family_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3399534</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Roulin_Family_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ครอบครัวรูแลง</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Roulin_Family_(Van_Gogh_series)</field>
+</doc>
+</add>

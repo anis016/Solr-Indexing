@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Belvedere_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://he.dbpedia.org/resource/בלוודיר_(אשר)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Бельведер_(литография_Эшера)</field>
+<field name="sameAs">http://dbpedia.org/resource/Belvedere_(M._C._Escher)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03wbr9</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2919468</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Belvedere_(M.C._Escher)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Belvedere_(M._C._Escher)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Impossible_objects</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1958_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="abstract">Belvedere is a lithograph print by the Dutch artist M. C. Escher, first printed in May 1958. It shows a plausible-looking building which turns out to be impossible. In this print, Escher uses two-dimensional images to depict objects free of the confines of the three-dimensional world. The image is of a rectangular three-story building. The upper two floors are open at the sides with the top floor and roof supported by pillars. From the viewer's perspective, all the pillars on the middle floor are the same size at both the front and back, but the pillars at the back are set higher. The viewer also sees by the corners of the top floor that it is at a different angle than the rest of the structure. All these elements make it possible for all the pillars on the middle floor to stand at right angles, yet the pillars at the front support the back side of the top floor while the pillars at the back support the front side. This paradox also allows a ladder to extend from the inside of the middle floor to the outside of the top floor. There is a man seated at the foot of the building holding an impossible cube. He appears to be constructing it from a diagram of a Necker cube at his feet with the intersecting lines circled. The window next to him is closed with an iron grille which is geometrically valid but practically impossible to assemble. The woman who is about to climb the steps of the building is modeled after a figure from the right panel of Hieronymus Bosch’s 1500 triptych The Garden of Earthly Delights. This panel is individually titled Hell. A portion of Hell had earlier been recreated by Escher as a lithograph in 1935. The ridge in the background is part of Morrone Mountains in Abruzzo, that Escher had visited several times when living in Italy during the 20's and 30's.</field>
+<field name="label">Belvedere (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/52/Belvedere.jpg</field>
+<field name="comment">Belvedere is a lithograph print by the Dutch artist M. C. Escher, first printed in May 1958. It shows a plausible-looking building which turns out to be impossible. In this print, Escher uses two-dimensional images to depict objects free of the confines of the three-dimensional world. The image is of a rectangular three-story building. The upper two floors are open at the sides with the top floor and roof supported by pillars.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/52/Belvedere.jpg/200px-Belvedere.jpg</field>
+<field name="link_external">http://www.worldofescher.com/gallery/Belvedere.html</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="imageSize">192</field>
+<field name="title">Belvedere</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Belvedere_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Belvedere_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Belvedere</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Бельведер_(литография_Эшера)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Belvedere_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Belvedere_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Belvedere_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Belvedere_(M.C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Belvedere_(M.C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Belvedere_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/בלוודיר_(אשר)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Belvedere_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2919468</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Belvedere_(M._C._Escher)</field>
+</doc>
+</add>

@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Outskirts_of_Paris_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtt4ps</field>
+<field name="sameAs">http://dbpedia.org/resource/Outskirts_of_Paris_(Van_Gogh)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Outskirts_of_Paris_(Van_Gogh)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7113015</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Paris</field>
+<field name="abstract">Outskirts of Paris are paintings that Vincent van Gogh made in 1887, while he was living in Paris with his brother Theo.</field>
+<field name="label">Outskirts of Paris (Van Gogh)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e2/Van_Gogh_-_Straße_am_Stadtrand_von_Paris_mit_Männlicher_Figur_mit_Spaten.jpeg</field>
+<field name="comment">Outskirts of Paris are paintings that Vincent van Gogh made in 1887, while he was living in Paris with his brother Theo.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Van_Gogh_-_Straße_am_Stadtrand_von_Paris_mit_Männlicher_Figur_mit_Spaten.jpeg/200px-Van_Gogh_-_Straße_am_Stadtrand_von_Paris_mit_Männlicher_Figur_mit_Spaten.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Outskirts of Paris: Road with Peasant Shouldering a Spade</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Outskirts_of_Paris_(Van_Gogh)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Outskirts_of_Paris_(Van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Outskirts_of_Paris_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Outskirts_of_Paris_(Van_Gogh)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7113015</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Outskirts_of_Paris_(Van_Gogh)</field>
+</doc>
+</add>

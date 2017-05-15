@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Washing_the_Disciples'_Feet_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_Lavatorio_(Tintoretto)</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Oin_garbiketa_(Tintoretto)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06_xnrs</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_Washing_the_Disciples'_Feet_(Tintoretto)</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Washing_the_Disciples'_Feet_(Tintoretto)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q75846</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Art_Gallery_of_Ontario</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tintoretto</field>
+<field name="abstract">Christ Washing the Disciples' Feet was a favourite theme of Tintoretto, and there are at least six known works by him on the subject. The scene comes from a passage in John 13 where after the Last Supper Christ washes the feet of his disciples. This passage called for a complex image with many characters in a variety of poses and motions, and the diversity and challenge attracted Tintoretto. The paintings were commissioned for various churches of Venice, though since then four of the six have left Italy.</field>
+<field name="label">Christ Washing the Disciples' Feet (Tintoretto)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a2/El_Lavatorio_(Tintoretto).jpg</field>
+<field name="comment">Christ Washing the Disciples' Feet was a favourite theme of Tintoretto, and there are at least six known works by him on the subject. The scene comes from a passage in John 13 where after the Last Supper Christ washes the feet of his disciples. This passage called for a complex image with many characters in a variety of poses and motions, and the diversity and challenge attracted Tintoretto.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/El_Lavatorio_(Tintoretto).jpg/200px-El_Lavatorio_(Tintoretto).jpg</field>
+<field name="artist">http://dbpedia.org/resource/Tintoretto</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">204</field>
+<field name="height">228</field>
+<field name="image"/>
+<field name="image"/>
+<field name="imageSize">460</field>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Christ Washing the Disciples' Feet</field>
+<field name="width">410</field>
+<field name="width">533</field>
+<field name="year">c. 1575 - 1580</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_Washing_the_Disciples'_Feet_(Tintoretto)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_Washing_the_Disciples'_Feet_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_Lavatorio_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Washing_the_Disciples'_Feet_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_Washing_the_Disciples'_Feet_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_Washing_the_Disciples'_Feet_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Oin_garbiketa_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Washing_the_Disciples'_Feet_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q75846</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_Washing_the_Disciples'_Feet_(Tintoretto)</field>
+</doc>
+</add>

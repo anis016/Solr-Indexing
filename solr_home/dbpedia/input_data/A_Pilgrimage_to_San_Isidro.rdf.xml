@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Pilgrimage_to_San_Isidro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Pilgrimage_to_San_Isidro</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Pilgrimage_to_San_Isidro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Pilgrimage_to_San_Isidro</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_romería_de_San_Isidro</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pielgrzymka_do_św._Izydora</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmgyj1</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Προσκύνημα_στο_Σαν_Ισίδρο</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Pilgrimage_to_San_Isidro</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_romaria_de_Santo_Isidro</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/San_Isidro_Festivali</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3314110</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">A Pilgrimage to San Isidro is one of the Black Paintings painted by Francisco de Goya between 1819–23 on the interior walls of the house known as "The House of the Deaf Man" (Quinta del Sordo) that he purchased in 1819. It probably occupied a wall on the first floor of the house, opposite The Great He-Goat. Like the other Black Paintings, it was transferred to canvas in 1873–74 under the supervision of Salvador Martínez Cubells, a curator at the Museo del Prado. The owner, Baron Emile d'Erlanger, donated the canvases to the Spanish state in 1881, and they are now on display at the Museo del Prado. A Pilgrimage to San Isidro shows a view of the pilgrimage towards San Isidro's Hermitage of Madrid that is totally opposite to Goya's treatment of the same subject thirty years earlier in The Meadow of San Isidro. If the earlier work was a question of depicting the customs of a traditional holiday in Madrid and providing a reasonably accurate view of the city, the present painting depicts a group of prominent figures in the night, apparently intoxicated and singing with distorted faces. Figures from diverse social strata also figure in the painting. In the foreground a group of humble extraction appears, while farther into the background top hats and nuns' habits can be seen. The topic of the procession was used to emphasize theatrical or satirical aspects; in this respect the picture has parallels to The Burial of the Sardine, painted between 1812 and 1819. It is a recurring theme in Goya's paintings to present a crowd that fades little by little into the distance. Already it was present in San Isidro's Meadow and it was later used frequently in The Disasters of War. At the very edge of this painting the silhouette of the rocky outcroppings and that of the parading multitude coincides; this way, the opened space emphasizes the whole rest of the solid and compact mass, dehumanizing the individuals into a formless group. The exception is a figure to the right whose face can be seen in profile and seems to moan or sing. Like the other works in this series, the painting's palette is very diminished. In this case, blacks, ochres, grays and earth tones are applied with very free, energetic brushstrokes. The theme of the loss of identity in crowds in this painting painting can be seen as a precursor to expressionist painting, particularly the work of James Ensor.</field>
+<field name="label">A Pilgrimage to San Isidro</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ec/La_romería_de_San_Isidro.jpg</field>
+<field name="comment">A Pilgrimage to San Isidro is one of the Black Paintings painted by Francisco de Goya between 1819–23 on the interior walls of the house known as "The House of the Deaf Man" (Quinta del Sordo) that he purchased in 1819. It probably occupied a wall on the first floor of the house, opposite The Great He-Goat. Like the other Black Paintings, it was transferred to canvas in 1873–74 under the supervision of Salvador Martínez Cubells, a curator at the Museo del Prado.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/La_romería_de_San_Isidro.jpg/200px-La_romería_de_San_Isidro.jpg</field>
+<field name="link_external">http://www.ucm.es/BUCM/tesis/bba/ucm-t25732.pdf</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Pilgrimage_to_San_Isidro</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Pilgrimage_to_San_Isidro</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Προσκύνημα_στο_Σαν_Ισίδρο</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Pilgrimage_to_San_Isidro</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_romería_de_San_Isidro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Pilgrimage_to_San_Isidro</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_romaria_de_Santo_Isidro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Pilgrimage_to_San_Isidro</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pielgrzymka_do_św._Izydora</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Pilgrimage_to_San_Isidro</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3314110</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Pilgrimage_to_San_Isidro</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/San_Isidro_Festivali</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Pilgrimage_to_San_Isidro</field>
+</doc>
+</add>

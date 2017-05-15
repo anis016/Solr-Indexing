@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tarlati_polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tarlati_polyptych</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7686324</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05mxsx9</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Tarlati_polyptych</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:14th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Polyptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="abstract">The Tarlati polyptych is a Renaissance polyptych painted by the Italian artist Pietro Lorenzetti, with tempera and gold on panel, in 1320. It is located at the church of Santa Maria della Pieve in Arezzo, Italy. It depicts the Madonna and Child with Donatus of Arezzo, John the Evangelist, John the Baptist and Saint Matthew. The term Tarlati refers to Guido Tarlati, who was the bishop of Arezzo and died in 1327.</field>
+<field name="label">Tarlati polyptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/37/Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg</field>
+<field name="comment">The Tarlati polyptych is a Renaissance polyptych painted by the Italian artist Pietro Lorenzetti, with tempera and gold on panel, in 1320. It is located at the church of Santa Maria della Pieve in Arezzo, Italy. It depicts the Madonna and Child with Donatus of Arezzo, John the Evangelist, John the Baptist and Saint Matthew. The term Tarlati refers to Guido Tarlati, who was the bishop of Arezzo and died in 1327.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/37/Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg/200px-Tarlati-polyptych-Pietro_Lorenzetti_Pieve_di_santa_Maria_Arezzo.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Tarlati_polyptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tarlati_polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Tarlati_polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Tarlati_polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7686324</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tarlati_polyptych</field>
+</doc>
+</add>

@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Old_Plantation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03whhjv</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Old_Plantation</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q642023</field>
+<field name="sameAs">http://it.dbpedia.org/resource/The_Old_Plantation</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/المزرعة_القديمة</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Old_Plantation</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:18th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Folk_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Southern_art</field>
+<field name="abstract">The Old Plantation is an American folk art watercolor likely painted in the late 18th century on a South Carolina plantation. It is notable for its early date, its credible, non-stereotypical depiction of slaves on the North American mainland, and the fact that the slaves are shown pursuing their own interests. The artist has been identified as South Carolina slaveholder John Rose, and the painting may depict his plantation in what is now Beaufort County.</field>
+<field name="label">The Old Plantation</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/31/SlaveDanceand_Music.jpg</field>
+<field name="comment">The Old Plantation is an American folk art watercolor likely painted in the late 18th century on a South Carolina plantation. It is notable for its early date, its credible, non-stereotypical depiction of slaves on the North American mainland, and the fact that the slaves are shown pursuing their own interests. The artist has been identified as South Carolina slaveholder John Rose, and the painting may depict his plantation in what is now Beaufort County.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/SlaveDanceand_Music.jpg/200px-SlaveDanceand_Music.jpg</field>
+<field name="link_external">http://emuseum.history.org/code/emuseum.asp?action=newpage&amp;style=single&amp;singlepage=1&amp;searchxml=%3CeMuseum%5Fsearch+site%3D%22Colonial+Williamsburg%22+date%3D%222011%2D04%2D26%22%3E%3Ccriteria%3E%3Cparams+searchcode%3D%22%2D1%22+pagesize%3D%226%22+currentpage%3D%221%22+orderfield%3D%22%22+orderdir%3D%22%22+profile%3D%22objects%22%2F%3E%3Cbasic+criteria%3D%22Old+Plantation%22%2F%3E%3C%2Fcriteria%3E%3C%2FeMuseum%5Fsearch%3E%0D%0A&amp;style=browse&amp;pagesize=6&amp;currentpage=1&amp;page=search&amp;browsepagesize=6&amp;searchtype=basic&amp;profile=objects&amp;wandering=no&amp;term=Old%20Plantation&amp;basicterm=Old%20Plantation&amp;pagetotal=1&amp;pagestart=1&amp;pageend=1</field>
+<field name="link_external">http://books.google.com/books?id=niirv86hxkQC&amp;pg=PA56&amp;dq=%22The+Old+Plantation%22%2BCahill&amp;hl=en&amp;ei=Dte1Tfu8IZKK0QGu3fCRCQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=1&amp;ved=0CDoQ6AEwAA#v=onepage&amp;q=%22The%20Old%20Plantation%22%2BCahill&amp;f=false</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Williamsburg,_Virginia</field>
+<field name="city">http://dbpedia.org/resource/United_States</field>
+<field name="height">29.7</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Abby_Aldrich_Rockefeller_Folk_Art_Museum</field>
+<field name="title">The Old Plantation</field>
+<field name="type">Watercolor on laid paper</field>
+<field name="width">45.4</field>
+<field name="year">possibly 1785&amp;ndash;1795</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Old_Plantation</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Old_Plantation</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/The_Old_Plantation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Old_Plantation</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Old_Plantation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Old_Plantation</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q642023</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Old_Plantation</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/المزرعة_القديمة</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Old_Plantation</field>
+</doc>
+</add>

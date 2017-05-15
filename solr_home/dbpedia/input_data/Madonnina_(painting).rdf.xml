@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonnina_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.027155t</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonnina_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonnina_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6728432</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1897_paintings</field>
+<field name="abstract">The Madonnina, commonly known as the Madonna of the Streets, was a painting created by Roberto Ferruzzi (1854-1934) and first publicly exhibited in 1897 at an art exhibition in Venice. The models for this painting were Angelina Cian (age 11) and her younger brother. Although not originally painted as a religious picture, this painting became popularized as an image of the Virgin Mary holding her infant son, and has become the most renowned of Ferruzzi's works.</field>
+<field name="label">Madonnina (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/13/Ferruzzi-a.jpg</field>
+<field name="comment">The Madonnina, commonly known as the Madonna of the Streets, was a painting created by Roberto Ferruzzi (1854-1934) and first publicly exhibited in 1897 at an art exhibition in Venice. The models for this painting were Angelina Cian (age 11) and her younger brother. Although not originally painted as a religious picture, this painting became popularized as an image of the Virgin Mary holding her infant son, and has become the most renowned of Ferruzzi's works.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/Ferruzzi-a.jpg/200px-Ferruzzi-a.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonnina_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonnina_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonnina_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonnina_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Streets</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonnina</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6728432</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonnina_(painting)</field>
+</doc>
+</add>

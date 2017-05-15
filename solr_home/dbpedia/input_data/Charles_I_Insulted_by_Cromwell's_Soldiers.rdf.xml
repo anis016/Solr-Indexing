@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Charles_I_Insulted_by_Cromwell's_Soldiers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Charles_I_Insulted_by_Cromwell's_Soldiers</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2959421</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Charles_Ier_insulté_par_les_soldats_de_Cromwell</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b77csh</field>
+<field name="sameAs">http://dbpedia.org/resource/Charles_I_Insulted_by_Cromwell's_Soldiers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Charles_I_of_England</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1836_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_Delaroche</field>
+<field name="abstract">Charles I Insulted by Cromwell's Soldiers is an oil painting by the French artist Hippolyte Delaroche, depicting Charles I of England taunted by the victorious soldiers of Oliver Cromwell after the Second English Civil War, prior to his execution in 1649. Completed in 1836, it is thought to be one of Delaroche's greatest masterpieces. It was displayed as part of the Bridgewater Collection in London, although it was latterly thought to have been lost when, during The Blitz of 1941, a German bomb struck close to Bridgewater House, causing shrapnel damage to the canvas in the ensuing explosion. In 2009 it was rediscovered in Scotland in an unexpectedly good condition, having been rolled up and stored after the war, but recorded in the intervening years as badly damaged or destroyed. After a partial restoration it went on display in the National Gallery in London, in an exhibition re-appraising Delaroche's work. After the exhibition, it is to be fully restored.</field>
+<field name="label">Charles I Insulted by Cromwell's Soldiers</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/70/Charles_I_Insulted_by_Cromwell's_Soldiers.jpg</field>
+<field name="comment">Charles I Insulted by Cromwell's Soldiers is an oil painting by the French artist Hippolyte Delaroche, depicting Charles I of England taunted by the victorious soldiers of Oliver Cromwell after the Second English Civil War, prior to his execution in 1649. Completed in 1836, it is thought to be one of Delaroche's greatest masterpieces.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Charles_I_Insulted_by_Cromwell's_Soldiers.jpg/200px-Charles_I_Insulted_by_Cromwell's_Soldiers.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Paul_Delaroche</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Charles I Insulted by Cromwell's Soldiers</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Charles_I_Insulted_by_Cromwell's_Soldiers</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Charles_I_Insulted_by_Cromwell's_Soldiers</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Charles_Ier_insulté_par_les_soldats_de_Cromwell</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Charles_I_Insulted_by_Cromwell's_Soldiers</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Charles_I_Insulted_by_Cromwell's_Soldiers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Charles_I_Insulted_by_Cromwell's_Soldiers</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2959421</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Charles_I_Insulted_by_Cromwell's_Soldiers</field>
+</doc>
+</add>

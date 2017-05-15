@@ -1,0 +1,108 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Galerie_des_beautés</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Галерея_красавиц</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Galleria_delle_Bellezze</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Галерея_красавиц</field>
+<field name="sameAs">http://bar.dbpedia.org/resource/Scheenheidngalerie</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Galeria_de_frumuseți</field>
+<field name="sameAs">http://pnb.dbpedia.org/resource/سوہنیاں_دی_گیلری</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Галерэя_прыгажунь</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Gallery_of_Beauties</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Galerie_des_beautés</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Πινακοθήκη_των_Καλλονών</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Schönheitengalerie</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Poltredaoueg_ar_gened</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q702554</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047rc81</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Munich</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_German_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:German_paintings</field>
+<field name="abstract">The Gallery of Beauties (Schönheitengalerie) is a collection of 36 portraits of the most beautiful women from the nobility and middle classes of Munich, Germany, painted between 1827 and 1850 (mostly by Joseph Karl Stieler, appointed court painter in 1820) and gathered by Ludwig I of Bavaria in the south pavilion of his Nymphenburg Palace in Munich. Two additional ones were created by Friedrich Dürck. Its best-known works are the portraits of the shoemaker's daughter Helene Sedlmayr, the actress Charlotte von Hagn (revered by audiences in Munich, Berlin and Saint Petersburg) and the king's mistresses Lola Montez and Marianna Marquesa Florenzi. They include a Briton, a Souliot, a Scot and an Israelite, along with relations of Ludwig's - the wife and daughter of Ludwig of Oettingen-Wallerstein were both painted, as was Ludwig I's daughter Princess Alexandra of Bavaria. The collection was a late example of a fashion for such series, which includes an earlier one in Munich of beauties of the French court brought back from Versailles by a Bavarian prince who spent a period there. In England there are the Windsor Beauties, eleven paintings of the 1660s by Sir Peter Lely and the Hampton Court Beauties, a later set by Sir Godfrey Kneller.</field>
+<field name="label">Gallery of Beauties</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9a/Nymphenburg_park1.jpg</field>
+<field name="comment">The Gallery of Beauties (Schönheitengalerie) is a collection of 36 portraits of the most beautiful women from the nobility and middle classes of Munich, Germany, painted between 1827 and 1850 (mostly by Joseph Karl Stieler, appointed court painter in 1820) and gathered by Ludwig I of Bavaria in the south pavilion of his Nymphenburg Palace in Munich. Two additional ones were created by Friedrich Dürck.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Nymphenburg_park1.jpg/200px-Nymphenburg_park1.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Gallery_of_Beauties</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Πινακοθήκη_των_Καλλονών</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Schönheitengalerie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Galleria_delle_Bellezze</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Gallery_of_Beauties</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sch%C3%B6nheitengalerie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q702554</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://bar.dbpedia.org/resource/Scheenheidngalerie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Галерэя_прыгажунь</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Poltredaoueg_ar_gened</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://pnb.dbpedia.org/resource/سوہنیاں_دی_گیلری</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Galeria_de_frumuseți</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Beauties</field>
+</doc>
+</add>

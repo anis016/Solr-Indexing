@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Kresby_Hieronyma_Bosche</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hieronymus_Bosch_drawings</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Disegni_di_Hieronymus_Bosch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hieronymus_Bosch_drawings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hieronymus_Bosch_drawings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hieronymus_Bosch_drawings</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Lijst_van_tekeningen_van_Jheronimus_Bosch</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Disegni_di_Hieronymus_Bosch</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025_pc1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2436458</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Kresby_Hieronyma_Bosche</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hieronymus_Bosch_drawings</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Малюнки_Босха</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="abstract">This is an incomplete list of drawings by Hieronymus Bosch, many of which have survived to the present day. A number represent alternate incarnations or preparatory sketches for his paintings.</field>
+<field name="label">Hieronymus Bosch drawings</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c4/Tweemonsters.jpg</field>
+<field name="comment">This is an incomplete list of drawings by Hieronymus Bosch, many of which have survived to the present day. A number represent alternate incarnations or preparatory sketches for his paintings.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Tweemonsters.jpg/200px-Tweemonsters.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hieronymus_Bosch_drawings</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hieronymus_Bosch_drawings</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hieronymus_Bosch_drawings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hieronymus_Bosch_drawings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Animal_Studies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jheronimus_Bosch_drawings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Малюнки_Босха</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hieronymus_Bosch_drawings</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Lijst_van_tekeningen_van_Jheronimus_Bosch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hieronymus_Bosch_drawings</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2436458</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hieronymus_Bosch_drawings</field>
+</doc>
+</add>

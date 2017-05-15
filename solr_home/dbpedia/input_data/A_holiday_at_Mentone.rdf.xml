@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_holiday_at_Mentone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_holiday_at_Mentone</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glnw4j</field>
+<field name="sameAs">http://dbpedia.org/resource/A_holiday_at_Mentone</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4660912</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Melbourne_culture</field>
+<field name="abstract">A holiday at Mentone is an 1888 painting by the Australian artist Charles Conder. The painting depicts a beach in the Melbourne suburb of Mentone on a bright and sunny day. Conder's depiction of people engaged in seaside activities and the brilliant noonday sunshine mark the painting as distinctively Australian in character. The painting was first exhibited at Victorian Artists' Society Spring exhibition in November 1888, one month after Conder, aged only 20, arrived in Melbourne from Sydney. Conder had met Tom Roberts in Sydney the previous year and again at Easter 1888, where the pair had painted together at Coogee Beach. On arrival in Melbourne, Conder initially based himself at Roberts' Grosvenor Chambers studio and A Holiday at Mentone was Conder's first Melbourne painting. The work shows evidence of being influenced by Japanese art while a similar bridge motif was commonly used by the influential American painter James McNeil Whistler. One of Arthur Streeton's descendents suggested that Roberts is the figure in the grey suit on the pier and Streeton is the man lying down on the beach. Perhaps Conder's best known painting, A holiday at Mentone has been described as a "critically acclaimed masterpiece of the Australian Impressionist style of painting" and a "singularly Australian work". Terence Lane, senior curator of Australian Art at the National Gallery of Victoria described the painting's staging as "stilted, almost surreal" but the composition as "splendidly abstract and the sunshine brilliantly Australian". The painting is now part of the collection of the Art Gallery of South Australia.</field>
+<field name="label">A holiday at Mentone</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4c/A_holiday_at_Mentone.jpg</field>
+<field name="comment">A holiday at Mentone is an 1888 painting by the Australian artist Charles Conder. The painting depicts a beach in the Melbourne suburb of Mentone on a bright and sunny day. Conder's depiction of people engaged in seaside activities and the brilliant noonday sunshine mark the painting as distinctively Australian in character. The painting was first exhibited at Victorian Artists' Society Spring exhibition in November 1888, one month after Conder, aged only 20, arrived in Melbourne from Sydney.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/A_holiday_at_Mentone.jpg/200px-A_holiday_at_Mentone.jpg</field>
+<field name="link_external">http://www.artgallery.sa.gov.au/agsa/home/Collection/detail.jsp?ecatKey=897</field>
+<field name="artist">http://dbpedia.org/resource/Charles_Conder</field>
+<field name="city">http://dbpedia.org/resource/Adelaide</field>
+<field name="height">46.2</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Art_Gallery_of_South_Australia</field>
+<field name="title">A holiday at Mentone</field>
+<field name="type">oil on canvas</field>
+<field name="width">60.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_holiday_at_Mentone</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_holiday_at_Mentone</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_holiday_at_Mentone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_holiday_at_Mentone</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Holiday_at_Mentone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_holiday_in_Mentone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4660912</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_holiday_at_Mentone</field>
+</doc>
+</add>

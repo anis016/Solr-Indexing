@@ -1,0 +1,24 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Cello_Player</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Cello_Player</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3n9hx</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cello_Player</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1926_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">The Cello Player is a painting by the American artist Edwin Dickinson (1891–1978). Painted in oils on a canvas measuring 60 x 48 1/2 inches, it was begun in 1924 and finished in 1926. In 1988 it was purchased by the Fine Arts Museums of San Francisco.</field>
+<field name="label">The Cello Player</field>
+<field name="comment">The Cello Player is a painting by the American artist Edwin Dickinson (1891–1978). Painted in oils on a canvas measuring 60 x 48 1/2 inches, it was begun in 1924 and finished in 1926. In 1988 it was purchased by the Fine Arts Museums of San Francisco.</field>
+<field name="link_external">http://www.aaa.si.edu/collections/oralhistories/transcripts/dickin62.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Cello_Player</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Cello_Player</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Cello_Player</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Cello_Player</field>
+</doc>
+</add>

@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Conversão_de_São_Paulo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conversion_on_the_Way_to_Damascus</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Conversion_on_the_Way_to_Damascus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Conversion_on_the_Way_to_Damascus</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Conversion_on_the_Way_to_Damascus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.085fmh</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Obrátenie_svätého_Pavla</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Conversão_de_São_Paulo</field>
+<field name="sameAs">http://dbpedia.org/resource/Conversion_on_the_Way_to_Damascus</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Nawrócenie_w_drodze_do_Damaszku_(obraz_Caravaggia)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Conversion_de_saint_Paul_sur_le_chemin_de_Damas</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2273517</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Conversione_di_san_Paolo_(Caravaggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Conversion_on_the_Way_to_Damascus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paul_the_Apostle_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1601_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="abstract">The Conversion on the Way to Damascus (Conversione di San Paolo) is a masterpiece by Caravaggio, painted in 1601 for the Cerasi Chapel of the church of Santa Maria del Popolo, in Rome. Across the chapel is a second Caravaggio painting (1600) depicting the inverted Crucifixion of St. Peter. On the altar, is a luminous and crowded by Annibale Carracci. The dome frescoes are by one of Carracci's apprentices, under his design. The chapel was painted for Monsignor Tiberio Cerasi, who died in 1601 and had been treasurer general under Clement VIII. The commission for Caravaggio (and perhaps Carracci) was apparently secured by his newly acquired patron, Marchese Vicenzo Guistiniani. The painting depicts the moment recounted in Chapter 9 of Acts of the Apostles when Saul, soon to be the apostle Paul, fell on the road to Damascus. He heard the Lord say "I am Jesus, whom you persecute, arise and go into the city". The Golden Legend, a compilation of medieval interpretations of biblical events, may have framed the event for Caravaggio. Caravaggio's first version of the Conversion painting is in the collection of Principe Guido Odescalchi. It is a much brighter and more Mannerist canvas, with an angel-sustained Jesus reaching downwards towards a blinded Paul.</field>
+<field name="label">Conversion on the Way to Damascus</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/67/Conversion_on_the_Way_to_Damascus-Caravaggio_(c.1600-1).jpg</field>
+<field name="comment">The Conversion on the Way to Damascus (Conversione di San Paolo) is a masterpiece by Caravaggio, painted in 1601 for the Cerasi Chapel of the church of Santa Maria del Popolo, in Rome. Across the chapel is a second Caravaggio painting (1600) depicting the inverted Crucifixion of St. Peter. On the altar, is a luminous and crowded by Annibale Carracci. The dome frescoes are by one of Carracci's apprentices, under his design.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Conversion_on_the_Way_to_Damascus-Caravaggio_(c.1600-1).jpg/200px-Conversion_on_the_Way_to_Damascus-Caravaggio_(c.1600-1).jpg</field>
+<field name="link_external">http://www.bc.edu/bc_org/avp/cas/his/CoreArt/art/bar_cvggo_conv2.html</field>
+<field name="artist"/>
+<field name="height">230</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Conversion on the Way to Damascus</field>
+<field name="type">Oil on canvas</field>
+<field name="width">175</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Conversion_on_the_Way_to_Damascus</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Conversion_on_the_Way_to_Damascus</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Conversion_on_the_Road_to_Damascus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Conversion_on_the_way_to_damascus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Conversion_de_saint_Paul_sur_le_chemin_de_Damas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conversion_on_the_Way_to_Damascus</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Conversione_di_san_Paolo_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conversion_on_the_Way_to_Damascus</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Nawrócenie_w_drodze_do_Damaszku_(obraz_Caravaggia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conversion_on_the_Way_to_Damascus</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2273517</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conversion_on_the_Way_to_Damascus</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Obrátenie_svätého_Pavla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Conversion_on_the_Way_to_Damascus</field>
+</doc>
+</add>

@@ -1,0 +1,113 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Naissance_de_Vénus_(Cabanel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Zrození_Venuše_(Cabanel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1212861</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Zrození_Venuše_(Cabanel)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Geburt_der_Venus_(Cabanel)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Ganedigezh_Gwener_(Cabanel)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Рождение_Венеры_(картина_Кабанеля)</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Venüs'ün_Doğuşu_(Cabanel)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Naissance_de_Vénus_(Cabanel)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_geboorte_van_Venus_(Cabanel)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_nacimiento_de_Venus_(Cabanel)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ctc14</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/维纳斯的诞生_(卡巴内尔)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_Venus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1863_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Venus_Anadyomenes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Alexandre_Cabanel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nude_art</field>
+<field name="abstract">The Birth of Venus is a painting by the French artist Alexandre Cabanel (1823–1889). It was painted in 1863, and is now in the Musée d'Orsay in Paris. A second and smaller version (85 x 135.9 cm) from ca. 1864 is in Dahesh Museum of Art. A third (106 x 182.6 cm) version dates from 1875; it is in the Metropolitan Museum of Art in New York City. Shown to great success at the Paris Salon of 1863, The Birth of Venus was immediately purchased by Napoleon III for his own personal collection. That same year Cabanel was made a professor of the Ecole des Beaux-Arts. Cabanel's erotic imagery, cloaked in historicism, appealed to the propriety of the higher levels of society. Art historian and curator Robert Rosenblum wrote of Cabanel's The Birth of Venus that "This Venus hovers somewhere between an ancient deity and a modern dream"; he described "the ambiguity of her eyes, that seem to be closed but that a close look reveals that she is awake ... A nude who could be asleep or awake is specially formidable for a male viewer". Cabanel was a determined opponent of the Impressionists, especially Édouard Manet, although the refusal of the academic establishment to realize the importance of new ideas and sources of inspiration would eventually prove to be the undoing of the Academy.</field>
+<field name="label">The Birth of Venus (Cabanel)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b2/Alexandre_Cabanel_-_The_Birth_of_Venus_-_Google_Art_Project_2.jpg</field>
+<field name="comment">The Birth of Venus is a painting by the French artist Alexandre Cabanel (1823–1889). It was painted in 1863, and is now in the Musée d'Orsay in Paris. A second and smaller version (85 x 135.9 cm) from ca. 1864 is in Dahesh Museum of Art. A third (106 x 182.6 cm) version dates from 1875; it is in the Metropolitan Museum of Art in New York City. Shown to great success at the Paris Salon of 1863, The Birth of Venus was immediately purchased by Napoleon III for his own personal collection.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Alexandre_Cabanel_-_The_Birth_of_Venus_-_Google_Art_Project_2.jpg/200px-Alexandre_Cabanel_-_The_Birth_of_Venus_-_Google_Art_Project_2.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Alexandre_Cabanel</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">130</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">The Birth of Venus</field>
+<field name="width">225</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Birth_of_Venus_(Cabanel)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Geburt_der_Venus_(Cabanel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_nacimiento_de_Venus_(Cabanel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Birth_of_Venus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Birth_of_Venus_(Cabanel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Рождение_Венеры_(картина_Кабанеля)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_geboorte_van_Venus_(Cabanel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1212861</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/维纳斯的诞生_(卡巴内尔)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Ganedigezh_Gwener_(Cabanel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Venüs'ün_Doğuşu_(Cabanel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Birth_of_Venus_(Cabanel)</field>
+</doc>
+</add>

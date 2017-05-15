@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/At_the_Moulin_Rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/At_the_Moulin_Rouge</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Al_Moulin_Rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/At_the_Moulin_Rouge</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/At_the_Moulin_Rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/At_the_Moulin_Rouge</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03qb998</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/در_مولن_روژ</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3607521</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Al_Moulin_Rouge</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/W_Moulin_Rouge</field>
+<field name="sameAs">http://yago-knowledge.org/resource/At_the_Moulin_Rouge</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Post-impressionist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_de_Toulouse-Lautrec</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1892_paintings</field>
+<field name="abstract">At the Moulin Rouge is an oil-on-canvas painting by French artist Henri de Toulouse-Lautrec. It was painted between 1892 and 1895. It is one of a number of works by Toulouse-Lautrec depicting the Moulin Rouge cabaret built in Paris in 1889. It portrays a group of three men and two women sitting around a table; The people at the table are (from right to left); Édouard Dujardin, dancer La Macarona, photographer Paul Secau and Maurice Guibert. The woman in the right foreground is English dancer May Milton. In the background on the right you can see La Goulue with a partner and the left background shows Lautrec himself and Gabriel Tapié de Céleyran. It is currently displayed at the Art Institute of Chicago.</field>
+<field name="label">At the Moulin Rouge</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/27/Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg</field>
+<field name="comment">At the Moulin Rouge is an oil-on-canvas painting by French artist Henri de Toulouse-Lautrec. It was painted between 1892 and 1895. It is one of a number of works by Toulouse-Lautrec depicting the Moulin Rouge cabaret built in Paris in 1889. It portrays a group of three men and two women sitting around a table; The people at the table are (from right to left); Édouard Dujardin, dancer La Macarona, photographer Paul Secau and Maurice Guibert.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg/200px-Henri_de_Toulouse-Lautrec_-_At_the_Moulin_Rouge_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/toulouse-lautrecs-at-the-moulin-rouge.html</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/At_the_Moulin_Rouge</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/At_the_Moulin_Rouge</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Moulin_Rouge_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/At_The_Moulin_Rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/At_the_moulin_rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/W_Moulin_Rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/At_the_Moulin_Rouge</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3607521</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/At_the_Moulin_Rouge</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/در_مولن_روژ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/At_the_Moulin_Rouge</field>
+</doc>
+</add>

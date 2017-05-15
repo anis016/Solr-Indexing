@@ -1,0 +1,103 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/M._C._Escher</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Relativity_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Relativita_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Relativity_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Relativité_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Relativity_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Relativity_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Relativitet_(M.C._Escher)</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Relativita_(M._C._Escher)</field>
+<field name="sameAs">http://dbpedia.org/resource/Relativity_(M._C._Escher)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Relativité_(M._C._Escher)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/יחסות_(אשר)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2635136</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03w3pw</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Относительность_(литография)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Relativity_(M._C._Escher)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fictional_dimensions</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1953_paintings</field>
+<field name="abstract">Relativity is a lithograph print by the Dutch artist M. C. Escher, first printed in December 1953. It depicts a world in which the normal laws of gravity do not apply. The architectural structure seems to be the centre of an idyllic community, with most of its inhabitants casually going about their ordinary business, such as dining. There are windows and doorways leading to park-like outdoor settings. All the figures are dressed in identical attire and have featureless bulb-shaped heads. Identical characters such as these can be found in many other Escher works. In the world of Relativity, there are three sources of gravity, each being orthogonal to the two others. Each inhabitant lives in one of the gravity wells, where normal physical laws apply. There are sixteen characters, spread between each gravity source, six in one and five each in the other two. The apparent confusion of the lithograph print comes from the fact that the three gravity sources are depicted in the same space. The structure has six stairways, and each stairway can be used by people who belong to two different gravity sources. This creates interesting phenomena, such as in the top stairway, where two inhabitants use the same stairway in the same direction and on the same side, but each using a different face of each step; thus, one descends the stairway as the other climbs it, even while moving in the same direction nearly side-by-side. In the other stairways, inhabitants are depicted as climbing the stairways upside-down, but based on their own gravity source, they are climbing normally. Another interesting fact is that each of the three parks belongs to one of the gravity wells. All but one of the doors seem to lead to basements below the parks. Though physically possible, such basements are certainly unusual and add to the surreal effect of the picture. This is one of Escher’s most popular works and has been used in a variety of ways, as it can be appreciated both artistically and scientifically. Interrogations about perspective and the representation of three-dimensional images in a two-dimensional picture are at the core of Escher's work, and Relativity represents one of his greatest achievements in this domain.</field>
+<field name="label">Relativity (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a3/Escher's_Relativity.jpg</field>
+<field name="comment">Relativity is a lithograph print by the Dutch artist M. C. Escher, first printed in December 1953. It depicts a world in which the normal laws of gravity do not apply. The architectural structure seems to be the centre of an idyllic community, with most of its inhabitants casually going about their ordinary business, such as dining. There are windows and doorways leading to park-like outdoor settings. All the figures are dressed in identical attire and have featureless bulb-shaped heads.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Escher's_Relativity.jpg/200px-Escher's_Relativity.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Relativity</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Relativity_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Relativity_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Relativity</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Relativity_(lithograph)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Relativity_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Относительность_(литография)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Relativity_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crazy_Stairs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Relativity_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Relativity_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Relativity_(M.C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2635136</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Relativity_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/יחסות_(אשר)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Relativity_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Relativitet_(M.C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Relativity_(M._C._Escher)</field>
+</doc>
+</add>

@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_bufón_llamado_don_Juan_de_Austria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jester_Named_Don_John_of_Austria</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Don_Juan_de_Austria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jester_Named_Don_John_of_Austria</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Jester_Named_Don_John_of_Austria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_bufón_llamado_don_Juan_de_Austria</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Bouffon_don_Juan_d'Autriche</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1114361</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05p6gnj</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Don_Juan_de_Austria</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Jester_Named_Don_John_of_Austria</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jester_Named_Don_John_of_Austria</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1633_paintings</field>
+<field name="abstract">The Jester Named Don John of Austria is a portrait by Velázquez. Its subject was a jester or bufón at the court of Philip IV of Spain from 1624 to 1654 who appeared in court comedies in front of important court figures. The subject's real name is unknown, but he came to be nicknamed after John of Austria, the son of Charles V, well known for his victory at Lepanto. He is shown dressed in a general's cloak and black doublet, is surrounded by abandoned helmets, armour and weapons, and with a fragment of a battle-scene of Lepanto in the background. It was produced for display in the Torre de la Parada - around 1635-40 this lodge was one of Philip IV's main architectural projects, since he was a great hunting fanatic who wanted somewhere to rest during the long time he spent on that pastime. Its other homes have been the Palacio del Buen Retiro (1701–16), the Royal Palace of Madrid (1772–1816) and the Real Academia de Bellas Artes de San Fernando (1816–1827), before it finally moved to its current home at the Prado in 1827.</field>
+<field name="label">The Jester Named Don John of Austria</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/47/Velázquez_-_El_bufón_llamado_Don_Juan_de_Austria_(Museo_del_Prado,_1632).jpg</field>
+<field name="comment">The Jester Named Don John of Austria is a portrait by Velázquez. Its subject was a jester or bufón at the court of Philip IV of Spain from 1624 to 1654 who appeared in court comedies in front of important court figures. The subject's real name is unknown, but he came to be nicknamed after John of Austria, the son of Charles V, well known for his victory at Lepanto.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Velázquez_-_El_bufón_llamado_Don_Juan_de_Austria_(Museo_del_Prado,_1632).jpg/200px-Velázquez_-_El_bufón_llamado_Don_Juan_de_Austria_(Museo_del_Prado,_1632).jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="image"/>
+<field name="imageSize">180</field>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">The Jester Named Don John of Austria</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Jester_Named_Don_John_of_Austria</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Jester_Named_Don_John_of_Austria</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_jester_named_Don_John_of_Austria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Bouffon_don_Juan_d'Autriche</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jester_Named_Don_John_of_Austria</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Jester_Named_Don_John_of_Austria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Jester_Named_Don_John_of_Austria</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1114361</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Jester_Named_Don_John_of_Austria</field>
+</doc>
+</add>

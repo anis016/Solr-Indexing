@@ -1,0 +1,19 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arkansas_Traveller_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Arkansas_Traveller_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Arkansas_Traveller_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1858_paintings</field>
+<field name="label">Arkansas Traveller (painting)</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Arkansas_Traveller_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Arkansas_Traveller_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Arkansas_Traveller_(painting)</field>
+</doc>
+</add>

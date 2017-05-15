@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lucretia_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Lucretia_(Casali)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cs2x4</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6698102</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucretia_(Casali)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Lucretia_(Casali)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1750_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="abstract">Lucretia is an oil on canvas painting by the Italian Rococo artist Andrea Casali, completed c. 1750.</field>
+<field name="label">Lucretia (Casali)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/14/Lucretia_10.jpg</field>
+<field name="comment">Lucretia is an oil on canvas painting by the Italian Rococo artist Andrea Casali, completed c. 1750.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Lucretia_10.jpg/200px-Lucretia_10.jpg</field>
+<field name="link_external">http://www.1st-art-gallery.com/Andrea-Casali/Lucretia.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Lucretia_(Casali)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Lucretia_(Casali)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Lucretia_(Casali)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Lucretia_(Casali)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6698102</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Lucretia_(Casali)</field>
+</doc>
+</add>

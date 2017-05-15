@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Truth_Unveiled_by_Time_(Tiepolo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7848304</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Truth_Unveiled_by_Time_(Tiepolo)</field>
+<field name="sameAs">http://dbpedia.org/resource/Truth_Unveiled_by_Time_(Tiepolo)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.051_gy2</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Battista_Tiepolo</field>
+<field name="abstract">Truth Unveiled by Time is a painting by the Italian painter Tiepolo. It is now on display in the Palazzo Chigi in Rome, Italy.</field>
+<field name="label">Truth Unveiled by Time (Tiepolo)</field>
+<field name="comment">Truth Unveiled by Time is a painting by the Italian painter Tiepolo. It is now on display in the Palazzo Chigi in Rome, Italy.</field>
+<field name="link_external">http://www.independent.co.uk/news/world/europe/coverup-ordered-for-the-nude-behind-berlusconi-884250.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Truth_Unveiled_by_Time_(Tiepolo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Truth_Unveiled_by_Time_(Tiepolo)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Truth_Unveiled_by_Time_(Tiepolo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Truth_Unveiled_by_Time_(Tiepolo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Truth_Unveiled_by_Time</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7848304</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Truth_Unveiled_by_Time_(Tiepolo)</field>
+</doc>
+</add>

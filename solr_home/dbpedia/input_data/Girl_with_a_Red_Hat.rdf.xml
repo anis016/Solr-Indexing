@@ -1,0 +1,100 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dziewczyna_w_czerwonym_kapeluszu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q614047</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Girl_with_a_Red_Hat</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dziewczyna_w_czerwonym_kapeluszu</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04wlqnt</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Fille_au_chapeau_rouge</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Женщина_в_красной_шляпе</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Plac'h_he_zog_ruz</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Flicka_i_röd_hatt</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Meisje_met_de_rode_hoed</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Fanciulla_con_cappello_rosso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660s_paintings</field>
+<field name="abstract">Girl with a Red Hat is a small painting by the Dutch painter Johannes Vermeer, executed 1665-1666, in the National Gallery of Art in Washington, D.C.. It is one of a number of Vermeer's tronies -- depictions of models fancifully dressed that were not (as far as is known) intended to be portraits of specific, identifiable subjects.</field>
+<field name="label">Girl with a Red Hat</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a3/Vermeer_-_Girl_with_a_Red_Hat.JPG</field>
+<field name="comment">Girl with a Red Hat is a small painting by the Dutch painter Johannes Vermeer, executed 1665-1666, in the National Gallery of Art in Washington, D.C.. It is one of a number of Vermeer's tronies -- depictions of models fancifully dressed that were not (as far as is known) intended to be portraits of specific, identifiable subjects.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Vermeer_-_Girl_with_a_Red_Hat.JPG/200px-Vermeer_-_Girl_with_a_Red_Hat.JPG</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/65202/rec/17</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=60</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">23.2</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">Girl with a Red Hat</field>
+<field name="width">18.1</field>
+<field name="year">c. 1665-1666</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Girl_with_a_Red_Hat</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Girl_with_a_Red_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Fanciulla_con_cappello_rosso</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Girl_with_a_Red_Hat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Fille_au_chapeau_rouge</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Женщина_в_красной_шляпе</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Meisje_met_de_rode_hoed</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q614047</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Plac'h_he_zog_ruz</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Flicka_i_röd_hatt</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Girl_with_a_Red_Hat</field>
+</doc>
+</add>

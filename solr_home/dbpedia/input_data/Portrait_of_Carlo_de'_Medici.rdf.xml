@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Carlo_de'_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Carlo_de'_Medici</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fq307f</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937495</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Carlo_de'_Medici</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Carlo_de'_Medici</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="abstract">The Portrait of Carlo de' Medici is a painting by the Italian Renaissance master Andrea Mantegna, executed in 1466. It is now housed in the Uffizi Gallery of Florence.</field>
+<field name="label">Portrait of Carlo de' Medici</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f2/Andrea_Mantegna_110.jpg</field>
+<field name="comment">The Portrait of Carlo de' Medici is a painting by the Italian Renaissance master Andrea Mantegna, executed in 1466. It is now housed in the Uffizi Gallery of Florence.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Andrea_Mantegna_110.jpg/200px-Andrea_Mantegna_110.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Andrea_Mantegna</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">40.5</field>
+<field name="image"/>
+<field name="imageSize">240</field>
+<field name="museum">http://dbpedia.org/resource/Uffizi</field>
+<field name="title">Portrait of Carlo de' Medici</field>
+<field name="width">29.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Carlo_de'_Medici</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Carlo_de'_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Carlo_de'_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Carlo_de'_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Carlo_de'_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Carlo_de'_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Carlo_de_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Carlo_de_Medici_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937495</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Carlo_de'_Medici</field>
+</doc>
+</add>

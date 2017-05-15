@@ -1,0 +1,82 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Η_Ελλάδα_στα_ερείπια_του_Μεσολογγίου</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Greece_on_the_Ruins_of_Missolonghi</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Grecia_expirante_entre_las_ruinas_de_Missolonghi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Greece_on_the_Ruins_of_Missolonghi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Greece_on_the_Ruins_of_Missolonghi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Grecia_expirante_entre_las_ruinas_de_Missolonghi</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Grèce_sur_les_ruines_de_Missolonghi</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Grècia_sobre_les_ruïnes_de_Missolonghi</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Η_Ελλάδα_στα_ερείπια_του_Μεσολογγίου</field>
+<field name="sameAs">http://dbpedia.org/resource/Greece_on_the_Ruins_of_Missolonghi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fpgbsd</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Greece_on_the_Ruins_of_Missolonghi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3181999</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Греція_на_руїнах_Міссолонгі</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1826_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Eug%C3%A8ne_Delacroix</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Greek_War_of_Independence</field>
+<field name="abstract">Greece on the Ruins of Missolonghi is an 1826 oil painting by French painter Eugène Delacroix, and now preserved at the Musée des Beaux-Arts de Bordeaux. This painting was inspired by the Third Siege of Missolonghi by the Ottoman forces in 1826, during which many people of the city after the long-time siege (almost a year) decided to attempt a mass breakout (sortie) to escape famine and epidemics. The attempt was resulted in a disaster, with the larger part of the Greeks slain.</field>
+<field name="label">Greece on the Ruins of Missolonghi</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3f/Eugène_Ferdinand_Victor_Delacroix_017.jpg</field>
+<field name="comment">Greece on the Ruins of Missolonghi is an 1826 oil painting by French painter Eugène Delacroix, and now preserved at the Musée des Beaux-Arts de Bordeaux. This painting was inspired by the Third Siege of Missolonghi by the Ottoman forces in 1826, during which many people of the city after the long-time siege (almost a year) decided to attempt a mass breakout (sortie) to escape famine and epidemics. The attempt was resulted in a disaster, with the larger part of the Greeks slain.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Eugène_Ferdinand_Victor_Delacroix_017.jpg/200px-Eugène_Ferdinand_Victor_Delacroix_017.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Eug%C3%A8ne_Delacroix</field>
+<field name="city"/>
+<field name="height">208</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_des_Beaux-Arts_de_Bordeaux</field>
+<field name="title">Greece on the ruins of Missolonghi</field>
+<field name="type">Oil on canvas</field>
+<field name="width">147</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Greece_on_the_Ruins_of_Missolonghi</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Greece_on_the_Ruins_of_Missolonghi</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Grèce_sur_les_ruines_de_Missolonghi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Greece_on_the_Ruins_of_Missolonghi</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Greece_on_the_Ruins_of_Missolonghi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Greece_on_the_Ruins_of_Missolonghi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Greece_on_the_ruins_of_Missolonghi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Grècia_sobre_les_ruïnes_de_Missolonghi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Greece_on_the_Ruins_of_Missolonghi</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Греція_на_руїнах_Міссолонгі</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Greece_on_the_Ruins_of_Missolonghi</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3181999</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Greece_on_the_Ruins_of_Missolonghi</field>
+</doc>
+</add>

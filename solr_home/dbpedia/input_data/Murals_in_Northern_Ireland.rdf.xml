@@ -1,0 +1,115 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Republican_murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Murales_en_Irlanda_del_Norte</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Murals_in_Northern_Ireland</field>
+</doc>
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/북아일랜드_거리벽화</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Murals_in_Northern_Ireland</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Murals_in_Northern_Ireland</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1144161</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Peintures_murales_d'Irlande_du_Nord</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Murals_in_Northern_Ireland</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Настінні_розписи_у_Північній_Ірландії</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/북아일랜드_거리벽화</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Pintures_murals_a_Irlanda_del_Nord</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Murales_en_Irlanda_del_Norte</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Ipar_Irlandako_muralak</field>
+<field name="sameAs">http://dbpedia.org/resource/Murals_in_Northern_Ireland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_in_Northern_Ireland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Politics_of_Northern_Ireland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_about_The_Troubles_(Northern_Ireland)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Political_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Irish_paintings</field>
+<field name="abstract">Murals in Northern Ireland have become symbols of Northern Ireland, depicting the region's past and present political and religious divisions. Northern Ireland contains arguably the most famous political murals. Almost 2,000 murals have been documented in Northern Ireland since the 1970s. The murals tend to represent one side's political point of view, or commemorate an event or person(s) involved in the history of Northern Ireland, particularly during the Troubles.</field>
+<field name="label">Murals in Northern Ireland</field>
+<field name="comment">Murals in Northern Ireland have become symbols of Northern Ireland, depicting the region's past and present political and religious divisions. Northern Ireland contains arguably the most famous political murals. Almost 2,000 murals have been documented in Northern Ireland since the 1970s. The murals tend to represent one side's political point of view, or commemorate an event or person(s) involved in the history of Northern Ireland, particularly during the Troubles.</field>
+<field name="link_external">http://cain.ulst.ac.uk/murals/</field>
+<field name="link_external">http://flickr.com/groups/nimurals/</field>
+<field name="link_external">http://www.southernspaces.org/2009/routes-reconciliation-visiting-sites-cultural-trauma-us-south-northern-ireland-and-south-africa</field>
+<field name="link_external">http://extramuralactivity.wordpress.com</field>
+<field name="link_external">http://billrolston.weebly.com/</field>
+<field name="link_external">http://www.flickr.com/groups/belfastwallmurals/pool/</field>
+<field name="link_external">http://www.belfastmurals.com/</field>
+<field name="link_external">http://www.belfast-murals.co.uk/</field>
+<field name="link_external">http://ccdl.libraries.claremont.edu/cdm/landingpage/collection/mni</field>
+<field name="link_external">http://www.virtualbelfastmuraltour.com/</field>
+<field name="link_external">http://vimeo.com/8795619</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Murals_in_Northern_Ireland</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Murals_in_Northern_Ireland</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Peintures_murales_d'Irlande_du_Nord</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Murals_in_Northern_Ireland</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Murals_in_Northern_Ireland</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Murals_in_Northern_Ireland</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Northern_irish_murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Murals_is_Northern_Ireland</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Northern_Irish_murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Political_mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Political_murals_in_Northern_Ireland</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Ipar_Irlandako_muralak</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Murals_in_Northern_Ireland</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1144161</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Murals_in_Northern_Ireland</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Pintures_murals_a_Irlanda_del_Nord</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Murals_in_Northern_Ireland</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Настінні_розписи_у_Північній_Ірландії</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Murals_in_Northern_Ireland</field>
+</doc>
+</add>

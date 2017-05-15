@@ -1,0 +1,221 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/James_Abbott_McNeill_Whistler</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мать_Уистлера</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Arrangement_en_gris_et_noir_n°1</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Matka_Whistlera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Whistler</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arrangement_in_Grey_and_Black:_The_Artist's_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arrangement_in_Grey_and_Black_No.1</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Arrangement_in_Grau_und_Schwarz:_Porträt_der_Mutter_des_Künstlers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Mãe_de_Whistler</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Whistler's_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мать_Уистлера</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q687182</field>
+<field name="sameAs">http://et.dbpedia.org/resource/Whistleri_ema</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Matka_Whistlera</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.01gw1b</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Whistler's_Mother</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Mãe_de_Whistler</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Mater_pictoris_(Whistler)</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Arrangement_in_Gray_and_Black:_The_Artist's_Mother</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_la_madre_del_artista</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Arrangement_en_gris_et_noir_n°1</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/مادر_ویسلر</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Arrangement_in_Grau_und_Schwarz:_Porträt_der_Mutter_des_Künstlers</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Arrangement_in_Gray_and_Black,_No._1</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Whistler’s_Mother</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+<field name="sameAs">http://th.dbpedia.org/resource/มารดาของวิสต์เลอร์</field>
+<field name="sameAs">http://he.dbpedia.org/resource/סידור_באפור_ושחור:_אמו_של_האמן</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_James_Abbott_McNeill_Whistler</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1871_paintings</field>
+<field name="abstract">Arrangement in Grey and Black No.1, famous under its colloquial name Whistler's Mother, is an 1871 oil-on-canvas painting by American-born painter James McNeill Whistler. The painting is 56.81 by 63.94 inches ( cm ×  cm), displayed in a frame of Whistler's own design in the Musée d'Orsay in Paris, having been bought by the French state in 1891. It is now one of the most famous works by an American artist outside the United States. It has been variously described as an American icon and a Victorian Mona Lisa.</field>
+<field name="label">Whistler's Mother</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1b/Whistlers_Mother_high_res.jpg</field>
+<field name="comment">Arrangement in Grey and Black No.1, famous under its colloquial name Whistler's Mother, is an 1871 oil-on-canvas painting by American-born painter James McNeill Whistler. The painting is 56.81 by 63.94 inches ( cm ×  cm), displayed in a frame of Whistler's own design in the Musée d'Orsay in Paris, having been bought by the French state in 1891. It is now one of the most famous works by an American artist outside the United States.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Whistlers_Mother_high_res.jpg/200px-Whistlers_Mother_high_res.jpg</field>
+<field name="link_external">http://www.musee-orsay.fr/index.php?id=851&amp;L=1&amp;tx_commentaire_pi1%5BshowUid%5D=445&amp;no_cache=1</field>
+<field name="artist">http://dbpedia.org/resource/James_Abbott_McNeill_Whistler</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">144.3</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">Arrangement in Grey and Black No.1</field>
+<field name="width">162.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Whistler's_Mother</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arrangement_in_Gray_and_Black</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arrangement_in_Gray_and_Black:_The_Artist's_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arrangement_in_Gray_and_Black:_The_Artists_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arrangement_in_Grey_and_Black</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arrangement_in_Grey_and_Black:_The_Artists_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arrangement_in_Grey_and_Black_No._1</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Artist's_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Artists_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Artist's_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Artist's_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Artists_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Whistlers_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Whistler's_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_la_madre_del_artista</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Arrangement_in_Gray_and_Black,_No._1</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q687182</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Arrangement_in_Gray_and_Black:_The_Artist's_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://et.dbpedia.org/resource/Whistleri_ema</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/مادر_ویسلر</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/סידור_באפור_ושחור:_אמו_של_האמן</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Mater_pictoris_(Whistler)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Whistler’s_Mother</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/มารดาของวิสต์เลอร์</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Whistler's_Mother</field>
+</doc>
+</add>

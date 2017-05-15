@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Madame_Marie-Louise_Trudaine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f4tt_</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3399448</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Madame_Marie-Louise_Trudaine</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_Madame_Marie-Louise_Trudaine</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Madame_Marie-Louise_Trudaine</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:18th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1792_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Jacques-Louis_David_portraits</field>
+<field name="abstract">The Portrait of Madame Marie-Louise Trudaine is an unfinished 1791–1792 portrait of Marie-Louise Trudaine by the French painter Jacques-Louis David. It was commissioned from David by her brothers-in-law, the Trudaine brothers (the Trudaine family had provided France with major civil servants such as Daniel-Charles Trudaine since the 17th century) who welcomed David, the poet André Chénier and other major artists of the time to their Parisian salon at place des Vosges. It shows her seated on a simple chaisse, with her hands crossed on her lap and wearing a sober dress, a blue waist-sash and a white collar. Her expression is worried and reinforced by the tormented background and her unkempt hair. David became radicalised at the time of the French Revolution in 1792, was elected a deputy to the National Convention, and became an extremist—unlike the Trudaine family, who opted for obscurity. David left the portrait unfinished.</field>
+<field name="label">Portrait of Madame Marie-Louise Trudaine</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4e/Jacques-Louis_David_-_Madame_Trudaine_-_WGA6068.jpg</field>
+<field name="comment">The Portrait of Madame Marie-Louise Trudaine is an unfinished 1791–1792 portrait of Marie-Louise Trudaine by the French painter Jacques-Louis David. It was commissioned from David by her brothers-in-law, the Trudaine brothers (the Trudaine family had provided France with major civil servants such as Daniel-Charles Trudaine since the 17th century) who welcomed David, the poet André Chénier and other major artists of the time to their Parisian salon at place des Vosges.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Jacques-Louis_David_-_Madame_Trudaine_-_WGA6068.jpg/200px-Jacques-Louis_David_-_Madame_Trudaine_-_WGA6068.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Jacques-Louis_David</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">130</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Portrait of Madame Marie-Louise Trudaine</field>
+<field name="type">Oil on canvas</field>
+<field name="width">98</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Madame_Marie-Louise_Trudaine</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Madame_Marie-Louise_Trudaine</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Madame_Marie-Louise_Trudaine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Madame_Marie-Louise_Trudaine</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_Madame_Marie-Louise_Trudaine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Madame_Marie-Louise_Trudaine</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3399448</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Madame_Marie-Louise_Trudaine</field>
+</doc>
+</add>

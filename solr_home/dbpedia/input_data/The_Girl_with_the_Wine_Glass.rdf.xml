@@ -1,0 +1,97 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Mädchen_mit_dem_Weinglas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Jeune_Fille_au_verre_de_vin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Dama_con_dos_caballeros</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Dama_con_dos_caballeros</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Girl_with_the_Wine_Glass</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Fanciulla_con_bicchiere_di_vino</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Flickan_med_vinglaset</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Mädchen_mit_dem_Weinglas</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Dame_en_twee_heren</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1169874</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Jeune_Fille_au_verre_de_vin</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h52ly_</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dama_i_dwóch_panów</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660_paintings</field>
+<field name="abstract">The Girl with the Wine Glass is a 1659-1660 painting by Johannes Vermeer, now in the Herzog Anton Ulrich Museum in Braunschweig.</field>
+<field name="label">The Girl with the Wine Glass</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f6/Johannes_Vermeer_-_A_Lady_and_Two_Gentlemen_-_WGA24639.jpg</field>
+<field name="comment">The Girl with the Wine Glass is a 1659-1660 painting by Johannes Vermeer, now in the Herzog Anton Ulrich Museum in Braunschweig.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Johannes_Vermeer_-_A_Lady_and_Two_Gentlemen_-_WGA24639.jpg/200px-Johannes_Vermeer_-_A_Lady_and_Two_Gentlemen_-_WGA24639.jpg</field>
+<field name="link_external">http://www.essentialvermeer.com/catalogue/girl_with_a_wine_glass.html</field>
+<field name="link_external">http://books.google.com/books?id=3Rx5e_KdgdkC&amp;pg=PA58&amp;lpg=PA58&amp;dq=%22The+Girl+with+the+Wine+Glass%22&amp;source=bl&amp;ots=7Uc0-FZSoY&amp;sig=16xHuUFQwWoiwJt-LOCvsga9RME&amp;hl=en&amp;ei=ofKTTrTHLaKNigLO8rzbBA&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=10&amp;ved=0CF4Q6AEwCQ#v=onepage&amp;q=%22The%20Girl%20with%20the%20Wine%20Glass%22&amp;f=false</field>
+<field name="link_external">http://books.google.es/books?id=TZgSLFesAZwC&amp;pg=PA123&amp;dq=Vermeer+The+girl+with+a+wine+glass&amp;hl=es&amp;ei=LVG4TYzzAs7A8QOUr7E4&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=3&amp;ved=0CDQQ6AEwAg#v=onepage&amp;q=Vermeer%20The%20girl%20with%20a%20wine%20glass&amp;f=false</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Braunschweig</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Herzog_Anton_Ulrich_Museum</field>
+<field name="title">The Girl with the Wine Glass</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Girl_with_the_Wine_Glass</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Girl_with_the_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Fanciulla_con_bicchiere_di_vino</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dama_i_dwóch_panów</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Girl_with_the_Wineglass</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Girl_with_the_Wine_Glass</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Dame_en_twee_heren</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1169874</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Flickan_med_vinglaset</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Girl_with_the_Wine_Glass</field>
+</doc>
+</add>

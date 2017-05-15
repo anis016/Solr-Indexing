@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Age_of_Reptiles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Age_of_Reptiles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04lhm8x</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Age_of_Reptiles</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Age_of_Reptiles</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paleoart</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Yale_University</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">The Age of Reptiles is a 110-foot mural depicting the period of ancient history when reptiles were the dominant creatures on the earth, painted by Rudolph Franz Zallinger. The fresco sits in the Yale Peabody Museum in New Haven, Connecticut, and was completed in 1947 after three years of work. The Age of Reptiles was at one time the largest painting in the world, and depicts a span of nearly 350 million years in Earth's history. Painted in the Renaissance fresco secco technique, The Age of Reptiles showcases the contemporary view of dinosaurs as slow, sluggish creatures (a view that has been gradually replaced by more active dinosaurs. ) Zallinger received the Addison Emery Verrill medal in 1980 for the mural.</field>
+<field name="label">The Age of Reptiles</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/57/The_age_of_reptiles_(full-low).png</field>
+<field name="comment">The Age of Reptiles is a 110-foot mural depicting the period of ancient history when reptiles were the dominant creatures on the earth, painted by Rudolph Franz Zallinger. The fresco sits in the Yale Peabody Museum in New Haven, Connecticut, and was completed in 1947 after three years of work. The Age of Reptiles was at one time the largest painting in the world, and depicts a span of nearly 350 million years in Earth's history.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/The_age_of_reptiles_(full-low).png/200px-The_age_of_reptiles_(full-low).png</field>
+<field name="link_external">http://www.peabody.yale.edu/explore/reptiles01.html</field>
+<field name="link_external">http://www.peabody.yale.edu/archives/ypmmurals.html#AOR</field>
+<field name="artist">http://dbpedia.org/resource/Rudolph_F._Zallinger</field>
+<field name="city">http://dbpedia.org/resource/New_Haven,_Connecticut</field>
+<field name="height">490</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Peabody_Museum_of_Natural_History</field>
+<field name="title">The Age of Reptiles</field>
+<field name="width">3500</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Age_of_Reptiles</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Age_of_Reptiles</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_age_of_reptiles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Age_of_Reptiles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Age_of_Reptiles</field>
+</doc>
+</add>

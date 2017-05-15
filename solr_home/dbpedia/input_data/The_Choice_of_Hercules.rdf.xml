@@ -1,0 +1,90 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Choice_of_Hercules</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Scelta_di_Ercole</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Choice_of_Hercules</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q283665</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02p72x1</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Hércules_en_la_encrucijada</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Choice_of_Hercules</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Herkules_na_rozstajach</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Η_εκλογή_του_Ηρακλή</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Геркулес_на_перетині_шляхів</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1596_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Annibale_Carracci</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Museum_of_Capodimonte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nude_art</field>
+<field name="abstract">For the ancient parable, see Heracles#Youth, and for the musical piece by George Frideric Handel, see The Choice of Hercules (Handel). The Choice of Hercules 300px Artist Annibale Carracci Year 1596 Type Oil on canvas Dimensions 166 cm × 237 cm Location Capodimonte Gallery, Naples The Choice of Hercules is a painting by the Italian Baroque painter Annibale Carracci. Dating from 1596, it is housed in the Capodimonte Gallery of Naples. The subject is the Choice of Hercules. Carracci, who was in Rome from the late 1595 or early 1596, was commissioned this work by Cardinal Odoardo Farnese for the ceiling of his camerino in his family's palace. In 1662 it was moved to the Farnese ducal seat in Parma. The work is considered one of Carracci's masterworks for its balanced rendering of a poetical ideal, graphically influenced by the artist's contact with Michelangelo's Sistine Chapel frescoes and Rome's classical remains, such as the Farnese Hercules or the Laocoon group. A vigorous and plastic Hercules is depicted with two women flanking him, who represent the opposite destinies which the life could reserve him: on the left the Virtue is calling him to the hardest path leading to glory through hardship, while the second, the Pleasure, the easier path, is enticing him to the vice. Behind Hercules is a palm, which, through the leaves and the branches (a symbol of military victory and fame), hints to Hercules' future heroic life.</field>
+<field name="label">The Choice of Hercules</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ad/CarracciHercules.jpg</field>
+<field name="comment">For the ancient parable, see Heracles#Youth, and for the musical piece by George Frideric Handel, see The Choice of Hercules (Handel). The Choice of Hercules 300px Artist Annibale Carracci Year 1596 Type Oil on canvas Dimensions 166 cm × 237 cm Location Capodimonte Gallery, Naples The Choice of Hercules is a painting by the Italian Baroque painter Annibale Carracci. Dating from 1596, it is housed in the Capodimonte Gallery of Naples. The subject is the Choice of Hercules.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ad/CarracciHercules.jpg/200px-CarracciHercules.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=1382Page</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">166</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Choice of Hercules</field>
+<field name="type">Oil on canvas</field>
+<field name="width">237</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Choice_of_Hercules</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Choice_of_Hercules</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Hércules_en_la_encrucijada</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Choice_of_Hercules</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Scelta_di_Ercole</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Choice_of_Hercules</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hercules_at_a_Crossroad</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Choice_of_Heracles_(Annibale_Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Choice_of_Hercules</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Choice_of_Hercules</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Η_εκλογή_του_Ηρακλή</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Choice_of_Hercules</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Herkules_na_rozstajach</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Choice_of_Hercules</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q283665</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Choice_of_Hercules</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Геркулес_на_перетині_шляхів</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Choice_of_Hercules</field>
+</doc>
+</add>

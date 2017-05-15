@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Quadrato_di_Villafranca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Quadrato_di_Villafranca</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Quadrato_di_Villafranca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_quadrato_di_Villafranca</field>
+<field name="sameAs">http://dbpedia.org/resource/Quadrato_di_Villafranca</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3375603</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«Quadrato_di_Villafranca»</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch2p_r</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Quadrato_di_Villafranca</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="abstract">Il Quadrato di Villafranca or Esercitazione di tiro is a painting by Giovanni Fattori created in 1876–1880 depicting a scene of the Battle of Custoza (1866). The painting belonged to the Stramezzi collection of Crema and is published in the catalogue of Giovanni Malesci (Ed. De Agostini, Novara) al n° 175 with the title “Esercitazione di Tiro”. The painting has been exhibited at the Macchiaioli exhibition organized by the Board of the Gallery of Modern Art of Florence in 1956, at the Montecatini exhibition in 1986 and at the Mole Antonelliana in Turin in 1986.</field>
+<field name="label">Quadrato di Villafranca</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f6/Quadrato_di_villafranca.jpg</field>
+<field name="comment">Il Quadrato di Villafranca or Esercitazione di tiro is a painting by Giovanni Fattori created in 1876–1880 depicting a scene of the Battle of Custoza (1866). The painting belonged to the Stramezzi collection of Crema and is published in the catalogue of Giovanni Malesci (Ed. De Agostini, Novara) al n° 175 with the title “Esercitazione di Tiro”.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Quadrato_di_villafranca.jpg/200px-Quadrato_di_villafranca.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Giovanni_Fattori</field>
+<field name="height">11</field>
+<field name="image"/>
+<field name="title">’’The Quadrato di Villafranca’’ or ‘’Esercitazione di Tiro’’</field>
+<field name="width">32</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Quadrato_di_Villafranca</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Quadrato_di_Villafranca</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_quadrato_di_Villafranca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Quadrato_di_Villafranca</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3375603</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Quadrato_di_Villafranca</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«Quadrato_di_Villafranca»</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Quadrato_di_Villafranca</field>
+</doc>
+</add>

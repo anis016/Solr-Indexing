@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Westoe_Netty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Westoe_Netty</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Westoe_Netty</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04mzk1c</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7989339</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Tyne_and_Wear</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Toilets</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Visitor_attractions_in_County_Durham</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Buildings_and_structures_in_Tyne_and_Wear</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1972_paintings</field>
+<field name="abstract">The Westoe Netty is a painting by Robert Olley. It depicts a historical scene inside a public toilet (Netty is a Geordie dialect word for toilet). Painted in 1972, it has become a cultural symbol of North East England working class history. Olley was a former miner turned local artist, and his painting was inspired by a real toilet that was formerly sited in Westoe, South Shields. His painting depicted six working class men and a little boy using the netty, which was used by workers travelling to the nearby Westoe Colliery. The painting portrays the wall of the netty covered in humorous and often vulgar graffiti, reflecting many local phrases and cultural references. The original toilet was built in 1890. When the area it was sited in was earmarked for regeneration, the toilet was saved from demolition by friends of the artist, who dismantled it and put into storage in 1996 in a local shipyard. In 2008 the toilet was rebuilt as a permanent exhibit at the Beamish Museum, County Durham, and opened on 25 July 2008 with a recreation of the picture's scene staged for the media. Unfortunately by 2010 the authenticity of the rebuilt North Eastern icon became a victim of its own success as its visitors thought it was for public use so a decision to retire it into temporary storage until funds allowed the Westoe Netty to be relocated, reconstructed and plumbed in as a working urinal.</field>
+<field name="label">Westoe Netty</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/19/The_Westoe_Netty_by_Robert_Olley.gif</field>
+<field name="comment">The Westoe Netty is a painting by Robert Olley. It depicts a historical scene inside a public toilet (Netty is a Geordie dialect word for toilet). Painted in 1972, it has become a cultural symbol of North East England working class history. Olley was a former miner turned local artist, and his painting was inspired by a real toilet that was formerly sited in Westoe, South Shields.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/The_Westoe_Netty_by_Robert_Olley.gif/200px-The_Westoe_Netty_by_Robert_Olley.gif</field>
+<field name="link_external">http://www.robertolley.co.uk/</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="imageSize">240</field>
+<field name="title">The Westoe Netty</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Westoe_Netty</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Westoe_Netty</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Netty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Westoe_Netty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Westoe_Netty</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7989339</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Westoe_Netty</field>
+</doc>
+</add>

@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sien_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Хоорник,_Клазина_Мария</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4499795</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gw_7bx</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sien_(Van_Gogh_series)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Sien_(rysunki_van_Gogha)</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Θλίψη_(Βαν_Γκογκ)</field>
+<field name="sameAs">http://dbpedia.org/resource/Sien_(Van_Gogh_series)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Holland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Norton_Simon_Museum</field>
+<field name="abstract">Vincent van Gogh drew and painted a series of works of his mistress Sien during their time together in the Netherlands. In particular, his drawing Sorrow is widely acknowledged as a masterwork of draftsmanship, the culmination of a long and sometimes uncertain apprenticeship in learning his craft. Commonly called Sien Hoornik, Clasina Maria Hoornik (1850 - 1904) lived with van Gogh during much of his time in The Hague from 1881 to 1883. Van Gogh used Sien, a pregnant prostitute, as a model for his work and later took Sien and her daughter into his home. Van Gogh made drawings and paintings of Sien and her daughter, baby and mother over that period, which reflected the domestic life and hardships of the working poor. Their relationship was not accepted by his family or supporters, although his brother Theo did not withdraw his support over it. It did contribute undoubtedly, however, to a split with Anton Mauve, a cousin-in-law and noted painter of the Hague School, who had introduced van Gogh to painting as well as supporting him financially, and whom van Gogh revered. At his brother Theo's urging, van Gogh left Sien in 1883 to paint in Drenthe, putting an end to the only domestic relationship he was ever to have. Sien resumed her life as a seamstress, cleaning woman and likely prostitute before marrying in 1901. On 12 November 1904, aged 54, she threw herself into the Schelde river and drowned, fulfilling a prophecy she had made to van Gogh in 1883: "Yes, I'm a whore ... it’s bound to end up with me jumping into the water."</field>
+<field name="label">Sien (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5a/Vincent_van_Gogh_-_Sorrow.jpg</field>
+<field name="comment">Vincent van Gogh drew and painted a series of works of his mistress Sien during their time together in the Netherlands. In particular, his drawing Sorrow is widely acknowledged as a masterwork of draftsmanship, the culmination of a long and sometimes uncertain apprenticeship in learning his craft. Commonly called Sien Hoornik, Clasina Maria Hoornik (1850 - 1904) lived with van Gogh during much of his time in The Hague from 1881 to 1883.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Vincent_van_Gogh_-_Sorrow.jpg/200px-Vincent_van_Gogh_-_Sorrow.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sien_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sien_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Хоорник,_Клазина_Мария</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sien_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Sien_(rysunki_van_Gogha)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sien_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sien</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sien_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sien_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Θλίψη_(Βαν_Γκογκ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sien_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4499795</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sien_(Van_Gogh_series)</field>
+</doc>
+</add>

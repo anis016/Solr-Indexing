@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Mary_Adeline_Williams</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232295</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ddgdk6</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Mary_Adeline_Williams</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Mary_Adeline_Williams</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1900_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Eakins</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1899_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Philadelphia_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="abstract">Portrait of Mary Adeline Williams is the title given to two separate oil on canvas paintings by Thomas Eakins, each depicting Mary Adeline Williams (1853–1941), known familiarly to the Eakins family as "Addie". The first painting, now in the Art Institute of Chicago, was completed in 1899, and portrays the subject with a serious demeanor. The second portrait, in the Philadelphia Museum of Art, was painted in 1900, and is more emotionally expressive. The contrast between the paintings has been called "Perhaps the most famous example of Eakins's transforming a sitter dramatically while maintaining the effect of severe realism."</field>
+<field name="label">Portrait of Mary Adeline Williams</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/73/Addie_Woman_in_Black.jpg</field>
+<field name="comment">Portrait of Mary Adeline Williams is the title given to two separate oil on canvas paintings by Thomas Eakins, each depicting Mary Adeline Williams (1853–1941), known familiarly to the Eakins family as "Addie". The first painting, now in the Art Institute of Chicago, was completed in 1899, and portrays the subject with a serious demeanor. The second portrait, in the Philadelphia Museum of Art, was painted in 1900, and is more emotionally expressive.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Addie_Woman_in_Black.jpg/200px-Addie_Woman_in_Black.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Mary_Adeline_Williams</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Mary_Adeline_Williams</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adeline</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Mary_Adeline_Williams</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Mary_Adeline_Williams</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232295</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Mary_Adeline_Williams</field>
+</doc>
+</add>

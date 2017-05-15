@@ -1,0 +1,100 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Mnich_nad_morzem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Монах_у_моря</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_Mönch_am_Meer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Monk_by_the_Sea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/La_Monaĥo_ĉe_la_Maro</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Monk_by_the_Sea</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04_07tr</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Deniz_Kenarında_Keşiş</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Монах_у_моря</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q693746</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Monaco_in_riva_al_mare</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_Mönch_am_Meer</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Mnich_nad_morzem</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Moine_au_bord_de_la_mer</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Μοναχός_στην_θάλασσα</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1800s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caspar_David_Friedrich</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Nationalgalerie</field>
+<field name="abstract">The Monk by the Sea (German: Der Mönch am Meer) is an oil painting by the German Romantic artist Caspar David Friedrich. It was painted between 1808 and 1810 in Dresden and was first shown together with the painting The Abbey in the Oakwood (Abtei im Eichwald) in the Berlin Academy exhibition of 1810. On Friedrich's request The Monk by the Sea was hung above The Abbey in the Oakwood. After the exhibition both pictures were bought by king Frederick Wilhelm III for his collection. Today the paintings hang side by side in the Alte Nationalgalerie, Berlin. For its lack of concern with creating the illusion of depth—which had been a traditional aspect of landscape painting—The Monk by the Sea was Friedrich's most radical composition. The broad expanses of sea and sky emphasize the meager figure of the monk, standing before the vastness of nature and the presence of God.</field>
+<field name="label">The Monk by the Sea</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ab/Caspar_David_Friedrich_029.jpg</field>
+<field name="comment">The Monk by the Sea (German: Der Mönch am Meer) is an oil painting by the German Romantic artist Caspar David Friedrich. It was painted between 1808 and 1810 in Dresden and was first shown together with the painting The Abbey in the Oakwood (Abtei im Eichwald) in the Berlin Academy exhibition of 1810. On Friedrich's request The Monk by the Sea was hung above The Abbey in the Oakwood. After the exhibition both pictures were bought by king Frederick Wilhelm III for his collection.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caspar_David_Friedrich_029.jpg/200px-Caspar_David_Friedrich_029.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/friedrich-monk-by-the-sea.html</field>
+<field name="artist">http://dbpedia.org/resource/Caspar_David_Friedrich</field>
+<field name="city"/>
+<field name="height">110</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Alte_Nationalgalerie</field>
+<field name="title">The Monk by the Sea</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">210</field>
+<field name="width">171.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Monk_by_the_Sea</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Monk_by_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Μοναχός_στην_θάλασσα</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Moine_au_bord_de_la_mer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Monaco_in_riva_al_mare</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q693746</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/La_Monaĥo_ĉe_la_Maro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Deniz_Kenarında_Keşiş</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Monk_by_the_Sea</field>
+</doc>
+</add>

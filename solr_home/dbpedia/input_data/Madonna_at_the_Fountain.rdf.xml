@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Madonna_am_Springbrunnen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_at_the_Fountain</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Vierge_à_la_fontaine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_at_the_Fountain</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_at_the_Fountain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Vierge_à_la_fontaine</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_at_the_Fountain</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/泉の聖母</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_at_the_Fountain</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Madonna_bij_de_fontein_(Jan_van_Eyck)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q838074</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hzpxcr</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Madonna_am_Springbrunnen</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jan_van_Eyck</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1439_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Museum_of_Fine_Arts,_Antwerp</field>
+<field name="abstract">The Madonna at the Fountain is a 1439 oil on panel painting by the early Netherlandish artist Jan van Eyck. It belongs to van Eyck's late work, and is his last signed and dated painting. This is on the original frame, which it still retains: At 19 x 12 cm. the painting is only a little larger than a postcard. It is set in a hortus conclusus, with the fountain representing the fountain of life. The Madonna is depicted dressed in blue, her figure framed by a richly embroidered cloth of honor supported by two angels. The Christ Child holds prayer beads in his left hand, suggesting, along with the rose bush behind the figures, the rosary. In the mid to late 15th century the rosary was becoming increasingly popular in northern Europe. This depiction is unusual in that the Madonna wears a blue robe; in the Dresden Marienaltar, the Lucca Madonna, and the Madonna of Chancellor Rolin, van Eyck had depicted her dressed in red. The use of red for the clothes of sacred figures was characteristic of 15th century Netherlandish painting, as cochineal was among the most expensive pigments available for dying textiles. In contrast to this, Italian painters used ultramarine for the robes of Madonnas. Thus van Eyck's choice of blue can be seen as evidence of Italian influence.</field>
+<field name="label">Madonna at the Fountain</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/78/Eyck_fountain_Antwerpen.jpg</field>
+<field name="comment">The Madonna at the Fountain is a 1439 oil on panel painting by the early Netherlandish artist Jan van Eyck. It belongs to van Eyck's late work, and is his last signed and dated painting. This is on the original frame, which it still retains: At 19 x 12 cm. the painting is only a little larger than a postcard. It is set in a hortus conclusus, with the fountain representing the fountain of life.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/78/Eyck_fountain_Antwerpen.jpg/200px-Eyck_fountain_Antwerpen.jpg</field>
+<field name="link_external">http://www.kmska.be/en/collectie/highlights/Madonna_fontein.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_at_the_Fountain</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_at_the_Fountain</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_at_the_Fountain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_at_the_Fountain</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Madonna_bij_de_fontein_(Jan_van_Eyck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_at_the_Fountain</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q838074</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_at_the_Fountain</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/泉の聖母</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_at_the_Fountain</field>
+</doc>
+</add>

@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Paese_della_cuccagna_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Land_of_Cockaigne_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Schlaraffenland_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Land_of_Cockaigne_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_país_de_Jauja_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Land_of_Cockaigne_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Kraina_szczęśliwości</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Land_of_Cockaigne_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Страна_лентяев_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Land_of_Cockaigne_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Land_of_Cockaigne_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Land_of_Cockaigne_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Land_of_Cockaigne_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Land_of_Cockaigne_(Bruegel)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_país_de_Jauja_(pintura)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Paese_della_cuccagna_(Bruegel)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Kraina_szczęśliwości</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q556553</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09v652j</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Страна_лентяев_(картина)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Land_of_Cockaigne_(Bruegel)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Schlaraffenland_(Bruegel)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1567_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="abstract">The Land of Cockaigne is the subject of an oil painting by Pieter Bruegel the Elder. In medieval times, Cockaigne was a mythical land of plenty. Bruegel's depiction of Cockaigne and its residents is not meant to be a flattering one; he chooses rather a comic illustration of the spiritual emptiness believed to derive from gluttony and sloth, two of the seven deadly sins. In the painting, a clerk, a peasant farmer, and a soldier lie dozing on the ground underneath a table bound to a tree. The clerk's book, papers, ink and pen lie idle, as do the peasant's flail and the soldier's lance and gauntlet. A half-eaten egg in its shell runs between the peasant and the clerk. The table attached to the tree is laden with partly consumed food and drink. Behind the tree, a roasted fowl lays itself upon a silver platter, implying that it is ready to be eaten, and a roasted pig runs about with a carving knife already slipped under its skin. On the left, a knight emerges from a lean-to whose roof is covered in dishes of pie and pastry. On the right and behind the main action, a man clutching a spoon forces his way out of a large cloud of pudding, having eaten his way through it; he reaches for the bent branch of a tree in order to lower himself into Cockaigne. The fence enclosing the main scene behind the dozing trio is made of interwoven sausages. A partly eaten wheel of cheese and a bush or tower of loaves of bread sit on the left and right of the scene. The arrangement of the clerk, peasant, and soldier underneath the tree suggests the men as the spokes of a wheel, where the tree is the hub. The roasted fowl lies in the place where a fourth spoke could be. Ross Frank has argued that the painting is a political satire directed at the participants in the first stages of the Dutch Revolt, where the roasted fowl represents the humiliation and failure of the nobleman (who would otherwise form the fourth spoke of the wheel) in his leadership of the Netherlands, and the overall scene depicts the complacency of the Netherlandish people, too content with their abundance to take the risks that would bring about significant religious and political change. In Dutch, the name of the painting is "Het Luilekkerland", meaning "the lazy-luscious-land."</field>
+<field name="label">The Land of Cockaigne (Bruegel)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a5/Pieter_Bruegel_d._Ä._037.jpg</field>
+<field name="comment">The Land of Cockaigne is the subject of an oil painting by Pieter Bruegel the Elder. In medieval times, Cockaigne was a mythical land of plenty. Bruegel's depiction of Cockaigne and its residents is not meant to be a flattering one; he chooses rather a comic illustration of the spiritual emptiness believed to derive from gluttony and sloth, two of the seven deadly sins. In the painting, a clerk, a peasant farmer, and a soldier lie dozing on the ground underneath a table bound to a tree.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Pieter_Bruegel_d._Ä._037.jpg/200px-Pieter_Bruegel_d._Ä._037.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/97318</field>
+<field name="artist">http://dbpedia.org/resource/Pieter_Bruegel_the_Elder</field>
+<field name="city"/>
+<field name="height">52</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Alte_Pinakothek</field>
+<field name="title">The Land of Cockaigne</field>
+<field name="width">78</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Land_of_Cockaigne_(Bruegel)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Land_of_Cockaigne_(Bruegel)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Land_of_Cockaigne_(Brueghel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q556553</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Land_of_Cockaigne_(Bruegel)</field>
+</doc>
+</add>

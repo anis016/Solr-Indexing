@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Footbridge_across_a_Ditch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Footbridge_across_a_Ditch</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Footbridge_across_a_Ditch</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmcpyv</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5466451</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Footbridge across a Ditch is an oil painting created in 1883 by Vincent van Gogh.</field>
+<field name="label">Footbridge across a Ditch</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/55/Footbridge_across_a_Ditch.jpg</field>
+<field name="comment">Footbridge across a Ditch is an oil painting created in 1883 by Vincent van Gogh.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Footbridge_across_a_Ditch.jpg/200px-Footbridge_across_a_Ditch.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Footbridge_across_a_Ditch</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Footbridge_across_a_Ditch</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Footbridge_across_a_Ditch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Footbridge_across_a_Ditch</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5466451</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Footbridge_across_a_Ditch</field>
+</doc>
+</add>

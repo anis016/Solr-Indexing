@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5296650</field>
+<field name="sameAs">http://zu.dbpedia.org/resource/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zy_tt</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_Tomasza_Morusa_(obraz_Hansa_Holbeina_Młodszego)</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Frick_Collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1527_paintings</field>
+<field name="abstract">Portrait of Sir Thomas More is a 1527 commissioned painting on oak of Thomas More by the German artist and printmaker Hans Holbein the Younger. The work was created during the period from 1526 when Holbein lived in London. While there, he gained the friendship of the Dutch humanist Desiderius Erasmus, who recommended that he befriend More, then a powerful, knighted speaker at the English Parliament. Today the painting is best known for its realism, and for the mastery of color Holbein displays in the hanging green drapes, and deep reds of the sitter's sleeves.</field>
+<field name="label">Portrait of Sir Thomas More (Holbein)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d2/Hans_Holbein,_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg</field>
+<field name="comment">Portrait of Sir Thomas More is a 1527 commissioned painting on oak of Thomas More by the German artist and printmaker Hans Holbein the Younger. The work was created during the period from 1526 when Holbein lived in London. While there, he gained the friendship of the Dutch humanist Desiderius Erasmus, who recommended that he befriend More, then a powerful, knighted speaker at the English Parliament.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d2/Hans_Holbein,_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg/200px-Hans_Holbein,_the_Younger_-_Sir_Thomas_More_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.youtube.com/watch?v=apfnd_GWARA</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">74.2</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Frick_Collection</field>
+<field name="title">Portrait of Sir Thomas More</field>
+<field name="type">Oil on oak</field>
+<field name="width">59</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_Tomasza_Morusa_(obraz_Hansa_Holbeina_Młodszego)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5296650</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+</doc>
+<doc>
+<field name="uri">http://zu.dbpedia.org/resource/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Sir_Thomas_More_(Holbein)</field>
+</doc>
+</add>

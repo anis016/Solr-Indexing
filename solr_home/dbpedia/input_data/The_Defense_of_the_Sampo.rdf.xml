@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Defense_of_the_Sampo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Defense_of_the_Sampo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7729586</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gjdnx1</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Sammon_puolustus</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Defense_of_the_Sampo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1896_paintings</field>
+<field name="abstract">The Defense of the Sampo (Sammon puolustus) is a 1896 Romantic nationalist painting by Finnish painter Akseli Gallen-Kallela. The painting illustrates a passage from the Kalevala, the Finnish national epic compiled by Elias Lönnrot in the 19th century. The scene portrayed is taken from the 43rd song of the epic, where the hero Väinämöinen, seen wielding a sword, has stolen the precious artifact Sampo from the evil witch Louhi, and she, having taken the form of a giant bird, is trying to reclaim it. The battle for the Sampo is also given a deeper connotation as a battle for the soul of Finland.</field>
+<field name="label">The Defense of the Sampo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/Sammon_puolustus.jpg</field>
+<field name="comment">The Defense of the Sampo (Sammon puolustus) is a 1896 Romantic nationalist painting by Finnish painter Akseli Gallen-Kallela. The painting illustrates a passage from the Kalevala, the Finnish national epic compiled by Elias Lönnrot in the 19th century.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Sammon_puolustus.jpg/200px-Sammon_puolustus.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Turku</field>
+<field name="height">122</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Turku</field>
+<field name="title">The Defense of the Sampo</field>
+<field name="type">Tempera</field>
+<field name="width">125</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Defense_of_the_Sampo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Defense_of_the_Sampo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Defence_of_the_Sampo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Defense_of_the_Sampo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Defense_of_the_Sampo</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7729586</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Defense_of_the_Sampo</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Sammon_puolustus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Defense_of_the_Sampo</field>
+</doc>
+</add>

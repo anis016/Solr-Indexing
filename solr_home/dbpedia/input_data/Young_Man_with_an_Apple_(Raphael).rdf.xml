@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Jeune_Homme_à_la_pomme</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_giovane_con_la_mela</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Автопортрет_(Рафаело)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ชายหนุ่มกับแอปเปิล_(ราฟาเอล)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2713823</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Cavan_oğlan_alma_ilə_(Rafael)</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08myfl</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_giovane_con_la_mela</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Jeune_Homme_à_la_pomme</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Elmalı_Genç_Adam_(Rafael)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_paintings_in_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1505_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="abstract">The Young Man with an Apple is a painting by the Italian High Renaissance painter Raphael (1505). It is housed in the Uffizi Gallery in Florence. Made during the artist's Florentine period, it is often thought to be the portrait of Francesco Maria I Della Rovere.</field>
+<field name="label">Young Man with an Apple (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a1/Young_Man_Apple.jpg</field>
+<field name="comment">The Young Man with an Apple is a painting by the Italian High Renaissance painter Raphael (1505). It is housed in the Uffizi Gallery in Florence. Made during the artist's Florentine period, it is often thought to be the portrait of Francesco Maria I Della Rovere.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Young_Man_Apple.jpg/200px-Young_Man_Apple.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">47</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Young Man with an Apple</field>
+<field name="type">Oil on wood</field>
+<field name="width">35</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Young_Man_with_an_Apple_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Young_Man_with_an_Apple_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Young_Man_with_an_Apple_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2713823</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Cavan_oğlan_alma_ilə_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Автопортрет_(Рафаело)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ชายหนุ่มกับแอปเปิล_(ราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Elmalı_Genç_Adam_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Man_with_an_Apple_(Raphael)</field>
+</doc>
+</add>

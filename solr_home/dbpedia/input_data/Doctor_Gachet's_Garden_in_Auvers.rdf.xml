@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Doctor_Gachet's_Garden_in_Auvers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Doctor_Gachet's_Garden_in_Auvers</field>
+<field name="sameAs">http://dbpedia.org/resource/Doctor_Gachet's_Garden_in_Auvers</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5287337</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glpzdq</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Dr. Gachet's Garden in Auvers and Marguerite Gachet in the Garden were both painted in 1890 by Vincent van Gogh in the gardens of his homeopathic physician, Dr. Paul Gachet. Both paintings reside at the Musée d'Orsay.</field>
+<field name="label">Doctor Gachet's Garden in Auvers</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2f/Doctor_Gachet's_Garden_in_Auvers.jpg</field>
+<field name="comment">Dr. Gachet's Garden in Auvers and Marguerite Gachet in the Garden were both painted in 1890 by Vincent van Gogh in the gardens of his homeopathic physician, Dr. Paul Gachet. Both paintings reside at the Musée d'Orsay.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Doctor_Gachet's_Garden_in_Auvers.jpg/200px-Doctor_Gachet's_Garden_in_Auvers.jpg</field>
+<field name="link_external">http://www.fodors.com/world/europe/france/ile-de-france/review-185506.html</field>
+<field name="link_external">http://www.valdoise.fr/6387-la-maison-du-docteur-gachet-a-auvers-sur-oise.htm</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="image"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">Marguerite Gachet in the Garden</field>
+<field name="title">Doctor Gachet's Garden in Auvers</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Doctor_Gachet's_Garden_in_Auvers</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Doctor_Gachet's_Garden_in_Auvers</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Doctor_Gachet's_Garden_in_Auvers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Doctor_Gachet's_Garden_in_Auvers</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5287337</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Doctor_Gachet's_Garden_in_Auvers</field>
+</doc>
+</add>

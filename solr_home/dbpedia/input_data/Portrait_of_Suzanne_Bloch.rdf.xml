@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Suzanne_Bloch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03gznj0</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232312</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Suzanne_Bloch</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Suzanne_Bloch</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Retrato_de_Suzanne_Bloch</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/蘇珊寶殊的肖像</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_S%C3%A3o_Paulo_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:20th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Stolen_works_of_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1904_paintings</field>
+<field name="abstract">Portrait of Suzanne Bloch is a painting executed by the Spanish artist Pablo Picasso in Paris in 1904, towards the end of his blue period. The subject, Suzanne Bloch, was a singer known for her Wagner interpretations, and the sister of the violinist Henri Bloch.</field>
+<field name="label">Portrait of Suzanne Bloch</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4f/Picasso-suzanne_bloch.jpg</field>
+<field name="comment">Portrait of Suzanne Bloch is a painting executed by the Spanish artist Pablo Picasso in Paris in 1904, towards the end of his blue period. The subject, Suzanne Bloch, was a singer known for her Wagner interpretations, and the sister of the violinist Henri Bloch.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Picasso-suzanne_bloch.jpg/200px-Picasso-suzanne_bloch.jpg</field>
+<field name="link_external">http://masp.uol.com.br/servicoeducativo/assessoriaaoprofessor-dez06.php</field>
+<field name="link_external">http://uk.news.yahoo.com/rtrs/20071221/ten-uk-brazil-picasso-d3877cb_1.html</field>
+<field name="link_external">http://picasso.csdl.tamu.edu/picasso</field>
+<field name="link_external">http://ritualcafe.files.wordpress.com/2007/07/lavrador-de-cafe.jpg</field>
+<field name="link_external">http://www.museum-security.org/wordpress/?p=121</field>
+<field name="artist">http://dbpedia.org/resource/Pablo_Picasso</field>
+<field name="height">65</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/S%C3%A3o_Paulo</field>
+<field name="museum">http://dbpedia.org/resource/S%C3%A3o_Paulo_Museum_of_Art</field>
+<field name="title">Portrait of Suzanne Bloch</field>
+<field name="width">54</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Suzanne_Bloch</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Suzanne_Bloch</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Retrato_de_Suzanne_Bloch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Suzanne_Bloch</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Suzanne_Bloch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Suzanne_Bloch</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_suzanne_bloch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232312</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Suzanne_Bloch</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/蘇珊寶殊的肖像</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Suzanne_Bloch</field>
+</doc>
+</add>

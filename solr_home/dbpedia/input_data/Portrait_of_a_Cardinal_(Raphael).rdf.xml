@@ -1,0 +1,83 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Cardinal_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Cardinal_(Raphael)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2535563</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_d'un_cardinal</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Bir_Kardinal_Portresi_(Rafael)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Cardinal_(Raphael)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f4f0s</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_cardinale_(Raffaello)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Kardinalın_portreti_(Rafael)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_cardenal_(Rafael)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="abstract">The Portrait of a Cardinal is a painting by the Italian Renaissance artist Raphael. It is housed in the Prado Museum in Madrid. The Cardinal has been identified as either Alidosi, Bibbiena, Cybo or Trivulzio, in the court of Pope Julius II. Painted in Rome, Rafael mastered the art of realism in his paintings, the ability to “paint people as more real than they really are,” as his peers put it. Like Leonardo da Vinci’s Mona Lisa, the subject is seated, with formation of a triangle pyramid by the subjects' body and arms. The contrasts are striking between the red of his hat, whiteness of his sleeve and his face. Meticulous brushstrokes give the audience a three-dimensional character, revealing Rapahel’s interest in sculpture during those years. While still a prince, the painting was acquired by Carlos IV of Spain (1748–1819) in Rome. The picture was attributed to Antonio Moro, due to its technique, considered unusual in Raphael.</field>
+<field name="label">Portrait of a Cardinal (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c4/Portrait_of_a_Cardinal,_by_Raffael,_from_Prado_in_Google_Earth.jpg</field>
+<field name="comment">The Portrait of a Cardinal is a painting by the Italian Renaissance artist Raphael. It is housed in the Prado Museum in Madrid. The Cardinal has been identified as either Alidosi, Bibbiena, Cybo or Trivulzio, in the court of Pope Julius II. Painted in Rome, Rafael mastered the art of realism in his paintings, the ability to “paint people as more real than they really are,” as his peers put it.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Portrait_of_a_Cardinal,_by_Raffael,_from_Prado_in_Google_Earth.jpg/200px-Portrait_of_a_Cardinal,_by_Raffael,_from_Prado_in_Google_Earth.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">79</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">Portrait of a Cardinal</field>
+<field name="width">61</field>
+<field name="year">about 1510</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Cardinal_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Cardinal_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_d'un_cardinal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Cardinal_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Cardinal_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Cardinal_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Cardinal_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_cardenal_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Cardinal_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_cardinale_(Raffaello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Cardinal_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2535563</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Cardinal_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Kardinalın_portreti_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Cardinal_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Bir_Kardinal_Portresi_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Cardinal_(Raphael)</field>
+</doc>
+</add>

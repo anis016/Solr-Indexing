@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/The_Washington_Family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Washington_Family</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Washington_Family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Washington_Family</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2415079</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05mt1_9</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Washington_Family</field>
+<field name="sameAs">http://de.dbpedia.org/resource/The_Washington_Family</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1796_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_slaves</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:George_Washington</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="abstract">The Washington Family by Edward Savage is a life-sized group portrait of U. S. President George Washington, First Lady Martha Washington, two of her grandchildren, and an enslaved servant. Based on life studies made early in Washington's presidency, Savage began the work in New York City, 1789-90, and completed it several years later in Philadelphia, 1795-96. The enormous painting (7 ft. x 9 ft. 4 in. / 213 cm. x 284 cm. ) is now at the National Gallery of Art, Washington, DC. The image was a famous one in the 19th century. Prints were mass-produced by Savage beginning in 1798, and by John Sartain in 1840. The setting for the painting is idealized, with the Potomac River flowing in the background. Shown are grandson George Washington Parke Custis, George Washington, granddaughter Eleanor Parke Custis, Martha Washington, and an enslaved servant. With a plan of the future city of Washington, D.C. in front of her, Martha Washington is, according to Savage's catalogue, "pointing with her fan to the grand avenue", which is now the National Mall.</field>
+<field name="label">The Washington Family</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1a/The_Washington_Family.jpg</field>
+<field name="comment">The Washington Family by Edward Savage is a life-sized group portrait of U. S. President George Washington, First Lady Martha Washington, two of her grandchildren, and an enslaved servant. Based on life studies made early in Washington's presidency, Savage began the work in New York City, 1789-90, and completed it several years later in Philadelphia, 1795-96. The enormous painting (7 ft. x 9 ft. 4 in. / 213 cm. x 284 cm. ) is now at the National Gallery of Art, Washington, DC.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/The_Washington_Family.jpg/200px-The_Washington_Family.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Washington_Family</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Washington_Family</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Washington_Family</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Washington_Family</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2415079</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Washington_Family</field>
+</doc>
+</add>

@@ -1,0 +1,17 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Witches'_Sabbath_(Goya)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Witches'_Sabbath_(Goya)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Witches'_Sabbath_(Goya)</field>
+<field name="label">Witches' Sabbath (Goya)</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Witches'_Sabbath_(Goya)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Witches'_Sabbath_(Goya)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Witches'_Sabbath_(Goya)</field>
+</doc>
+</add>

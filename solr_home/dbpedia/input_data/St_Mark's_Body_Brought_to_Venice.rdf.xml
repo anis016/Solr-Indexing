@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Traslación_del_cuerpo_de_San_Marcos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St_Mark's_Body_Brought_to_Venice</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St_Mark's_Body_Brought_to_Venice</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St_Mark's_Body_Brought_to_Venice</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St_Mark's_Body_Brought_to_Venice</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0jkxkc6</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q924655</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Przeniesienie_ciała_św._Marka</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Traslación_del_cuerpo_de_San_Marcos</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trafugamento_del_corpo_di_san_Marco</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tintoretto</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Gallerie_dell'Accademia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="abstract">St Mark's Body Brought to Venice or Translation of the Body of Saint Mark is a painting by Tintoretto. It was produced between 1562 and 1566 as part of a series of works on saint Mark for the Sala Capitolare of the Scuola Grande di San Marco - the others were Miracle of the Slave and Finding of the body of St Mark. It is now held in the gallerie dell'Accademia in Venice.</field>
+<field name="label">St Mark's Body Brought to Venice</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/87/Jacopo_Tintoretto_004.jpg</field>
+<field name="comment">St Mark's Body Brought to Venice or Translation of the Body of Saint Mark is a painting by Tintoretto. It was produced between 1562 and 1566 as part of a series of works on saint Mark for the Sala Capitolare of the Scuola Grande di San Marco - the others were Miracle of the Slave and Finding of the body of St Mark. It is now held in the gallerie dell'Accademia in Venice.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jacopo_Tintoretto_004.jpg/200px-Jacopo_Tintoretto_004.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Tintoretto</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Accademia</field>
+<field name="title">St Mark's Body Brought to Venice</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St_Mark's_Body_Brought_to_Venice</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St_Mark's_Body_Brought_to_Venice</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trafugamento_del_corpo_di_san_Marco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St_Mark's_Body_Brought_to_Venice</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St_Mark's_Body_Brought_to_Venice</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St_Mark's_Body_Brought_to_Venice</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q924655</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St_Mark's_Body_Brought_to_Venice</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Przeniesienie_ciała_św._Marka</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St_Mark's_Body_Brought_to_Venice</field>
+</doc>
+</add>

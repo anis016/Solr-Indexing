@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Yevgeny_Mravinsky</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_Евгения_Александровича_Мравинского</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4373332</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Yevgeny_Mravinsky</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx_jz2</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Yevgeny_Mravinsky</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:20th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lev_Russov</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1957_paintings</field>
+<field name="abstract"/>
+<field name="label">Portrait of Yevgeny Mravinsky</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3e/Russov-Lev-Portrait-of-Yevgeny-Mravinsky-7port3bw.jpg</field>
+<field name="comment"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Russov-Lev-Portrait-of-Yevgeny-Mravinsky-7port3bw.jpg/200px-Russov-Lev-Portrait-of-Yevgeny-Mravinsky-7port3bw.jpg</field>
+<field name="link_external">http://www.ais-aica.ru/ais-aica/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D2948:2012-07-12-21-00-19%26catid%3D311%26Itemid%3D3&amp;usg=ALkJrhhtb0uV8QKgbwDh9c5nNvebRkvRtA</field>
+<field name="link_external">http://www.leningradartist.com/bo154b.jpg</field>
+<field name="link_external">http://www.leningradartist.com</field>
+<field name="link_external">http://www.leningradartist.com/7port3b.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Lev_Russov</field>
+<field name="city">http://dbpedia.org/resource/Moscow</field>
+<field name="height">95</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">Portrait of Yevgeny Mravinsky</field>
+<field name="width">73</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Yevgeny_Mravinsky</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Yevgeny_Mravinsky</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_Евгения_Александровича_Мравинского</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Yevgeny_Mravinsky</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Mravinsky</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Yevgeny_Mravinsky_(by_Lev_Russov)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Yevgeny_Mravinsky_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Yevgeny_Mravinsky</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Yevgeny_Mravinsky</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4373332</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Yevgeny_Mravinsky</field>
+</doc>
+</add>

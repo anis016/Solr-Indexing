@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Sibylles_et_les_Prophètes_(Raphaël)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sibyls_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sibille_e_angeli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sibyls_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sibyls_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sibyls_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sibyls_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sibille_e_angeli</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02624w6</field>
+<field name="sameAs">http://dbpedia.org/resource/Sibyls_(Raphael)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1639900</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Sibyly_(Raffael)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sibyls_(Raphael)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Sibylles_et_les_Prophètes_(Raphaël)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1514_paintings</field>
+<field name="abstract">The Sybils, or Sybils receiving instruction from Angels, is a painting by the Italian renaissance artist Raphael. It was painted in 1514, as part of a commission Raphael had received from the papal banker Agostino Chigi to decorate the interior of Santa Maria della Pace in Rome.</field>
+<field name="label">Sibyls (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/eb/Raphael_The_Sibyls.jpg</field>
+<field name="comment">The Sybils, or Sybils receiving instruction from Angels, is a painting by the Italian renaissance artist Raphael. It was painted in 1514, as part of a commission Raphael had received from the papal banker Agostino Chigi to decorate the interior of Santa Maria della Pace in Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Raphael_The_Sibyls.jpg/200px-Raphael_The_Sibyls.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">?</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Sybils</field>
+<field name="type">Fresco</field>
+<field name="width">?</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sibyls_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sibyls_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1639900</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sibyls_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Sibyly_(Raffael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sibyls_(Raphael)</field>
+</doc>
+</add>

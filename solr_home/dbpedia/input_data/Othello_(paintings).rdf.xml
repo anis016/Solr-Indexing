@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Othello_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Othello_(paintings)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Othello_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Othello_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Othello_(paintings)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04dyvtj</field>
+<field name="sameAs">http://dbpedia.org/resource/Othello_(paintings)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1985_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_based_on_Othello</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Othello is a series of paintings executed in 1985 by Nabil Kanso. The subjects of the paintings are loosely based on Shakespeare’s tragedy Othello. The series comprises 60 paintings dealing with themes of love, race, jealousy, betrayal, and evil. They depict scenes embodying compositions of figural and metaphorical imagery that may be seen as visually reflecting the intimate and dramatic relationship between Othello and Desdemona, and the tense and uneasy relation that passes between and through Othello, Desdemona and Iago.</field>
+<field name="label">Othello (paintings)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3b/Othello_My_Warrior.jpg</field>
+<field name="comment">Othello is a series of paintings executed in 1985 by Nabil Kanso. The subjects of the paintings are loosely based on Shakespeare’s tragedy Othello. The series comprises 60 paintings dealing with themes of love, race, jealousy, betrayal, and evil.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Othello_My_Warrior.jpg/200px-Othello_My_Warrior.jpg</field>
+<field name="link_external">http://nabilkanso.org/othello.html</field>
+<field name="link_external">http://nabilkanso.com/Othello.html</field>
+<field name="link_external">http://kanso.org/othello.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Othello_(paintings)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Othello_(paintings)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Othello_paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+</add>

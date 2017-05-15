@@ -1,0 +1,91 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Sant'Agostino_nello_studio_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Augustine_in_His_Study_(Carpaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wizja_św._Augustyna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Augustine_in_His_Study_(Carpaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Augustine_in_His_Study_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wizja_św._Augustyna</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Augustine_in_His_Study_(Carpaccio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtwlbv</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3948677</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Augustine_in_His_Study_(Carpaccio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Sant'Agostino_nello_studio_(Carpaccio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1502_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Carpaccio</field>
+<field name="abstract">St. Augustine in His Study (also called Vision of St. Augustine) is a painting by the Italian Renaissance artist Vittore Carpaccio housed in the Scuola di San Giorgio degli Schiavoni of Venice, northern Italy.</field>
+<field name="label">St. Augustine in His Study (Carpaccio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5b/Vittore_carpaccio,_visione_di_sant'agostino_01.jpg</field>
+<field name="comment">St. Augustine in His Study (also called Vision of St. Augustine) is a painting by the Italian Renaissance artist Vittore Carpaccio housed in the Scuola di San Giorgio degli Schiavoni of Venice, northern Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Vittore_carpaccio,_visione_di_sant'agostino_01.jpg/200px-Vittore_carpaccio,_visione_di_sant'agostino_01.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Vittore_Carpaccio</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="height">141</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="museum">http://dbpedia.org/resource/Scuola_di_San_Giorgio_degli_Schiavoni</field>
+<field name="title">St. Augustine in His Studio</field>
+<field name="type">Tempera on panel</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Augustine_in_His_Study_(Carpaccio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Augustine_in_His_Study_(Carpaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Augustine_in_His_Study_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Augustine_in_His_Study_(Carpaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Augustine_in_His_Study_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Augustine_in_His_Studio_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Augustine_in_His_Study</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Augustine_in_His_Study_(Vittore_Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St_Augustine_in_His_Study_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vision_of_St._Augustine_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vision_of_St_Augustine_(Carpaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3948677</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Augustine_in_His_Study_(Carpaccio)</field>
+</doc>
+</add>

@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_a_Golden_Chain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hgkztw</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Retrato_de_Jovem_com_Corrente_de_Ouro</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_a_Golden_Chain</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Young_Man_with_a_Golden_Chain</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232339</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_S%C3%A3o_Paulo_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1635_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_Golden_Age_paintings</field>
+<field name="abstract">Portrait of a Young Man with a Gold Chain is an oil painting usually attributed to the Dutch painter Rembrandt. Signed and dated 1635, it was traditionally regarded as a self-portrait (under the title Self-Portrait with Beard Rising or Self-Portrait with a Gold Chain), although contemporary criticism tends to challenge this hypothesis. The accreditation of this work to Rembrandt is old and supported by various documents and graphic records dating back to the seventeenth century. However, a report by the Rembrandt Research Project in 1989 assigned it to the "circle" of the Dutch master. This new assignment was controversial: the opinion was challenged by Pietro Maria Bardi and Luiz Marques, among other experts, who credit the authorship of the painting to Rembrandt. The work is currently preserved at the São Paulo Museum of Art.</field>
+<field name="label">Portrait of a Young Man with a Golden Chain</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/32/Rembrandt_-_autoretrato01.jpg</field>
+<field name="comment">Portrait of a Young Man with a Gold Chain is an oil painting usually attributed to the Dutch painter Rembrandt. Signed and dated 1635, it was traditionally regarded as a self-portrait (under the title Self-Portrait with Beard Rising or Self-Portrait with a Gold Chain), although contemporary criticism tends to challenge this hypothesis. The accreditation of this work to Rembrandt is old and supported by various documents and graphic records dating back to the seventeenth century.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Rembrandt_-_autoretrato01.jpg/200px-Rembrandt_-_autoretrato01.jpg</field>
+<field name="link_external">http://www.historianet.com.br/conteudo/default.aspx?codigo=500</field>
+<field name="link_external">http://www.casthalia.com.br/a_mansao/obras/rembrandt_autoretrato.htm</field>
+<field name="artist">http://dbpedia.org/resource/Rembrandt</field>
+<field name="city">http://dbpedia.org/resource/S%C3%A3o_Paulo</field>
+<field name="height">57</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/S%C3%A3o_Paulo_Museum_of_Art</field>
+<field name="title">With a Golden Chain</field>
+<field name="title">Portrait of a Young Man</field>
+<field name="type">Oil on wood</field>
+<field name="width">44</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_with_a_Golden_Chain</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Young_Man_with_a_Golden_Chain</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Man_with_a_Golden_Chain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_a_Golden_Chain</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Retrato_de_Jovem_com_Corrente_de_Ouro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_a_Golden_Chain</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232339</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Man_with_a_Golden_Chain</field>
+</doc>
+</add>

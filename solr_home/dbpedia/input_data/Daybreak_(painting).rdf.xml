@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Daybreak</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Daybreak_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Daybreak_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Daybreak_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5243093</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0270jlt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1922_paintings</field>
+<field name="abstract">Daybreak is a painting by Maxfield Parrish (1870–1966) made in 1922. Daybreak is regarded as the most popular art print of the 20th century, based on number of prints made: one for every four American homes. According to the The National Museum of American Illustration, it has outsold Andy Warhol's Campbell's Soup Cans and Da Vinci's Last Supper. It is still in print. Parrish referred to Daybreak as his "great painting", the epitome of his work. Measuring 26.5 by 45 inches ( cm ×  cm), the painting employs a formal layout similar to a stage set, with two feminine figures. Painted using preparatory photographs, the models were his regular models, Kitty Owen, Parrish's daughter Jean, and Susan Lewin. Only two figures appear in the completed painting, though pencil studies indicate that the artist originally intended a third near the righthand column. The composition is arranged on the principle of "dynamic symmetry" popularized by Jay Hambidge.</field>
+<field name="label">Daybreak (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/47/Daybreak_by_Parrish_(1922).jpg</field>
+<field name="comment">Daybreak is a painting by Maxfield Parrish (1870–1966) made in 1922. Daybreak is regarded as the most popular art print of the 20th century, based on number of prints made: one for every four American homes. According to the The National Museum of American Illustration, it has outsold Andy Warhol's Campbell's Soup Cans and Da Vinci's Last Supper. It is still in print. Parrish referred to Daybreak as his "great painting", the epitome of his work.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Daybreak_by_Parrish_(1922).jpg/200px-Daybreak_by_Parrish_(1922).jpg</field>
+<field name="link_external">http://www.bpib.com/illustrat/parrish.htm</field>
+<field name="artist">http://dbpedia.org/resource/Maxfield_Parrish</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="title">Daybreak</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Daybreak_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Daybreak_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Daybreak_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Daybreak_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5243093</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Daybreak_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Van_Gogh_pintando_girasoles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Painter_of_Sunflowers</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Painter_of_Sunflowers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Painter_of_Sunflowers</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Painter_of_Sunflowers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2917882</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Painter_of_Sunflowers</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gkrsx</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Van_Gogh_pintant_gira-sols</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Painter_of_Sunflowers</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Van_Gogh_pintando_girasoles</field>
+<field name="sameAs">http://he.dbpedia.org/resource/צייר_החמניות</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_Gauguin</field>
+<field name="abstract">The Painter of Sunflowers is a portrait of Vincent van Gogh by Paul Gauguin in December 1888. The portrait was painted when Gauguin visited in Arles. Van Gogh had asked him to come to Arles, because he wanted to start an art-colony there. Gauguin however only stayed for two months, because the painters argued.</field>
+<field name="label">The Painter of Sunflowers</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/71/Paul_Gauguin_104.jpg</field>
+<field name="comment">The Painter of Sunflowers is a portrait of Vincent van Gogh by Paul Gauguin in December 1888. The portrait was painted when Gauguin visited in Arles. Van Gogh had asked him to come to Arles, because he wanted to start an art-colony there. Gauguin however only stayed for two months, because the painters argued.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Paul_Gauguin_104.jpg/200px-Paul_Gauguin_104.jpg</field>
+<field name="artist"/>
+<field name="height">73</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Van_Gogh_Museum</field>
+<field name="title">The Painter of Sunflowers</field>
+<field name="type">Oil on canvas</field>
+<field name="width">91</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Painter_of_Sunflowers</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Painter_of_Sunflowers</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Van_Gogh_pintant_gira-sols</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Painter_of_Sunflowers</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/צייר_החמניות</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Painter_of_Sunflowers</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2917882</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Painter_of_Sunflowers</field>
+</doc>
+</add>

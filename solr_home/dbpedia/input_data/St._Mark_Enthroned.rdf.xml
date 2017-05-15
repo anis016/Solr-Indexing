@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Mark_Enthroned</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3947595</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Marco_in_trono</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Mark_Enthroned</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Mark_Enthroned</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmfck_</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1511_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="abstract">St. Mark Enthroned is a painting by the Italian Renaissance artist Titian, executed in 1510 or 1511, and housed in the church of Santa Maria della Salute in Venice, Italy.</field>
+<field name="label">St. Mark Enthroned</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/12/TizianoSanMarcoinTrono.jpg</field>
+<field name="comment">St. Mark Enthroned is a painting by the Italian Renaissance artist Titian, executed in 1510 or 1511, and housed in the church of Santa Maria della Salute in Venice, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/TizianoSanMarcoinTrono.jpg/200px-TizianoSanMarcoinTrono.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="height">218</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Santa_Maria_della_Salute</field>
+<field name="title">St. Mark Enthroned</field>
+<field name="width">149</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Mark_Enthroned</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Mark_Enthroned</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Marco_in_trono</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Mark_Enthroned</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Mark_Enthroned</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Mark_Enthroned</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Mark_Enthroned_with_Saints_Cosmas,_Damian,_Sebastian_and_Roch</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Mark_Enthroned_with_four_Saints</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St_Mark_Enthroned</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3947595</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Mark_Enthroned</field>
+</doc>
+</add>

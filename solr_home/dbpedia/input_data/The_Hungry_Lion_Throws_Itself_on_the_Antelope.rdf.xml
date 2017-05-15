@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/León_hambriento_atacando_a_un_antílope</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hungry_Lion_Throws_Itself_on_the_Antelope</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Hungry_Lion_Throws_Itself_on_the_Antelope</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Hungry_Lion_Throws_Itself_on_the_Antelope</field>
+<field name="sameAs">http://es.dbpedia.org/resource/León_hambriento_atacando_a_un_antílope</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07kj0nk</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hungry_Lion_Throws_Itself_on_the_Antelope</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/飢えたライオン</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7741023</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lions_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Rousseau</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1905_paintings</field>
+<field name="abstract">The Hungry Lion Throws Itself on the Antelope (Le lion ayant faim se jette sur l'antilope) is a large oil-on-canvas painting created by Henri Rousseau in 1905. Following Scouts Attacked by a Tiger the previous year, The Hungry Lion was the second jungle painting to mark Rousseau's return to this genre after a 10 year hiatus caused by the generally negative reception to his 1891 painting Tiger in a Tropical Storm. The Hungry Lion features in a jungle scene of thick green foliage lit by a deep red setting sun. In the foreground, a lion bites deeply into the neck of an antelope. Other animals are visible in the dense undergrowth: a panther watches from the right, an owl stares out of the background holding a bloody strand of meat in its beak in the centre, with a second bird to its left, and dark ape-like shape with gimlet eye lurks to the left. Rousseau based the central pair of animals on a diorama of stuffed animals at the Paris Muséum national d'histoire naturelle, entitled "Senegal Lion Devouring an Antelope". Rousseau's first jungle painting, Tiger in a Tropical Storm, was rejected by the Académie de peinture et de sculpture for their official Paris Salon, but he was able to show it at the 1891 Salon des Indépendants. Despite his increasing reputation, Rousseau continued to exhibit his works at the annual Salon des Indépendants, but The Hungry Lion was first shown at a third show, the Salon d'Automne, in 1905, alongside works by Matisse and Derain. Rousseau wrote a longer subtitle or caption to accompany his painting: The magazine L'Illustration printed a copy of the work in its edition of 4 November 1905, with works by Matisse, Derain, Cézanne and Vuillard. The avante garde works on display at the 1905 Salon d'Automne were decried by art critic Louis Vauxcelles as "Donatello au milieu des fauves!" ("Donatello among the wild beasts"), contrasting the paintings with a Renaissance sculpture displayed in the same room at the Grand Palais. Vauxcelles' comment was printed on 17 October 1905 in Gil Blas, a daily newspaper, and the term Fauvism passed into popular usage for the type of work exhibited, of seeming simplicity in vibrant colours. The very term "Fauvism" may have been influenced directly by Rousseau's The Hungry Lion, although Rousseau was not himself counted as a Fauve. Despite their apparent simplicity, Rousseau's jungle paintings were built up meticulously in layers, using a large number of green shades to capture the lush exuberance of the jungle. Rousseau's work continued to be derided by the critics up to and after his death in 1910, but he won a following among his contemporaries: Picasso, Matisse, and Toulouse-Lautrec were all admirers of his work. The Hungry Lion is now held by the Fondation Beyeler and is exhibited at their gallery at Riehen, near Basel, in Switzerland but before in 1905, it was exhibited in the Salon des Independants, in Paris.</field>
+<field name="label">The Hungry Lion Throws Itself on the Antelope</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/25/Rousseau-Hungry-Lion.jpg</field>
+<field name="comment">The Hungry Lion Throws Itself on the Antelope (Le lion ayant faim se jette sur l'antilope) is a large oil-on-canvas painting created by Henri Rousseau in 1905. Following Scouts Attacked by a Tiger the previous year, The Hungry Lion was the second jungle painting to mark Rousseau's return to this genre after a 10 year hiatus caused by the generally negative reception to his 1891 painting Tiger in a Tropical Storm.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Rousseau-Hungry-Lion.jpg/200px-Rousseau-Hungry-Lion.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Rousseau</field>
+<field name="city">http://dbpedia.org/resource/Basel-Stadt</field>
+<field name="city">http://dbpedia.org/resource/Switzerland</field>
+<field name="city">http://dbpedia.org/resource/Riehen</field>
+<field name="height">200</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Beyeler_Foundation</field>
+<field name="title">The Hungry Lion Throws Itself on the Antelope</field>
+<field name="type">Oil on canvas</field>
+<field name="width">301</field>
+<field name="year">Exhibited in 1905</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Hungry_Lion_Throws_Itself_on_the_Antelope</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Hungry_Lion_Throws_Itself_on_the_Antelope</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Hungry_Lion_Throws_Itself_on_the_Antelope</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Hungry_Lion_Throws_Itself_on_the_Antelope</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Hungry_Lion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/飢えたライオン</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hungry_Lion_Throws_Itself_on_the_Antelope</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7741023</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hungry_Lion_Throws_Itself_on_the_Antelope</field>
+</doc>
+</add>

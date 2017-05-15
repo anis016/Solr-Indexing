@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Mysteries_of_the_Horizon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Mysteries_of_the_Horizon</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d8ryj</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Le_chef-d'œuvre,_ou_Les_mystères_de_l'horizon</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q134533</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mysteries_of_the_Horizon</field>
+<field name="sameAs">http://sl.dbpedia.org/resource/Skrivnosti_obzorja</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1955_paintings</field>
+<field name="abstract">The Mysteries of the Horizon (in French, Les mystères de l'horizon) (1955) is an oil on canvas painting by the Belgian surrealist René Magritte. The painting depicts three seemingly identical men in bowler hats. They are in an outdoor setting at twilight. Though they appear to be sharing the same space each one also seems to exist in a separate reality. Each is facing a different direction. In the sky above each figure is a separate crescent moon. Men in bowler hats appear frequently in Magritte's work starting with his 1926 painting The Musings of a Solitary Walker. They are represented as having undefined or identical personalities.</field>
+<field name="label">The Mysteries of the Horizon</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e7/Mysteries_of_the_Horizon.jpg</field>
+<field name="comment">The Mysteries of the Horizon (in French, Les mystères de l'horizon) (1955) is an oil on canvas painting by the Belgian surrealist René Magritte. The painting depicts three seemingly identical men in bowler hats. They are in an outdoor setting at twilight. Though they appear to be sharing the same space each one also seems to exist in a separate reality. Each is facing a different direction. In the sky above each figure is a separate crescent moon.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Mysteries_of_the_Horizon.jpg/200px-Mysteries_of_the_Horizon.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="height">50</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">The Mysteries of the Horizon</field>
+<field name="width">65</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Mysteries_of_the_Horizon</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Mysteries_of_the_Horizon</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Mysteries_of_the_Horizon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Mysteries_of_the_Horizon</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q134533</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mysteries_of_the_Horizon</field>
+</doc>
+<doc>
+<field name="uri">http://sl.dbpedia.org/resource/Skrivnosti_obzorja</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mysteries_of_the_Horizon</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Le_chef-d'œuvre,_ou_Les_mystères_de_l'horizon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mysteries_of_the_Horizon</field>
+</doc>
+</add>

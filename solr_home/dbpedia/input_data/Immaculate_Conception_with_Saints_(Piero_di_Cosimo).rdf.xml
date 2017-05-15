@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Immaculate_Conception_with_Saints_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Immaculate_Conception_with_Saints_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Incarnation_du_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Immaculate_Conception_with_Saints_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Incarnazione_di_Cristo_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Immaculate_Conception_with_Saints_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Immaculate_Conception_with_Saints_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3204084</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Incarnation_du_Christ</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqlwqc</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Immaculate_Conception_with_Saints_(Piero_di_Cosimo)</field>
+<field name="sameAs">http://dbpedia.org/resource/Immaculate_Conception_with_Saints_(Piero_di_Cosimo)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Incarnazione_di_Cristo_(Piero_di_Cosimo)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1498_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piero_di_Cosimo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="abstract">The Immaculate Conception with Saints (also known as The Incarnation of Jesus) is a painting by the Italian Renaissance painter Piero di Cosimo, executed in c. 1498 or c. 1510 It is housed in the Uffizi Gallery of Florence, Italy. The painting was executed for the Tebaldi Chapel in the church of the Annunziata of Florence, and was acquired by Cardinal Leopoldo de' Medici in 1670. It was moved to the Uffizi in 1804. The work shows the Virgin in a central and illuminated position, with a dove hovering above her head. She is flanked by the Saints Catherine, John the Evangelist, Filippo Benizzi, Antoninus, Peter and Margaret. In the background is a typical Piero's landscape, with two hills characterized by rock with human and beast appearance, where the other scenes of the Adoration of the Magi, the Annunciation to the Shepherds and the Flight to Egypt are depicted.</field>
+<field name="label">Immaculate Conception with Saints (Piero di Cosimo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0d/Piero_di_cosimo,_incarnazione.jpg</field>
+<field name="comment">The Immaculate Conception with Saints (also known as The Incarnation of Jesus) is a painting by the Italian Renaissance painter Piero di Cosimo, executed in c. 1498 or c. 1510 It is housed in the Uffizi Gallery of Florence, Italy. The painting was executed for the Tebaldi Chapel in the church of the Annunziata of Florence, and was acquired by Cardinal Leopoldo de' Medici in 1670. It was moved to the Uffizi in 1804.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Piero_di_cosimo,_incarnazione.jpg/200px-Piero_di_cosimo,_incarnazione.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">206</field>
+<field name="image"/>
+<field name="imageSize">420</field>
+<field name="museum"/>
+<field name="title">Immaculate Conception with Saints</field>
+<field name="type">Oil on panel</field>
+<field name="width">172</field>
+<field name="year">c. 1498 or c. 1510</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Immaculate_Conception_with_Saints_(Piero_di_Cosimo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Immaculate_Conception_with_Saints_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Immaculate_Conception_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Incarnation_of_Jesus_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Incarnation_of_Jesus_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3204084</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Immaculate_Conception_with_Saints_(Piero_di_Cosimo)</field>
+</doc>
+</add>

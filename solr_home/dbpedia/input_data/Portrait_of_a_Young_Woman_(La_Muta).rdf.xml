@@ -1,0 +1,89 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Muta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_(La_Muta)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_Muta</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c8q2_</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Немая_(Рафаэль)</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_Muta</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q919861</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Muta</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Bir_Genç_Kadın_Portresi_(La_Muta)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภาพเหมือนของของสตรีสาว_(ลา_มูตา)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Gənc_qadının_porterti_(La_Muta)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Galleria_Nazionale_delle_Marche</field>
+<field name="abstract">The Portrait of a Young Woman, also known as La Muta, is a portrait by the Italian Renaissance artist Raphael, c. 1507-1508. It is housed in the Galleria Nazionale delle Marche, in Urbino. The picture portrays an unknown noblewoman over a near-black background, showing some Leonardesque influences. Although only recently attributed to Raphael, it is ranked among the best portraits by his hand. The neatness of the large areas of colour which emerge in lighter tones from the background, and the analytical treatment of the details of the woman's clothing are characteristic of Raphael. The dispersive effect of this attention to detail is fully compensated by the tones of colour - used here in a fairly limited range - which unify the composition as a whole. X-ray analysis have showed the presence of an early Raphael years drawing under the painting, showing a female, young face with soft features, with later modifications.</field>
+<field name="label">Portrait of a Young Woman (La Muta)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/27/Raffael_043.jpg</field>
+<field name="comment">The Portrait of a Young Woman, also known as La Muta, is a portrait by the Italian Renaissance artist Raphael, c. 1507-1508. It is housed in the Galleria Nazionale delle Marche, in Urbino. The picture portrays an unknown noblewoman over a near-black background, showing some Leonardesque influences. Although only recently attributed to Raphael, it is ranked among the best portraits by his hand.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Raffael_043.jpg/200px-Raffael_043.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Urbino</field>
+<field name="height">64</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Ducale,_Urbino</field>
+<field name="title">Portrait of a Young Woman</field>
+<field name="width">48</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_(La_Muta)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Young_Woman_(La_Muta)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q919861</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Немая_(Рафаэль)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Gənc_qadının_porterti_(La_Muta)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภาพเหมือนของของสตรีสาว_(ลา_มูตา)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Bir_Genç_Kadın_Portresi_(La_Muta)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(La_Muta)</field>
+</doc>
+</add>

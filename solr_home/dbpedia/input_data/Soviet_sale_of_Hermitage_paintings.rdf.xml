@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Vente_des_peintures_du_musée_de_l'Ermitage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Soviet_sale_of_Hermitage_paintings</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Продажа_картин_из_коллекции_Эрмитажа</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Soviet_sale_of_Hermitage_paintings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hermitage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Soviet_sale_of_Hermitage_paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Продаж_картин_з_колекції_Ермітажу</field>
+<field name="sameAs">http://dbpedia.org/resource/Soviet_sale_of_Hermitage_paintings</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cfwxt</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Soviet_sale_of_Hermitage_paintings</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2026377</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Vente_des_peintures_du_musée_de_l'Ermitage</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Продажа_картин_из_коллекции_Эрмитажа</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Hermitage_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1931_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1930_in_the_Soviet_Union</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_museums</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1931_in_the_Soviet_Union</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Hermitage_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Foreign_relations_of_the_Soviet_Union</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1930_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Economy_of_the_Soviet_Union</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_the_Soviet_Union_and_Soviet_Russia</field>
+<field name="abstract">The Soviet sale of Hermitage paintings in 1930 and 1931 resulted in the departure of some of the most valuable paintings from the collection of the State Hermitage Museum in Leningrad to western museums. Several of the paintings had been in the Hermitage Collection since its creation by Empress Catherine the Great. About two hundred and fifty paintings were sold, including masterpieces by Jan van Eyck, Titian, Rembrandt, Rubens, Raphael, and other important artists. Andrew Mellon donated the twenty-one paintings he purchased from the Hermitage to the United States Government in 1937. They became the nucleus of the National Gallery of Art in Washington DC.</field>
+<field name="label">Soviet sale of Hermitage paintings</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/22/Raffael_023.jpg</field>
+<field name="comment">The Soviet sale of Hermitage paintings in 1930 and 1931 resulted in the departure of some of the most valuable paintings from the collection of the State Hermitage Museum in Leningrad to western museums. Several of the paintings had been in the Hermitage Collection since its creation by Empress Catherine the Great. About two hundred and fifty paintings were sold, including masterpieces by Jan van Eyck, Titian, Rembrandt, Rubens, Raphael, and other important artists.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Raffael_023.jpg/200px-Raffael_023.jpg</field>
+<field name="link_external">http://www.nga.gov/</field>
+<field name="link_external">http://www.hermitagemuseum.org/</field>
+<field name="link_external">http://www.mtabraham.com/</field>
+<field name="link_external">http://www.museu.gulbenkian.pt/</field>
+<field name="link_external">http://www.metmuseum.org/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Soviet_sale_of_Hermitage_paintings</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Soviet_sale_of_Hermitage_paintings</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Soviet_sale_of_Hermitage_paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Soviet_sale_of_Hermitage_paintings</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2026377</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Soviet_sale_of_Hermitage_paintings</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Продаж_картин_з_колекції_Ермітажу</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Soviet_sale_of_Hermitage_paintings</field>
+</doc>
+</add>

@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Consegna_della_regola_francescana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Delivery_of_the_Franciscan_Rule</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Delivery_of_the_Franciscan_Rule</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Delivery_of_the_Franciscan_Rule</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Delivery_of_the_Franciscan_Rule</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3687198</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Delivery_of_the_Franciscan_Rule</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Consegna_della_regola_francescana</field>
+<field name="sameAs">http://dbpedia.org/resource/Delivery_of_the_Franciscan_Rule</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h65ygv</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Colantonio_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1445_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Museum_of_Capodimonte</field>
+<field name="abstract">Delivery of the Franciscan Rule is a painting by the Italian early Renaissance artist Colantonio, dating from 1445 and housed in the Capodimonte Museum of Naples.</field>
+<field name="label">Delivery of the Franciscan Rule</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fb/Colantonio_002.jpg</field>
+<field name="comment">Delivery of the Franciscan Rule is a painting by the Italian early Renaissance artist Colantonio, dating from 1445 and housed in the Capodimonte Museum of Naples.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Colantonio_002.jpg/200px-Colantonio_002.jpg</field>
+<field name="link_external">http://museodicapodimonte.campaniabeniculturali.it/itinerari-tematici/galleria-di-immagini/OA900233</field>
+<field name="artist">http://dbpedia.org/resource/Niccol%C3%B2_Antonio_Colantonio</field>
+<field name="city">http://dbpedia.org/resource/Naples</field>
+<field name="height">150</field>
+<field name="image"/>
+<field name="imageSize">325</field>
+<field name="museum">http://dbpedia.org/resource/Museo_di_Capodimonte</field>
+<field name="title">Delivery of the Franciscan Rule</field>
+<field name="type">Mixed technique on panel</field>
+<field name="width">185</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Delivery_of_the_Franciscan_Rule</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Delivery_of_the_Franciscan_Rule</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Francis_Consigns_the_Rule_to_His_Followers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3687198</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Delivery_of_the_Franciscan_Rule</field>
+</doc>
+</add>

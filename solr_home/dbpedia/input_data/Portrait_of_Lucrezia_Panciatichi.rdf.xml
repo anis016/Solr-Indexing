@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Lucrezia_Panciatichi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rvmt9</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Lucrezia_Panciatichi</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Lucrezia_Panciatichi</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Poltred_Lucrezia_Panciatichi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1990128</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lucrezia_Panciatichi</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Lucrezia_Panciatichi_(pintura)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Bronzino_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1545_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Bronzino_paintings_in_the_Uffizi</field>
+<field name="abstract">The Portrait of Lucrezia Panciatichi is a painting by the Italian artist Agnolo di Cosimo, known as Bronzino, finished around 1545. It is housed in the Uffizi Gallery in Florence, Italy. Lucrezia di Sigismondo Pucci was the wife of Bartolomeo Panciatichi, a Florentine humanist and politician, also portrayed by Bronzino in another Uffizi portrait. Giorgio Vasari describes the two portrays as: "so natural that they seem truly living". The show of refined garments and jewelry was intended not only to underline the élite position of the woman, but also aspects of her personality through a complex symbology, including the words "Amour dure sans fin" on the golden necklace, a reference to a love treatise written for the Grand Duke of Florence, Cosimo I de' Medici, in 1547.</field>
+<field name="label">Portrait of Lucrezia Panciatichi</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/97/Angelo_Bronzino_045.jpg</field>
+<field name="comment">The Portrait of Lucrezia Panciatichi is a painting by the Italian artist Agnolo di Cosimo, known as Bronzino, finished around 1545. It is housed in the Uffizi Gallery in Florence, Italy. Lucrezia di Sigismondo Pucci was the wife of Bartolomeo Panciatichi, a Florentine humanist and politician, also portrayed by Bronzino in another Uffizi portrait. Giorgio Vasari describes the two portrays as: "so natural that they seem truly living".</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Angelo_Bronzino_045.jpg/200px-Angelo_Bronzino_045.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">102</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Lucrezia Panciatichi</field>
+<field name="type">Oil on panel</field>
+<field name="width">85</field>
+<field name="year">c. 1545</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Lucrezia_Panciatichi</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Lucrezia_Panciatichi</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Lucrezia_Panciatichi_(pintura)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lucrezia_Panciatichi</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Lucrezia_Panciatichi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lucrezia_Panciatichi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_lucrezia_panciatichi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Lucrezia_Panciatichi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Lucrezia_Panciatichi</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1990128</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lucrezia_Panciatichi</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Poltred_Lucrezia_Panciatichi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lucrezia_Panciatichi</field>
+</doc>
+</add>

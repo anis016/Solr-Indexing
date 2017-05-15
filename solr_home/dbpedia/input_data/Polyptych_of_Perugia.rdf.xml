@@ -1,0 +1,83 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Polyptych_of_Perugia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Annonciation_(Piero_della_Francesca)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Políptico_de_San_Antonio</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Polyptych_of_Perugia</field>
+<field name="sameAs">http://th.dbpedia.org/resource/บานพับภาพเปรูเจีย</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Polittico_di_Sant'Antonio</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2296912</field>
+<field name="sameAs">http://dbpedia.org/resource/Polyptych_of_Perugia</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vqyxt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Polyptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piero_della_Francesca</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Galleria_Nazionale_dell'Umbria</field>
+<field name="abstract">The Polyptych of Perugia (also known as Polyptych of St. Anthony) is a complex of paintings by the Italian Renaissance master Piero della Francesca, finished around 1470. It is housed in the Galleria Nazionale dell'Umbria, Perugia, Italy. The work was executed for the new Franciscan convent of Sant'Antonio da Padova in Perugia, most likely in the years following his sojourn in Rome. It portrays the Virgin enthroned with the Child in the central part, flanked by several saints: Anthony of Padua and John the Baptist on the left, Francis and Elizabeth of Hungary in the right. In the cusp is the Annunciation. The upper part of the predella shows the saints Clare and Lucy, while in the lower part are miracles stories of the main Franciscan saints. The central part of the polyptych shows a still archaic formula, both in the composition of the frame and in the gold backgrounds: Piero della Francesca was in fact called to complete a work already begun by a local painter. The figures are impressively robust and full-bodied, the realism of iconography innovative and the perspective of the niche throne on which Mary sits is meticulously worked out Of lesser quality are the predella panel, which are in fact attributed to assistants. More innovative and typical of the artist's style is the Annunciation, set in a bright cloister, whose illusionist view is considered amongst the greatest perspective renderings of Renaissance art.</field>
+<field name="label">Polyptych of Perugia</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/24/Piero_Perugia.jpg</field>
+<field name="comment">The Polyptych of Perugia (also known as Polyptych of St. Anthony) is a complex of paintings by the Italian Renaissance master Piero della Francesca, finished around 1470. It is housed in the Galleria Nazionale dell'Umbria, Perugia, Italy. The work was executed for the new Franciscan convent of Sant'Antonio da Padova in Perugia, most likely in the years following his sojourn in Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Piero_Perugia.jpg/200px-Piero_Perugia.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Piero_della_Francesca</field>
+<field name="city">http://dbpedia.org/resource/Perugia</field>
+<field name="height">338</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Polyptych of Perugia</field>
+<field name="type">Oil and tempera on panel</field>
+<field name="width">230</field>
+<field name="year">c. 1470</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Polyptych_of_Perugia</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Polyptych_of_Perugia</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Perugia_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Polyptych_of_perugia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Políptico_de_San_Antonio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Polyptych_of_Perugia</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Annonciation_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Polyptych_of_Perugia</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Polittico_di_Sant'Antonio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Polyptych_of_Perugia</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Polyptych_of_Perugia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Polyptych_of_Perugia</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2296912</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Polyptych_of_Perugia</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/บานพับภาพเปรูเจีย</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Polyptych_of_Perugia</field>
+</doc>
+</add>

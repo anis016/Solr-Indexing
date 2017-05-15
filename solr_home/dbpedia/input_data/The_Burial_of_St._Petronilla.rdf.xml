@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Petronilla_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Burial_of_St._Petronilla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burial_of_St._Petronilla</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Burial_of_St._Petronilla</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7720644</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04yyb9</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Guercino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Capitoline_Museums_collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1623_paintings</field>
+<field name="abstract">The Burial of St. Petronilla is an altarpiece painted by Giovanni Francesco Barbieri (Guercino) around 1623. It simultaneously depicts the burial and the welcoming to heaven of the martyred St. Petronilla. The altarpiece was painted for St. Peter's Basilica in Rome, for a chapel dedicated to the saint and containing her relics. It is now on display in the Capitoline Museums of Rome. Petronilla, whose name means "little rock", is popularly believed to have been the daughter of St. Peter, whose Greek name, Petros, means "rock". Her relics had rested in the catacombs of Rome until 1606, when they were transferred to the basilica church dedicated to her father.</field>
+<field name="label">The Burial of St. Petronilla</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e3/Guercino_petronilla.JPG</field>
+<field name="comment">The Burial of St. Petronilla is an altarpiece painted by Giovanni Francesco Barbieri (Guercino) around 1623. It simultaneously depicts the burial and the welcoming to heaven of the martyred St. Petronilla. The altarpiece was painted for St. Peter's Basilica in Rome, for a chapel dedicated to the saint and containing her relics. It is now on display in the Capitoline Museums of Rome. Petronilla, whose name means "little rock", is popularly believed to have been the daughter of St.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Guercino_petronilla.JPG/200px-Guercino_petronilla.JPG</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=377</field>
+<field name="link_external">http://www.saintpetersbasilica.org/Altars/StPetronilla/StPetronilla.htm</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">720</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Burial of St. Petronilla</field>
+<field name="type">Oil on canvas</field>
+<field name="width">423</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Burial_of_St._Petronilla</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Burial_of_St._Petronilla</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Burial_of_St._Petronilla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Burial_of_St._Petronilla</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7720644</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Burial_of_St._Petronilla</field>
+</doc>
+</add>

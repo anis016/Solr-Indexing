@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rideau,_Cruchon_et_Compotier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2349666</field>
+<field name="sameAs">http://dbpedia.org/resource/Rideau,_Cruchon_et_Compotier</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Rideau,_Cruchon_et_Compotier</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bf8wj</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Stillleben_mit_Vorhang,_Krug_und_Obstschale</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1894_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_C%C3%A9zanne</field>
+<field name="abstract">Rideau, Cruchon et Compotier is a painting created in about 1893 to 1894 by French artist Paul Cézanne (19 January 1839 – 22 October 1906). It is considered the most expensive still life ever sold at an auction. Cézanne was famous for painting still lifes which expressed complex emotions while still being based upon carefully observed reality. Paintings of this type would eventually lead to the creation of new art styles during the 20th century such as Picasso's cubism.</field>
+<field name="label">Rideau, Cruchon et Compotier</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/82/Paulcezanneart.jpg</field>
+<field name="comment">Rideau, Cruchon et Compotier is a painting created in about 1893 to 1894 by French artist Paul Cézanne (19 January 1839 – 22 October 1906). It is considered the most expensive still life ever sold at an auction. Cézanne was famous for painting still lifes which expressed complex emotions while still being based upon carefully observed reality. Paintings of this type would eventually lead to the creation of new art styles during the 20th century such as Picasso's cubism.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Paulcezanneart.jpg/200px-Paulcezanneart.jpg</field>
+<field name="link_external">http://www.artnet.com/magazine_pre2000/news/waltzer/waltzer5-11-3.asp</field>
+<field name="link_external">http://www.chiff.com/a/painting-top-ten.htm</field>
+<field name="artist">http://dbpedia.org/resource/Paul_C%C3%A9zanne</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">Rideau, Cruchon et Compotier</field>
+<field name="type">oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Rideau,_Cruchon_et_Compotier</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Rideau,_Cruchon_et_Compotier</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rideau</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Rideau,_Cruchon_et_Compotier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Rideau,_Cruchon_et_Compotier</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Stillleben_mit_Vorhang,_Krug_und_Obstschale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rideau,_Cruchon_et_Compotier</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2349666</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Rideau,_Cruchon_et_Compotier</field>
+</doc>
+</add>

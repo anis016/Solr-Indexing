@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Double_Dream_of_Spring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d80ld</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Double_Dream_of_Spring</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Double_Dream_of_Spring</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7730731</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1915_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">The Double Dream of Spring (also known as Doppio Sogno di Primavera, 1915) is a painting by the Greek-Italian metaphysical painter Giorgio de Chirico. The painting depicts two separate scenes. The scene on the left shows a statue from behind. The statue appears to be staring contemplatively into an open sky. The two scenes are separated in the middle by a wooden beam. At the base of the beam is a blueprint drawing of an interior. The scene on the right is a view looking down on a landscape. Above the landscape is the shape of the head of a tailor’s dummy. Similar dummies appear many times in de Chirico’s work (cf. The Seer). This time the dummy’s head looms over the landscape like a hot air balloon.</field>
+<field name="label">The Double Dream of Spring</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/53/The_Double_Dream_of_Spring.jpg</field>
+<field name="comment">The Double Dream of Spring (also known as Doppio Sogno di Primavera, 1915) is a painting by the Greek-Italian metaphysical painter Giorgio de Chirico. The painting depicts two separate scenes. The scene on the left shows a statue from behind. The statue appears to be staring contemplatively into an open sky. The two scenes are separated in the middle by a wooden beam. At the base of the beam is a blueprint drawing of an interior. The scene on the right is a view looking down on a landscape.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/53/The_Double_Dream_of_Spring.jpg/200px-The_Double_Dream_of_Spring.jpg</field>
+<field name="link_external">http://www.moma.org/collection/provenance/items/138.57.html</field>
+<field name="artist">http://dbpedia.org/resource/Giorgio_de_Chirico</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">56.2</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">The Double Dream of Spring</field>
+<field name="width">54.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Double_Dream_of_Spring</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Double_Dream_of_Spring</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Double_Dream_of_Spring</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Double_Dream_of_Spring</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7730731</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Double_Dream_of_Spring</field>
+</doc>
+</add>

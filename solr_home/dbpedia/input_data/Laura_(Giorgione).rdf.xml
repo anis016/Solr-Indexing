@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Laura_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Laura_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ラウラ_(ジョルジョーネの絵画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Laura_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Laura_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Laura_(Giorgione)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Laura_(Giorgione)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q595707</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ラウラ_(ジョルジョーネの絵画)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Laura_(Giorgione)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c7_7p</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgione</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="abstract">Laura, formerly sometimes known as Portrait of a Young Bride is a painting by the Italian Renaissance master Giorgione, c. 1506. It is in the Kunsthistorisches Museum of Vienna, Austria. Like Giorgione's other works, it is unsigned. An inscription on the reverse, accepted as early 16th century, identifies Giorgione as the painter and provides the date, making this the only work by the artist bearing a reliable date. It might show a young bride backed by a branch of laurel (Laurus), symbol of chastity, and carrying the nuptial veil. The gesture of opening the fur mantle to uncover the bosom indicates fecundity (and, therefore, maternity), as an offer of love and seduction. Alternatively, the figure might show a courtesan—certainly many of the paintings in the Venetian tradition the Laura inspired were of figures to be read as courtesans, often posing as a mythological figure or the personification of an abstract quality. It is one of the less controversial attributions to Giorgione. This work marked the abandonment of Giovanni Bellini's models by Giorgione, to embrace a Leonardesque style.</field>
+<field name="label">Laura (Giorgione)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8c/Giorgione_043.jpg</field>
+<field name="comment">Laura, formerly sometimes known as Portrait of a Young Bride is a painting by the Italian Renaissance master Giorgione, c. 1506. It is in the Kunsthistorisches Museum of Vienna, Austria. Like Giorgione's other works, it is unsigned. An inscription on the reverse, accepted as early 16th century, identifies Giorgione as the painter and provides the date, making this the only work by the artist bearing a reliable date.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Giorgione_043.jpg/200px-Giorgione_043.jpg</field>
+<field name="link_external">http://www.khm.at/system2E.html?/staticE/page710.html</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">41</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of a Young Bride</field>
+<field name="type">Oil on canvas transferred from panel</field>
+<field name="width">33.5</field>
+<field name="year">c. 1506</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Laura_(Giorgione)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Laura_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Laura</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Laura_(Giorgione)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Laura_(Giorgione)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q595707</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Laura_(Giorgione)</field>
+</doc>
+</add>

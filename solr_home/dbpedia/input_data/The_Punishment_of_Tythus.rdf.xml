@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Ticio_(Tiziano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Punishment_of_Tythus</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Punishment_of_Tythus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Punishment_of_Tythus</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Ticio_(Tiziano)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Punishment_of_Tythus</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7758761</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3tdd8</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1549_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="abstract">The Punishment of Tythus is a mythological painting by Titian dating to 1549 and now in the Museo del Prado. It shows the punishment of the giant Tityos from Greek mythology.</field>
+<field name="label">The Punishment of Tythus</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/df/Tityus1.jpg</field>
+<field name="comment">The Punishment of Tythus is a mythological painting by Titian dating to 1549 and now in the Museo del Prado. It shows the punishment of the giant Tityos from Greek mythology.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/Tityus1.jpg/200px-Tityus1.jpg</field>
+<field name="link_external">http://www.museodelprado.es/coleccion/galeria-on-line/galeria-on-line/obra/ticio/?no_cache=1</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="image"/>
+<field name="imageSize">230</field>
+<field name="museum"/>
+<field name="title">The Punishment of Tythus</field>
+<field name="type">oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Punishment_of_Tythus</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Punishment_of_Tythus</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Punishment_of_Tythus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Punishment_of_Tythus</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7758761</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Punishment_of_Tythus</field>
+</doc>
+</add>

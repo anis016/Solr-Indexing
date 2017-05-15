@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Messe_de_Bolsena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mass_at_Bolsena</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Mass_at_Bolsena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Mass_at_Bolsena</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_misa_de_Bolsena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mass_at_Bolsena</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Messa_di_Bolsena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mass_at_Bolsena</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Mass_at_Bolsena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0260bj0</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Mass_at_Bolsena</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Messe_de_Bolsena</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mass_at_Bolsena</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_misa_de_Bolsena</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พิธีมิสซาที่บอลเซนา</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2529969</field>
+<field name="sameAs">http://br.dbpedia.org/resource/An_Oferenn_e_Bolsena</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Messa_di_Bolsena</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1514_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_rooms</field>
+<field name="abstract">The Mass at Bolsena is a painting by the Italian renaissance artist Raphael. It was painted between 1512 and 1514 as part of Raphael's commission to decorate with frescoes the rooms that are now known as the Stanze di Raffaello, in the Apostolic Palace in the Vatican. It is located in the Stanza di Eliodoro, which is named after The Expulsion of Heliodorus from the Temple. The Mass at Bolsena shows an incident that is said to have taken place in 1263. A Bohemian priest who doubted the doctrine of transubstantiation, celebrated mass at Bolsena, where the bread of the eucharist began to bleed. The following year, in 1264, Pope Urban IV instituted the Feast of Corpus Christi to celebrate this miraculous event. Bolsena is north of Rome and the priest who doubted was a German. He was taking mass and when he doubted the Transubstantiation, blood spouted from the host and fell onto the tablecloth in the shape of a cross and he was reconverted. Present in this painting is a self-portrait of the artist, Raphael, as one of the Swiss Guard in the lower right of the fresco. This is one of several instances in which Raphael has placed himself in his paintings. Also shown in the work is Pope Julius II (1443-1513), kneeling at the right, and his daughter Felice della Rovere, shown on the left at the bottom of the steps, in profile, dressed in black.</field>
+<field name="label">The Mass at Bolsena</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f9/Massatbolsena.jpg</field>
+<field name="comment">The Mass at Bolsena is a painting by the Italian renaissance artist Raphael. It was painted between 1512 and 1514 as part of Raphael's commission to decorate with frescoes the rooms that are now known as the Stanze di Raffaello, in the Apostolic Palace in the Vatican. It is located in the Stanza di Eliodoro, which is named after The Expulsion of Heliodorus from the Temple. The Mass at Bolsena shows an incident that is said to have taken place in 1263.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Massatbolsena.jpg/200px-Massatbolsena.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Vatican_City</field>
+<field name="height">?</field>
+<field name="image"/>
+<field name="imageSize">450</field>
+<field name="museum">http://dbpedia.org/resource/Apostolic_Palace</field>
+<field name="title">The Mass at Bolsena</field>
+<field name="width">660</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Mass_at_Bolsena</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Mass_at_Bolsena</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bolsena_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2529969</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mass_at_Bolsena</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/An_Oferenn_e_Bolsena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mass_at_Bolsena</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พิธีมิสซาที่บอลเซนา</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mass_at_Bolsena</field>
+</doc>
+</add>

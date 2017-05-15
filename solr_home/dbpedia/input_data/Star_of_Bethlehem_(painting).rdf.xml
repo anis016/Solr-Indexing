@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Star_of_Bethlehem_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Star_of_Bethlehem_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Star_of_Bethlehem_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7601237</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.051zgcl</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Star_of_Bethlehem_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Adoration_of_the_Magi_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Birmingham_Museum_and_Art_Gallery</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edward_Burne-Jones</field>
+<field name="abstract">The Star of Bethlehem is a painting in watercolour by Sir Edward Burne-Jones depicting the Adoration of the Magi with an angel holding the star of Bethlehem. It was commissioned by the Corporation of the City of Birmingham for its new Museum and Art Gallery in 1887, two years after Burne-Jones was elected Honorary President of the Royal Birmingham Society of Artists. At 101 1/8 x 152 inches, The Star of Bethlehem was the largest watercolour of the 19th century. It was completed in 1890 and was first exhibited in 1891.</field>
+<field name="label">Star of Bethlehem (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ee/Edward_Burne-Jones_Star_of_Bethlehem.jpg</field>
+<field name="comment">The Star of Bethlehem is a painting in watercolour by Sir Edward Burne-Jones depicting the Adoration of the Magi with an angel holding the star of Bethlehem. It was commissioned by the Corporation of the City of Birmingham for its new Museum and Art Gallery in 1887, two years after Burne-Jones was elected Honorary President of the Royal Birmingham Society of Artists. At 101 1/8 x 152 inches, The Star of Bethlehem was the largest watercolour of the 19th century.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Edward_Burne-Jones_Star_of_Bethlehem.jpg/200px-Edward_Burne-Jones_Star_of_Bethlehem.jpg</field>
+<field name="link_external">http://www.vam.ac.uk/images/image/32474-popup.html</field>
+<field name="link_external">http://www.chem.ox.ac.uk/oxfordtour/exetercollege/exeter-choir.html</field>
+<field name="link_external">http://www.hermitagemuseum.org/html_En/03/hm3_3_2_6b.html</field>
+<field name="artist">http://dbpedia.org/resource/Edward_Burne-Jones</field>
+<field name="city">http://dbpedia.org/resource/Birmingham</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Birmingham_Museum_and_Art_Gallery</field>
+<field name="title">The Star of Bethlehem</field>
+<field name="year">c.1885-1890</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Star_of_Bethlehem_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Star_of_Bethlehem_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Star_of_Bethlehem_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Star_of_Bethlehem_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7601237</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Star_of_Bethlehem_(painting)</field>
+</doc>
+</add>

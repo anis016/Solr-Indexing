@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Fiordalisi_(Osipov)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cornflowers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cornflowers_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gyvjj8</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Acianos_(Ósipov)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3745805</field>
+<field name="sameAs">http://dbpedia.org/resource/Cornflowers_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Cornflowers_(painting)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Fiordalisi_(Osipov)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Sergei_Ivanovich_Osipov</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1976_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_paintings</field>
+<field name="abstract">Cornflowers is a painting by the Russian artist Sergei Ivanovich Osipov (1915–1985), executed in 1976 and related to his most famous works in the genre of still life.</field>
+<field name="label">Cornflowers (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d4/Osipov-Cornflowers-7oci10bw.jpg</field>
+<field name="comment">Cornflowers is a painting by the Russian artist Sergei Ivanovich Osipov (1915–1985), executed in 1976 and related to his most famous works in the genre of still life.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Osipov-Cornflowers-7oci10bw.jpg/200px-Osipov-Cornflowers-7oci10bw.jpg</field>
+<field name="link_external">http://www.leningradartist.com/osipov_r.htm</field>
+<field name="link_external">http://www.leningradartist.com/bo91b.jpg</field>
+<field name="link_external">http://www.leningradartist.com/still-life-at-the-leningrad-table_r.html</field>
+<field name="link_external">http://www.leningradartist.com/7oci10b.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Sergei_Ivanovich_Osipov</field>
+<field name="city">http://dbpedia.org/resource/Russia</field>
+<field name="height">70</field>
+<field name="image"/>
+<field name="imageSize">260</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">Cornflowers</field>
+<field name="width">60</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Cornflowers_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cornflowers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Cornflowers_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Cornflowers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Acianos_(Ósipov)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cornflowers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3745805</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cornflowers_(painting)</field>
+</doc>
+</add>

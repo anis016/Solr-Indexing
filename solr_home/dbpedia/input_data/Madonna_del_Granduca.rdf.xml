@@ -1,0 +1,132 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Granduca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Madona_del_gran_duque</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_Грандука</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_del_Granduca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Gran_Duca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Madonna_Qranduka</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0261n80</field>
+<field name="sameAs">http://th.dbpedia.org/resource/แม่พระแห่งแกรนด์ดยุก</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Madona_del_gran_duque</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Mare_de_Déu_del_gran_duc</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Madonna_del_Granduca</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_Грандука</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_del_Granduca</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_du_Grand-Duc</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Granduca</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Мадонна_дель_Грандука</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Madonna_met_kind_(Rafaël)</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Madona_Granduca</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Madonna_del_Granduca</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2035209</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1505_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nude_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="abstract">The Madonna del Granduca is a Madonna painting by the Italian renaissance artist Raphael. It was probably painted in 1505, shortly after Raphael had arrived in Florence. The influence of Leonardo da Vinci, whose works he got to know there, can be seen in the use of sfumato. The painting belonged to Ferdinand III, Grand Duke of Tuscany, from whom it got its name.</field>
+<field name="label">Madonna del Granduca</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/61/Raphael_-_Madonna_dell_Granduca.jpg</field>
+<field name="comment">The Madonna del Granduca is a Madonna painting by the Italian renaissance artist Raphael. It was probably painted in 1505, shortly after Raphael had arrived in Florence. The influence of Leonardo da Vinci, whose works he got to know there, can be seen in the use of sfumato. The painting belonged to Ferdinand III, Grand Duke of Tuscany, from whom it got its name.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Raphael_-_Madonna_dell_Granduca.jpg/200px-Raphael_-_Madonna_dell_Granduca.jpg</field>
+<field name="link_external">http://artandcritique.com/raphael-madonna-del-granduca/</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">84</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Palazzo_Pitti</field>
+<field name="title">Madonna del Granduca</field>
+<field name="width">55</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_del_Granduca</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_du_Grand-Duc</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Madonna_met_kind_(Rafaël)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2035209</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Madonna_Qranduka</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Mare_de_Déu_del_gran_duc</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Madonna_del_Granduca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Madona_Granduca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/แม่พระแห่งแกรนด์ดยุก</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Madonna_del_Granduca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Мадонна_дель_Грандука</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Granduca</field>
+</doc>
+</add>

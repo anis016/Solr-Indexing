@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Lane_in_the_Public_Garden_at_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Lane_in_the_Public_Garden_at_Arles</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4657632</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lane_in_the_Public_Garden_at_Arles</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ddczdy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="abstract">A Lane in a Public Garden in Arles is an 1888 painting by Vincent van Gogh depicting a lane running through the public garden in Arles. The lane is surrounded by trees in different shades of green and yellow, as summer is being replaced by fall. The sky is blue and people are out walking on the lane enjoying the nice surroundings. A Lane in the Public Garden at Arles offers a harmonious vista where Vincent Van Gogh’s exquisite command of colors allows him to blend the different shades of green and yellow with the blue of the sky and the stones of the lane.</field>
+<field name="label">A Lane in the Public Garden at Arles</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/09/Van_Gogh_-_Weg_im_Park_von_Arles_mit_Spaziergängern.jpeg</field>
+<field name="comment">A Lane in a Public Garden in Arles is an 1888 painting by Vincent van Gogh depicting a lane running through the public garden in Arles. The lane is surrounded by trees in different shades of green and yellow, as summer is being replaced by fall. The sky is blue and people are out walking on the lane enjoying the nice surroundings.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Van_Gogh_-_Weg_im_Park_von_Arles_mit_Spaziergängern.jpeg/200px-Van_Gogh_-_Weg_im_Park_von_Arles_mit_Spaziergängern.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Kr%C3%B6ller-M%C3%BCller_Museum</field>
+<field name="title">A Lane in a Public Garden in Arles</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Lane_in_the_Public_Garden_at_Arles</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Lane_in_the_Public_Garden_at_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Lane_in_the_Public_Garden_at_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Lane_in_the_Public_Garden_at_Arles</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4657632</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Lane_in_the_Public_Garden_at_Arles</field>
+</doc>
+</add>

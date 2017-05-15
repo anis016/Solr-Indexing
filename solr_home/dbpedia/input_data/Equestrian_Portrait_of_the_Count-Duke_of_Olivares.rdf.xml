@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Gaspar_de_Guzmán,_comte-duc_d'Olivares,_à_cheval</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_Conde-Duque_de_Olivares_a_caballo</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_del_Conte_Duca_di_Olivares_a_cavallo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1113824</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026y6zl</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1634_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Military_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Museo_del_Prado</field>
+<field name="abstract">The Equestrian Portrait of Count-Duke of Olivares is a painting by Spanish artist Diego Velázquez, finished in 1634. It is housed in the Museo del Prado, Madrid. The subject of the picture is Gaspar de Guzmán, Count-Duke of Olivares, Prime Minister of Spain during the reign of Philip IV. He is portrayed riding a horse, an honour generally reserved for monarchs at the time. He wears a plumed headgear and a gilt cuirass, and holds a command baton. The composition refers to Olivares' military leadership in the service of King Philip.</field>
+<field name="label">Equestrian Portrait of the Count-Duke of Olivares</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/72/Count-Duke_of_Olivares.jpg</field>
+<field name="comment">The Equestrian Portrait of Count-Duke of Olivares is a painting by Spanish artist Diego Velázquez, finished in 1634. It is housed in the Museo del Prado, Madrid. The subject of the picture is Gaspar de Guzmán, Count-Duke of Olivares, Prime Minister of Spain during the reign of Philip IV. He is portrayed riding a horse, an honour generally reserved for monarchs at the time. He wears a plumed headgear and a gilt cuirass, and holds a command baton.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Count-Duke_of_Olivares.jpg/200px-Count-Duke_of_Olivares.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist">http://dbpedia.org/resource/Diego_Vel%C3%A1zquez</field>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">313</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">Equestrian Portrait of Count Duke of Olivares</field>
+<field name="width">239</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_del_Conte_Duca_di_Olivares_a_cavallo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Gaspar_de_Guzmán,_comte-duc_d'Olivares,_à_cheval</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_Conde-Duque_de_Olivares_a_caballo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equastrian_Portrait_of_Duke_de_Olivares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equestrian_Portrait_of_the_Duke_de_Olivares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equestrian_portrait_of_Count-Duke_de_Olivares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equestrian_portrait_of_Duke_de_Olivares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equestrian_portrait_of_duke_de_olivares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1113824</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_the_Count-Duke_of_Olivares</field>
+</doc>
+</add>

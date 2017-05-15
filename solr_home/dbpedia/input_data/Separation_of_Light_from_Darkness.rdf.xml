@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Separation_of_Light_from_Darkness</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Separation_of_Light_from_Darkness</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Separation_of_Light_from_Darkness</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Separazione_della_luce_dalle_tenebre</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Separation_of_Light_from_Darkness</field>
+<field name="sameAs">http://dbpedia.org/resource/Separation_of_Light_from_Darkness</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3955636</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bm8krl</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Separación_de_la_luz_de_la_oscuridad</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ceilings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1512_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Michelangelo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="abstract">The Separation of Light from Darkness is, from the perspective of the Genesis chronology, the first of nine central panels that run along the center of Michelangelo's Sistine Chapel ceiling and which depict scenes from the Book of Genesis. Michelangelo probably completed this panel in the summer of 1512, the last year of the Sistine ceiling project. It is one of five smaller scenes that alternate with four larger scenes that run along the center of the Sistine ceiling. The Separation of Light from Darkness is based on verses 3-5 from the first chapter of the Book of Genesis: And God said, "Let there be light," and there was light. God saw that the light was good, and He separated the light from the darkness. God called the light "day," and the darkness he called "night. " And there was evening, and there was morning—the first day. Although in terms of the Genesis chronology it is the first of nine central panels along the Sistine ceiling, the Separation of Light from Darkness was the last of the nine panels painted by Michelangelo. Michelangelo painted the Sistine ceiling in two stages. Between May 1508 and the summer of 1511, he completed the "entrance half" of the Sistine chapel and ended this stage by painting the Creation of Eve and the scenes flanking this central panel. After an idle period of about 6 months, he painted the "altar half," starting with the Creation of Adam, between the winter of 1511 and October 1512.</field>
+<field name="label">Separation of Light from Darkness</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5d/Dividing_Light_from_Darkness.jpg</field>
+<field name="comment">The Separation of Light from Darkness is, from the perspective of the Genesis chronology, the first of nine central panels that run along the center of Michelangelo's Sistine Chapel ceiling and which depict scenes from the Book of Genesis. Michelangelo probably completed this panel in the summer of 1512, the last year of the Sistine ceiling project. It is one of five smaller scenes that alternate with four larger scenes that run along the center of the Sistine ceiling.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Dividing_Light_from_Darkness.jpg/200px-Dividing_Light_from_Darkness.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Michelangelo</field>
+<field name="image"/>
+<field name="title">Separation of Light from Darkness</field>
+<field name="year">First half of 1512</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Separation_of_Light_from_Darkness</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Separation_of_Light_from_Darkness</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Separazione_della_luce_dalle_tenebre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Separation_of_Light_from_Darkness</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Separación_de_la_luz_de_la_oscuridad</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Separation_of_Light_from_Darkness</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3955636</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Separation_of_Light_from_Darkness</field>
+</doc>
+</add>

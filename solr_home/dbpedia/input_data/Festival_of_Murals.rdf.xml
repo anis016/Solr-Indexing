@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Festival_of_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cmc1q9</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5445792</field>
+<field name="sameAs">http://dbpedia.org/resource/Festival_of_Murals</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Festival_of_Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_festivals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Tourism_in_Indiana</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">The Festival of Murals is a yearly festival taking place in Wayne County, Indiana and is a summer-long artistic presentation and competition among mural artists. The Festival of Murals starts in each June with selected artists unveiling their designs in the county seat of Richmond, Indiana. Artists paint murals within Wayne County during June and July and public voting during August selects the winner. The winning mural/artist receives a grand prize of $5,000.00 and all other participants receive $1,000.00 stipends. The competition ends in September with the Annual Music Festival which celebrates Richmond's Gennett Records recording roots. The festival also has a "community mural" project.</field>
+<field name="label">Festival of Murals</field>
+<field name="comment">The Festival of Murals is a yearly festival taking place in Wayne County, Indiana and is a summer-long artistic presentation and competition among mural artists. The Festival of Murals starts in each June with selected artists unveiling their designs in the county seat of Richmond, Indiana. Artists paint murals within Wayne County during June and July and public voting during August selects the winner.</field>
+<field name="link_external">http://www.heritagepreservation.org/RPM/index.html</field>
+<field name="link_external">http://indplsartcenterartists.blogspot.com/2010/01/festival-of-murals-rfq-wayne-county.html</field>
+<field name="link_external">http://heraldbulletin.com/peopleandplaces/x1414118056/9-artists-to-paint-murals-in-Richmond</field>
+<field name="link_external">http://www.pal-item.com/apps/pbcs.dll/article?AID=20107120305</field>
+<field name="link_external">http://www.newsexaminer.com/articles/2010/07/13/local_news/doc4c3bcf700336e998099606.txt</field>
+<field name="link_external">http://www.in.gov/visitindiana/blog/index.php/2010/07/14/wayne-county-treasures-richmond-and-the-historic-depot-district/</field>
+<field name="link_external">http://www.visitrichmond.org/festivals.cfm#arts</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Festival_of_Murals</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Festival_of_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Festival_of_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Festival_of_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5445792</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Festival_of_Murals</field>
+</doc>
+</add>

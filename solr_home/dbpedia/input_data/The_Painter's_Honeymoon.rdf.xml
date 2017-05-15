@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Painter's_Honeymoon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q12065125</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Painter's_Honeymoon</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Painter's_Honeymoon</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j26j0t</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1864_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Frederic_Leighton</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="abstract">The Painter's Honeymoon is a painting by Lord Frederic Leighton, produced in c. 1864 and currently housed at the Museum of Fine Arts, Boston.</field>
+<field name="label">The Painter's Honeymoon</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/Leighton_The_Painter-s_Honeymoon_1864.jpg</field>
+<field name="comment">The Painter's Honeymoon is a painting by Lord Frederic Leighton, produced in c. 1864 and currently housed at the Museum of Fine Arts, Boston.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Leighton_The_Painter-s_Honeymoon_1864.jpg/200px-Leighton_The_Painter-s_Honeymoon_1864.jpg</field>
+<field name="link_external">http://www.frederic-leighton.org</field>
+<field name="link_external">http://www.mfa.org/collections/object/painter-s-honeymoon-34445</field>
+<field name="link_external">http://www.fredericleightonart.com/</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">83.8</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts,_Boston</field>
+<field name="title">The Painter's Honeymoon</field>
+<field name="type">oil on canvas</field>
+<field name="width">76.8</field>
+<field name="year">c. 1864</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Painter's_Honeymoon</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Painter's_Honeymoon</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Painter's_Honeymoon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Painter's_Honeymoon</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q12065125</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Painter's_Honeymoon</field>
+</doc>
+</add>

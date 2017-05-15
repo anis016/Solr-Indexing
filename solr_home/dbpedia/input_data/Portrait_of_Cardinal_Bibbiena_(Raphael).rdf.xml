@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Cardinal_Bibbiena_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Cardinal_Bibbiena_(Raphael)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05h3v5z</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232259</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Cardinal_Bibbiena_(Raphael)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1516_paintings</field>
+<field name="abstract">The Portrait of Cardinal Bibbiena is a portrait of Cardinal Bernardo Dovizi da Bibbiena by Raphael, painted around 1516 and now in the Palazzo Pitti in Florence. Its rendering appears more rigid than is usual for Raphael, leading some critics to attribute it to one of his pupils or to feel it is possibly a copy from a lost autograph original.</field>
+<field name="label">Portrait of Cardinal Bibbiena (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/32/Bernardo_Dovizi.jpg</field>
+<field name="comment">The Portrait of Cardinal Bibbiena is a portrait of Cardinal Bernardo Dovizi da Bibbiena by Raphael, painted around 1516 and now in the Palazzo Pitti in Florence. Its rendering appears more rigid than is usual for Raphael, leading some critics to attribute it to one of his pupils or to feel it is possibly a copy from a lost autograph original.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Bernardo_Dovizi.jpg/200px-Bernardo_Dovizi.jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/r/raphael/5roma/3/04bibbie.html</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city"/>
+<field name="height">85</field>
+<field name="imageSize">200</field>
+<field name="museum"/>
+<field name="title">Portrait of Cardinal Bibbiena</field>
+<field name="type">Oil on canvas</field>
+<field name="width">66.3</field>
+<field name="year">c.1516</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Cardinal_Bibbiena_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Cardinal_Bibbiena_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Cardinal_Bibbiena_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Cardinal_Bibbiena_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232259</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Cardinal_Bibbiena_(Raphael)</field>
+</doc>
+</add>

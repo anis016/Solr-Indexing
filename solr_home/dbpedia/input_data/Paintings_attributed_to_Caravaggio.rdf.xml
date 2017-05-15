@@ -1,0 +1,77 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paintings_attributed_to_Caravaggio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภาพที่ระบุว่าเขียนโดยคาราวัจโจ</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Pinturas_atribuidas_a_Caravaggio</field>
+<field name="sameAs">http://dbpedia.org/resource/Paintings_attributed_to_Caravaggio</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Nature_morte_aux_fleurs_et_fruits</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Paintings_attributed_to_Caravaggio</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4924810</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">A number of paintings have been attributed from time to time to the Italian artist Michelangelo Merisi da Caravaggio (1571–1610), but are no longer generally accepted as genuine. Immensely popular in his own lifetime, he fell into neglect almost immediately upon his death, with the result that now, four hundred years later, it's often extremely difficult to distinguish works by the master from copies or from original creations by his most gifted followers.</field>
+<field name="label">Paintings attributed to Caravaggio</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/be/Toothpuller.jpg</field>
+<field name="comment">A number of paintings have been attributed from time to time to the Italian artist Michelangelo Merisi da Caravaggio (1571–1610), but are no longer generally accepted as genuine. Immensely popular in his own lifetime, he fell into neglect almost immediately upon his death, with the result that now, four hundred years later, it's often extremely difficult to distinguish works by the master from copies or from original creations by his most gifted followers.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Toothpuller.jpg/200px-Toothpuller.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/96665</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Paintings_attributed_to_Caravaggio</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Paintings_attributed_to_Caravaggio</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Paintings_attributed_to_Caravaggio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Paintings_attributed_to_Caravaggio</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Tooth_Puller_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paintings_attributed_to_caravaggio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Attributed_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Still_Life_with_Flowers_and_Fruit_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Attributed_to_Caravaggio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Pinturas_atribuidas_a_Caravaggio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paintings_attributed_to_Caravaggio</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4924810</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paintings_attributed_to_Caravaggio</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Nature_morte_aux_fleurs_et_fruits</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paintings_attributed_to_Caravaggio</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภาพที่ระบุว่าเขียนโดยคาราวัจโจ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paintings_attributed_to_Caravaggio</field>
+</doc>
+</add>

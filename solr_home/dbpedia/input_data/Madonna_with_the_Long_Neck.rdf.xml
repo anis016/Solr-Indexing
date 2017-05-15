@@ -1,0 +1,186 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Madonna_mit_dem_langen_Hals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_z_długą_szyją</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_с_длинной_шеей</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_del_cuello_largo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_with_the_Long_Neck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://he.dbpedia.org/resource/המדונה_בעלת_הצוואר_הארוך</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_dal_collo_lungo</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_au_long_cou</field>
+<field name="sameAs">http://sh.dbpedia.org/resource/Dugovrata_Madona</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_with_the_Long_Neck</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Dugovrata_Madona</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/مدونا_همراه_با_گردن‌دراز</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Madonna_mit_dem_langen_Hals</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_с_длинной_шеей</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_del_cuello_largo</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_z_długą_szyją</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q867403</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03bxbc0</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Parmigianino</field>
+<field name="abstract">The Madonna of the Long Neck (Italian: Madonna dal collo lungo), also known as Madonna and Child with Angels and St. Jerome, is an Italian Mannerist oil painting by the painter Parmigianino, dating from c. 1535-1540 and depicting Madonna and Child with angels. The painting was begun in 1534 for the church of the Servites in Parma, but remained incomplete on Parmigianino's death in 1540. Ferdinand III, Grand Duke of Tuscany purchased it in 1798 and it has been on display at the Uffizi since 1948.</field>
+<field name="label">Madonna with the Long Neck</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6b/Parmigianino_-_Madonna_dal_collo_lungo_-_Google_Art_Project.jpg</field>
+<field name="comment">The Madonna of the Long Neck (Italian: Madonna dal collo lungo), also known as Madonna and Child with Angels and St. Jerome, is an Italian Mannerist oil painting by the painter Parmigianino, dating from c. 1535-1540 and depicting Madonna and Child with angels. The painting was begun in 1534 for the church of the Servites in Parma, but remained incomplete on Parmigianino's death in 1540. Ferdinand III, Grand Duke of Tuscany purchased it in 1798 and it has been on display at the Uffizi since 1948.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Parmigianino_-_Madonna_dal_collo_lungo_-_Google_Art_Project.jpg/200px-Parmigianino_-_Madonna_dal_collo_lungo_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/parmigianinos-madonna-of-the-long-neck.html</field>
+<field name="artist">http://dbpedia.org/resource/Parmigianino</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">216</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Uffizi</field>
+<field name="title">Madonna dal collo lungo''</field>
+<field name="title">or Madonna and Child with Angels and St. Jerome</field>
+<field name="title">The Madonna with the Long Neck</field>
+<field name="type">Oil on wood</field>
+<field name="width">132</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_with_the_Long_Neck</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_dal_collo_lungo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Madonna_del_Collo_Lungo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Dal_Collo_Longo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Dal_Collo_Lungo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Of_The_Long_Neck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_With_Long_Neck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_With_The_Long_Neck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_and_Child_with_Angels_and_St._Jerome</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_dal_Collo_Lungo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Cullo_Longo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Long_Neck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_the_long_neck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Madonna_of_the_Long_Neck</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Del_Collo_Lungo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_au_long_cou</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q867403</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/مدونا_همراه_با_گردن‌دراز</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/המדונה_בעלת_הצוואר_הארוך</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Dugovrata_Madona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+<doc>
+<field name="uri">http://sh.dbpedia.org/resource/Dugovrata_Madona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_the_Long_Neck</field>
+</doc>
+</add>

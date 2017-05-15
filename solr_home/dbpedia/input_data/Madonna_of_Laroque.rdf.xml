@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Laroque</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Laroque</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_Laroque</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch45ty</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3210263</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_de_Laroque</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1503_paintings</field>
+<field name="abstract">Madonna of Laroque is an oil painting on a poplar board (48 cm / 59 cm) created between 1502-1503. It represents the Child and his mother next to John the Baptist. This painting could be by Leonardo da Vinci.</field>
+<field name="label">Madonna of Laroque</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/30/Madone_de_Laroque.jpg</field>
+<field name="comment">Madonna of Laroque is an oil painting on a poplar board (48 cm / 59 cm) created between 1502-1503. It represents the Child and his mother next to John the Baptist. This painting could be by Leonardo da Vinci.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Madone_de_Laroque.jpg/200px-Madone_de_Laroque.jpg</field>
+<field name="link_external">http://www.telegraph.co.uk/news/worldnews/europe/france/3387492/Art-experts-clash-over-Da-Vinci-painting-that-cost-150.html</field>
+<field name="link_external">http://www.madonedelaroque.com/Historique.html</field>
+<field name="link_external">http://www.daylife.com/photo/000bgOcfoj14G?q=Entertainment</field>
+<field name="link_external">http://www.marcandre.fournier.free.fr/The_Madonna_of_Laroque.htm./Historique.html</field>
+<field name="artist">http://dbpedia.org/resource/Leonardo_da_Vinci</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">Madone de Laroque</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_Laroque</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_Laroque</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_de_Laroque</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Laroque</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_Laroque</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_Laroque</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3210263</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Laroque</field>
+</doc>
+</add>

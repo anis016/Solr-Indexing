@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Six_Persimmons</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Six_Persimmons</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Six_Persimmons</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3485647</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vtqmv</field>
+<field name="sameAs">http://dbpedia.org/resource/Six_Persimmons</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Six_kakis</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Six_Persimmons</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Song_Dynasty_paintings</field>
+<field name="abstract">Six Persimmons is a 13th century Chinese painting by the monk, Mu Qi (Mu Ch'i), the painter better known in China as Fa-Chang. It was painted during the Song dynasty. Mu Qi was one of the two great exponents of the spontaneous mode of Chinese painting (the other being Liang Kai). It features six persimmons floating on an undefined, but skillfully mottled background. It is painted in blue-black ink on paper. The painting became famous for the tremendous skill of the brushstrokes. Their subtlety of modeling is often remarked upon. The thick and thin brushstrokes that model the lightest of the persimmons make it seem to float in contrast to the dark one next to it. The treatment of the stems and leaves recall Chinese characters, and reveal brush control at its highest level. Professor James Cahill of University of California Berkeley devoted an entire lecture to it, available online. (Six Persimmons is) passion... congealed into a stupendous calm. — Arthur Waley It currently resides in the Juko'in subtemple of Daitoku-ji in Kyoto, Japan.</field>
+<field name="label">Six Persimmons</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/08/Muqi-persimmons.jpg</field>
+<field name="comment">Six Persimmons is a 13th century Chinese painting by the monk, Mu Qi (Mu Ch'i), the painter better known in China as Fa-Chang. It was painted during the Song dynasty. Mu Qi was one of the two great exponents of the spontaneous mode of Chinese painting (the other being Liang Kai). It features six persimmons floating on an undefined, but skillfully mottled background. It is painted in blue-black ink on paper. The painting became famous for the tremendous skill of the brushstrokes.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/Muqi-persimmons.jpg/200px-Muqi-persimmons.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Muqi_Fachang</field>
+<field name="city">http://dbpedia.org/resource/Kyoto</field>
+<field name="museum">http://dbpedia.org/resource/Daitoku-ji</field>
+<field name="title">Six Persimmons</field>
+<field name="type">Ink on Paper</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Six_Persimmons</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Six_Persimmons</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Six_kakis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Six_Persimmons</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3485647</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Six_Persimmons</field>
+</doc>
+</add>

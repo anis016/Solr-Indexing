@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Negazione_di_san_Pietro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Reniement_de_saint_Pierre</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_negación_de_San_Pedro</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08t11h</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Peters_benektelse_(Caravaggio)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Reniement_de_saint_Pierre</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2270778</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Negazione_di_san_Pietro</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1610_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Peter_the_Apostle</field>
+<field name="abstract">The Denial of Saint Peter (La Negazione di Pietro) is a painting finished around 1610 by the Italian painter Caravaggio. It depicts Peter denying Jesus after Jesus was arrested. The painting is housed in the Metropolitan Museum of Art in New York City.</field>
+<field name="label">The Denial of Saint Peter (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c2/Caravaggio_denial.jpg</field>
+<field name="comment">The Denial of Saint Peter (La Negazione di Pietro) is a painting finished around 1610 by the Italian painter Caravaggio. It depicts Peter denying Jesus after Jesus was arrested. The painting is housed in the Metropolitan Museum of Art in New York City.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/Caravaggio_denial.jpg/200px-Caravaggio_denial.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">94</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Denial of Saint Peter</field>
+<field name="type">Oil on canvas</field>
+<field name="width">125</field>
+<field name="year">c. 1610</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_negación_de_San_Pedro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2270778</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Peters_benektelse_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Denial_of_Saint_Peter_(Caravaggio)</field>
+</doc>
+</add>

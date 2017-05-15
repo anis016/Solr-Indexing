@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Stoclet-Fries</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stoclet_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Stoclet_Frieze</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stoclet_Frieze</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Stoclet-Fries</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1679069</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hzrkwv</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Stoclet_Frieze</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mosaics</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Gustav_Klimt</field>
+<field name="abstract">The Stoclet Frieze is a series of three mosaics created by Austrian painter Gustav Klimt for a 1905-1911 commission for the Palais Stoclet in Brussels. The panels depict swirling Trees of life, a standing female figure and an embracing couple. The mosaics form a part of a larger commission by Belgian financier Adolphe Stoclet and his wife Suzanne. The Stoclets hired architect Josef Hoffmann and the Wiener Werkstätte artistic collective to design, decorate and furnish a spacious mansion with formal gardens. The pair were avid art collectors with wide-ranging and eclectic tastes: their collection included work from a range of periods and cultures, from the Far East to the New World and included Egyptian sculpture, Chinese ceramics and jades, Byzantine icons and jewelry, miniatures from Persia and Armenia, as well as numerous Western mediaeval paintings. The diverse tastes of his patrons corresponded well with Klimt's own. Art historian M.E. Warlick notes that he "must have been delighted to find that their eclectic collection so matched many of his own recent interests". The panels were commissioned and placed along three walls of the Palais' dining room, with the two larger, figural sections set across from each other along the longer walls of the room. A smaller, geometric panel occupies the short wall separating them. The designs are decorated with a variety of luxury materials, including marble, ceramic, gilded tiles and enamel along with pearls and other semi-precious stones.</field>
+<field name="label">Stoclet Frieze</field>
+<field name="comment">The Stoclet Frieze is a series of three mosaics created by Austrian painter Gustav Klimt for a 1905-1911 commission for the Palais Stoclet in Brussels. The panels depict swirling Trees of life, a standing female figure and an embracing couple. The mosaics form a part of a larger commission by Belgian financier Adolphe Stoclet and his wife Suzanne.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Stoclet_Frieze</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Stoclet_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Stoclet_Frieze</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Stoclet_Frieze</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1679069</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stoclet_Frieze</field>
+</doc>
+</add>

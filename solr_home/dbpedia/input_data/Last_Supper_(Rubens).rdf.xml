@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Last_Supper_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Last_Supper_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Last_Supper_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0glpc_f</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Last_Supper_(Rubens)</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Rubens)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6494689</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Pinacoteca_di_Brera</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Peter_Paul_Rubens</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Iconography_of_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1631_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Last Supper (1630–1631) is an oil painting by Peter Paul Rubens. It depicts Jesus and the Apostles during the Last Supper, with Judas turning back towards the viewer and away from the table. As in many other Northern European depictions, a dog with a bone can be seen near Judas, perhaps representing greed, or representing Satan, as the companion of Judas, as in John 13:27. This painting followed the first unsuccessful attempt by Rubens to produce a Last Supper in 1611, when his patrons backed out the last minute, perhaps due to the high price of 4,000 Guilder asked by Rubens.</field>
+<field name="label">Last Supper (Rubens)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4d/Peter_Paul_Rubens_-_Last_Supper_-_WGA20255.jpg</field>
+<field name="comment">The Last Supper (1630–1631) is an oil painting by Peter Paul Rubens. It depicts Jesus and the Apostles during the Last Supper, with Judas turning back towards the viewer and away from the table. As in many other Northern European depictions, a dog with a bone can be seen near Judas, perhaps representing greed, or representing Satan, as the companion of Judas, as in John 13:27.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Peter_Paul_Rubens_-_Last_Supper_-_WGA20255.jpg/200px-Peter_Paul_Rubens_-_Last_Supper_-_WGA20255.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Peter_Paul_Rubens</field>
+<field name="city">http://dbpedia.org/resource/Milan</field>
+<field name="height">304</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Pinacoteca_di_Brera</field>
+<field name="title">Last Supper</field>
+<field name="type">Oil on canvas</field>
+<field name="width">250</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Last_Supper_(Rubens)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Last_Supper_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6494689</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Rubens)</field>
+</doc>
+</add>

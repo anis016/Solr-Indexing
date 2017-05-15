@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Evening_Mood</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1022046</field>
+<field name="sameAs">http://tl.dbpedia.org/resource/Panggabing_Kalagayan_ng_Kalooban</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/暮色心境</field>
+<field name="sameAs">http://dbpedia.org/resource/Evening_Mood</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Axşam_ovqatı_(Buqro)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vvkw</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Evening_Mood</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William-Adolphe_Bouguereau</field>
+<field name="abstract">Evening Mood (Humeur Nocturne) is an allegorical painting created by artist William-Adolphe Bouguereau in 1882. This painting is part of the world's art collection of the Havana's Museum of Fine Arts, in Cuba.</field>
+<field name="label">Evening Mood</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/17/Bouguereau-Evening_Mood_1882.jpg</field>
+<field name="comment">Evening Mood (Humeur Nocturne) is an allegorical painting created by artist William-Adolphe Bouguereau in 1882. This painting is part of the world's art collection of the Havana's Museum of Fine Arts, in Cuba.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Bouguereau-Evening_Mood_1882.jpg/200px-Bouguereau-Evening_Mood_1882.jpg</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/bouguereau/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Evening_Mood</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Evening_Mood</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dusk,_Bouguereau</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Evening_Mood</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Evening_Mood</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1022046</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Evening_Mood</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/暮色心境</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Evening_Mood</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Axşam_ovqatı_(Buqro)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Evening_Mood</field>
+</doc>
+<doc>
+<field name="uri">http://tl.dbpedia.org/resource/Panggabing_Kalagayan_ng_Kalooban</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Evening_Mood</field>
+</doc>
+</add>

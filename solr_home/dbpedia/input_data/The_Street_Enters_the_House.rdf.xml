@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_strada_entra_nella_casa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Street_Enters_the_House</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Street_Enters_the_House</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dllvgn</field>
+<field name="sameAs">http://de.dbpedia.org/resource/La_strada_entra_nella_casa</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Street_Enters_the_House</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Street_Enters_the_House</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_strada_entra_nella_casa</field>
+<field name="sameAs">http://he.dbpedia.org/resource/רעשי_הרחוב_חודרים_אל_הבית</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q934482</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1911_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_Futurism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Futurist_painting</field>
+<field name="abstract">The Street Enters the House (La Strada Entra Nella Casa) is an oil on canvas painting by Italian artist Umberto Boccioni. Painted in the Futurist style, the work centres around a woman on a balcony in front of a busy street, with the sounds of the activity below portrayed as a riot of shapes and colours. The first public display of the painting was in Paris, in 1912, as part of the first Futurist exhibition. It is now housed in the Sprengel Museum in Hanover, Germany.</field>
+<field name="label">The Street Enters the House</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0e/Umberto_Boccioni_-_A_strada_entra_nella_casa.jpg</field>
+<field name="comment">The Street Enters the House (La Strada Entra Nella Casa) is an oil on canvas painting by Italian artist Umberto Boccioni. Painted in the Futurist style, the work centres around a woman on a balcony in front of a busy street, with the sounds of the activity below portrayed as a riot of shapes and colours. The first public display of the painting was in Paris, in 1912, as part of the first Futurist exhibition. It is now housed in the Sprengel Museum in Hanover, Germany.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Umberto_Boccioni_-_A_strada_entra_nella_casa.jpg/200px-Umberto_Boccioni_-_A_strada_entra_nella_casa.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63590/rec/293</field>
+<field name="artist">http://dbpedia.org/resource/Umberto_Boccioni</field>
+<field name="city">http://dbpedia.org/resource/Hanover</field>
+<field name="height">100</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Sprengel_Museum</field>
+<field name="title">The Street Enters The House</field>
+<field name="width">100.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Street_Enters_the_House</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Street_Enters_the_House</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/La_strada_entra_nella_casa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Street_Enters_the_House</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Umberto_Boccioni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/The_Street_Enters_the_House</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Street_Enters_the_House</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Street_Enters_the_House</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Strada_Entra_Nella_Casa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q934482</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Street_Enters_the_House</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/רעשי_הרחוב_חודרים_אל_הבית</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Street_Enters_the_House</field>
+</doc>
+</add>

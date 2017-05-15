@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/By_the_Seashore</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/By_the_Seashore</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cqgln</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/A_tengerparton_(festmény)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/By_the_Seashore</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q472037</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Guernsey_culture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pierre-Auguste_Renoir</field>
+<field name="abstract">By the Seashore is a painting of Pierre-Auguste Renoir executed in 1883 and now housed in the Metropolitan Museum of Art in New York City. Renoir made a trip to Italy in 1881-82 and was deeply influenced by Renaissance art. After this trip he began to explore a new manner of painting, different from impressionism. He started to emphasize contours and modeling, abandoned the principle that scenes should be painted outdoors to capture light and atmosphere. Late in the summer of 1883, Renoir spent about a month in St. Peter Port, the capital of Guernsey, and admired the rocks, cliffs and stunning view of Moulin Huet Bay in St. Martin. He painted the starts of fifteen pictures during his stay, most of which were finished later in his Paris studio. Guernsey lies 48 km off the coast of mainland Normandy. Both share the same geology and Guernsey fulfills the "by the sea" criterion in the exhibition title. However, "By the Seashore" is thought to have been painted in the artist's studio. The beach depicted here is probably not in the Channel Islands but near Dieppe, on the Normandy coast. The model was Aline Charigot, his then girlfriend, whom he married in 1890. The arc of the sitter's dark eyebrows and saucily tilted nose in that pleasant, rosy-cheeked face are common to works by Renoir. The painting is in the collection of the Metropolitan since 1929 from the bequest of Mrs. H. O. Havemeyer.</field>
+<field name="label">By the Seashore</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8f/Pierre-Auguste_Renoir_-_By_the_Seashore.jpg</field>
+<field name="comment">By the Seashore is a painting of Pierre-Auguste Renoir executed in 1883 and now housed in the Metropolitan Museum of Art in New York City. Renoir made a trip to Italy in 1881-82 and was deeply influenced by Renaissance art. After this trip he began to explore a new manner of painting, different from impressionism. He started to emphasize contours and modeling, abandoned the principle that scenes should be painted outdoors to capture light and atmosphere.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Pierre-Auguste_Renoir_-_By_the_Seashore.jpg/200px-Pierre-Auguste_Renoir_-_By_the_Seashore.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/By_the_Seashore</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/By_the_Seashore</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/By_the_Seashore</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/By_the_Seashore</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/By_the_seashore</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q472037</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/By_the_Seashore</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/A_tengerparton_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/By_the_Seashore</field>
+</doc>
+</add>

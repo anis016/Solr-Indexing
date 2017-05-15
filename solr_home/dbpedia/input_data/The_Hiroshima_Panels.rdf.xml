@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Hiroshima_Panels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Hiroshima_Panels</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/原爆の図丸木美術館</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hiroshima_Panels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Hiroshima_Panels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05923c</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hiroshima_Panels</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Hiroshima_Panels</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/原爆の図丸木美術館</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7739750</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Atomic_bombings_of_Hiroshima_and_Nagasaki</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="abstract">The Hiroshima Panels (原爆の図, Genbaku no zu) are a series of fifteen painted folding panels by the collaborative husband and wife artists Maruki Iri and Maruki Toshi completed over a span of thirty-two years (1950–1982). The Panels depict the consequences of the atomic bombings of Hiroshima and Nagasaki, as well as other nuclear disasters of the 20th century. Each panel stands 1.8 metres x 7.2 metres. The paintings depict people wrenched by the violence and chaos of the atomic bombing; some wandering aimlessly, their bodies charred, while others are still being consumed by atomic fire. Dying lovers embrace and mothers cradling their dead children. Each painting portrays the inhumanity, brutality, and hopelessness of war, and the cruelty of bombing civilians. The people depicted in the paintings are not only Japanese citizens but also Korean residents and American POWs who suffered or died in the atomic bombings as well. The Marukis tried to represent all those affected so as to make their cause an international one and above that one of universal importance to all human beings. The use of traditional Japanese black and white ink drawings, sumi-e, contrasted with the red of atomic fire produce an effect that is strikingly anti-war and anti-nuclear. The panels also depict the accident of the Daigo Fukuryu Maru on the Bikini Atoll in 1954 which the Marukis believed showed the threat of a nuclear bomb even during peace time. The 15 Hiroshima Panels: I Ghosts (幽霊, Yūrei, 1950) II Fire (火, Hi, 1950) III Water (水, Mizu, 1950) IV Rainbow (虹, Niji, 1951) V Boys and Girls (少年少女, Shōnen shōjo, 1951) VI Atomic Desert (原子野, Genshi-no, 1952) VII Bamboo Thicket (竹やぶ, Takeyabu, 1954) VIII Rescue (救出, Kyūshutsu, 1954) IX Yaizu (焼津, Yaizu, 1955) X Petition (暑名, Shomei, 1955) XI Mother and Child (母子像, Boshi-zō, 1959) XII Floating Lanterns (とうろう流し, ''Tōrō nagashi, 1969) XIII Death of American Prisoners of War (米兵捕虜の死, Beihei-horyo no shi, 1971) XIV Crows (からす, Karasu, 1972) XV Nagasaki (長崎, Nagasaki, 1982) Short prose-like poems written by the artists to further explain the subject of their visual work also accompany each painting. In 1967, the Maruki Gallery for the Hiroshima Panels, was established in Higashi-Matsuyama, Saitama, Japan, as a permanent home for The Hiroshima Panels. The fifteenth panel, Nagasaki, is on permanent display at the Nagasaki International Cultural Hall. Also available for view at the Maruki Gallery are the Marukis' further collaborative paintings on Auschwitz, the Nanking massacre, the battle of Okinawa, Minamata, and their summary collaborative painting entitled Hell. It was for these monumental works, along with their continued peace education efforts that the Marukis received a nomination for the Nobel Peace Prize in 1995. The Hiroshima Panels have also been the subject of the 1987 Academy Award nominated documentary Hellfire: A Journey from Hiroshima. The Japanese composer Masao Ohki composed in 1953 his 5th Symphony. The first six panels that have been painted until then were turned into six movements.</field>
+<field name="label">The Hiroshima Panels</field>
+<field name="comment">The Hiroshima Panels (原爆の図, Genbaku no zu) are a series of fifteen painted folding panels by the collaborative husband and wife artists Maruki Iri and Maruki Toshi completed over a span of thirty-two years (1950–1982). The Panels depict the consequences of the atomic bombings of Hiroshima and Nagasaki, as well as other nuclear disasters of the 20th century. Each panel stands 1.8 metres x 7.2 metres.</field>
+<field name="link_external">http://www.aya.or.jp/~marukimsn/english/indexE.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Hiroshima_Panels</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Hiroshima_Panels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Genbaku_no_zu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hiroshima_Panels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Maruki</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Maruki_Iri</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Maruki_Toshi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7739750</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hiroshima_Panels</field>
+</doc>
+</add>

@@ -1,0 +1,107 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Buona_ventura_(Caravaggio_Parigi)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08kcbx</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wróżenie_z_ręki</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Adivinha</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/หมอดู_(คาราวัจโจ)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_buenaventura</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2610675</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Diseuse_de_bonne_aventure_(Le_Caravage)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/מגדת_העתידות_(קאראווג'ו)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Capitoline_Museums_collection</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1590s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">The Fortune Teller is a painting by Italian Baroque artist Michelangelo Merisi da Caravaggio. It exists in two versions, both by Caravaggio, the first from 1594, the second from 1595. The dates in both cases are disputed.</field>
+<field name="label">The Fortune Teller (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/87/The_Fortune_Teller1.jpg</field>
+<field name="comment">The Fortune Teller is a painting by Italian Baroque artist Michelangelo Merisi da Caravaggio. It exists in two versions, both by Caravaggio, the first from 1594, the second from 1595. The dates in both cases are disputed.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_Fortune_Teller1.jpg/200px-The_Fortune_Teller1.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/42365/rec/5</field>
+<field name="artist">http://dbpedia.org/resource/Caravaggio</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="city"/>
+<field name="height">115</field>
+<field name="height">93</field>
+<field name="image"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="museum">http://dbpedia.org/resource/Capitoline_Museums</field>
+<field name="title">The Fortune Teller</field>
+<field name="type">oil on canvas</field>
+<field name="width">150</field>
+<field name="width">131</field>
+<field name="year">c.1594</field>
+<field name="year">c. 1595</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Fortune_Teller_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Fortune_Teller_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fortune_teller_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wróżenie_z_ręki</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_buenaventura</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Buona_ventura_(Caravaggio_Parigi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Fortune_Teller_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Diseuse_de_bonne_aventure_(Le_Caravage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Adivinha</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2610675</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/מגדת_העתידות_(קאראווג'ו)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/หมอดู_(คาราวัจโจ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Fortune_Teller_(Caravaggio)</field>
+</doc>
+</add>

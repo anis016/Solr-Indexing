@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fra_Angelico</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Annunciation_of_Cortona</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_of_Cortona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Annunciation_of_Cortona</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Annonciation_de_Cortone</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Anunciação_de_Cortona</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2376881</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c424hs</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_of_Cortona</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_di_Cortona</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Fra_Angelico</field>
+<field name="abstract">The Annunciation of Cortona is a panel-painting altarpiece or retable by Fra Angelico: once housed in the Church of Gesù of Cortona, it is now held at the Museo del Prado in the city of Madrid</field>
+<field name="label">Annunciation of Cortona</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7b/Fra_Angelico_069_framed.jpg</field>
+<field name="comment">The Annunciation of Cortona is a panel-painting altarpiece or retable by Fra Angelico: once housed in the Church of Gesù of Cortona, it is now held at the Museo del Prado in the city of Madrid</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Fra_Angelico_069_framed.jpg/200px-Fra_Angelico_069_framed.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Annunciation_of_Cortona</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Annunciation_of_Cortona</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_di_Cortona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_of_Cortona</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Annunciation_of_Cortona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Annunciation_of_Cortona</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Cortona)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cortona_Annunciation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Annonciation_de_Cortone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_of_Cortona</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Anunciação_de_Cortona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_of_Cortona</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2376881</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_of_Cortona</field>
+</doc>
+</add>

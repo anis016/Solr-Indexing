@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Bateau</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Bateau</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6506532</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04gk_wx</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Le_Bateau</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Le Bateau ("The Boat") is a paper-cut from 1953 by Henri Matisse. The picture is composed from pieces of paper cut out of sheets painted with gouache, and was created during the last years of Matisse's life.</field>
+<field name="label">Le Bateau</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/df/La_Bateau.jpg</field>
+<field name="comment">Le Bateau ("The Boat") is a paper-cut from 1953 by Henri Matisse. The picture is composed from pieces of paper cut out of sheets painted with gouache, and was created during the last years of Matisse's life.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/La_Bateau.jpg/200px-La_Bateau.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="height">13.84</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/New_York</field>
+<field name="title">Le Bateau</field>
+<field name="width">10.33</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Le_Bateau</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Le_Bateau</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Le_Bateau</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Le_Bateau</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6506532</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Bateau</field>
+</doc>
+</add>

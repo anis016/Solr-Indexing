@@ -1,0 +1,91 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Mujeres_en_el_jardín</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Women_in_the_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Donne_in_giardino</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Women_in_the_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Femmes_au_jardin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Women_in_the_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Женщины_в_саду</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Women_in_the_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Women_in_the_Garden</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Mujeres_en_el_jardín</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2734892</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Femmes_au_jardin</field>
+<field name="sameAs">http://dbpedia.org/resource/Women_in_the_Garden</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Femmes_au_jardin</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Donne_in_giardino</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Kobiety_w_ogrodzie</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Vrouwen_in_de_tuin</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bbx_fp</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Женщины_в_саду</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Women_in_the_Garden</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1866_paintings</field>
+<field name="abstract">Women in the Garden is an oil painting begun in 1866 by French artist Claude Monet when he was 26. It is a large work painted en plein air; the size of the canvas necessitated Monet painting its upper half with the canvas lowered into a trench he had dug, so that he could maintain a single point of view for the entire work. The setting is the garden of a property he was renting. His companion Camille posed for the figures. Monet finished the work indoors, and used magazine illustrations to render fashionable clothing. Monet at this time was early in his career, experimenting with method and subject matter. His earlier paintings were successful at Paris Salons, but Women in the Garden was rejected in 1867 on the grounds of subject and narrative weakness. The Salon was also troubled by Monet's heavy brushstrokes, a style which would, of course, become one of the hallmarks of Impressionism. A judge commented, "Too many young people think of nothing but continuing in this abominable direction. It is high time to protect them and save art!" The painting was purchased by fellow artist Frédéric Bazille to help support Monet at a time when he had no money. Although the Musée d'Orsay, the painting's owner, comments that "Monet has skilfully rendered the white of the dresses, anchoring them firmly in the structure of the composition", Christoph Heinrich, author of a Monet biography, notes how posterity has found the painting lacking. In this view, the figures appear poorly integrated into the scene, with the woman at right "gliding across the ground as if she had a trolley concealed beneath her dress". The painting's treatment of light and shadow is lauded, however, and in this respect the work may have shown Monet where his artistic path lay.</field>
+<field name="label">Women in the Garden</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/95/Claude_Monet_024.jpg</field>
+<field name="comment">Women in the Garden is an oil painting begun in 1866 by French artist Claude Monet when he was 26. It is a large work painted en plein air; the size of the canvas necessitated Monet painting its upper half with the canvas lowered into a trench he had dug, so that he could maintain a single point of view for the entire work. The setting is the garden of a property he was renting. His companion Camille posed for the figures.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Claude_Monet_024.jpg/200px-Claude_Monet_024.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Claude_Monet</field>
+<field name="city"/>
+<field name="height">255</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">Women in the Garden</field>
+<field name="type">Oil on canvas</field>
+<field name="width">205</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Women_in_the_Garden</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Women_in_the_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Women_in_the_Garden</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Women_in_the_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Kobiety_w_ogrodzie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Women_in_the_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Femmes_au_jardin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Women_in_the_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Vrouwen_in_de_tuin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Women_in_the_Garden</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2734892</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Women_in_the_Garden</field>
+</doc>
+</add>

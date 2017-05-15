@@ -1,0 +1,125 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Love_letter_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Al_lizher_karantez</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Lettre_d'amour</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Лист_від_коханого</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Lettera_d'amore_(Vermeer)</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Kärleksbrevet</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Любовное_письмо_(картина_Яна_Вермеера)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/List_miłosny</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_liefdesbrief</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qb_tk</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_Liebesbrief</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_carta_(Vermeer)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q735061</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Love_Letter_(Vermeer)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Rijksmuseum_Amsterdam</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="abstract">The Love Letter is a 17th-century genre painting by Jan Vermeer. The painting shows a servant maid handing a letter to a young woman with a cittern. The painting is in the Rijksmuseum Amsterdam. The tied-up curtain in the foreground creates the impression that the viewer is looking at an intensely private, personal scene. There is also an element of trompe l'oeil as Dutch paintings were often hung with little curtains to conserve them, and the device of painted curtains is seen in other Dutch works of the period. The diagonals on the chequered floor create the impression of depth and three-dimensionality. The fact that it is a love letter that the woman has received is made clear by the fact that she is carrying a lute (more specifically, a cittern, a member of the lute/guitar family). The lute was a symbol of love - often carnal love; luit was also a slang term for vagina. This idea is further reinforced by the slippers at the very bottom of the picture. The removed slipper was another symbol of sex. The floor brush would appear to represent domesticity, and its placement at the side of the painting may suggest that domestic concerns have been forgotten or pushed aside. The colors blue and gold are important in the composition of the painting - the gold is located on the woman's dress, the top of the fireplace, and many of the objects, which complements the blue on the floor, the maid's dress, the picture frames, etc. , Classical influence is also apparent in the ionic columns of the fireplace. The two paintings on the wall are also significant. The lower painting is of a stormy sea, a clear metaphor for tempestuous love. Above it is a landscape painting of a traveler on a sandy road. This may refer to the absence of the man who is writing to the lady.</field>
+<field name="label">The Love Letter (Vermeer)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/87/The_Love_Letter_Vermeer.jpg</field>
+<field name="comment">The Love Letter is a 17th-century genre painting by Jan Vermeer. The painting shows a servant maid handing a letter to a young woman with a cittern. The painting is in the Rijksmuseum Amsterdam. The tied-up curtain in the foreground creates the impression that the viewer is looking at an intensely private, personal scene.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/The_Love_Letter_Vermeer.jpg/200px-The_Love_Letter_Vermeer.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/65202/rec/17</field>
+<field name="link_external">http://www.rijksmuseum.nl/aria/aria_assets/SK-A-1595?lang=en</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="height">44</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Rijksmuseum</field>
+<field name="title">The Love Letter</field>
+<field name="width">38.5</field>
+<field name="year">c. 1666</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Love_Letter_(Vermeer)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Lettera_d'amore_(Vermeer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/List_miłosny</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Love_Letter_(Vermeer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_carta_(Vermeer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Love_Letter_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_Liebesbrief</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Lettre_d'amour</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Любовное_письмо_(картина_Яна_Вермеера)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_liefdesbrief</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q735061</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Al_lizher_karantez</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Kärleksbrevet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Лист_від_коханого</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Love_Letter_(Vermeer)</field>
+</doc>
+</add>

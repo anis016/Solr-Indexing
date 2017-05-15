@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Cromwell_on_his_Farm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Cromwell_on_his_Farm</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cromwell_on_his_Farm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qcst8</field>
+<field name="sameAs">http://dbpedia.org/resource/Cromwell_on_his_Farm</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5187680</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Cromwell_on_his_Farm</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ford_Madox_Brown</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1874_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Lady_Lever_Art_Gallery</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Oliver_Cromwell</field>
+<field name="abstract">Cromwell on his Farm (1874) is a painting by Ford Madox Brown which depicts Oliver Cromwell observing a bonfire on his farm and thinking of a passage in the Book of Psalms: "Lord, how long wilt thy hide thyself - forever? And shall thy wrath burn like fire?" (Psalm 89). The words are inscribed on the painting's frame along with a quotation from one of Cromwell's speeches, in which he describes his life before entering into politics: "living neither in any considerable height, nor yet in obscurity, I did endeavour to discharge the duty of an honest man."</field>
+<field name="label">Cromwell on his Farm</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/61/Cromwell_on_His_Farm.jpg</field>
+<field name="comment">Cromwell on his Farm (1874) is a painting by Ford Madox Brown which depicts Oliver Cromwell observing a bonfire on his farm and thinking of a passage in the Book of Psalms: "Lord, how long wilt thy hide thyself - forever? And shall thy wrath burn like fire?" (Psalm 89).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Cromwell_on_His_Farm.jpg/200px-Cromwell_on_His_Farm.jpg</field>
+<field name="link_external">http://www.gasl.org/refbib/Carlyle__Cromwell.pdf</field>
+<field name="artist">http://dbpedia.org/resource/Ford_Madox_Brown</field>
+<field name="city">http://dbpedia.org/resource/Port_Sunlight</field>
+<field name="height">143</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Lady_Lever_Art_Gallery</field>
+<field name="title">Cromwell on his Farm</field>
+<field name="width">103.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Cromwell_on_his_Farm</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cromwell_on_his_Farm</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5187680</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cromwell_on_his_Farm</field>
+</doc>
+</add>

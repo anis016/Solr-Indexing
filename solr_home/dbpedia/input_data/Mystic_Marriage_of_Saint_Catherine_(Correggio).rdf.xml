@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mystic_Marriage_of_Saint_Catherine_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mystic_Marriage_of_Saint_Catherine_(Correggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mystic_Marriage_of_Saint_Catherine_(Correggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hzq21_</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6948953</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1420s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Correggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Mystic Marriage of Saint Catherine (or Mystical) is a painting by Correggio dating about the mid-1520s currently held and exhibited at the Louvre in Paris, France.</field>
+<field name="label">Mystic Marriage of Saint Catherine (Correggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d8/Correggio_055.jpg</field>
+<field name="comment">The Mystic Marriage of Saint Catherine (or Mystical) is a painting by Correggio dating about the mid-1520s currently held and exhibited at the Louvre in Paris, France.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d8/Correggio_055.jpg/200px-Correggio_055.jpg</field>
+<field name="link_external">http://www.youtube.com/watch?v=OUWGoxeWCn4</field>
+<field name="link_external">http://www.gutenberg.org/etext/19143</field>
+<field name="link_external">http://www.antoniodacorreggio.org/</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/correggio/</field>
+<field name="link_external">http://www.wga.hu/html_m/c/correggi/various/mystic_m.html</field>
+<field name="link_external">http://www.casa-in-italia.com/arte/Correggio_antico_en.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mystic_Marriage_of_Saint_Catherine_(Correggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mystic_Marriage_of_Saint_Catherine_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mystic_Marriage_of_St._Catherine_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mystic_Marriage_of_Saint_Catherine_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mystic_Marriage_of_Saint_Catherine_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6948953</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mystic_Marriage_of_Saint_Catherine_(Correggio)</field>
+</doc>
+</add>

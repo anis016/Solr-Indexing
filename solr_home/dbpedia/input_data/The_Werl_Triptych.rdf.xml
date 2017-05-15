@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Triptyque_de_Werl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Werl_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Tryptyk_z_Werl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Werl_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Tríptico_Werl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Werl_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Werl_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Werl_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Werl_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/ウェルル祭壇画</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Triptyque_de_Werl</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Tryptyk_z_Werl</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Werl_Triptych</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3136106</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Werl_Triptych</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Tríptico_Werl</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3lj02</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1438_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Robert_Campin</field>
+<field name="abstract">The Werl Triptych (or Triptych of Heinrich von Werl) is an triptych altarpiece completed in Cologne in 1438, of which the center panel is now lost. The two remaining wings are now in the Prado in Madrid. It was long attributed to the Master of Flémalle, now generally believed to have been Robert Campin, although this identity is not universally accepted. Some art historians believe it may have been painted as a pastiche by either the workshop or a follower of Campin or the Master of Flémalle. The right wing depicts a seated, pious Saint Barbara, who is shown engrossed in her reading of a bound and gilded holy book, seated in front of a warm open fire which lights the room with a golden glow. The left wing has a donor portrait of Heinrich von Werl, who kneels in prayer in the company of John the Baptist facing the missing devotional center-panel scene, which is lost and unrecorded. The two extant panels are in Madrid and renowned for their complex treatment of both light and form. The panels became influential on other artists from the mid-15th until the early 16th century, after when Early Netherlandish painting fell out of favour until it was rediscovered in the early 19th century. From an inscription in the left wing, the panels are known to have been commissioned by Heinrich von Werl, provincial head of Cologne during 1438. He is shown in the left wing kneeling in devotion alongside Saint John the Baptist. This panel contains a number of elements indebted to Jan van Eyck, notably the convex mirror in the midground, which as with the 1434 Arnolfini Marriage, reflects the scene back at the viewer.</field>
+<field name="label">The Werl Triptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6e/Werl-Triptychons.jpg</field>
+<field name="comment">The Werl Triptych (or Triptych of Heinrich von Werl) is an triptych altarpiece completed in Cologne in 1438, of which the center panel is now lost. The two remaining wings are now in the Prado in Madrid. It was long attributed to the Master of Flémalle, now generally believed to have been Robert Campin, although this identity is not universally accepted. Some art historians believe it may have been painted as a pastiche by either the workshop or a follower of Campin or the Master of Flémalle.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Werl-Triptychons.jpg/200px-Werl-Triptychons.jpg</field>
+<field name="width">160</field>
+<field name="width">185</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Werl_Triptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Werl_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/ウェルル祭壇画</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Werl_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Werl_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Werl_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3136106</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Werl_Triptych</field>
+</doc>
+</add>

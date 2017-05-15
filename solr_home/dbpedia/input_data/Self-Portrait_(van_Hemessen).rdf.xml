@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self-Portrait_(van_Hemessen)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self-Portrait_(van_Hemessen)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-Portrait_(van_Hemessen)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmcww_</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7447985</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self-Portrait_(van_Hemessen)</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_(van_Hemessen)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1548_paintings</field>
+<field name="abstract">Self-Portrait is a small painting executed in oil on oak in 1548 by the Flemish Renaissance artist Caterina van Hemessen when she was 20 years old. The painting earned her a considerable reputation during her lifetime and is significant not only for being an early modern female portrait but also for representing an artist in the act of painting. This was very unusual for the time; although self-portraits were common, only a few, like those of Albrecht Dürer (1471–1528), showed the artist's social position and everyday life. Artists of the time rarely directly referred to, much less showed the tools of their profession. Hemessen's portrait is one of the earliest in the Northern European tradition to show a painter not only with a brush but also a palette and easel. She inscribed it with the words: . Hemessen is shown at half length and holding a brush, looking outwards as if at her own image as she records it on the oak panel in front of her. She has only begun work on the depicted painting, no background has been put down, and only a sketch of her head can be seen. Her face is painted with soft brush-strokes, while the textures of her gown are distinguished using a wider variety of brushmarks. In the main image, Hemessen has shown herself elegantly clothed in a black brocade dress and red velvet sleeves. While such an outfit would have been impractical wear for an artist working with oils and brushes, her clothes are intended to indicate her social rank and attribute personal dignity. Her arms are outsized in proportion to the rest of her body. There are a number of deliberate contradictions and explorations of mirror images at play. Hemessen holds the brush with her right hand; she would have corrected the reversal on the reflected image. Her head as shown on the panel is undersized and situated on the top left; that is opposite to the position her head appears on the actual painting. Her head is turned in the direction of the viewer but her eyes do not meet the viewer's. Typical of her work, the background is plain and dark, and gives no indication of the space occupied by the sitter. A number of obstacles stood in the way of contemporary women who wished to become painters. Chief amongst these was the fact that their training would involve both the dissection of cadavers and the study of the nude male form. In addition, the system of apprenticeship meant that the aspiring artist would need to live with an older artist for 4–5 years, often beginning from the age of 9–15. For these reasons, female artists were extremely rare, and those that did make it through were typically trained by a close relative, in van Hemessen's case, by her father.</field>
+<field name="label">Self-Portrait (van Hemessen)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b5/Hemessen-Selbstbildnis.jpg</field>
+<field name="comment">Self-Portrait is a small painting executed in oil on oak in 1548 by the Flemish Renaissance artist Caterina van Hemessen when she was 20 years old. The painting earned her a considerable reputation during her lifetime and is significant not only for being an early modern female portrait but also for representing an artist in the act of painting.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Hemessen-Selbstbildnis.jpg/200px-Hemessen-Selbstbildnis.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self-Portrait_(van_Hemessen)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self-Portrait_(van_Hemessen)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-Portrait_(Caterina_van_Hemessen)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7447985</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_(van_Hemessen)</field>
+</doc>
+</add>

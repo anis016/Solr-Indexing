@@ -1,0 +1,134 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Yellow_House_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Casa_Amarela</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Casa_galbenă_(pictură)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2200610</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Het_gele_huis</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הבית_הצהוב</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Жёлтый_дом_(картина_Ван_Гога)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Casa_Amarela</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Yellow_House_(painting)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Maison_Jaune_(Van_Gogh)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dom_Vincenta_w_Arles_(Żółty_Dom)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/黄色い家</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_casa_gialla</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d7q0p</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Casa_groga_(Arle)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Van_Gogh_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="abstract">For other uses, see Yellow House (disambiguation). The Yellow House is the title generally given to an oil painting by the 19th-century Dutch Post-Impressionist painter Vincent van Gogh. This title refers to the right wing of the building, 2, Place Lamartine, Arles, France, the house where, on May 1, 1888, Vincent Van Gogh rented four rooms, two large ones on the ground floor to serve as atelier and kitchen, and, on the first floor, two smaller ones facing Place Lamartine. The window on the first floor near the corner with both shutters open is that of van Gogh's guest room, where Paul Gauguin lived for nine weeks from late October, 1888. Behind the next window, with one shutter closed, is Van Gogh's Bedroom. The two small rooms at the rear were rented by van Gogh at a later time. The left wing housed a grocery . The building suffered various rebuilding, before it was severely damaged in a bombing raid by the Allies on June 25, 1944 and was later demolished. Van Gogh indicated that the restaurant, where he used to have his meals, was in the building painted pink close to the left edge of the painting (28, Place Lamartine). It was run by Widow Venissac, who was also van Gogh's landlady, and who owned several of the other buildings depicted. To the right side of the Yellow House, the Avenue Montmajour runs down to the two railway bridges. The first line, with a train just passing, served the local connection to Lunel, which is on the opposite (that is, right) bank of river Rhône. The other line was owned by the P. -L. -M. Railway Company (Paris Lyon Méditerranée) In the foreground to the left, there is an indication of the corner of the pedestrian walk, which surrounded one of the public gardens on Place Lamartine. The ditch running up Avenue Montmajour from the left towards the bridges served the gas pipe, which allowed Van Gogh a little later to have gas light installed in his atelier.</field>
+<field name="label">The Yellow House (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/67/WLANL_-_Pachango_-_Het_gele_huis_('De_straat'),_Vincent_van_Gogh_(1888).jpg</field>
+<field name="comment">For other uses, see Yellow House (disambiguation). The Yellow House is the title generally given to an oil painting by the 19th-century Dutch Post-Impressionist painter Vincent van Gogh. This title refers to the right wing of the building, 2, Place Lamartine, Arles, France, the house where, on May 1, 1888, Vincent Van Gogh rented four rooms, two large ones on the ground floor to serve as atelier and kitchen, and, on the first floor, two smaller ones facing Place Lamartine.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/WLANL_-_Pachango_-_Het_gele_huis_('De_straat'),_Vincent_van_Gogh_(1888).jpg/200px-WLANL_-_Pachango_-_Het_gele_huis_('De_straat'),_Vincent_van_Gogh_(1888).jpg</field>
+<field name="link_external">http://www3.vangoghmuseum.nl/vgm/index.jsp?page=2723&amp;lang=en</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="height">72</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Van_Gogh_Museum</field>
+<field name="title">The Yellow House</field>
+<field name="width">91.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Yellow_House_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/黄色い家</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Maison_Jaune_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_casa_gialla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Жёлтый_дом_(картина_Ван_Гога)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Yellow_House</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Yellow_House</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Yellow_House_(Arles)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dom_Vincenta_w_Arles_(Żółty_Dom)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Yellow_House_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Het_gele_huis</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2200610</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Casa_groga_(Arle)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הבית_הצהוב</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Casa_galbenă_(pictură)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Yellow_House_(painting)</field>
+</doc>
+</add>

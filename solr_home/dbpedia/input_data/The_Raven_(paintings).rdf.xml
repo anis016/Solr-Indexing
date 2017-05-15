@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Raven_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Raven_(paintings)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Raven_(paintings)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvsx_5</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Adaptations_of_works_by_Edgar_Allan_Poe</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Watercolours</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1995_paintings</field>
+<field name="abstract">The Raven is the title of a series of 28 watercolor paintings made by Nabil Kanso in 1995. The subjects of the works in the series are based on the poem The Raven by Edgar Allan Poe.</field>
+<field name="label">The Raven (paintings)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4b/The_Raven_N13.jpg</field>
+<field name="comment">The Raven is the title of a series of 28 watercolor paintings made by Nabil Kanso in 1995. The subjects of the works in the series are based on the poem The Raven by Edgar Allan Poe.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/The_Raven_N13.jpg/200px-The_Raven_N13.jpg</field>
+<field name="link_external">http://nabilkanso.com/RAVEN.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Raven_(paintings)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Raven_(paintings)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Raven_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Raven_(paintings)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Raven_(paintings)</field>
+</doc>
+</add>

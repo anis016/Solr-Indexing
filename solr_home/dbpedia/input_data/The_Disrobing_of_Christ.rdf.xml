@@ -1,0 +1,109 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_expolio_(El_Greco,_Toledo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Spoliazione_di_Cristo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/El_Expolio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Disrobing_of_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/El_Espolio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/ال_اسپولیو</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/El_Expolio</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Disrobing_of_Christ</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Obnażenie_z_szat</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Spoliazione_di_Cristo</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/L'espoli</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/La_senvestigo_de_Kristo</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_expolio_(El_Greco,_Toledo)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026sxt3</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2714617</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Disrobing_of_Christ_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_El_Greco</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Toledo,_Spain</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1570s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Disrobing of Christ or El Expolio is a painting begun in the summer of 1577 and completed in the spring of 1579 for the High Altar of the sacristy of the Cathedral of Toledo, where it still hangs. It is one of El Greco's most famous works. A document dated July 2, 1577 which refers to this painting is the earliest record of El Greco's presence in Spain. The commission for the painting was secured thanks to El Greco's friendship from Rome with Luis, the son of Diego de Castilla, the dean of the Cathedral of Toledo. De Castilla senior also arranged El Greco's other major commission, on which he worked simultaneously, the paintings for the Toledan church of Santo Domingo el Antiguo.</field>
+<field name="label">The Disrobing of Christ</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ea/El_Expolio_del_Greco_Catedral_de_Toledo.jpg</field>
+<field name="comment">The Disrobing of Christ or El Expolio is a painting begun in the summer of 1577 and completed in the spring of 1579 for the High Altar of the sacristy of the Cathedral of Toledo, where it still hangs. It is one of El Greco's most famous works. A document dated July 2, 1577 which refers to this painting is the earliest record of El Greco's presence in Spain.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/El_Expolio_del_Greco_Catedral_de_Toledo.jpg/200px-El_Expolio_del_Greco_Catedral_de_Toledo.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">285</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Disrobing of Christ</field>
+<field name="type">oil on canvas</field>
+<field name="width">173</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Disrobing_of_Christ</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Disrobing_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Disrobing_of_Christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Obnażenie_z_szat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2714617</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/L'espoli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/La_senvestigo_de_Kristo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/ال_اسپولیو</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Disrobing_of_Christ_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Disrobing_of_Christ</field>
+</doc>
+</add>

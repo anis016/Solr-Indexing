@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Cortona_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Cortona_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cortona_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q24531</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Triptyque_de_Cortone</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dryrxz</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_di_Cortona</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Tríptico_de_Cortona</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Cortona_Triptych</field>
+<field name="sameAs">http://dbpedia.org/resource/Cortona_Triptych</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1430s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Fra_Angelico</field>
+<field name="abstract">The Cortona Triptych is a depiction of the Madonna and Child with saints, by Fra Angelico now at the Diocesan Museum, Cortona, Italy. It dates to 1436-1437. The triptych was originally painted for the church of San Domenico in Cortona, and belonged to the Dominicans. It was painted in Fiesole, and then shipped to Cortona, probably just before Fra Angelico painted the Perugia Altarpiece in 1437, with which this work shares many common elements. The predella depicts the story of Saint Dominic along with other saints: Saint Peter The dream of Innocent III, Saint Michael the Archangel Resurrection of Napoleone Orsini Saint Vincent, Martyr Saint Dominic with the Friars, being served by the Angels and Death of St. Dominic Saint Thomas Aquinas The predella of the triptych</field>
+<field name="label">Cortona Triptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3e/Angelico,_cortona_poliptych_01.jpg</field>
+<field name="comment">The Cortona Triptych is a depiction of the Madonna and Child with saints, by Fra Angelico now at the Diocesan Museum, Cortona, Italy. It dates to 1436-1437. The triptych was originally painted for the church of San Domenico in Cortona, and belonged to the Dominicans. It was painted in Fiesole, and then shipped to Cortona, probably just before Fra Angelico painted the Perugia Altarpiece in 1437, with which this work shares many common elements.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Angelico,_cortona_poliptych_01.jpg/200px-Angelico,_cortona_poliptych_01.jpg</field>
+<field name="link_external">http://www.cortonaweb.net/musei/diocesano.php</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Cortona_Triptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cortona_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_di_Cortona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cortona_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Triptyque_de_Cortone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cortona_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Tríptico_de_Cortona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cortona_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q24531</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cortona_Triptych</field>
+</doc>
+</add>

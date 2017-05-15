@@ -1,0 +1,120 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dull_Gret</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Dulle_Griet_(taolenn)</field>
+<field name="sameAs">http://dbpedia.org/resource/Dull_Gret</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q80869</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Dulle_Griet_(schilderij)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Tolle_Grete</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gw7ht</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/悪女フリート</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Dull_Gret</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Szalona_Małgorzata</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Margherita_la_pazza</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Dulle_Griet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Military_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_folklore</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Characters_of_European_folklore</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fictional_Belgian_people</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="abstract">Dulle Griet (anglicized as Dull Gret), also known as Mad Meg, is a figure of Flemish folklore who is the subject of a 1562 oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder. The painting depicts a peasant woman, Mad Meg, who leads an army of women to pillage Hell, and is currently held and exhibited at the Museum Mayer van den Bergh in Antwerp.</field>
+<field name="label">Dull Gret</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f6/Mad_meg.jpg</field>
+<field name="comment">Dulle Griet (anglicized as Dull Gret), also known as Mad Meg, is a figure of Flemish folklore who is the subject of a 1562 oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder. The painting depicts a peasant woman, Mad Meg, who leads an army of women to pillage Hell, and is currently held and exhibited at the Museum Mayer van den Bergh in Antwerp.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f6/Mad_meg.jpg/200px-Mad_meg.jpg</field>
+<field name="link_external">http://www.boschbruegel.com</field>
+<field name="link_external">http://www.art-drawing.ru/biographies/brief-biographies/199-bruegel-peter</field>
+<field name="link_external">http://museum.antwerpen.be/mayervandenbergh/index_eng.html</field>
+<field name="link_external">http://www.pieter-bruegel-the-elder.org</field>
+<field name="artist">http://dbpedia.org/resource/Pieter_Bruegel_the_Elder</field>
+<field name="city">http://dbpedia.org/resource/Antwerp</field>
+<field name="height">115</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_Mayer_van_den_Bergh</field>
+<field name="title">Dulle Griet</field>
+<field name="type">Oil on panel</field>
+<field name="width">161</field>
+<field name="year">c. 1562</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Dull_Gret</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dull_Gret</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/GRET</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Tolle_Grete</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dull_Gret</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Margherita_la_pazza</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dull_Gret</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Szalona_Małgorzata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dull_Gret</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/悪女フリート</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dull_Gret</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dull</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Dull_Gret</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Dull_Gret</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Dulle_Griet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dull_Gret</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dulle_Griet_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mad_Meg</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Dulle_Griet_(schilderij)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dull_Gret</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q80869</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dull_Gret</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Dulle_Griet_(taolenn)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dull_Gret</field>
+</doc>
+</add>

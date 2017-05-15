@@ -1,0 +1,67 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Hunt_by_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Caccia_notturna_(Paolo_Uccello)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hunt_in_the_Forest</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Hunt_in_the_Forest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3649296</field>
+<field name="sameAs">http://th.dbpedia.org/resource/การล่าสัตว์ในป่า_(อูเชลโล)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Caccia_notturna_(Paolo_Uccello)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hunt_in_the_Forest</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Hunt_in_the_Forest</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026fkk5</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Ashmolean_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dogs_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horses_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paolo_Uccello</field>
+<field name="abstract">The Hunt in the Forest (also known as The Hunt by Night or simply The Hunt) is a painting by the Italian artist Paolo Uccello, made around 1470. It is perhaps the best-known painting in the Ashmolean Museum, Oxford, England. The painting is an early example of the effective use of perspective in Renaissance art, with the hunt participants, including people, horses, dogs and deer, disappearing into the dark forest in the distance. It was Uccello's last known painting before his death in 1475.</field>
+<field name="label">The Hunt in the Forest</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c8/Hunt_in_the_forest_by_paolo_uccello.jpg</field>
+<field name="comment">The Hunt in the Forest (also known as The Hunt by Night or simply The Hunt) is a painting by the Italian artist Paolo Uccello, made around 1470. It is perhaps the best-known painting in the Ashmolean Museum, Oxford, England. The painting is an early example of the effective use of perspective in Renaissance art, with the hunt participants, including people, horses, dogs and deer, disappearing into the dark forest in the distance. It was Uccello's last known painting before his death in 1475.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Hunt_in_the_forest_by_paolo_uccello.jpg/200px-Hunt_in_the_forest_by_paolo_uccello.jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/u/uccello/6various/6hunt.html</field>
+<field name="link_external">http://www.english.emory.edu/Paintings&amp;Poems/hunt.html</field>
+<field name="link_external">http://www.english.emory.edu/Paintings&amp;Poems/hunt.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Oxford</field>
+<field name="height">65</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="museum">http://dbpedia.org/resource/Ashmolean_Museum</field>
+<field name="title">The Hunt in the Forest</field>
+<field name="width">165</field>
+<field name="year">c. 1470</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Hunt_in_the_Forest</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Hunt_in_the_Forest</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Hunt_in_the_Forest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Hunt_in_the_Forest</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3649296</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hunt_in_the_Forest</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/การล่าสัตว์ในป่า_(อูเชลโล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hunt_in_the_Forest</field>
+</doc>
+</add>

@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Street_in_Venice</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b77gs2</field>
+<field name="sameAs">http://dbpedia.org/resource/Street_in_Venice</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Street_in_Venice</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7623018</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Вулиця_в_Венеції</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Singer_Sargent</field>
+<field name="abstract">Street in Venice (or A Street Scene in Venice) is an c. 1882 oil on wood painting by the American artist John Singer Sargent (1856–1925). Painted in a post-impressionist manner, it is set in a quiet backstreet off the Calle Larga dei Proverbi, near the Grand Canal in Venice. The painting shows a young woman walking along the flagstones, kicking her skirt with her right foot, and observed by two men in the shadows to her right. From the manner in which Sargent depicts her down-turned eyes and seemingly fast pace with which she passes the two men, he is concerned largely with the invasive male glare and its effect on the passing woman. The painting is one of a number of Venetian scenes painted or drawn by Sargent, who spent most of his life in Europe, during his time in the city. As in his other works, it largely ignores the architectural aspects the city is best known for and focuses instead on edgy back-street imagery. The influence of Impressionism is evident in a number of this work's features, especially in the broad brush strokes of her dress and the unusual cropping of the composition.</field>
+<field name="label">Street in Venice</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fc/Sargent_Street_in_Venice.jpg</field>
+<field name="comment">Street in Venice (or A Street Scene in Venice) is an c. 1882 oil on wood painting by the American artist John Singer Sargent (1856–1925). Painted in a post-impressionist manner, it is set in a quiet backstreet off the Calle Larga dei Proverbi, near the Grand Canal in Venice. The painting shows a young woman walking along the flagstones, kicking her skirt with her right foot, and observed by two men in the shadows to her right.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Sargent_Street_in_Venice.jpg/200px-Sargent_Street_in_Venice.jpg</field>
+<field name="link_external">http://www.nga.gov/collection/gallery/gg69/gg69-46428-exhibit.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Street_in_Venice</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Street_in_Venice</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Street_in_Venice</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Street_in_Venice</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7623018</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Street_in_Venice</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Вулиця_в_Венеції</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Street_in_Venice</field>
+</doc>
+</add>

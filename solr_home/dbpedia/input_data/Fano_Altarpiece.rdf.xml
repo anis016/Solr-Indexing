@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_di_Fano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fano_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fano_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fano_Altarpiece</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3428043</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Fano_Altarpiece</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gtvnsc</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_de_Fano</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_di_Fano</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1497_paintings</field>
+<field name="abstract">Fano Altarpiece is a painting by the Italian Renaissance artist Pietro Perugino, executed in 1497, and housed in the church of Santa Maria Nuova, Fano, central Italy. It also includes a lunette with a Pietà and several predella panels. Perugino had already painted an Annunciation in 1488-1490. Several scholars have supposed that a young Raphael collaborated on the predella.</field>
+<field name="label">Fano Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/96/Pietro_Perugino_cat45b.jpg</field>
+<field name="comment">Fano Altarpiece is a painting by the Italian Renaissance artist Pietro Perugino, executed in 1497, and housed in the church of Santa Maria Nuova, Fano, central Italy. It also includes a lunette with a Pietà and several predella panels. Perugino had already painted an Annunciation in 1488-1490. Several scholars have supposed that a young Raphael collaborated on the predella.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Pietro_Perugino_cat45b.jpg/200px-Pietro_Perugino_cat45b.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pietro_Perugino</field>
+<field name="city">http://dbpedia.org/resource/Fano</field>
+<field name="height">262</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Fano Altarpiece</field>
+<field name="width">215</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Fano_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Fano_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Fano_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Fano_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_de_Fano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fano_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3428043</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fano_Altarpiece</field>
+</doc>
+</add>

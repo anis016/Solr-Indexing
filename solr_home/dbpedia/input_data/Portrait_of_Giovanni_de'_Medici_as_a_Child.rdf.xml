@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Giovanni_de'_Medici_as_a_Child</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Giovanni_de'_Medici</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g5b29r</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3784272</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giovanni_de'_Medici_as_a_Child</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Giovanni_de'_Medici_as_a_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Bronzino_paintings_in_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1545_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Bronzino_portraits</field>
+<field name="abstract">The Portrait of Giovanni de' Medici as a Child (c. 1545) is an oil on panel painting by the Florentine artist Agnolo Bronzino. It is currently located at the Galleria degli Uffizi in Florence.</field>
+<field name="label">Portrait of Giovanni de' Medici as a Child</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bc/Bronzino_-_giovanni_de_medici_1543.jpg</field>
+<field name="comment">The Portrait of Giovanni de' Medici as a Child (c. 1545) is an oil on panel painting by the Florentine artist Agnolo Bronzino. It is currently located at the Galleria degli Uffizi in Florence.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Bronzino_-_giovanni_de_medici_1543.jpg/200px-Bronzino_-_giovanni_de_medici_1543.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Bronzino</field>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">58</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Uffizi</field>
+<field name="title">Portrait of Giovanni de' Medici as a Child</field>
+<field name="width">48</field>
+<field name="year">circa 1545</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Giovanni_de'_Medici_as_a_Child</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Giovanni_de'_Medici_as_a_Child</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Giovanni_de'_Medici_as_a_Child</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Giovanni_de'_Medici_as_a_Child</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Giovanni_de'_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giovanni_de'_Medici_as_a_Child</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3784272</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giovanni_de'_Medici_as_a_Child</field>
+</doc>
+</add>

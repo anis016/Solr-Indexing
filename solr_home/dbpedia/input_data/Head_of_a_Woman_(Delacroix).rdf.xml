@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Head_of_a_Woman_(Delacroix)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5689366</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bh87bw</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Head_of_a_Woman_(Delacroix)</field>
+<field name="sameAs">http://dbpedia.org/resource/Head_of_a_Woman_(Delacroix)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1823_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Eug%C3%A8ne_Delacroix</field>
+<field name="abstract">Head of a Woman was painted using graphite in 1823 by the French Romantic artist Eugène Delacroix (1798–1863) as a study for his 1824 The Massacre at Chios. The woman is tighly framed and shown gazing upwards in fear. Her black dress, long dark hair and features are rendered using chiaroscuro. Today the painting is part of the collection of the Fine Arts museum of Orléans, France.</field>
+<field name="label">Head of a Woman (Delacroix)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/00/Delacroix_head_of_a_woman.jpg</field>
+<field name="comment">Head of a Woman was painted using graphite in 1823 by the French Romantic artist Eugène Delacroix (1798–1863) as a study for his 1824 The Massacre at Chios. The woman is tighly framed and shown gazing upwards in fear. Her black dress, long dark hair and features are rendered using chiaroscuro. Today the painting is part of the collection of the Fine Arts museum of Orléans, France.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/00/Delacroix_head_of_a_woman.jpg/200px-Delacroix_head_of_a_woman.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Head_of_a_Woman_(Delacroix)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Head_of_a_Woman_(Delacroix)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Head_of_a_Woman_(Delacroix)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Head_of_a_Woman_(Delacroix)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Head_of_a_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5689366</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Head_of_a_Woman_(Delacroix)</field>
+</doc>
+</add>

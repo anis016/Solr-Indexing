@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ο_Άγιος_Φραγκίσκος_δέχεται_τα_στίγματα_(Τζιότο)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stigmata_of_St._Francis_(Giotto)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Stigmata_of_St._Francis_(Giotto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ο_Άγιος_Φραγκίσκος_δέχεται_τα_στίγματα_(Τζιότο)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmc4vm</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Stigmata_of_St._Francis_(Giotto)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Stigmate_di_san_Francesco_(Giotto)</field>
+<field name="sameAs">http://dbpedia.org/resource/Stigmata_of_St._Francis_(Giotto)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q23904</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1290s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giotto</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Stigmata of St. Francis is a painting by the Italian artist Giotto, painted around 1295-1300 and housed in Musée du Louvre of Paris, France.</field>
+<field name="label">Stigmata of St. Francis (Giotto)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9b/Giotto_di_Bondone_002.jpg</field>
+<field name="comment">The Stigmata of St. Francis is a painting by the Italian artist Giotto, painted around 1295-1300 and housed in Musée du Louvre of Paris, France.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Giotto_di_Bondone_002.jpg/200px-Giotto_di_Bondone_002.jpg</field>
+<field name="link_external">http://www.louvre.fr/en/oeuvre-notices/st-francis-assisi-receiving-stigmata</field>
+<field name="link_external">http://www.artble.com/artists/giotto_di_bondone/paintings/stigmatization_of_st_francis_%28louvre%29</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">313</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum"/>
+<field name="title">Stigmata of St. Francis</field>
+<field name="type">Tempera on panel</field>
+<field name="width">163</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Stigmata_of_St._Francis_(Giotto)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Stigmata_of_St._Francis_(Giotto)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Stigmate_di_san_Francesco_(Giotto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stigmata_of_St._Francis_(Giotto)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Stigmata_of_Saint_Francis_(Giotto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Stigmata_of_St_Francis_(Giotto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Stigmatization_of_St._Francis_(Giotto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Stigmata_of_St._Francis_(Giotto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Stigmata_of_St._Francis_(Giotto)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q23904</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Stigmata_of_St._Francis_(Giotto)</field>
+</doc>
+</add>

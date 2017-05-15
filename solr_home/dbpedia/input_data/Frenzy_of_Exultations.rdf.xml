@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/W%C5%82adys%C5%82aw_Podkowi%C5%84ski</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Frenzy_of_Exultations</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Frenzy_of_Exultations</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cmcls5</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Frenzy_of_Exultations</field>
+<field name="sameAs">http://dbpedia.org/resource/Frenzy_of_Exultations</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4942269</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Extazul</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Szał_uniesień</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Symbolist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1893_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Polish_art</field>
+<field name="abstract">Frenzy of Exultations (Szał Uniesień), or better known as just Frenzy (Szał), is a 1893 painting by Polish artist, Władysław Podkowiński, and is credited as the most famous work in his output. It is considered the first work of symbolism in Polish art, during a period when Poland was partitioned between its neighbours: Russia, Germany and Austria.</field>
+<field name="label">Frenzy of Exultations</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/72/Podkowiński-Szał_uniesień-MNK.jpg</field>
+<field name="comment">Frenzy of Exultations (Szał Uniesień), or better known as just Frenzy (Szał), is a 1893 painting by Polish artist, Władysław Podkowiński, and is credited as the most famous work in his output. It is considered the first work of symbolism in Polish art, during a period when Poland was partitioned between its neighbours: Russia, Germany and Austria.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Podkowiński-Szał_uniesień-MNK.jpg/200px-Podkowiński-Szał_uniesień-MNK.jpg</field>
+<field name="artist">http://dbpedia.org/resource/W%C5%82adys%C5%82aw_Podkowi%C5%84ski</field>
+<field name="city">http://dbpedia.org/resource/Krak%C3%B3w</field>
+<field name="height">310</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Museum,_Krak%C3%B3w</field>
+<field name="title">Szał</field>
+<field name="width">270</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Frenzy_of_Exultations</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Frenzy_of_Exultations</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Frenzy_of_Exultations</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Frenzy_of_Exultations</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Szał_uniesień</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Frenzy_of_Exultations</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4942269</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Frenzy_of_Exultations</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Extazul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Frenzy_of_Exultations</field>
+</doc>
+</add>

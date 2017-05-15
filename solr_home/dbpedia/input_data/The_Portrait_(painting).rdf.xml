@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Portrait_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Portrait_(painting)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הדיוקן</field>
+<field name="sameAs">http://sl.dbpedia.org/resource/Portret_(Magritte)</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/پرتره_(ماگریت)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Portrait_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2918824</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03qqw0h</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1935_paintings</field>
+<field name="abstract">The Portrait (1935) is a painting by the Belgian surrealist René Magritte. This painting is a classic example of the technique that often set Magritte apart from other surrealists. Artists like Dalí and Ernst usually depicted distorted and dream-like representations of real forms mixed with abstract shapes. Magritte is best known for his realistic depictions of ordinary things made surreal by context or their relationship to each other. This painting depicts an almost photo-realistic table setting with a slice of ham in the center. The scene is made surreal by the presence of an eye staring back at the viewer from the center of the ham. This painting was once part of the private collection of the surrealist painter Kay Sage. In 1956 she donated it as a gift to the Museum of Modern Art in New York.</field>
+<field name="label">The Portrait (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7c/The_Portrait.jpg</field>
+<field name="comment">The Portrait (1935) is a painting by the Belgian surrealist René Magritte. This painting is a classic example of the technique that often set Magritte apart from other surrealists. Artists like Dalí and Ernst usually depicted distorted and dream-like representations of real forms mixed with abstract shapes. Magritte is best known for his realistic depictions of ordinary things made surreal by context or their relationship to each other.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/The_Portrait.jpg/200px-The_Portrait.jpg</field>
+<field name="link_external">http://www.moma.org/collection/provenance/items/574.56.html</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">73.3</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">The Portrait</field>
+<field name="width">50.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Portrait_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Portrait_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Portrait_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Portrait_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/پرتره_(ماگریت)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Portrait_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הדיוקן</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Portrait_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://sl.dbpedia.org/resource/Portret_(Magritte)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Portrait_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2918824</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Portrait_(painting)</field>
+</doc>
+</add>

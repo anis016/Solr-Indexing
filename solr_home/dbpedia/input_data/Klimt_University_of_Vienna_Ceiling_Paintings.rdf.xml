@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Fakultätsbilder_(Universität_Wien)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Klimt_University_of_Vienna_Ceiling_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Klimt_University_of_Vienna_Ceiling_Paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.027_tmf</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Fakultätsbilder_(Universität_Wien)</field>
+<field name="sameAs">http://dbpedia.org/resource/Klimt_University_of_Vienna_Ceiling_Paintings</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Klimt_University_of_Vienna_Ceiling_Paintings</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1393851</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:University_of_Vienna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lost_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Gustav_Klimt</field>
+<field name="abstract">The Klimt University of Vienna Ceiling Paintings, also known as the Faculty Paintings, were a series of paintings made by Gustav Klimt for the ceiling of the University of Vienna's Great Hall between the years of 1900-1907. In 1894, Klimt was commissioned to paint the ceiling. Upon presenting his paintings, Philosophy, Medicine and Jurisprudence, Klimt came under attack for 'pornography' and 'perverted excess' in the paintings. None of the paintings would go on display in the university. In May 1945 all three paintings were destroyed by retreating SS forces.</field>
+<field name="label">Klimt University of Vienna Ceiling Paintings</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4c/Klimt_hygeia.jpg</field>
+<field name="comment">The Klimt University of Vienna Ceiling Paintings, also known as the Faculty Paintings, were a series of paintings made by Gustav Klimt for the ceiling of the University of Vienna's Great Hall between the years of 1900-1907. In 1894, Klimt was commissioned to paint the ceiling. Upon presenting his paintings, Philosophy, Medicine and Jurisprudence, Klimt came under attack for 'pornography' and 'perverted excess' in the paintings. None of the paintings would go on display in the university.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Klimt_hygeia.jpg/200px-Klimt_hygeia.jpg</field>
+<field name="link_external">http://www.pubmedcentral.nih.gov/articlerender.fcgi?artid=139056#B2</field>
+<field name="link_external">http://www.artchive.com/artchive/k/klimt/klimt_medicine.jpg</field>
+<field name="link_external">http://www.iklimt.com</field>
+<field name="link_external">http://www.kilidavid.com/Art/Pages/Artists/klimt.htm</field>
+<field name="artist">http://dbpedia.org/resource/Gustav_Klimt</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="title">Klimt University of Vienna Ceiling Paintings</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Klimt_University_of_Vienna_Ceiling_Paintings</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Klimt_University_of_Vienna_Ceiling_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medicine_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Klimt_University_of_Vienna_Ceiling_Paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Klimt_University_of_Vienna_Ceiling_Paintings</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medicine_(Kilmt_Painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Medicine_(Klimt_Painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1393851</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Klimt_University_of_Vienna_Ceiling_Paintings</field>
+</doc>
+</add>

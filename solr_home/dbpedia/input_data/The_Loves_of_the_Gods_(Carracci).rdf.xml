@@ -1,0 +1,53 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Loves_of_the_Gods_(Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Loves_of_the_Gods_(Carracci)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08frp1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7749083</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Loves_of_the_Gods_(Carracci)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:LGBT_history_in_Italy</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:LGBT_history_prior_to_the_19th_century</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Baroque_paintings</field>
+<field name="abstract">The Loves of the Gods is a monumental fresco cycle, completed by the Bolognese artist Annibale Carracci and his studio, in the Farnese Gallery which is located in the west wing of the Palazzo Farnese, now the French Embassy) in Rome, Italy. The frescoes were greatly admired at the time, and were later considered to reflect a significant change in painting style away from sixteenth century Mannerism to anticipation of the development of Baroque and Classicism in Rome during the seventeenth century.</field>
+<field name="label">The Loves of the Gods (Carracci)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/84/Farnese_Gallery_-_Annibale_Carracci_-_1597_-_Farnese_Gallery,_Rome.jpg</field>
+<field name="comment">The Loves of the Gods is a monumental fresco cycle, completed by the Bolognese artist Annibale Carracci and his studio, in the Farnese Gallery which is located in the west wing of the Palazzo Farnese, now the French Embassy) in Rome, Italy.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Farnese_Gallery_-_Annibale_Carracci_-_1597_-_Farnese_Gallery,_Rome.jpg/200px-Farnese_Gallery_-_Annibale_Carracci_-_1597_-_Farnese_Gallery,_Rome.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/carracci-farnese-ceiling.html</field>
+<field name="link_external">http://trionfi.com/0/t/01/</field>
+<field name="link_external">http://trionfi.com/0/gg/103/t.html</field>
+<field name="link_external">http://www.usc.edu/schools/annenberg/asc/projects/comm544/library/images/119bg.jpg</field>
+<field name="link_external">http://www.usc.edu/schools/annenberg/asc/projects/comm544/library/images/080bg.jpg</field>
+<field name="link_external">http://depts.washington.edu/findrome/images/imagefiles/fresco/bacchus.html</field>
+<field name="link_external">http://depts.washington.edu/findrome/images/imagefiles/fresco/farnese.html</field>
+<field name="link_external">http://www.bluffton.edu/~sullivanm/farnesina/raphaeldet2.jpg</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Loves_of_the_Gods_(Carracci)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Loves_of_the_Gods_(Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Loves_of_the_Gods_(Carracci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Loves_of_the_Gods_(Carracci)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Farnese_Gallery</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Loves_of_the_Gods</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7749083</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Loves_of_the_Gods_(Carracci)</field>
+</doc>
+</add>

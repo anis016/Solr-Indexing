@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Music_(Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_muziek</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Music_(Matisse)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Musica_(Matisse)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Музыка_(картина_Матисса)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/מוזיקה_(מאטיס)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bs4p_h</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_(Matisse)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1999166</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1910_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Hermitage_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Music (La Musique) is a painting made by Henri Matisse in 1910. The painting was commissioned by Sergei Shchukin, who hung it with Dance on the staircase of his Moscow mansion. Matisse made the painting without any preparatory sketches, and thus the painting bears many traces of modifications. One can virtually trace the steps Matisse took to find the intended effect. Like in Dance, the aim was to show man's attainment of a state of completeness by immersion in creativity. The painting is now in the collection of the Hermitage Museum in Saint Petersburg, Russia.</field>
+<field name="label">Music (Matisse)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/33/Matisse_-_Music.jpg</field>
+<field name="comment">Music (La Musique) is a painting made by Henri Matisse in 1910. The painting was commissioned by Sergei Shchukin, who hung it with Dance on the staircase of his Moscow mansion. Matisse made the painting without any preparatory sketches, and thus the painting bears many traces of modifications. One can virtually trace the steps Matisse took to find the intended effect. Like in Dance, the aim was to show man's attainment of a state of completeness by immersion in creativity.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/33/Matisse_-_Music.jpg/200px-Matisse_-_Music.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/Saint_Petersburg</field>
+<field name="height">260</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Hermitage_Museum</field>
+<field name="title">Music</field>
+<field name="width">389</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Music_(Matisse)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Music_(Matisse)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Musica_(Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_(Matisse)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Музыка_(картина_Матисса)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_(Matisse)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Music_(Matisse)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Music_(Matisse)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_muziek</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_(Matisse)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1999166</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_(Matisse)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/מוזיקה_(מאטיס)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Music_(Matisse)</field>
+</doc>
+</add>

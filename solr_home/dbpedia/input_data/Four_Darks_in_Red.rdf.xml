@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Four_Darks_in_Red</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Four_Darks_in_Red</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Four_Darks_in_Red</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5475121</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06w2b8d</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Four_Darks_in_Red</field>
+<field name="sameAs">http://dbpedia.org/resource/Four_Darks_in_Red</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Mark_Rothko</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1950s_paintings</field>
+<field name="abstract">Four Darks in Red shows Mark Rothko's often used axis of black, brown and red, which is in a number of his easel paintings and in the mural projects for the Seagram Building and the Rothko Chapel in Houston, Texas. The red field against which the four dark forms float is first tinged with crimson, then with orange, then with brown. The lozenge shapes complement these shifts. The one closest to the lower edge of the canvas is a slightly blackened crimson. Moving vertically upwards, the next is more violet. The large area of black is first shaded with blue and then with green. And finally, squeezed in at the top of the canvas there is a thin strip of a rather nondescript, umberish brown which seems to be holding all the rest in place. This is characteristic of Rothko's signature "multiform" style of blurred, lozenge shapes, moving horizontally across the surface of the canvas.</field>
+<field name="label">Four Darks in Red</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b9/RothkoFourDarksRed.jpg</field>
+<field name="comment">Four Darks in Red shows Mark Rothko's often used axis of black, brown and red, which is in a number of his easel paintings and in the mural projects for the Seagram Building and the Rothko Chapel in Houston, Texas. The red field against which the four dark forms float is first tinged with crimson, then with orange, then with brown. The lozenge shapes complement these shifts. The one closest to the lower edge of the canvas is a slightly blackened crimson.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/RothkoFourDarksRed.jpg/200px-RothkoFourDarksRed.jpg</field>
+<field name="artist"/>
+<field name="height">259.1</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Four Darks in Red</field>
+<field name="type">Oil on Canvas</field>
+<field name="width">294.6</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Four_Darks_in_Red</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Four_Darks_in_Red</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5475121</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Four_Darks_in_Red</field>
+</doc>
+</add>

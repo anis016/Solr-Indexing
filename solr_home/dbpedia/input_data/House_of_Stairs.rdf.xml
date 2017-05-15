@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/House_of_Stairs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03vn9l</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5915451</field>
+<field name="sameAs">http://yago-knowledge.org/resource/House_of_Stairs</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Maison_aux_escaliers</field>
+<field name="sameAs">http://dbpedia.org/resource/House_of_Stairs</field>
+<field name="sameAs">http://he.dbpedia.org/resource/בית_מדרגות</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1951_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="abstract">House of Stairs is a lithograph print by the Dutch artist M. C. Escher which was first printed in November 1951. This print measures 18⅝" × 9⅜". It depicts the interior of a tall structure crisscrossed with stairs and doorways. A total of 46 "wentelteefje" (imaginary creatures created by Escher) are crawling on the stairs. The wentelteefje has a long, armored body with six legs, humanoid feet, a parrot-like beak and eyes on stalks. Some are seen to roll in through doors, wound in a wheel shape and then unroll to crawl up the stairs, while others crawl down stairs and wind up to roll out. The wentelteefje first appeared earlier the same month in the lithograph Curl-up. Later that month, House of Stairs was extended to a vertical length of 55½" in a print titled House of Stairs II by repeating and mirroring some of the architecture and creatures.</field>
+<field name="label">House of Stairs</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/50/House_Of_Stairs_(Escher).jpg</field>
+<field name="comment">House of Stairs is a lithograph print by the Dutch artist M. C. Escher which was first printed in November 1951. This print measures 18⅝" × 9⅜". It depicts the interior of a tall structure crisscrossed with stairs and doorways. A total of 46 "wentelteefje" (imaginary creatures created by Escher) are crawling on the stairs. The wentelteefje has a long, armored body with six legs, humanoid feet, a parrot-like beak and eyes on stalks.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/50/House_Of_Stairs_(Escher).jpg/200px-House_Of_Stairs_(Escher).jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">House of Stairs</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/House_of_Stairs</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/House_of_Stairs</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/House_of_Stairs_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/House_of_Stairs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/House_of_Stairs</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/House_Of_Stairs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/House_of_stairs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Maison_aux_escaliers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/House_of_Stairs</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5915451</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/House_of_Stairs</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/בית_מדרגות</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/House_of_Stairs</field>
+</doc>
+</add>

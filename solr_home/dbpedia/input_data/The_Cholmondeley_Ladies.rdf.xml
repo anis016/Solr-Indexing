@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Cholmondeley_Ladies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Cholmondeley_Ladies</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Cholmondeley_Ladies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cholmondeley_Ladies</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Cholmondeley_Ladies</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gfh520</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7722643</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="abstract">The Cholmondeley Ladies is an early 17th century British oil painting depicting two women seated upright and side by side in bed, each holding a baby. Measuring 886 by 1723mm, it was painted on a wooden panel, probably in the first decade of the 17th century. According to an inscription in gold lettering to the bottom left of the painting, it shows "Two Ladies of the Cholmondeley Family, Who were born the same day, Married the same day, And brought to Bed the same day. " At first sight, the two women and their two babies appear almost identical, each mother wearing white clothes decorated with elaborate lace and jewellery, and each baby swaddled in a scarlet christening robe. On closer inspection, the details of the clothing of each pair and their eye colours differ. The women may be sisters, and they are often thought to be twins due to their close physical resemblance, but the different eye colours - one blue, one brown - mean that are not identical. The artist is unknown, but the work is thought to have been painted near the Cholmondeley family's estates in Cheshire. The pose is not known to have been used in any other British painting, but was frequently seen in contemporary tomb sculpture. The painting was in the collection of Thomas Cholmondeley, the third son of Sir Hugh Cholmondeley and his wife Lady Mary Cholmondeley (née Holford), who was an ancestor of Baron Delamere. John T. Hopkins (1991) suggests that the portrait shows two daughters of Sir Hugh and Lady Mary Cholmondeley - Lettice, first wife of Sir Richard Grosvenor, 1st Baronet (and mother of Sir Richard Grosvenor, 2nd Baronet), and Mary Calveley (died 1616), wife of George Calveley. It was presented to the Tate Gallery by an anonymous donor in 1955.</field>
+<field name="label">The Cholmondeley Ladies</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/79/British_School_17th_century_-_The_Cholmondeley_Ladies_-_Google_Art_Project.jpg</field>
+<field name="comment">The Cholmondeley Ladies is an early 17th century British oil painting depicting two women seated upright and side by side in bed, each holding a baby. Measuring 886 by 1723mm, it was painted on a wooden panel, probably in the first decade of the 17th century. According to an inscription in gold lettering to the bottom left of the painting, it shows "Two Ladies of the Cholmondeley Family, Who were born the same day, Married the same day, And brought to Bed the same day.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/British_School_17th_century_-_The_Cholmondeley_Ladies_-_Google_Art_Project.jpg/200px-British_School_17th_century_-_The_Cholmondeley_Ladies_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.googleartproject.com/museums/tate/the-cholmondeley-ladies-180</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?cgroupid=-1&amp;workid=1500&amp;searchid=false&amp;roomid=false&amp;tabview=text&amp;texttype=10</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=1500&amp;tabview=work</field>
+<field name="link_external">http://www.tate.org.uk/tateetc/issue1/article7.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Cholmondeley_Ladies</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Cholmondeley_Ladies</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7722643</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Cholmondeley_Ladies</field>
+</doc>
+</add>

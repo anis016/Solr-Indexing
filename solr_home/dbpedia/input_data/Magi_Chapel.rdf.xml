@@ -1,0 +1,98 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Капелла_волхвов</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Magi_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Magi_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Chapelle_des_Mages</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Капелла_волхвов</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Magi_Chapel</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cappella_dei_Magi</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Sacellum_Magorum</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rshds</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q737232</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cappella_dei_Magi</field>
+<field name="sameAs">http://dbpedia.org/resource/Magi_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Adoration_of_the_Magi_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Chapels_in_Florence</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Benozzo_Gozzoli</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="abstract">The Magi Chapel is a chapel in Palazzo Medici Riccardi of Florence, Italy. It includes a famous cycle of frescoes by the Renaissance master Benozzo Gozzoli, painted in 1459-1461. The chapel is on the piano nobile of the palace, and was one of the first decorations executed after the completion of the edifice by Michelozzo. Gozzoli painted his cycle over three of the walls, the subject being the Journey of the Magi to Bethlehem, but the religious theme was a pretext to depict the procession of important people who arrived in Florence in occasion of the Council of Florence (1438-1439). In this occasion the Medici could boast to have favoured the reconciliation between the Catholic and the Byzantine churches. The luxury of the Byzantine dignitaries is manifest, and shows the impression they would have at the time on the Florentine population. Gozzoli portrayed a rich Tuscan landscape, probably influenced by Early Netherlandish artists - perhaps via tapestries, which Piero the Gouty, who commissioned the frescoes, collected. Members of the Medici family and their entourage are shown riding in the foreground of the fresco on the east wall. Caspar, the youngest Magus, leads the procession on a white horse - this figure has often been mistaken for Lorenzo il Magnifico, who was a little boy when the fresco was completed. Closely following him are the contemporary head of the family, Piero the Gouty, on a white horse and devout family founder Cosimo on a humble donkey. Then come Sigismondo Pandolfo Malatesta and Galeazzo Maria Sforza, respectively lord of Rimini and Milan: they did not take part in the Council, but were guests of the Medici in Florence in the time the frescoes were painted. After them is a procession of illustrious Florentines, such as the humanists Marsilio Ficino and the Pulci brothers, the members of the Art Guilds and Benozzo himself. The painter looks out at the viewer and can be recognized for the scroll on his red hat, reading Opus Benotii. Little Lorenzo il Magnifico is the boy directly below him with the distinctive snub nose; Lorenzo's elder brother Giuliano is next to him. Bearded Balthasar, the middle Magus, rides a white horse on the south wall. He is portrayed with the same facial features as Byzantine emperor John VIII Palaiologos. (It was once thought that the three pages behind him represented Piero's daughters, but the faces of those young women are more likely to be amongst the rest of the Medici portraits. ) Melchior, the oldest Magi, rides on the west wall. Traditionally, his features have been read as those of Joseph, Patriarch of Constantinople, who died in Florence during the Council; but they could also be those of Sigismund, Holy Roman Emperor, who helped end the Great Schism by convoking the Council of Constance in 1414. Like Cosimo, he is shown as a peacemaker riding on a donkey. He is preceded by a page in blue with a leopard on his horse - although he leads the entire procession, no real world identity for this figure has ever been ascertained. In the apse, Gozzoli frescoed two choirs of angels, following the style of his master, Fra Angelico. The altarpiece is a copy of Filippo Lippi's Adoration of the Christ Child, now in Berlin, which was painted for this position. The lively colors and details of the frescoes are backed by the precious mosaics of the pavement, the gilted ceiling and the wooden stalls designed by Giuliano da Sangallo. Gozzoli's patron, Piero de' Medici, felt some of the seraphim were unsuitable, and wanted them painted over. Although the artist agreed to do this, it was never actually done. In the 17th century, parts of the frescoes were destroyed to create access for a new staircase, where the entrance now is.</field>
+<field name="label">Magi Chapel</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/be/Gozzoli_magi.jpg</field>
+<field name="comment">The Magi Chapel is a chapel in Palazzo Medici Riccardi of Florence, Italy. It includes a famous cycle of frescoes by the Renaissance master Benozzo Gozzoli, painted in 1459-1461. The chapel is on the piano nobile of the palace, and was one of the first decorations executed after the completion of the edifice by Michelozzo.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Gozzoli_magi.jpg/200px-Gozzoli_magi.jpg</field>
+<field name="link_external">http://www.palazzo-medici.it/ita/museo.htm</field>
+<field name="link_external">http://www.museumsinflorence.com/musei/chapel_of_the_magi.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Magi_Chapel</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Magi_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Chapelle_des_Mages</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Magi_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cappella_dei_Magi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Magi_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Magi_Chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Magi_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cappella_dei_Magi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chapel_of_the_Magi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Journey_of_the_Magi_(Gozzoli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Journey_of_the_Magi_to_Bethlehem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Magi_chapel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cappella_dei_Magi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Magi_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q737232</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Magi_Chapel</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Sacellum_Magorum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Magi_Chapel</field>
+</doc>
+</add>

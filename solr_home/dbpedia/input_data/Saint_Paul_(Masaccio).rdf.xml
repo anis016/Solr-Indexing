@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Paul_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_Paul_(Masaccio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2884282</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Paul_(Masaccio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08kxkv</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Pablo_(Masaccio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Paolo_(Masaccio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Masaccio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paul_the_Apostle_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Pisa</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1426_paintings</field>
+<field name="abstract">St. Paul is a painting by the Italian Renaissance painter Masaccio. It depicts Paul of Tarsus. A chapel in Santa Maria del Carmine in Pisa commissioned an altarpiece from Masaccio on February 19, 1426 for the sum of 80 florins. Payment for the work was recorded on December 26 of that year. The altarpiece was dismantled and dispersed in the 18th century, but an attempted reconstruction was made possible due to a detailed description of the work by Vasari in 1568. Eleven pieces have been found as of 2010, and they are insufficient to reliably reconstruct the whole work. The Crucifixion is one of the surviving panels connected with the Pisa Altarpiece (also known as the Pisa Polyptych). This piece is the only portion of the commissioned work which remains in Pisa.</field>
+<field name="label">Saint Paul (Masaccio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3a/Masaccio,_san_paolo,_pisa.jpg</field>
+<field name="comment">St. Paul is a painting by the Italian Renaissance painter Masaccio. It depicts Paul of Tarsus. A chapel in Santa Maria del Carmine in Pisa commissioned an altarpiece from Masaccio on February 19, 1426 for the sum of 80 florins. Payment for the work was recorded on December 26 of that year. The altarpiece was dismantled and dispersed in the 18th century, but an attempted reconstruction was made possible due to a detailed description of the work by Vasari in 1568.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Masaccio,_san_paolo,_pisa.jpg/200px-Masaccio,_san_paolo,_pisa.jpg</field>
+<field name="artist"/>
+<field name="height">51</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">St. Paul</field>
+<field name="type">Tempera on wood</field>
+<field name="width">30</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_Paul_(Masaccio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_Paul_(Masaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Pablo_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Paul_(Masaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Paolo_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Paul_(Masaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_Paul_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_Paul_(Masaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Paul_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2884282</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Paul_(Masaccio)</field>
+</doc>
+</add>

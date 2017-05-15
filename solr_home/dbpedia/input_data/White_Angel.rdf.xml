@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/White_Angel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Fresque_de_l'Ange_blanc</field>
+<field name="sameAs">http://sh.dbpedia.org/resource/Beli_anđeo</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Белый_ангел</field>
+<field name="sameAs">http://dbpedia.org/resource/White_Angel</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Vita_ängeln</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rff7k</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Белият_ангел</field>
+<field name="sameAs">http://sr.dbpedia.org/resource/Бели_анђео</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2997881</field>
+<field name="sameAs">http://yago-knowledge.org/resource/White_Angel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="abstract">White Angel (Serbian: Бели анђео / Beli anđeo) is a detail of one of the most well-known frescoes in Serbian culture in the Mileševa monastery, Mironosnice na Hristovom grobu (Myrrhbearers on Christ's Grave), dated c. 1235 in Serbia during the reign of King Stephen Vladislav I of Serbia. Considered one of the most beautiful works of Serbian and European art from the High Middle Ages, this fresco is considered to be one of the great achievements in European painting. It depicts the arrival of the myrrhbearers at the tomb of Christ on Sunday morning, after the events of the Crucifixion. Sitting on the stone is the Angel Gabriel, all dressed in white chiton, whose myrrh-bearing arm shows the place of Christ's resurrection, and his empty tomb. A picture of the White Angel of Mileševa was sent as a message in the first satellite broadcast signal from Europe to America after the Cuban Missile Crisis, as a symbol of peace and civilization. Later, the same signal, containing the White Angel, was transmitted to space in an attempt to communicate with extraterrestrial life forms.</field>
+<field name="label">White Angel</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/88/Beli_andjeo2.jpg</field>
+<field name="comment">White Angel (Serbian: Бели анђео / Beli anđeo) is a detail of one of the most well-known frescoes in Serbian culture in the Mileševa monastery, Mironosnice na Hristovom grobu (Myrrhbearers on Christ's Grave), dated c. 1235 in Serbia during the reign of King Stephen Vladislav I of Serbia. Considered one of the most beautiful works of Serbian and European art from the High Middle Ages, this fresco is considered to be one of the great achievements in European painting.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/Beli_andjeo2.jpg/200px-Beli_andjeo2.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/White_Angel</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/White_Angel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beli_an%C4%91eo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Fresque_de_l'Ange_blanc</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_Angel</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/White_Angel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/White_Angel</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beli_andeo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beli_andjeo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Белый_ангел</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_Angel</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2997881</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_Angel</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Белият_ангел</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_Angel</field>
+</doc>
+<doc>
+<field name="uri">http://sh.dbpedia.org/resource/Beli_anđeo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_Angel</field>
+</doc>
+<doc>
+<field name="uri">http://sr.dbpedia.org/resource/Бели_анђео</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_Angel</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Vita_ängeln</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/White_Angel</field>
+</doc>
+</add>

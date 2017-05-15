@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Claude_Monet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Poplar_Series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Poplar_Series_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Négy_fa_(Monet_festményei)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Populieren_(Monet)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Poplar_Series_(Monet)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Peupliers</field>
+<field name="sameAs">http://dbpedia.org/resource/Poplar_Series_(Monet)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q733458</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02wxtr3</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1891_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Philadelphia_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="abstract">The Poplar Series paintings were made by Claude Monet in the summer and fall of 1891. The magnificent trees were in a marsh along the banks of the Epte River a few kilometers upstream from Monet's home and studio. To reach his floating painting studio that was moored in place he went by small boat up the nearby waterway to where it joined the mainstream. The trees were along the riverside in single file, following along an S-curve. There were three groups of paintings — in one group the paintings have towering Poplars that go off the top edge of the canvas, in another group there are seven trees, and in another group three or four Poplars on the banks of the Epte River near Giverny. The trees which actually belonged to the commune of Limetz were put up for auction before Monet had completed all of his paintings. At a certain point Monet was forced into buying the trees because he still wasn't finished with his paintings. After he finished the series he sold the trees back to the lumber merchant who wanted them.</field>
+<field name="label">Poplar Series (Monet)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/The_four_trees--Claude_Monet--1891--oil_on_canvas--82_x_81.5_cm--the_Metropolitan_Museum_of_Art--four_poplars_on_the_banks_of_the_Epte_River_near_Giverny.jpg</field>
+<field name="comment">The Poplar Series paintings were made by Claude Monet in the summer and fall of 1891. The magnificent trees were in a marsh along the banks of the Epte River a few kilometers upstream from Monet's home and studio. To reach his floating painting studio that was moored in place he went by small boat up the nearby waterway to where it joined the mainstream. The trees were along the riverside in single file, following along an S-curve.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/The_four_trees--Claude_Monet--1891--oil_on_canvas--82_x_81.5_cm--the_Metropolitan_Museum_of_Art--four_poplars_on_the_banks_of_the_Epte_River_near_Giverny.jpg/200px-The_four_trees--Claude_Monet--1891--oil_on_canvas--82_x_81.5_cm--the_Metropolitan_Museum_of_Art--four_poplars_on_the_banks_of_the_Epte_River_near_Giverny.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/85352</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Poplar_Series_(Monet)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Poplar_Series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Poplars_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Peupliers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Poplar_Series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Poplar_Series_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Poplar_Series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Populieren_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Poplar_Series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q733458</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Poplar_Series_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Négy_fa_(Monet_festményei)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Poplar_Series_(Monet)</field>
+</doc>
+</add>

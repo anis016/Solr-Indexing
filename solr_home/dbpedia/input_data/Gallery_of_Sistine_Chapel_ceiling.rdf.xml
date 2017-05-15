@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Gallery_of_Sistine_Chapel_ceiling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Gallery_of_Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gallery_of_Sistine_Chapel_ceiling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Sistine_Chapel_ceiling</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Gallery_of_Sistine_Chapel_ceiling</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Sistine_Şapeli_tavanı_galeri</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3078814</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ceilings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Michelangelo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="abstract">The Sistine Chapel ceiling, painted by Michelangelo between 1508 and 1512, is one of the most renowned artworks of the High Renaissance. The ceiling is that of the large Sistine Chapel built within the Vatican by Pope Sixtus IV, begun in 1477 and finished by 1480. The paintings on the ceiling represent Biblical stories about the Creation, Downfall and Salvation of Humankind. This gallery illustrates the main article at Sistine Chapel ceiling.</field>
+<field name="label">Gallery of Sistine Chapel ceiling</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4a/Sistine_Chapel_ceiling_diagramA1.PNG</field>
+<field name="comment">The Sistine Chapel ceiling, painted by Michelangelo between 1508 and 1512, is one of the most renowned artworks of the High Renaissance. The ceiling is that of the large Sistine Chapel built within the Vatican by Pope Sixtus IV, begun in 1477 and finished by 1480. The paintings on the ceiling represent Biblical stories about the Creation, Downfall and Salvation of Humankind. This gallery illustrates the main article at Sistine Chapel ceiling.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Sistine_Chapel_ceiling_diagramA1.PNG/200px-Sistine_Chapel_ceiling_diagramA1.PNG</field>
+<field name="link_external">http://mv.vatican.va/3_EN/pages/CSN/CSN_Volta.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Gallery_of_Sistine_Chapel_ceiling</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Gallery_of_Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gallery_of_sistine_chapel_ceiling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3078814</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Sistine_Chapel_ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Sistine_Şapeli_tavanı_galeri</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Gallery_of_Sistine_Chapel_ceiling</field>
+</doc>
+</add>

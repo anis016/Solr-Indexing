@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Knitting_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/编织女孩_(1869)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Knitting_Girl</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vvgp</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Knitting_Girl</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Hörgüçü_qız_(Buqro)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7744868</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William-Adolphe_Bouguereau</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1869_paintings</field>
+<field name="abstract">The Knitting Girl is a painting created by nineteenth century French artist William-Adolphe Bouguereau in 1869. The painting is also referred to as Knitting Anne due to the simplistic nature of the female portrayed herein. The painting is currently held in the Joslyn Art Museum in Omaha, Nebraska in the United States.</field>
+<field name="label">The Knitting Girl</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/13/The_Knitting_Woman_painting_by_William-Adolphe_Bouguereau.jpg</field>
+<field name="comment">The Knitting Girl is a painting created by nineteenth century French artist William-Adolphe Bouguereau in 1869. The painting is also referred to as Knitting Anne due to the simplistic nature of the female portrayed herein. The painting is currently held in the Joslyn Art Museum in Omaha, Nebraska in the United States.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/13/The_Knitting_Woman_painting_by_William-Adolphe_Bouguereau.jpg/200px-The_Knitting_Woman_painting_by_William-Adolphe_Bouguereau.jpg</field>
+<field name="link_external">http://www.joslyn.org/collections-and-exhibitions/permanent-collections/european/william-adolphe-bouguereau-the-knitting-girl-/</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/bouguereau/</field>
+<field name="artist">http://dbpedia.org/resource/William-Adolphe_Bouguereau</field>
+<field name="city">http://dbpedia.org/resource/Omaha,_Nebraska</field>
+<field name="image"/>
+<field name="imageSize">220</field>
+<field name="museum">http://dbpedia.org/resource/Joslyn_Art_Museum</field>
+<field name="title">The Knitting Girl</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Knitting_Girl</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Knitting_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Knitting_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Knitting_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7744868</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Knitting_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/编织女孩_(1869)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Knitting_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Hörgüçü_qız_(Buqro)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Knitting_Girl</field>
+</doc>
+</add>

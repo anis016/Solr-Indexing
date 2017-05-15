@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Two_Tahitian_Women</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7859277</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_Tahitian_Women</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Two_Tahitian_Women</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gl0dvw</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/دو_زن_از_تاهیتی</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Tahitian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1899_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_Gauguin</field>
+<field name="abstract">Two Tahitian Women is an 1899 painting by Paul Gauguin. It depicts two topless women, one holding mango blossoms, on the Pacific Island of Tahiti. The painting is part of the permanent collection of the Metropolitan Museum of Art in New York City and was donated to the museum by William Church Osborn in 1949. Although Tahiti is depicted as an innocent paradise, the two women in the painting confront the viewer in a way similar to that in Manet's Le déjeuner sur l'herbe (1863) or Olympia (1863), and follow an artistic tradition of comparing woman's breasts to flowers or fruit. The women in the painting also appear in two other works by Gauguin, Faa Iheihe (Tahitian Pastoral) (1898) and Rupe, Rupe (1899). The painting was attacked April 1, 2011, while on loan to the National Gallery of Art in Washington D.C. A woman named Susan Burns banged on the painting's plastic cover. Due to the protection of the plexiglass, the painting was not harmed. The woman was “immediately restrained and detained” by the museum’s security guards who charged her with destruction of property and attempted theft.</field>
+<field name="label">Two Tahitian Women</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/39/Paul_Gauguin_-_Deux_Tahitiennes.jpg</field>
+<field name="comment">Two Tahitian Women is an 1899 painting by Paul Gauguin. It depicts two topless women, one holding mango blossoms, on the Pacific Island of Tahiti. The painting is part of the permanent collection of the Metropolitan Museum of Art in New York City and was donated to the museum by William Church Osborn in 1949.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/39/Paul_Gauguin_-_Deux_Tahitiennes.jpg/200px-Paul_Gauguin_-_Deux_Tahitiennes.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">Two Tahitian Women</field>
+<field name="type">oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Two_Tahitian_Women</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Two_Tahitian_Women</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Two_Tahitian_Women</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Two_Tahitian_Women</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7859277</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_Tahitian_Women</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/دو_زن_از_تاهیتی</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Two_Tahitian_Women</field>
+</doc>
+</add>

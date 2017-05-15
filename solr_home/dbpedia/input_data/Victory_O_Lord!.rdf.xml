@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Victory_O_Lord!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ชัยชนะของโมเสส_(มิเล)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Victory_O_Lord!</field>
+<field name="sameAs">http://dbpedia.org/resource/Victory_O_Lord!</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qvyln</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4146226</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1871_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="abstract">Victory O Lord! (1871) is a painting by John Everett Millais depicting Moses, Aaron and Hur during the Battle of Rephidim against the Amalekites. Along with his landscape Chill October it represented a major turning point in Millais's career. The painting illustrates a passage in the Book of Exodus, chapter 17, which describes how Moses and his two companions watched the battle from the hill. Moses holds the Rod of God in his right hand. And Moses said unto Joshua, Choose us out men, and go out, fight with Amalek: tomorrow I will stand on the top of the hill with the rod of God in mine hand. So Joshua did as Moses had said to him, and fought with Amalek: and Moses, Aaron, and Hur went up to the top of the hill. And it came to pass, when Moses held up his hand, that Israel prevailed: and when he let down his hand, Amalek prevailed. But Moses hands were heavy; and they took a stone, and put it under him, and he sat thereon; and Aaron and Hur stayed up his hands, the one on the one side, and the other on the other side; and his hands were steady until the going down of the sun. And Joshua discomfited Amalek and his people with the edge of the sword. Millais depicts the "going down of the sun", when the three patriarchs watch the final moments of the battle. Moses is in the middle while Aaron and Hur hold up his arms to ensure victory. Aaron, in red, is on the right. The battle below is indicated by the arrow at the bottom right. Millais worked on the painting over many years, scraping and repainting the surface. F.G. Stephens commented that the painting depicted the conflict between the unyielding and steadfast willpower of Moses, and the physical and emotional exhaustion of his companions. He also praised the vivid painting of the aged flesh of the figures. The painting contrasts dramatically in style with the contemporary religious works of Millais's former companion, William Holman Hunt, such as The Shadow of Death, on which Hunt was working at the same time; however, it has been suggested that both pictures may refer to typological prefigurations of the crucifixion in scenes in which raised, outstretched arms signify both physical suffering and triumph.</field>
+<field name="label">Victory O Lord!</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9b/VictoryOLord.JPG</field>
+<field name="comment">Victory O Lord! (1871) is a painting by John Everett Millais depicting Moses, Aaron and Hur during the Battle of Rephidim against the Amalekites. Along with his landscape Chill October it represented a major turning point in Millais's career. The painting illustrates a passage in the Book of Exodus, chapter 17, which describes how Moses and his two companions watched the battle from the hill. Moses holds the Rod of God in his right hand.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/VictoryOLord.JPG/200px-VictoryOLord.JPG</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="city">http://dbpedia.org/resource/Manchester</field>
+<field name="height">194.7</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Manchester_Art_Gallery</field>
+<field name="title">Victory O Lord!</field>
+<field name="width">141.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Victory_O_Lord!</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Victory_O_Lord!</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Victory_O_Lord!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Victory_O_Lord!</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4146226</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Victory_O_Lord!</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ชัยชนะของโมเสส_(มิเล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Victory_O_Lord!</field>
+</doc>
+</add>

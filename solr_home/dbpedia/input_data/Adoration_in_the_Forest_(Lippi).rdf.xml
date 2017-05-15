@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_in_the_Forest_(Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q291189</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_del_Bambino_di_palazzo_Medici</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Adoracja_ze_św._Janem_i_św._Bernardem</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_in_the_Forest_(Lippi)</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_in_the_Forest_(Lippi)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g5t01l</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nativity_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippo_Lippi</field>
+<field name="abstract">Adoration in the Forest is a painting completed before 1459 by the Carmelite friar, Filippo Lippi, of the Virgin Mary and the newly born Christ Child lying on the ground, in the unusual setting of a steep, dark, wooded wilderness. There are no shepherds, kings, ox, ass – there is no Joseph. "Lippi removes a whole range of narrative details which would have been present in a standard Nativity - he creates a whole set of mysteries, and then preserves them. " It was painted for one of the wealthiest men in Renaissance Florence, the banker Cosimo de Medici. In later times it had a turbulent history. Hitler ordered it to be hidden in WW2 and it became part of the story of a mutiny in the U.S. Army - 'the only known case in the whole Second World War of American officers refusing an order. ' It is now once again in the Gemäldegalerie, Berlin.</field>
+<field name="label">Adoration in the Forest (Lippi)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0e/Fra_Filippo_Lippi_002.jpg</field>
+<field name="comment">Adoration in the Forest is a painting completed before 1459 by the Carmelite friar, Filippo Lippi, of the Virgin Mary and the newly born Christ Child lying on the ground, in the unusual setting of a steep, dark, wooded wilderness. There are no shepherds, kings, ox, ass – there is no Joseph. "Lippi removes a whole range of narrative details which would have been present in a standard Nativity - he creates a whole set of mysteries, and then preserves them.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/Fra_Filippo_Lippi_002.jpg/200px-Fra_Filippo_Lippi_002.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_in_the_Forest_(Lippi)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_in_the_Forest_(Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_del_Bambino_di_palazzo_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_in_the_Forest_(Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Adoracja_ze_św._Janem_i_św._Bernardem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_in_the_Forest_(Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_in_the_Forest_(Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_in_the_Forest_(Lippi)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q291189</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_in_the_Forest_(Lippi)</field>
+</doc>
+</add>

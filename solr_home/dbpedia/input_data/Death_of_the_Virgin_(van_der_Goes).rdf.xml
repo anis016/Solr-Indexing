@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_the_Virgin_(van_der_Goes)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Death_of_the_Virgin_(van_der_Goes)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Muerte_de_la_Virgen_(van_der_Goes)</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(van_der_Goes)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h68_tm</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Śmierć_Marii_(obraz_Hugona_van_der_Goesa)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q655657</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Morte_della_Vergine_(van_der_Goes)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hugo_van_der_Goes</field>
+<field name="abstract">The Death of the Virgin is an oil on oak panel by the Flemish painter Hugo van der Goes. Completed c 1472–80, it shows the Virgin Mary on her deathbed surrounded by the Twelve Apostles. The scene is borrowed from Jacobus de Voragine's thirteenth-century "Legenda aurea" which relates how the apostles were brought, at Mary's request, on clouds by angels to a house near Mount Zion to be with her in her final three days. On the third day Jesus appeared above her bed in a halo of light surrounded by angels to accept her soul at the point when his name was finally mentioned. Three days later he reappeared to accept her body.</field>
+<field name="label">Death of the Virgin (van der Goes)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4c/Hugo_van_der_Goes_Death_of_the_Virgin.jpg</field>
+<field name="comment">The Death of the Virgin is an oil on oak panel by the Flemish painter Hugo van der Goes. Completed c 1472–80, it shows the Virgin Mary on her deathbed surrounded by the Twelve Apostles. The scene is borrowed from Jacobus de Voragine's thirteenth-century "Legenda aurea" which relates how the apostles were brought, at Mary's request, on clouds by angels to a house near Mount Zion to be with her in her final three days.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Hugo_van_der_Goes_Death_of_the_Virgin.jpg/200px-Hugo_van_der_Goes_Death_of_the_Virgin.jpg</field>
+<field name="link_external">http://commons.wikimedia.org/wiki/File:Petrus_Christus_Death_of_the_Virgin.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Death_of_the_Virgin_(van_der_Goes)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Death_of_the_Virgin_(van_der_Goes)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Death_of_the_Virgin_(van_der_Goes)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Death_of_the_Virgin_(van_der_Goes)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_the_Virgin_(van_der_Goes)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Muerte_de_la_Virgen_(van_der_Goes)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(van_der_Goes)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Morte_della_Vergine_(van_der_Goes)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(van_der_Goes)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Śmierć_Marii_(obraz_Hugona_van_der_Goesa)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(van_der_Goes)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_the_Virgin_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q655657</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(van_der_Goes)</field>
+</doc>
+</add>

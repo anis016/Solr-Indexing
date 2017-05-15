@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tribuna_of_the_Uffizi_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tribuna_of_the_Uffizi_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Tribuna_of_the_Uffizi_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02r40bc</field>
+<field name="sameAs">http://hi.dbpedia.org/resource/ट्रिब्युना_ऑफ़_द_युफ़िज्जी</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7840471</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Tribune_des_Offices</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Royal_Collection_of_the_United_Kingdom</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johann_Zoffany</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1770s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Uffizi</field>
+<field name="abstract">The Tribuna of the Uffizi (1772–1778) by Johann Zoffany is a painting of the north-east section of the Tribuna room in the Uffizi in Florence, Italy.</field>
+<field name="label">Tribuna of the Uffizi (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/da/The_Tribuna_of_the_Uffizi_(1772-78);_Zoffany,_Johann.jpg</field>
+<field name="comment">The Tribuna of the Uffizi (1772–1778) by Johann Zoffany is a painting of the north-east section of the Tribuna room in the Uffizi in Florence, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/The_Tribuna_of_the_Uffizi_(1772-78);_Zoffany,_Johann.jpg/200px-The_Tribuna_of_the_Uffizi_(1772-78);_Zoffany,_Johann.jpg</field>
+<field name="link_external">http://employees.oneonta.edu/farberas/arth/Images/ARTH200/Zoffany_tribuna_diag.jpg</field>
+<field name="link_external">http://www.royalcollection.org.uk/eGallery/object.asp?object=406983&amp;row=0&amp;detail=about</field>
+<field name="link_external">http://hss.ulb.uni-bonn.de/2006/0865/0865-text.pdf</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Windsor_Castle</field>
+<field name="height">123.5</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Royal_Collection</field>
+<field name="title">The Tribuna of the Uffizi</field>
+<field name="type">Oil painting</field>
+<field name="width">155</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Tribuna_of_the_Uffizi_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tribuna_of_the_Uffizi_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Tribuna_of_the_Uffizi_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Tribuna_of_the_Uffizi_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Tribuna_of_the_Uffizi_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Tribune_des_Offices</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tribuna_of_the_Uffizi_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7840471</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tribuna_of_the_Uffizi_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://hi.dbpedia.org/resource/ट्रिब्युना_ऑफ़_द_युफ़िज्जी</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tribuna_of_the_Uffizi_(painting)</field>
+</doc>
+</add>

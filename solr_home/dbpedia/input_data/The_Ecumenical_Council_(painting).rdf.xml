@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Ecumenical_Council_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ecumenical_Council_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4127333</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Вселенский_собор_(картина)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cmcg8p</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Ecumenical_Council_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1960_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Ecumenical Council is a surrealist painting by Spanish artist Salvador Dalí completed in 1960. It is one of his masterpieces, taking two years to complete and very large at 299.7 by 254 centimetres ( in ×  in). The painting is a complex assemblage of art historical references and religious scenes emphasizing Catholic symbolism. Dalí was inspired to paint The Ecumenical Council upon the 1958 election of Pope John XXIII, as the pope had extended communication to Geoffrey Fisher, the Archbishop of Canterbury; the first such invitation in more than four centuries. The painting expresses Dalí's renewed hope in religious leadership following the devastation of World War II. Today, it is housed in the Salvador Dalí Museum in St. Petersburg, Florida.</field>
+<field name="label">The Ecumenical Council (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/15/The_Ecumenical_Council_by_Salvador_Dali.jpg</field>
+<field name="comment">The Ecumenical Council is a surrealist painting by Spanish artist Salvador Dalí completed in 1960. It is one of his masterpieces, taking two years to complete and very large at 299.7 by 254 centimetres ( in ×  in). The painting is a complex assemblage of art historical references and religious scenes emphasizing Catholic symbolism.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/15/The_Ecumenical_Council_by_Salvador_Dali.jpg/200px-The_Ecumenical_Council_by_Salvador_Dali.jpg</field>
+<field name="link_external">http://salvadordalimuseum.org/</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="height">299.7</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Salvador_Dali_Museum</field>
+<field name="title">The Ecumenical Council</field>
+<field name="width">254</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Ecumenical_Council_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Ecumenical_Council_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Ecumenical_Council_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Ecumenical_Council_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Вселенский_собор_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ecumenical_Council_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4127333</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ecumenical_Council_(painting)</field>
+</doc>
+</add>

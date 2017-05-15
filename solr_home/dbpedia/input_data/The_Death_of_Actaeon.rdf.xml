@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_Actaeon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_Actaeon_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_Actaeon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Actaeon</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Death_of_Actaeon</field>
+<field name="sameAs">http://he.dbpedia.org/resource/מותו_של_אקטאון</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2898121</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Смерть_Актеона_(картина_Тициана)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04yf5z2</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1550s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="abstract">The Death of Actaeon is a late work by Italian Renaissance master Titian, painted in 1559 to 1575 as an oil on canvas and now housed in the National Gallery of London, United Kingdom. It is probably one of the two paintings the artist states he has started and hopes to finish (one of which he calls "Actaeon mauled by hounds") in a letter to their commissioner Philip II of Spain during June 1559. However, most of Titian's work on this painting possibly dates to the mid-1560s. The public campaign in 1971 to buy it for the United Kingdom was one of the great successes of Martin Davies's directorship of the National Gallery and it was eventually purchased in 1972 with a special grant and Art Fund and Pilgrim Trust contributions, as well as via funds raised by a public appeal. As catalogue number NG6420, it now usually hangs in the Central Hall.</field>
+<field name="label">The Death of Actaeon</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4d/Actaeon.jpg</field>
+<field name="comment">The Death of Actaeon is a late work by Italian Renaissance master Titian, painted in 1559 to 1575 as an oil on canvas and now housed in the National Gallery of London, United Kingdom. It is probably one of the two paintings the artist states he has started and hopes to finish (one of which he calls "Actaeon mauled by hounds") in a letter to their commissioner Philip II of Spain during June 1559. However, most of Titian's work on this painting possibly dates to the mid-1560s.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Actaeon.jpg/200px-Actaeon.jpg</field>
+<field name="link_external">http://sites.google.com/site/beautyandterror/Home/the-terror-of-beauty</field>
+<field name="link_external">http://www.nationalgallery.org.uk/campaign-titians/exhibition.htm</field>
+<field name="link_external">http://www.nationalgallery.org.uk/cgi-bin/WebObjects.dll/CollectionPublisher.woa/wa/work?workNumber=ng6420</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">The Death of Actaeon</field>
+<field name="year">c.1559-1575</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Death_of_Actaeon</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Death_of_Actaeon</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Смерть_Актеона_(картина_Тициана)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Actaeon</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Death_of_Actaeon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Death_of_Actaeon</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Actaeon_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2898121</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Actaeon</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/מותו_של_אקטאון</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Actaeon</field>
+</doc>
+</add>

@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Crucifixion_(Mantegna)</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Mantegna)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hzrrmn</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5189809</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crucifixion_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Crucifixion is a panel in the central part of the predella (see image below) of a large altar piece painted by Andrea Mantegna between 1457 and 1459 for the high altar of San Zeno, Verona. It was commissioned by Gregorio Correr, the abbot of that monastery.</field>
+<field name="label">Crucifixion (Mantegna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d9/Andrea_Mantegna_029.jpg</field>
+<field name="comment">The Crucifixion is a panel in the central part of the predella (see image below) of a large altar piece painted by Andrea Mantegna between 1457 and 1459 for the high altar of San Zeno, Verona. It was commissioned by Gregorio Correr, the abbot of that monastery.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Andrea_Mantegna_029.jpg/200px-Andrea_Mantegna_029.jpg</field>
+<field name="link_external">http://allart.biz/photos/image/andrea_mantegna_19_Crucifixion.html</field>
+<field name="link_external">http://www.artbible.info/art/large/26.html</field>
+<field name="link_external">http://www.andreamantegna.org/painting-mantegna-Crucifixion,from%20%20the%20San%20Zeno%20Altarpiece-30424.htm</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/bio/m/mantegna/biograph.html</field>
+<field name="artist">http://dbpedia.org/resource/Andrea_Mantegna</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">67</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Crucifixion</field>
+<field name="type">Oil on panel</field>
+<field name="width">93</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Crucifixion_(Mantegna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Crucifixion_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Crucifixion_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Crucifixion_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5189809</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_(Mantegna)</field>
+</doc>
+</add>

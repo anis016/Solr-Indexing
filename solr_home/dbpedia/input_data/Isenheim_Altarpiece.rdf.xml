@@ -1,0 +1,140 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ołtarz_z_Isenheim</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Isenheimer_Altar</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Изенгеймский_алтарь</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Isenheim_Altarpiece</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Ізенгеймський_вівтар</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Isenheimský_oltár</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.093shh</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retablo_de_Isenheim</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_d'Issenheim</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Isenheimský_oltář</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Retábulo_de_Issenheim</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q591762</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Isenheimski_oltar</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Altare_di_Issenheim</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ฉากแท่นบูชาอิเซนไฮม์</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Isenheimi_oltár</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Matthias_Gr%C3%BCnewald</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Polyptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1515_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Altars</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crucifixion_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Isenheim Altarpiece is an altarpiece sculpted and painted by, respectively, the Germans Niclaus of Haguenau and Matthias Grünewald in 1512–1516. It is on display at the Unterlinden Museum at Colmar, Alsace, in France. The museum celebrated the 500th anniversary of this masterpiece in 2012. By far Grünewald's greatest and largest work, it was painted for the Monastery of St. Anthony in Isenheim near Colmar, which specialized in hospital work. The Antonine monks of the monastery were noted for their care of plague sufferers as well as their treatment of skin diseases, such as ergotism. The image of the crucified Christ is pitted with plague-type sores, showing patients that Jesus understood and shared their afflictions.</field>
+<field name="label">Isenheim Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/54/Mathis_Gothart_Grünewald_019.jpg</field>
+<field name="comment">The Isenheim Altarpiece is an altarpiece sculpted and painted by, respectively, the Germans Niclaus of Haguenau and Matthias Grünewald in 1512–1516. It is on display at the Unterlinden Museum at Colmar, Alsace, in France. The museum celebrated the 500th anniversary of this masterpiece in 2012. By far Grünewald's greatest and largest work, it was painted for the Monastery of St. Anthony in Isenheim near Colmar, which specialized in hospital work.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Mathis_Gothart_Grünewald_019.jpg/200px-Mathis_Gothart_Grünewald_019.jpg</field>
+<field name="link_external">http://findarticles.com/p/articles/mi_m0MDO/is_1_31/ai_114050791/pg_1</field>
+<field name="link_external">http://www.ibiblio.org/eldritch/jkh/grunewald.html</field>
+<field name="link_external">http://www.stanleymeisler.com/smithsonian/smithsonian-1999-09-grunewald.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Isenheim_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Isenheimer_Altar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Isenheimský_oltář</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_d'Issenheim</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Retábulo_de_Issenheim</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Isenheim_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Issenheim_altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Isenheim_Altar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retablo_de_Isenheim</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Altare_di_Issenheim</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Изенгеймский_алтарь</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ołtarz_z_Isenheim</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q591762</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Isenheimski_oltar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Isenheimi_oltár</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Isenheimský_oltár</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ฉากแท่นบูชาอิเซนไฮม์</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Ізенгеймський_вівтар</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Isenheim_Altarpiece</field>
+</doc>
+</add>

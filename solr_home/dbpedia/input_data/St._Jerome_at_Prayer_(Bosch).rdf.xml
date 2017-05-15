@@ -1,0 +1,83 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/San_Jerónimo_en_oración_(El_Bosco)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Jerome_at_Prayer_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/San_Girolamo_in_preghiera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Jerome_at_Prayer_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Святой_Иероним_за_молитвой_(картина_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Jerome_at_Prayer_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Saint_Jérôme_en_prière_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Jerome_at_Prayer_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Jerome_at_Prayer_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Jerome_at_Prayer_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Jerome_at_Prayer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Jerome_at_Prayer_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0261g46</field>
+<field name="sameAs">http://es.dbpedia.org/resource/San_Jerónimo_en_oración_(El_Bosco)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Святой_Иероним_за_молитвой_(картина_Босха)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2566840</field>
+<field name="sameAs">http://it.dbpedia.org/resource/San_Girolamo_in_preghiera</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Saint_Jérôme_en_prière_(Bosch)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Jerome_at_Prayer_(Bosch)</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Jerome_at_Prayer_(Bosch)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_Heilige_Hiëronymus_in_gebed</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1505_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_of_Fine_Arts,_Ghent</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="abstract">St. Jerome at Prayer is a painting of St. Jerome by Hieronymus Bosch. It is believed to be painted c. 1505. The painting resides at Museum of Fine Arts in Ghent.</field>
+<field name="label">St. Jerome at Prayer (Bosch)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8e/BoschStJeromeInPrayer.jpg</field>
+<field name="comment">St. Jerome at Prayer is a painting of St. Jerome by Hieronymus Bosch. It is believed to be painted c. 1505. The painting resides at Museum of Fine Arts in Ghent.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/BoschStJeromeInPrayer.jpg/200px-BoschStJeromeInPrayer.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">80.1</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">St. Jerome at Prayer</field>
+<field name="type">Oil on panel</field>
+<field name="width">60.6</field>
+<field name="year">c. 1505</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Jerome_at_Prayer_(Bosch)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Jerome_at_Prayer_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_Heilige_Hiëronymus_in_gebed</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Jerome_at_Prayer_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2566840</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Jerome_at_Prayer_(Bosch)</field>
+</doc>
+</add>

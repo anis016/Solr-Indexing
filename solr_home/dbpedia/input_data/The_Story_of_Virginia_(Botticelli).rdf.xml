@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Histoire_de_Virginie_Romana</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Story_of_Virginia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Story_of_Virginia_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cfnn7</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Story_of_Virginia_(Botticelli)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1115413</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Story_of_Virginia_(Botticelli)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Histoire_de_Virginie_Romana</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Storie_di_Virginia</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Historias_de_Virginia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Accademia_Carrara</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Sandro_Botticelli</field>
+<field name="abstract">The Story of Virginia (Italian, Storie di Virginia), is a painting by the Italian Renaissance painter Sandro Botticelli. It is a tempera on panel and measures 86 cm tall and 165 cm wide. It is currently held by the Accademia Carrara in Bergamo, Italy. It is one of the last works that Botticelli made exemplifying virtue, like The Story of Lucretia. The painting has as a fundamental theme of violated honor and matrimonial fidelity. The combination of several scenes in a single image was common in the art of the early Renaissance. These are read from left to right: Virginia, in the company of other women, is violated or assaulted by Marcus Claudius Tacitus, who wants to force her to yield to Appius Claudius Caecus; He carries her to the tribunal presided by Appius Claudius who declares her a slave; The father and the husband of the woman plead for clemency The father, to preserve the family honor, kills her and flees on horseback. This story is developed within a setting of classical architecture, in which the figures are agitated, painted with vibrant colors.</field>
+<field name="label">The Story of Virginia (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c9/VirginiaBotticelli.jpg</field>
+<field name="comment">The Story of Virginia (Italian, Storie di Virginia), is a painting by the Italian Renaissance painter Sandro Botticelli. It is a tempera on panel and measures 86 cm tall and 165 cm wide. It is currently held by the Accademia Carrara in Bergamo, Italy. It is one of the last works that Botticelli made exemplifying virtue, like The Story of Lucretia. The painting has as a fundamental theme of violated honor and matrimonial fidelity.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/VirginiaBotticelli.jpg/200px-VirginiaBotticelli.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Sandro_Botticelli</field>
+<field name="city">http://dbpedia.org/resource/Bergamo</field>
+<field name="height">86</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="museum">http://dbpedia.org/resource/Accademia_Carrara</field>
+<field name="title">The Story of Virginia</field>
+<field name="width">165</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Story_of_Virginia_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Story_of_Virginia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Historias_de_Virginia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Story_of_Virginia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Storie_di_Virginia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Story_of_Virginia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Story_of_Virginia_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Story_of_Virginia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1115413</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Story_of_Virginia_(Botticelli)</field>
+</doc>
+</add>

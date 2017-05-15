@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Mort_du_général_Wolfe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_General_Wolfe</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_death_of_general_wolfe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_Wolfe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_General_Wolfe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Mort_du_général_Wolfe</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_General_Wolfe</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_mort_del_general_James_Wolfe</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Death_of_General_Wolfe</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q956541</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0619xg</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Death_of_General_Wolfe</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1770_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_and_Indian_War</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Canada</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Benjamin_West</field>
+<field name="abstract">The Death of General Wolfe is a well-known 1770 painting by Anglo-American artist Benjamin West depicting the death of British General James Wolfe during the 1759 Battle of Quebec of the Seven Years' War. It is an oil on canvas of the Enlightenment period. West made an additional and nearly identical painting of the same scene for King George III in 1771.</field>
+<field name="label">The Death of General Wolfe</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4f/Benjamin_West_005.jpg</field>
+<field name="comment">The Death of General Wolfe is a well-known 1770 painting by Anglo-American artist Benjamin West depicting the death of British General James Wolfe during the 1759 Battle of Quebec of the Seven Years' War. It is an oil on canvas of the Enlightenment period. West made an additional and nearly identical painting of the same scene for King George III in 1771.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Benjamin_West_005.jpg/200px-Benjamin_West_005.jpg</field>
+<field name="link_external">http://links.jstor.org/sici?sici=1073-9300%28199521%299%3A1%3C72%3ARTIIBW%3E2.0.CO%3B2-J</field>
+<field name="artist">http://dbpedia.org/resource/Benjamin_West</field>
+<field name="city">http://dbpedia.org/resource/Ottawa</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Canada</field>
+<field name="title">The Death of General Wolfe</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Death_of_General_Wolfe</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Death_of_General_Wolfe</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Death_of_General_Wolfe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Death_of_General_Wolfe</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_General_Wolfe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_Of_General_Wolfe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q956541</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_General_Wolfe</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_mort_del_general_James_Wolfe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_General_Wolfe</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Death_of_General_Wolfe</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_General_Wolfe</field>
+</doc>
+</add>

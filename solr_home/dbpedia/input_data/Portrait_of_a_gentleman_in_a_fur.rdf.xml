@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_gentleman_in_a_fur</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hr38t0</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_un_gentiluomo_in_pelliccia_di_lince</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_gentleman_in_a_fur</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937768</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_gentleman_in_a_fur</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Poltred_un_denjentil_e_kroc'hen_lins</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paolo_Veronese</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="abstract">The Portrait of a gentleman in a fur is an oil painting by Paolo Veronese, datable to around 1550-1560 and now in the Galleria Palatina in Florence. Its subject is unknown - Daniele Barbaro has been suggested, but this is contradicted by the confirmed portrait of him in the Rijksmuseum in Amsterdam.</field>
+<field name="label">Portrait of a gentleman in a fur</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/27/Paolo_Veronese_-_Gentleman_in_a_Lynx_Fur_-_WGA24981.jpg</field>
+<field name="comment">The Portrait of a gentleman in a fur is an oil painting by Paolo Veronese, datable to around 1550-1560 and now in the Galleria Palatina in Florence. Its subject is unknown - Daniele Barbaro has been suggested, but this is contradicted by the confirmed portrait of him in the Rijksmuseum in Amsterdam.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/27/Paolo_Veronese_-_Gentleman_in_a_Lynx_Fur_-_WGA24981.jpg/200px-Paolo_Veronese_-_Gentleman_in_a_Lynx_Fur_-_WGA24981.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_gentleman_in_a_fur</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_gentleman_in_a_fur</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_un_gentiluomo_in_pelliccia_di_lince</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_gentleman_in_a_fur</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_gentleman_in_a_fur</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_gentleman_in_a_fur</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937768</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_gentleman_in_a_fur</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Poltred_un_denjentil_e_kroc'hen_lins</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_gentleman_in_a_fur</field>
+</doc>
+</add>

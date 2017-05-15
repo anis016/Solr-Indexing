@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Parnassus_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Parnassus_(Mantegna)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Parnassus_(Mantegna)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q12071503</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvs7ns</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1497_paintings</field>
+<field name="abstract">The Parnassus is a painting by the Italian Renaissance painter Andrea Mantegna, executed in 1497. It is housed in the Musée du Louvre of Paris.</field>
+<field name="label">Parnassus (Mantegna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fb/La_Parnasse,_by_Andrea_Mantegna,_from_C2RMF_retouched.jpg</field>
+<field name="comment">The Parnassus is a painting by the Italian Renaissance painter Andrea Mantegna, executed in 1497. It is housed in the Musée du Louvre of Paris.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/La_Parnasse,_by_Andrea_Mantegna,_from_C2RMF_retouched.jpg/200px-La_Parnasse,_by_Andrea_Mantegna,_from_C2RMF_retouched.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">54.6</field>
+<field name="image"/>
+<field name="imageSize">360</field>
+<field name="museum"/>
+<field name="title">Parnassus</field>
+<field name="type">Tempera and gold on canvas</field>
+<field name="width">70.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Parnassus_(Mantegna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Parnassus_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Parnassus_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Parnassus_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q12071503</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Parnassus_(Mantegna)</field>
+</doc>
+</add>

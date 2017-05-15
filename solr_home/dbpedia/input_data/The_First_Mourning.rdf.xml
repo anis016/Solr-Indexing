@@ -1,0 +1,93 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_First_Mourning</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_First_Mourning</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/O_Primeiro_Luto</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Mourning</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_First_Mourning</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://az.dbpedia.org/resource/İlk_Sabah_(Buqro)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ความโศกเศร้าครั้งแรก</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_First_Mourning</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q369810</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_Despertar_de_la_Tristeza</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Mourning</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_primer_dol</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/O_Primeiro_Luto</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.064n142</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William-Adolphe_Bouguereau</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cain_and_Abel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Buenos_Aires</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="abstract">The First Mourning (in French Premier Deuil) is an oil on canvas painted in 1888 by William-Adolphe Bouguereau. Its dimensions are: 79 /8 × 99 /8 inches (203 × 252 cm). This piece of art can be seen at the Museo Nacional de Bellas Artes (Spanish for National Museum of Fine Arts) in Buenos Aires, Argentina. This work depicts the moment after Adam and Eve just found the body of their son Abel, who was murdered by Cain. According to the biblical account, this was the first human death. William-Adolphe Bouguereau had suffered the loss of his second son shortly before painting this work. Its original name is "Premier Deuil", in French, of which "The First Mourning" is a literal translation.</field>
+<field name="label">The First Mourning</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9f/Bouguereau-The_First_Mourning-1888.jpg</field>
+<field name="comment">The First Mourning (in French Premier Deuil) is an oil on canvas painted in 1888 by William-Adolphe Bouguereau. Its dimensions are: 79 /8 × 99 /8 inches (203 × 252 cm). This piece of art can be seen at the Museo Nacional de Bellas Artes (Spanish for National Museum of Fine Arts) in Buenos Aires, Argentina. This work depicts the moment after Adam and Eve just found the body of their son Abel, who was murdered by Cain. According to the biblical account, this was the first human death.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Bouguereau-The_First_Mourning-1888.jpg/200px-Bouguereau-The_First_Mourning-1888.jpg</field>
+<field name="artist">http://dbpedia.org/resource/William-Adolphe_Bouguereau</field>
+<field name="city">http://dbpedia.org/resource/Buenos_Aires</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Museo_Nacional_de_Bellas_Artes_(Buenos_Aires)</field>
+<field name="title">The First Mourning</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_First_Mourning</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_First_Mourning</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_Despertar_de_la_Tristeza</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Mourning</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Premier_Deuil</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Premier_Deuil%22</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_first_mourning</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q369810</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Mourning</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/İlk_Sabah_(Buqro)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Mourning</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_primer_dol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Mourning</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ความโศกเศร้าครั้งแรก</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Mourning</field>
+</doc>
+</add>

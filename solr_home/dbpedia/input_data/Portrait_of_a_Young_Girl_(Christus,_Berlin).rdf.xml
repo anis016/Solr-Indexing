@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/若い女の肖像_(ペトルス・クリストゥスの絵画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_d'une_jeune_fille</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0289scj</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/若い女の肖像_(ペトルス・クリストゥスの絵画)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2409245</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_fanciulla_(Petrus_Christus)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Retrat_d'una_noia_jove</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Petrus_Christus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="abstract">Portrait of a Young Girl (Portrait of a French Lady in early inventories) is a small oil on oak panel painting by Flemish artist Petrus Christus. The work, dating to c. 1465-1470, is believed to be one of the artist's last and is now in the Gemäldegalerie, Berlin. It marks a major stylistic advance in both Christus's work and that of Netherlandish portraiture, not just that the sitter is no longer set against a neutral flat background as in van Eyck's single portrait panels, but that she is placed in a such an airy three-dimensional and realistic setting. Moreover, the girl is not passive and her expression is complex: she looks directly at the viewer in an almost petulant manner, while at the same time much is held back in her reserved gaze. In this, Portrait of a Young Girl is a further development from the work of Jan van Eyck and Rogier van der Weyden, the two pioneers of the Early Netherlandish school to whom Christus is generally seen as the most significant successor of the second generation. The panel was highly influential in the decades after its completion. Its appeal in part lies in the sly expression of the sitter, which is accentuated by the fact that her eyes are not quite aligned while her eyebrows are slightly skewed. The painting is widely regarded as one of the most exquisite of the Northern Renaissance. Art historian Joel Upton described the lady as resembling "a polished pearl, almost opalescent, lying on a cushion of black velvet."</field>
+<field name="label">Portrait of a Young Girl (Christus, Berlin)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg</field>
+<field name="comment">Portrait of a Young Girl (Portrait of a French Lady in early inventories) is a small oil on oak panel painting by Flemish artist Petrus Christus. The work, dating to c. 1465-1470, is believed to be one of the artist's last and is now in the Gemäldegalerie, Berlin.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg/200px-Petrus_Christus_-_Portrait_of_a_Young_Woman_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/91807/rec/320</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_d'une_jeune_fille</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_fanciulla_(Petrus_Christus)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_young_girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_young_girl_(Christus)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2409245</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Retrat_d'una_noia_jove</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Girl_(Christus,_Berlin)</field>
+</doc>
+</add>

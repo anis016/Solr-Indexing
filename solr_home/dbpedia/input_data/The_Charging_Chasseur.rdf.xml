@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Oficial_de_cazadores_a_la_carga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Charging_Chasseur</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Officier_de_chasseurs_à_cheval_de_la_garde_impériale_chargeant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Charging_Chasseur</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/An_Officer_of_the_Imperial_Horse_Guards_Charging</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Charging_Chasseur</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Charging_Chasseur</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Officier_de_chasseurs_à_cheval_de_la_garde_impériale_chargeant</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0281pg4</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Charging_Chasseur</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3349704</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Oficial_de_cazadores_a_la_carga</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1812_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Th%C3%A9odore_G%C3%A9ricault</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horses_in_art</field>
+<field name="abstract">The Charging Chasseur, or An Officer of the Imperial Horse Guards Charging is an oil painting on canvas of about 1812 by the French painter Théodore Géricault, portraying a mounted Napoleonic cavalry officer, ready to attack. The painting represents French romanticism and has a motif similar to Jacques Louis David's Napoleon Crossing the Alps, but non-classical characteristics of the picture include its dramatic diagonal arrangement and vigorous paint handling. In The Charging Chasseur, the horse appears to be rearing away from an unseen attacker. The painting was Géricault's first exhibited work. Géricault would continue to move away from classicism, as exemplified in his masterpiece The Raft of the Medusa (1818–19). The turning figure on a rearing horse is derived from the large early Rubens Saint George, though there the view is from the side.</field>
+<field name="label">The Charging Chasseur</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7e/GericaultHorseman.jpg</field>
+<field name="comment">The Charging Chasseur, or An Officer of the Imperial Horse Guards Charging is an oil painting on canvas of about 1812 by the French painter Théodore Géricault, portraying a mounted Napoleonic cavalry officer, ready to attack. The painting represents French romanticism and has a motif similar to Jacques Louis David's Napoleon Crossing the Alps, but non-classical characteristics of the picture include its dramatic diagonal arrangement and vigorous paint handling.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/GericaultHorseman.jpg/200px-GericaultHorseman.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Th%C3%A9odore_G%C3%A9ricault</field>
+<field name="city"/>
+<field name="height">349</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Charging Chasseur</field>
+<field name="width">266</field>
+<field name="year">circa 1812</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Charging_Chasseur</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Charging_Chasseur</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Charging_Chasseur</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Charging_Chasseur</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3349704</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Charging_Chasseur</field>
+</doc>
+</add>

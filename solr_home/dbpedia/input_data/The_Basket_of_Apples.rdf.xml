@@ -1,0 +1,80 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Basket_of_Apples</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_basket_of_apples</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Basket_of_Apples</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Basket_of_Apples</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Basket_of_Apples</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Apples</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Basket_of_Apples</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Mand_met_appelen</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Košara_s_jabukama</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3956440</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cesto_de_manzanas</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vz08m</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/蘋果籃</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1895_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Paul_C%C3%A9zanne</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="abstract">The Basket of Apples is a still life oil painting by French artist Paul Cézanne. It belongs to the Helen Birch Bartlett Memorial Collection of the Art Institute of Chicago. The piece is often noted for its disjointed perspective. It has been described as a balanced composition due to its unbalanced parts; the tilted bottle, the incline of the basket, and the foreshortened lines of the cookies meshing with the lines of the tablecloth. Additionally, the right side of the tabletop is not in the same plane as the left side, as if the image simultaneously reflects two viewpoints. Paintings such as this helped form a bridge between Impressionism and Cubism.</field>
+<field name="label">The Basket of Apples</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c4/Paul_Cézanne_185.jpg</field>
+<field name="comment">The Basket of Apples is a still life oil painting by French artist Paul Cézanne. It belongs to the Helen Birch Bartlett Memorial Collection of the Art Institute of Chicago. The piece is often noted for its disjointed perspective. It has been described as a balanced composition due to its unbalanced parts; the tilted bottle, the incline of the basket, and the foreshortened lines of the cookies meshing with the lines of the tablecloth.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Paul_Cézanne_185.jpg/200px-Paul_Cézanne_185.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Paul_C%C3%A9zanne</field>
+<field name="city">http://dbpedia.org/resource/Chicago</field>
+<field name="height">65</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Art_Institute_of_Chicago</field>
+<field name="title">The Basket of Apples</field>
+<field name="width">80</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Basket_of_Apples</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Basket_of_Apples</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cesto_de_manzanas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Apples</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Mand_met_appelen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Apples</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3956440</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Apples</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/蘋果籃</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Apples</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Košara_s_jabukama</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Basket_of_Apples</field>
+</doc>
+</add>

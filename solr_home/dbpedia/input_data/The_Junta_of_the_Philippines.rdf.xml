@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Junta_of_the_Philippines</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Junta_of_the_Philippines</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Junta_of_the_Philippines</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Junta_of_the_Philippines</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Junta_of_the_Philippines</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b774hq</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7743869</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1815_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">The Junta of the Philippines or Sessions of the Junta of the Royal Company of the Philippines is an oil-on-canvas painting, c. 1815 by the Spanish artist Francisco Goya. The work is the largest Goya produced. It was commissioned that year to commemorate the March 30th annual meeting of the Royal Company of the Philippines (Real Compañía de Filipinas) attended by 51 shareholders and members, during a period when Goya was severely disillusioned by the formerly exiled Ferdinand VII's return to the Spanish crown, a moved away from enlightenment and ended the hopes of Spanish liberals for a more progressive Spain. The Junta of the Philippines painting captures a moment when, unexpectedly, Ferdinand decided to attend the meeting of Junta, intending his presence to be an affirmation of his commitment to the empire. However it had the opposite effect; the Spanish economy and empire lay in ruins after the Peninsular War, the Royal Company of the Philippines was by that time so unprofitable and ineffective as to be irrelevant, and Ferdinand a king who had learned nothing from the turmoil of the preceding years when he had been over thrown. Ferdinand's return lead to mass emigration and exile amongst the Spanish intellectual class. Although Goya remained until in Spain for a number of years and continued to depict his king, he too fled in exile to France in 1824. As with his c. 1800 Charles IV of Spain and His Family, the Spanish king is portrayed in full pomp and finery, albeit through barely concealed gritted teeth. Ferdinand is shown in the center middle-ground, seated at a raised table and flanked by trembling associates. To his left sits Miguel de Lardazibal, minister for the Indies, who was imprisoned the following September and forced into exile by the crown. Before these men, the assembly members are massed in two groups divided left and right by carpet. An expanse of light spills across the floor, spread before the absolute monarch, and lit from a source situated near the viewer of the painting. While the work was painted on commission and intended to hang in the ceremonial hall in which it was set, it highlights in an unflattering manner the centrality and impotent grip of the king. To art historian Albert Boime, the painting shows a monarch who rules not through respect, but through last resort; absolute power and fear.</field>
+<field name="label">The Junta of the Philippines</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/46/La_Junta_de_Filipinas.jpg</field>
+<field name="comment">The Junta of the Philippines or Sessions of the Junta of the Royal Company of the Philippines is an oil-on-canvas painting, c. 1815 by the Spanish artist Francisco Goya. The work is the largest Goya produced.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/46/La_Junta_de_Filipinas.jpg/200px-La_Junta_de_Filipinas.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Junta_of_the_Philippines</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Junta_of_the_Philippines</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7743869</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Junta_of_the_Philippines</field>
+</doc>
+</add>

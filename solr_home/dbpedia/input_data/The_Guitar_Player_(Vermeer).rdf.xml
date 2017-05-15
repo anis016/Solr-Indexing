@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Guitar_Player_(Vermeer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4358442</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h525qz</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_gitaarspeelster</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Gitarrspelerskan</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Suonatrice_di_chitarra</field>
+<field name="sameAs">http://pnb.dbpedia.org/resource/گٹار_بجان_والی</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Guitar_Player_(Vermeer)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Guitar_Player_(Vermeer)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1670s_paintings</field>
+<field name="abstract">The Guitar Player is a 1672 painting by Jan Vermeer, now on show in Kenwood House, London as part of the Iveagh Bequest. On February 23, 1974, the painting was stolen from Kenwood House, and held for a ransom of over $1,000,000US in food to be distributed on the Caribbean island of Grenada, or else the painting would be destroyed by those who had stolen it. It was recovered by Scotland Yard in a cemetery in St. Bartholomew's, in London's financial district, on May 7, 1974. Although the painting showed signs of dampness, it was otherwise undamaged.</field>
+<field name="label">The Guitar Player (Vermeer)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/70/Jan_Vermeer_van_Delft_013.jpg</field>
+<field name="comment">The Guitar Player is a 1672 painting by Jan Vermeer, now on show in Kenwood House, London as part of the Iveagh Bequest. On February 23, 1974, the painting was stolen from Kenwood House, and held for a ransom of over $1,000,000US in food to be distributed on the Caribbean island of Grenada, or else the painting would be destroyed by those who had stolen it. It was recovered by Scotland Yard in a cemetery in St. Bartholomew's, in London's financial district, on May 7, 1974.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Jan_Vermeer_van_Delft_013.jpg/200px-Jan_Vermeer_van_Delft_013.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Guitar_Player_(Vermeer)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Guitar_Player_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Guitar_Player_(Vermeer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Guitar_Player_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_gitaarspeelster</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Guitar_Player_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Suonatrice_di_chitarra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Guitar_Player_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4358442</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Guitar_Player_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://pnb.dbpedia.org/resource/گٹار_بجان_والی</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Guitar_Player_(Vermeer)</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Gitarrspelerskan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Guitar_Player_(Vermeer)</field>
+</doc>
+</add>

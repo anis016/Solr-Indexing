@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Chrystus_w_grobie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05ztxp8</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4310527</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_corpo_di_Cristo_morto_nella_tomba</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мёртвый_Христос_в_гробу</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Chrystus_w_grobie</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1522_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hans_Holbein_the_Younger</field>
+<field name="abstract">The Body of the Dead Christ in the Tomb is an oil and tempera on limewood painting created by the German artist and printmaker Hans Holbein the Younger between 1520–22. The work shows a life-size, grotesque depiction of the stretched and unnaturally thin body of Jesus Christ lying in his tomb. Holbein shows the dead Son of God after he has suffered the fate of an ordinary human. The painting is especially notable for its dramatic dimensions (30.5 cm x 200 cm), and the fact that Christ's face, hands and feet, as well as the wounds in his torso, are depicted as realistic dead flesh in the early stages of putrefaction. His body is shown as long and emaciated while eyes and mouth are left open. The effect of the open eyes and mouth has been described by the art critic Michel Onfray as giving the impression that "the viewer sees Christ seeing: he might also perceive what death has in store, because he's staring at the heavens, while his soul is probably there already. No-one has taken the trouble to close his mouth and his eyes. Or else Holbein wants to tell us that, even in death, Christ still looks and speaks. " Christ is shown with three visible wounds; on his hand, side and feet. Describing on the artists' use of unflinching realism, Bätschmann and Griener noted that Christ's raised and extended middle finger appears to "reach towards the beholder", while his strands of hair "look as if they are breaking through the surface of the painting". Above the body, angels holding instruments of the Passion bear an inscription in brush on paper inscribed with the Latin words "). In common with many artists of the early Protestant Reformation, Holbein was fascinated with the macabre. His father, Hans Holbein the Elder, took him to see Matthias Grünewald's altarpiece in Isenheim, a city in which the elder also received a number of commissions from the local hospice. In common with the religious traditions of the 1520s the work was intended to evoke piety and follows the intentions of Grünewald, who in his altarpiece set out to instill feelings of both guilt and empathy in the viewer. It is unknown for what purpose the painting was created; various suggestions offered include as a predella for an altarpiece, as free-standing work or an ornament for a sepulchre. In 1999, the art historians Oskar Bätschmann and Pascal Griener raised the likelihood that the panel was intended to form part of a Holy Tomb, perhaps, they wrote, as a lid to be laid over a sepulchre. It is known that Holbein used a body fished out of the Rhine as a model for the work The panel has attracted fascination and praise since it was created. The Russian author Fyodor Dostoyevsky was captivated by the work. In 1867, his wife had to drag her husband away from the panel lest its grip on him induce an epileptic fit. In his 1869 novel The Idiot, the character Prince Myshkin, having viewing the painting in the home of Rogozhin, declares that it has the power to make the viewer lose his faith.</field>
+<field name="label">The Body of the Dead Christ in the Tomb</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/eb/The_Body_of_the_Dead_Christ_in_the_Tomb,_and_a_detail,_by_Hans_Holbein_the_Younger.jpg</field>
+<field name="comment">The Body of the Dead Christ in the Tomb is an oil and tempera on limewood painting created by the German artist and printmaker Hans Holbein the Younger between 1520–22. The work shows a life-size, grotesque depiction of the stretched and unnaturally thin body of Jesus Christ lying in his tomb. Holbein shows the dead Son of God after he has suffered the fate of an ordinary human.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/The_Body_of_the_Dead_Christ_in_the_Tomb,_and_a_detail,_by_Hans_Holbein_the_Younger.jpg/200px-The_Body_of_the_Dead_Christ_in_the_Tomb,_and_a_detail,_by_Hans_Holbein_the_Younger.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мёртвый_Христос_в_гробу</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Holbein's_dead_christ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4310527</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_corpo_di_Cristo_morto_nella_tomba</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Body_of_the_Dead_Christ_in_the_Tomb</field>
+</doc>
+</add>

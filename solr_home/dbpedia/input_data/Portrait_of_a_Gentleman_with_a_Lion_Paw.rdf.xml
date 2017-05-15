@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Gentleman_with_a_Lion_Paw</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmczkn</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Gentleman_with_a_Lion_Paw</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Gentleman_with_a_Lion_Paw</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937699</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_gentiluomo_con_zampino_di_leone</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lorenzo_Lotto</field>
+<field name="abstract">The Portrait of a Gentleman with a Lion Paw is a painting by the Italian High Renaissance painter Lorenzo Lotto, dating to c. 1527. It is housed in the Kunsthistorisches Museum of Vienna, Austria.</field>
+<field name="label">Portrait of a Gentleman with a Lion Paw</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4a/Lorenzo_Lotto_049.jpg</field>
+<field name="comment">The Portrait of a Gentleman with a Lion Paw is a painting by the Italian High Renaissance painter Lorenzo Lotto, dating to c. 1527. It is housed in the Kunsthistorisches Museum of Vienna, Austria.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Lorenzo_Lotto_049.jpg/200px-Lorenzo_Lotto_049.jpg</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=1126</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">95.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of a Gentleman with a Lion Paw</field>
+<field name="type">Oil on canvas</field>
+<field name="width">69.5</field>
+<field name="year">c. 1527</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Gentleman_with_a_Lion_Paw</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Gentleman_with_a_Lion_Paw</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_gentiluomo_con_zampino_di_leone</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Gentleman_with_a_Lion_Paw</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Gentleman_with_Lion_Paw</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Gentleman_with_a_Lion_Paw</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Gentleman_with_a_Lion_Paw</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937699</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Gentleman_with_a_Lion_Paw</field>
+</doc>
+</add>

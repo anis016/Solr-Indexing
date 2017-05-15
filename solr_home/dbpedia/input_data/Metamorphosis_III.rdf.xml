@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Metamorphosis_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Metamorphosis_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Metamorphosis_III</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03xlrr</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6823054</field>
+<field name="sameAs">http://dbpedia.org/resource/Metamorphosis_III</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Woodcuts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1968_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Birds_in_art</field>
+<field name="abstract">Metamorphosis III is a woodcut print by the Dutch artist M. C. Escher which was created by between 1967 and 1968. Measuring 19 cm × 680 cm (7½ × 268 inches - 22’4”), this is Escher’s largest print. It was printed on thirty-three blocks on six combined sheets and mounted on canvas. This print was partly coloured by hand. It begins identically to Metamorphosis II, with the word metamorphose forming a grid pattern and then becoming a black-and-white checkered pattern. Then the first set of new imagery begins. The angles of the checkered pattern change to elongated diamond shapes. These then become an image of flowers with bees. This image then returns to the diamond pattern and back into the checkered pattern. It then resumes with the Metamorphosis II imagery until the bird pattern. The birds then become sailing boats. From the sailing boats the image changes to a second fish pattern. Then from the fish to horses. The horses then become a second bird pattern. The second bird pattern then becomes black-and-white triangles which then become envelopes with wings. These winged envelopes then return to the black-and-white triangles and then to the original bird pattern. It then resumes with the Metamorphosis II print until its conclusion.</field>
+<field name="label">Metamorphosis III</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/85/Escher,_Metamorphosis_III.jpg</field>
+<field name="comment">Metamorphosis III is a woodcut print by the Dutch artist M. C. Escher which was created by between 1967 and 1968. Measuring 19 cm × 680 cm (7½ × 268 inches - 22’4”), this is Escher’s largest print. It was printed on thirty-three blocks on six combined sheets and mounted on canvas. This print was partly coloured by hand. It begins identically to Metamorphosis II, with the word metamorphose forming a grid pattern and then becoming a black-and-white checkered pattern.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Escher,_Metamorphosis_III.jpg/200px-Escher,_Metamorphosis_III.jpg</field>
+<field name="link_external">http://mcescher.com/Gallery/gallery-recogn.htm</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Metamorphosis III</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Metamorphosis_III</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Metamorphosis_III</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Metamorphosis_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Metamorphosis_III</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6823054</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Metamorphosis_III</field>
+</doc>
+</add>

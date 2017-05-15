@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dante's_Dream</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Мрія_Данте</field>
+<field name="sameAs">http://dbpedia.org/resource/Dante's_Dream</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q632603</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0514m00</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Dante's_Dream</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1871_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dante_Alighieri</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Walker_Art_Gallery_Liverpool</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="abstract">Dante's Dream (full title Dante's Dream at the Time of the Death of Beatrice) is a painting from 1871 by the English Pre-Raphaelite painter Dante Gabriel Rossetti. It hangs in the Walker Art Gallery, Liverpool, Merseyside, England. Rossetti had a lifelong interest in the Italian poet Dante Alighieri. The painting was inspired by Dante's poem La Vita Nuova. In this poem Dante dreams that he is led to the death-bed of Beatrice Portinari, who was the object of his unfulfilled love. Dante, in black, stands looking towards the dying Beatrice who is lying on a bed. Two female figures in green hold a canopy over her. An angel in red holds Dante's hand and leans forward to kiss Beatrice. In the painting, Rossetti creates a visionary world with complex symbols. The symbols include the green clothes of Beatrice's attendants, signifying hope; spring flowers in the foreground symbolising purity; and red doves for love. It is Rossetti's largest painting. The model for Beatrice was Jane Morris, the wife of William Morris. The Walker Art Gallery bought the painting directly from the artist in 1881 for £1575 (£ as of 2013). In 1897 it was sent to Berlin to be photographed, but was then noted to be "in a dirty condition". Again in 1904 the painting was noted to be in "a bad condition" and it was considered that its condition had been worsened by its journey to and from Berlin. The painting was sent in 1908 to the National Gallery in London to be relined, that is, for a new canvas to the glued to the original. It was then returned to Liverpool. During the Second World War, it was removed from its stretcher, rolled and stored in the basement of the gallery. In 1941 the painting was moved, together with other large paintings from the gallery, to Ellesmere College in Shropshire. It was noted at this time that it had sustained some damage. Conservation work was carried out on the painting in 1960 and in 1985. Dante's Dream is a painting in oil on canvas, measuring 216 centimetres by 312.4 centimetres . It was examined in 2003 and found to be in good condition, with no evidence of any recurrence of the former problems.</field>
+<field name="label">Dante's Dream</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6a/Dante's_Dream_at_the_Time_of_the_Death_of_Beatrice_by_Dante_Gabriel_Rossetti.jpg</field>
+<field name="comment">Dante's Dream (full title Dante's Dream at the Time of the Death of Beatrice) is a painting from 1871 by the English Pre-Raphaelite painter Dante Gabriel Rossetti. It hangs in the Walker Art Gallery, Liverpool, Merseyside, England. Rossetti had a lifelong interest in the Italian poet Dante Alighieri. The painting was inspired by Dante's poem La Vita Nuova. In this poem Dante dreams that he is led to the death-bed of Beatrice Portinari, who was the object of his unfulfilled love.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/Dante's_Dream_at_the_Time_of_the_Death_of_Beatrice_by_Dante_Gabriel_Rossetti.jpg/200px-Dante's_Dream_at_the_Time_of_the_Death_of_Beatrice_by_Dante_Gabriel_Rossetti.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Dante_Gabriel_Rossetti</field>
+<field name="city">http://dbpedia.org/resource/Liverpool</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Walker_Art_Gallery</field>
+<field name="title">Dante's Dream at the Time of the</field>
+<field name="title">Death of Beatrice</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Dante's_Dream</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Dante's_Dream</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Dante's_Dream</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Dante's_Dream</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dante's_Dream_at_the_Time_of_the_Death_of_Beatrice</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dante's_Dream_on_the_Day_of_the_Death_of_Beatrice:_9th_of_June,_1290</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q632603</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dante's_Dream</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Мрія_Данте</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Dante's_Dream</field>
+</doc>
+</add>

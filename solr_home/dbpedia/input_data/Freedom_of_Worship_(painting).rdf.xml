@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Freedom_to_Worship_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Freedom_of_Worship_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Freedom_of_Worship_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_of_Worship_(painting)</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Freedom_of_Worship_(Norman_Rockwell)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Freedom_of_Worship</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0409cgc</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q714794</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_originally_published_in_The_Saturday_Evening_Post</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1943_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Norman_Rockwell</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:World_War_II_media</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Four_Freedoms</field>
+<field name="abstract">Freedom to Worship or Freedom of Worship is one of Four Freedoms paintings by Norman Rockwell that were inspired by United States President Franklin D. Roosevelt in the State of the Union Address, known as Four Freedoms, he delivered to the 77th United States Congress on January 6, 1941. The other paintings in this series were, Freedom of Speech Freedom from Fear Freedom from Want Freedom to Worship was published in the February 27, 1943 Issue of The Saturday Evening Post with a matching essay by Will Durant as part of the Four Freedoms series. Rockwell felt that this and Freedom of Speech were the most successful of the set. Early versions of this painting involved a group of patrons at a barbershop of varying religions and races. The problem was painting easily recognizable depictions of different religions and races because there was little agreement on what a person of certain religions should look like. The image is commonly enhanced and often darkened in reproduction because it uses a color combination of soft greys, beiges and browns. In addition, the paint was applied thinly, which allows the weave of the canvas to contribute to the image.</field>
+<field name="label">Freedom of Worship (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/19/Freedom_of_Worship.jpg</field>
+<field name="comment">Freedom to Worship or Freedom of Worship is one of Four Freedoms paintings by Norman Rockwell that were inspired by United States President Franklin D. Roosevelt in the State of the Union Address, known as Four Freedoms, he delivered to the 77th United States Congress on January 6, 1941.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/19/Freedom_of_Worship.jpg/200px-Freedom_of_Worship.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Norman_Rockwell</field>
+<field name="city">http://dbpedia.org/resource/Stockbridge,_Massachusetts</field>
+<field name="city">http://dbpedia.org/resource/United_States</field>
+<field name="height">116.8</field>
+<field name="image"/>
+<field name="imageSize">159</field>
+<field name="museum">http://dbpedia.org/resource/Norman_Rockwell_Museum</field>
+<field name="title">Freedom of Worship</field>
+<field name="width">90</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Freedom_of_Worship_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Freedom_of_Worship_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Freedom_of_Worship_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Freedom_of_Worship_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Freedom_of_Worship</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_of_Worship_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q714794</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_of_Worship_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Freedom_of_Worship_(Norman_Rockwell)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Freedom_of_Worship_(painting)</field>
+</doc>
+</add>

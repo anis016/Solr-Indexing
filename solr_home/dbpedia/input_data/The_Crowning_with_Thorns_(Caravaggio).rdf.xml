@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Crowning_with_Thorns_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crowning_with_Thorns</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Crowning_with_Thorns_(Caravaggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_coronación_de_espinas_(Viena)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Caravaggio)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Kurunidigezh_gant_spern</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09fhw9</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1117094</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Couronnement_d'épines_(Le_Caravage,_Vienne)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Incoronazione_di_spine_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Crowning with Thorns is a painting by the Italian master Michelangelo Merisi da Caravaggio. Executed probably in 1602/1604 or possibly around 1607, it is now located in the Kunsthistorisches Museum, Vienna. According to Caravaggio's biographer Giovanni Bellori a Crowning with Thorns was made for Caravaggio's patron Vincenzo Giustiniani, and this painting can be traced convincingly to the Giustiniani collection. An attribution to Giustiniani would place it in the period prior to 1606, when Caravaggio fled Rome, but Peter Robb dates it to 1607, when the artist was in Naples. The theme of pain and sadism is certainly central to the work. John Gash points to the way the two torturers ram the crown down with the butts of their staffs, "a rhythmic and sadistic hammering. " (Actually Gash believes that the torturer on the left is about to bring his stick down on the near, visible side of Christ's head, but this seems physically impossible). Robb mentions that the painting is about "how ... to give pain and feel pain, and how close pain and pleasure sometimes were, how voluptuous suffering could be on a golden afternoon. " For Robb, however, the problem with the painting is "that recurrent bugbear of Christian art, the slack and passive figure of Christ, ... sitting out a hair shampoo at the barber's...". Caravaggio's patron Vincenzo Giustiniani was an intellectual as well as a collector, and late in life he wrote a paper about art, identifying twelve grades of accomplishment. In the highest class he put just two names, Caravaggio and Annibale Carracci, as artists capable of combining realism and style in the most accomplished manner. This Crowning with Thorns illustrates what Giustiniani meant: the cruelty of the two torturers is depicted with acutely observed reality as they hammer home the thorns, as is the bored slouch of the official leaning on the rail as he oversees the death of God. While Christ, despite what Robb says, is suffering real pain with patient endurance; all depicted within a classical composition of contrasting and intersecting horizontals and diagonals.</field>
+<field name="label">The Crowning with Thorns (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f1/Michelangelo_Caravaggio_072.jpg</field>
+<field name="comment">The Crowning with Thorns is a painting by the Italian master Michelangelo Merisi da Caravaggio. Executed probably in 1602/1604 or possibly around 1607, it is now located in the Kunsthistorisches Museum, Vienna. According to Caravaggio's biographer Giovanni Bellori a Crowning with Thorns was made for Caravaggio's patron Vincenzo Giustiniani, and this painting can be traced convincingly to the Giustiniani collection.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Michelangelo_Caravaggio_072.jpg/200px-Michelangelo_Caravaggio_072.jpg</field>
+<field name="artist"/>
+<field name="height">127</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Crowning with Thorns</field>
+<field name="type">Oil on canvas</field>
+<field name="width">165.5</field>
+<field name="year">c. 1602/1604 or 1607</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Crowning_with_Thorns_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Crowning_with_Thorns_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Couronnement_d'épines_(Le_Caravage,_Vienne)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Vienna)_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Incoronazione_di_spine_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_coronación_de_espinas_(Viena)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1117094</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Kurunidigezh_gant_spern</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crowning_with_Thorns_(Caravaggio)</field>
+</doc>
+</add>

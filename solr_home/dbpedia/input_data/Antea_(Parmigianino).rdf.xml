@@ -1,0 +1,83 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Antea_(Parmigianino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q867678</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Antea_(Parmigianino)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Antea_(Parmigianino)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch462y</field>
+<field name="sameAs">http://dbpedia.org/resource/Antea_(Parmigianino)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Antea_(Parmigianino)</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/پرتره_ای_از_یک_زن_جوان</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Museum_of_Capodimonte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Parmigianino</field>
+<field name="abstract">Antea (also known as Portrait of a Young Woman) is a painting by the Italian Mannerist artist Parmigianino, executed around 1524-1527.</field>
+<field name="label">Antea (Parmigianino)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d6/Parmigianino_007.jpg</field>
+<field name="comment">Antea (also known as Portrait of a Young Woman) is a painting by the Italian Mannerist artist Parmigianino, executed around 1524-1527.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Parmigianino_007.jpg/200px-Parmigianino_007.jpg</field>
+<field name="link_external">http://assistentimuseali.xoom.it/atm2003/antea.htm</field>
+<field name="artist">http://dbpedia.org/resource/Parmigianino</field>
+<field name="city">http://dbpedia.org/resource/Naples</field>
+<field name="height">136</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_di_Capodimonte</field>
+<field name="title">Antea</field>
+<field name="width">86</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Antea_(Parmigianino)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Antea_(Parmigianino)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Antea_(Parmigianino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Antea_(Parmigianino)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Antea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Young_Woman_(L'Antea)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(Parmigianino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Antea_(Parmigianino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Antea_(Parmigianino)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Antea_(Parmigianino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Antea_(Parmigianino)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q867678</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Antea_(Parmigianino)</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/پرتره_ای_از_یک_زن_جوان</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Antea_(Parmigianino)</field>
+</doc>
+</add>

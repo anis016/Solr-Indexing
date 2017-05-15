@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Oxbow_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Oxbow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.027bfbm</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Oxbow</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Oxbow</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3172259</field>
+<field name="sameAs">http://da.dbpedia.org/resource/The_Oxbow</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Hudson_River_School</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1836_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Cole</field>
+<field name="abstract">View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm, commonly known as The Oxbow, is a seminal landscape painting by Thomas Cole, founder of the Hudson River School. The painting depicts a Romantic panorama of the Connecticut River Valley just after a thunderstorm. It has been interpreted as a confrontation between wilderness and civilization.</field>
+<field name="label">The Oxbow</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/43/Cole_Thomas_The_Oxbow_(The_Connecticut_River_near_Northampton_1836.jpg</field>
+<field name="comment">View from Mount Holyoke, Northampton, Massachusetts, after a Thunderstorm, commonly known as The Oxbow, is a seminal landscape painting by Thomas Cole, founder of the Hudson River School. The painting depicts a Romantic panorama of the Connecticut River Valley just after a thunderstorm. It has been interpreted as a confrontation between wilderness and civilization.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/43/Cole_Thomas_The_Oxbow_(The_Connecticut_River_near_Northampton_1836.jpg/200px-Cole_Thomas_The_Oxbow_(The_Connecticut_River_near_Northampton_1836.jpg</field>
+<field name="link_external">http://www.metmuseum.org/Works_of_Art/recent_acquisitions/2000/co_rec_n_america_2001.153.asp</field>
+<field name="link_external">http://www.metmuseum.org/toah/ho/10/na/hod_08.228.htm</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">The Oxbow</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Oxbow</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Oxbow</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Oxbow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Oxbow</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3172259</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Oxbow</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/The_Oxbow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Oxbow</field>
+</doc>
+</add>

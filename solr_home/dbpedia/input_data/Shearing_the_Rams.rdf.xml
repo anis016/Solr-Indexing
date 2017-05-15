@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shearing_the_Rams</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7492201</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Shearing_the_Rams</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07k4f0g</field>
+<field name="sameAs">http://dbpedia.org/resource/Shearing_the_Rams</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tom_Roberts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_National_Gallery_of_Victoria</field>
+<field name="abstract">Shearing the Rams is an 1890 painting by the Australian artist Tom Roberts. The painting depicts sheep shearers plying their trade in a timber shearing shed. Distinctly Australian in character, the painting is a celebration of pastoral life and work, especially "strong, masculine labour" and recognises the role that wool-growing played in the development of the country. One of the most well known and loved paintings in Australia, Shearing the Rams has been described as a "masterpiece of Australian impressionism" and "the great icon of Australian popular art history". The painting is part of the National Gallery of Victoria Australian art collection.</field>
+<field name="label">Shearing the Rams</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/91/Tom_Roberts_-_Shearing_the_rams_-_Google_Art_Project.jpg</field>
+<field name="comment">Shearing the Rams is an 1890 painting by the Australian artist Tom Roberts. The painting depicts sheep shearers plying their trade in a timber shearing shed. Distinctly Australian in character, the painting is a celebration of pastoral life and work, especially "strong, masculine labour" and recognises the role that wool-growing played in the development of the country.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Tom_Roberts_-_Shearing_the_rams_-_Google_Art_Project.jpg/200px-Tom_Roberts_-_Shearing_the_rams_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.cv.vic.gov.au/stories/restoring-shearing-the-rams/</field>
+<field name="link_external">http://www.ngv.vic.gov.au/col/work/2920</field>
+<field name="artist">http://dbpedia.org/resource/Tom_Roberts</field>
+<field name="city">http://dbpedia.org/resource/Melbourne</field>
+<field name="height">122.4</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Victoria</field>
+<field name="title">Shearing the Rams</field>
+<field name="type">oil on canvas on composition board</field>
+<field name="width">183.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Shearing_the_Rams</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Shearing_the_Rams</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shearing_The_Rams</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shearing_the_rams</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Shearing_the_Rams</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Shearing_the_Rams</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7492201</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Shearing_the_Rams</field>
+</doc>
+</add>

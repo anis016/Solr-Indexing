@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Cardinal_Ludovico_Trevisan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Cardinal_Ludovico_Trevisan</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Cardinal_Ludovico_Trevisan</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937431</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_del_cardinale_Ludovico_Trevisan</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch58b7</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1450s_paintings</field>
+<field name="abstract">The Portrait of Cardinal Ludovico Trevisan is a painting by the Italian Renaissance artist Andrea Mantegna, dated to c. 1459-1460.</field>
+<field name="label">Portrait of Cardinal Ludovico Trevisan</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ef/Ludovico_trevisano_portrait_by_andrea_mantegna.jpg</field>
+<field name="comment">The Portrait of Cardinal Ludovico Trevisan is a painting by the Italian Renaissance artist Andrea Mantegna, dated to c. 1459-1460.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Ludovico_trevisano_portrait_by_andrea_mantegna.jpg/200px-Ludovico_trevisano_portrait_by_andrea_mantegna.jpg</field>
+<field name="artist"/>
+<field name="height">44.8</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="title">Portrait of Cardinal Ludovico Trevisan</field>
+<field name="type">Tempera on panel</field>
+<field name="width">33.9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Cardinal_Ludovico_Trevisan</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Cardinal_Ludovico_Trevisan</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Cardinal_Ludovico_Trevisan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Cardinal_Ludovico_Trevisan</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_del_cardinale_Ludovico_Trevisan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Cardinal_Ludovico_Trevisan</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Cardinal_Lodovico_Trevisan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Cardinal_Lodovico_Trevisano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Ludovico_Trevisan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937431</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Cardinal_Ludovico_Trevisan</field>
+</doc>
+</add>

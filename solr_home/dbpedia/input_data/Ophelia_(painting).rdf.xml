@@ -1,0 +1,150 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_Ophelia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Ophelia_(Gemälde)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Ophélie_(Millais)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Офелия_(картина_Милле)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ophelia_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ophelia_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Ophelia</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Ophelia_(livadur)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Офелия_(картина_Милле)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1065493</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Ophelia_(painting)</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Ophelia_(maleri)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Ophelia_(Millais)</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Ofélia_(festmény)</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Ofelia_(målning)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Ophelia_(Gemälde)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/โอฟีเลีย_(มิเล)</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ophelia_(Millais)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04xswj</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ofelia_(obraz)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Ophélie_(Millais)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1852_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_based_on_Hamlet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_based_on_literary_characters</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Female_Shakespearean_characters</field>
+<field name="abstract">Ophelia is a painting by British artist Sir John Everett Millais, completed between 1851 and 1852. Currently held in the Tate Britain in London, it depicts Ophelia, a character from Shakespeare's play Hamlet, singing before she drowns in a river in Denmark. The work was not widely regarded when first exhibited at the Royal Academy, but has since come to be admired for its beauty and its accurate depiction of a natural landscape. Ophelia has been estimated to have a market value of around £30 million.</field>
+<field name="label">Ophelia (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg</field>
+<field name="comment">Ophelia is a painting by British artist Sir John Everett Millais, completed between 1851 and 1852. Currently held in the Tate Britain in London, it depicts Ophelia, a character from Shakespeare's play Hamlet, singing before she drowns in a river in Denmark. The work was not widely regarded when first exhibited at the Royal Academy, but has since come to be admired for its beauty and its accurate depiction of a natural landscape.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/94/John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg/200px-John_Everett_Millais_-_Ophelia_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.telegraph.co.uk/culture/art/3668050/Ten-things-you-never-knew-about-Ophelia.html</field>
+<field name="link_external">http://smarthistory.org/blog/89/two-paintings-by-the-pre-raphaelite-john-everett-millais</field>
+<field name="link_external">http://www.cazbo.co.uk/MillaisOphelia700.shtml</field>
+<field name="link_external">http://www.lizziesiddal.com</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">76.2</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">Ophelia</field>
+<field name="width">111.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Ophelia_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ophelia_(Millais)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ofelia_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Ophelia_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Ophelia_(Millais)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1065493</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Ophelia_(livadur)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Ophelia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Ofélia_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Ophelia_(maleri)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Ofelia_(målning)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/โอฟีเลีย_(มิเล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Ophelia_(painting)</field>
+</doc>
+</add>

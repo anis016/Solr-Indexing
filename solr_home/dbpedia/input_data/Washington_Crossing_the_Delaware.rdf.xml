@@ -1,0 +1,155 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/George_Washington_Crossing_the_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Washington_crossing_the_delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crossing_the_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Washington_Crossing_The_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/デラウェア川を渡るワシントン</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04b7y3</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Washington_Crossing_the_Delaware</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Washington_attraversa_il_fiume_Delaware</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Вашингтон_переправляется_через_Делавэр</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/华盛顿横渡特拉华河</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q509806</field>
+<field name="sameAs">http://he.dbpedia.org/resource/וושינגטון_חוצה_את_הדלאוור</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Washington_cruzando_el_Delaware</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Waszyngton_przeprawia_się_przez_rzekę_Delaware</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cultural_depictions_of_George_Washington</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_about_the_American_Revolution</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pennsylvania_in_the_American_Revolution</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1851_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:New_Jersey_in_the_American_Revolution</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="abstract">Washington Crossing the Delaware is an 1851 oil-on-canvas painting by German American artist Emanuel Gottlieb Leutze. It commemorates General George Washington's crossing of the Delaware River on the night of December 25–26, 1776, during the American Revolutionary War. That action was the first move in a surprise attack against the Hessian forces at Trenton, New Jersey in the Battle of Trenton. The original was part of the collection at the Kunsthalle in Bremen, Germany and was destroyed in a British air raid in 1942. Leutze painted a second version which is now in the Metropolitan Museum of Art in New York City. There are many copies, one of which is in the West Wing reception area of the White House.</field>
+<field name="label">Washington Crossing the Delaware</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg</field>
+<field name="comment">Washington Crossing the Delaware is an 1851 oil-on-canvas painting by German American artist Emanuel Gottlieb Leutze. It commemorates General George Washington's crossing of the Delaware River on the night of December 25–26, 1776, during the American Revolutionary War. That action was the first move in a surprise attack against the Hessian forces at Trenton, New Jersey in the Battle of Trenton.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg/200px-Washington_Crossing_the_Delaware_by_Emanuel_Leutze,_MMA-NYC,_1851.jpg</field>
+<field name="link_external">http://nookipedia.com/wiki/Classic_Painting</field>
+<field name="link_external">http://www.metmuseum.org/Collections/search-the-collections/20011777?rpp=20&amp;pg=1&amp;ft=washington+crossing+the+delaware&amp;pos=2</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/singleitem/collection/p15324coll10/id/1182/rec/524</field>
+<field name="link_external">http://disneyetc.blogspot.com/2011/02/brilliant-new-pooh-poster.html</field>
+<field name="link_external">http://www.ushistory.org/washingtoncrossing/history/whatswrong.htm</field>
+<field name="link_external">http://blog.oup.com/oupblog/2006/02/washingtons_cro.html</field>
+<field name="artist">http://dbpedia.org/resource/Emanuel_Leutze</field>
+<field name="city"/>
+<field name="height">378.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">Washington Crossing the Delaware</field>
+<field name="width">647.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Washington_Crossing_the_Delaware</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/デラウェア川を渡るワシントン</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Washington_Crossing</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Washington_cruzando_el_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Washington_Crossing_the_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jazz_Cats_Crossing_the_Hudson</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jazzcats_Crossing_the_Hudson</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Washington_attraversa_il_fiume_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Waszyngton_przeprawia_się_przez_rzekę_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q509806</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Вашингтон_переправляется_через_Делавэр</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/华盛顿横渡特拉华河</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/וושינגטון_חוצה_את_הדלאוור</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_Crossing_the_Delaware</field>
+</doc>
+</add>

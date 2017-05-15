@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Eulalia_(Waterhouse_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7401211</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Eulalia_(Waterhouse_painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j26t_p</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_Eulalia_(Waterhouse_painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Spanish_Roman_Catholic_saints</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Spanish_saints</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_William_Waterhouse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Child_saints</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ante-Nicene_Christian_martyrs</field>
+<field name="abstract">Saint Eulalia is an oil painting on canvas in the Pre-Raphaelite style, created in 1885 by English artist John William Waterhouse and currently housed at Tate Britain.</field>
+<field name="label">Saint Eulalia (Waterhouse painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/14/John_William_Waterhouse_-_Saint_Eulalia_-_1885.jpg</field>
+<field name="comment">Saint Eulalia is an oil painting on canvas in the Pre-Raphaelite style, created in 1885 by English artist John William Waterhouse and currently housed at Tate Britain.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/14/John_William_Waterhouse_-_Saint_Eulalia_-_1885.jpg/200px-John_William_Waterhouse_-_Saint_Eulalia_-_1885.jpg</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ArtistWorks?cgroupid=999999961&amp;artistid=583&amp;page=1&amp;sole=y&amp;collab=y&amp;attr=y&amp;sort=default&amp;tabview=worklist</field>
+<field name="link_external">http://www.artble.com/artists/john_william_waterhouse/more_information/style_and_technique</field>
+<field name="link_external">http://www.all-art.org/neoclasscism/waterhouse1.html</field>
+<field name="link_external">http://www.tendreams.org/waterhouse.htm</field>
+<field name="link_external">http://www.jwwaterhouse.com</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=15983&amp;tabview=work</field>
+<field name="link_external">http://www.johnwilliamwaterhouse.net/</field>
+<field name="link_external">http://www.johnwaterhouse.com/view.cfm?recordid=76</field>
+<field name="link_external">http://www.catholic-forum.com/saints/ste06001.htm</field>
+<field name="link_external">http://www.johnwilliamwaterhouse.com/home/</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">188.6</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Tate_Britain</field>
+<field name="title">Saint Eulalia</field>
+<field name="type">oil on canvas</field>
+<field name="width">117.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_Eulalia_(Waterhouse_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_Eulalia_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_Eulalia_(Waterhouse_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_Eulalia_(Waterhouse_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Eulalia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7401211</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Eulalia_(Waterhouse_painting)</field>
+</doc>
+</add>

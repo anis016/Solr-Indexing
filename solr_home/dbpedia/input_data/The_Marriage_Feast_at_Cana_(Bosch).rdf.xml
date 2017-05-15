@@ -1,0 +1,78 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Nozze_di_Cana_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_Feast_at_Cana_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Брак_в_Кане_Галилейской_(картина_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_Feast_at_Cana_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Marriage_Feast_at_Cana_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0261dxk</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2329843</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_Bruiloft_van_Kana_(Rotterdam)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Nozze_di_Cana_(Bosch)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Eured_Kana_(Bosch)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Marriage_Feast_at_Cana_(Bosch)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Брак_в_Кане_Галилейской_(картина_Босха)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_Feast_at_Cana_(Bosch)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Noces_de_Cana_(Bosch)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_Boijmans_Van_Beuningen</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="abstract">The Marriage Feast At Cana is a painting traditionally attributed to Hieronymus Bosch. The painting resides at the Museum Boijmans Van Beuningen in Rotterdam, the Netherlands. Several copies exist of this picture. Until recently the copy in Boijmans has been considered the original. Dendrocronological analysis, however has now proven conclusively that it cannot have been painted earlier than 1550.</field>
+<field name="label">The Marriage Feast at Cana (Bosch)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c7/BoschTheMarriageFeastAtCanajpg.jpg</field>
+<field name="comment">The Marriage Feast At Cana is a painting traditionally attributed to Hieronymus Bosch. The painting resides at the Museum Boijmans Van Beuningen in Rotterdam, the Netherlands. Several copies exist of this picture. Until recently the copy in Boijmans has been considered the original. Dendrocronological analysis, however has now proven conclusively that it cannot have been painted earlier than 1550.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/BoschTheMarriageFeastAtCanajpg.jpg/200px-BoschTheMarriageFeastAtCanajpg.jpg</field>
+<field name="artist"/>
+<field name="height">93</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Marriage Feast At Cana</field>
+<field name="type">Oil on panel</field>
+<field name="width">72</field>
+<field name="year">After 1550</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Marriage_Feast_at_Cana_(Bosch)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Marriage_Feast_at_Cana_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Noces_de_Cana_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_Feast_at_Cana_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Marriage_Feast_at_Cana_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Marriage_Feast_at_Cana_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_Bruiloft_van_Kana_(Rotterdam)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_Feast_at_Cana_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2329843</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_Feast_at_Cana_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Eured_Kana_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Marriage_Feast_at_Cana_(Bosch)</field>
+</doc>
+</add>

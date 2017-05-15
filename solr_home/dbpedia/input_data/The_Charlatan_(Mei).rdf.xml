@@ -1,0 +1,31 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Charlatan_(Mei)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Charlatan_(Mei)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g598zf</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Charlatan_(Mei)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7722174</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1656_paintings</field>
+<field name="abstract">The Charlatan (Italian Il Ciarlatano) is a large 1656 satirical painting by the Italian Baroque artist Bernardino Mei. It shows an aged charlatan seated on an armchair resting on a trestle stage in the Piazza del Campo, the main square of the Tuscan town of Siena. He holds in his left-hand the tools of his trade; vials and remedies, with pitchers and an invoice reading L'olio de filosofi di Straccione (Straccione's Philosopher's oil) lying on the cheap timbre below him. The man is hefty and dressed in old, filthy clothes -he bears a dirty white robe with a blue sash, white leggings and heavy black shoes- and an unkempt beard; Bernardino has unflatteringly portrayed him as a mixture of a second rate old testament prophet, tattered alchemical philosopher, and the forbidding Roman god Saturn. The old man's simple minded audience look up at him with a sense of wonder and awe; one, dressed in a rose coloured gown is so overcome that he seems about to faint and reaches for a sniff of a remedy to regain strength. Mei has abandoned any pretence of perspective, the charlatan is several times larger than the member of his audience, and is seemingly suspended in the air, floating above the rabble below. He looks out directly at the viewer, offering one of his potions in his raised right hand, with his head bowed in faux humility. Mei utilises mostly dark tones, and although the main figure is hugely imposing to the viewer, the overall mood is sombre and melancholy. Although alchemists were still popular with the middle classes at the time the painting was created, they were maligned figures in the eyes of the educated. The work was popular as a print in the 18th century, however the relevance of its message was lost soon after.</field>
+<field name="label">The Charlatan (Mei)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f2/Bernardino_Mei_Il_Ciarlatano.jpg</field>
+<field name="comment">The Charlatan (Italian Il Ciarlatano) is a large 1656 satirical painting by the Italian Baroque artist Bernardino Mei. It shows an aged charlatan seated on an armchair resting on a trestle stage in the Piazza del Campo, the main square of the Tuscan town of Siena. He holds in his left-hand the tools of his trade; vials and remedies, with pitchers and an invoice reading L'olio de filosofi di Straccione (Straccione's Philosopher's oil) lying on the cheap timbre below him.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Bernardino_Mei_Il_Ciarlatano.jpg/200px-Bernardino_Mei_Il_Ciarlatano.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Charlatan_(Mei)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Charlatan_(Mei)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Charlatan_(Mei)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Charlatan_(Mei)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7722174</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Charlatan_(Mei)</field>
+</doc>
+</add>

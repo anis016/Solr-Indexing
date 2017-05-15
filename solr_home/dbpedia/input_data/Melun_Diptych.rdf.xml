@@ -1,0 +1,95 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Díptico_de_Melun</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Melun_Diptych</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Díptico_de_Melun</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Melun_Diptych</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Diptyque_de_Melun</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Melun_Diptych</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Melun_Diptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Melun_Diptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Melun_Diptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2589776</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Melun_Diptych</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Díptic_de_Melun</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Díptico_de_Melun</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Díptico_de_Melun</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Меленский_диптих</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047tfvx</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Dittico_di_Melun</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dyptyk_z_Melun</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Diptyque_de_Melun</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Меленський_диптих</field>
+<field name="sameAs">http://dbpedia.org/resource/Melun_Diptych</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1452_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Gothic_paintings</field>
+<field name="abstract">The Melun Diptych is a two panel oil painting by the French court painter Jean Fouquet (1425-1480) created around 1452. The name of the diptych came from its original home in the Collegiate Church of Notre-Dame in Melun. The left panel depicts the patron Etienne Chevalier with St. Stephen and the right panel depicts the Virgin and Christ child surrounded by cherubim. Each wooden panel measures about 93 by 85 centimeters and the two would have been hinged together at the center. The two pieces, originally a diptych, are now separated. The left panels now resides in the Staatliche Museen in Berlin and the right panel is now located at the Koninklijk Museum in Belgium. A self-portrait medallion is also associated with the two panels. Measuring 6 centimeters in diameter, it would have adorned the frame, and consists of copper, enamel, and gold. The medallion is now located in the Louvre in Paris, France.</field>
+<field name="label">Melun Diptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e7/Fouquet_Madonna.jpg</field>
+<field name="comment">The Melun Diptych is a two panel oil painting by the French court painter Jean Fouquet (1425-1480) created around 1452. The name of the diptych came from its original home in the Collegiate Church of Notre-Dame in Melun. The left panel depicts the patron Etienne Chevalier with St. Stephen and the right panel depicts the Virgin and Christ child surrounded by cherubim. Each wooden panel measures about 93 by 85 centimeters and the two would have been hinged together at the center.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Fouquet_Madonna.jpg/200px-Fouquet_Madonna.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Melun_Diptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Melun_Diptych</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dyptyk_z_Melun</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Melun_Diptych</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Меленский_диптих</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Melun_Diptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Melun_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Dittico_di_Melun</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Melun_Diptych</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2589776</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Melun_Diptych</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Díptic_de_Melun</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Melun_Diptych</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Меленський_диптих</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Melun_Diptych</field>
+</doc>
+</add>

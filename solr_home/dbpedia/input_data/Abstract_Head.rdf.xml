@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Abstract_Head</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Abstract_Head</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4669922</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07xrct</field>
+<field name="sameAs">http://dbpedia.org/resource/Abstract_Head</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1928_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Expressionism</field>
+<field name="abstract">Abstract Head (circa 1921) is an oil painting by Russian expressionist Alexej von Jawlensky. At about the end of World War I (1918), von Jawlensky started to draw 'mystic heads' or 'faces of saints'. He gave them poetic titles like Moonlight or Inner Look. Like Claude Monet who worked in series', he ended up concentrating on a single theme. Its appearance remained more or less constantly the same, yet varied in the use of the brush, the colorings and in the drawing, in order to bring up new aspects of an until then still unknown transcendent spirituality.</field>
+<field name="label">Abstract Head</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3c/Alexej_von_Jawlensky_-_Heilandsgesicht,_Ferne_Hohheit_-_Buddha_II.jpg</field>
+<field name="comment">Abstract Head (circa 1921) is an oil painting by Russian expressionist Alexej von Jawlensky. At about the end of World War I (1918), von Jawlensky started to draw 'mystic heads' or 'faces of saints'. He gave them poetic titles like Moonlight or Inner Look. Like Claude Monet who worked in series', he ended up concentrating on a single theme.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Alexej_von_Jawlensky_-_Heilandsgesicht,_Ferne_Hohheit_-_Buddha_II.jpg/200px-Alexej_von_Jawlensky_-_Heilandsgesicht,_Ferne_Hohheit_-_Buddha_II.jpg</field>
+<field name="link_external">http://batlinerart.net/gemalde/abstrakter-kopf</field>
+<field name="artist">http://dbpedia.org/resource/Alexej_von_Jawlensky</field>
+<field name="image"/>
+<field name="imageSize">225</field>
+<field name="museum"/>
+<field name="title">Abstract Head</field>
+<field name="type">Oil</field>
+<field name="year">c. 1921</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Abstract_Head</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Abstract_Head</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Abstract_Head</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Abstract_Head</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4669922</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Abstract_Head</field>
+</doc>
+</add>

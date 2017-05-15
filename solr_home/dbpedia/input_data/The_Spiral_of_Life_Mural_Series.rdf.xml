@@ -1,0 +1,27 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Spiral_of_Life_Mural_Series</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Spiral_of_Life_Mural_Series</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Spiral_of_Life_Mural_Series</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Spiral_of_Life_Mural_Series</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Spiral_of_Life_Mural_Series</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3m4t1</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Public_art_in_the_United_States</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Articles_created_via_the_Article_Wizard</field>
+<field name="abstract">The Spiral of Life mural series is a collection of phylogenetic tree public art murals currently housed by the Pittsburgh Zoo &amp; PPG Aquarium, the National Aviary and the Carnegie Science Center. The murals reinterpret Charles Darwin's Tree of Life model appearing in On the Origin of Species by using the spiral shape in order to show the evolutionary relatedness among species over time. The models accurately depict a modern phylogenetic tree, along with a time scale and illustrations of various plants, animals, fungi, insects, and bacteria. Opposite Darwin's illustration, which has often led to misconceptions that evolution is a linear process, the Spiral of Life shows a radial branching out of species from the last universal common ancestor and emphasizes that evolution is not exclusively linear or vertical. The series of illustrations was created by biological artist Joana Ricou under the guidance of Duquesne University professor John A. Pollock, Ph.D. , along with the help of a research team at the Regenerative Medicine Partnership in Education. The team used current phylogenetic data and research to construct a self-explanatory and aesthetic phylogenetic tree for multiple age groups. Specifically, the model depicts possibilities for the roles that horizontal gene transfer plays in the evolution of life, which is not depicted in Darwin's illustration. In 2009, the series of illustrations were exhibited as educational wall murals during a celebration of the bicentennial anniversary of the birth of Charles Darwin in Pittsburgh, Pennsylvania, titled Darwin 2009: A Pittsburgh Partnership. In addition to permanent exhibitions at the Pittsburgh Zoo &amp; PPG Aquarium, the National Aviary and the Carnegie Science Center, temporary murals were displayed at the Children's Museum of Pittsburgh and Phipps Conservatory.</field>
+<field name="label">The Spiral of Life Mural Series</field>
+<field name="comment">The Spiral of Life mural series is a collection of phylogenetic tree public art murals currently housed by the Pittsburgh Zoo &amp; PPG Aquarium, the National Aviary and the Carnegie Science Center. The murals reinterpret Charles Darwin's Tree of Life model appearing in On the Origin of Species by using the spiral shape in order to show the evolutionary relatedness among species over time.</field>
+<field name="link_external">http://www.joanaricou.com/inter/spiraloflife.html</field>
+<field name="link_external">http://www.sepa.duq.edu/darwin/index.shtml</field>
+<field name="link_external">http://sepa.duq.edu/education/darwin/Darwin.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Spiral_of_Life_Mural_Series</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Spiral_of_Life_Mural_Series</field>
+</doc>
+</add>

@@ -1,0 +1,79 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(church_of_San_Salvador)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://th.dbpedia.org/resource/แม่พระรับสาร_(ทิเชียน)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Благовещение_(картина_Тициана)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2920183</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הבשורה_(טיציאן)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Zwiastowanie_(obraz_Tycjana)</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(church_of_San_Salvador)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02645p9</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Annunciation_(church_of_San_Salvador)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1550s_paintings</field>
+<field name="abstract">The Annunciation is a painting by the Italian Renaissance master Titian, executed between 1559 and 1564. It is housed in the church of San Salvador, Venice, northern Italy.</field>
+<field name="label">Annunciation (church of San Salvador)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/be/Tizian_103.jpg</field>
+<field name="comment">The Annunciation is a painting by the Italian Renaissance master Titian, executed between 1559 and 1564. It is housed in the church of San Salvador, Venice, northern Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tizian_103.jpg/200px-Tizian_103.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="height">410</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Annunciation</field>
+<field name="width">240</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Annunciation_(church_of_San_Salvador)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Annunciation_(church_of_San_Salvador)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Zwiastowanie_(obraz_Tycjana)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(church_of_San_Salvador)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Annunciation_(church_of_San_Salvador)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Annunciation_(church_of_San_Salvador)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Благовещение_(картина_Тициана)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(church_of_San_Salvador)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הבשורה_(טיציאן)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(church_of_San_Salvador)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/แม่พระรับสาร_(ทิเชียน)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(church_of_San_Salvador)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2920183</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(church_of_San_Salvador)</field>
+</doc>
+</add>

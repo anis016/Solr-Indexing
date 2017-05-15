@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Roch_Interceding_with_the_Virgin_for_the_Plague-Stricken</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_Roch_Interceding_with_the_Virgin_for_the_Plague-Stricken</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7402136</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Roch_Interceding_with_the_Virgin_for_the_Plague-Stricken</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f6767</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jacques-Louis_David</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1780_paintings</field>
+<field name="abstract">Saint Roch Interceding with the Virgin for the Plague-Stricken is an early religious painting by the French artist Jacques-Louis David. He painted it in 1780 during his stay at the Villa Medici in Rome after winning first prize for painting in the Prix de Rome and exhibited it at the 1781 Paris Salon on his return to France. Its influences include Caravaggio, Poussin, Guercino and Lebrun. It shows Saint Roch interceding to the Virgin Mary and Christ Child for the plague sufferers shown around him.</field>
+<field name="label">Saint Roch Interceding with the Virgin for the Plague-Stricken</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f2/David18.JPG</field>
+<field name="comment">Saint Roch Interceding with the Virgin for the Plague-Stricken is an early religious painting by the French artist Jacques-Louis David. He painted it in 1780 during his stay at the Villa Medici in Rome after winning first prize for painting in the Prix de Rome and exhibited it at the 1781 Paris Salon on his return to France. Its influences include Caravaggio, Poussin, Guercino and Lebrun.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/David18.JPG/200px-David18.JPG</field>
+<field name="link_external">http://books.google.com/books?id=T3noLir82usC&amp;pg=PA73&amp;lpg=PA73&amp;dq=Saint+Roch+interceding+to+the+Virgin+David&amp;source=bl&amp;ots=4l55NhOEX9&amp;sig=gunhbWFMVaEyW4sBGpyZ3SW-EQ8&amp;hl=en&amp;ei=5fuKSaHfHM-g-gbd0r3aBw&amp;sa=X&amp;oi=book_result&amp;resnum=6&amp;ct=result</field>
+<field name="link_external">http://www.artprofessor.com/artists/jacques-louis-david.php</field>
+<field name="artist">http://dbpedia.org/resource/Jacques-Louis_David</field>
+<field name="city">http://dbpedia.org/resource/Marseille</field>
+<field name="height">260</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_des_beaux-arts_de_Marseille</field>
+<field name="title">Virgin for the Plague-Stricken</field>
+<field name="title">Saint Roch Interceding with the</field>
+<field name="width">195</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_Roch_Interceding_with_the_Virgin_for_the_Plague-Stricken</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_Roch_Interceding_with_the_Virgin_for_the_Plague-Stricken</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_Roch_Interceding_with_the_Virgin_for_the_Plague-Stricken</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_Roch_Interceding_with_the_Virgin_for_the_Plague-Stricken</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Roch_interceding_with_the_Virgin_for_the_Plague-Stricken</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7402136</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Roch_Interceding_with_the_Virgin_for_the_Plague-Stricken</field>
+</doc>
+</add>

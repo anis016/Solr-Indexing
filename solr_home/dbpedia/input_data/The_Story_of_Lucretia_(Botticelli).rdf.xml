@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Historias_de_Lucrecia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Story_of_Lucretia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Storie_di_Lucrezia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Story_of_Lucretia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Story_of_Lucretia_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Storie_di_Lucrezia</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Historias_de_Lucrecia</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08pcj_</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Story_of_Lucretia_(Botticelli)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Story_of_Lucretia_(Botticelli)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Tragédie_de_Lucrèce</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1115514</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Sandro_Botticelli</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="abstract">The Tragedy of Lucretia is a tempera and oil painting on a wood cassone or spalliera panel by the Italian Renaissance master Sandro Botticelli, painted between 1496 and 1504. Known less formally as the Botticelli Lucretia, it is housed in the Isabella Stewart Gardner Museum of Boston, having been owned by Isabella Stewart Gardner in her lifetime.</field>
+<field name="label">The Story of Lucretia (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a2/Sandro_Botticelli_078.jpg</field>
+<field name="comment">The Tragedy of Lucretia is a tempera and oil painting on a wood cassone or spalliera panel by the Italian Renaissance master Sandro Botticelli, painted between 1496 and 1504. Known less formally as the Botticelli Lucretia, it is housed in the Isabella Stewart Gardner Museum of Boston, having been owned by Isabella Stewart Gardner in her lifetime.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Sandro_Botticelli_078.jpg/200px-Sandro_Botticelli_078.jpg</field>
+<field name="link_external">http://gardnermuseum.org/collection/botticelli_p16e20.asp</field>
+<field name="link_external">http://www.smithsonianmag.com/arts-culture/botticelli-comes-ashore.html?c=y&amp;page=1</field>
+<field name="artist">http://dbpedia.org/resource/Sandro_Botticelli</field>
+<field name="city"/>
+<field name="height">83.8</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Isabella_Stewart_Gardner_Museum</field>
+<field name="title">The Tragedy  of Lucretia, central scene</field>
+<field name="type">Tempera and oil on wood</field>
+<field name="width">176.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Story_of_Lucretia_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Story_of_Lucretia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Tragédie_de_Lucrèce</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Story_of_Lucretia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Story_of_Lucretia_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Story_of_Lucretia_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1115514</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Story_of_Lucretia_(Botticelli)</field>
+</doc>
+</add>

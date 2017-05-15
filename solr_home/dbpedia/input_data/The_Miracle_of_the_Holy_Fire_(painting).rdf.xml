@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Miracle_of_the_Holy_Fire_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Miracle_of_the_Holy_Fire_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Miracle_of_the_Holy_Fire_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qd8fd</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7751646</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William_Holman_Hunt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1899_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Religious_paintings</field>
+<field name="abstract">The Miracle of the Holy Fire (1892–99) is a painting by William Holman Hunt which depicts the Greek Orthodox rite of the Holy Fire in the Church of the Holy Sepulchre Jerusalem. Hunt believed the fire to be a pious fraud which brought Christianity into disrepute. He intended the painting to be a satire in the manner of William Hogarth. Hunt published an elaborate keyplate explaining the identity of the various characters depicted.</field>
+<field name="label">The Miracle of the Holy Fire (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/81/Hunt_holy.jpg</field>
+<field name="comment">The Miracle of the Holy Fire (1892–99) is a painting by William Holman Hunt which depicts the Greek Orthodox rite of the Holy Fire in the Church of the Holy Sepulchre Jerusalem. Hunt believed the fire to be a pious fraud which brought Christianity into disrepute. He intended the painting to be a satire in the manner of William Hogarth. Hunt published an elaborate keyplate explaining the identity of the various characters depicted.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Hunt_holy.jpg/200px-Hunt_holy.jpg</field>
+<field name="artist">http://dbpedia.org/resource/William_Holman_Hunt</field>
+<field name="city">http://dbpedia.org/resource/Cambridge,_Massachusetts</field>
+<field name="height">92</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="museum">http://dbpedia.org/resource/Fogg_Museum</field>
+<field name="title">The Miracle of the Holy Fire</field>
+<field name="width">125.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Miracle_of_the_Holy_Fire_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Miracle_of_the_Holy_Fire_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Miracle_of_the_Holy_Fire_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Miracle_of_the_Holy_Fire_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Miracle_of_the_Holy_Fire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Miracle_of_the_Holy_Fire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7751646</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Miracle_of_the_Holy_Fire_(painting)</field>
+</doc>
+</add>

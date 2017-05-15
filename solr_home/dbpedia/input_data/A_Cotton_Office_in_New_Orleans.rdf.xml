@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Cotton_Office_in_New_Orleans</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Cotton_Office_in_New_Orleans</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Cotton_Office_in_New_Orleans</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4656128</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dln24q</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Cotton_Office_in_New_Orleans</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Cotton_Office_in_New_Orleans</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1873_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edgar_Degas</field>
+<field name="abstract">A Cotton Office in New Orleans is an 1873 oil painting by Edgar Degas. In it, Degas depicts the moment when his uncle Michel Musson's cotton brokerage business went bankrupt in an economic crash, according to Michael McMahon of the Pittsburgh Post-Gazette. The firm was swamped by the postwar growth of the much larger Cotton Exchange. In the painting, Musson is seen examining raw cotton for its quality while Degas' brother Rene reads The Daily Picayune. It carried the bankruptcy news. Another brother, Achille, rests against a window wall at left while others, including Musson's partners, go about their business. A Cotton Office in New Orleans was the first painting by Degas to be purchased by a museum, and the first by an Impressionist. Degas' sale of the piece marked a turning point in his career as he moved from being a struggling, unrecognized artist to a recognized and financially stable artist, according to Marilyn Brown in her book Degas and the Business of Art: A Cotton Office in New Orleans. Degas traveled from Europe to New Orleans in late 1872 with his brother, René, to visit his mother's brother, Michael Musson. After the American Civil War, René had joined his uncle's cotton factor firm in New Orleans. Degas was to return to Europe in January 1873, but when his return trip was delayed, he decided to paint the cotton business surrounding him. Degas crafted his work with the intent of selling it to a British textile manufacturer. But a drop in stock prices worldwide and declines in the cotton and art markets ended his hopes for that specific sale. Degas then exhibited A Cotton Office in New Orleans in the second Impressionist show in Paris in 1876. Degas finally sold the painting in 1878 to the newly founded Musee des Beaux-Arts in Pau, France. The painting is sometimes mistakenly referred to as The Cotton Exchange at New Orleans, referring to the historic New Orleans Cotton Exchange.</field>
+<field name="label">A Cotton Office in New Orleans</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/80/Cottonexchange1873-Degas.jpg</field>
+<field name="comment">A Cotton Office in New Orleans is an 1873 oil painting by Edgar Degas. In it, Degas depicts the moment when his uncle Michel Musson's cotton brokerage business went bankrupt in an economic crash, according to Michael McMahon of the Pittsburgh Post-Gazette. The firm was swamped by the postwar growth of the much larger Cotton Exchange. In the painting, Musson is seen examining raw cotton for its quality while Degas' brother Rene reads The Daily Picayune. It carried the bankruptcy news.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cottonexchange1873-Degas.jpg/200px-Cottonexchange1873-Degas.jpg</field>
+<field name="artist"/>
+<field name="height">73</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_des_beaux-arts_de_Pau</field>
+<field name="title">A Cotton Office in New Orleans</field>
+<field name="type">oil on canvas</field>
+<field name="width">92</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Cotton_Office_in_New_Orleans</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Cotton_Office_in_New_Orleans</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cotton_Office_in_New_Orleans</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4656128</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Cotton_Office_in_New_Orleans</field>
+</doc>
+</add>

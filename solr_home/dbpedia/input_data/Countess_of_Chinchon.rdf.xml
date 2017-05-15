@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_condesa_de_Chinchón_(cuadro)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Countess_of_Chinchon</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mar%C3%ADa_Teresa_de_Borb%C3%B3n,_15th_Countess_of_Chinch%C3%B3n</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Countess_of_Chinch%C3%B3n</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Countess_of_Chinchon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_condesa_de_Chinchón_(cuadro)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5177084</field>
+<field name="sameAs">http://dbpedia.org/resource/Countess_of_Chinchon</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_hrabiny_Chinchón</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Countess_of_Chinchon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1800s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="abstract">The Condesa de Chinchón (the "Countess of Chinchón") was painted by Francisco Goya about 1800, and is held in the Museo del Prado, Madrid. The painting depicts María Teresa de Borbón, 15th Countess of Chinchón, who had been encouraged by Queen Maria Luisa of Parma and by opportunism to marry Manuel de Godoy, the Prime Minister, in a marriage of convenience.</field>
+<field name="label">Countess of Chinchon</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/55/Condesa_de_chinchon.jpg</field>
+<field name="comment">The Condesa de Chinchón (the "Countess of Chinchón") was painted by Francisco Goya about 1800, and is held in the Museo del Prado, Madrid. The painting depicts María Teresa de Borbón, 15th Countess of Chinchón, who had been encouraged by Queen Maria Luisa of Parma and by opportunism to marry Manuel de Godoy, the Prime Minister, in a marriage of convenience.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Condesa_de_chinchon.jpg/200px-Condesa_de_chinchon.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Countess_of_Chinchon</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Countess_of_Chinchon</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Countess_of_chinchon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Maria_Teresa_de_Borbon_y_Vallabriga</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Countess_of_Chinchon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Countess_of_Chinchon</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_hrabiny_Chinchón</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Countess_of_Chinchon</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5177084</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Countess_of_Chinchon</field>
+</doc>
+</add>

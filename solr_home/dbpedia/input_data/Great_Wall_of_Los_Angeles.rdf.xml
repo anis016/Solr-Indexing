@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Great_Wall_of_Los_Angeles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Great_Wall_of_Los_Angeles</field>
+<field name="sameAs">http://dbpedia.org/resource/Great_Wall_of_Los_Angeles</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5600145</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08gkwt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_of_Los_Angeles,_California</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:San_Fernando_Valley</field>
+<field name="abstract">The Great Wall of Los Angeles is a mural designed by Judith Baca and executed by community youth and artists coordinated by the Social and Public Art Resource Center (SPARC). It is located on Coldwater Canyon Ave between Oxnard St &amp; Burbank Blvd and the eastern edge of the Valley College campus in the San Fernando Valley community of Valley Glen alongside on the concrete sides of the Tujunga Wash, part of the drainage system of Los Angeles, California. With a length of 2,754 feet (840 m), it is credited as one of the longest murals in the world. The mural depicts the history of California through several panels; the first panels begin with prehistory and colonialism, but most of the following panels deal with events of the 20th century. It was created in conjunction with the rise of the Chicano Movement of the 1960s-1980s. The Great Wall of Los Angeles also places emphasis on the history of Native Americans and minorities with sections depicting events such as Japanese internment and civil rights. The California Cultural and Historical Endowment recently set aside funding for the Great Wall to be restored over the next three years. Baca is also designing plans to extend and continue the wall to reflect the 1960s to the present day.</field>
+<field name="label">Great Wall of Los Angeles</field>
+<field name="comment">The Great Wall of Los Angeles is a mural designed by Judith Baca and executed by community youth and artists coordinated by the Social and Public Art Resource Center (SPARC). It is located on Coldwater Canyon Ave between Oxnard St &amp; Burbank Blvd and the eastern edge of the Valley College campus in the San Fernando Valley community of Valley Glen alongside on the concrete sides of the Tujunga Wash, part of the drainage system of Los Angeles, California.</field>
+<field name="link_external">http://www.lamurals.org/MuralFiles/Valley/GreatWallOfLA.html</field>
+<field name="link_external">http://bomoco.com/greatwall/</field>
+<field name="link_external">http://www.lamurals.org</field>
+<field name="link_external">http://www.sparcmurals.org/sparcone/index.php?option=com_content&amp;task=view&amp;id=20&amp;Itemid=52</field>
+<field name="link_external">http://www.kcet.org/socal/departures/lariver/convergence/the-great-wall-of-los-angeles-1.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Great_Wall_of_Los_Angeles</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Great_Wall_of_Los_Angeles</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Great_Wall_of_Los_Angeles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Great_Wall_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Great_Wall_of_Los_Angeles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Great_Wall_of_Los_Angeles</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Great_Wall_of_L.A.</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Great_Wall_of_LA</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5600145</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Great_Wall_of_Los_Angeles</field>
+</doc>
+</add>

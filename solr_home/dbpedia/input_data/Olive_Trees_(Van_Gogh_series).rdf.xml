@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Olive_Trees_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7087213</field>
+<field name="sameAs">http://dbpedia.org/resource/Olive_Trees_(Van_Gogh_series)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gjdcmt</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Olive_Trees_(Van_Gogh_series)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Saint-R%C3%A9my</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="abstract">Vincent van Gogh painted at least 18 paintings of olive trees, mostly in Saint-Rémy in 1889. At his own request, he lived at an asylum there from May 1889 through May 1890 painting the gardens of the asylum and, when he had permission to venture outside its walls, nearby olive trees, cypresses and wheat fields. One painting, Olive Trees in a Mountainous Landscape, was a complement to The Starry Night. The olive tree paintings had special significance for Van Gogh. A group in May 1889 represented life, the divine and the cycle of life while those from November 1889 arose out of Van Gogh's attempt to symbolize his feelings about Christ in Gethsemane. His paintings of olive pickers demonstrate the relationship between man and nature by depicting one of the cycles of life, harvesting or death. It is also an example of how individuals, through interaction with nature, can connect with the divine. Van Gogh found respite and relief in interaction with nature. When the series of olive tree paintings was made in 1889 Van Gogh was subject to illness and emotional turmoil, yet the paintings are among his finest works.</field>
+<field name="label">Olive Trees (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e8/Van_Gogh_The_Olive_Trees..jpg</field>
+<field name="comment">Vincent van Gogh painted at least 18 paintings of olive trees, mostly in Saint-Rémy in 1889. At his own request, he lived at an asylum there from May 1889 through May 1890 painting the gardens of the asylum and, when he had permission to venture outside its walls, nearby olive trees, cypresses and wheat fields. One painting, Olive Trees in a Mountainous Landscape, was a complement to The Starry Night. The olive tree paintings had special significance for Van Gogh.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Van_Gogh_The_Olive_Trees..jpg/200px-Van_Gogh_The_Olive_Trees..jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Olive Trees</field>
+<field name="type">Oil on canvas</field>
+<field name="width">200</field>
+<field name="width">180</field>
+<field name="width">185</field>
+<field name="width">190</field>
+<field name="width">172</field>
+<field name="width">175</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Olive_Trees_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Olive_Trees_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Olive_Trees_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Olive_Trees_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Olive_Trees_(series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Olive_trees_(Van_Gogh)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7087213</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Olive_Trees_(Van_Gogh_series)</field>
+</doc>
+</add>

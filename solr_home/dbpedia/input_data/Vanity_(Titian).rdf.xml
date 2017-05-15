@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Vanità_(Tiziano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vanity_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vanity_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Vanidad_(Tiziano)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3qv97</field>
+<field name="sameAs">http://dbpedia.org/resource/Vanity_(Titian)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4008601</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Vanità_(Tiziano)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Vanity_(Titian)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1515_paintings</field>
+<field name="abstract">Vanity is an oil painting by Italian late Renaissance painter Titian, dated to around 1515 and now held at the Alte Pinakothek in Munich, Germany.</field>
+<field name="label">Vanity (Titian)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/95/Tizian_016.jpg</field>
+<field name="comment">Vanity is an oil painting by Italian late Renaissance painter Titian, dated to around 1515 and now held at the Alte Pinakothek in Munich, Germany.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Tizian_016.jpg/200px-Tizian_016.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Titian</field>
+<field name="city">http://dbpedia.org/resource/Munich</field>
+<field name="image"/>
+<field name="imageSize">260</field>
+<field name="museum">http://dbpedia.org/resource/Alte_Pinakothek</field>
+<field name="title">Vanity</field>
+<field name="type">Oil on canvas</field>
+<field name="year">c. 1515</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Vanity_(Titian)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Vanity_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Vanidad_(Tiziano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vanity_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Vanity_(Titian)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Vanity_(Titian)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4008601</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Vanity_(Titian)</field>
+</doc>
+</add>

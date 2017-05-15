@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rocky_Mountain_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/The_Rocky_Mountains,_Lander's_Peak</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Rocky_Mountains,_Lander's_Peak</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Rocky_Mountains,_Lander%E2%80%99s_Peak</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Rocky_Mountains,_Lander's_Peak</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.045mclh</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Rocky_Mountains,_Lander's_Peak</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7761325</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Rocky_Mountains,_Lander's_Peak</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/The_Rocky_Mountains,_Lander's_Peak</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Landscape_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Albert_Bierstadt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Wyoming_culture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1863_paintings</field>
+<field name="abstract">The Rocky Mountains, Lander's Peak is an 1863 landscape oil painting by the German-American painter Albert Bierstadt. It is based on sketches made during Bierstadt's travels with Frederick W. Lander's Honey Road Survey Party in 1859. The painting shows Lander's Peak in the Wyoming Range of the Rocky Mountains, with an encampment of Native Americans in the foreground. It has been compared to, and exhibited with, The Heart of the Andes by Frederic Edwin Church. Lander's Peak immediately became a critical and popular success and sold in 1865 for $25,000.</field>
+<field name="label">The Rocky Mountains, Lander's Peak</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/be/Bierstadt_LandersPeak_1863.jpg</field>
+<field name="comment">The Rocky Mountains, Lander's Peak is an 1863 landscape oil painting by the German-American painter Albert Bierstadt. It is based on sketches made during Bierstadt's travels with Frederick W. Lander's Honey Road Survey Party in 1859. The painting shows Lander's Peak in the Wyoming Range of the Rocky Mountains, with an encampment of Native Americans in the foreground. It has been compared to, and exhibited with, The Heart of the Andes by Frederic Edwin Church.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Bierstadt_LandersPeak_1863.jpg/200px-Bierstadt_LandersPeak_1863.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Albert_Bierstadt</field>
+<field name="city"/>
+<field name="height">186.7</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">The Rocky Mountains, Lander's Peak</field>
+<field name="width">306.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Rocky_Mountains,_Lander's_Peak</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Rocky_Mountains,_Lander's_Peak</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Rocky_Mountains,_Lander's_Peak</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Rocky_Mountains,_Lander's_Peak</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7761325</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Rocky_Mountains,_Lander's_Peak</field>
+</doc>
+</add>

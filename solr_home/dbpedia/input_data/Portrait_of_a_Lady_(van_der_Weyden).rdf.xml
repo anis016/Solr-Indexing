@@ -1,0 +1,116 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Lady_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Retrato_de_uma_Dama_(Van_der_Weyden)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2439462</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_una_dama_(Roger_van_der_Weyden)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bbtmwx</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_дамы_(ван_дер_Вейден)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_d'une_dame_(Rogier_van_der_Weyden)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_giovane_donna_(Rogier_van_der_Weyden)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/女性の肖像_(ファン・デル・ウェイデンの絵画)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Retrat_d'una_dama_(Van_der_Weyden)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Portret_damy_(Rogier_van_der_Weyden)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rogier_van_der_Weyden</field>
+<field name="abstract">Portrait of a Lady (or Portrait of a Woman) is a small oil-on-oak panel painting executed around 1460 by the Netherlandish painter Rogier van der Weyden. The composition is built from the geometric shapes that form the lines of the woman's veil, neckline, face and arms, and by the fall of the light that illuminates her face and headdress. The vivid contrasts of darkness and light enhance the almost unnatural beauty and Gothic elegance of the model. Van der Weyden was preoccupied by commissioned portraiture towards the end of his life and was highly regarded by later generations of painters for his penetrating evocations of character. In this work, the woman's humility and reserved demeanour are conveyed through her fragile physique, lowered eyes and tightly grasped fingers. She is slender and depicted according to the Gothic ideal of elongated features, indicated by her narrow shoulders, tightly pinned hair, long forehead and the elaborate frame set by the headdress. It is the only known portrait of a woman signed by van der Weyden, yet the sitter's name is not recorded and he did not title the work. Although van der Weyden did not adhere to the conventions of idealisation, he generally sought to flatter his sitters. He depicted his models in highly fashionable clothing, often with rounded—almost sculpted—facial features, some of which deviated from natural representation. He adapted his own aesthetic, and his portraits of women often bear a striking resemblance to each other. The painting has been held by the National Gallery of Art in Washington, D.C. since donated in 1937. It has been described as "famous among all portraits of women of all schools".</field>
+<field name="label">Portrait of a Lady (van der Weyden)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/36/Rogier_van_der_Weyden_Portrait_of_A_lady_C1460.jpg</field>
+<field name="comment">Portrait of a Lady (or Portrait of a Woman) is a small oil-on-oak panel painting executed around 1460 by the Netherlandish painter Rogier van der Weyden. The composition is built from the geometric shapes that form the lines of the woman's veil, neckline, face and arms, and by the fall of the light that illuminates her face and headdress. The vivid contrasts of darkness and light enhance the almost unnatural beauty and Gothic elegance of the model.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/36/Rogier_van_der_Weyden_Portrait_of_A_lady_C1460.jpg/200px-Rogier_van_der_Weyden_Portrait_of_A_lady_C1460.jpg</field>
+<field name="link_external">http://www.nga.gov/collection/gallery/gg39/gg39-51-none.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Lady_(van_der_Weyden)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_una_dama_(Roger_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_дамы_(ван_дер_Вейден)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/女性の肖像_(ファン・デル・ウェイデンの絵画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_d'une_dame_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Portret_damy_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_giovane_donna_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Lady_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Woman_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Woman_(Rogier_van_der_Weyden,_Washington)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Woman_c._1460</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_woman_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Retrato_de_uma_Dama_(Van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2439462</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Retrat_d'una_dama_(Van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Lady_(van_der_Weyden)</field>
+</doc>
+</add>

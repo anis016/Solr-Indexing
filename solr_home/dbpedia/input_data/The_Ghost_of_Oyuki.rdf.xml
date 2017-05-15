@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Ghost_of_Oyuki</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_Oyuki</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Ghost_of_Oyuki</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7736328</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gl1dc</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_fantasma_de_Oyuki</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1750_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ukiyo-e</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Japanese_legendary_creatures</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Japanese_folklore</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Japanese_ghosts</field>
+<field name="abstract">The Ghost of Oyuki is a painting of a female yūrei, (a traditional Japanese ghost), by Maruyama Okyo (1733–1795), founder of the Maruyama-Shijô school of painting. According to an inscription on the painting, Okyo had a mistress in the Tominaga Geisha house. She died young and Okyo mourned her death. One night her spirit came to him in a dream, and unable to get her image out of his head he painted this portrait. This is one of the earliest paintings of a yūrei (ghost) with the basic late-Edo period ghost characteristics: disheveled hair, white or pale blue robe, limp hands, nearly transparent, lack of lower body.</field>
+<field name="label">The Ghost of Oyuki</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6b/Oyuki.jpg</field>
+<field name="comment">The Ghost of Oyuki is a painting of a female yūrei, (a traditional Japanese ghost), by Maruyama Okyo (1733–1795), founder of the Maruyama-Shijô school of painting. According to an inscription on the painting, Okyo had a mistress in the Tominaga Geisha house. She died young and Okyo mourned her death. One night her spirit came to him in a dream, and unable to get her image out of his head he painted this portrait.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Oyuki.jpg/200px-Oyuki.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="imageSize">150</field>
+<field name="title">The Ghost of Oyuki</field>
+<field name="type">Ink on silk</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Ghost_of_Oyuki</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Ghost_of_Oyuki</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_fantasma_de_Oyuki</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_Oyuki</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Ghost_of_Oyuki</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Ghost_of_Oyuki</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7736328</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ghost_of_Oyuki</field>
+</doc>
+</add>

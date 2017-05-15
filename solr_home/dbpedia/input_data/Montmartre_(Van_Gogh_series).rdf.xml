@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Montmartre_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gttjjq</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Montmartre_(Van_Gogh_series)</field>
+<field name="sameAs">http://dbpedia.org/resource/Montmartre_(Van_Gogh_series)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6906074</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Series_of_Vincent_van_Gogh_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Paris</field>
+<field name="abstract">The Montmartre paintings are a group of works that Vincent van Gogh made in 1886 and 1887 of the Paris district of Montmartre while living there with his brother Theo. Rather than capture urban settings in Paris, Van Gogh preferred pastoral scenes, such as Montmartre and Asnières in the northwest suburbs. Of the two years in Paris, the work from 1886 often has the dark, somber tones of his early works from Holland and Brussels. By the spring of 1887 Van Gogh embraced use of color and light and created his own brushstroke techniques based upon Impressionism and Pointillism. The works in the series provide examples of his work during that period of time and the progression he made as an artist.</field>
+<field name="label">Montmartre (Van Gogh series)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f9/Vincent_Willem_van_Gogh_133.jpg</field>
+<field name="comment">The Montmartre paintings are a group of works that Vincent van Gogh made in 1886 and 1887 of the Paris district of Montmartre while living there with his brother Theo. Rather than capture urban settings in Paris, Van Gogh preferred pastoral scenes, such as Montmartre and Asnières in the northwest suburbs. Of the two years in Paris, the work from 1886 often has the dark, somber tones of his early works from Holland and Brussels.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Vincent_Willem_van_Gogh_133.jpg/200px-Vincent_Willem_van_Gogh_133.jpg</field>
+<field name="link_external">http://www.vangoghmuseum.nl/vgm/index.jsp?page=621&amp;lang=en</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Van_Gogh_Museum</field>
+<field name="title">Street Scene in Montmartre: Le Moulin a Poivre</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Montmartre_(Van_Gogh_series)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Montmartre_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Montmartre_(Van_Gogh_series)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Montmartre_(Van_Gogh_series)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6906074</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Montmartre_(Van_Gogh_series)</field>
+</doc>
+</add>

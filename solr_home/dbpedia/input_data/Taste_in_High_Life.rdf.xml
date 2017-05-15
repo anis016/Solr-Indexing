@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Taste_in_High_Life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Taste_in_High_Life</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Taste_in_High_Life</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Taste_in_High_Life</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04gm95z</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7687681</field>
+<field name="sameAs">http://dbpedia.org/resource/Taste_in_High_Life</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1742_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="abstract">Taste in High Life is an oil-on-canvas painting (engraving seen on the right) from around 1742, by William Hogarth. The version seen on the right was engraved by Samuel Phillips in 1798, under commission from John Boydell for a posthumous edition of Hogarth's works, but Phillips's final, third state was not published until 1808.</field>
+<field name="label">Taste in High Life</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ec/Taste_high_life.jpg</field>
+<field name="comment">Taste in High Life is an oil-on-canvas painting (engraving seen on the right) from around 1742, by William Hogarth. The version seen on the right was engraved by Samuel Phillips in 1798, under commission from John Boydell for a posthumous edition of Hogarth's works, but Phillips's final, third state was not published until 1808.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Taste_high_life.jpg/200px-Taste_high_life.jpg</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="height">63</field>
+<field name="image"/>
+<field name="title">Taste in High Life</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">75</field>
+<field name="year">c.1742</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Taste_in_High_Life</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Taste_in_High_Life</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7687681</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Taste_in_High_Life</field>
+</doc>
+</add>

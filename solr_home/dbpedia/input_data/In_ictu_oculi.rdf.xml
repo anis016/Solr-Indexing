@@ -1,0 +1,32 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/In_ictu_oculi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/In_ictu_oculi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/In_ictu_oculi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09v3sp1</field>
+<field name="sameAs">http://dbpedia.org/resource/In_ictu_oculi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6011579</field>
+<field name="sameAs">http://yago-knowledge.org/resource/In_ictu_oculi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Latin_words_and_phrases</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Spanish_paintings</field>
+<field name="abstract">The phrase in ictu oculi is a Latin expression meaning in the blink of an eye. One source is from the Bible, in 1 Corinthians 15:52: "In momento, in ictu oculi, in novissima tuba:", translated in the KJV as "In a moment, in the twinkling of an eye, at the last trump:", where the Latin is itself a translation of the original Koine Greek phrase ἐν ῥιπῇ ὀφθαλμοῦ (en rhipēi ophthalmou). The phrase was used by Henry of Huntingdon on the rapid submission to the coronation of Stephen of England in 1135: Sine mora, sine labore, quasi in ictu oculi. It also appears as part of the text to a motet by Antoine Busnois entitled "Gaude celestis Domina". The most notable use of the phrase in an English text is that by John Donne: which shall be found alive upon the earth, we say there shall be a sudden death, and a sudden resurrection; In raptu, in transitu, in ictu oculi. where Donne gives an English-Latin paraphrase on the original context in 1 Corinthians 15.</field>
+<field name="label">In ictu oculi</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/ca/In_ictu_oculi.jpg</field>
+<field name="comment">The phrase in ictu oculi is a Latin expression meaning in the blink of an eye. One source is from the Bible, in 1 Corinthians 15:52: "In momento, in ictu oculi, in novissima tuba:", translated in the KJV as "In a moment, in the twinkling of an eye, at the last trump:", where the Latin is itself a translation of the original Koine Greek phrase ἐν ῥιπῇ ὀφθαλμοῦ (en rhipēi ophthalmou).</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/In_ictu_oculi.jpg/200px-In_ictu_oculi.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/In_ictu_oculi</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/In_ictu_oculi</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6011579</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/In_ictu_oculi</field>
+</doc>
+</add>

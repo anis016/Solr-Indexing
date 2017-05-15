@@ -1,0 +1,31 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/August_Strindberg_paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/August_Strindberg_paintings</field>
+<field name="sameAs">http://dbpedia.org/resource/August_Strindberg_paintings</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h66sc4</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4820821</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_August_Strindberg</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_artist</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Swedish_paintings</field>
+<field name="abstract">This is a gallery of August Strindberg's paintings.</field>
+<field name="label">August Strindberg paintings</field>
+<field name="comment">This is a gallery of August Strindberg's paintings.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/August_Strindberg_paintings</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/August_Strindberg_paintings</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/August_Strindberg_paintings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/August_Strindberg_paintings</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4820821</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/August_Strindberg_paintings</field>
+</doc>
+</add>

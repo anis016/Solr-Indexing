@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_Nelson_(Maclise_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7729443</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Nelson_(Maclise_painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Death_of_Nelson_(Maclise_painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bs7zn8</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1860s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Daniel_Maclise</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horatio_Nelson</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Walker_Art_Gallery_Liverpool</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1805_in_Europe</field>
+<field name="abstract">The Death of Nelson is a wall painting in the Royal Gallery of the Palace of Westminster by the Irish artist Daniel Maclise. A finished study for it, in the form of a painting, is in the Walker Art Gallery in Liverpool, Merseyside.</field>
+<field name="label">The Death of Nelson (Maclise painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bd/Daniel_Maclise_-_The_Death_of_Nelson_-_Google_Art_Project.jpg</field>
+<field name="comment">The Death of Nelson is a wall painting in the Royal Gallery of the Palace of Westminster by the Irish artist Daniel Maclise. A finished study for it, in the form of a painting, is in the Walker Art Gallery in Liverpool, Merseyside.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Daniel_Maclise_-_The_Death_of_Nelson_-_Google_Art_Project.jpg/200px-Daniel_Maclise_-_The_Death_of_Nelson_-_Google_Art_Project.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Daniel_Maclise</field>
+<field name="city">http://dbpedia.org/resource/Liverpool</field>
+<field name="image"/>
+<field name="imageSize">400</field>
+<field name="museum">http://dbpedia.org/resource/Walker_Art_Gallery</field>
+<field name="title">The Death of Nelson</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Death_of_Nelson_(Maclise_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Death_of_Nelson_(Maclise_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Death_of_Nelson_(Maclise_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Death_of_Nelson_(Maclise_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7729443</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Nelson_(Maclise_painting)</field>
+</doc>
+</add>

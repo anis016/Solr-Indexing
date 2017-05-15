@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Detroit_Industry_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5265945</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03yb8bc</field>
+<field name="sameAs">http://dbpedia.org/resource/Detroit_Industry_Murals</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Detroit_Industry_Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="abstract">The Detroit Industry Murals are a series of frescoes by the Mexican artist Diego Rivera, consisting of twenty-seven panels depicting industry at the Ford Motor Company. Together they surround the Rivera Court in the Detroit Institute of Arts. Painted between 1932 and 1933, they were considered by Rivera to be his most successful work. The two main panels on the North and South walls depict laborers working at Ford Motor Company's River Rouge Plant. Other panels depict advances made in various scientific fields, such as medicine and new technology. The series of murals, taken as a whole, represents the idea that all actions and ideas are one.</field>
+<field name="label">Detroit Industry Murals</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c1/Rivera_detroit_industry_north.jpg</field>
+<field name="comment">The Detroit Industry Murals are a series of frescoes by the Mexican artist Diego Rivera, consisting of twenty-seven panels depicting industry at the Ford Motor Company. Together they surround the Rivera Court in the Detroit Institute of Arts. Painted between 1932 and 1933, they were considered by Rivera to be his most successful work. The two main panels on the North and South walls depict laborers working at Ford Motor Company's River Rouge Plant.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rivera_detroit_industry_north.jpg/200px-Rivera_detroit_industry_north.jpg</field>
+<field name="link_external">http://www.synthescape.com/rivera_court/</field>
+<field name="link_external">http://www.npr.org/templates/story/story.php?storyId=103337403</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Detroit_Industry_Murals</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Detroit_Industry_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Detroit_Industry</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Detroit_Industry_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Detroit_Industry_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5265945</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Detroit_Industry_Murals</field>
+</doc>
+</add>

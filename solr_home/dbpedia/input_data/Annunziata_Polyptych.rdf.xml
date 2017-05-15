@@ -1,0 +1,84 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Polyptyque_de_l'Annunziata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunziata_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Annunziata_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Annunziata_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunziata_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqnpr_</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Polittico_dell'Annunziata</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Annunziata_Polyptych</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Polyptyque_de_l'Annunziata</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3395801</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunziata_Polyptych</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippino_Lippi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1507_paintings</field>
+<field name="abstract">The Annunziata Polyptych is a painting cycle started by Filippino Lippi and finished by Pietro Perugino, whose central panel is now divided between the Galleria dell'Accademia (Deposition from the Cross) and the Basilica dell'Annunziata, both in Florence, Italy. The polyptych had other six panels, which are housed in the Lindenau-Museum of Altenburg, the Metropolitan Museum of New York, the Galleria Nazionale d'Arte Antica in Rome and in a private collection in South Africa.</field>
+<field name="label">Annunziata Polyptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/79/Pietro_Perugino_cat74a.jpg</field>
+<field name="comment">The Annunziata Polyptych is a painting cycle started by Filippino Lippi and finished by Pietro Perugino, whose central panel is now divided between the Galleria dell'Accademia (Deposition from the Cross) and the Basilica dell'Annunziata, both in Florence, Italy. The polyptych had other six panels, which are housed in the Lindenau-Museum of Altenburg, the Metropolitan Museum of New York, the Galleria Nazionale d'Arte Antica in Rome and in a private collection in South Africa.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Pietro_Perugino_cat74a.jpg/200px-Pietro_Perugino_cat74a.jpg</field>
+<field name="link_external">http://www.artic.edu/aic/collections/artwork/16197?search_id=1</field>
+<field name="link_external">http://www.artic.edu/aic/collections/artwork/16205?search_id=1</field>
+<field name="link_external">http://www.artic.edu/aic/collections/artwork/16207?search_id=1</field>
+<field name="link_external">http://www.polomuseale.firenze.it/catalogo/scheda.asp?nctn=00160657&amp;value=1</field>
+<field name="link_external">http://www.metmuseum.org/works_of_art/collection_database/european_paintings/saint_john_the_baptist_saint_lucy_perugino_pietro_di_cristoforo_vannucci/objectview.aspx?collID=11&amp;OID=110001721</field>
+<field name="link_external">http://www.metmuseum.org/works_of_art/collection_database/european_paintings/the_resurrection_perugino_pietro_di_cristoforo_vannucci/objectview.aspx?collID=11&amp;OID=110001720</field>
+<field name="link_external">http://www.artic.edu/aic/collections/artwork/16200?search_id=1</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Florence</field>
+<field name="height">334</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum">http://dbpedia.org/resource/Santissima_Annunziata,_Florence</field>
+<field name="title">Annunziata Polyptych - Deposition from the Cross</field>
+<field name="type">Oil on panel</field>
+<field name="width">225</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Annunziata_Polyptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Annunziata_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Polittico_dell'Annunziata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunziata_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunziata_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_(Annunziata)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_(Filippino_Lippi)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Polittico_dell'Annunziata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3395801</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunziata_Polyptych</field>
+</doc>
+</add>

@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hogarth_Painting_the_Comic_Muse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hogarth_Painting_the_Comic_Muse</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5877124</field>
+<field name="sameAs">http://dbpedia.org/resource/Hogarth_Painting_the_Comic_Muse</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04f2czv</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="abstract">Hogarth Painting the Comic Muse (originally known as The Artist Painting the Comic Muse) is a painting in the National Portrait Gallery, London by the British artist William Hogarth. It was painted in approximately 1757 and published as a print in etching and engraving in 1758, with its final and sixth state in 1764. Hogarth used this particular self-portrait as the frontispiece of his collected engravings, published in 1764. The painting depicts Hogarth himself painting the Muse of Comedy, which represented artistic inspiration. Hogarth's decision to paint this particular figure may relate to his artistic motto: "my picture was my stage and men and women my actors", as the Comic Muse was said to provide inspiration for playwrights. Seated in front of his easel, palette in hand, Hogarth eagerly works at his painting; Hogarth expressly wanted a self-portrait in which he was depicted in the middle of painting a piece, rather than in a static pose. Leaning against the right leg of the easel is Hogarth's The Analysis of Beauty, a text which was written to complement this particular piece. X-ray analysis shows that the painting originally had a small dog relieving himself on a pile of old master paintings. The print of Hogarth Painting the Comic Muse went through several alterations mostly relating to the inscription at the bottom of the page. In the second state, the inscription read: "W Hogarth Sergeant Painter to His Majesty. The Face Engrav'd by W Hogarth and Publish'd as the Act directs". The third state omits "and", while adding "March 29, 1758" to the end. The fourth state omits "The Face Engrav'd by W Hogarth". In the fifth state, "Sergeant Painter" is scratched out, while changes have now also been made to the engraving itself; the Muse's face is now marked with black and on the pillar she stands beside is inscribed "Comedy 1764". The, which is depicted on the right, has nothing inscribed on it but "William Hogarth, 1764" on the bottom. Through this engraving, the early Georgian elbow chair in which Hogarth is shown sitting gave rise in the late nineteenth century to the collectors' and dealers' designation of "Hogarth chair" for similar bended-back elbow chairs with vase-shaped splats, slip seats (upholstered over a drop-in frame) and cabriole legs on pad feet. Such chairs from the American colonies are designated "Queen Anne chairs", perpetuating an early error in dating them.</field>
+<field name="label">Hogarth Painting the Comic Muse</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3d/William_Hogarth_-_Self_portrait,_paiting_Comedy.png</field>
+<field name="comment">Hogarth Painting the Comic Muse (originally known as The Artist Painting the Comic Muse) is a painting in the National Portrait Gallery, London by the British artist William Hogarth. It was painted in approximately 1757 and published as a print in etching and engraving in 1758, with its final and sixth state in 1764. Hogarth used this particular self-portrait as the frontispiece of his collected engravings, published in 1764.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/William_Hogarth_-_Self_portrait,_paiting_Comedy.png/200px-William_Hogarth_-_Self_portrait,_paiting_Comedy.png</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="height">44.8</field>
+<field name="image"/>
+<field name="title">Hogarth Painting the Comic Muse</field>
+<field name="type">Etching and engraving</field>
+<field name="width">39.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hogarth_Painting_the_Comic_Muse</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hogarth_Painting_the_Comic_Muse</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hogarth_Painting_the_Comic_Muse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hogarth_Painting_the_Comic_Muse</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hogarth_chair</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Artist_Painting_the_Comic_Muse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5877124</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hogarth_Painting_the_Comic_Muse</field>
+</doc>
+</add>

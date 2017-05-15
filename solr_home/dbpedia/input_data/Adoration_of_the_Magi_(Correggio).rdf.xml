@@ -1,0 +1,55 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_dei_Magi_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Adoration_of_the_Magi_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Magi_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3605527</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Correggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_dei_Magi_(Correggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Magi_(Correggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h692_f</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Correggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1510s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Pinacoteca_di_Brera</field>
+<field name="abstract">The Adoration of the Magi is a painting by the Italian late Renaissance painter Correggio, executed around 1515-1518. It is housed in the Pinacoteca di Brera of Milan, Italy.</field>
+<field name="label">Adoration of the Magi (Correggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2f/Correggio,_adorazione_dei_magi,_brera.jpg</field>
+<field name="comment">The Adoration of the Magi is a painting by the Italian late Renaissance painter Correggio, executed around 1515-1518. It is housed in the Pinacoteca di Brera of Milan, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Correggio,_adorazione_dei_magi,_brera.jpg/200px-Correggio,_adorazione_dei_magi,_brera.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Antonio_da_Correggio</field>
+<field name="city">http://dbpedia.org/resource/Milan</field>
+<field name="height">84</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Pinacoteca_di_Brera</field>
+<field name="title">Adoration of the Magi</field>
+<field name="width">108</field>
+<field name="year">c. 1515-158</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Correggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Magi_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Correggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Magi_(Correggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3605527</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Correggio)</field>
+</doc>
+</add>

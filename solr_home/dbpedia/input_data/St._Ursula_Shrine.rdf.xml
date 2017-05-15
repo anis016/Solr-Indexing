@@ -1,0 +1,91 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Reliquiario_di_sant'Orsola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Ursula_Shrine</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Ursula_Shrine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Reliquiari_de_Santa_Úrsula</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Ursula_Shrine</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2628587</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Reliquiario_di_sant'Orsola</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvr3h6</field>
+<field name="sameAs">http://yago-knowledge.org/resource/St._Ursula_Shrine</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Arqueta_de_Santa_Úrsula</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Ursulaschrijn</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Relikwiarz_świętej_Urszuli</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Châsse_de_sainte_Ursule</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Reliquaries</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1489_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Bruges</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hans_Memling</field>
+<field name="abstract">The Shrine of St. Ursula is a carved and gilded wooden reliquary containing oil on panel inserts (87x33x91 cm) by Hans Memling. Dating to c. 1489, is housed in the Hans Memling Museum of Bruges. The work was commissioned by the Hospital of St. John, the current museum's seat. Differently from other works by Memling, such as the Triptych of the Mystical Marriage of St. Catherine or the Florens Triptych, it is neither signed nor dated. It was a container for Saint Ursula's relics which was shown publicly only in her feast day. The relics were solemnly put in the shrine on 21 November 1489.</field>
+<field name="label">St. Ursula Shrine</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/bc/Hans_Memling_072.jpg</field>
+<field name="comment">The Shrine of St. Ursula is a carved and gilded wooden reliquary containing oil on panel inserts (87x33x91 cm) by Hans Memling. Dating to c. 1489, is housed in the Hans Memling Museum of Bruges. The work was commissioned by the Hospital of St. John, the current museum's seat. Differently from other works by Memling, such as the Triptych of the Mystical Marriage of St. Catherine or the Florens Triptych, it is neither signed nor dated.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/Hans_Memling_072.jpg/200px-Hans_Memling_072.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/St._Ursula_Shrine</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/St._Ursula_Shrine</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/St._Ursula_Shrine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/St._Ursula_Shrine</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Relikwiarz_świętej_Urszuli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Ursula_Shrine</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shrine_of_St._Ursula</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Shrine_of_St_Ursula</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St_Ursula_Shrine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Arqueta_de_Santa_Úrsula</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Ursula_Shrine</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Châsse_de_sainte_Ursule</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Ursula_Shrine</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Ursulaschrijn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Ursula_Shrine</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2628587</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Ursula_Shrine</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Reliquiari_de_Santa_Úrsula</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/St._Ursula_Shrine</field>
+</doc>
+</add>

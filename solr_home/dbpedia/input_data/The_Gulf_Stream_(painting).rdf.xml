@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Gulf_Stream_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Gulf_Stream_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7738501</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gulf_Stream_(painting)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Гольфстрім_(картина)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d_n3n</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Gulf_Stream_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Winslow_Homer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1899_paintings</field>
+<field name="abstract">The Gulf Stream is an 1899 oil painting by Winslow Homer. It shows a man in a small rudderless fishing boat struggling against the waves of the sea, and was the artist's last statement on a theme that had interested him for more than a decade. Homer vacationed often in Florida, Cuba, and the Caribbean.</field>
+<field name="label">The Gulf Stream (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d3/Winslow_Homer_004.jpg</field>
+<field name="comment">The Gulf Stream is an 1899 oil painting by Winslow Homer. It shows a man in a small rudderless fishing boat struggling against the waves of the sea, and was the artist's last statement on a theme that had interested him for more than a decade. Homer vacationed often in Florida, Cuba, and the Caribbean.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/Winslow_Homer_004.jpg/200px-Winslow_Homer_004.jpg</field>
+<field name="link_external">http://www.dlt.ncssm.edu/lmtm/docs/gulfstream/script.doc</field>
+<field name="link_external">http://www.aestheticrealism.net/homer-dr.htm</field>
+<field name="link_external">http://www.metmuseum.org/works_of_art/collection_database/all/the_gulf_stream_winslow_homer/objectview.aspx?page=1&amp;sort=0&amp;sortdir=asc&amp;keyword=winslow%20homer&amp;fp=1&amp;dd1=0&amp;dd2=0&amp;vw=1&amp;collID=0&amp;OID=20011479&amp;vT=1&amp;hi=0&amp;ov=0</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Gulf_Stream_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Gulf_Stream_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Gulf_Stream_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Gulf_Stream_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7738501</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gulf_Stream_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Гольфстрім_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Gulf_Stream_(painting)</field>
+</doc>
+</add>

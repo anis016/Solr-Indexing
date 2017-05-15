@@ -1,0 +1,96 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_dux_Leonardo_Loredan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_del_doge_Leonardo_Loredan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Leonardo_Loredan_(Bellini)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_dux_Leonardo_Loredan</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rz0dr</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_dux_Leonardo_Loredan</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_del_doge_Leonardo_Loredan</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1759759</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Poltred_an_Doge_Leonardo_Loredan</field>
+<field name="sameAs">http://he.dbpedia.org/resource/דיוקן_הדוג'ה_לאונרדו_לורדאן</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1501_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giovanni_Bellini</field>
+<field name="abstract">The Portrait of Doge Leonardo Loredan is a painting by the Italian Renaissance master Giovanni Bellini, dating from 1501. It is on display in the National Gallery in London. It portrays Leonardo Loredan, Doge of Venice from 1501 to 1521, in his ceremonial garments with the corno worn over a linen cap. Signed on a cartellino: IOANNES BELLINVS. Leonardo Loredan was the Doge of Venice from 1501-21. He is shown here wearing his robes of state for this formal portrait. The hat and ornate buttons are part of the official wardrobe. The sitter can be identified as Doge Loredan by comparing his features with portrait medals of him. The shape of the hat comes from the hood of a doublet. It is called a 'corno' and was worn over a linen cap. Venice had a tradition of painting formal portraits of its rulers dressed in state robes. This work is painted in the style of the sculpted portrait busts popular at the time. These were often inspired by Roman sculpture. Bellini signed his name in its Latin form on the cartellino, or 'small paper', on the parapet. He was famous for his portraiture and helped make this art form especially popular in Venice.</field>
+<field name="label">Portrait of Doge Leonardo Loredan</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6b/Giovanni_Bellini,_portrait_of_Doge_Leonardo_Loredan.jpg</field>
+<field name="comment">The Portrait of Doge Leonardo Loredan is a painting by the Italian Renaissance master Giovanni Bellini, dating from 1501. It is on display in the National Gallery in London. It portrays Leonardo Loredan, Doge of Venice from 1501 to 1521, in his ceremonial garments with the corno worn over a linen cap. Signed on a cartellino: IOANNES BELLINVS. Leonardo Loredan was the Doge of Venice from 1501-21. He is shown here wearing his robes of state for this formal portrait.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Giovanni_Bellini,_portrait_of_Doge_Leonardo_Loredan.jpg/200px-Giovanni_Bellini,_portrait_of_Doge_Leonardo_Loredan.jpg</field>
+<field name="link_external">http://www.artble.com/artists/giovanni_bellini/paintings/doge_leonardo_loredan</field>
+<field name="artist">http://dbpedia.org/resource/Giovanni_Bellini</field>
+<field name="height">61.6</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Portrait of Doge Leonardo Loredan</field>
+<field name="type">Oil on panel</field>
+<field name="width">45.1</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Doge_Leonardo_Loredan</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Doge_Leonardo_Loredan</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Doge_Leonardo_Loredan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Leonardo_Loredan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_doge_leonardo_loredan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Leonardo_Loredan_(Bellini)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1759759</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Poltred_an_Doge_Leonardo_Loredan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_dux_Leonardo_Loredan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/דיוקן_הדוג'ה_לאונרדו_לורדאן</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Doge_Leonardo_Loredan</field>
+</doc>
+</add>

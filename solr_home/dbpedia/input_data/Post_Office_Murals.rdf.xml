@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Post_Office_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ds1j1j</field>
+<field name="sameAs">http://dbpedia.org/resource/Post_Office_Murals</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7233689</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Post_Office_Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_in_Arkansas</field>
+<field name="abstract">The term post office murals is generally used in referring to a series of murals in U.S. post offices commissioned by the Section of Painting and Sculpture of the U.S. Treasury Department during the years 1934-1943. They are examples of New Deal art.</field>
+<field name="label">Post Office Murals</field>
+<field name="comment">The term post office murals is generally used in referring to a series of murals in U.S. post offices commissioned by the Section of Painting and Sculpture of the U.S. Treasury Department during the years 1934-1943. They are examples of New Deal art.</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_berryville.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_clarendon.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_mural_monticello.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_clarksville.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_springdale.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_piggott.php</field>
+<field name="link_external">http://www.usps.com/postalhistory/_pdf/NewDeal.pdf</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_mural_morrilton.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_de_witt.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_nashville.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_wynne.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_benton.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_lake_village.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_magnolia.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_osceola.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_paris.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_van_buren.php</field>
+<field name="link_external">http://www.nationalregisterofhistoricplaces.com/AR/Cross/state.html</field>
+<field name="link_external">http://www.nationalregisterofhistoricplaces.com/AR/Randolph/state.html</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_dardanelle.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_de_queen.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_heber_springs.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_pocahontas.php</field>
+<field name="link_external">http://www.uca.edu/art/postofficemurals/po_murals_siloam_springs.php</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Post_Office_Murals</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Post_Office_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Post_Office_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Post_Office_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Arkansas_Post_Office_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7233689</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Post_Office_Murals</field>
+</doc>
+</add>

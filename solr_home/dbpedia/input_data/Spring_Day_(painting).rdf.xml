@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Spring_Day_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spring_Day_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gyvlv1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7580482</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Spring_Day_(painting)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Día_de_primavera_(Pozdneev)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Nikolai_Pozdneev</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Russian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1959_paintings</field>
+<field name="abstract">Spring Day is a painting by the well-known Russian artist Nikolai Matveevich Pozdneev (1930–1978). It attempts to convey the mood of Soviet society of the late 1950s to the early 1960s.</field>
+<field name="label">Spring Day (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1b/Pozdneev-Sday-per20bw.jpg</field>
+<field name="comment">Spring Day is a painting by the well-known Russian artist Nikolai Matveevich Pozdneev (1930–1978). It attempts to convey the mood of Soviet society of the late 1950s to the early 1960s.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Pozdneev-Sday-per20bw.jpg/200px-Pozdneev-Sday-per20bw.jpg</field>
+<field name="link_external">http://www.leningradartist.com/per20b.jpg</field>
+<field name="link_external">http://www.leningradartist.com</field>
+<field name="link_external">http://www.leningradartist.com/bo62b.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Nikolai_Pozdneev</field>
+<field name="city">http://dbpedia.org/resource/Saint_Petersburg</field>
+<field name="height">130</field>
+<field name="image"/>
+<field name="imageSize">280</field>
+<field name="museum">http://dbpedia.org/resource/Private_collection</field>
+<field name="title">Spring Day</field>
+<field name="width">94</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Spring_Day_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Spring_Day_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Día_de_primavera_(Pozdneev)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spring_Day_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Spring_Day_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Spring_Day_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7580482</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Spring_Day_(painting)</field>
+</doc>
+</add>

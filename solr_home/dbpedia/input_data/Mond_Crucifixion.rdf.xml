@@ -1,0 +1,102 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Crocifissione_Gavari</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mond_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Crucifixion_Mond</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mond_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Crucifixión_Mond</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mond_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mond_Crucifixion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mond_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mond_Crucifixion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q598913</field>
+<field name="sameAs">http://dbpedia.org/resource/Mond_Crucifixion</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Распятие_с_Девой_Марией,_святыми_и_ангелами</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.025z19v</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Crucifixión_Mond</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Crocifissione_Gavari</field>
+<field name="sameAs">http://th.dbpedia.org/resource/การตรึงกางเขนมอนด์_(ราฟาเอล)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Розп'яття_Гаварі</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ukrzyżowanie_(obraz_Rafaela)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Mondun_çarmıxa_çəkilməsi</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Crucifixion_Mond</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mond_Crucifixion</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crucifixion_of_Jesus_in_art</field>
+<field name="abstract">The Mond Crucifixion (or Crocifissione Gavari; both names are after former owners) is a painting by the Italian renaissance artist Raphael. An early work influenced by Perugino, it was originally an altarpiece in the church of San Domenico in Città di Castello, near Raphael's hometown of Urbino. The painting shows Jesus on the cross, who is looking peaceful even though he is dying. There are two angels catching his blood in chalices. On Jesus' left kneels Mary Magdalene, with John the Evangelist standing behind her. On his right Mary (mother of Jesus) stands, and St. Jerome, to whom the altar was dedicated, is kneeling. At the foot of the cross is the inscription ("Raphael of Urbino painted this") in silver letters. The painting was bequeathed to the National Gallery by Ludwig Mond.</field>
+<field name="label">Mond Crucifixion</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/18/CrocefissioneRaffaello.jpg</field>
+<field name="comment">The Mond Crucifixion (or Crocifissione Gavari; both names are after former owners) is a painting by the Italian renaissance artist Raphael. An early work influenced by Perugino, it was originally an altarpiece in the church of San Domenico in Città di Castello, near Raphael's hometown of Urbino. The painting shows Jesus on the cross, who is looking peaceful even though he is dying. There are two angels catching his blood in chalices.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/CrocefissioneRaffaello.jpg/200px-CrocefissioneRaffaello.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">283.3</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">Crucifixion with the Virgin, Saints and Angels</field>
+<field name="width">167.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mond_Crucifixion</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mond_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ukrzyżowanie_(obraz_Rafaela)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mond_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Mond_Crucifixion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Распятие_с_Девой_Марией,_святыми_и_ангелами</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mond_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q598913</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mond_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Mondun_çarmıxa_çəkilməsi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mond_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/การตรึงกางเขนมอนด์_(ราฟาเอล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mond_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Розп'яття_Гаварі</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mond_Crucifixion</field>
+</doc>
+</add>

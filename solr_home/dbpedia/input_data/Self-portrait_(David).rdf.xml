@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self-portrait_(David)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self-portrait_(David)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-portrait_(David)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_(David)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gk_zqz</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Autoportret_(Jacques-Louis_David)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2872714</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Autoportrait_(David)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self-portrait_(David)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1794_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Jacques-Louis_David_portraits</field>
+<field name="abstract">The Self-portrait is a self-portrait painted by the artist Jacques-Louis David in 1794 whilst in prison at the hôtel des fermes for having supported the robespierristes. It was his third and last self-portrait - the second was the 1791 Aux trois collets. He gave it to his former student Jean-Baptiste Isabey and it then entered the collections of the Louvre in 1852 (inv. 3705).</field>
+<field name="label">Self-portrait (David)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c6/David_Self_Portrait.jpg</field>
+<field name="comment">The Self-portrait is a self-portrait painted by the artist Jacques-Louis David in 1794 whilst in prison at the hôtel des fermes for having supported the robespierristes. It was his third and last self-portrait - the second was the 1791 Aux trois collets. He gave it to his former student Jean-Baptiste Isabey and it then entered the collections of the Louvre in 1852 (inv. 3705).</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/David_Self_Portrait.jpg/200px-David_Self_Portrait.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self-portrait_(David)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self-portrait_(David)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Autoportrait_(David)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_(David)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2872714</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_(David)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Autoportret_(Jacques-Louis_David)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_(David)</field>
+</doc>
+</add>

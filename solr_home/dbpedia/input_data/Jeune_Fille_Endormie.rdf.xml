@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Jeune_Fille_Endormie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx1fdr</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Jeune_Fille_Endormie</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6189295</field>
+<field name="sameAs">http://dbpedia.org/resource/Jeune_Fille_Endormie</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1935_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="abstract">Jeune Fille Endormie is a 1935 work by Spanish painter Pablo Picasso. Rarely seen by the public, it was sold at Christie's auction house in London in 2011 for nearly £13.5 million after being donated to the University of Sydney by an anonymous American dono.</field>
+<field name="label">Jeune Fille Endormie</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/99/Jeune_fille_endormie.JPEG</field>
+<field name="comment">Jeune Fille Endormie is a 1935 work by Spanish painter Pablo Picasso. Rarely seen by the public, it was sold at Christie's auction house in London in 2011 for nearly £13.5 million after being donated to the University of Sydney by an anonymous American dono.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Jeune_fille_endormie.JPEG/200px-Jeune_fille_endormie.JPEG</field>
+<field name="artist">http://dbpedia.org/resource/Pablo_Picasso</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="title">Jeune Fille Endormie</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Jeune_Fille_Endormie</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Jeune_Fille_Endormie</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Jeune_Fille_Endormie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Jeune_Fille_Endormie</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6189295</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Jeune_Fille_Endormie</field>
+</doc>
+</add>

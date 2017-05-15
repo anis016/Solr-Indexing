@@ -1,0 +1,106 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Mort_de_la_Vierge_(Le_Caravage)</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Virginis_mors_(Caravaggius)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Śmierć_Marii_(obraz_Caravaggia)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q597114</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Smrť_Panny_Márie_(Caravaggio)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/มรณกรรมของพระนางพรหมจารี_(การาวัจโจ)</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_Mort_de_la_Mare_de_Déu</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Morte_della_Vergine_(Caravaggio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08dk1q</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Muerte_de_la_Virgen_(Caravaggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Virgin_Mary</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="abstract">The Death of the Virgin (1606) is a painting completed by the Italian Baroque master Caravaggio. It is a near contemporary with Caravaggio's Madonna with Saint Anne now at the Galleria Borghese.</field>
+<field name="label">Death of the Virgin (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c5/Michelangelo_Caravaggio_069.jpg</field>
+<field name="comment">The Death of the Virgin (1606) is a painting completed by the Italian Baroque master Caravaggio. It is a near contemporary with Caravaggio's Madonna with Saint Anne now at the Galleria Borghese.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Michelangelo_Caravaggio_069.jpg/200px-Michelangelo_Caravaggio_069.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/caravaggios-death-of-the-virgin.html</field>
+<field name="artist">http://dbpedia.org/resource/Caravaggio</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">369</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Death of the Virgin</field>
+<field name="width">245</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Muerte_de_la_Virgen_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Mort_de_la_Vierge_(Le_Caravage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Morte_della_Vergine_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Death_of_the_Virgin_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Śmierć_Marii_(obraz_Caravaggia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_the_Virgin_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q597114</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_Mort_de_la_Mare_de_Déu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Virginis_mors_(Caravaggius)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Smrť_Panny_Márie_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/มรณกรรมของพระนางพรหมจารี_(การาวัจโจ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Death_of_the_Virgin_(Caravaggio)</field>
+</doc>
+</add>

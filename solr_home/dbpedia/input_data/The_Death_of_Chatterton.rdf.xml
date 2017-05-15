@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Death_of_Chatterton</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Death_of_Chatterton</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_Chatterton</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7729421</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Death_of_Chatterton</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h63zd1</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Chatterton</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1856_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Birmingham_Museum_and_Art_Gallery</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henry_Wallis</field>
+<field name="abstract">The Death of Chatterton is an oil painting on canvas by the English Pre-Raphaelite painter Henry Wallis, now in Tate Britain, London. Two smaller versions, sketches or replicas, are held by the Birmingham Museum and Art Gallery and the Yale Center for British Art. The Tate painting measures 62.2 centimetres by 93.3 centimetres, and was completed in 1856.</field>
+<field name="label">The Death of Chatterton</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d0/Henry_Wallis_-_Chatterton_-_Google_Art_Project.jpg</field>
+<field name="comment">The Death of Chatterton is an oil painting on canvas by the English Pre-Raphaelite painter Henry Wallis, now in Tate Britain, London. Two smaller versions, sketches or replicas, are held by the Birmingham Museum and Art Gallery and the Yale Center for British Art. The Tate painting measures 62.2 centimetres by 93.3 centimetres, and was completed in 1856.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/Henry_Wallis_-_Chatterton_-_Google_Art_Project.jpg/200px-Henry_Wallis_-_Chatterton_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/wallis-chatterton.html</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Death_of_Chatterton</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Death_of_Chatterton</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7729421</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Chatterton</field>
+</doc>
+</add>

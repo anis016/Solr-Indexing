@@ -1,0 +1,228 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_Tod_des_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_muerte_de_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Mort_de_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Śmierć_Marata</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Смерть_Марата</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://he.dbpedia.org/resource/מות_מארה</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_muerte_de_Marat</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_morte_di_Marat</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Maratova_smrť</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Death_of_Marat</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Смерть_Марата</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Mort_de_Marat</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q636537</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_mort_de_Marat</field>
+<field name="sameAs">http://et.dbpedia.org/resource/Marat'_surm</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Moartea_lui_Marat</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ο_θάνατος_του_Μαρά_(Ζακ-Λουί_Νταβίντ)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Marat_assassinado</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Mrtvi_Marat</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/مرگ_مارا</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Marats_död</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_dood_van_Marat</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Śmierć_Marata</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Maraten_heriotza</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/მარატის_სიკვდილი</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0db6rm</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_Tod_des_Marat</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/La_morto_de_Marat</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Mors_Marat</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1793_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1793_events_of_the_French_Revolution</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jacques-Louis_David</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="abstract">The Death of Marat (French: La Mort de Marat or Marat Assassiné) is a painting by Jacques-Louis David of the murdered French revolutionary leader Jean-Paul Marat. It is one of the most famous images of the Revolution. David was the leading French painter, as well as a Montagnard and a member of the revolutionary Committee of General Security. The painting shows the radical journalist lying dead in his bath on 13 July 1793 after his murder by Charlotte Corday. Painted in the months after Marat's murder, it has been described by T. J. Clark as the first modernist painting, for "the way it took the stuff of politics as its material, and did not transmute it".</field>
+<field name="label">The Death of Marat</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/aa/Death_of_Marat_by_David.jpg</field>
+<field name="comment">The Death of Marat (French: La Mort de Marat or Marat Assassiné) is a painting by Jacques-Louis David of the murdered French revolutionary leader Jean-Paul Marat. It is one of the most famous images of the Revolution. David was the leading French painter, as well as a Montagnard and a member of the revolutionary Committee of General Security. The painting shows the radical journalist lying dead in his bath on 13 July 1793 after his murder by Charlotte Corday.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Death_of_Marat_by_David.jpg/200px-Death_of_Marat_by_David.jpg</field>
+<field name="link_external">http://steadyoffload.com:8080/VC5FDN6M8S.aHR0cDovL21vc2Nhc3VsY2FwcGVsbG8uY29tL3dwLWNvbnRlbnQvdXBsb2Fkcy8yMDA4LzA2L21hcmF0LWFzc2Fzc2luYXRvLnBkZg==....</field>
+<field name="link_external">http://www.e-torricelli.it/pmm/marat/michelangelo.html</field>
+<field name="link_external">http://www.revolution-francaise.net/2006/11/10/83-configurer-un-evenement-la-mort-de-marat</field>
+<field name="artist"/>
+<field name="height">165</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="title">La Mort de Marat</field>
+<field name="type">oil on canvas</field>
+<field name="width">128</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Death_of_Marat</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Death_of_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_morte_di_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ο_θάνατος_του_Μαρά_(Ζακ-Λουί_Νταβίντ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Marat_assassinado</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_Of_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Death_of_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Mort_de_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_death_of_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_murder_of_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_dood_van_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Maraten_heriotza</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Marat_assassine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q636537</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_mort_de_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/La_morto_de_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://et.dbpedia.org/resource/Marat'_surm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/مرگ_مارا</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/מות_מארה</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Mrtvi_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/მარატის_სიკვდილი</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Mors_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Moartea_lui_Marat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Maratova_smrť</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Marats_död</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Marat</field>
+</doc>
+</add>

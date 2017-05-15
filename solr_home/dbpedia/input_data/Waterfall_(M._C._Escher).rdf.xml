@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Водопад_(литография)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/M._C._Escher</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Waterfall_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Водоспад_(Ешер)</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Vattenfall_(M.C._Escher)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Waterfall_(M._C._Escher)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Водопад_(литография)</field>
+<field name="sameAs">http://dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2635126</field>
+<field name="sameAs">http://he.dbpedia.org/resource/מפל_מים_(אשר)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03wl6t</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1961_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Impossible_objects</field>
+<field name="abstract">Waterfall (Waterval) is a lithograph print by the Dutch artist M. C. Escher which was first printed in October, 1961. It shows an apparent paradox where water from the base of a waterfall appears to run downhill along the water path before reaching the top of the waterfall. While most two-dimensional artists use relative proportions to create an illusion of depth, Escher here and elsewhere uses conflicting proportions to create a visual paradox. The waterfall's leat has the structure of two Penrose triangles. A Penrose triangle is an impossible object designed by Lionel Penrose and his son Roger Penrose, and (independently) by Oscar Reutersvärd.</field>
+<field name="label">Waterfall (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e8/Escher_Waterfall.jpg</field>
+<field name="comment">Waterfall (Waterval) is a lithograph print by the Dutch artist M. C. Escher which was first printed in October, 1961. It shows an apparent paradox where water from the base of a waterfall appears to run downhill along the water path before reaching the top of the waterfall. While most two-dimensional artists use relative proportions to create an illusion of depth, Escher here and elsewhere uses conflicting proportions to create a visual paradox.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Escher_Waterfall.jpg/200px-Escher_Waterfall.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Waterfall</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Waterfall_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Waterfall_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Waterfall_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Escher's_waterfall</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2635126</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/מפל_מים_(אשר)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Vattenfall_(M.C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Водоспад_(Ешер)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Waterfall_(M._C._Escher)</field>
+</doc>
+</add>

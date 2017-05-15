@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Desco_da_parto_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3705918</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Natividad_(Masaccio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Desco_da_parto_(Masaccio)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08n39p</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Desco_da_parto_(Masaccio)</field>
+<field name="sameAs">http://dbpedia.org/resource/Desco_da_parto_(Masaccio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Masaccio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1428_paintings</field>
+<field name="abstract">This painting, also known as the Berlin Tondo, is a desco da parto, or birthing-tray painted by the Italian Renaissance artist Masaccio, c. 1427–1428, though the work is regarded as from his workshop or by a "follower" by many recent scholars. While the birth of Jesus, and that of his mother, were very common scenes in religious art, and often used contemporary settings and costumes, actual depictions of a contemporary childbirth were very rare.</field>
+<field name="label">Desco da parto (Masaccio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/56/Masaccio_002.jpg</field>
+<field name="comment">This painting, also known as the Berlin Tondo, is a desco da parto, or birthing-tray painted by the Italian Renaissance artist Masaccio, c. 1427–1428, though the work is regarded as from his workshop or by a "follower" by many recent scholars. While the birth of Jesus, and that of his mother, were very common scenes in religious art, and often used contemporary settings and costumes, actual depictions of a contemporary childbirth were very rare.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Masaccio_002.jpg/200px-Masaccio_002.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="title">Nativity</field>
+<field name="type">Tempera on wood</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Desco_da_parto_(Masaccio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Desco_da_parto_(Masaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Desco_da_parto_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Desco_da_parto_(Masaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Natividad_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Desco_da_parto_(Masaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Desco_da_parto_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Desco_da_parto_(Masaccio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nativity_(Masaccio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3705918</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Desco_da_parto_(Masaccio)</field>
+</doc>
+</add>

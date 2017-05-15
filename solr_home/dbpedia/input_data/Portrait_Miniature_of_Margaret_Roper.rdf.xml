@@ -1,0 +1,40 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_Miniature_of_Margaret_Roper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.063zb_4</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232242</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_Miniature_of_Margaret_Roper</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_Miniature_of_Margaret_Roper</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1530s_paintings</field>
+<field name="abstract">Portrait Miniature of Margaret Roper is a painting by the German artist and printmaker Hans Holbein the Younger created between 1535–36, and today held in the Metropolitan Museum of Art in New York. Margaret Roper (1505–44) was the eldest child of Sir Thomas More and wife of the English biographer William Roper. It is the second and less well known of two portraits of Roper painted by Holbein. The first, Portrait of an English Woman, is generally believed to show Roper but may depict another unknown lady of the English court. The New York work was painted during the artist's second visit to London, likely in the mid-1530s. It is believed that the work was created shortly after her father's beheading at the hands of King Henry VIII in 1535. With a diameter of just 1+⁄4 inches, the work was one of over a hundred miniatures and portraits painted by Holbein while in England. This work is one of a pair of pendants; the second depicts the sitter's husband. Roper is depicted in three-quarters view with a narrow face and wearing extravagant clothes that reflect her social position. She has a long veil crowned by a red/orange headdress. Her black gown is lined with a broad band of fur. She holds a green book in her hands which are decorated by gold rings. A horizontal gold inscription reads "Ao ÆTATIS XXX". The work was donated to the Metropolitan Museum by the Rogers Fund in 1950.</field>
+<field name="label">Portrait Miniature of Margaret Roper</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/12/Margaret_Roper,_by_Hans_Holbein_the_Younger.jpg</field>
+<field name="comment">Portrait Miniature of Margaret Roper is a painting by the German artist and printmaker Hans Holbein the Younger created between 1535–36, and today held in the Metropolitan Museum of Art in New York. Margaret Roper (1505–44) was the eldest child of Sir Thomas More and wife of the English biographer William Roper. It is the second and less well known of two portraits of Roper painted by Holbein.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Margaret_Roper,_by_Hans_Holbein_the_Younger.jpg/200px-Margaret_Roper,_by_Hans_Holbein_the_Younger.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Hans_Holbein_the_Younger</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait Miniature of Margaret Roper</field>
+<field name="type">Bodycolour on vellum mounted on card</field>
+<field name="year">c. 1535–36</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_Miniature_of_Margaret_Roper</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_Miniature_of_Margaret_Roper</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_Miniature_of_Margaret_Roper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_Miniature_of_Margaret_Roper</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232242</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_Miniature_of_Margaret_Roper</field>
+</doc>
+</add>

@@ -1,0 +1,80 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vieuw_of_Arles,_Flowering_Orchards</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vue_of_Arles,_Flowering_Orchards</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Kwitnący_sad_z_widokiem_na_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_Arles,_Flowering_Orchards</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Vista_de_Arles,_Pomar_em_Flor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_Arles,_Flowering_Orchards</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Huerto_en_flor_con_vistas_de_Arles</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_Arles,_Flowering_Orchards</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/View_of_Arles,_Flowering_Orchards</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Kwitnący_sad_z_widokiem_na_Arles</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Квітучий_сад_з_краєвидом_Арля</field>
+<field name="sameAs">http://yago-knowledge.org/resource/View_of_Arles,_Flowering_Orchards</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gdbjm</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Huerto_en_flor_con_vistas_de_Arles</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3314658</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_Arles,_Flowering_Orchards</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Vista_de_Arles,_Pomar_em_Flor</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1889_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Vincent_van_Gogh_paintings_of_Arles</field>
+<field name="abstract">View of Arles, Flowering Orchards is a painting by Vincent van Gogh, executed in spring 1889, one of several paintings he produced on the subject of Flowering Orchards (Van Gogh series) while living in Arles. It supplies a view across a canal and the poplars on its board towards the historical center of Arles, with the towers of Saint-Trophime and Notre-Dame-le-major to the left, contrasted by recent building of the casern housing the Zouave Regiment to the right. Van Gogh incorporated this painting in his selection of works to be displayed at Les XX, in Bruxelles 1890.</field>
+<field name="label">View of Arles, Flowering Orchards</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/32/Van_Gogh_-_Blühender_Obstgarten_mit_Blick_auf_Arles.jpeg</field>
+<field name="comment">View of Arles, Flowering Orchards is a painting by Vincent van Gogh, executed in spring 1889, one of several paintings he produced on the subject of Flowering Orchards (Van Gogh series) while living in Arles. It supplies a view across a canal and the poplars on its board towards the historical center of Arles, with the towers of Saint-Trophime and Notre-Dame-le-major to the left, contrasted by recent building of the casern housing the Zouave Regiment to the right.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/32/Van_Gogh_-_Blühender_Obstgarten_mit_Blick_auf_Arles.jpeg/200px-Van_Gogh_-_Blühender_Obstgarten_mit_Blick_auf_Arles.jpeg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">72</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Neue_Pinakothek</field>
+<field name="title">View of Arles, flowering orchards</field>
+<field name="type">oil on canvas</field>
+<field name="width">92</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/View_of_Arles,_Flowering_Orchards</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/View_of_Arles,_Flowering_Orchards</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/View_of_Arles,_Flowering_Orchards</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/View_of_Arles,_Flowering_Orchards</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3314658</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_Arles,_Flowering_Orchards</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Квітучий_сад_з_краєвидом_Арля</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_Arles,_Flowering_Orchards</field>
+</doc>
+</add>

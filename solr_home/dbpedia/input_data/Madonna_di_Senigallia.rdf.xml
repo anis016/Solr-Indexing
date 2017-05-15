@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_di_Senigallia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Senigallia</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1092638</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vl11x</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระแม่มารีแห่งเซนิกาลเลีย</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_di_Senigallia</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_di_Senigallia</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Madonna_di_Senigallia</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piero_della_Francesca</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1470s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Galleria_Nazionale_delle_Marche</field>
+<field name="abstract">The Madonna di Senigallia is a painting by the Italian Renaissance master Piero della Francesca, finished around 1474. It is housed in the Galleria Nazionale delle Marche, in the Ducal Palace of Urbino. From its small scale the painting was intended for private devotion. It was noticed for the first time in 1822 in the church of the Observant Franciscan convent of Santa Maria degli Angeli outside Senigallia, whence the current name. Senigallia was wrested from Sigismondo Malatesta by Federico Montefeltro: both men were patrons of Piero. The commission was likely from or on behalf of Giovanni Della Rovere, betrothed in 1474 to Giovanna Montefeltro, at which time Federico invested Giovanni with Senigallia. Following its rediscovery the painting was taken to the Ducal Palace, Urbino. The 1990s restoration showed the high quality of Piero della Francesca's treatment of light, as well as the influence of Flemish masters on it, both in its oil on panel medium and in details such as the basket with linen gauze, the coral and the fabric covering the Madonna's head. The light, which realistically enters from the window on the left, is a symbol of the Virgin's conception. The linen in the basket is instead an allusion to her purity, while the case for hosts in the shelf and the coral hanging from Jesus' necklace both hint to the Eucharist sacrifice. The staring, thoughtful immobility of all the characters would be also an allusion to the latter.</field>
+<field name="label">Madonna di Senigallia</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/24/Madonna_di_Senigallia.jpg</field>
+<field name="comment">The Madonna di Senigallia is a painting by the Italian Renaissance master Piero della Francesca, finished around 1474. It is housed in the Galleria Nazionale delle Marche, in the Ducal Palace of Urbino. From its small scale the painting was intended for private devotion. It was noticed for the first time in 1822 in the church of the Observant Franciscan convent of Santa Maria degli Angeli outside Senigallia, whence the current name.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/Madonna_di_Senigallia.jpg/200px-Madonna_di_Senigallia.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=496</field>
+<field name="artist">http://dbpedia.org/resource/Piero_della_Francesca</field>
+<field name="city">http://dbpedia.org/resource/Urbino</field>
+<field name="height">67</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna di Senigallia</field>
+<field name="type">Oil on panel</field>
+<field name="width">53.5</field>
+<field name="year">c. 1474</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_di_Senigallia</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_di_Senigallia</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_di_Senigallia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Senigallia</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Senigallia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Madonna_di_Senigallia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Senigallia</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_di_Senigallia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_di_Senigallia</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1092638</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Senigallia</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระแม่มารีแห่งเซนิกาลเลีย</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_di_Senigallia</field>
+</doc>
+</add>

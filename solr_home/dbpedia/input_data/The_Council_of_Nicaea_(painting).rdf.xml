@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Council_of_Nicaea_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Council_of_Nicaea_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7727745</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Council_of_Nicaea_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02r2zn9</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:18th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Kiev_Pechersk_Lavra</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ukrainian_art</field>
+<field name="abstract">The Council of Nicaea is an 18th century painting, by F. Pavlovskyi, I. Maksimovych, A. Galik, G. Karataev and others. It is presently hanging in the Gate Church of the Trinity in Kiev. The painting depicts the First Council of Nicaea in AD 325, the first ecumenical council of bishops of the Christian Church. The crowned and enthroned figure of Jesus Christ is pictured in the centre of the painting, to emphasize his spiritual headship of the Council. Eustathius of Antioch is visible in the right foreground.</field>
+<field name="label">The Council of Nicaea (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5e/The_Council_of_Nicaea.jpg</field>
+<field name="comment">The Council of Nicaea is an 18th century painting, by F. Pavlovskyi, I. Maksimovych, A. Galik, G. Karataev and others. It is presently hanging in the Gate Church of the Trinity in Kiev. The painting depicts the First Council of Nicaea in AD 325, the first ecumenical council of bishops of the Christian Church. The crowned and enthroned figure of Jesus Christ is pictured in the centre of the painting, to emphasize his spiritual headship of the Council.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/The_Council_of_Nicaea.jpg/200px-The_Council_of_Nicaea.jpg</field>
+<field name="artist">http://dbpedia.org/resource/F._Pavlovskyi</field>
+<field name="artist">http://dbpedia.org/resource/I._Maksimovych</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Kiev</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Gate_Church_of_the_Trinity_(Pechersk_Lavra)</field>
+<field name="title">The Council of Nicaea</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Council_of_Nicaea_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Council_of_Nicaea_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nicaea_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Council_of_Nicaea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Council_of_Nicaea_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Council_of_Nicaea_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7727745</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Council_of_Nicaea_(painting)</field>
+</doc>
+</add>

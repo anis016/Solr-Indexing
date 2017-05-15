@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/John_Wayne_Elementary_School</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02p_7x7</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6263279</field>
+<field name="sameAs">http://yago-knowledge.org/resource/John_Wayne_Elementary_School</field>
+<field name="sameAs">http://dbpedia.org/resource/John_Wayne_Elementary_School</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Public_education_in_New_York_City</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:New_York_City_Department_of_Education</field>
+<field name="abstract">John Wayne Elementary SchoolP.S. 380, located at 370 Marcy Avenue, Williamsburg, Brooklyn. Dedicated in honor of John Wayne on October 28, 1982, "John Wayne Elementary School Day". John Wayne's seven children attended the dedication. Inside the school is a 38 foot mosaic mural commission by New York artist Knox Martinhttp://www. knoxmartin. com entitled "John Wayne and the American Frontier". John Wayne Elementary School was in the news in 2007 when it was reported that "Subway Hero" Wesley Autrey was working at the school.</field>
+<field name="label">John Wayne Elementary School</field>
+<field name="comment">John Wayne Elementary SchoolP.S. 380, located at 370 Marcy Avenue, Williamsburg, Brooklyn. Dedicated in honor of John Wayne on October 28, 1982, "John Wayne Elementary School Day". John Wayne's seven children attended the dedication. Inside the school is a 38 foot mosaic mural commission by New York artist Knox Martinhttp://www. knoxmartin. com entitled "John Wayne and the American Frontier".</field>
+<field name="link_external">http://www.placematters.net/node/1763</field>
+<field name="link_external">http://www.worldcat.org/oclc/251201185&amp;referer=brief_result</field>
+<field name="link_external">http://schools.nyc.gov/community/facilities/PublicArt/Art/artitem.htm?ac=314&amp;an=20056</field>
+<field name="link_external">http://schools.nyc.gov/SchoolPortals/14/K380/default.htm</field>
+<field name="link_external">http://www.johnwayne.com</field>
+<field name="link_external">http://www.knoxmartin.com</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/John_Wayne_Elementary_School</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/John_Wayne_Elementary_School</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/John_Wayne_Elementary_School</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/John_Wayne_Elementary_School</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/P.S._380</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/John_Wayne_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6263279</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/John_Wayne_Elementary_School</field>
+</doc>
+</add>

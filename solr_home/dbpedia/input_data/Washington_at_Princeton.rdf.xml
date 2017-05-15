@@ -1,0 +1,34 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Washington_at_Princeton</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03c61ff</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_at_Princeton</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7972547</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Washington_at_Princeton</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1770s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_about_the_American_Revolution</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:George_Washington</field>
+<field name="abstract">Washington at Princeton is a painting by Charles Willson Peale. The original was commissioned by the Supreme Executive Council of Pennsylvania for its council chamber in Independence Hall in Philadelphia. Peale made eight copies of the painting. The original, now owned by the Pennsylvania Academy of the Fine Arts, was completed in early 1779, when Washington sat for Peale in Philadelphia. In January 2005, the painting sold for $21.3 million dollars - setting a record for the highest price paid for an American portrait. Six of the paintings are in United States institutions including the United States Senate; the Metropolitan Museum of Art; Yale University Art Gallery; National Portrait Gallery; Colonial Williamsburg; Pennsylvania Academy of the Fine Arts; and Princeton University Art Museum.</field>
+<field name="label">Washington at Princeton</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c5/George_Washington_at_Princeton.jpg</field>
+<field name="comment">Washington at Princeton is a painting by Charles Willson Peale. The original was commissioned by the Supreme Executive Council of Pennsylvania for its council chamber in Independence Hall in Philadelphia. Peale made eight copies of the painting. The original, now owned by the Pennsylvania Academy of the Fine Arts, was completed in early 1779, when Washington sat for Peale in Philadelphia.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/George_Washington_at_Princeton.jpg/200px-George_Washington_at_Princeton.jpg</field>
+<field name="link_external">http://www.senate.gov/artandhistory/art/artifact/Painting_31_00002.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Washington_at_Princeton</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Washington_at_Princeton</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Washington_at_Princeton</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Washington_at_Princeton</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7972547</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Washington_at_Princeton</field>
+</doc>
+</add>

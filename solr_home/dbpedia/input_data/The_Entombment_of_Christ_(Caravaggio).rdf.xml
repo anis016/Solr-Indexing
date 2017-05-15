@@ -1,0 +1,109 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Złożenie_do_grobu_(obraz_Caravaggia)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Grablegung_Christi_(Caravaggio)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1213151</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Deposizione_(Caravaggio)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Santo_Entierro_(Caravaggio)</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Begravelsen_av_Kristus_(Caravaggio)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Mise_au_tombeau_(Le_Caravage)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.089rg1</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Vatican_Museums</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Entombment_of_Christ</field>
+<field name="abstract">Michelangelo Merisi da Caravaggio created his painting of The Entombment of Christ in 1602–1603 for Santa Maria in Vallicella, a church built for the Oratory of Saint Philip Neri, and adjacent to the buildings of the order. A copy of the painting is now in the chapel. The painting was originally commissioned by Alessandro Vittrice in 1601, and completed by two years later. Now it is among the treasures of the Vatican Pinacoteca. While there is much in this representation that was revolutionary for Caravaggio's time, it is not clear that the highly naturalistic reconstruction of a gospel event in this painting would have been antithetical to the vividly faithful Oratorians, who sought to relive experiences through prayer. Even near contemporary critics of Caravaggio and his style, such as Baglione and Bellori, admired this painting. This counter-reformation painting – with a diagonal cascade of mourners and cadaver-bearers descending to the limp, dead Christ and the bare stone – is not a moment of transfiguration, but of mourning. As the viewer's eye descends from the gloom there is, too, a descent from the hysteria of Mary of Cleophas through subdued emotion to death as the final emotional silencing. Unlike the gored post-crucifixion Jesus in morbid Spanish displays, Italian Christs die generally bloodlessly, and slump in a geometrically challenging display. As if emphasizing the dead Christ's inability to feel pain, a hand enters the wound at his side. His body is one of a muscled, veined, thick-limbed laborer rather than the usual, bony-thin depiction. While faces are important in painting generally, in Caravaggio it is important always to note where the arms are pointing. Skyward in The Conversion of Saint Paul on the Road to Damascus, towards Levi in The Calling of Saint Matthew. Here, the dead God's fallen arm and immaculate shroud touch stone; the grieving Mary Magdalene gesticulates to Heaven. In some ways, that was the message of Christ: God come to earth, and mankind reconciled with the heavens. As usual, even with his works of highest devotion, Caravaggio never fails to ground himself. Tradition held that the Virgin Mary be depicted as eternally young, but here Caravaggio paints the Virgin as an old woman. The figure of the Virgin Mary is also partially obscured; we see her in the blue robe and her arms are held out to her side, imitating the line of the stone they stand upon. Her right hand hovers above his head as if she is reaching out to touch him. A related work by Caravaggio is Death of the Virgin (1606), now at the Louvre Museum.</field>
+<field name="label">The Entombment of Christ (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ab/Caravaggio_-_La_Deposizione_di_Cristo.jpg</field>
+<field name="comment">Michelangelo Merisi da Caravaggio created his painting of The Entombment of Christ in 1602–1603 for Santa Maria in Vallicella, a church built for the Oratory of Saint Philip Neri, and adjacent to the buildings of the order. A copy of the painting is now in the chapel. The painting was originally commissioned by Alessandro Vittrice in 1601, and completed by two years later. Now it is among the treasures of the Vatican Pinacoteca.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Caravaggio_-_La_Deposizione_di_Cristo.jpg/200px-Caravaggio_-_La_Deposizione_di_Cristo.jpg</field>
+<field name="link_external">http://www.youtube.com/watch?v=-mmJiNGh_mk</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">300</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Entombment of Christ</field>
+<field name="type">Oil on canvas</field>
+<field name="width">203</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Entombment_of_Christ_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Entombment_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Mise_au_tombeau_(Le_Caravage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Entombment_of_Christ_or_Deposition_from_the_Cross(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Entombment_of_Christ_or_Deposition_from_the_Cross_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Santo_Entierro_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Złożenie_do_grobu_(obraz_Caravaggia)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Entombment_of_Christ_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Entombment_of_Christ_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Grablegung_Christi_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Deposizione_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Entombment_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1213151</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Begravelsen_av_Kristus_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Entombment_of_Christ_(Caravaggio)</field>
+</doc>
+</add>

@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Study_for_Crouching_Nude</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fn7rk</field>
+<field name="sameAs">http://dbpedia.org/resource/Study_for_Crouching_Nude</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7628398</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Study_for_Crouching_Nude</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1952_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francis_Bacon</field>
+<field name="abstract">Study for Crouching Nude is a 1952 painting by the Irish-born artist Francis Bacon. It was painted in the Spring of 1952, and shows a perched figure whose form was likely derived from Muybridge's Man Performing a Standing Jump. The painting was first displayed – in place of Study for Portrait (1949) – at Recent Trends in Realist Painting at the Institute of Contemporary Arts, London, from July to August 1952.</field>
+<field name="label">Study for Crouching Nude</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9b/Study_for_Crouching_Nude.jpeg</field>
+<field name="comment">Study for Crouching Nude is a 1952 painting by the Irish-born artist Francis Bacon. It was painted in the Spring of 1952, and shows a perched figure whose form was likely derived from Muybridge's Man Performing a Standing Jump. The painting was first displayed – in place of Study for Portrait (1949) – at Recent Trends in Realist Painting at the Institute of Contemporary Arts, London, from July to August 1952.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Study_for_Crouching_Nude.jpeg/200px-Study_for_Crouching_Nude.jpeg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Study for Crouching Nude</field>
+<field name="type">Oil  on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Study_for_Crouching_Nude</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Study_for_Crouching_Nude</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Study_for_Crouching_Nude</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Study_for_Crouching_Nude</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7628398</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Study_for_Crouching_Nude</field>
+</doc>
+</add>

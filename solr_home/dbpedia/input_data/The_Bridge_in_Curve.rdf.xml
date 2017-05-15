@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Bridge_in_Curve</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Bridge_in_Curve</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Bridge_in_Curve</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Bridge_in_Curve</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bridge_in_Curve</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0drwdq3</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7720083</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Grace_Cossington_Smith</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1930_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sydney_Harbour</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_National_Gallery_of_Victoria</field>
+<field name="abstract">The Bridge in Curve is a 1930 painting by Australian artist Grace Cossington Smith. The painting depicts the Sydney Harbour Bridge during its construction. It is now considered one of Australia's best modernist paintings, but it was rejected from an exhibition in 1930. Since 1967 the painting has been part of the collection of the National Gallery of Victoria in Melbourne.</field>
+<field name="label">The Bridge in Curve</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c2/The_bridge_in_curve_1926.jpg</field>
+<field name="comment">The Bridge in Curve is a 1930 painting by Australian artist Grace Cossington Smith. The painting depicts the Sydney Harbour Bridge during its construction. It is now considered one of Australia's best modernist paintings, but it was rejected from an exhibition in 1930. Since 1967 the painting has been part of the collection of the National Gallery of Victoria in Melbourne.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c2/The_bridge_in_curve_1926.jpg/200px-The_bridge_in_curve_1926.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Melbourne</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Victoria</field>
+<field name="title">The Bridge in Curve</field>
+<field name="type">tempera on cardboard</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Bridge_in_Curve</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Bridge_in_Curve</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7720083</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Bridge_in_Curve</field>
+</doc>
+</add>

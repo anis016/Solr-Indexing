@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cliff_dwellers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cliff_Dwellers_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5132589</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02wy4n3</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Cliff_Dwellers_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Cliff_Dwellers_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1913_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">Cliff Dwellers (1913) is a painting by George Bellows. It is an oil on canvas painting, 40¼ by 42⅛ inches. Bellows exhibited the work in the 1913 Armory Show, which he helped organize. The painting is currently in the collection of the Los Angeles County Museum of Art. In Cliff Dwellers, George Bellows captures the colorful crowd on New York City’s Lower East Side. It appears to be a hot summer day. People spill out of tenement buildings onto the streets, stoops, and fire escapes. Laundry flaps overhead and a street vendor hawks his goods from his pushcart in the midst of all the traffic. In the background, a trolley car heads toward Vesey Street. The painting, made in 1913, suggests the new face of New York. Between 1870 and 1915, the city’s population grew from one-and-a-half to five million, largely due to immigration. Many of the new arrivals—Italian, Jewish, Irish, and Chinese—crowded into tenement houses on the Lower East Side—the area north of the Brooklyn Bridge, south of Houston Street, and east of the Bowery. Among them were thousands of Eastern European Jews, who found temporary or permanent shelter along streets such as East Broadway, the setting for Cliff Dwellers. The city had never seen this kind of density before. New York Realists were called by critics as the "revolutionary black gang" and the "apostles of ugliness. " A critic, referring to their depictions also conferred them the pejorative label Ashcan School which became the standard term for this first important American art movement of the 20th century.</field>
+<field name="label">Cliff Dwellers (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/dd/Bellows_CliffDwellers.jpg</field>
+<field name="comment">Cliff Dwellers (1913) is a painting by George Bellows. It is an oil on canvas painting, 40¼ by 42⅛ inches. Bellows exhibited the work in the 1913 Armory Show, which he helped organize. The painting is currently in the collection of the Los Angeles County Museum of Art. In Cliff Dwellers, George Bellows captures the colorful crowd on New York City’s Lower East Side. It appears to be a hot summer day. People spill out of tenement buildings onto the streets, stoops, and fire escapes.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/dd/Bellows_CliffDwellers.jpg/200px-Bellows_CliffDwellers.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Cliff_Dwellers_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Cliff_Dwellers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Cliff_Dwellers_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Cliff_Dwellers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5132589</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Cliff_Dwellers_(painting)</field>
+</doc>
+</add>

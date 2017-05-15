@@ -1,0 +1,104 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Dame_à_la_licorne_(Raphaël)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Dama_col_liocorno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dama_z_jednorożcem_(obraz_Rafaela)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Дама_с_единорогом_(картина_Рафаэля)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Young_Woman_with_Unicorn</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_dame_met_de_eenhoorn</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dama_z_jednorożcem_(obraz_Rafaela)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02851qy</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Poltred_un_itron_gant_un_unkorneg</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2344396</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Dama_col_liocorno</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Unicorn'lu_Genç_Kadın</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Dame_à_la_licorne_(Raphaël)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Дама_с_единорогом_(картина_Рафаэля)</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Пані_з_однорогом_(Рафаель)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Gənc_qadın_təkbuynuzla</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1506_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Borghese_Collection</field>
+<field name="abstract">Portrait of Young Woman with Unicorn is a painting, oil on canvas applied to wood, by Raphael, c. 1506. It is in the Galleria Borghese in Rome. The portrait appears to have been influenced by the Mona Lisa, painted by Leonardo between 1503 and 1506. The work was of uncertain attribution until recent times. In the 1760 inventory of the Gallery, the subject of the painting was identified as Saint Catherine of Alexandria and attributed to Perugino. A restoration of the painting in 1934-36 confirmed art historian Roberto Longhi's hypothesis that the work was by Raphael, and the removal of heavy repainting revealed the unicorn, traditionally a symbol of purity in medieval romance, in place of a Saint Catherine wheel. Later restoration work on the painting in 1959 revealed the image of a dog, even earlier than the unicorn, also a symbol of chastity and conjugal fidelity. The young woman in the painting was a bride and this painting was a wedding gift to the engaged couple from Raphael.</field>
+<field name="label">Young Woman with Unicorn</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5a/Raffael_046.jpg</field>
+<field name="comment">Portrait of Young Woman with Unicorn is a painting, oil on canvas applied to wood, by Raphael, c. 1506. It is in the Galleria Borghese in Rome. The portrait appears to have been influenced by the Mona Lisa, painted by Leonardo between 1503 and 1506. The work was of uncertain attribution until recent times. In the 1760 inventory of the Gallery, the subject of the painting was identified as Saint Catherine of Alexandria and attributed to Perugino.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Raffael_046.jpg/200px-Raffael_046.jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Rome</field>
+<field name="height">65</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Galleria_Borghese</field>
+<field name="title">Young Woman with Unicorn</field>
+<field name="width">61</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Young_Woman_with_Unicorn</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Young_Woman_with_Unicorn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_dame_met_de_eenhoorn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2344396</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Gənc_qadın_təkbuynuzla</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Poltred_un_itron_gant_un_unkorneg</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Unicorn'lu_Genç_Kadın</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Пані_з_однорогом_(Рафаель)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Young_Woman_with_Unicorn</field>
+</doc>
+</add>

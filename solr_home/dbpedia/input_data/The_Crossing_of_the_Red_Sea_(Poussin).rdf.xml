@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crossing_of_the_Red_Sea_(Poussin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7728193</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h1d3pk</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Crossing_of_the_Red_Sea_(Poussin)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crossing_of_the_Red_Sea_(Poussin)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_National_Gallery_of_Victoria</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1634_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Nicolas_Poussin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Book_of_Exodus</field>
+<field name="abstract">For the Biblical event itself, see Crossing the Red Sea. The Crossing of the Red Sea 300px Artist Nicolas Poussin Year 1633-1634 Type Oil on canvas Dimensions 155.6 cm × 215.3 cm Location National Gallery of Victoria, Melbourne The Crossing of the Red Sea is a painting by Nicolas Poussin, produced between 1633 and 1634. It depicts the crossing of the Red Sea by the Israelites, from chapter 14 of the book of Exodus. It was made as part of a pair of paintings (the other being The Adoration of the Golden Calf) commissioned by Amadeo dal Pozzo, Marchese di Voghera of Turin, a cousin to Cassiano dal Pozzo, Poussin's main sponsor in Rome. By 1685 the pair had passed to the Chevalier de Lorraine and in 1710 they were bought by Benigne de Ragois de Bretonvillers. In 1741 the pair was bought from Samuel by Sir Jacob Bouverie, whose son William became the first Earl of Radnor. The Earls of Radnor owned the pair from then until 1945, when it was split for the first time and The Adoration of the Golden Calf was sold to the National Gallery in London. The Crossing of the Red Sea was acquired by Kenneth Clark for the National Gallery of Victoria in 1948 using money from the Felton Bequest, a fund originally left to the gallery in 1904 by the industrialist Alfred Felton. In 2011 it underwent a major conservation project.</field>
+<field name="label">The Crossing of the Red Sea (Poussin)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9a/The_Crossing_fo_The_Red_Sea.jpg</field>
+<field name="comment">For the Biblical event itself, see Crossing the Red Sea. The Crossing of the Red Sea 300px Artist Nicolas Poussin Year 1633-1634 Type Oil on canvas Dimensions 155.6 cm × 215.3 cm Location National Gallery of Victoria, Melbourne The Crossing of the Red Sea is a painting by Nicolas Poussin, produced between 1633 and 1634. It depicts the crossing of the Red Sea by the Israelites, from chapter 14 of the book of Exodus.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/The_Crossing_fo_The_Red_Sea.jpg/200px-The_Crossing_fo_The_Red_Sea.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Nicolas_Poussin</field>
+<field name="city">http://dbpedia.org/resource/Melbourne</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Victoria</field>
+<field name="title">The Crossing of the Red Sea</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Crossing_of_the_Red_Sea_(Poussin)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Crossing_of_the_Red_Sea_(Poussin)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Crossing_of_the_Red_Sea_(Poussin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Crossing_of_the_Red_Sea_(Poussin)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crossing_of_the_Red_Sea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7728193</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crossing_of_the_Red_Sea_(Poussin)</field>
+</doc>
+</add>

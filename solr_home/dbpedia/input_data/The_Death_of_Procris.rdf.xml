@@ -1,0 +1,81 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Morte_di_Procri</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Procris</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Смерть_Прокриды</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Procris</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_Procris</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Morte_di_Procri</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zjld9</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Смерть_Прокриды</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Death_of_Procris</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ความตายของโพรคริส_(โคสิโม)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Śmierć_Prokris_(obraz_Piera_di_Cosimo)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Procris</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Mort_de_Procris</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2457026</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piero_di_Cosimo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="abstract">The Death of Procris, A Satyr mourning over a Nymph or simply A Mythological Subject are names given to an unsigned, undated panel painting in the National Gallery in London, United Kingdom, securely attributed to Piero di Cosimo (who never signed his works). Its date is uncertain, and its subject has been a matter of dispute. The name The Death of Procris has been used since the 19th century, and is supposed to have been inspired by Ovid's tale of the death of Procris at the hands of her husband Cephalus, in Metamorphoses VII. The National Gallery has rejected this title since at least Cecil Gould's catalogue of 1951, since when it has preferred to describe the subject as "A Mythological Subject" or "A Satyr mourning over a Nymph". Despite the uncertainty surrounding the subject matter, the painting, which shows a satyr mourning over the body of a young woman, has been one of the most popular works by Piero di Cosimo. Erwin Panofsky was mesmerized by the "strange lure emanating from the picture", and other commentators have admired its "hazy atmosphere of a waking dream".</field>
+<field name="label">The Death of Procris</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2f/Piero_di_Cosimo_013.jpg</field>
+<field name="comment">The Death of Procris, A Satyr mourning over a Nymph or simply A Mythological Subject are names given to an unsigned, undated panel painting in the National Gallery in London, United Kingdom, securely attributed to Piero di Cosimo (who never signed his works). Its date is uncertain, and its subject has been a matter of dispute.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/Piero_di_Cosimo_013.jpg/200px-Piero_di_Cosimo_013.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Piero_di_Cosimo</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="image"/>
+<field name="imageSize">520</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery</field>
+<field name="title">A Satyr mourning over a Nymph</field>
+<field name="year">circa 1495</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Death_of_Procris</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Death_of_Procris</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Death_of_Procris</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Death_of_Procris</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Morte_di_Procri</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Śmierć_Prokris_(obraz_Piera_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Procris</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Mort_de_Procris</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Procris</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2457026</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Procris</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ความตายของโพรคริส_(โคสิโม)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Procris</field>
+</doc>
+</add>

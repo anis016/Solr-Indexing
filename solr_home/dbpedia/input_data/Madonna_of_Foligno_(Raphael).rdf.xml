@@ -1,0 +1,100 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_di_Foligno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Foligno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_di_Foligno</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Mare_de_Déu_de_Foligno</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2610709</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08m5bk</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_di_Foligno</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Folinyo_Madonna_(Rafael)</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Folinjo_Madona</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Vierge_de_Foligno</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Madona_de_Foligno</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_Foligno_(Raphael)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1511_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_Madonnas</field>
+<field name="abstract">The Madonna of Foligno is a painting by the Italian High Renaissance painter Raphael. First painted on wood panel, it was later transferred to canvas.</field>
+<field name="label">Madonna of Foligno (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/ac/MadonnaFoligno.jpg</field>
+<field name="comment">The Madonna of Foligno is a painting by the Italian High Renaissance painter Raphael. First painted on wood panel, it was later transferred to canvas.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/ac/MadonnaFoligno.jpg/200px-MadonnaFoligno.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">320</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna of Foligno</field>
+<field name="type">Oil on wood, transferred to canvas</field>
+<field name="width">194</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_Foligno_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_Foligno_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Vierge_de_Foligno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_di_Foligno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_di_Foligno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Madona_de_Foligno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_Foligno_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2610709</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Folinyo_Madonna_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Mare_de_Déu_de_Foligno</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Folinjo_Madona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_Foligno_(Raphael)</field>
+</doc>
+</add>

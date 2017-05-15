@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Child_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Adoration_of_the_Child_(Bosch)</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Child_(Bosch)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02620tq</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_geboorte_van_Christus_(Keulen)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Child_(Bosch)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Adoracja_Dzieciątka_(obraz_Hieronima_Boscha)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2346030</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Adoration_de_l'Enfant_(Bosch)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1560s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nativity_of_Jesus_in_art</field>
+<field name="abstract">Adoration of the Child is a painting by Hieronymus Bosch. It is currently in the Wallraf-Richartz Museum in Cologne. Like a few other Bosch paintings, this one portrays the baby Jesus and Mary.</field>
+<field name="label">Adoration of the Child (Bosch)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f9/BoschAdorationOfTheChildPaintingjpg.jpg</field>
+<field name="comment">Adoration of the Child is a painting by Hieronymus Bosch. It is currently in the Wallraf-Richartz Museum in Cologne. Like a few other Bosch paintings, this one portrays the baby Jesus and Mary.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/BoschAdorationOfTheChildPaintingjpg.jpg/200px-BoschAdorationOfTheChildPaintingjpg.jpg</field>
+<field name="artist"/>
+<field name="height">66</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Adoration of the Child</field>
+<field name="type">Oil on wood</field>
+<field name="width">43</field>
+<field name="year">c. 1568 or later</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Child_(Bosch)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Child_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Child</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Adoracja_Dzieciątka_(obraz_Hieronima_Boscha)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Child_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Child_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Child_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Adoration_de_l'Enfant_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Child_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_geboorte_van_Christus_(Keulen)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Child_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2346030</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Child_(Bosch)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Adoration_of_the_Child_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Child_(Bosch)</field>
+</doc>
+</add>

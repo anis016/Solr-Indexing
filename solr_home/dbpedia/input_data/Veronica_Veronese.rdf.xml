@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Veronica_Veronese</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Вероника_Веронезе</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5015478</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Veronica_Veronese</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j25xj_</field>
+<field name="sameAs">http://dbpedia.org/resource/Veronica_Veronese</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Delaware_Art_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1872_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Dante_Gabriel_Rossetti</field>
+<field name="abstract">Veronica Veronese is an oil painting by Dante Gabriel Rossetti painted in 1872 with Alexa Wilding as the model. The painting was conceived as a companion to Lady Lilith. Rossetti sold the painting to one of his best clients, shipping magnate Frederick Richards Leyland In 1923 it was acquired by the estate of Samuel Bancroft, Jr. which donated it in 1935 to the Delaware Art Museum where it is now displayed.</field>
+<field name="label">Veronica Veronese</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fa/Veronica_Veronese_DAM.jpg</field>
+<field name="comment">Veronica Veronese is an oil painting by Dante Gabriel Rossetti painted in 1872 with Alexa Wilding as the model. The painting was conceived as a companion to Lady Lilith. Rossetti sold the painting to one of his best clients, shipping magnate Frederick Richards Leyland In 1923 it was acquired by the estate of Samuel Bancroft, Jr. which donated it in 1935 to the Delaware Art Museum where it is now displayed.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Veronica_Veronese_DAM.jpg/200px-Veronica_Veronese_DAM.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">107.9</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Delaware_Art_Museum</field>
+<field name="title">Veronica Veronese</field>
+<field name="type">oil on canvas</field>
+<field name="width">86.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Veronica_Veronese</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Veronica_Veronese</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Veronica_Veronese</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Veronica_Veronese</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Вероника_Веронезе</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Veronica_Veronese</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5015478</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Veronica_Veronese</field>
+</doc>
+</add>

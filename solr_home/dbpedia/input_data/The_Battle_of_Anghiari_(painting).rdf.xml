@@ -1,0 +1,138 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Bataille_d'Anghiari_(Léonard_de_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Battaglia_di_Anghiari_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/アンギアーリの戦い_(絵画)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Битва_при_Ангиари_(фреска)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Batalha_de_Anghiari</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Bitva_u_Anghiari_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Bitwa_pod_Anghiari_(obraz_Leonarda_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cerca_trova</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Battle_of_Anghiari_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_batalla_de_Anghiari</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/La_batalla_d'Anghiari_(Leonardo_da_Vinci)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Битва_при_Ангиари_(фреска)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Battle_of_Anghiari_(painting)</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/アンギアーリの戦い_(絵画)</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Bitva_u_Anghiari_(obraz)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Bataille_d'Anghiari_(Léonard_de_Vinci)</field>
+<field name="sameAs">http://af.dbpedia.org/resource/Die_Slag_van_Anghiari_(Leonardo)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dk3hj</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Bitwa_pod_Anghiari_(obraz_Leonarda_da_Vinci)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_batalla_de_Anghiari</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Bătălia_de_la_Anghiari_(pictură_de_Leonardo_da_Vinci)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2045726</field>
+<field name="sameAs">http://he.dbpedia.org/resource/קרב_אנגיארי_(ציור)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Battaglia_di_Anghiari_(Leonardo)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Batalha_de_Anghiari</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/معركة_أنغياري_(لوحة)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Lost_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:War_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1505_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Leonardo_da_Vinci</field>
+<field name="abstract">The Battle of Anghiari (1505) is a currently lost painting by Leonardo da Vinci, at times referred to as "The Lost Leonardo", which some commentators believe to be still hidden beneath one of the later frescoes in the Salone dei Cinquecento (Hall of the Five Hundred) in the Palazzo Vecchio, Florence. Its central scene depicted four men riding raging war horses engaged in a battle for possession of a standard, at the Battle of Anghiari in 1440. Many preparatory studies by Leonardo still exist. The composition of the central section is best known through a drawing by Peter Paul Rubens in the Louvre, Paris. This work, dating from 1603 and known as The Battle of the Standard, was based on an engraving of 1553 by Lorenzo Zacchia, which was taken from the painting itself or possibly derived from a cartoon by Leonardo. Rubens succeeded in portraying the fury, the intense emotions and the sense of power that were presumably present in the original painting. Similarities have been noted between this Battle of Anghiari and the Hippopotamus Hunt painted by Rubens in 1616. In March 2012, it was announced that a team led by Maurizio Seracini has found evidence that the painting still exists on a hidden inner wall behind a cavity, underneath a section of Vasari's fresco in the chamber. The search was abandoned in September 2012.</field>
+<field name="label">The Battle of Anghiari (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c4/Peter_Paul_Ruben's_copy_of_the_lost_Battle_of_Anghiari.jpg</field>
+<field name="comment">The Battle of Anghiari (1505) is a currently lost painting by Leonardo da Vinci, at times referred to as "The Lost Leonardo", which some commentators believe to be still hidden beneath one of the later frescoes in the Salone dei Cinquecento (Hall of the Five Hundred) in the Palazzo Vecchio, Florence. Its central scene depicted four men riding raging war horses engaged in a battle for possession of a standard, at the Battle of Anghiari in 1440. Many preparatory studies by Leonardo still exist.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Peter_Paul_Ruben's_copy_of_the_lost_Battle_of_Anghiari.jpg/200px-Peter_Paul_Ruben's_copy_of_the_lost_Battle_of_Anghiari.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/84801/rec/2</field>
+<field name="link_external">http://www.nytimes.com/2011/08/27/arts/design/leonardo-mural-in-florence-may-be-revealed.html?ref=arts</field>
+<field name="link_external">http://alumni.ucsd.edu/magazine/vol3no1/features/seracini.htm</field>
+<field name="link_external">http://www.bbc.co.uk/news/entertainment-arts-16053833</field>
+<field name="link_external">http://www.nytimes.com/2009/10/06/science/06tier.html?pagewanted=1&amp;_r=1&amp;no_interstitial</field>
+<field name="link_external">http://www.lairweb.org.nz/leonardo/battle.html</field>
+<field name="link_external">http://www.sciencedirect.com/science/article/pii/S0963869504001082</field>
+<field name="link_external">http://www.anghiari.it/new-english/english/battaglia_anghiari.asp</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Battle_of_Anghiari_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2045726</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://af.dbpedia.org/resource/Die_Slag_van_Anghiari_(Leonardo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/معركة_أنغياري_(لوحة)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/La_batalla_d'Anghiari_(Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/קרב_אנגיארי_(ציור)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Bătălia_de_la_Anghiari_(pictură_de_Leonardo_da_Vinci)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Battle_of_Anghiari_(painting)</field>
+</doc>
+</add>

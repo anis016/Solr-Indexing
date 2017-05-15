@@ -1,0 +1,129 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Baglioni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Déposition_Borghèse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Deposizione_Borghese</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Złożenie_do_grobu_(obraz_Rafaela)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08nyl1</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2500226</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Покладення_в_труну_(Рафаель)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Traslado_de_Cristo</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Złożenie_do_grobu_(obraz_Rafaela)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Положение_во_гроб_(Рафаэль)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Déposition_Borghèse</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Deposition_(Raphael)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Çarmıxdan_endirilmə_(Rafael)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Deposizione_Borghese</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1507_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Entombment_of_Christ</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Borghese_Collection</field>
+<field name="abstract">The Deposition, also known as the Pala Baglione, Borghese Deposition or The Entombment, is an oil painting by the Italian High Renaissance painter Raphael. Signed and dated "Raphael Urbinas MDVII (1507)", the painting is in the Galleria Borghese in Rome. It is the central panel of a larger altarpiece commissioned by Atalanta Baglioni of Perugia in honor of her of fallen son, Grifonetto Baglioni. Like many works, it shares elements of the common subjects of the Deposition of Christ, the Lamentation of Christ, and the Entombment of Christ. The painting is on wood panel and measures 184 x 176 cm.</field>
+<field name="label">The Deposition (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f2/Raffaello,_pala_baglioni,_deposizione.jpg</field>
+<field name="comment">The Deposition, also known as the Pala Baglione, Borghese Deposition or The Entombment, is an oil painting by the Italian High Renaissance painter Raphael. Signed and dated "Raphael Urbinas MDVII (1507)", the painting is in the Galleria Borghese in Rome. It is the central panel of a larger altarpiece commissioned by Atalanta Baglioni of Perugia in honor of her of fallen son, Grifonetto Baglioni.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Raffaello,_pala_baglioni,_deposizione.jpg/200px-Raffaello,_pala_baglioni,_deposizione.jpg</field>
+<field name="link_external">http://images.zeno.org/Kunstwerke/I/big/1700009a.jpg</field>
+<field name="link_external">http://images.zeno.org/Kunstwerke/I/big/1700009b.jpg</field>
+<field name="link_external">http://images.zeno.org/Kunstwerke/I/big/1700009c.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">184</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum"/>
+<field name="title">Deposition,</field>
+<field name="type">Oil on wood</field>
+<field name="width">176</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Deposition_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Deposition_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Traslado_de_Cristo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Borghese_Deposition</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pala_Baglione</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pala_Baglioni</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Deposition_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Положение_во_гроб_(Рафаэль)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2500226</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Çarmıxdan_endirilmə_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Покладення_в_труну_(Рафаель)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_(Raphael)</field>
+</doc>
+</add>

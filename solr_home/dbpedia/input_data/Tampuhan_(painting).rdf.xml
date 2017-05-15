@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Tampuhan_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Tampuhan_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tampuhan_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Tampuhan_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Tampuhan_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmh7ts</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7681820</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Impressionist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Juan_Luna</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1895_paintings</field>
+<field name="abstract">Tampuhan, meaning "sulking", is an 1895 classic oil on canvas impressionist painting by Filipino painter and hero Juan Luna. It depicts a Filipino man and a Filipino woman having a lovers' quarrel.</field>
+<field name="label">Tampuhan (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3d/Tampuhan_by_Juan_Luna.jpg</field>
+<field name="comment">Tampuhan, meaning "sulking", is an 1895 classic oil on canvas impressionist painting by Filipino painter and hero Juan Luna. It depicts a Filipino man and a Filipino woman having a lovers' quarrel.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/Tampuhan_by_Juan_Luna.jpg/200px-Tampuhan_by_Juan_Luna.jpg</field>
+<field name="link_external">http://nameabledays.jimdo.com/tampuhan.php</field>
+<field name="artist"/>
+<field name="museum"/>
+<field name="title">Tampuhan</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Tampuhan_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tampuhan_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7681820</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tampuhan_(painting)</field>
+</doc>
+</add>

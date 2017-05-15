@@ -1,0 +1,124 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Landschaft_mit_dem_Sturz_des_Ikarus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Landscape_with_the_Fall_of_Icarus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Paisaje_con_la_caída_de_Ícaro</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_val_van_Icarus_(Brueghel)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Landschaft_mit_dem_Sturz_des_Ikarus</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภูมิทัศน์และอิคารัสปีกหัก</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1247110</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c6cl1</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/İkarus'un_Düşüşü_Sırasında_Bir_Manzara</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Chute_d'Icare</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Icari_casus_(Bruegel)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Caduta_di_Icaro</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pejzaż_z_upadkiem_Ikara</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Royal_Museums_of_Fine_Arts_of_Belgium</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1550s_paintings</field>
+<field name="abstract">Landscape with the Fall of Icarus is a painting in oil on canvas (73.5 by 112 centimetres) long thought to be by Pieter Bruegel, although following technical examinations in 1996, that attribution is regarded as very doubtful, and it is now seen as a good early copy by an unknown artist of Bruegel's original, perhaps painted in the 1560s. Largely derived from Ovid, the painting itself became the subject of a poem of the same name by William Carlos Williams, and is described in W. H. Auden's famous poem Musée des Beaux-Arts, named after the museum in which the painting is housed in Brussels.</field>
+<field name="label">Landscape with the Fall of Icarus</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5e/Bruegel,_Pieter_de_Oude_-_De_val_van_icarus_-_hi_res.jpg</field>
+<field name="comment">Landscape with the Fall of Icarus is a painting in oil on canvas (73.5 by 112 centimetres) long thought to be by Pieter Bruegel, although following technical examinations in 1996, that attribution is regarded as very doubtful, and it is now seen as a good early copy by an unknown artist of Bruegel's original, perhaps painted in the 1560s. Largely derived from Ovid, the painting itself became the subject of a poem of the same name by William Carlos Williams, and is described in W. H.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Bruegel,_Pieter_de_Oude_-_De_val_van_icarus_-_hi_res.jpg/200px-Bruegel,_Pieter_de_Oude_-_De_val_van_icarus_-_hi_res.jpg</field>
+<field name="link_external">http://www.museumvanbuuren.com/gb/oeuvresgb_b.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Landscape_with_the_Fall_of_Icarus</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Chute_d'Icare</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Fall_of_Icarus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Paisaje_con_la_caída_de_Ícaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Caduta_di_Icaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pejzaż_z_upadkiem_Ikara</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_With_the_Fall_of_Icarus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Ikarus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_fall_of_icarus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_With_The_Fall_of_Icarus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_val_van_Icarus_(Brueghel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1247110</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Icari_casus_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภูมิทัศน์และอิคารัสปีกหัก</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/İkarus'un_Düşüşü_Sırasında_Bir_Manzara</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_the_Fall_of_Icarus</field>
+</doc>
+</add>

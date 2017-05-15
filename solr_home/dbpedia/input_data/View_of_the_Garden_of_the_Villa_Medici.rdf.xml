@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/View_of_the_Garden_of_the_Villa_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Сад_вілли_Медічі</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Vue_du_jardin_de_la_villa_Médicis_à_Rome_(entrée_de_la_grotte)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Entrata_della_grotta_nel_giardino_di_Villa_Medici_a_Roma</field>
+<field name="sameAs">http://yago-knowledge.org/resource/View_of_the_Garden_of_the_Villa_Medici</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05n_ndb</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Vista_del_jardín_de_la_Villa_Médicis,_en_Roma</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1133844</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_the_Garden_of_the_Villa_Medici</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_paintings_in_the_Museo_del_Prado</field>
+<field name="abstract">View of the Garden of the Villa Medici is a small painting by Diego Velázquez of the garden at the Villa Medici in Rome, with some figures standing watching an unseen event, possily the works behind the scaffolding in the middle of the building in the background. It is now in the Prado. There is some controversy as to its date, with some scholars believing it was made during the artist's first trip to Italy (1629-31) and others feeling its advanced technique must mean it belongs to his second trip (1649-51). There is another version with similar features and the same title, and the two are of similar size and vary little in their execution and manner of depicting the garden. Landscape painting was rare in Spanish painting of this time, with most commissions being religious works or portraits, and so Velázquez was somewhat cut off from the mainstream of French and Italian landscape art as practised by Claude Lorrain or Poussin for example), making his use of an oil sketch rather than an easel-painted work unusual. Such a revolution put him 200 years ahead of the Impressionist painters in choosing landscape as a topic, then showing interest in light, nature and their interconnectedness, and finally in his pictorial technique (abandoning detail to stain rather than paint, with little touches of the brush better appreciated stood further back from the painting than too close to it). Velázquez thus showed that he was not only a good painter for his mastery of technique but also his innovation, ahead of its time and nationally and internationally revolutionising other painters' way of painting.</field>
+<field name="label">View of the Garden of the Villa Medici</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cf/Velázquez_-_Jardín_de_la_Villa_Médicis_en_Roma,_Entrada_de_la_gruta_(Museo_del_Prado,_1630).jpg</field>
+<field name="comment">View of the Garden of the Villa Medici is a small painting by Diego Velázquez of the garden at the Villa Medici in Rome, with some figures standing watching an unseen event, possily the works behind the scaffolding in the middle of the building in the background. It is now in the Prado.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Velázquez_-_Jardín_de_la_Villa_Médicis_en_Roma,_Entrada_de_la_gruta_(Museo_del_Prado,_1630).jpg/200px-Velázquez_-_Jardín_de_la_Villa_Médicis_en_Roma,_Entrada_de_la_gruta_(Museo_del_Prado,_1630).jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">View of the Garden of the Villa Medici</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/View_of_the_Garden_of_the_Villa_Medici</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/View_of_the_Garden_of_the_Villa_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Entrata_della_grotta_nel_giardino_di_Villa_Medici_a_Roma</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_the_Garden_of_the_Villa_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/View_of_the_garden_of_the_Villa_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Vista_del_jardín_de_la_Villa_Médicis,_en_Roma</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_the_Garden_of_the_Villa_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/View_of_the_Garden_of_the_Villa_Medici</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/View_of_the_Garden_of_the_Villa_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Vue_du_jardin_de_la_villa_Médicis_à_Rome_(entrée_de_la_grotte)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_the_Garden_of_the_Villa_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1133844</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_the_Garden_of_the_Villa_Medici</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Сад_вілли_Медічі</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/View_of_the_Garden_of_the_Villa_Medici</field>
+</doc>
+</add>

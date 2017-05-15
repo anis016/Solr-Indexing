@@ -1,0 +1,87 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Mystical_Nativity</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мистическое_Рождество</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mystical_Nativity</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cjn67</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q974674</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Natividad_mística</field>
+<field name="sameAs">http://sk.dbpedia.org/resource/Mystické_narodenie</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Natividade_Mística</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Nativité_mystique</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Mystical_Nativity</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Natività_mistica</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_paintings_in_the_National_Gallery,_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nativity_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="abstract">The Mystical Nativity is a painting of circa 1500–1501 by the Italian Renaissance master Sandro Botticelli, in the National Gallery in London. Botticelli built up the image using oil paint on canvas. It is his only signed work, and has a very unusual iconography for a Nativity. The Greek inscription at the top translates as: "This picture, at the end of the year 1500, in the troubles of Italy, I Alessandro, in the half-time after the time, painted, according to the eleventh [chapter chapter] of Saint John, in the second woe of the Apocalypse, during the release of the devil for three-and-a-half years; then he shall be bound in the twelfth [chapter chapter] and we shall see [him buried] as in this picture". Botticelli believed himself to be living during the Tribulation, possibly due to the upheavals in Europe at the time, and was predicting Christ's Millennium as stated in Biblical text. It has been suggested that the painting may be connected with the influence of Savonarola, whose influence appears in a number of late paintings by Botticelli, though the contents of the image may have been specified by the person commissioning it. The painting uses the medieval convention of showing the Virgin Mary and infant Jesus larger both than other figures, and their surroundings; this was certainly done deliberately for effect, as earlier Botticellis use correct graphical perspective.</field>
+<field name="label">The Mystical Nativity</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c5/The_Mystical_Nativity.jpg</field>
+<field name="comment">The Mystical Nativity is a painting of circa 1500–1501 by the Italian Renaissance master Sandro Botticelli, in the National Gallery in London. Botticelli built up the image using oil paint on canvas. It is his only signed work, and has a very unusual iconography for a Nativity.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/The_Mystical_Nativity.jpg/200px-The_Mystical_Nativity.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum"/>
+<field name="title">The Mystical Nativity</field>
+<field name="year">c. 1500–1501</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Mystical_Nativity</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Mystical_Nativity</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Mystical_Nativity_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мистическое_Рождество</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mystical_Nativity</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Mystical_Nativity</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Mystical_Nativity</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Natività_mistica</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mystical_Nativity</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Natividad_mística</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mystical_Nativity</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Nativité_mystique</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mystical_Nativity</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Natividade_Mística</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mystical_Nativity</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q974674</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mystical_Nativity</field>
+</doc>
+<doc>
+<field name="uri">http://sk.dbpedia.org/resource/Mystické_narodenie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Mystical_Nativity</field>
+</doc>
+</add>

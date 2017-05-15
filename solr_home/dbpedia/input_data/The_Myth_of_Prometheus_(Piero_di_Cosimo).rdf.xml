@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Myth_of_Prometheus_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Myth_of_Prometheus_(Piero_di_Cosimo)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08nykq</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Myth_of_Prometheus_(Piero_di_Cosimo)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7752957</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1515_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piero_di_Cosimo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="abstract">The Myth of Prometheus is a series of five panels painted by Piero di Cosimo. It shows Prometheus standing before a life-size statue.</field>
+<field name="label">The Myth of Prometheus (Piero di Cosimo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a9/Piero_di_Cosimo_038.jpg</field>
+<field name="comment">The Myth of Prometheus is a series of five panels painted by Piero di Cosimo. It shows Prometheus standing before a life-size statue.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Piero_di_Cosimo_038.jpg/200px-Piero_di_Cosimo_038.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Piero_di_Cosimo</field>
+<field name="city">http://dbpedia.org/resource/Strasbourg</field>
+<field name="city">http://dbpedia.org/resource/Munich</field>
+<field name="height">564.0</field>
+<field name="image"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_des_Beaux-Arts_de_Strasbourg</field>
+<field name="museum">http://dbpedia.org/resource/Alte_Pinakothek</field>
+<field name="title">The Myth of Prometheus</field>
+<field name="width">436</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Myth_of_Prometheus_(Piero_di_Cosimo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Myth_of_Prometheus_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Cosimo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Myth_of_Prometheus_(Piero_di_Cosimo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Myth_of_Prometheus_(Piero_di_Cosimo)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7752957</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Myth_of_Prometheus_(Piero_di_Cosimo)</field>
+</doc>
+</add>

@@ -1,0 +1,113 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/زنان_الجزایری_(تابلو)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Les_dones_d'Alger</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Mujeres_de_Argel</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/アルジェの女たち</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Donne_di_Algeri_nei_loro_appartamenti</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09h9__</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Femmes_d'Alger_dans_leur_appartement</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Women_of_Algiers</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Frauen_von_Algier</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Femei_din_Alger</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1212737</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1834_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Eug%C3%A8ne_Delacroix</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Orientalism</field>
+<field name="abstract">The Women of Algiers (In Their Apartment) is an 1834 oil on canvas painting by Eugène Delacroix. It is located in the Louvre, Paris, France. The painting was first displayed at the Salon, where it was universally admired. King Louis Philippe bought it and presented it to the Musée du Luxembourg, which at that time was a museum for contemporary art. After the death of the artist in 1874 the painting was moved to the Louvre, where it is held today. The painting is notable for its sexual connotations; it depicts Algerian concubines of a harem with a hookah, used to smoke hashish or opium. In the 19th century, it was known for its sexual content and its orientalism. The painting served as a source of inspiration to the later impressionists, and a series of 15 paintings and numerous drawings by Pablo Picasso in 1954.</field>
+<field name="label">The Women of Algiers</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3b/Women_of_algiers_1834_950px.jpg</field>
+<field name="comment">The Women of Algiers (In Their Apartment) is an 1834 oil on canvas painting by Eugène Delacroix. It is located in the Louvre, Paris, France. The painting was first displayed at the Salon, where it was universally admired. King Louis Philippe bought it and presented it to the Musée du Luxembourg, which at that time was a museum for contemporary art. After the death of the artist in 1874 the painting was moved to the Louvre, where it is held today.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Women_of_algiers_1834_950px.jpg/200px-Women_of_algiers_1834_950px.jpg</field>
+<field name="link_external">http://books.google.com/books?id=OWe3lPyY_GIC&amp;pg=PA358&amp;lpg=PA358&amp;dq=louvre+delacroix+women+of+algiers&amp;source=bl&amp;ots=YZhQHyEvur&amp;sig=saLaSTuFJs2AXqozpYngcYZnlio&amp;hl=de&amp;ei=BGiJTI2rGcHOswaY382YAg&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=35&amp;ved=0CNUBEOgBMCI#v=onepa</field>
+<field name="link_external">http://openlibrary.org/works/OL781894W/Journal_de_Eugene_Delacroix_..</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/59744</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Women_of_Algiers</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Women_of_Algiers</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Women_of_Algiers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Mujeres_de_Argel</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/アルジェの女たち</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_women_of_algiers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Women_of_Algiers_in_their_Apartment</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Donne_di_Algeri_nei_loro_appartamenti</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Les_Femmes_D'Alger</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Frauen_von_Algier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Femmes_d'Alger_dans_leur_appartement</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Women_of_Algiers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1212737</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Les_dones_d'Alger</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/زنان_الجزایری_(تابلو)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Femei_din_Alger</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Women_of_Algiers</field>
+</doc>
+</add>

@@ -1,0 +1,70 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Adoración_de_los_pastores_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Adoration_des_bergers_(Le_Caravage)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_dei_pastori_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Shepherds_(Caravaggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_dei_pastori_(Caravaggio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2327715</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Caravaggio)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/การนมัสการของคนเลี้ยงแกะ_(การาวัจโจ)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08m3h7</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Adoration_des_bergers_(Le_Caravage)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Adoración_de_los_pastores_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nativity_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1609_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">The Adoration of the Shepherds is a 1609 painting by the Italian artist Caravaggio.</field>
+<field name="label">Adoration of the Shepherds (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/40/Caravaggio_-_Adorazione_dei_pastori.jpg</field>
+<field name="comment">The Adoration of the Shepherds is a 1609 painting by the Italian artist Caravaggio.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Caravaggio_-_Adorazione_dei_pastori.jpg/200px-Caravaggio_-_Adorazione_dei_pastori.jpg</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/c/caravagg/11/67sheph.html</field>
+<field name="artist">http://dbpedia.org/resource/Caravaggio</field>
+<field name="city">http://dbpedia.org/resource/Messina</field>
+<field name="height">314</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Adoration of the Shepherds</field>
+<field name="width">211</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Shepherds_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Shepherds_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2327715</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/การนมัสการของคนเลี้ยงแกะ_(การาวัจโจ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Shepherds_(Caravaggio)</field>
+</doc>
+</add>

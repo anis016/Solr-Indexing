@@ -1,0 +1,74 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Cavalier_riant</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Laughing_Cavalier</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Laughing_Cavalier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06w85x</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q965124</field>
+<field name="sameAs">http://mk.dbpedia.org/resource/Насмеаниот_кавалер</field>
+<field name="sameAs">http://dbpedia.org/resource/Laughing_Cavalier</field>
+<field name="sameAs">http://th.dbpedia.org/resource/คาวาเลียร์ผู้หัวเราะ</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Laughing_Cavalier</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_lachende_cavalier</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Cavalier_riant</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Frans_Hals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:17th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1624_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Wallace_Collection</field>
+<field name="abstract">For other uses, see The Laughing Cavalier (disambiguation) The Laughing Cavalier (1624) is a portrait by the Dutch Golden Age painter Frans Hals in the Wallace Collection in London, which has been described as "one of the most brilliant of all Baroque portraits". The title is an invention of the Victorian public and press, dating from its exhibition in the opening display at the Bethnal Green Museum in 1872–75, just after its arrival in England, where it soon began to be regularly reproduced as prints, and was among of the best known old master paintings in Britain. The unknown subject is in fact not laughing, but can be said to have an enigmatic smile, much amplified by his upturned moustaches.</field>
+<field name="label">Laughing Cavalier</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/97/Cavalier_soldier_Hals-1624x.jpg</field>
+<field name="comment">For other uses, see The Laughing Cavalier (disambiguation) The Laughing Cavalier (1624) is a portrait by the Dutch Golden Age painter Frans Hals in the Wallace Collection in London, which has been described as "one of the most brilliant of all Baroque portraits".</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/97/Cavalier_soldier_Hals-1624x.jpg/200px-Cavalier_soldier_Hals-1624x.jpg</field>
+<field name="link_external">http://wallacelive.wallacecollection.org/eMuseumPlus?service=ExternalInterface&amp;module=collection&amp;objectId=64959</field>
+<field name="link_external">http://www.guardian.co.uk/arts/portrait/story/0,11109,739719,00.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Laughing_Cavalier</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Laughing_Cavalier</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Laughing_Cavalier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Laughing_Cavalier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Laughing_Cavalier</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Laughing_Cavalier_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_lachende_cavalier</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Laughing_Cavalier</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q965124</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Laughing_Cavalier</field>
+</doc>
+<doc>
+<field name="uri">http://mk.dbpedia.org/resource/Насмеаниот_кавалер</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Laughing_Cavalier</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/คาวาเลียร์ผู้หัวเราะ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Laughing_Cavalier</field>
+</doc>
+</add>

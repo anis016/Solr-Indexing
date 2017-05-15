@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Melancholy_of_Departure</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Melancholy_of_Departure</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Melancholy_of_Departure</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Melancholy_of_Departure</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Melancholy_of_Departure</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d80nt</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7750928</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1916_paintings</field>
+<field name="abstract">The Melancholy of Departure (1916) is a painting by the Greek-Italian metaphysical painter Giorgio de Chirico. This painting was created after de Chirico returned to Italy from Paris to join the Italian Army in World War I. During this time de Chirico was moving away from the bright open scenes of his previous work. He was now focusing on more abstract combinations of objects and indoor settings, and seeking to paint the hidden meanings behind the surface of things. The themes of travel and departure are present in much of de Chirico's canon, as seen in his many paintings of trains and railways stations. This painting depicts a random cluster of objects used to make paintings, and an easel which holds up a triangular map. The map shows a channel between two land masses with outlines of different routes. The surroundings are the inside of a room at night. The room has an open archway through which can be seen a tower. This is the second painting by de Chirico by this title after his 1914 work Gare Montparnasse (The Melancholy of Departure). In 1987 the American jazz musicians Mark Isham and Art Lande released a song titled “The Melancholy of Departure” on their collaborative album We Begin.</field>
+<field name="label">The Melancholy of Departure</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c0/The_Melancholy_of_Departure.jpg</field>
+<field name="comment">The Melancholy of Departure (1916) is a painting by the Greek-Italian metaphysical painter Giorgio de Chirico. This painting was created after de Chirico returned to Italy from Paris to join the Italian Army in World War I. During this time de Chirico was moving away from the bright open scenes of his previous work. He was now focusing on more abstract combinations of objects and indoor settings, and seeking to paint the hidden meanings behind the surface of things.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/The_Melancholy_of_Departure.jpg/200px-The_Melancholy_of_Departure.jpg</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&amp;workid=2203&amp;searchid=9474</field>
+<field name="artist">http://dbpedia.org/resource/Giorgio_de_Chirico</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">68.2</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Tate_Modern</field>
+<field name="title">The Melancholy of Departure</field>
+<field name="width">52.4</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Melancholy_of_Departure</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Melancholy_of_Departure</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7750928</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Melancholy_of_Departure</field>
+</doc>
+</add>

@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Untitled_(Black_on_Grey)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Untitled_(Black_on_Grey)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Untitled_(Black_on_Grey)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Untitled_(Black_on_Grey)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Untitled_(Black_on_Grey)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7897693</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06w5btt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1970_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Mark_Rothko</field>
+<field name="abstract">Untitled (Black on Grey) is a painting of a black rectangle and a grey rectangle. There is a build up of thin, translucent layers of differently shaded blacks, which are luminous and warm, and not at all forbidding. The overall effect is strangely ambiguous, neither space nor substance, and Mark Rothko himself described them as touching upon the 'historical sublime'. Rothko suffered an aortic aneurysm in mid-1968 and during his recuperation he was able only to work on stretched paper. The edges were secured using a gummed tape that left a white margin of bare paper at the edge when it was removed. This led to the first of the 'black and grey' paintings that immediately introduced new formal elements: The new paintings were in two parts, above and below a single dividing line. A division ran right across the image, from one edge to the other like a horizon line. The painted area was framed with a band of white just over a centimetre wide. Later on, Rothko taped the edges of his canvases before painting, so as to produce the same effect. When asked about the 'grey and black' paintings, he said, quite simply, that they were about death. They are desolate, empty images, but they also afford a richly ambiguous visual experience. Their landscape like qualities, with the black at the top — an Arctic wasteland under a vast and empty sky — is at the same time more deathlike.</field>
+<field name="label">Untitled (Black on Grey)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/08/RothkoBlackGray.jpg</field>
+<field name="comment">Untitled (Black on Grey) is a painting of a black rectangle and a grey rectangle. There is a build up of thin, translucent layers of differently shaded blacks, which are luminous and warm, and not at all forbidding. The overall effect is strangely ambiguous, neither space nor substance, and Mark Rothko himself described them as touching upon the 'historical sublime'. Rothko suffered an aortic aneurysm in mid-1968 and during his recuperation he was able only to work on stretched paper.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/08/RothkoBlackGray.jpg/200px-RothkoBlackGray.jpg</field>
+<field name="artist"/>
+<field name="height">203.3</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="museum">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="title">Untitled</field>
+<field name="type">Acrylic on canvas</field>
+<field name="width">175.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Untitled_(Black_on_Grey)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Untitled_(Black_on_Grey)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7897693</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Untitled_(Black_on_Grey)</field>
+</doc>
+</add>

@@ -1,0 +1,128 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Турецкие_бани_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Turkish_Bath</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/حمام_ترکی</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Het_Turkse_bad</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Bainu_Turkiarra</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Турецкие_бани_(картина)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_baño_turco</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2027662</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Turkish_Bath</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/土耳其浴女</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Bain_turc</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Το_τουρκικό_λουτρό</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/O_baño_turco</field>
+<field name="sameAs">http://ro.dbpedia.org/resource/Baia_turcească</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05my2qm</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Łaźnia_turecka</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nudity</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1862_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean_Auguste_Dominique_Ingres</field>
+<field name="abstract">The Turkish Bath (Le Bain Turc) is an 1862 painting by the 82-year-old Jean-Auguste-Dominique Ingres, showing nude women in a harem. Originally rectangular, it was altered to its present tondo form by the artist in 1863. Its erotic content did not provoke a scandal (as compared, say, with Manet's publicly exhibited 1863 Déjeuner sur l'herbe) since for much its life it has remained in private collections. It is now in the Louvre.</field>
+<field name="label">The Turkish Bath</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c9/Le_Bain_Turc,_by_Jean_Auguste_Dominique_Ingres,_from_C2RMF_retouched.jpg</field>
+<field name="comment">The Turkish Bath (Le Bain Turc) is an 1862 painting by the 82-year-old Jean-Auguste-Dominique Ingres, showing nude women in a harem. Originally rectangular, it was altered to its present tondo form by the artist in 1863. Its erotic content did not provoke a scandal (as compared, say, with Manet's publicly exhibited 1863 Déjeuner sur l'herbe) since for much its life it has remained in private collections. It is now in the Louvre.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Le_Bain_Turc,_by_Jean_Auguste_Dominique_Ingres,_from_C2RMF_retouched.jpg/200px-Le_Bain_Turc,_by_Jean_Auguste_Dominique_Ingres,_from_C2RMF_retouched.jpg</field>
+<field name="link_external">http://www.artble.com/artists/jean_auguste_dominique_ingres/paintings/the_turkish_bath</field>
+<field name="link_external">http://mucri.univ-paris1.fr/mucri11/article.php3?id_article=115&amp;var_recherche=makarius</field>
+<field name="link_external">http://mucri.univ-paris1.fr/mucri11/</field>
+<field name="link_external">http://www.mheu.org/en/bathing/</field>
+<field name="artist"/>
+<field name="height">108</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Turkish Bath</field>
+<field name="type">oil on wood</field>
+<field name="width">108</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Turkish_Bath</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Το_τουρκικό_λουτρό</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_baño_turco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Bain_turc</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Łaźnia_turecka</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Turkish_Bath</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Turkish_Bath_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Het_Turkse_bad</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Bainu_Turkiarra</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2027662</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/土耳其浴女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/حمام_ترکی</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/O_baño_turco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+<doc>
+<field name="uri">http://ro.dbpedia.org/resource/Baia_turcească</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Turkish_Bath</field>
+</doc>
+</add>

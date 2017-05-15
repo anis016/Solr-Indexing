@@ -1,0 +1,58 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Office_at_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch2_r8</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Office_at_Night</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Office_at_Night</field>
+<field name="sameAs">http://dbpedia.org/resource/Office_at_Night</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7079154</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/夜のオフィス</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1940_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edward_Hopper</field>
+<field name="abstract">Office at Night http://markelt. files. wordpress. com/2009/04/office_at_night_1940. jpg is a 1940 painting by the American realist painter Edward Hopper. It is currently owned by the Walker Art Center in Minneapolis, Minnesota, which purchased the painting in 1948. The painting depicts an office, occupied by an attractive young woman in a short-sleeved blue dress, who is standing at an open file cabinet, and a slightly older man who is perhaps in early middle age. He is dressed in a three-piece suit and is seated behind a desk. The nature of the office is unclear—it could just as easily be the office of a lawyer, an accountant, or of a small business.</field>
+<field name="label">Office at Night</field>
+<field name="comment">Office at Night http://markelt. files. wordpress. com/2009/04/office_at_night_1940. jpg is a 1940 painting by the American realist painter Edward Hopper. It is currently owned by the Walker Art Center in Minneapolis, Minnesota, which purchased the painting in 1948. The painting depicts an office, occupied by an attractive young woman in a short-sleeved blue dress, who is standing at an open file cabinet, and a slightly older man who is perhaps in early middle age.</field>
+<field name="name"/>
+<field name="link_external">http://artmodel.files.wordpress.com/2011/01/hopper-hotelbyarailroad.jpg</field>
+<field name="link_external">http://artmight.com/albums/classic-e/Edward-Hopper/Hopper-Edward-Night-Windows.jpg</field>
+<field name="link_external">http://arttattler.com/Images/Archive/EdwardHopper/hoppereveningwind.jpg</field>
+<field name="link_external">http://www.paintinghere.com/UploadPic/Edward%20Hopper/big/Summertime.jpg</field>
+<field name="link_external">http://collections.walkerart.org/item/object/191</field>
+<field name="link_external">http://www.atuttascuola.it/contributi/arte/hopper/eleven_a_m.jpg</field>
+<field name="link_external">http://www.artchive.com/artchive/H/hopper/ntoffice.jpg.html</field>
+<field name="link_external">http://markelt.files.wordpress.com/2009/04/office_at_night_1940.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Edward_Hopper</field>
+<field name="city">http://dbpedia.org/resource/Minneapolis</field>
+<field name="city">http://dbpedia.org/resource/Minnesota</field>
+<field name="museum">http://dbpedia.org/resource/Walker_Art_Center</field>
+<field name="title">Office at Night</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Office_at_Night</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Office_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Office_at_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Office_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Office_at_Night</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Office_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/夜のオフィス</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Office_at_Night</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7079154</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Office_at_Night</field>
+</doc>
+</add>

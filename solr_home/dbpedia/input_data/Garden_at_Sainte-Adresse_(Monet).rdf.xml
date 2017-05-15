@@ -1,0 +1,87 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Терраса_в_Сент-Адресс</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_terraza_de_Sainte-Adresse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q432253</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_terrazza_a_Sainte-Adresse</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Terrasse_à_Sainte-Adresse</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Kert_Sainte-Adresse-ben_(festmény)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_terraza_de_Sainte-Adresse</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Taras_nad_morzem_w_Saint_Adresse</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05fb8zp</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Terras_in_Sainte-Adresse</field>
+<field name="sameAs">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Терраса_в_Сент-Адресс</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1867_paintings</field>
+<field name="abstract">The Garden at Sainte-Adresse is a painting by the French impressionist painter, Claude Monet. (Oil on canvas, 98.1 cm x 129.9 cm). The painting was acquired by the Metropolitan Museum of Art after an auction sale at Christie's in December 1967, under the French title La terrasse à Sainte-Adresse. The painting was exhibited at the 4th Impressionist exhibition, Paris, April 10–May 11, 1879, as no. 157 under the title Jardin à Sainte-Adresse. Monet spent the summer of 1867 at the resort town of Sainte-Adresse on the English Channel, near Le Havre (France). It was there, in a garden with a view of Honfleur on the horizon, that he painted this picture, which combines smooth, traditionally rendered areas with sparkling passages of rapid, separate brushwork, and spots of pure colour. The models were probably Monet's father, Adolphe, in the foreground, Monet' cousin Jeanne Marguérite Lecadre at the fence; Dr. Adolphe Lecadre, her father; and perhaps Lecadre's other daughter, Sophie, the woman seated with her back to the viewer. Although the scene projects affluent domesticity, it is by no means a family portrait. Monet's relations with his father were tense that summer, owing to family disapproval of the young artist's liaison with his companion, Camille Doncieux. Monet called this work in his correspondence "the Chinese painting in which there are flags"; his friend, Renoir referred to it as "the Japanese painting". In the 1860s, the composition's flat horizontal bands of colour would have reminded the sophisticated of Japanese colour wood-block prints, which were avidly collected by Monet, Manet, Renoir, Whistler and others in their circle. The print by the Japanese artist Hokusai that may have inspired this picture, "Turban-shell Hall of the Five-Hundred-Rakan Temple" (1830), remains today at Monet's house-museum at Giverny. The elevated vantage point and relatively even sizes of the horizontal areas emphasize the two-dimensionality of the painting. The three horizontal zones of the composition seem to rise parallel to the picture plane instead of receding into space. The subtle tension resulting from the combination of illusionism and the two-dimesionality of the surface remained an important characteristic of Monet's style. The painting is now in the New York Metropolitan Museum of Art. It was bought in 1967, with special contributions given or bequeathed by friends of the Museum.</field>
+<field name="label">Garden at Sainte-Adresse (Monet)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/87/Garden_at_Sainte-Adresse.JPG</field>
+<field name="comment">The Garden at Sainte-Adresse is a painting by the French impressionist painter, Claude Monet. (Oil on canvas, 98.1 cm x 129.9 cm). The painting was acquired by the Metropolitan Museum of Art after an auction sale at Christie's in December 1967, under the French title La terrasse à Sainte-Adresse. The painting was exhibited at the 4th Impressionist exhibition, Paris, April 10–May 11, 1879, as no. 157 under the title Jardin à Sainte-Adresse.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/87/Garden_at_Sainte-Adresse.JPG/200px-Garden_at_Sainte-Adresse.JPG</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/New_York</field>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">Jardin à Sainte-Adresse</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Garden_at_Sainte-Adresse_(Monet)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Garden_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Taras_nad_morzem_w_Saint_Adresse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Garden_at_Sainte-Adresse_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Terrasse_à_Sainte-Adresse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_terrazza_a_Sainte-Adresse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Terras_in_Sainte-Adresse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Kert_Sainte-Adresse-ben_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q432253</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Garden_at_Sainte-Adresse_(Monet)</field>
+</doc>
+</add>

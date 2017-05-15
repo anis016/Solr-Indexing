@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_of_Modern_Times</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Seven_Deadly_Sins_of_Modern_Times</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Seven_Deadly_Sins_of_Modern_Times</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Seven_Deadly_Sins_of_Modern_Times</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fq1m_j</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7763432</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Seven_Deadly_Sins_of_Modern_Times</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1993_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="abstract">The Seven Deadly Sins of Modern Times (1993) is an acrylic painting on a wooden table by the contemporary Australian artist Susan Dorothea White. Inspired by the composition and design of The Seven Deadly Sins and the Four Last Things by Hieronymus Bosch, White has instead depicted the inverse virtues taken to extremes – for example, gluttony is supplanted by "dieting", and "sucking up" stands in for envy. In the depiction of each of these deadly sins is an animal or plant which has been introduced to Australia to ill effect, as the cockroach represents squandering and a feral water buffalo demonstrates indifference. Instead of the eye of God which Bosch placed in the center of his design, White has incorporated an enlargement of the iris of her pet cat, which represents Gaia, with the rubric "The Eye of Gaia Sees All". The artist has also produced a woodcut of the same title and similar composition and another large acrylic painting on a wooden table The Seven Deadly Isms - the latter has been described as a "Boschian extravaganza ... depicting such contemporary obsessions as Materialism and Workaholism in intricate figurative tableaux".</field>
+<field name="label">The Seven Deadly Sins of Modern Times</field>
+<field name="comment">The Seven Deadly Sins of Modern Times (1993) is an acrylic painting on a wooden table by the contemporary Australian artist Susan Dorothea White. Inspired by the composition and design of The Seven Deadly Sins and the Four Last Things by Hieronymus Bosch, White has instead depicted the inverse virtues taken to extremes – for example, gluttony is supplanted by "dieting", and "sucking up" stands in for envy.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Seven_Deadly_Sins_of_Modern_Times</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Seven_Deadly_Sins_of_Modern_Times</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Seven_deadly_sins_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7763432</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Seven_Deadly_Sins_of_Modern_Times</field>
+</doc>
+</add>

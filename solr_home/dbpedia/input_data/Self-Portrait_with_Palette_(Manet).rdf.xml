@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Selbstporträt_mit_Palette_(Manet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_with_Palette_(Manet)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Autoportrait_à_la_palette</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_with_Palette_(Manet)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-Portrait_with_Palette_(Manet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bwgc7q</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self-Portrait_with_Palette_(Manet)</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_with_Palette_(Manet)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Selbstporträt_mit_Palette_(Manet)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Autoportrait_à_la_palette</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Autorretrato_(Manet)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q661803</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_%C3%89douard_Manet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1879_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="abstract">Self-Portrait with Palette is an 1878–79 painting by the French artist Édouard Manet. This late, impressionistic work is one of his two self-portraits. Velasquez's self-portrait in Las Meninas was a particular inspiration for Manet's painting, which despite its allusion to the previous artist's work is very modern in its focus upon the personality of the artist and loose paint handling. A long series of prominent collectors have owned this painting, which was sold for a $29.48 million at Sotheby's on 22 June 2010.</field>
+<field name="label">Self-Portrait with Palette (Manet)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/31/Manet_Self-Portrait_with_Palette_v3.jpg</field>
+<field name="comment">Self-Portrait with Palette is an 1878–79 painting by the French artist Édouard Manet. This late, impressionistic work is one of his two self-portraits. Velasquez's self-portrait in Las Meninas was a particular inspiration for Manet's painting, which despite its allusion to the previous artist's work is very modern in its focus upon the personality of the artist and loose paint handling.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Manet_Self-Portrait_with_Palette_v3.jpg/200px-Manet_Self-Portrait_with_Palette_v3.jpg</field>
+<field name="artist">http://dbpedia.org/resource/%C3%89douard_Manet</field>
+<field name="city">http://dbpedia.org/resource/Greenwich,_Connecticut</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">Self-Portrait with Palette</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self-Portrait_with_Palette_(Manet)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self-Portrait_with_Palette_(Manet)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self-Portrait_with_Palette_(Manet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self-Portrait_with_Palette_(Manet)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Autorretrato_(Manet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_with_Palette_(Manet)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q661803</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-Portrait_with_Palette_(Manet)</field>
+</doc>
+</add>

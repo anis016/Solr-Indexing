@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Congress_Voting_Independence</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Congress_Voting_Independence</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Congress_Voting_Independence</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Congress_Voting_Independence</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q176923</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0b75s1c</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Congress_Voting_Independence</field>
+<field name="sameAs">http://dbpedia.org/resource/Congress_Voting_Independence</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1780s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:American_paintings</field>
+<field name="abstract">Congress Voting Independence is a painting by Robert Edge Pine showing the interior of Independence Hall, Philadelphia, and contains the portraits of most of the signers of the United States Declaration of Independence. The artist worked on the painting from 1784 until his death in 1788. The painting is unfinished. It currently is held in Independence Hall, Philadelphia.</field>
+<field name="label">Congress Voting Independence</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0d/Congress_voting_independence.jpg</field>
+<field name="comment">Congress Voting Independence is a painting by Robert Edge Pine showing the interior of Independence Hall, Philadelphia, and contains the portraits of most of the signers of the United States Declaration of Independence. The artist worked on the painting from 1784 until his death in 1788. The painting is unfinished. It currently is held in Independence Hall, Philadelphia.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Congress_voting_independence.jpg/200px-Congress_voting_independence.jpg</field>
+<field name="link_external">http://www.loc.gov/exhibits/declara/declara4.html</field>
+<field name="link_external">http://www.nps.gov/history/museum/exhibits/revwar/image_gal/indeimg/congress.html</field>
+<field name="artist">http://dbpedia.org/resource/Robert_Edge_Pine</field>
+<field name="city">http://dbpedia.org/resource/Philadelphia</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Independence_Hall</field>
+<field name="title">Congress Voting Independence</field>
+<field name="year">c. 1784 - 1788</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Congress_Voting_Independence</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Congress_Voting_Independence</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Congress_Voting_Independence</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Congress_Voting_Independence</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Congress_voting_independence</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q176923</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Congress_Voting_Independence</field>
+</doc>
+</add>

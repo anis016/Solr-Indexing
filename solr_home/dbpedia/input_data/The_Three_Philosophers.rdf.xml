@@ -1,0 +1,105 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_drei_Philosophen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Three_Philosophers</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Los_tres_filósofos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Three_Philosophers</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Tre_filosofi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Three_Philosophers</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Three_Philosophers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Тримата_философи</field>
+<field name="sameAs">http://br.dbpedia.org/resource/An_tri_frederour</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_drei_Philosophen</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q877191</field>
+<field name="sameAs">http://th.dbpedia.org/resource/นักปรัชญาสามคน_(จอร์โจเน)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gv5ts</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Tre_filosofi</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Üç_Filozof</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Los_tres_filósofos</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Trzej_filozofowie</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Three_Philosophers</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Three_Philosophers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Philosophy_and_culture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgione</field>
+<field name="abstract">The Three Philosophers is an oil painting on canvas attributed to the Italian High Renaissance artist Giorgione. It shows three philosophers — one young, one middle-aged, and one old. The work was commissioned by the Venetian noble Taddeo Contarini, a Venetian merchant with an interest for occult and alchemy. The painting was finished by Sebastiano del Piombo. The Three Philosophers was finished around 1509, one year before the painter died. The picture has been reframed with nearly 1/5 width lost and its compositional balance destroyed. The painting is now displayed at the Kunsthistorisches Museum in Vienna. The current name of the work derives from a writing of Marcantonio Michiel, who saw it in a Venetian villa. The three figures portrayed are allegorical: an old bearded man, an Arab, and a sitting young man, enclosed within a natural landscape. In the background is a village with some mountains, the latter marked by a blue area whose meaning is unknown. The young man is observing a cave on the left of the scene, and apparently measuring it with some instruments.</field>
+<field name="label">The Three Philosophers</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a8/Giorgione_-_Three_Philosophers_-_Google_Art_Project.jpg</field>
+<field name="comment">The Three Philosophers is an oil painting on canvas attributed to the Italian High Renaissance artist Giorgione. It shows three philosophers — one young, one middle-aged, and one old. The work was commissioned by the Venetian noble Taddeo Contarini, a Venetian merchant with an interest for occult and alchemy. The painting was finished by Sebastiano del Piombo. The Three Philosophers was finished around 1509, one year before the painter died.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a8/Giorgione_-_Three_Philosophers_-_Google_Art_Project.jpg/200px-Giorgione_-_Three_Philosophers_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.freemasons-freemasonry.com/Giorgione_Three_Philosophers.html</field>
+<field name="link_external">http://smarthistory.khanacademy.org/giorgiones-three-philosophers-c.-1506.html</field>
+<field name="link_external">http://www.googleartproject.com/collection/kunsthistorisches-museum-vienna-museum-of-fine-arts/artwork/three-philosophers-giorgione/684879/details/1-audio/</field>
+<field name="link_external">http://www.giorgione-tizian.at/DIE_DREI_PHILOSOPHEN.html</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">123</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Three Philosophers</field>
+<field name="type">Oil on canvas</field>
+<field name="width">210</field>
+<field name="width">144</field>
+<field name="year">c. 1505–1509</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Three_Philosophers</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Three_Philosophers</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Three_Philosophers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Three_Philosophers</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Trzej_filozofowie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Three_Philosophers</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q877191</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Three_Philosophers</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Тримата_философи</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Three_Philosophers</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/An_tri_frederour</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Three_Philosophers</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/นักปรัชญาสามคน_(จอร์โจเน)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Three_Philosophers</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Üç_Filozof</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Three_Philosophers</field>
+</doc>
+</add>

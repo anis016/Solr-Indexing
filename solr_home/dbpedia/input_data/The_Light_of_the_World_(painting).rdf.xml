@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Light_of_the_World_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Light_of_the_World_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d5sjb</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1757920</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Światłość_świata_(obraz)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Light_of_the_World_(painting)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/La_luce_del_mondo_(Hunt)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Светоч_мира</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Oxford</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Arts_in_London</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William_Holman_Hunt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1854_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Keble_College,_Oxford</field>
+<field name="abstract">The Light of the World (1853–54) is an allegorical painting by William Holman Hunt representing the figure of Jesus preparing to knock on an overgrown and long-unopened door, illustrating Revelation 3:20: "Behold, I stand at the door and knock; if any man hear My voice, and open the door, I will come in to him, and will sup with him, and he with Me". According to Hunt: "I painted the picture with what I thought, unworthy though I was, to be by Divine command, and not simply as a good Subject. " The door in the painting has no handle, and can therefore be opened only from the inside, representing "the obstinately shut mind". Hunt, 50 years after painting it, felt he had to explain the symbolism. The original, painted at night in a makeshift hut at Worcester Park Farm in Surrey, is now in a side room off the large chapel at Keble College, Oxford. Toward the end of his life, Hunt painted a life-size version, which was hung in St Paul's Cathedral, London, after a world tour where the picture drew large crowds. Due to Hunt's increasing infirmity, he was assisted in the completion of this version by English painter Edward Robert Hughes. This painting inspired much popular devotion in the late Victorian period and inspired several musical works, including Sir Arthur Sullivan's 1873 oratorio The Light of the World.</field>
+<field name="label">The Light of the World (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/10/Hunt_Light_of_the_World.jpg</field>
+<field name="comment">The Light of the World (1853–54) is an allegorical painting by William Holman Hunt representing the figure of Jesus preparing to knock on an overgrown and long-unopened door, illustrating Revelation 3:20: "Behold, I stand at the door and knock; if any man hear My voice, and open the door, I will come in to him, and will sup with him, and he with Me". According to Hunt: "I painted the picture with what I thought, unworthy though I was, to be by Divine command, and not simply as a good Subject.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/Hunt_Light_of_the_World.jpg/200px-Hunt_Light_of_the_World.jpg</field>
+<field name="link_external">http://www.victorianweb.org/painting/whh/replete/light.html</field>
+<field name="link_external">http://www.manchestergalleries.org/whats-on/exhibitions/index.php?itemID=45</field>
+<field name="link_external">http://www.gnpcb.org/esv/search/?q=Revelation+3%3A18-22</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Light_of_the_World_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Light_of_the_World_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Światłość_świata_(obraz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Light_of_the_World_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/La_luce_del_mondo_(Hunt)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Light_of_the_World_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Светоч_мира</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Light_of_the_World_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Light_of_the_World_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Light_of_the_World_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Light_of_the_World_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1757920</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Light_of_the_World_(painting)</field>
+</doc>
+</add>

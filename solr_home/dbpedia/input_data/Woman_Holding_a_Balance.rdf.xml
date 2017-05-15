@@ -1,0 +1,122 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_tasadora_de_perlas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pesatrice_di_perle</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Frau_mit_Waage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Mulher_segurando_uma_balança</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ważąca_perły</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Kvinna_som_håller_en_balansvåg</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q969367</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_tasadora_de_perlas</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Femme_à_la_balance</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Frau_mit_Waage</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pesatrice_di_perle</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Vrouw_met_weegschaal</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08v1_q</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Lady_Holding_a_Balance</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Mulher_segurando_uma_balança</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Woman_Holding_a_Balance</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/天秤を持つ女</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1663_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="abstract">Woman Holding a Balance, also called Woman Testing a Balance, is an oil painting by Dutch Baroque artist Johannes Vermeer. At one time the painting, completed 1662-1663, was known as Woman Weighing Gold, but closer evaluation has determined that the balance in her hand is empty. Opinions on the theme and symbolism of the painting differ, with the woman alternatively viewed as a symbol of holiness or earthiness.</field>
+<field name="label">Woman Holding a Balance</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/72/Woman-with-a-balance-by-Vermeer.jpg</field>
+<field name="comment">Woman Holding a Balance, also called Woman Testing a Balance, is an oil painting by Dutch Baroque artist Johannes Vermeer. At one time the painting, completed 1662-1663, was known as Woman Weighing Gold, but closer evaluation has determined that the balance in her hand is empty. Opinions on the theme and symbolism of the painting differ, with the woman alternatively viewed as a symbol of holiness or earthiness.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Woman-with-a-balance-by-Vermeer.jpg/200px-Woman-with-a-balance-by-Vermeer.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/65202/rec/17</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">42.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">A Woman Holding a Balance</field>
+<field name="width">38</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Woman_Holding_a_Balance</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Woman_Holding_a_Balance</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Femme_à_la_balance</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ważąca_perły</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Woman_Holding_a_Balance</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_with_a_Balance</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/天秤を持つ女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Vrouw_met_weegschaal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q969367</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Lady_Holding_a_Balance</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Kvinna_som_håller_en_balansvåg</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Holding_a_Balance</field>
+</doc>
+</add>

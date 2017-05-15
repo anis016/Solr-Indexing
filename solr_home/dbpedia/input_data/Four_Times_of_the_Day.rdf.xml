@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Four_Times_of_the_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Four_Times_of_the_Day</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Four_Times_of_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Four_Times_of_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Four_Parts_of_the_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Four_times_of_the_day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Four_Parts_of_the_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Four_Times_of_the_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Four_Times_of_the_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q720426</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Os_Quatro_Períodos_do_Dia</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Los_cuatro_momentos_del_día</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/一天內的四個時刻</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Four_Times_of_the_Day</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.027srm4</field>
+<field name="sameAs">http://dbpedia.org/resource/Four_Times_of_the_Day</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1738_works</field>
+<field name="abstract">Four Times of the Day is a series of four paintings by English artist William Hogarth. Completed in 1736, they were reproduced as a series of four engravings published in 1738. They are humorous depictions of life in the streets of London, the vagaries of fashion, and the interactions between the rich and poor. Unlike many of Hogarth's other series, such as A Harlot's Progress, A Rake's Progress, Industry and Idleness, and The Four Stages of Cruelty, it does not depict the story of an individual, but instead focuses on the society of the city. Hogarth intended the series to be humorous rather than instructional; the pictures do not offer a judgment on whether the rich or poor are more deserving of the viewer's sympathies: while the upper and middle classes tend to provide the focus for each scene, there are fewer of the moral comparisons seen in some of his other works. The four pictures depict scenes of daily life in various locations in London as the day progresses. Morning shows a prudish spinster making her way to church in Covent Garden past the revellers of the previous night; Noon shows two cultures on opposite sides of the street in St Giles; Evening depicts a dyer's family returning hot and bothered from a trip to Sadler's Wells; and Night shows disreputable goings-on around a drunken freemason staggering home near Charing Cross.</field>
+<field name="label">Four Times of the Day</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b5/Fourtimes.jpg</field>
+<field name="comment">Four Times of the Day is a series of four paintings by English artist William Hogarth. Completed in 1736, they were reproduced as a series of four engravings published in 1738. They are humorous depictions of life in the streets of London, the vagaries of fashion, and the interactions between the rich and poor.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Fourtimes.jpg/200px-Fourtimes.jpg</field>
+<field name="link_external">http://books.google.com/?id=nwgIAAAAMAAJ&amp;printsec=titlepage</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Four_Times_of_the_Day</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Four_Times_of_the_Day</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Los_cuatro_momentos_del_día</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Four_Times_of_the_Day</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Os_Quatro_Períodos_do_Dia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Four_Times_of_the_Day</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q720426</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Four_Times_of_the_Day</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/一天內的四個時刻</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Four_Times_of_the_Day</field>
+</doc>
+</add>

@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h_cxv4</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q23908</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Italian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1760s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Doge on the Bucintoro near the Riva di Sant'Elena (also known as The Departure of the Bucentaur for the Ascension Day Ceremony, and other similar titles) is an oil on canvas by Venetian painter Francesco Guardi, a member of the Venetian School. It was painted between 1766 and 1770, and is currently held and exhibited at the Louvre in Paris.</field>
+<field name="label">The Doge on the Bucintoro near the Riva di Sant'Elena (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3a/Francesco_Guardi_-_The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_-_WGA10855.jpg</field>
+<field name="comment">The Doge on the Bucintoro near the Riva di Sant'Elena (also known as The Departure of the Bucentaur for the Ascension Day Ceremony, and other similar titles) is an oil on canvas by Venetian painter Francesco Guardi, a member of the Venetian School. It was painted between 1766 and 1770, and is currently held and exhibited at the Louvre in Paris.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/Francesco_Guardi_-_The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_-_WGA10855.jpg/200px-Francesco_Guardi_-_The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_-_WGA10855.jpg</field>
+<field name="link_external">http://www.fondazionebucintoro.org/storia_bucintoro05.html</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/bio/g/guardi/francesc/biograph.html</field>
+<field name="artist">http://dbpedia.org/resource/Francesco_Guardi</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">66</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">The Doge on the Bucintoro near the Riva di Sant'Elena</field>
+<field name="type">Oil on canvas</field>
+<field name="width">100</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Departure_of_the_Bucentaur_for_the_Ascension_Day_ceremony_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q23908</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Doge_on_the_Bucintoro_near_the_Riva_di_Sant'Elena_(painting)</field>
+</doc>
+</add>

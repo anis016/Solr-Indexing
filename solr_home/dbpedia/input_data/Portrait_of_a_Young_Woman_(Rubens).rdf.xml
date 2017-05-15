@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(Rubens)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g9y_87</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(Rubens)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232341</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Young_Woman_(Rubens)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Peter_Paul_Rubens</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1603_paintings</field>
+<field name="abstract">For other paintings of this title, see Portrait of a Young Woman (disambiguation). Portrait of a Young Woman is an unfinished painting of around 1603, attributed to Rubens. It may be connected with a commission from Vincenzo Gonzaga, Duke of Mantua mentioned in Rubens' letters, during the latter's time in Italy and Spain, to paint aristocratic Spanish ladies to add to the duke's 'gallery of beauties'. Its subject's name is unknown. Two red seals on its back place it in Venice early in the 19th century and then in the collection of Sir John Hanmer at Bettisfield Park in Wrexham by the 1840s. An anonymous buyer bought it in 1986 and he offered it for sale in December 2009 at Sotheby's, at which point it was given an estimate of up to £6 million, but it failed to sell. In January 2011 an export bar was placed on it until March 2011 (with a possible extension to May 2011) to allow time for a British museum to raise £1 million to purchase it.</field>
+<field name="label">Portrait of a Young Woman (Rubens)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/48/Rubens-Portrait-of-a-Young-Woman-002.jpg</field>
+<field name="comment">For other paintings of this title, see Portrait of a Young Woman (disambiguation). Portrait of a Young Woman is an unfinished painting of around 1603, attributed to Rubens. It may be connected with a commission from Vincenzo Gonzaga, Duke of Mantua mentioned in Rubens' letters, during the latter's time in Italy and Spain, to paint aristocratic Spanish ladies to add to the duke's 'gallery of beauties'. Its subject's name is unknown.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Rubens-Portrait-of-a-Young-Woman-002.jpg/200px-Rubens-Portrait-of-a-Young-Woman-002.jpg</field>
+<field name="link_external">http://www.guardian.co.uk/artanddesign/2011/jan/18/lost-rubens-banned-sold-abroad</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="title">Portrait of a Young Woman</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Young_Woman_(Rubens)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Young_Woman_(Rubens)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232341</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Young_Woman_(Rubens)</field>
+</doc>
+</add>

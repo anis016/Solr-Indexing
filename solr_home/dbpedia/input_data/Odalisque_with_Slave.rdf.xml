@@ -1,0 +1,79 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Odalisque_with_Slave</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Odalisque_à_l'esclave</field>
+<field name="sameAs">http://dbpedia.org/resource/Odalisque_with_Slave</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Odaliska_su_vergu</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0czcvgd</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Odalisque_with_Slave</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3047015</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/کنیزک_با_یک_برده</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1842_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Walters_Art_Museum,_Baltimore</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Orientalism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jean_Auguste_Dominique_Ingres</field>
+<field name="abstract">Odalisque with a Slave is a 1839 orientalist painting by Jean-Auguste-Dominique Ingres commissioned by Charles Marcotte. The painting is on display at the Fogg Art Museum in Cambridge, Massachusetts. Ingres made a second version (shown at right) in 1842 with the help of two of his students, Paul and Jean-Hippolyte Flandrin, which is at the Walters Art Museum in Baltimore. It differs from the original by the presence of a garden painted by Paul Flandrin, inspired by the park at the Château de Dampierre. The work is a classic piece of Orientalism in French painting.</field>
+<field name="label">Odalisque with Slave</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/67/Jean-Paul_Flandrin_-_Odalisque_with_Slave_-_Walters_37887.jpg</field>
+<field name="comment">Odalisque with a Slave is a 1839 orientalist painting by Jean-Auguste-Dominique Ingres commissioned by Charles Marcotte. The painting is on display at the Fogg Art Museum in Cambridge, Massachusetts. Ingres made a second version (shown at right) in 1842 with the help of two of his students, Paul and Jean-Hippolyte Flandrin, which is at the Walters Art Museum in Baltimore.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Jean-Paul_Flandrin_-_Odalisque_with_Slave_-_Walters_37887.jpg/200px-Jean-Paul_Flandrin_-_Odalisque_with_Slave_-_Walters_37887.jpg</field>
+<field name="link_external">http://art.thewalters.org/viewwoa.aspx?id=18275</field>
+<field name="link_external">http://www.artmuseums.harvard.edu/collection/detail.dot?objectid=1943.251&amp;startDate=&amp;sort=Accession+%23&amp;objtitle=&amp;department=&amp;subject=&amp;century=&amp;endDate=&amp;object=&amp;sortInSession=false&amp;historicalPeriod=&amp;viewlightbox=false&amp;mediaTek=&amp;relatedworks=false&amp;accession=&amp;origPage=1&amp;creationPlaceTerm=%28Any%29&amp;artist=Ingres%2C+Jean-Auguste-Dominique&amp;creationPlace=&amp;culture=&amp;fulltext=&amp;pc=1&amp;page=2</field>
+<field name="artist">http://dbpedia.org/resource/Jean_Auguste_Dominique_Ingres</field>
+<field name="city">http://dbpedia.org/resource/Baltimore</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Walters_Art_Museum</field>
+<field name="title">Odalisque with a Slave</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Odalisque_with_Slave</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Odalisque_with_Slave</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Odalisque_à_l'esclave</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Odalisque_with_Slave</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Odalisque_%C3%A0_l'esclave</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Odalisque_with_Slave</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Odalisque_with_Slave</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/L'Odalisque_a_l'esclave</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Odalisque_with_a_Slave</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3047015</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Odalisque_with_Slave</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/کنیزک_با_یک_برده</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Odalisque_with_Slave</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Odaliska_su_vergu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Odalisque_with_Slave</field>
+</doc>
+</add>

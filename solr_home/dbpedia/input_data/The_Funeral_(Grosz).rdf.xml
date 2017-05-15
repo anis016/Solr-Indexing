@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Funeral_(Grosz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7735459</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.063yy9w</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Funeral_(Grosz)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Funeral_(Grosz)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1918_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Expressionist_paintings</field>
+<field name="abstract">The Funeral (often The Funeral) is a painting by the German Expressionist artist George Grosz, completed between 1917 and 1918. The work combines elements of Futurism and Cubism to show a funeral procession in a modern urban city, as an infernal abyss populated by twisted and grotesque attendants. The painting is dedicated to the German psychiatrist and avant-garde writer Oskar Panizza, noted for his play Liebeskonzil, which draws on the first historically documented outbreak of syphilis and depicts God the Father as a senile old man. Although his works were deemed blasphemous by both the Church and government of Emperor Wilhelm II, they were later admired by the Grosz's idealistic generation . The painting seeks to emulate medieval depictions hellscapes, mainly through dramatic colourisation—in particular through its use of red light—and as well as through the depictions of multitudes of layered distorted bodies and limbs, echoing the work of Brugel in the 11th century. A skeleton representing the Grim Reaper sits on the coffin, drinking from a bottle. A mob of mourners gathered around him are presented as ugly, frenzied and as if ridden with alcoholism and late-stage syphilis . Tall claustrophobic buildings are lined above the procession. They seem to heave and bend backwards and forwards, as if about to topple over and collaspe onto those cluddered below. Among these buildings is a lone small church, surrounded by bars, nightclubs and offices. Giving a literal voice to the "Dance of Death" depicted by the artist, a sign over one club reads "DANCE TONIGHT". Explaining his intention when creating the work, Grosz said, "In a strange street by night, a hellish procession of dehumanized figures mills, their faces reflecting alcohol, syphilis, plague ... I painted this protest against a humanity that had gone insane."</field>
+<field name="label">The Funeral (Grosz)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/18/Grosz_Widmung_an_Oskar_Panizza.jpg</field>
+<field name="comment">The Funeral (often The Funeral) is a painting by the German Expressionist artist George Grosz, completed between 1917 and 1918. The work combines elements of Futurism and Cubism to show a funeral procession in a modern urban city, as an infernal abyss populated by twisted and grotesque attendants.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Grosz_Widmung_an_Oskar_Panizza.jpg/200px-Grosz_Widmung_an_Oskar_Panizza.jpg</field>
+<field name="artist">http://dbpedia.org/resource/George_Grosz</field>
+<field name="height">140</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">The Funeral</field>
+<field name="type">Oil on canvas</field>
+<field name="width">110</field>
+<field name="year">c. 1917–18</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Funeral_(Grosz)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Funeral_(Grosz)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Funeral_(Dedicated_to_Oskar_Panizza)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Funeral_(Grosz)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Funeral_(Grosz)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7735459</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Funeral_(Grosz)</field>
+</doc>
+</add>

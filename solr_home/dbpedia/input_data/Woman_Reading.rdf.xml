@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Woman_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/امرأة_تقرأ</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Reading</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Dona_llegint</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3773123</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vwhb5</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Mujer_leyendo</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Maouez_o_lenn</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Woman_Reading</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1894_paintings</field>
+<field name="abstract">Woman Reading is a painting by Henri Matisse from 1894. It hangs in the Museum of Modern Art in Paris. It shows the calmness of the woman. The painting is in a calm, relaxing atmosphere.</field>
+<field name="label">Woman Reading</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3c/Reading_henri_matisse.jpg</field>
+<field name="comment">Woman Reading is a painting by Henri Matisse from 1894. It hangs in the Museum of Modern Art in Paris. It shows the calmness of the woman. The painting is in a calm, relaxing atmosphere.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Reading_henri_matisse.jpg/200px-Reading_henri_matisse.jpg</field>
+<field name="link_external">http://www.henri-matisse.net/paintings/aa.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Woman_Reading</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Woman_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Mujer_leyendo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Woman_Reading</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Woman_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3773123</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/امرأة_تقرأ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Maouez_o_lenn</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Reading</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Dona_llegint</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Woman_Reading</field>
+</doc>
+</add>

@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_with_a_Church_at_Twilight</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Landscape_with_a_Church_at_Twilight</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmjtxb</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_a_Church_at_Twilight</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6485129</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1883_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="abstract">Landscape with a Church at Twilight is an oil painting created in 1883 by Vincent van Gogh.</field>
+<field name="label">Landscape with a Church at Twilight</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8e/Landscape_with_a_Church_at_Twilight.jpg</field>
+<field name="comment">Landscape with a Church at Twilight is an oil painting created in 1883 by Vincent van Gogh.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Landscape_with_a_Church_at_Twilight.jpg/200px-Landscape_with_a_Church_at_Twilight.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">Landscape with a Church at Twilight</field>
+<field name="type">oil painting</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Landscape_with_a_Church_at_Twilight</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Landscape_with_a_Church_at_Twilight</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Landscape_with_a_Church_at_Twilight</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Landscape_with_a_Church_at_Twilight</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6485129</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_a_Church_at_Twilight</field>
+</doc>
+</add>

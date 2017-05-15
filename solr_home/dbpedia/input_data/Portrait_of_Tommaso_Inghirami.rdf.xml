@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Tommaso_Inghirami_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Fedra_Inghirami</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Tommaso_Inghirami</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Tommaso_Inghirami</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Tommaso_Inghirami</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Tommaso_Inghirami</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Tommaso_İngiraminin_portreti_(Rafael)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q428274</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Tommaso_Inghirami</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_Tommaso_Inghirami</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Tommaso_Inghirami</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Fedra_Inghirami</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08m5dp</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1509_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="abstract">Portrait of Tommaso Inghirami is an oil painting by Italian artist Raphael. Painted ca. 1509, it exists in two copies, one of which is in display in the Palatina Gallery in Florence and the other in the Isabella Stewart Gardner Museum in Boston. Known for its realism and attention to detail, the image is reminiscent of works by Hans Holbein the Elder, by whom Raphael may have been influenced in its execution. Stylistically, it relates to Raphael's Portrait of Agnolo Doni, ca.1506, in what Claudio Strinati described in 1998 as its "merciless clarity. " The subject of the painting, Tommaso Inghirami, was a friend of Raphael's, a prelate nicknamed Phaedra following a skillful exhibition of Latin poetry improvisation during a performance of Seneca's Phaedra wherein he carried the title role. A popular orator and actor, Tommaso Inghirami suffered from strabismus. According to 2005's Cambridge Companion to Raphael, the piece is "the first likeness into which Raphael introduced the concept of movement", in the twist of his body as he contemplates his composition. By means of this device, Raphael focused attention away from his subject's disfigurement.</field>
+<field name="label">Portrait of Tommaso Inghirami</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1e/Inghirami_Raphael.jpg</field>
+<field name="comment">Portrait of Tommaso Inghirami is an oil painting by Italian artist Raphael. Painted ca. 1509, it exists in two copies, one of which is in display in the Palatina Gallery in Florence and the other in the Isabella Stewart Gardner Museum in Boston. Known for its realism and attention to detail, the image is reminiscent of works by Hans Holbein the Elder, by whom Raphael may have been influenced in its execution.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Inghirami_Raphael.jpg/200px-Inghirami_Raphael.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="height">91</field>
+<field name="image"/>
+<field name="title">Portrait of Tommaso Inghirami</field>
+<field name="width">61</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Tommaso_Inghirami</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Tommaso_Inghirami</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_Tommaso_Inghirami</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Tommaso_Inghirami</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q428274</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Tommaso_Inghirami</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Tommaso_İngiraminin_portreti_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Tommaso_Inghirami</field>
+</doc>
+</add>

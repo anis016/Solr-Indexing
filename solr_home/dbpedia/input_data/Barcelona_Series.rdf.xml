@@ -1,0 +1,80 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Série_Barcelona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barcelona_Series</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/バルセロナ・シリーズ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barcelona_Series</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Барселонская_серия</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barcelona_Series</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Barcelona_Series</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2633337</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h65p88</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Barcelona_Series</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Барселонская_серия</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Barcelona_(Miró)</field>
+<field name="sameAs">http://dbpedia.org/resource/Barcelona_Series</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Serie_Barcelona</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Sèrie_Barcelona</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Série_Barcelona</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/バルセロナ・シリーズ</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1944_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joan_Mir%C3%B3</field>
+<field name="abstract">The Barcelona Series is a series of fifty black and white lithographs made by Joan Miró and published in 1944. They are currently in the permanent collection of the Miró Foundation in Barcelona.</field>
+<field name="label">Barcelona Series</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/88/006-Barcelona-Series.jpg</field>
+<field name="comment">The Barcelona Series is a series of fifty black and white lithographs made by Joan Miró and published in 1944. They are currently in the permanent collection of the Miró Foundation in Barcelona.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/88/006-Barcelona-Series.jpg/200px-006-Barcelona-Series.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Joan_Mir%C3%B3</field>
+<field name="city">http://dbpedia.org/resource/Barcelona</field>
+<field name="imageSize">240</field>
+<field name="museum">http://dbpedia.org/resource/Fundaci%C3%B3_Joan_Mir%C3%B3</field>
+<field name="title">Barcelona Series</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Barcelona_Series</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Barcelona_Series</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Barcelona_(Miró)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barcelona_Series</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Serie_Barcelona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barcelona_Series</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Barcelona_Series</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Barcelona_Series</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2633337</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barcelona_Series</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Sèrie_Barcelona</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Barcelona_Series</field>
+</doc>
+</add>

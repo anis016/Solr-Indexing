@@ -1,0 +1,112 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2472983</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Last_Supper_(Tintoretto)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Última_Cena_(Tintoretto,_San_Giorgio_Maggiore)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Тайная_вечеря_(картина_Тинторетто)</field>
+<field name="sameAs">http://fur.dbpedia.org/resource/Ultime_Cene_(Tintoretto)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ultima_Cena_(Tintoretto)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ostatnia_Wieczerza_(obraz_Jacopa_Tintoretta)</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/הסעודה_האחרונה_(טינטורטו)</field>
+<field name="sameAs">http://sh.dbpedia.org/resource/Posljednja_večera_(Tintoretto)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zq88s</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Posljednja_večera_(Tintoretto)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tintoretto</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1590s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Last Supper (1592-1594) is a painting by the Italian Renaissance artist Jacopo Tintoretto. It is housed in the Basilica di San Giorgio Maggiore in Venice, northern Italy.</field>
+<field name="label">Last Supper (Tintoretto)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/3e/Tintosoup.jpg</field>
+<field name="comment">The Last Supper (1592-1594) is a painting by the Italian Renaissance artist Jacopo Tintoretto. It is housed in the Basilica di San Giorgio Maggiore in Venice, northern Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Tintosoup.jpg/200px-Tintosoup.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Tintoretto</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="height">365</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Church_of_San_Giorgio_Maggiore</field>
+<field name="title">Last Supper</field>
+<field name="width">568</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Last_Supper_(Tintoretto)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Last_Supper_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ostatnia_Wieczerza_(obraz_Jacopa_Tintoretta)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Тайная_вечеря_(картина_Тинторетто)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ultima_Cena_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Last_Supper_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Last_supper_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Supper_(1592)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Last_Supper_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Última_Cena_(Tintoretto,_San_Giorgio_Maggiore)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2472983</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/הסעודה_האחרונה_(טינטורטו)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Posljednja_večera_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://sh.dbpedia.org/resource/Posljednja_večera_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+</doc>
+<doc>
+<field name="uri">http://fur.dbpedia.org/resource/Ultime_Cene_(Tintoretto)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Last_Supper_(Tintoretto)</field>
+</doc>
+</add>

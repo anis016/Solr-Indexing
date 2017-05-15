@@ -1,0 +1,84 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Autoportrait_avec_un_ami</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_with_a_friend_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Autoritratto_con_un_amico</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_with_a_friend_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-portrait_with_a_friend_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2275653</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Autoportrait_avec_un_ami</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Bir_Arkadaşı_ile_Kendi_Portresi_(Rafael)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08mx_h</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Autoritratto_con_un_amico</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Dost_ilə_birgə_portret_(Rafael)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Autoportret_z_przyjacielem_(obraz_Raffaela)</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_with_a_friend_(Raphael)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Self-portrait_with_a_friend_(Raphael)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Raphael_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1520_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="abstract">The Self-Portrait with a friend (also known as Double Portrait) is a painting by Italian High Renaissance painter Raphael. It dates to 1518-1520, and is housed in the Louvre Museum of Paris, France.</field>
+<field name="label">Self-portrait with a friend (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/57/Portrait_de_l'artiste_avec_un_ami,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg</field>
+<field name="comment">The Self-Portrait with a friend (also known as Double Portrait) is a painting by Italian High Renaissance painter Raphael. It dates to 1518-1520, and is housed in the Louvre Museum of Paris, France.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Portrait_de_l'artiste_avec_un_ami,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg/200px-Portrait_de_l'artiste_avec_un_ami,_by_Raffaello_Sanzio,_from_C2RMF_retouched.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=123</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">99</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/The_Louvre</field>
+<field name="title">Self-Portrait with a Friend</field>
+<field name="width">83</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Self-portrait_with_a_friend_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Self-portrait_with_a_friend_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Self-portrait_with_a_friend</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Self-portrait_with_a_friend_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Self-portrait_with_a_friend_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Autoportret_z_przyjacielem_(obraz_Raffaela)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_with_a_friend_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2275653</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_with_a_friend_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Dost_ilə_birgə_portret_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_with_a_friend_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Bir_Arkadaşı_ile_Kendi_Portresi_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Self-portrait_with_a_friend_(Raphael)</field>
+</doc>
+</add>

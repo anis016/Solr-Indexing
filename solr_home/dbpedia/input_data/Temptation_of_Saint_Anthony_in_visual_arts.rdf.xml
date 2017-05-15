@@ -1,0 +1,138 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Tríptico_de_las_Tentaciones_de_san_Antonio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/As_Tentações_de_Santo_Antão</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Искушение_святого_Антония_(триптих_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Tentation_de_Saint_Antoine</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Versuchungen_des_heiligen_Antonius</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Tentation_de_saint_Antoine_(Bosch,_Lisbonne)</field>
+<field name="sameAs">http://lv.dbpedia.org/resource/Svētā_Antonija_kārdināšana_(Bosa_triptihs)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Antonius-drieluik</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/წმინდა_ანტონის_ცდუნება</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/As_Tentações_de_Santo_Antão</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Спокуса_святого_Антонія_(Ієронім_Босх)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Tríptico_de_las_Tentaciones_de_san_Antonio</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1217288</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Temptatio_Sancti_Antonii_(Bosch)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Versuchungen_des_heiligen_Antonius</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Kuszenie_św._Antoniego_(tryptyk)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_delle_Tentazioni_di_sant'Antonio</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06_yd1</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Искушение_святого_Антония_(триптих_Босха)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1505_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="abstract">The temptation (or temptations) of St. Anthony is an often-repeated subject in history of art and literature, concerning the supernatural temptation reportedly faced by Saint Anthony the Great during his sojourn in the Egyptian desert. Anthony's temptation is first discussed by Athanasius of Alexandria, Anthony's contemporary, and from then became a popular theme in Western culture. The earliest paintings to employ the scene were Italian frescos of the 10th century. The later European Middle Ages one saw accumulation of the theme in book illumination and later in German woodcuts. About 1500 originated the famous paintings of Martin Schöngauer (ca. 1490), Hieronymus Bosch (ca. 1505) and Mathias Grünewald (ca. 1510). In the modern era the theme has been treated by the Spanish painter Salvador Dalí and the French author Gustave Flaubert, who considered his 1874 book The Temptation of Saint Anthony to be his master work.</field>
+<field name="label">Temptation of Saint Anthony in visual arts</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f8/TriptychOfTemptationOfStAnthony(OuterWings).jpg</field>
+<field name="comment">The temptation (or temptations) of St. Anthony is an often-repeated subject in history of art and literature, concerning the supernatural temptation reportedly faced by Saint Anthony the Great during his sojourn in the Egyptian desert. Anthony's temptation is first discussed by Athanasius of Alexandria, Anthony's contemporary, and from then became a popular theme in Western culture. The earliest paintings to employ the scene were Italian frescos of the 10th century.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/TriptychOfTemptationOfStAnthony(OuterWings).jpg/200px-TriptychOfTemptationOfStAnthony(OuterWings).jpg</field>
+<field name="link_external">http://www.ibiblio.org/wm/paint/auth/bosch/tempt-ant/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Temptation_of_Saint_Anthony_in_visual_arts</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_delle_Tentazioni_di_sant'Antonio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Temptation_of_saint_anthony</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Temptations_of_St._Anthony</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_temptation_of_St._Anthony_in_visual_arts</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Temptation_of_Saint_Anthony_in_visual_arts</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Tentation_de_saint_Antoine_(Bosch,_Lisbonne)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Kuszenie_św._Antoniego_(tryptyk)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Antonius-drieluik</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1217288</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/წმინდა_ანტონის_ცდუნება</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Temptatio_Sancti_Antonii_(Bosch)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://lv.dbpedia.org/resource/Svētā_Antonija_kārdināšana_(Bosa_triptihs)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Спокуса_святого_Антонія_(Ієронім_Босх)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Temptation_of_Saint_Anthony_in_visual_arts</field>
+</doc>
+</add>

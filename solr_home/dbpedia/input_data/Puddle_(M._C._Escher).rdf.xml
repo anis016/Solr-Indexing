@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Puddle_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Puddle_(M._C._Escher)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03w3nh</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7258300</field>
+<field name="sameAs">http://dbpedia.org/resource/Puddle_(M._C._Escher)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Kałuża_(drzeworyt)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1952_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Woodcuts</field>
+<field name="abstract">Puddle is a woodcut print by the Dutch artist M. C. Escher, first printed in February 1952. Since 1936, Escher’s work had become primarily focused on paradoxes, tessellation and other abstract visual concepts. This print, however, is a realistic depiction of a simple image that portrays two perspectives at once. It depicts an unpaved road with a large pool of water in the middle of it at twilight. Turning the print upside-down and focusing strictly on the reflection in the water, it becomes a depiction of a forest with a full moon overhead. The road is soft and muddy and in it there are two distinctly different sets of tire tracks, two sets of footprints going in opposite directions and two bicycle tracks. Escher has thus captured three elements: the water, sky and earth.</field>
+<field name="label">Puddle (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/03/Escher_Puddle.jpg</field>
+<field name="comment">Puddle is a woodcut print by the Dutch artist M. C. Escher, first printed in February 1952. Since 1936, Escher’s work had become primarily focused on paradoxes, tessellation and other abstract visual concepts. This print, however, is a realistic depiction of a simple image that portrays two perspectives at once. It depicts an unpaved road with a large pool of water in the middle of it at twilight.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Escher_Puddle.jpg/200px-Escher_Puddle.jpg</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="title">Puddle</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Puddle_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Puddle_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Kałuża_(drzeworyt)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Puddle_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Puddle_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Puddle_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Puddle_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7258300</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Puddle_(M._C._Escher)</field>
+</doc>
+</add>

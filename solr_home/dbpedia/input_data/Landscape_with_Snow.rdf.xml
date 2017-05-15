@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Landscape_with_Snow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Landscape_with_Snow</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6426375</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmdgq7</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_Snow</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Pejzaż_ze_śniegiem</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1880s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1888_paintings</field>
+<field name="abstract">Landscape with Snow is a painting made by Vincent van Gogh in 1888, believed to be one of the first paintings that he made in Arles. It is one of at least ten oil and watercolor paintings that Van Gogh made of a snowy landscape from 1882 to 1889. The painting reflects the La Crau plains set against Montmajour and hills along the horizon.</field>
+<field name="label">Landscape with Snow</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/6e/Van_Gogh_-_Landschaft_im_Schnee.jpg</field>
+<field name="comment">Landscape with Snow is a painting made by Vincent van Gogh in 1888, believed to be one of the first paintings that he made in Arles. It is one of at least ten oil and watercolor paintings that Van Gogh made of a snowy landscape from 1882 to 1889. The painting reflects the La Crau plains set against Montmajour and hills along the horizon.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/Van_Gogh_-_Landschaft_im_Schnee.jpg/200px-Van_Gogh_-_Landschaft_im_Schnee.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="city"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Solomon_R._Guggenheim_Museum</field>
+<field name="title">Landscape with Snow</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Landscape_with_Snow</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Landscape_with_Snow</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Landscape_with_Snow</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Landscape_with_Snow</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Pejzaż_ze_śniegiem</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_Snow</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6426375</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Landscape_with_Snow</field>
+</doc>
+</add>

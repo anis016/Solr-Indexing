@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_Diptych_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5189814</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_Diptych_(van_der_Weyden)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Crucifixion_Diptych_(van_der_Weyden)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0jt2957</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Philadelphia_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crucifixion_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rogier_van_der_Weyden</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Diptychs</field>
+<field name="abstract">Crucifixion Diptych — also known as Philadelphia Diptych, Calvary Diptych, Christ on the Cross with the Virgin and St. John, or The Crucifixion with the Virgin and Saint John the Evangelist Mourning — is a diptych completed c. 1460 by the Early Netherlandish artist Rogier van der Weyden, today in the Philadelphia Museum of Art. The panels are noted for their technical skill, visceral impact and for possessing a physicality and directness unusual for Netherlandish art of the time. The Philadelphia Museum of Art describes pair as the "greatest Old Master painting in the Museum. " The painting's provenance prior to the mid-19th century is unknown. Its extreme starkness has led art historians to theorize that it was created as a devotional work, possibly for a Carthusian monastery. It is not known if the panels comprised a self-contained diptych, two-thirds of a triptych, or originally were a single panel. Some art historians have mentioned that the work seems unbalanced overall and lacking symmetry (which might indicate a missing panel or panels). Recent scholarship proposes that the panels functioned as the outer shutters of a carved altarpiece.</field>
+<field name="label">Crucifixion Diptych (van der Weyden)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a9/Crucifixion_Diptych_(Rogier_van_der_Weyden).jpg</field>
+<field name="comment">Crucifixion Diptych — also known as Philadelphia Diptych, Calvary Diptych, Christ on the Cross with the Virgin and St. John, or The Crucifixion with the Virgin and Saint John the Evangelist Mourning — is a diptych completed c. 1460 by the Early Netherlandish artist Rogier van der Weyden, today in the Philadelphia Museum of Art. The panels are noted for their technical skill, visceral impact and for possessing a physicality and directness unusual for Netherlandish art of the time.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Crucifixion_Diptych_(Rogier_van_der_Weyden).jpg/200px-Crucifixion_Diptych_(Rogier_van_der_Weyden).jpg</field>
+<field name="link_external">http://digital.library.unt.edu/ark:/67531/metadc5245/m1/1/high_res_d/thesis.pdf</field>
+<field name="link_external">http://books.google.com/books?id=0z5AAAAAYAAJ&amp;pg=PP9&amp;dq=Catalogue+of+a+collection+of+paintings+and+some+art+objects+volume+II&amp;hl=en#v=onepage&amp;q=weyden&amp;f=false</field>
+<field name="link_external">http://www.hnanews.org/hna/conferences/baltimore/papers/tucker.html</field>
+<field name="link_external">http://www.jstor.org/pss/887538</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Crucifixion_Diptych_(van_der_Weyden)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Crucifixion_Diptych_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Crucifixion_Diptych_(van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Crucifixion_Diptych_(van_der_Weyden)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_Diptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crucifixion_Diptych_(Rogier_van_der_Weyden)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5189814</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Crucifixion_Diptych_(van_der_Weyden)</field>
+</doc>
+</add>

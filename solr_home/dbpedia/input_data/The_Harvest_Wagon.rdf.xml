@@ -1,0 +1,51 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Harvest_Wagon_(1784)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Harvest_Wagon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvest_Wagon</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Harvest_Wagon</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06znrzj</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7738969</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Gainsborough</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1760s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Art_Gallery_of_Ontario</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1780s_paintings</field>
+<field name="abstract">The Harvest Wagon is the name for two paintings done by English artist Thomas Gainsborough. The first was done around 1767 and is today owned by the Barber Institute of Fine Arts, in Birmingham, England. The later painting was done around 1784 and is part of the collection of the Art Gallery of Ontario. The later painting is the better known of the two. It was donated to the Art Gallery of Ontario by Frank P Wood. It is one of the most prominent pieces in the collection of the AGO. Both paintings depict a group of peasants riding inside a simple wagon through a rural landscape with a collection of nearby animals. A young boy leads the wagon, while a man helps lift a young woman aboard. The painting is set in the area around Gainsborough's adopted city of Bath, where he lived for 14 years of his life. In 1995 the two museums collaborated on a joint show that displayed the two versions side by side, first on display in England and then in Canada. The two paintings of a similar subject done some seventeen years apart show the evolution of Gainsborough as an artist. The later painting is more sedate, the figures more composed and less excited. Gainsborough scholar Hugh Besley sees landscape, people, and animals being more unified in the later work. He also sees more influence of Reubens on Gainsborough's style and technique. Reubens The Descent from the Cross being an especially important influence. The woman being pulled up is ascending to the wagon, in a motion opposite to Christ's. Christina Payne has observed some of the symbolism in the 1784 work, noting that the broken pitcher placed in front of the pregnant passenger may be linked to a pitcher then being a symbol of virginity. The later painting is also far more intimate to the artist as the women in the wagon are portrait's of Gainsborough's own daughters, Mary and Margaret. The first work could not find a buyer, perhaps being too ribald for the art market of the time. It was thus given to Gainsborough's friend Wiltshire, a mover who transported Gainsborough's paintings from Bath to exhibitions in London. Wiltshire's horses had also served as the model of the animals in the picture. The painting remained in Wiltshire's family until his grandson sold it in 1867. The second painting, done at the height of Gainsborough's fame, was sold to the Prince of Wales, later to become King George IV. It later became part of the collection of American steel magnate Elbert Henry Gary. Upon Gary's death in 1927 his collection was auctioned off, and The Harvest Wagon was one of the most sought after works. After a competitive auction it was purchased by art dealer Joseph Duveen for $360,000, then the highest price ever paid at auction for a painting in the United States. Duveen later sold it to Canadian art collector Frank P. Wood for $450,000, and Wood then donated it to the Art Gallery of Ontario. In 1959 the painting was somewhat damaged during an attempted robbery when the thieves tried to cut the painting out of its frame.</field>
+<field name="label">The Harvest Wagon</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/68/Thomas_Gainsborough_001.jpg</field>
+<field name="comment">The Harvest Wagon is the name for two paintings done by English artist Thomas Gainsborough. The first was done around 1767 and is today owned by the Barber Institute of Fine Arts, in Birmingham, England. The later painting was done around 1784 and is part of the collection of the Art Gallery of Ontario. The later painting is the better known of the two. It was donated to the Art Gallery of Ontario by Frank P Wood. It is one of the most prominent pieces in the collection of the AGO.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Thomas_Gainsborough_001.jpg/200px-Thomas_Gainsborough_001.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Thomas_Gainsborough</field>
+<field name="city">http://dbpedia.org/resource/Toronto</field>
+<field name="city">http://dbpedia.org/resource/Birmingham</field>
+<field name="image"/>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Barber_Institute_of_Fine_Arts</field>
+<field name="museum">http://dbpedia.org/resource/Art_Gallery_of_Ontario</field>
+<field name="title">The Harvest Wagon</field>
+<field name="year">c. 1784</field>
+<field name="year">c. 1767</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Harvest_Wagon</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Harvest_Wagon</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Harvest_Wagon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Harvest_Wagon</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7738969</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Harvest_Wagon</field>
+</doc>
+</add>

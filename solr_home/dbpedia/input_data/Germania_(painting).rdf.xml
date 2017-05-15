@@ -1,0 +1,68 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Germania_(Philipp_Veit)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Germania_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Germania_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Germania_(festmény)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.068dfs</field>
+<field name="sameAs">http://no.dbpedia.org/resource/«Germania»_(maleri)</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Germania_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q265201</field>
+<field name="sameAs">http://dbpedia.org/resource/Germania_(painting)</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Germania_(Philipp_Veit)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Germania_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:German_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Romantic_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:National_personifications</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1848_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:German_culture</field>
+<field name="abstract">Germania is a painting by Philipp Veit created in March 1848 during the Revolutions of 1848. This allegorical figure is represented with the imperial Eagle, oak leaves (symbols of German strength), a hemp branch (as a sign of peace), and a banner. It was hung in the National Assembly in Frankfurt's Paulskirche, where it concealed the organ. It was meant as a symbol of a united democratic Germany and remained a national personification until the end of World War I. Germania has been placed in the Germanisches Nationalmuseum in Nuremberg since 1867.</field>
+<field name="label">Germania (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cd/Image_Germania_(painting).jpg</field>
+<field name="comment">Germania is a painting by Philipp Veit created in March 1848 during the Revolutions of 1848. This allegorical figure is represented with the imperial Eagle, oak leaves (symbols of German strength), a hemp branch (as a sign of peace), and a banner. It was hung in the National Assembly in Frankfurt's Paulskirche, where it concealed the organ. It was meant as a symbol of a united democratic Germany and remained a national personification until the end of World War I.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Image_Germania_(painting).jpg/200px-Image_Germania_(painting).jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Germania_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Germania_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Germania_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Germania_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Germania_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q265201</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Germania_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Germania_(festmény)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Germania_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/«Germania»_(maleri)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Germania_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Germania_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Germania_(painting)</field>
+</doc>
+</add>

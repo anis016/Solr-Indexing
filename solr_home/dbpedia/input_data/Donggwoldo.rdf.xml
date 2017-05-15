@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/동궐도</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Donggwoldo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Donggwoldo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/동궐도</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Đông_Cung_Đồ</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Donggwoldo</field>
+<field name="sameAs">http://dbpedia.org/resource/Donggwoldo</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q626352</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.080gfjh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:National_Treasures_of_South_Korea</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Korean_painting</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Joseon_Dynasty</field>
+<field name="abstract">Donggwoldo (literally "Painting of Eastern Palaces") is a representative Korean painting of the early 19th century, depicting the two royal palaces, Changdeokgung and Changgyeonggung during the Joseon Dynasty. Donggwol is an alternative name of Changdeokgung, located to the East of the main royal palace of the dynasty, Gyeongbokgung. However, the picture also includes Changgyeonggung, an adjacent palace to the former. In 2012, the painting was used as the basis of a restoration project for the Buyongjeong pavilion in the rear garden of the Changdeokgung.</field>
+<field name="label">Donggwoldo</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/11/Korean_art-Donggwoldo-Changdeokgung_and_Changgyeonggung-Dong-A_University-01.jpg</field>
+<field name="comment">Donggwoldo (literally "Painting of Eastern Palaces") is a representative Korean painting of the early 19th century, depicting the two royal palaces, Changdeokgung and Changgyeonggung during the Joseon Dynasty. Donggwol is an alternative name of Changdeokgung, located to the East of the main royal palace of the dynasty, Gyeongbokgung. However, the picture also includes Changgyeonggung, an adjacent palace to the former.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Korean_art-Donggwoldo-Changdeokgung_and_Changgyeonggung-Dong-A_University-01.jpg/200px-Korean_art-Donggwoldo-Changdeokgung_and_Changgyeonggung-Dong-A_University-01.jpg</field>
+<field name="link_external">http://english.donga.com/srv/service.php3?biid=2001050356638&amp;path_dir=20010503</field>
+<field name="artist"/>
+<field name="height">274</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="museum"/>
+<field name="title">Donggwoldo</field>
+<field name="title">동궐도</field>
+<field name="type">Ink on paper and silk</field>
+<field name="width">583</field>
+<field name="year">Around 1830</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Donggwoldo</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Donggwoldo</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Donggwoldo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Donggwoldo</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Donggweoldo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q626352</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Donggwoldo</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Đông_Cung_Đồ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Donggwoldo</field>
+</doc>
+</add>

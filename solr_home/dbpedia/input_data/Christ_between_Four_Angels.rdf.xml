@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cristo_tra_quattro_angeli_con_gli_strumenti_della_Passione</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_between_Four_Angels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_between_Four_Angels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_between_Four_Angels</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_between_Four_Angels</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cristo_tra_quattro_angeli_con_gli_strumenti_della_Passione</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0fqqqjk</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3697673</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1496_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Carpaccio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Christ between Four Angels and the Instruments of the Passion is a painting by the Italian Renaissance master Vittore Carpaccio, executed in 1496 and now housed in the Civici musei e gallerie di storia e arte of Udine, northern Italy. The work was painted for the church of St. Peter Martyr of Udine. It was acquired by the Austrians after the Napoleonic Wars, and assigned to the Hofmuseum in Vienna in 1838. It was given back to Italy in 1919.</field>
+<field name="label">Christ between Four Angels</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2a/Vittore_carpaccio,_cristo_tra_quattro_angeli_con_gli_strumenti_della_Passione,_1496,_udine.jpg</field>
+<field name="comment">The Christ between Four Angels and the Instruments of the Passion is a painting by the Italian Renaissance master Vittore Carpaccio, executed in 1496 and now housed in the Civici musei e gallerie di storia e arte of Udine, northern Italy. The work was painted for the church of St. Peter Martyr of Udine. It was acquired by the Austrians after the Napoleonic Wars, and assigned to the Hofmuseum in Vienna in 1838. It was given back to Italy in 1919.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Vittore_carpaccio,_cristo_tra_quattro_angeli_con_gli_strumenti_della_Passione,_1496,_udine.jpg/200px-Vittore_carpaccio,_cristo_tra_quattro_angeli_con_gli_strumenti_della_Passione,_1496,_udine.jpg</field>
+<field name="link_external">http://www.comune.udine.it/opencms/opencms/release/ComuneUdine/cittavicina/cultura/it/musei/Civici_Musei_e_Gallerie_di_Storia_ed_Arte/pinacoteca/salaIII.htm</field>
+<field name="artist">http://dbpedia.org/resource/Vittore_Carpaccio</field>
+<field name="city">http://dbpedia.org/resource/Udine</field>
+<field name="height">162</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum"/>
+<field name="title">Christ between Four Angels and the Instruments of the Passion</field>
+<field name="type">Oil on panel</field>
+<field name="width">163</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_between_Four_Angels</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_between_Four_Angels</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_between_Four_Angels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_between_Four_Angels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Between_Four_Angels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_Between_Four_Angels_and_the_Instruments_of_the_Passion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_and_the_Instruments_of_the_Passion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3697673</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_between_Four_Angels</field>
+</doc>
+</add>

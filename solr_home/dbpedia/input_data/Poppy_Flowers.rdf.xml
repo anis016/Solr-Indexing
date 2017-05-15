@@ -1,0 +1,62 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vase_and_Flowers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Vase_with_Flowers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Poppy_Flowers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Poppy_Flowers</field>
+<field name="sameAs">http://arz.dbpedia.org/resource/لوحة_زهور_الخشخاش</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0crckwz</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4118041</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/زهور_الخشخاش_(لوحة)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Poppy_Flowers</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Stolen_works_of_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Vincent_van_Gogh</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_paintings</field>
+<field name="abstract">Poppy Flowers (also known as Vase and Flowers and Vase with Viscaria) is a painting by Vincent van Gogh with an estimated value of $50 million to $55 million; it was stolen from Cairo's Mohammed Mahmoud Khalil Museum in August 2010 and is still yet to be found. Egyptian officials erroneously believed they had recovered the painting only hours after its theft when two Italian suspects attempted to board a plane to Italy at Cairo International Airport. The same painting had been stolen from the same museum on June 4, 1977, and was recovered ten years later in Kuwait. The painting is small, measuring 65 x 54 cm, and depicts yellow and red poppy flowers. It is believed that van Gogh painted it in 1887, three years before his suicide. The painting, which is of a vase of yellow and red poppies, contrasted against a dark ground is a reflection of Van Gogh's deep admiration for Adolphe Monticelli, an older painter whose work influenced him when first he saw it in Paris in 1886.</field>
+<field name="label">Poppy Flowers</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ee/Van_Gogh_-_Vase_mit_Pechnelken.jpeg</field>
+<field name="comment">Poppy Flowers (also known as Vase and Flowers and Vase with Viscaria) is a painting by Vincent van Gogh with an estimated value of $50 million to $55 million; it was stolen from Cairo's Mohammed Mahmoud Khalil Museum in August 2010 and is still yet to be found. Egyptian officials erroneously believed they had recovered the painting only hours after its theft when two Italian suspects attempted to board a plane to Italy at Cairo International Airport.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Van_Gogh_-_Vase_mit_Pechnelken.jpeg/200px-Van_Gogh_-_Vase_mit_Pechnelken.jpeg</field>
+<field name="artist">http://dbpedia.org/resource/Vincent_van_Gogh</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="title">Poppy Flowers</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Poppy_Flowers</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Poppy_Flowers</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Poppy_Flowers</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Poppy_Flowers</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4118041</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Poppy_Flowers</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/زهور_الخشخاش_(لوحة)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Poppy_Flowers</field>
+</doc>
+<doc>
+<field name="uri">http://arz.dbpedia.org/resource/لوحة_زهور_الخشخاش</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Poppy_Flowers</field>
+</doc>
+</add>

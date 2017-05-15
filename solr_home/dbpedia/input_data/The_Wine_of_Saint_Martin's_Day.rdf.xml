@@ -1,0 +1,94 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Festa_di_San_Martino_(Bruegel)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_of_Saint_Martin's_Day</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Wino_w_Dniu_Świętego_Marcina</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_of_Saint_Martin's_Day</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wine_of_Saint_Martin%E2%80%99s_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wine_of_Saint_Martin's_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_Wein_zum_Fest_des_Heiligen_Martin</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_Wijn_van_het_Sint-Maartensfeest</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Festa_di_San_Martino_(Bruegel)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_of_Saint_Martin's_Day</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_vino_de_la_fiesta_de_san_Martín</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Wine_of_Saint_Martin's_Day</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1198007</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Wino_w_Dniu_Świętego_Marcina</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0dlm1v8</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Dutch_paintings</field>
+<field name="abstract">The Wine of Saint Martin's Day is the largest painting by Pieter Bruegel the Elder. It is currently held in the Museo del Prado, Madrid. Like much of Bruegel's work it depicts peasant life, in this case a festival known as St. Martin's Day, which involves drinking the first wine of the season.</field>
+<field name="label">The Wine of Saint Martin's Day</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b8/Bruegelsanmartin.jpg</field>
+<field name="comment">The Wine of Saint Martin's Day is the largest painting by Pieter Bruegel the Elder. It is currently held in the Museo del Prado, Madrid. Like much of Bruegel's work it depicts peasant life, in this case a festival known as St. Martin's Day, which involves drinking the first wine of the season.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Bruegelsanmartin.jpg/200px-Bruegelsanmartin.jpg</field>
+<field name="link_external">http://www.nytimes.com/interactive/2010/12/13/arts/design/abroad-the-wine-of-the-feast-of-st-martins-day.html</field>
+<field name="link_external">http://www.bbc.co.uk/news/world-europe-11402594</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">148</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museo_del_Prado</field>
+<field name="title">The Wine of Saint Martin's Day</field>
+<field name="width">270.5</field>
+<field name="year">c. 1565–1568</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Wine_of_Saint_Martin's_Day</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Wine_of_Saint_Martin's_Day</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_Wein_zum_Fest_des_Heiligen_Martin</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_of_Saint_Martin's_Day</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_vino_de_la_fiesta_de_san_Martín</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_of_Saint_Martin's_Day</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Wine_of_Saint_Martin's_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Wine_of_Saint_Martin's_Day</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wine_of_St._Martin's_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wine_of_St_Martin's_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_Wijn_van_het_Sint-Maartensfeest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_of_Saint_Martin's_Day</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1198007</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Wine_of_Saint_Martin's_Day</field>
+</doc>
+</add>

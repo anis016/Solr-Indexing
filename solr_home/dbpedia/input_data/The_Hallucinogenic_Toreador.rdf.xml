@@ -1,0 +1,88 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Toreador</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Галлюциногенный_тореадор</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hallucinogenic_Toreador</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Torero_hallucinogène</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hallucinogenic_Toreador</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hallucinogenic_Toreador</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Hallucinogenic_Toreador</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_hallucinogene_toreador</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2136474</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hallucinogenic_Toreador</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Den_hallucinogene_toreadoren</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.062zpp</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Галлюциногенный_тореадор</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Torero_hallucinogène</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Hallucinogenic_Toreador</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Галюциногенний_тореадор</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1970_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="abstract">The Hallucinogenic Toreador (1968–1970) is an oil painting. Salvador Dalí painted it in 1970, following the canons of his particular interpretation of surrealist thought. It is currently being exhibited at the Salvador Dali Museum in St. Petersburg, Florida. In this piece, Dali transmits his wife's dislike for bullfighting. By combining symbolism with optical illusions and estranging yet familiar motifs, he creates his own visual language. His application of the paranoiac-critical method within this painting combines versatile images as an instructive example of his artistic creation.</field>
+<field name="label">The Hallucinogenic Toreador</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cc/The_Hallucinogenic_Toreador.png</field>
+<field name="comment">The Hallucinogenic Toreador (1968–1970) is an oil painting. Salvador Dalí painted it in 1970, following the canons of his particular interpretation of surrealist thought. It is currently being exhibited at the Salvador Dali Museum in St. Petersburg, Florida. In this piece, Dali transmits his wife's dislike for bullfighting. By combining symbolism with optical illusions and estranging yet familiar motifs, he creates his own visual language.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cc/The_Hallucinogenic_Toreador.png/200px-The_Hallucinogenic_Toreador.png</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/Florida</field>
+<field name="city">http://dbpedia.org/resource/St._Petersburg,_Florida</field>
+<field name="height">398.8</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Salvador_Dali_Museum</field>
+<field name="title">The Hallucinogenic Toreador</field>
+<field name="width">299.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Hallucinogenic_Toreador</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Hallucinogenic_Toreador</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Hallucinogenic_Toreador</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Hallucinogenic_Toreador</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_hallucinogene_toreador</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hallucinogenic_Toreador</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2136474</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hallucinogenic_Toreador</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Den_hallucinogene_toreadoren</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hallucinogenic_Toreador</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Галюциногенний_тореадор</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Hallucinogenic_Toreador</field>
+</doc>
+</add>

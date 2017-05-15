@@ -1,0 +1,33 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bleu_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bleu_II</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4926396</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gh7w0s</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bleu_II</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1961_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joan_Mir%C3%B3</field>
+<field name="abstract">Blue II is a 1961 abstract oil painting by the Spanish modern artist Joan Miró. The painting is the middle part of a three-part display of paintings known as a triptych. The other two paintings in the triptych, appropriately titled Bleu I and Bleu III, are very similar to Bleu II. Bleu II is an enormous painting of 270x355 cm, currently owned by the Musée National d'Art Moderne in the Centre Pompidou in Paris.</field>
+<field name="label">Bleu II</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e8/Joan_Miro_BlueI_II_III.JPG</field>
+<field name="comment">Blue II is a 1961 abstract oil painting by the Spanish modern artist Joan Miró. The painting is the middle part of a three-part display of paintings known as a triptych. The other two paintings in the triptych, appropriately titled Bleu I and Bleu III, are very similar to Bleu II. Bleu II is an enormous painting of 270x355 cm, currently owned by the Musée National d'Art Moderne in the Centre Pompidou in Paris.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Joan_Miro_BlueI_II_III.JPG/200px-Joan_Miro_BlueI_II_III.JPG</field>
+<field name="link_external">http://kranidiotis.gr/?p=947</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bleu_II</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bleu_II</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bleu_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bleu_II</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4926396</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bleu_II</field>
+</doc>
+</add>

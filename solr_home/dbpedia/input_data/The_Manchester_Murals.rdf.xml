@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Manchester_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Manchester_Murals</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Manchester_Murals</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7750163</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qfzkl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ford_Madox_Brown</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Culture_in_Manchester</field>
+<field name="abstract">The Manchester Murals are a series of twelve paintings by Ford Madox Brown in the Great Hall of Manchester Town Hall and are based on the history of Manchester. Following the success of Brown's painting Work he was commissioned to paint six murals for its Great Hall. Another six murals were to be completed by Frederic Shields who later withdrew, leaving Brown to complete all twelve works. The murals were begun in 1879, towards the end of Brown's career, but were not completed until 1893, the year he died. During this period he moved from London to Manchester with his family, first living in Crumpsall and then Victoria Park.</field>
+<field name="label">The Manchester Murals</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a5/Ford_madox_brown.jpg</field>
+<field name="comment">The Manchester Murals are a series of twelve paintings by Ford Madox Brown in the Great Hall of Manchester Town Hall and are based on the history of Manchester. Following the success of Brown's painting Work he was commissioned to paint six murals for its Great Hall. Another six murals were to be completed by Frederic Shields who later withdrew, leaving Brown to complete all twelve works.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Ford_madox_brown.jpg/200px-Ford_madox_brown.jpg</field>
+<field name="link_external">http://www.manchester.gov.uk/downloads/download/960/ford_madox_brown_murals</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Manchester_Murals</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Manchester_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Manchester_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Manchester_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Manchester_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7750163</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Manchester_Murals</field>
+</doc>
+</add>

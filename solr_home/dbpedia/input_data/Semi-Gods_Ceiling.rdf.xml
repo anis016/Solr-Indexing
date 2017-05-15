@@ -1,0 +1,49 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Soffitto_dei_Semidei</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Semi-Gods_Ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Ceiling_of_the_Semi-Gods</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Semi-gods_Ceiling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Semi-Gods_Ceiling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Semi-Gods_Ceiling</field>
+<field name="sameAs">http://dbpedia.org/resource/Semi-Gods_Ceiling</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3963943</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Soffitto_dei_Semidei</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmfzm0</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pinturicchio</field>
+<field name="abstract">The Semi-Gods Ceiling is a painting work by Italian Renaissance master Pinturicchio, dating to c. 1490 and housed in the right wing hall of the Palazzo dei Penitenzieri in Rome, Italy. It comprises 63 octagonal coffers in gilt wood, decorated with allegoric and mythological figures on a fake mosaic background, and painted on paper. The work was commissioned by Cardinal Domenico della Rovere, at the time patron of the young Pinturicchio.</field>
+<field name="label">Semi-Gods Ceiling</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a3/Pinturicchio,_soffitto_dei_semidei,_1490,_roma,_palazzo_dei_penitenzieri.jpg</field>
+<field name="comment">The Semi-Gods Ceiling is a painting work by Italian Renaissance master Pinturicchio, dating to c. 1490 and housed in the right wing hall of the Palazzo dei Penitenzieri in Rome, Italy. It comprises 63 octagonal coffers in gilt wood, decorated with allegoric and mythological figures on a fake mosaic background, and painted on paper. The work was commissioned by Cardinal Domenico della Rovere, at the time patron of the young Pinturicchio.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/Pinturicchio,_soffitto_dei_semidei,_1490,_roma,_palazzo_dei_penitenzieri.jpg/200px-Pinturicchio,_soffitto_dei_semidei,_1490,_roma,_palazzo_dei_penitenzieri.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Semi-Gods_Ceiling</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Semi-Gods_Ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Semi-Gods_Ceiling</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Semi-Gods_Ceiling</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3963943</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Semi-Gods_Ceiling</field>
+</doc>
+</add>

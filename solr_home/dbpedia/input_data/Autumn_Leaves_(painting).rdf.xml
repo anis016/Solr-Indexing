@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Autumn_Leaves_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ใบไม้ร่วง_(มิเล)</field>
+<field name="sameAs">http://dbpedia.org/resource/Autumn_Leaves_(painting)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Осенние_листья</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4148585</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Autumn_Leaves_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q8h_x</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Herfstbladeren_(Millais)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1856_paintings</field>
+<field name="abstract">Autumn Leaves (1856) is a painting by John Everett Millais exhibited at the Royal Academy in 1856. It was described by the critic John Ruskin as "the first instance of a perfectly painted twilight. " Millais's wife Effie wrote that he had intended to create a picture that was "full of beauty and without a subject". The picture depicts four girls in the twilight collecting and raking together fallen leaves in a garden. They are making a bonfire, but the fire itself is invisible, only smoke emerging from between the leaves. The two girls on the left, modelled on Millias' sisters-in-law Alice and Sophy Gray, are portrayed in middle class clothing of the era; the two on the right are in rougher, working class clothing. The painting has been seen as one of the earliest influences on the development of the aesthetic movement.</field>
+<field name="label">Autumn Leaves (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5c/Millais_leaves.jpg</field>
+<field name="comment">Autumn Leaves (1856) is a painting by John Everett Millais exhibited at the Royal Academy in 1856. It was described by the critic John Ruskin as "the first instance of a perfectly painted twilight. " Millais's wife Effie wrote that he had intended to create a picture that was "full of beauty and without a subject". The picture depicts four girls in the twilight collecting and raking together fallen leaves in a garden.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Millais_leaves.jpg/200px-Millais_leaves.jpg</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="city">http://dbpedia.org/resource/Manchester</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Manchester_Art_Gallery</field>
+<field name="title">Autumn Leaves</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Autumn_Leaves_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Autumn_Leaves_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Осенние_листья</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Autumn_Leaves_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Autumn_Leaves</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Autumn_Leaves_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Autumn_Leaves_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Herfstbladeren_(Millais)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Autumn_Leaves_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4148585</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Autumn_Leaves_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ใบไม้ร่วง_(มิเล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Autumn_Leaves_(painting)</field>
+</doc>
+</add>

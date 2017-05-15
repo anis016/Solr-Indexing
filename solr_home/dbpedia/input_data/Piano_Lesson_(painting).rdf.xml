@@ -1,0 +1,37 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Piano_Lesson_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Piano_Lesson_(painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Piano_Lesson_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gw_qhw</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7190121</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1916_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">The Piano Lesson depicts the living room of Matisse's home in Issy-les-Moulineaux, with his elder son, Pierre, at the piano, the artist's sculpture Decorative Figure (1908), at bottom left, and, at upper right, his painting Woman on a High Stool. Matisse began with a naturalistic drawing, but he eliminated detail as he worked, scraping down areas and rebuilding them in broad fields of color. The painting evokes a specific moment in time—light suddenly turned on in a darkening interior—by the triangle of shadow on the boy's face and the rhyming green triangle of light falling on the garden. The artist's incising on the window frame and stippling on the left side produce a pitted quality that suggests the eroding effects of light or time, a theme reiterated by the presence of the metronome and burning candle on the piano.</field>
+<field name="label">Piano Lesson (painting)</field>
+<field name="comment">The Piano Lesson depicts the living room of Matisse's home in Issy-les-Moulineaux, with his elder son, Pierre, at the piano, the artist's sculpture Decorative Figure (1908), at bottom left, and, at upper right, his painting Woman on a High Stool. Matisse began with a naturalistic drawing, but he eliminated detail as he worked, scraping down areas and rebuilding them in broad fields of color.</field>
+<field name="name"/>
+<field name="artist">http://dbpedia.org/resource/Henri_Matisse</field>
+<field name="city">http://dbpedia.org/resource/New_York</field>
+<field name="height">245.11</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Piano Lesson</field>
+<field name="width">212.725</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Piano_Lesson_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Piano_Lesson_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Piano_Lesson_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Piano_Lesson_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7190121</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Piano_Lesson_(painting)</field>
+</doc>
+</add>

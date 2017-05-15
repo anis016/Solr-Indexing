@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Mrs._Richard_Brinsley_Sheridan_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mrs._Richard_Brinsley_Sheridan_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0hr2y74</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Mrs._Richard_Brinsley_Sheridan_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6929863</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1787_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Thomas_Gainsborough</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="abstract">Mrs. Richard Brinsley Sheridan (1787) is an oil on canvas portrait painted by Thomas Gainsborough between 1785 and 1787. It was acquired by the National Gallery of Art in 1937. Mrs. Sheridan (Elizabeth Ann Linley) was a talented musician who enjoyed professional success in Bath and London before marrying Richard Brinsley Sheridan in 1773 and abandoning her career. She was 31 when she sat for Gainsborough. (She died from tuberculosis at the age of thirty-eight. ) The portrait was painted between 1785 and 1787, and, was exhibited at Gainsborough's studio at Schomberg House, Pall Mall in 1786. The NGA describes the work as "freely painted" and impressionistic in style. The sitter's garb and "the windblown landscape ... reflect the strong romantic component in Gainsborough's artistic temperament ... Her chin and mouth are firm, definite, and sculptural, and her heavily drawn eyebrows give her a steady, composed, and dignified expression. There is a hint of romantic melancholy in her eyes, with their slightly indirect gaze ... The painting is executed in liquid paint, blended wet into wet, applied in many layers in order to create a rich and sumptuous effect, with thin washes in free-flowing brushstrokes for the details. " This painting was owned by various members of the famous Rothschild banking family during the 19th century and up until 1936, when it was sold to the Duveen Brothers, Inc. , in London.</field>
+<field name="label">Mrs. Richard Brinsley Sheridan (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1a/Thomas_Gainsborough_014.jpg</field>
+<field name="comment">Mrs. Richard Brinsley Sheridan (1787) is an oil on canvas portrait painted by Thomas Gainsborough between 1785 and 1787. It was acquired by the National Gallery of Art in 1937. Mrs. Sheridan (Elizabeth Ann Linley) was a talented musician who enjoyed professional success in Bath and London before marrying Richard Brinsley Sheridan in 1773 and abandoning her career. She was 31 when she sat for Gainsborough. (She died from tuberculosis at the age of thirty-eight.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Thomas_Gainsborough_014.jpg/200px-Thomas_Gainsborough_014.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=99&amp;detail=none</field>
+<field name="artist">http://dbpedia.org/resource/Thomas_Gainsborough</field>
+<field name="city">http://dbpedia.org/resource/Washington,_D.C.</field>
+<field name="height">219.7</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">Mrs. Richard Brinsley Sheridan</field>
+<field name="width">153.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Mrs._Richard_Brinsley_Sheridan_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Mrs._Richard_Brinsley_Sheridan_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Mrs._Richard_Brinsley_Sheridan_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Mrs._Richard_Brinsley_Sheridan_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6929863</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Mrs._Richard_Brinsley_Sheridan_(painting)</field>
+</doc>
+</add>

@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_de_la_Trinité</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Trinity_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Trinity_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Trinity_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Trinity_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3428057</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Trinity_Altarpiece</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j2b0v_</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_de_la_Trinité</field>
+<field name="sameAs">http://dbpedia.org/resource/Trinity_Altarpiece</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Scottish_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hugo_van_der_Goes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Galleries_of_Scotland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th_century_in_Scotland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_paintings</field>
+<field name="abstract">The Trinity Altarpiece, also known as the Trinity Altar Panels, is a set of four paintings in oil on wood thought to have been commissioned for the Trinity College Kirk in Edinburgh, Scotland, in the late fifteenth century. The work is attributed to the Flemish artist Hugo van der Goes and probably represents the inner and outer panels of the wings of a triptych. The presumed central panel is lost. The work represents a rare example of Scots religious art to have survived the iconoclasm of the Reformation. The panels are part of the British Royal Art Collection and are displayed at the National Gallery of Scotland.</field>
+<field name="label">Trinity Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0f/Trinity_Altarpiece.jpg</field>
+<field name="comment">The Trinity Altarpiece, also known as the Trinity Altar Panels, is a set of four paintings in oil on wood thought to have been commissioned for the Trinity College Kirk in Edinburgh, Scotland, in the late fifteenth century. The work is attributed to the Flemish artist Hugo van der Goes and probably represents the inner and outer panels of the wings of a triptych. The presumed central panel is lost.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Trinity_Altarpiece.jpg/200px-Trinity_Altarpiece.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Trinity_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Trinity_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3428057</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Trinity_Altarpiece</field>
+</doc>
+</add>

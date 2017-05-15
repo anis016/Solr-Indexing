@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Beach_in_Pourville</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09v9rqm</field>
+<field name="sameAs">http://ms.dbpedia.org/resource/Pantai_di_Pourville</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Пляж_в_Пурвиле</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Beach_in_Pourville</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2070487</field>
+<field name="sameAs">http://dbpedia.org/resource/Beach_in_Pourville</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Plaża_w_Pourville</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Stolen_works_of_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1882_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="abstract">Beach in Pourville is a painting by French artist Claude Monet. It was painted in 1882, one of a series of oil-on-canvas works made by Monet that year in the small seaside resort of Pourville-sur-Mer, near Dieppe in northern France. Monet is considered one of the most important members of the group of painters identified as the Impressionists. The painting was bought by the National Museum, Poznań, Poland in 1906 and exhibited in the display of their collection.</field>
+<field name="label">Beach in Pourville</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/fa/Beach_at_Pourville.jpg</field>
+<field name="comment">Beach in Pourville is a painting by French artist Claude Monet. It was painted in 1882, one of a series of oil-on-canvas works made by Monet that year in the small seaside resort of Pourville-sur-Mer, near Dieppe in northern France. Monet is considered one of the most important members of the group of painters identified as the Impressionists. The painting was bought by the National Museum, Poznań, Poland in 1906 and exhibited in the display of their collection.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Beach_at_Pourville.jpg/200px-Beach_at_Pourville.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Claude_Monet</field>
+<field name="city">http://dbpedia.org/resource/Poland</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum">http://dbpedia.org/resource/National_Museum,_Pozna%C5%84</field>
+<field name="title">Beach in Pourville</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Beach_in_Pourville</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Beach_in_Pourville</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Plaża_w_Pourville</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beach_in_Pourville</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Пляж_в_Пурвиле</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beach_in_Pourville</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Beach_in_Pourville</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Beach_in_Pourville</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2070487</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beach_in_Pourville</field>
+</doc>
+<doc>
+<field name="uri">http://ms.dbpedia.org/resource/Pantai_di_Pourville</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Beach_in_Pourville</field>
+</doc>
+</add>

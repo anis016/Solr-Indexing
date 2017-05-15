@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Anunciación_(Botticelli,_Glasgow)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Botticelli,_Glasgow)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Annunciazione_(Botticelli_Glasgow)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Botticelli,_Glasgow)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Botticelli,_Glasgow)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cfnh0</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Annunciazione_(Botticelli_Glasgow)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Anunciación_(Botticelli,_Glasgow)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Annunciation_(Botticelli,_Glasgow)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1114806</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Botticelli,_Glasgow)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Annonciation_de_la_chiesa_fiorentina_di_San_Barnaba</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1490s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Annunciation_in_Christian_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Sandro_Botticelli</field>
+<field name="abstract">The Annunciation is a painting created by Italian Renaissance painter Sandro Botticelli. It is a tempera on panel and measures 49.5 cm tall and 58.5 cm wide. It is in the Kelvingrove Art Gallery and Museum in Glasgow, Scotland. Its date is not certain though a majority of the critics consider it early, noticing certain elements reminiscent of Verrocchio. Van Marle, however, dates it circa 1490. On the lower part there is a note that indicates that it came from the Florentine Church of Saint Barnabas. The atmosphere is achieved through the succession of columns and sections of flooring that serve to demonstrate the perspective. The solemn architecture overlooks the figures.</field>
+<field name="label">Annunciation (Botticelli, Glasgow)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2b/AnnunciazioneBotticelli-1490.jpg</field>
+<field name="comment">The Annunciation is a painting created by Italian Renaissance painter Sandro Botticelli. It is a tempera on panel and measures 49.5 cm tall and 58.5 cm wide. It is in the Kelvingrove Art Gallery and Museum in Glasgow, Scotland. Its date is not certain though a majority of the critics consider it early, noticing certain elements reminiscent of Verrocchio. Van Marle, however, dates it circa 1490.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/AnnunciazioneBotticelli-1490.jpg/200px-AnnunciazioneBotticelli-1490.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Sandro_Botticelli</field>
+<field name="city">http://dbpedia.org/resource/Glasgow</field>
+<field name="height">49.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kelvingrove_Art_Gallery_and_Museum</field>
+<field name="title">Annunciation</field>
+<field name="width">58.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Annunciation_(Botticelli,_Glasgow)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Annunciation_(Botticelli,_Glasgow)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Annunciation_(Botticelli,_Glasgow)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Annunciation_(Botticelli,_Glasgow)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Annunciation_(Boticelli,_Glasgow)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Annonciation_de_la_chiesa_fiorentina_di_San_Barnaba</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Botticelli,_Glasgow)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1114806</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Annunciation_(Botticelli,_Glasgow)</field>
+</doc>
+</add>

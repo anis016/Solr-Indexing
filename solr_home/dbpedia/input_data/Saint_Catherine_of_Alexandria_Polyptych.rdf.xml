@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Catherine_of_Alexandria_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Catherine_of_Alexandria_Polyptych</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h3x4xc</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_Catherine_of_Alexandria_Polyptych</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3907529</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Polittico_di_Santa_Caterina_d'Alessandria</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Polyptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Simone_Martini</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1320s_paintings</field>
+<field name="abstract">The Saint Catherine of Alexandria Polyptych (also known as Pisa Polyptych) is a painting by the Italian medieval artist Simone Martini, dating to 1320. Originally placed at the high altar of the church of Santa Caterina in Pisa, it is now housed in the Museo Nazionale di San Matteo of the same city. The work is signed SYMON DE SENIS ME PINXIT in the central panel with the Madonna and Child. Accordin to the original convent's annals, the polyptych was placed at the altar in 1320. It was thus completed by that year, having been likely begun in 1319.</field>
+<field name="label">Saint Catherine of Alexandria Polyptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/cd/Simone_Martini_012.jpg</field>
+<field name="comment">The Saint Catherine of Alexandria Polyptych (also known as Pisa Polyptych) is a painting by the Italian medieval artist Simone Martini, dating to 1320. Originally placed at the high altar of the church of Santa Caterina in Pisa, it is now housed in the Museo Nazionale di San Matteo of the same city. The work is signed SYMON DE SENIS ME PINXIT in the central panel with the Madonna and Child. Accordin to the original convent's annals, the polyptych was placed at the altar in 1320.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/cd/Simone_Martini_012.jpg/200px-Simone_Martini_012.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Simone_Martini</field>
+<field name="city">http://dbpedia.org/resource/Pisa</field>
+<field name="height">95</field>
+<field name="image"/>
+<field name="imageSize">450</field>
+<field name="museum">http://dbpedia.org/resource/Museo_nazionale_di_San_Matteo</field>
+<field name="title">Saint Catherine of Alexandria Polyptych</field>
+<field name="width">339</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_Catherine_of_Alexandria_Polyptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_Catherine_of_Alexandria_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Polittico_di_Santa_Caterina_d'Alessandria</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Catherine_of_Alexandria_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pisa_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Catherine_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_Catherine_of_Alexandria_Polyptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_Catherine_of_Alexandria_Polyptych</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3907529</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Catherine_of_Alexandria_Polyptych</field>
+</doc>
+</add>

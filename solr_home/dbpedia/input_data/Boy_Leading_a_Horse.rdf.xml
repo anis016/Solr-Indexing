@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Boy_Leading_a_Horse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Boy_Leading_a_Horse</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Jeune_homme_et_cheval</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4952091</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f6wml</field>
+<field name="sameAs">http://dbpedia.org/resource/Boy_Leading_a_Horse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horses_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1906_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="abstract">Jeune garçon au cheval is an early painting by Pablo Picasso. An example of Picasso's Rose Period, he painted it in 1906 in Paris. The painting was first owned by Ambroise Vollard. It then passed through the hands of numerous people through the years: Gertrude &amp; Leo Stein, ca. 1907-ca. 1913 Paul von Mendelssohn-Bartholdy, ca. 1934-1935. Mendelssohn-Bartholdy sold the work before his death from a heart attack in 1935 to the Jewish art gallery of Thannhauser. There is debate as to whether this sale was done out of duress. The family at the time had assets worth 170,000 Reichsmark, equivalent to $5 to 10 million dollars of today. Following the enactment of a treaty between Germany and the USA that clarified certain property rights of victims of Nazi persecution, descendants of von Mendelssohn-Bartholdy filed suit against the Museum of Modern Art in New York in an effort to recover the work. See description of Schoeps lawsuit below. Justin K. Thannhauser, 1935–1936; he sold it through Siegfried Rosengart. Albert Skira, 1936. William S. Paley, 1936-1964. Paley gifted the work to the Museum of Modern Art. Julius Schoeps, director of the Moses Mendelssohn institute for European Jewish studies on the University of Potsdam near Berlin, as speaker of the Mendelssohn-Bartholdy heirs, sued the Museum in 2007 for the painting, and Jed S. Rakoff ruled that Mendelssohn-Bartholdy had been forced to sell the painting by the Nazi Party. The Museum of Modern Art and the Solomon R. Guggenheim Foundation then sued the heir, Julius Schoeps. The dispute, however, ended up being settled out of court in 2009, with the museum retaining the work. In Vladimir Nabokov's novel Pale Fire, Professor Kinbote says he placed in his lodging-house "the reproduction of a beloved early Picasso: earth boy leading raincloud horse".</field>
+<field name="label">Boy Leading a Horse</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/03/Boy_Leading_a_Horse.jpg</field>
+<field name="comment">Jeune garçon au cheval is an early painting by Pablo Picasso. An example of Picasso's Rose Period, he painted it in 1906 in Paris. The painting was first owned by Ambroise Vollard. It then passed through the hands of numerous people through the years: Gertrude &amp; Leo Stein, ca. 1907-ca. 1913 Paul von Mendelssohn-Bartholdy, ca. 1934-1935. Mendelssohn-Bartholdy sold the work before his death from a heart attack in 1935 to the Jewish art gallery of Thannhauser.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Boy_Leading_a_Horse.jpg/200px-Boy_Leading_a_Horse.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Pablo_Picasso</field>
+<field name="city"/>
+<field name="height">220.3</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Boy Leading a Horse</field>
+<field name="width">120</field>
+<field name="width">130.6</field>
+<field name="width">158</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Boy_Leading_a_Horse</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Boy_Leading_a_Horse</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Boy_leading_a_horse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Boy_Leading_a_Horse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Boy_Leading_a_Horse</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Jeune_homme_et_cheval</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Boy_Leading_a_Horse</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4952091</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Boy_Leading_a_Horse</field>
+</doc>
+</add>

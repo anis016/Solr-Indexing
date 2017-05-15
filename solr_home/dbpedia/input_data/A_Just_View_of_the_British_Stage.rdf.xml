@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Just_View_of_the_British_Stage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04zxjt2</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4657534</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Just_View_of_the_British_Stage</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Just_View_of_the_British_Stage</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1724_works</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_William_Hogarth</field>
+<field name="abstract">A Just View of the British Stage or Three Heads are Better than One is an unsigned 1724 engraving attributed to the English artist William Hogarth. It is a satirical view of the management of British plays and mocks the subjects as degenerate. It forms part of an attack on the tastes of the theatre which Hogarth mounted in earnest between 1723 with Masquerades and Operas and 1727 with Masquerade Ticket (and which would continue to some extent in later works including Charmers of the Age in 1740-41).</field>
+<field name="label">A Just View of the British Stage</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4e/Hogarth-rehearsal.png</field>
+<field name="comment">A Just View of the British Stage or Three Heads are Better than One is an unsigned 1724 engraving attributed to the English artist William Hogarth. It is a satirical view of the management of British plays and mocks the subjects as degenerate.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Hogarth-rehearsal.png/200px-Hogarth-rehearsal.png</field>
+<field name="link_external">http://books.google.com/books?vid=OCLC08654397&amp;id=nwgIAAAAMAAJ&amp;printsec=titlepage</field>
+<field name="artist">http://dbpedia.org/resource/William_Hogarth</field>
+<field name="image"/>
+<field name="title">A Just View of the British Stage</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Just_View_of_the_British_Stage</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Just_View_of_the_British_Stage</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Three_Heads_are_Better_than_One</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Just_View_of_the_British_Stage</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Just_View_of_the_British_Stage</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4657534</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Just_View_of_the_British_Stage</field>
+</doc>
+</add>

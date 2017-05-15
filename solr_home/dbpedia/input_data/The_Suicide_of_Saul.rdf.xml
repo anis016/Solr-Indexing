@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Suicide_of_Saul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j27vnj</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Suicidio_di_Saul</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3976754</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Suicide_of_Saul</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Suicide_of_Saul</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Samobójstwo_Saula</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pieter_Brueghel_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Ancient_people_who_committed_suicide</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Kings_of_ancient_Israel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1562_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Kunsthistorisches_Museum</field>
+<field name="abstract">The Suicide of Saul is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder, painted in 1562. It is currently held and exhibited at the Kunsthistorisches Museum in Vienna.</field>
+<field name="label">The Suicide of Saul</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/ca/Pieter_Bruegel_the_Elder_-_The_Suicide_of_Saul_-_WGA3325.jpg</field>
+<field name="comment">The Suicide of Saul is an oil-on-panel by Flemish renaissance artist Pieter Bruegel the Elder, painted in 1562. It is currently held and exhibited at the Kunsthistorisches Museum in Vienna.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Pieter_Bruegel_the_Elder_-_The_Suicide_of_Saul_-_WGA3325.jpg/200px-Pieter_Bruegel_the_Elder_-_The_Suicide_of_Saul_-_WGA3325.jpg</field>
+<field name="link_external">http://www.art-drawing.ru/biographies/brief-biographies/199-bruegel-peter</field>
+<field name="link_external">http://www.khm.at/en/</field>
+<field name="link_external">http://www.pieter-bruegel-the-elder.org</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=322</field>
+<field name="link_external">http://www.boschbruegel.com</field>
+<field name="artist">http://dbpedia.org/resource/Pieter_Bruegel_the_Elder</field>
+<field name="city">http://dbpedia.org/resource/Vienna</field>
+<field name="height">33.5</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">The Suicide of Saul</field>
+<field name="type">Oil on panel</field>
+<field name="width">55</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Suicide_of_Saul</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Suicide_of_Saul</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Suicidio_di_Saul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Suicide_of_Saul</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Suicide_of_Saul</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Suicide_of_Saul</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Samobójstwo_Saula</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Suicide_of_Saul</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3976754</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Suicide_of_Saul</field>
+</doc>
+</add>

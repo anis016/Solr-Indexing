@@ -1,0 +1,57 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_the_Infanta_Maria_Theresa_of_Spain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3204168</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Infanta_Maria_Theresa_of_Spain</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_the_Infanta_Maria_Theresa_of_Spain</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05p6sfl</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_infanta_María_Teresa_de_España</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Infante_Marie-Thérèse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:17th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1653_paintings</field>
+<field name="abstract">The infanta Maria Theresa of Spain or The infanta Maria Theresa aged 14 is a 1653 portrait by Diego Velázquez of Maria Theresa of Spain. It has been cut down at the top and bottom and is now in the Kunsthistorisches Museum in Vienna. It is considered one of the artist's best late portraits, showing its subject in a majestic pose, illuminated in a light dress against a dark background. Its seriousness and formality is added to by the two watches she carries, whilst the handkerchief in her left hand is one of the painting's highlights.</field>
+<field name="label">Portrait of the Infanta Maria Theresa of Spain</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/e8/Diego_Velázquez_030b.jpg</field>
+<field name="comment">The infanta Maria Theresa of Spain or The infanta Maria Theresa aged 14 is a 1653 portrait by Diego Velázquez of Maria Theresa of Spain. It has been cut down at the top and bottom and is now in the Kunsthistorisches Museum in Vienna. It is considered one of the artist's best late portraits, showing its subject in a majestic pose, illuminated in a light dress against a dark background.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Diego_Velázquez_030b.jpg/200px-Diego_Velázquez_030b.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">The infanta Maria Theresa aged 14</field>
+<field name="title">The infanta Maria Theresa of Spain or</field>
+<field name="type">Oil on canvas</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_the_Infanta_Maria_Theresa_of_Spain</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_the_Infanta_Maria_Theresa_of_Spain</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Infante_Marie-Thérèse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Infanta_Maria_Theresa_of_Spain</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_infanta_María_Teresa_de_España</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Infanta_Maria_Theresa_of_Spain</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_the_Infanta_Maria_Theresa_of_Spain</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_the_Infanta_Maria_Theresa_of_Spain</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3204168</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_the_Infanta_Maria_Theresa_of_Spain</field>
+</doc>
+</add>

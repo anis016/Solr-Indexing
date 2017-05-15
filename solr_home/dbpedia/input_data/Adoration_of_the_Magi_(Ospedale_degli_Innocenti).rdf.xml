@@ -1,0 +1,56 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Adoration_des_mages_(Innocents)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Adorazione_dei_Magi_degli_Innocenti</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Adorazione_dei_Magi_degli_Innocenti</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx176b</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Adoration_des_mages_(Innocents)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3201479</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Domenico_Ghirlandaio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="abstract">The Adoration of the Magi is a painting by the Italian Renaissance master Domenico Ghirlandaio, executed around 1485-1488 and housed in the Ospedale degli Innocenti gallery in Florence, Italy. The predella, painted by Bartolomeo di Giovanni, is in the same site.</field>
+<field name="label">Adoration of the Magi (Ospedale degli Innocenti)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d4/Adoration_of_the_Magi_for_the_Spedale_degli_Innocenti.jpg</field>
+<field name="comment">The Adoration of the Magi is a painting by the Italian Renaissance master Domenico Ghirlandaio, executed around 1485-1488 and housed in the Ospedale degli Innocenti gallery in Florence, Italy. The predella, painted by Bartolomeo di Giovanni, is in the same site.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Adoration_of_the_Magi_for_the_Spedale_degli_Innocenti.jpg/200px-Adoration_of_the_Magi_for_the_Spedale_degli_Innocenti.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">285</field>
+<field name="image"/>
+<field name="imageSize">420</field>
+<field name="museum">http://dbpedia.org/resource/Ospedale_degli_Innocenti</field>
+<field name="title">Adoration of the Magi</field>
+<field name="type">Tempera on panel</field>
+<field name="width">243</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3201479</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Adoration_of_the_Magi_(Ospedale_degli_Innocenti)</field>
+</doc>
+</add>

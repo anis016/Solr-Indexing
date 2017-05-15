@@ -1,0 +1,64 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/%E5%A5%B3%E5%8F%B2%E7%AE%B4%E5%9C%96</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Admonitions_Scroll</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Admonitions_Scroll</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/女史箴图</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0cnzhvt</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q921351</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Admonitions_Scroll</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Intelmek_udvarhölgyeknek</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Asian_objects_in_the_British_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Chinese_paintings</field>
+<field name="abstract">The Admonitions Scroll is a Chinese narrative painting on silk that is traditionally ascribed to Gu Kaizhi, but which modern scholarship regards as a 5th to 8th century work that may or may not be a copy of an original Jin Dynasty (265–420) court painting by Gu Kaizhi. The full title of the painting is Admonitions of the Court Instructress. It was painted to illustrate a poetic text written in 292 by the poet-official Zhang Hua 張華 (232–300). The text itself was composed to reprimand Empress Jia 賈后 (257–300) and to provide advice to the women in the imperial court. The painting illustrates this text with scenes depicting anecdotes about exemplary behaviour of historical palace ladies, as well as with more general scenes showing aspects of life as a palace lady. The painting, which is now held at the British Museum in London, England, is one of the earliest extant examples of a Chinese handscroll painting, and is renowned as one of the most famous Chinese paintings in the world. The painting is first recorded during the latter part of the Northern Song (960–1127), when it was in the collection of Emperor Huizong of Song (r. 1100–1126). It passed through the hands of many collectors over the centuries, many of whom left their seals of ownership on the painting, and it eventually become a treasured possession of the Qianlong Emperor (r. 1735–1796). In 1899, during the aftermath of the Boxer Rebellion, the painting was acquired by an officer in the British Indian Army who sold it to the British Museum. The scroll is incomplete, lacking the first three of the twelve original scenes, which were probably lost at an early date. A monochrome paper scroll copy of the painting, complete in twelve scenes, was made during the Southern Song (1127–1279), and is now in the collection of the Palace Museum in Beijing, China. The painting was part of the 2010 BBC Radio 4 series, A History of the World in 100 Objects, as item 39.</field>
+<field name="label">Admonitions Scroll</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/96/Ku_K'ai-chih_001.jpg</field>
+<field name="comment">The Admonitions Scroll is a Chinese narrative painting on silk that is traditionally ascribed to Gu Kaizhi, but which modern scholarship regards as a 5th to 8th century work that may or may not be a copy of an original Jin Dynasty (265–420) court painting by Gu Kaizhi. The full title of the painting is Admonitions of the Court Instructress. It was painted to illustrate a poetic text written in 292 by the poet-official Zhang Hua 張華 (232–300).</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Ku_K'ai-chih_001.jpg/200px-Ku_K'ai-chih_001.jpg</field>
+<field name="link_external">http://www.bbc.co.uk/ahistoryoftheworld/about/transcripts/episode39/</field>
+<field name="link_external">http://www.bbc.co.uk/ahistoryoftheworld/objects/d8fPFQXIQGyPRBpN6CsPIw</field>
+<field name="link_external">http://www.britishmuseum.org/explore/highlights/highlight_objects/asia/t/the_admonitions_scroll.aspx</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Admonitions_Scroll</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Admonitions_Scroll</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/N%C3%BCshi_Zhentu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Admonitions_Scroll</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Admonitions_Scroll</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Admonitions_of_the_Court_Instructress</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q921351</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Admonitions_Scroll</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/女史箴图</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Admonitions_Scroll</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Intelmek_udvarhölgyeknek</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Admonitions_Scroll</field>
+</doc>
+</add>

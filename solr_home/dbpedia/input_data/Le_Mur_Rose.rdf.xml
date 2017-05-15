@@ -1,0 +1,42 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Mur_Rose</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6507336</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04z_v76</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/الجدار_الوردي</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Le_Mur_Rose</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Mur_Rose</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1898_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Henri_Matisse</field>
+<field name="abstract">Le Mur Rose, is a painting by Henri Matisse from 1898. It was bought in Paris at the sale of La Peau de l'Ours the 2th March 1914 by Jewish entrepreneur Harry Fuld, who founded Frankfurt, Germany based H. Fuld &amp; Co. Telefon und Telegraphenwerke AG, which made telephones. After Fuld died on a business trip to Switzerland in 1932, his art collection passed to his son, Harry Fuld, Jr. After the ascent of the Nazi party to power, Fuld fled to safety in Switzerland in 1937, packing the collection into crates. But the collection never left Germany and, after confiscation by the SS, it somehow became the property of SS officer Kurt Gerstein. A pre-war expert in decontamination techniques, Gerstein was assigned to the Hygiene Institute of the SS, becoming responsible for delivering Zyklon B poison used in the final solution gas chambers, including Auschwitz concentration camp. At the end of World War II, on 22 April 1945, Gerstein surrendered to the French commandant of the occupied town of Reutlingen. He received a sympathetic reception and was transferred to a residence in a hotel in Rottweil, there writing out the Gerstein Report. He was later transferred to the notorious Cherche-Midi military prison where he was apparently treated as a war criminal. On July 25, 1945 while awaiting trial he was found hanged dead in his cell, an alleged suicide. Continuing the investigation in to Gerstein's war crimes, French police recovered Le Mur Rose from a cache of stored art near Gerstein's home in Tübingen, Germany. Harry Fuld, Jr. died in Switzerland in 1963, and willed his entire estate to Gisela Martin. When she died in Switzerland in 1992, she in turn willed her estate to Magen David Adom UK, the British-based branch of the Israeli-based medical services charity, which provides ambulances and medical infrastructure in Israel. Having hung in museums in Paris since 1949, latterly in the Musée National d'Art Moderne at the Pompidou Centre; in November 2008 the painting was given by the French Culture Ministry to Magen David Adom UK, at a ceremony in Paris. In February 2010 the painting was acquired from the heirs, the Magen David Adom UK, for the Jewish Museum Frankfurt, Germany, with the financial help of various German foundations and private donors.</field>
+<field name="label">Le Mur Rose</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f8/Matisse_Mur_Rose.jpg</field>
+<field name="comment">Le Mur Rose, is a painting by Henri Matisse from 1898. It was bought in Paris at the sale of La Peau de l'Ours the 2th March 1914 by Jewish entrepreneur Harry Fuld, who founded Frankfurt, Germany based H. Fuld &amp; Co. Telefon und Telegraphenwerke AG, which made telephones. After Fuld died on a business trip to Switzerland in 1932, his art collection passed to his son, Harry Fuld, Jr.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Matisse_Mur_Rose.jpg/200px-Matisse_Mur_Rose.jpg</field>
+<field name="link_external">http://www.centrepompidou.fr/musee/mnr/r5p.htm</field>
+<field name="link_external">http://www.culture.gouv.fr/Wave/savimage/mnr/r5pn.jpg</field>
+<field name="link_external">http://www.culture.gouv.fr/public/mistral/mnrbis_fr?ACTION=RETROUVER&amp;FIELD_98=LOCA&amp;VALUE_98=Paris%20&amp;NUMBER=41&amp;GRP=15&amp;REQ=%28%28Paris%29%20%3aLOCA%20%29&amp;USRNAME=nobody&amp;USRPWD=4%24%2534P&amp;SPEC=1&amp;SYN=1&amp;IMLY=&amp;MAX1=1&amp;MAX2=10&amp;MAX3=50&amp;DOM=All</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Le_Mur_Rose</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Le_Mur_Rose</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Le_Mur_Rose</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Le_Mur_Rose</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6507336</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Mur_Rose</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/الجدار_الوردي</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Le_Mur_Rose</field>
+</doc>
+</add>

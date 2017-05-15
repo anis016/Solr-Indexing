@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Philippe_III_à_cheval_(Vélasquez)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05f645p</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Equestrian_Portrait_of_Philip_III</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Felipe_III_a_caballo</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_III</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3380043</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Velazquez_portraits_in_the_Museo_del_Prado</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_of_monarchs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1635_paintings</field>
+<field name="abstract">The Equestrian Portrait of Philip III is a portrait of Philip III of Spain on horseback by Diego Velázquez. It was painted in 1634/35 as part of a series of paintings of reigning monarchs, their predecessors and the Princes of Asturias for the Salón de Reinos at the Palacio del Buen Retiro. It is now in the Prado Museum.</field>
+<field name="label">Equestrian Portrait of Philip III</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/84/Velázquez_-_Felipe_III_(Museo_del_Prado,_1634-35).jpg</field>
+<field name="comment">The Equestrian Portrait of Philip III is a portrait of Philip III of Spain on horseback by Diego Velázquez. It was painted in 1634/35 as part of a series of paintings of reigning monarchs, their predecessors and the Princes of Asturias for the Salón de Reinos at the Palacio del Buen Retiro. It is now in the Prado Museum.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Velázquez_-_Felipe_III_(Museo_del_Prado,_1634-35).jpg/200px-Velázquez_-_Felipe_III_(Museo_del_Prado,_1634-35).jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/63259/rec/2</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Madrid</field>
+<field name="height">300</field>
+<field name="image"/>
+<field name="imageSize">200</field>
+<field name="museum"/>
+<field name="title">Equestrian Portrait of Philip III</field>
+<field name="type">Oil on canvas</field>
+<field name="width">314</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Equestrian_Portrait_of_Philip_III</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Equestrian_Portrait_of_Philip_III</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Felipe_III_a_caballo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_III</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Philippe_III_à_cheval_(Vélasquez)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_III</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Equestrian_Portrait_of_Philip_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_III</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Equestrian_portrait_of_Philip_III</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3380043</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Equestrian_Portrait_of_Philip_III</field>
+</doc>
+</add>

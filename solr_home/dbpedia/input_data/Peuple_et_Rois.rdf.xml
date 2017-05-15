@@ -1,0 +1,35 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Peuple_et_Rois</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Peuple_et_Rois</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Peuple_et_Rois</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7179514</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmhyx7</field>
+<field name="sameAs">http://dbpedia.org/resource/Peuple_et_Rois</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Peuple_et_Rois</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1892_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Juan_Luna</field>
+<field name="abstract">Peuple et Rois (People and Kings) is the French title of an 1892 painting by award-winning Filipino painter and hero Juan Luna. Finished in the academic style of painting, Luna intended to send and enter Peuple et Rois for the 1892 Chicago Universal Exposition in the United States, but the plan was aborted due to a personal problem the artist experienced during that year. Luna shot his wife and mother-in-law caused by jealousy for the former (Luna’s wife had an alleged affair with a French doctor). Luna was acquitted for murder by the French court on February 3, 1893. Luna painted Peuple et Rois after attaining fame for winning a gold for Spoliarium during the 1884 Exposición General de Bellas Artes in Madrid, Spain.</field>
+<field name="label">Peuple et Rois</field>
+<field name="comment">Peuple et Rois (People and Kings) is the French title of an 1892 painting by award-winning Filipino painter and hero Juan Luna. Finished in the academic style of painting, Luna intended to send and enter Peuple et Rois for the 1892 Chicago Universal Exposition in the United States, but the plan was aborted due to a personal problem the artist experienced during that year.</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Peuple_et_Rois</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Peuple_et_Rois</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/People_and_Kings</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7179514</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Peuple_et_Rois</field>
+</doc>
+</add>

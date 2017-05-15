@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Ruling_Passion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Ruling_Passion</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7761817</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ruling_Passion</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.080mgt1</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Everett_Millais</field>
+<field name="abstract">The Ruling Passion, sometimes called The Ornithologist, is a painting by John Everett Millais which was shown at the Royal Academy Exhibition in 1885. The painting shows an old man lying on a chaise-longue. He is showing a stuffed bird, a King Bird of Paradise, to a group of children and a woman. The older girl on the left of the picture is holding a Resplendent Quetzal, and other specimens are scattered about. The attitude of the children ranges from the enthralled interest of the youngest two to the comparative indifference, almost boredom, of the oldest girl. The work was inspired by a visit which Millais and his son John Guille Millais paid to the ornithologist John Gould shortly before his death in 1881. On the way home, Millais said to his son "That's a fine subject; a very fine subject. I shall paint it when I have time. " It was in fact several years after Gould's death before he had time, and the picture as painted is not a representation of Gould or of the actual scene during Millais' visit – the central figure was modelled by the engraver Thomas Oldham Barlow, a friend of the artist, two of the others are professional models, and the two smallest children are Millais' grandchildren (one of whom is William Milbourne James). The painting was well received – the influential critic Ruskin said that it was one of "only three things worth looking at" in the R.A. exhibition.</field>
+<field name="label">The Ruling Passion</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/24/John_everett_millais_ruling_passion.jpg</field>
+<field name="comment">The Ruling Passion, sometimes called The Ornithologist, is a painting by John Everett Millais which was shown at the Royal Academy Exhibition in 1885. The painting shows an old man lying on a chaise-longue. He is showing a stuffed bird, a King Bird of Paradise, to a group of children and a woman. The older girl on the left of the picture is holding a Resplendent Quetzal, and other specimens are scattered about.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/24/John_everett_millais_ruling_passion.jpg/200px-John_everett_millais_ruling_passion.jpg</field>
+<field name="link_external">http://www.victorianweb.org/painting/millais/paintings/king3.html</field>
+<field name="link_external">http://books.google.co.uk/books?id=G3qRP6399tcC&amp;pg=PA56&amp;lpg=PA56&amp;dq=%22The+Ruling+Passion%22+Millais&amp;source=bl&amp;ots=I_v5Q4LZQb&amp;sig=krqT9DfoTwd1_4RZi3j0RLthpUs&amp;hl=en&amp;ei=pwHJSoDLJJ3SjAfRx4RF&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=5#v=onepage&amp;q=%22The%20Ruling%20Passion%22%20Millais&amp;f=false</field>
+<field name="artist">http://dbpedia.org/resource/John_Everett_Millais</field>
+<field name="city">http://dbpedia.org/resource/Glasgow</field>
+<field name="height">160.7</field>
+<field name="image"/>
+<field name="imageSize">450</field>
+<field name="museum">http://dbpedia.org/resource/Kelvingrove_Art_Gallery_and_Museum</field>
+<field name="title">The Ruling Passion</field>
+<field name="width">215.9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Ruling_Passion</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Ruling_Passion</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Ruling_Passion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Ruling_Passion</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Ornithologist</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7761817</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Ruling_Passion</field>
+</doc>
+</add>

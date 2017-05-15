@@ -1,0 +1,109 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Christina's_World</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christina's_World</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christina</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Christina's_World</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christina's_World</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мир_Кристины</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christina's_World</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christina's_World</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christina's_World</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Світ_Христини</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Christina's_World</field>
+<field name="sameAs">http://dbpedia.org/resource/Christina's_World</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Christina's_World</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мир_Кристины</field>
+<field name="sameAs">http://no.dbpedia.org/resource/Christina's_World</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2465911</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Christina's_World</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03qr1h2</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/عالم_كريستينا</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Christina's_World</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_people</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1948_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="abstract">Christina's World is a 1948 painting by American painter Andrew Wyeth, and one of the best-known American paintings of the middle 20th century. It depicts a woman lying on the ground in a treeless, mostly tawny field, looking up at a gray house on the horizon; a barn and various other small outbuildings are adjacent to the house. This tempera work, done in a realist style, is currently on display at the Museum of Modern Art in New York, as a part of its permanent collection.</field>
+<field name="label">Christina's World</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a2/Christinasworld.jpg</field>
+<field name="comment">Christina's World is a 1948 painting by American painter Andrew Wyeth, and one of the best-known American paintings of the middle 20th century. It depicts a woman lying on the ground in a treeless, mostly tawny field, looking up at a gray house on the horizon; a barn and various other small outbuildings are adjacent to the house. This tempera work, done in a realist style, is currently on display at the Museum of Modern Art in New York, as a part of its permanent collection.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Christinasworld.jpg/200px-Christinasworld.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Andrew_Wyeth</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">81.9</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">Christina's World</field>
+<field name="type">Tempera on gessoed panel</field>
+<field name="width">121.3</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christina's_World</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christina's_World</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christina's_World</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christina's_World</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christina_Olson</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2465911</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christina's_World</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/عالم_كريستينا</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christina's_World</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Christina's_World</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christina's_World</field>
+</doc>
+<doc>
+<field name="uri">http://no.dbpedia.org/resource/Christina's_World</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christina's_World</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Christina's_World</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christina's_World</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Світ_Христини</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christina's_World</field>
+</doc>
+</add>

@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Saint_Vincent_Panels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Saint_Vincent_Panels</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/サン・ヴィセンテの祭壇画</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Panells_de_Sant_Vicent_de_Lisboa</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Vincent_Panels</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3774964</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0308v_</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Painéis_de_São_Vicente_de_Fora</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portuguese_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Polyptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1460s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nuno_Gon%C3%A7alves</field>
+<field name="abstract">The Saint Vincent Panels, or The 'Adoration of Saint Vincent' panels, are a polyptych consisting of six panels that were painted in the 1460s. They are attributed to the Portuguese painter Nuno Gonçalves who was active from 1450 to 1471. They are now housed in the Museu Nacional de Arte Antiga (National Museum of Antique Art), in Lisbon, Portugal.</field>
+<field name="label">Saint Vincent Panels</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/03/Nuno_Gonçalves._Paineis_de_São_Vicente_de_Fora_.jpg</field>
+<field name="comment">The Saint Vincent Panels, or The 'Adoration of Saint Vincent' panels, are a polyptych consisting of six panels that were painted in the 1460s. They are attributed to the Portuguese painter Nuno Gonçalves who was active from 1450 to 1471. They are now housed in the Museu Nacional de Arte Antiga (National Museum of Antique Art), in Lisbon, Portugal.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Nuno_Gonçalves._Paineis_de_São_Vicente_de_Fora_.jpg/200px-Nuno_Gonçalves._Paineis_de_São_Vicente_de_Fora_.jpg</field>
+<field name="link_external">http://query.nytimes.com/gst/fullpage.html?sec=travel&amp;res=9A0DE2D81438F931A35751C0A960948260</field>
+<field name="link_external">http://paineis.org/INDICE.htm</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/g/goncalve/st-vince.html</field>
+<field name="link_external">http://www.wga.hu/frames-e.html?/html/g/goncalve/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Saint_Vincent_Panels</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Saint_Vincent_Panels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nuno_Gon%C3%A7alves</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Saint_Vincent_Panels</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/サン・ヴィセンテの祭壇画</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Vincent_Panels</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Painéis_de_São_Vicente_de_Fora</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Vincent_Panels</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Saint_Vincent_Panels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Saint_Vincent_Panels</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Crist%C3%B3v%C3%A3o_de_Morais</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Saint_Vincent_Panels</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3774964</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Vincent_Panels</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Panells_de_Sant_Vicent_de_Lisboa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Saint_Vincent_Panels</field>
+</doc>
+</add>

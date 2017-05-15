@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Carthusian</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_un_cartujo</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05zz8wm</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Carthusian</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Carthusian</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7232319</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Retrat_d'un_cartoixà</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1446_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Petrus_Christus</field>
+<field name="abstract">Portrait of a Carthusian is a painting in oils on oak panel by the Early Netherlandish painter Petrus Christus in 1446. The work is part of the Jules Bache Collection housed at the Metropolitan Museum of Art in New York City. It is regarded as a masterpiece of Early Netherlandish painting and a prominent, early example of Trompe l’oeil.</field>
+<field name="label">Portrait of a Carthusian</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d5/Christus_carthusian.jpg</field>
+<field name="comment">Portrait of a Carthusian is a painting in oils on oak panel by the Early Netherlandish painter Petrus Christus in 1446. The work is part of the Jules Bache Collection housed at the Metropolitan Museum of Art in New York City. It is regarded as a masterpiece of Early Netherlandish painting and a prominent, early example of Trompe l’oeil.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Christus_carthusian.jpg/200px-Christus_carthusian.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/91807/rec/320</field>
+<field name="link_external">http://smarthistory.khanacademy.org/petrus-christus-portrait.html</field>
+<field name="link_external">http://www.metmuseum.org/toah/hd/neth/hd_neth.htm</field>
+<field name="link_external">http://www.nga.gov/press/2002/exhibitions/deceptions/walltxt.shtm</field>
+<field name="link_external">http://www.bbk.ac.uk/english/skc/flysight/</field>
+<field name="artist">http://dbpedia.org/resource/Petrus_Christus</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Metropolitan_Museum_of_Art</field>
+<field name="title">Portrait of a Carthusian</field>
+<field name="type">oil on wood</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Carthusian</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Carthusian</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Carthusian</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Carthusian</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7232319</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Carthusian</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_un_cartujo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Carthusian</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Retrat_d'un_cartoixà</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Carthusian</field>
+</doc>
+</add>

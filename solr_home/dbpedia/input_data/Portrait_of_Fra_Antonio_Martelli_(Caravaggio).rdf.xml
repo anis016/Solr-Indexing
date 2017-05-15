@@ -1,0 +1,63 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1113749</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Antonio_Martelli</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_d'Antonio_Martelli</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09fp1s</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_fray_Antonio_Martelli</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_Palazzo_Pitti</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="abstract">The Portrait of Fra Antonio Martelli (c. 1607/1608) is a painting by the Italian master Michelangelo Merisi da Caravaggio, in the Palazzo Pitti, Florence. Until recently it was thought that this painting represented Alof de Wignacourt, Grand Master of the Order of the Knights of Malta, and that it was a preparatory study for the large and famous Portrait of Alof de Wignacourt and his Page, but recent documentary discoveries indicate that it is the portrait of another prominent member of the Order, Antonio Martelli of Florence, Prior of Messina.</field>
+<field name="label">Portrait of Fra Antonio Martelli (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/04/Antonio_Martelli,_Cavaliere_di_Malta_-_Caravaggio.JPG</field>
+<field name="comment">The Portrait of Fra Antonio Martelli (c. 1607/1608) is a painting by the Italian master Michelangelo Merisi da Caravaggio, in the Palazzo Pitti, Florence.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Antonio_Martelli,_Cavaliere_di_Malta_-_Caravaggio.JPG/200px-Antonio_Martelli,_Cavaliere_di_Malta_-_Caravaggio.JPG</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">118.5</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Antonio Martelli, Knight of Malta</field>
+<field name="type">Oil on canvas</field>
+<field name="width">95.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_fray_Antonio_Martelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_d'Antonio_Martelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Antonio_Martelli</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1113749</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Fra_Antonio_Martelli_(Caravaggio)</field>
+</doc>
+</add>

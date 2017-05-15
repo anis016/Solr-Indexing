@@ -1,0 +1,50 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_col_Bambino_e_san_Giovannino_(Cranach)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Child_with_Young_John_the_Baptist_(Cranach)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_with_Child_with_Young_John_the_Baptist_(Cranach)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_col_Bambino_e_san_Giovannino_(Cranach)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_with_Child_with_Young_John_the_Baptist_(Cranach)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3842524</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gty7dh</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Child_with_Young_John_the_Baptist_(Cranach)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Lucas_Cranach_the_Elder</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1514_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Uffizi</field>
+<field name="abstract">Madonna with Child with Young John the Baptist is a painting by the German Renaissance painter Lucas Cranach the Elder, dating from 1514. It is housed in the Uffizi Gallery of Florence. The work was originally in the Florence Charterhouse, outside the city, from where it was stolen in 1973. It was recovered in 2001. It is a typical Madonna with Child inspired by Raphael. The Virgin is shown above a rocky background with a fair sky, while holding the Child and showing it to the observer. Similarly to Raphael's Terranuova Madonna, the Child and the young John the Baptist interact through their gestures and glances. The bright colors, the volume of the figures and the composition are typical of Italian Renaissance painting, which was well known by Cranach.</field>
+<field name="label">Madonna with Child with Young John the Baptist (Cranach)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ec/Cranach,_madonna_col_bambino_e_san_giovannino.jpg</field>
+<field name="comment">Madonna with Child with Young John the Baptist is a painting by the German Renaissance painter Lucas Cranach the Elder, dating from 1514. It is housed in the Uffizi Gallery of Florence. The work was originally in the Florence Charterhouse, outside the city, from where it was stolen in 1973. It was recovered in 2001. It is a typical Madonna with Child inspired by Raphael. The Virgin is shown above a rocky background with a fair sky, while holding the Child and showing it to the observer.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Cranach,_madonna_col_bambino_e_san_giovannino.jpg/200px-Cranach,_madonna_col_bambino_e_san_giovannino.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">76.6</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna with Child with Young John the Baptist</field>
+<field name="type">Oil   on panel</field>
+<field name="width">58</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_with_Child_with_Young_John_the_Baptist_(Cranach)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_with_Child_with_Young_John_the_Baptist_(Cranach)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_with_Child_with_Young_John_the_Baptist_(Cranach)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_with_Child_with_Young_John_the_Baptist_(Cranach)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3842524</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_with_Child_with_Young_John_the_Baptist_(Cranach)</field>
+</doc>
+</add>

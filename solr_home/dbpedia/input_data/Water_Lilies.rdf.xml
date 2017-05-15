@@ -1,0 +1,149 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Claude_Monet</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Nenúfares_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Lilie_wodne</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Waterlilies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Water_Lilies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/As_ninfeas</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1189907</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Waterlelies_(Monet)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Nenúfares_(Monet)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Water_Lilies</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02w1tg1</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/Water_Lilies</field>
+<field name="sameAs">http://he.dbpedia.org/resource/חבצלות_המים</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Vízililiomok_(Monet_festményei)</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/睡莲_(莫奈)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Lilie_wodne</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Nilüferler</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Les_Nymphéas</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/نیلوفرهای_آبی</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Le_Ninfee_(Claude_Monet)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1910s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Claude_Monet</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1900s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1920s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1890s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Museum_of_Modern_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="abstract">Water Lilies is a series of approximately 250 oil paintings by French Impressionist Claude Monet (1840–1926). The paintings depict Monet's flower garden at Giverny and were the main focus of Monet's artistic production during the last thirty years of his life. Many of the works were painted while Monet suffered from cataracts. The paintings are on display at museums all over the world, including the Musée Marmottan Monet and the musée d'Orsay in Paris, the Metropolitan Museum of Art in New York, the Art Institute of Chicago, the Saint Louis Art Museum, the Nelson-Atkins Museum of Art in Kansas City, Missouri, the Carnegie Museum of Art, the National Museum of Wales, the Musée des Beaux-Arts de Nantes, the Cleveland Museum of Art and the Portland Art Museum. During the 1920s, the state of France built a pair of oval rooms at the Musée de l'Orangerie as a permanent home for eight water lily murals by Monet. The exhibit opened to the public on 16 May 1927, a few months after Monet's death. Sixty water lily paintings from around the world were assembled for a special exhibition at the Musée de l'Orangerie in 1999. On 19 June 2007, one of Monet's water lily paintings sold for £18.5 million at a Sotheby's auction in London. On 24 June 2008 another of Monet's water lily paintings, Le bassin aux nymphéas, sold for almost £41 million at Christie's in London, almost double the estimate of £18 to £24 million. Monet's career long serial motif of producing and exhibiting a series of paintings related by subject and perspective began in 1889, with at least ten paintings done at the Valley of the Creuse, which were shown at the Galerie Georges Petit. Among his other famous series are his Haystacks. In May 2010, it was announced that the 1906 Nymphéas work would be auctioned in London in June 2010, the painting had an estimated sale price of between £30 and £40 million. Giovanna Bertazzoni, Christie's auction house director and head of impressionist and modern art, said "Claude Monet's water-lily paintings are amongst the most recognised and celebrated works of the 20th Century and were hugely influential to many of the following generations of artists". The sale took place on 23 June 2010 at the auction house and the painting attracted bids of up to £29 million, but it ultimately failed to sell.</field>
+<field name="label">Water Lilies</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2a/Claude_Monet_-_The_Water_Lilies_-_The_Clouds_-_Google_Art_Project.jpg</field>
+<field name="comment">Water Lilies is a series of approximately 250 oil paintings by French Impressionist Claude Monet (1840–1926). The paintings depict Monet's flower garden at Giverny and were the main focus of Monet's artistic production during the last thirty years of his life. Many of the works were painted while Monet suffered from cataracts.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/Claude_Monet_-_The_Water_Lilies_-_The_Clouds_-_Google_Art_Project.jpg/200px-Claude_Monet_-_The_Water_Lilies_-_The_Clouds_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://www.waterliliespaintingmusic.com/accueil.html</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/85352</field>
+<field name="link_external">http://smarthistory.khanacademy.org/water-lilies.html</field>
+<field name="link_external">http://pamcollections.org/detail.php?t=objects&amp;type=all&amp;f=&amp;s=water+lilies&amp;record=0</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Water_Lilies</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nympheas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Water_Lillie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Le_Ninfee_(Claude_Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Les_Nymphéas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Water_Lilies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Waterlelies_(Monet)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/睡莲_(莫奈)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/نیلوفرهای_آبی</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/As_ninfeas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/חבצלות_המים</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Vízililiomok_(Monet_festményei)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/Water_Lilies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Nilüferler</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1189907</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Water_Lilies</field>
+</doc>
+</add>

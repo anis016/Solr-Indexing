@@ -1,0 +1,69 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chula_series</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Chula_series</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bmcn40</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5116090</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Chula_series</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1885_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Juan_Luna</field>
+<field name="abstract">The Chula series or Chula studies is a succession of paintings created by Filipino painter and hero Juan Luna about the so-called "chulas" or working class women of Madrid, Spain. Luna is well known for illustrating “striking and commercially lucrative” depictions of "women of the streets" of Madrid. Exemplars of these are Luna’s Una Chula I ("A Chula" No. 1) and Una Chula II ("A Chula" No. 2) paintings.</field>
+<field name="label">Chula series</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/aa/Chula_by_Juan_Luna.jpg</field>
+<field name="comment">The Chula series or Chula studies is a succession of paintings created by Filipino painter and hero Juan Luna about the so-called "chulas" or working class women of Madrid, Spain. Luna is well known for illustrating “striking and commercially lucrative” depictions of "women of the streets" of Madrid. Exemplars of these are Luna’s Una Chula I ("A Chula" No. 1) and Una Chula II ("A Chula" No. 2) paintings.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Chula_by_Juan_Luna.jpg/200px-Chula_by_Juan_Luna.jpg</field>
+<field name="link_external">http://books.google.com/books?id=W3tjWD-ngC4C&amp;pg=PA44&amp;lpg=PA44&amp;dq=chula+by+juan+luna&amp;source=bl&amp;ots=xXqEPwZTpb&amp;sig=1n6KipKT-FaWMoNnAKL5tJLNblo&amp;hl=en&amp;ei=V6yyS86LJ4OC8gaJ0bzCAQ&amp;sa=X&amp;oi=book_result&amp;ct=result&amp;resnum=7&amp;ved=0CBoQ6AEwBg#</field>
+<field name="artist"/>
+<field name="museum"/>
+<field name="title">Una Chula II</field>
+<field name="title">Chula series:</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Chula_series</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Chula_series</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chula</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chula_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chula_studies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Chula_study</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Una_Chula_I</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Una_Chula_II</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Chula_series</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Chula_series</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5116090</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Chula_series</field>
+</doc>
+</add>

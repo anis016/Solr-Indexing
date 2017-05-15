@@ -1,0 +1,91 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pesaro_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://he.dbpedia.org/resource/מדונת_פזארו</field>
+<field name="sameAs">http://dbpedia.org/resource/Pesaro_Madonna</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_Pesaro</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Pala_Pesaro</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Pesaro_Madonna</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระแม่มารีเปซาโร_(ทิเชียน)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q572697</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026qzpw</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_rodziny_Pesaro</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Titian</field>
+<field name="abstract">The Pesaro Madonna (better known as the Madonna di Ca' Pesaro) is a painting by the Italian Renaissance master Titian, commissioned by Jacopo Pesaro, whose family acquired in 1518 the chapel in the Frari Basilica in Venice for which the work was painted, and where it remains today. Jacopo was Bishop of Paphos, in Cyprus, and had been named commander of the papal fleet by the Borgia pope, Alexander VI. This painting recalls one of Titian's earliest paintings Jacopo Pesaro being presented by Pope Alexander VI to Saint Peter, c. 1503-6</field>
+<field name="label">Pesaro Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/5a/Tizian_039.jpg</field>
+<field name="comment">The Pesaro Madonna (better known as the Madonna di Ca' Pesaro) is a painting by the Italian Renaissance master Titian, commissioned by Jacopo Pesaro, whose family acquired in 1518 the chapel in the Frari Basilica in Venice for which the work was painted, and where it remains today. Jacopo was Bishop of Paphos, in Cyprus, and had been named commander of the papal fleet by the Borgia pope, Alexander VI.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Tizian_039.jpg/200px-Tizian_039.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/titian-madonna-of-the-pesaro-family.html</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Pesaro Madonna</field>
+<field name="type">Oil on canvas</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Pesaro_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pesaro_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_rodziny_Pesaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pesaro_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_Pesaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pesaro_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pesaro_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Pala_Pesaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pesaro_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Pesaro_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Pesaro_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_di_Ca'_Pesaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pala_Pesaro</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q572697</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pesaro_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/מדונת_פזארו</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pesaro_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระแม่มารีเปซาโร_(ทิเชียน)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pesaro_Madonna</field>
+</doc>
+</add>

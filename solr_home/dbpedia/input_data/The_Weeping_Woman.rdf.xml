@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dora_Maar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Weeping_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Weeping_Woman</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Ağlayan_Kadın</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/哭泣的女人</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/泣く女</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Žena_koja_plače</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0288z6c</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Weeping_Woman</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3267954</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Weeping_Woman</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1937_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="abstract">Weeping Woman (Dora), (60 х 49 cm, 23 ⅝ х 19 ¼ inches) is an oil on canvas painted by Pablo Picasso in France in 1937. Picasso was intrigued with the subject, and revisited the theme numerous times that year. This painting was the final and most elaborate of the series. It has been in the collection of the Tate Gallery in Liverpool since 1987.</field>
+<field name="label">The Weeping Woman</field>
+<field name="comment">Weeping Woman (Dora), (60 х 49 cm, 23 ⅝ х 19 ¼ inches) is an oil on canvas painted by Pablo Picasso in France in 1937. Picasso was intrigued with the subject, and revisited the theme numerous times that year. This painting was the final and most elaborate of the series. It has been in the collection of the Tate Gallery in Liverpool since 1987.</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=11871</field>
+<field name="artist">http://dbpedia.org/resource/Pablo_Picasso</field>
+<field name="city">http://dbpedia.org/resource/Liverpool</field>
+<field name="museum">http://dbpedia.org/resource/Tate</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Weeping_Woman</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Weeping_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/泣く女</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Weeping_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Weeping_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Weeping_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3267954</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Weeping_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/哭泣的女人</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Weeping_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Žena_koja_plače</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Weeping_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Weeping_Woman</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Weeping_Woman</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Ağlayan_Kadın</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Weeping_Woman</field>
+</doc>
+</add>

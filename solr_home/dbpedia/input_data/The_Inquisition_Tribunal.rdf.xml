@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Inquisition_Tribunal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ch1gy3</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3819135</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Inquisition_Tribunal</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Inquisition_Tribunal</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Auto_de_fe_de_la_Inquisición_(Goya)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Auto_de_fe_de_la_Inquisició</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francisco_Goya</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Spanish_Inquisition</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1810s_paintings</field>
+<field name="abstract">The Inquisition Tribunal or The Inquisition Auto de fe is an oil-on-panel painting produced by the Spanish artist Francisco Goya between 1812 and 1819. It shows an Auto de fe, or accusation of heretics, by the tribunal of the Spanish Inquisition, being held inside a church. The accused sit in chains and pointed hats in front of a large audience. The work was owned by Manuel García de la Prada and is now in the collection of the Real Academia de Bellas Artes de San Fernando in Madrid. The painting belongs to a series which also includes The Bullfight, The Madhouse and A Procession of Flagellants, all showing some of the most terrible aspects of 19th-century Spanish life and reflecting customs which liberals (of whom Goya was then one) wished to reform but whose reform was opposed by the absolutist policy of Ferdinand VII of Spain. Each painting in the series is marked by an instance of cruelty, here the threat of being burned at the stake, symbolised by the pointed hats worn by the accused. Every figure in the foreground is in the light, individualised and well-characterised, whereas the background is occupied by an anonymous mass of people shut in by darkness and a claustrophobic Gothic architecture.</field>
+<field name="label">The Inquisition Tribunal</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/81/Tribunal_de_la_Inquisición.jpg</field>
+<field name="comment">The Inquisition Tribunal or The Inquisition Auto de fe is an oil-on-panel painting produced by the Spanish artist Francisco Goya between 1812 and 1819. It shows an Auto de fe, or accusation of heretics, by the tribunal of the Spanish Inquisition, being held inside a church. The accused sit in chains and pointed hats in front of a large audience. The work was owned by Manuel García de la Prada and is now in the collection of the Real Academia de Bellas Artes de San Fernando in Madrid.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/81/Tribunal_de_la_Inquisición.jpg/200px-Tribunal_de_la_Inquisición.jpg</field>
+<field name="link_external">http://www.artehistoria.jcyl.es/genios/cuadros/2707.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Inquisition_Tribunal</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Inquisition_Tribunal</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Auto_de_fe_de_la_Inquisición_(Goya)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Inquisition_Tribunal</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Inquisition_Tribunal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Inquisition_Tribunal</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3819135</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Inquisition_Tribunal</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Auto_de_fe_de_la_Inquisició</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Inquisition_Tribunal</field>
+</doc>
+</add>

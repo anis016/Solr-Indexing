@@ -1,0 +1,125 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rainy_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Rue_de_Paris,_temps_de_pluie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Straße_in_Paris_an_einem_regnerischen_Tag</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Paris_Street;_Rainy_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Парижская_улица_в_дождливую_погоду</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Paryžius,_lietinga_diena</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Rue_de_Paris,_temps_de_pluie</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Paris_Street;_Rainy_Day</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Парижская_улица_в_дождливую_погоду</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1452762</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Rue_de_Paris,_temps_de_pluie</field>
+<field name="sameAs">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Straße_in_Paris_an_einem_regnerischen_Tag</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Rue_de_Paris,_temps_de_pluie</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/پاریس،_یک_روز_بارانی</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vyvyc</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Art_Institute_of_Chicago</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1877_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:French_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Gustave_Caillebotte</field>
+<field name="abstract">Paris Street; Rainy Day is a large (212.2cm x 276cm) 1877 oil painting by the French artist Gustave Caillebotte. The piece depicts the Place de Dublin, an intersection near the Gare Saint-Lazare, a railroad station in north Paris. One of Caillebotte's best known works, it debuted at the Third Impressionist Exhibition of 1877 and is currently owned by the Art Institute of Chicago. Art Institute curator Gloria Groom described the piece as "the great picture of urban life in the late 19th century. " Caillebotte's interest in photography is evident from the painting. The figures in the foreground appear slightly "out of focus", those in the mid-distance (the carriage and the pedestrians in the middle of the intersection) have sharp edges, while the features in the background becomes progressively indistinct. The severe cropping of some figures further suggests the influence. The point-focus of the image highlights the dimensions and draws the viewer's eye to the vantage point at the center of the buildings in the background. The figures appear to have walked into the painting, as though Caillbotte was taking a snapshot of people casually going about their day, hiding the fact that he spent months carefully placing his figures within the pictorial space.</field>
+<field name="label">Paris Street; Rainy Day</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/17/Gustave_Caillebotte_-_Paris_Street;_Rainy_Day_-_Google_Art_Project.jpg</field>
+<field name="comment">Paris Street; Rainy Day is a large (212.2cm x 276cm) 1877 oil painting by the French artist Gustave Caillebotte. The piece depicts the Place de Dublin, an intersection near the Gare Saint-Lazare, a railroad station in north Paris. One of Caillebotte's best known works, it debuted at the Third Impressionist Exhibition of 1877 and is currently owned by the Art Institute of Chicago. Art Institute curator Gloria Groom described the piece as "the great picture of urban life in the late 19th century.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/17/Gustave_Caillebotte_-_Paris_Street;_Rainy_Day_-_Google_Art_Project.jpg/200px-Gustave_Caillebotte_-_Paris_Street;_Rainy_Day_-_Google_Art_Project.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/gustave-caillebottes-paris-street-rainy-day.html</field>
+<field name="width">210</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Paris_Street;_Rainy_Day</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Paris_Street;_Rainy_Day</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paris_Street,_Rainy_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paris_Street_Rainy_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rainy_Day_in_Paris</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rue_de_Paris</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paris:_A_Rainy_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paris:_a_rainy_day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Rue_de_Paris,_temps_de_pluie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1452762</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Rue_de_Paris,_temps_de_pluie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/پاریس،_یک_روز_بارانی</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Paryžius,_lietinga_diena</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Rue_de_Paris,_temps_de_pluie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paris_Street;_Rainy_Day</field>
+</doc>
+</add>

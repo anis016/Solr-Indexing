@@ -1,0 +1,85 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Madonna_of_Port_Lligat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_de_Port_Lligat</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_di_Port_Lligat_(1950)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_Порт-Льигата_(первая_версия)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q115728</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Madonna_de_Port_Lligat</field>
+<field name="sameAs">http://he.dbpedia.org/resource/המדונה_של_פורט_ליגאט</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Madonna_of_Port_Lligat</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02q405</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_Port_Lligat</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1949_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1950_paintings</field>
+<field name="abstract">The Madonna of Port Lligat is the name of two paintings by Salvador Dalí. The first was created in 1949, measuring 49 x 37.5 centimetres (19.3 x 14.8 in), and is housed in the Haggerty Museum of Art at Marquette University in Milwaukee, Wisconsin, USA. Dali submitted it to Pope Pius XII for approval, which was granted. Dalí created a second painting in 1950 with the same title and same themes, with various poses and details changed, measuring 144 x 96 centimetres (57.7 x 37.8 in); As of 2008, the 1950 Madonna is exhibited at the Fukuoka Art Museum in Japan. The paintings depict a seated Madonna (posed by Dalí's wife, Gala) with the infant Christ on her lap. Both figures have rectangular holes cut into their torsos, suggestive of their transcendent status. In the 1950 version Christ has bread at the center of his figure. They are posed in a landscape, with a view of Port Lligat, Catalonia seashore in the background, with surrealist details, including nails, fish, seashells, and an egg. The 1949 Madonna has a sea urchin; the 1950 Madonna has a rhinoceros and figures of angels, also posed by Gala. A poem and book based on The Virgin of Port Lligat by Fray Angelico Chavez, was selected as one of the best books of 1959 by the Catholic Library Association</field>
+<field name="label">The Madonna of Port Lligat</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d3/The_Madonna_of_Port_Lligat.jpg</field>
+<field name="comment">The Madonna of Port Lligat is the name of two paintings by Salvador Dalí. The first was created in 1949, measuring 49 x 37.5 centimetres (19.3 x 14.8 in), and is housed in the Haggerty Museum of Art at Marquette University in Milwaukee, Wisconsin, USA. Dali submitted it to Pope Pius XII for approval, which was granted.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/The_Madonna_of_Port_Lligat.jpg/200px-The_Madonna_of_Port_Lligat.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/Milwaukee</field>
+<field name="height">48.9</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Marquette_University</field>
+<field name="title">The Madonna of Port Lligat</field>
+<field name="width">37.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Madonna_of_Port_Lligat</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Madonna_of_Port_Lligat</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_Порт-Льигата_(первая_версия)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_Port_Lligat</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Port_Lligat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Madonna_of_Port_Lligat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Madonna_of_Port_Lligat</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Madonna_de_Port_Lligat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_Port_Lligat</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_de_Port_Lligat</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_Port_Lligat</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_di_Port_Lligat_(1950)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_Port_Lligat</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q115728</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_Port_Lligat</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/המדונה_של_פורט_ליגאט</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Madonna_of_Port_Lligat</field>
+</doc>
+</add>

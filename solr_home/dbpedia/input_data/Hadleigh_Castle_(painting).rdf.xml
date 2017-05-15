@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hadleigh_Castle_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hadleigh_Castle_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gmc55x</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5637936</field>
+<field name="sameAs">http://dbpedia.org/resource/Hadleigh_Castle_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1829_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Constable</field>
+<field name="abstract">Hadleigh Castle is an oil painting by the English painter John Constable. John Constable visited Hadleigh Castle in 1814 and made a minute drawing of the castle as preparation for ten oil sketches and a single painting. The oil painting was produced in 1829 and exhibited at the Royal Academy in the same year. One of the sketches is currently displayed at the Tate Gallery, London, while the painting now hangs in the Yale Center for British Art at New Haven, United States. Constable's painting, "one of his most monumental works" according to art historians Tammis Groft and Mary Mackay, shows Hadleigh Castle as a decaying man-made structure, succumbing to the elemental power of nature.</field>
+<field name="label">Hadleigh Castle (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/dc/John_Constable_019.jpg</field>
+<field name="comment">Hadleigh Castle is an oil painting by the English painter John Constable. John Constable visited Hadleigh Castle in 1814 and made a minute drawing of the castle as preparation for ten oil sketches and a single painting. The oil painting was produced in 1829 and exhibited at the Royal Academy in the same year. One of the sketches is currently displayed at the Tate Gallery, London, while the painting now hangs in the Yale Center for British Art at New Haven, United States.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/John_Constable_019.jpg/200px-John_Constable_019.jpg</field>
+<field name="link_external">http://books.google.co.uk/books?id=jJpPAAAAMAAJ&amp;dq=hadleigh%20castle%20constable&amp;source=gbs_book_other_versions</field>
+<field name="artist">http://dbpedia.org/resource/John_Constable</field>
+<field name="city">http://dbpedia.org/resource/New_Haven,_Connecticut</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Yale_Center_for_British_Art</field>
+<field name="title">Hadleigh Castle</field>
+<field name="type">Oil</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hadleigh_Castle_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hadleigh_Castle_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hadleigh_Castle_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hadleigh_Castle_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5637936</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hadleigh_Castle_(painting)</field>
+</doc>
+</add>

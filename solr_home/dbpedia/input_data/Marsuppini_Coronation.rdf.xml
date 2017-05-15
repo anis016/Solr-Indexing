@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Incoronazione_Marsuppini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Marsuppini_Coronation</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Marsuppini_Coronation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvszg0</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3797762</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Incoronazione_Marsuppini</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Marsuppini_Coronation</field>
+<field name="sameAs">http://dbpedia.org/resource/Marsuppini_Coronation</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1440s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Vatican_Museums</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Filippo_Lippi</field>
+<field name="abstract">The Marsuppini Coronation is a painting of the Coronation of the Virgin by the Italian Renaissance painter Filippo Lippi, dating to after 1444. It is in the Pinacoteca Vaticana, Rome.</field>
+<field name="label">Marsuppini Coronation</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d6/Filippo_Lippi_001.jpg</field>
+<field name="comment">The Marsuppini Coronation is a painting of the Coronation of the Virgin by the Italian Renaissance painter Filippo Lippi, dating to after 1444. It is in the Pinacoteca Vaticana, Rome.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Filippo_Lippi_001.jpg/200px-Filippo_Lippi_001.jpg</field>
+<field name="link_external">http://www.restaurofilippolippi.it/opere/scheda_15.htm</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">172</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum"/>
+<field name="title">Marsuppini Coronation</field>
+<field name="type">Tempera on panel</field>
+<field name="width">251</field>
+<field name="year">after 1444</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Marsuppini_Coronation</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Marsuppini_Coronation</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Coronation_of_the_Virgin,_with_St._John_and_St._Benedict</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Coronation_of_the_Virgin_(Filippo_Lippi,_Rome)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Incoronazione_Marsuppini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Marsuppini_Incoronation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Marsuppini_Coronation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Marsuppini_Coronation</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3797762</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Marsuppini_Coronation</field>
+</doc>
+</add>

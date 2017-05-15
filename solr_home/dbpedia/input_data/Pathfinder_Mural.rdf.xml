@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pathfinder_Mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Pathfinder_Mural</field>
+<field name="sameAs">http://dbpedia.org/resource/Pathfinder_Mural</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7144762</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0266g50</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Political_art</field>
+<field name="abstract">The Pathfinder Mural is a work of art formerly located at 410 West Street in the New York City neighborhood known as the West Village. It was conceived of by artist Mike Alewitz in 1988 and painted as a collaboration among eighty artists from twenty nations, who painted it on the side of the Socialist Workers Party (SWP) building housing the Pathfinder Press, the publishing arm of the Pathfinder tendency, a left-wing organization.</field>
+<field name="label">Pathfinder Mural</field>
+<field name="comment">The Pathfinder Mural is a work of art formerly located at 410 West Street in the New York City neighborhood known as the West Village. It was conceived of by artist Mike Alewitz in 1988 and painted as a collaboration among eighty artists from twenty nations, who painted it on the side of the Socialist Workers Party (SWP) building housing the Pathfinder Press, the publishing arm of the Pathfinder tendency, a left-wing organization.</field>
+<field name="link_external">http://www.hoover.org/library-and-archives/</field>
+<field name="link_external">http://www.lalutta.org/images/alewitz/8.html</field>
+<field name="link_external">http://www.columbia.edu/~lnp3/mydocs/culture/alewitz.htm</field>
+<field name="link_external">http://www.oac.cdlib.org/findaid/ark:/13030/kt767nf4xv/</field>
+<field name="link_external">http://www.themilitant.com/1996/6027/6027_4.html</field>
+<field name="link_external">http://www.monthlyreview.org/books/insurgentimages.php</field>
+<field name="link_external">http://www.monthlyreview.org/insurgentweb/</field>
+<field name="link_external">http://www.womensenews.org/article.cfm/dyn/aid/2643/context/cover/</field>
+<field name="link_external">http://www.themilitant.com/1996/6021/6021_6.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Pathfinder_Mural</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Pathfinder_Mural</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Pathfinder_Mural</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Pathfinder_Mural</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7144762</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Pathfinder_Mural</field>
+</doc>
+</add>

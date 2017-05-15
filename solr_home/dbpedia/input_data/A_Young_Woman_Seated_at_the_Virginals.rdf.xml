@@ -1,0 +1,73 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_Young_Woman_Seated_at_the_Virginals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4660880</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Młoda_kobieta_siedząca_przy_wirginale</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_Young_Woman_Seated_at_the_Virginals</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07s3fsf</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Giovane_donna_seduta_al_virginale</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Zittende_vrouw_aan_het_virginaal</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Woman_Seated_at_the_Virginals</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/En_ung_kvinna_som_sitter_vid_en_cembalo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Johannes_Vermeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1670s_paintings</field>
+<field name="abstract">A Young Woman Seated at the Virginals, also known as Young Woman Seated at the Virginals and A Young Woman Seated at a Virginal, is a painting some attribute to the Dutch artist Johannes Vermeer. It is thought to date from 1670 to 1672 and is now in a private collection in New York. The painting's title is close to that of another Vermeer work, sometimes called "Young Woman Seated at a Virginal" (which itself has an alternate title, "Lady Seated at a Virginal") at the National Gallery, London. Until recently the work was little known. It was determined to be a Vermeer painting through technical examination and passages of painting very similar to those in Vermeer's "Lady Seated at a Virginal" in The National Gallery, London, although the yellow shawl may have been painted by another artist. It is on loan to the Ashmolean Museum, Oxford, from January to September 2012.</field>
+<field name="label">A Young Woman Seated at the Virginals</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2b/Vermeer_-_A_young_Woman_seated_at_the_Virginals.jpg</field>
+<field name="comment">A Young Woman Seated at the Virginals, also known as Young Woman Seated at the Virginals and A Young Woman Seated at a Virginal, is a painting some attribute to the Dutch artist Johannes Vermeer. It is thought to date from 1670 to 1672 and is now in a private collection in New York. The painting's title is close to that of another Vermeer work, sometimes called "Young Woman Seated at a Virginal" (which itself has an alternate title, "Lady Seated at a Virginal") at the National Gallery, London.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Vermeer_-_A_young_Woman_seated_at_the_Virginals.jpg/200px-Vermeer_-_A_young_Woman_seated_at_the_Virginals.jpg</field>
+<field name="link_external">http://www.essentialvermeer.com/catalogue/baron_rolin.html</field>
+<field name="link_external">http://www.artsjournal.com/culturegrrl/2009/01/virginal_vermeer_sold_by_wynn.html</field>
+<field name="link_external">http://www.sothebys.com/app/live/lot/LotDetail.jsp?sale_number=L04031&amp;live_lot_id=8</field>
+<field name="artist">http://dbpedia.org/resource/Johannes_Vermeer</field>
+<field name="city">http://dbpedia.org/resource/New_York</field>
+<field name="height">25.1</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Young Woman Seated at a Virginal</field>
+<field name="width">20</field>
+<field name="year">c. 1670–72</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_Young_Woman_Seated_at_the_Virginals</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_Young_Woman_Seated_at_the_Virginals</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Młoda_kobieta_siedząca_przy_wirginale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Woman_Seated_at_the_Virginals</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_Young_Woman_Seated_at_the_Virginals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_Young_Woman_Seated_at_the_Virginals</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Giovane_donna_seduta_al_virginale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Woman_Seated_at_the_Virginals</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Zittende_vrouw_aan_het_virginaal</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Woman_Seated_at_the_Virginals</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4660880</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Woman_Seated_at_the_Virginals</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/En_ung_kvinna_som_sitter_vid_en_cembalo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_Young_Woman_Seated_at_the_Virginals</field>
+</doc>
+</add>

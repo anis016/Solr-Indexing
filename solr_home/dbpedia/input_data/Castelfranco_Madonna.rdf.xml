@@ -1,0 +1,113 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Pala_di_Castelfranco</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Castelfranco_Madonna</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_di_Castelfranco</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระแม่มารีคาลเตลฟรังโค_(จอร์โจเน)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Tronująca_Maria_z_Dzieciątkiem_i_świętymi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0c7_1z</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Pala_di_Castelfranco</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1720631</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Pala_de_Castelfranco</field>
+<field name="sameAs">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Мадонна_Кастельфранко</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Pala_di_Castelfranco</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgione</field>
+<field name="abstract">The Madonna and Child Between St. Francis and St. Nicasius, also known as Castelfranco Madonna, is a painting by the Italian Renaissance artist Giorgione executed around 1503. It is housed in the Cathedral of Castelfranco Veneto, Giorgione's native city, in Veneto, northern Italy.</field>
+<field name="label">Castelfranco Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a0/Giorgione_001.jpg</field>
+<field name="comment">The Madonna and Child Between St. Francis and St. Nicasius, also known as Castelfranco Madonna, is a painting by the Italian Renaissance artist Giorgione executed around 1503. It is housed in the Cathedral of Castelfranco Veneto, Giorgione's native city, in Veneto, northern Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Giorgione_001.jpg/200px-Giorgione_001.jpg</field>
+<field name="link_external">http://www.comune.castelfrancoveneto.tv.it/?area=1&amp;menu=177</field>
+<field name="link_external">http://www.museocasagiorgione.it/index.php?area=61&amp;menu=49&amp;page=737</field>
+<field name="artist"/>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna and Child Between St. Francis and St. Nicasius</field>
+<field name="type">oil on panel</field>
+<field name="year">c. 1505</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Castelfranco_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Castelfranco_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Tronująca_Maria_z_Dzieciątkiem_i_świętymi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Мадонна_Кастельфранко</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Castelfranco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Castelfranco_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_Castelfranco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Pala_di_Castelfranco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Castelfranco_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_di_Castelfranco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Pala_di_Castelfranco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Pala_de_Castelfranco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1720631</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Pala_di_Castelfranco</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระแม่มารีคาลเตลฟรังโค_(จอร์โจเน)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Castelfranco_Madonna</field>
+</doc>
+</add>

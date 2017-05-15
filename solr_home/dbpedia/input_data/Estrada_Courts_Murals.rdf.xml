@@ -1,0 +1,19 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Estrada_Courts_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Estrada_Courts_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Estrada_Courts_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Estrada_Courts_Murals</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Estrada_Courts_Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mexican-American_culture_in_California</field>
+<field name="label">Estrada Courts Murals</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Estrada_Courts_Murals</field>
+</doc>
+</add>

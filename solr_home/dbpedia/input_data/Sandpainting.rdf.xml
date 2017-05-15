@@ -1,0 +1,140 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dul-tson-kyil-khor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/砂絵</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sandpainting</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Drypainting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sandpainting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1439311</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03d7bn</field>
+<field name="sameAs">http://dbpedia.org/resource/Sandpainting</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/砂絵</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Sandpainting</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/رسم_بالرمل</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Sandbild</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Sandmålning</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Tranh_cát</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sand_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Tibetan_Buddhist_art_and_culture</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Religious_behaviour_and_experience</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Native_American_religion</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Painting_techniques</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Decorative_arts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Native_American_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Art_media</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Tibetan_art</field>
+<field name="abstract">Sandpainting is the art of pouring colored sands, powdered pigments from minerals or crystals, and pigments from other natural or synthetic sources onto a surface to make a fixed, or unfixed sand painting. Unfixed sand paintings have a long established cultural history in numerous social groupings around the globe, and are often temporary, ritual paintings prepared for religious or healing ceremonies. It is also referred to as drypainting. Drypainting is practiced by Native Americans in the Southwestern United States, by Tibetan and Buddhist monks, as well as Australian Aborigines, and also by Latin Americans on certain Christian holy days.</field>
+<field name="label">Sandpainting</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/8c/Rangoli.jpg</field>
+<field name="comment">Sandpainting is the art of pouring colored sands, powdered pigments from minerals or crystals, and pigments from other natural or synthetic sources onto a surface to make a fixed, or unfixed sand painting. Unfixed sand paintings have a long established cultural history in numerous social groupings around the globe, and are often temporary, ritual paintings prepared for religious or healing ceremonies. It is also referred to as drypainting.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Rangoli.jpg/200px-Rangoli.jpg</field>
+<field name="link_external">http://royalsociety.org/From-music-to-sand-painting</field>
+<field name="link_external">http://www.guardian.co.uk/culture/tvandradioblog/2009/aug/13/ukranian-sand-artist</field>
+<field name="link_external">http://www.tassiliart.com</field>
+<field name="link_external">http://www.limina.arts.uwa.edu.au/__data/page/90432/wilson.pdf</field>
+<field name="link_external">http://www.tableaux-de-sable.fr/tableau-de-sable_en.html</field>
+<field name="link_external">http://jordancraft.com/petra-sand-bottles/</field>
+<field name="link_external">http://www.designhomeonline.com</field>
+<field name="link_external">http://www.sandsoftime.us</field>
+<field name="link_external">http://www5a.biglobe.ne.jp/~chelseas/bonseki/bonseki-e.html</field>
+<field name="link_external">http://nq.oxfordjournals.org/content/vols1-IX/issue228/index.dtl</field>
+<field name="link_external">http://www.grains-de-sable.com</field>
+<field name="link_external">http://nq.oxfordjournals.org/content/volCLV/issuedec08/index.dtl</field>
+<field name="link_external">http://nq.oxfordjournals.org/content/vols1-IX/issue232/index.dtl</field>
+<field name="link_external">http://www.naturalearthcraft.com/</field>
+<field name="link_external">http://www.zandtapijt.be/</field>
+<field name="link_external">http://www.sandelfe.de</field>
+<field name="link_external">http://david.cadran.free.fr</field>
+<field name="link_external">http://www.sandesign.net/index.html</field>
+<field name="link_external">http://fineartamerica.com/profiles/sandpainter-pike.html?tab=artworkgalleries</field>
+<field name="link_external">http://worldcatlibraries.org/oclc/4699507&amp;referer=brief_results</field>
+<field name="link_external">http://clipclop.tripod.com/andrew/index.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Sandpainting</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Sandpainting</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Sandpainting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Sandpainting</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Kseniya_Simonova</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sand_Painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Sandbild</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sandpainting</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dry_Painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Dry_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Navajo_sandpainting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sand-painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Sand_painting</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1439311</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sandpainting</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/رسم_بالرمل</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sandpainting</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Sandmålning</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sandpainting</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Tranh_cát</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Sandpainting</field>
+</doc>
+</add>

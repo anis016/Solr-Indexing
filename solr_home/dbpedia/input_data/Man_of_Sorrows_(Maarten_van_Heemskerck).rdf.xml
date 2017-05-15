@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Man_of_Sorrows_(Maarten_van_Heemskerck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4006177</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Man_of_Sorrows_(Maarten_van_Heemskerck)</field>
+<field name="sameAs">http://dbpedia.org/resource/Man_of_Sorrows_(Maarten_van_Heemskerck)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03gv0z1</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Uomo_di_dolori_(Maarten_van_Heemskerck)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Dutch painter Maarten van Heemskerck (1498-1574) painted the subject of the Man of Sorrows three times. The subject depicts Christ after the crucifixion attended by angels, with wounds prominently displayed, wearing the crown of thorns and a loincloth. The loincloth is claimed to be wrapped around an erection, visible to some art historians but not others. Van Heemskerck is not the only Renaissance artist to depict Christ with an erection, which some scholars interpret as a symbol of his resurrection and continuing power.</field>
+<field name="label">Man of Sorrows (Maarten van Heemskerck)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f5/Man_of_Sorrows.jpg</field>
+<field name="comment">The Dutch painter Maarten van Heemskerck (1498-1574) painted the subject of the Man of Sorrows three times. The subject depicts Christ after the crucifixion attended by angels, with wounds prominently displayed, wearing the crown of thorns and a loincloth. The loincloth is claimed to be wrapped around an erection, visible to some art historians but not others.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Man_of_Sorrows.jpg/200px-Man_of_Sorrows.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Man_of_Sorrows_(Maarten_van_Heemskerck)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Man_of_Sorrows_(Maarten_van_Heemskerck)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Uomo_di_dolori_(Maarten_van_Heemskerck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Man_of_Sorrows_(Maarten_van_Heemskerck)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Man_of_Sorrows_(Maarten_van_Heemskerck)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Man_of_Sorrows_(Maarten_van_Heemskerck)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Man_of_Sorrows_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4006177</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Man_of_Sorrows_(Maarten_van_Heemskerck)</field>
+</doc>
+</add>

@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Work_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Work_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Work_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Work_(painting)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4464287</field>
+<field name="sameAs">http://dbpedia.org/resource/Work_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qbd3k</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Труд_(картина)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1865_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ford_Madox_Brown</field>
+<field name="abstract">Work (1852–1865) is a painting by Ford Madox Brown, which is generally considered to be his most important achievement. It attempts to portray, both literally and analytically, the totality of the Victorian social system and the transition from a rural to an urban economy. Brown began the painting in 1852 and completed it in 1865, when he set up a special exhibition to showcase it along with several of his other works. He wrote a detailed catalogue explaining the significance of the picture. The painting was commissioned by Thomas Plint, a well-known collector of Pre-Raphaelite art, who died before its completion.</field>
+<field name="label">Work (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/72/Brown_work.jpg</field>
+<field name="comment">Work (1852–1865) is a painting by Ford Madox Brown, which is generally considered to be his most important achievement. It attempts to portray, both literally and analytically, the totality of the Victorian social system and the transition from a rural to an urban economy. Brown began the painting in 1852 and completed it in 1865, when he set up a special exhibition to showcase it along with several of his other works. He wrote a detailed catalogue explaining the significance of the picture.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/72/Brown_work.jpg/200px-Brown_work.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Ford_Madox_Brown</field>
+<field name="city">http://dbpedia.org/resource/Manchester</field>
+<field name="city">http://dbpedia.org/resource/England</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/Manchester_Art_Gallery</field>
+<field name="title">Work</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Work_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Work_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Work</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Труд_(картина)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Work_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4464287</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Work_(painting)</field>
+</doc>
+</add>

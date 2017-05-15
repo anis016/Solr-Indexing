@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Prophet_Isaiah_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prophet_Isaiah_(Michelangelo)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3802366</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Isaia_(Michelangelo)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0g9_78m</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Prophet_Isaiah_(Michelangelo)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Michelangelo</field>
+<field name="abstract">The Prophet Isaiah is one of the seven Old Testament prophets painted by the Italian High Renaissance master Michelangelo (c. 1542–1545) on the Sistine Chapel ceiling. The Sistine Chapel is in Vatican Palace, in the Vatican City. Elements of this fresco have inspired various artists, including Caravaggio. This particular fresco figure is painted fourth on the right from the side of the High Altar. Michelangelo's imagining bursts with movement, as Isaiah's cloak swirls around him. The colors in the portrayal - especially after the restoration - strike us as cool and luminous. The figure holds a distinctive blue book to his side, perhaps a depiction of the biblical Book of Isaiah. This painting has been held in particularly high regard by critics. Vasari said of it: "Anyone who studies this figure, copied so faithfully from nature, the true mother of the art of painting, will find a beautifully composed work capable of teaching in full measure all the precepts to be followed by a good painter". If compared to Raphael's imagining of the same figure, Michelangelo's portrayal seems far more fluid and less muscular, as well as brighter in color.</field>
+<field name="label">Prophet Isaiah (Michelangelo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ec/Jesaja_(Michelangelo).jpg</field>
+<field name="comment">The Prophet Isaiah is one of the seven Old Testament prophets painted by the Italian High Renaissance master Michelangelo (c. 1542–1545) on the Sistine Chapel ceiling. The Sistine Chapel is in Vatican Palace, in the Vatican City. Elements of this fresco have inspired various artists, including Caravaggio. This particular fresco figure is painted fourth on the right from the side of the High Altar. Michelangelo's imagining bursts with movement, as Isaiah's cloak swirls around him.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Jesaja_(Michelangelo).jpg/200px-Jesaja_(Michelangelo).jpg</field>
+<field name="artist"/>
+<field name="city">http://dbpedia.org/resource/Vatican_City</field>
+<field name="height">390</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Sistine_Chapel</field>
+<field name="museum">http://dbpedia.org/resource/Apostolic_Palace</field>
+<field name="title">The Prophet Isaiah</field>
+<field name="type">Fresco</field>
+<field name="width">380</field>
+<field name="year">circa 1508-1512</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Prophet_Isaiah_(Michelangelo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Prophet_Isaiah_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Prophet_Isaiah_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Prophet_Isaiah_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Isaia_(Michelangelo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prophet_Isaiah_(Michelangelo)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3802366</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Prophet_Isaiah_(Michelangelo)</field>
+</doc>
+</add>

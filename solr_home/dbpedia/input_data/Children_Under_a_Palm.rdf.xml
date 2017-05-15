@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Children_Under_a_Palm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Children_Under_a_Palm</field>
+<field name="sameAs">http://dbpedia.org/resource/Children_Under_a_Palm</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5098351</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gy00n5</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Winslow_Homer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1884_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Watercolours</field>
+<field name="abstract">Children Under a Palm (or sometimes Children Under a Palm Tree) is a water colour painting by Winslow Homer. It was featured in the second episode of the BBC TV series Fake or Fortune?.</field>
+<field name="label">Children Under a Palm</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/70/Winslow_Homer's_'Children_Under_a_Palm_Tree'.jpg</field>
+<field name="comment">Children Under a Palm (or sometimes Children Under a Palm Tree) is a water colour painting by Winslow Homer. It was featured in the second episode of the BBC TV series Fake or Fortune?.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Winslow_Homer's_'Children_Under_a_Palm_Tree'.jpg/200px-Winslow_Homer's_'Children_Under_a_Palm_Tree'.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Children_Under_a_Palm</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Children_Under_a_Palm</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Children_Under_a_Palm_Tree</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Children_Under_a_Palm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Children_Under_a_Palm</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5098351</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Children_Under_a_Palm</field>
+</doc>
+</add>

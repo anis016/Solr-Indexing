@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Death_of_Nelson_(West_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0brzng6</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7729444</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Nelson_(West_painting)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Death_of_Nelson_(West_painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1806_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horatio_Nelson</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Walker_Art_Gallery_Liverpool</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1805_in_Europe</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Benjamin_West</field>
+<field name="abstract">The Death of Nelson is a painting by the American artist Benjamin West dated 1806. In 1770, West painted The Death of General Wolfe. This was not an accurate representation of the event, but rather an idealisation, and it included people who were not present at the event. Nevertheless it became very popular, and West painted at least five copies. In 1801, three years after the Battle of the Nile, West met Horatio Nelson, who told him how much he admired the painting of Wolfe, and asked why he had not produced any more similar paintings. West, who was at the time the President of the Royal Academy, replied that he had found no subject of comparable notability. Nelson then expressed the desire that he would be the subject of West's next similar painting. In 1805, Nelson was killed in the Battle of Trafalgar and, within six months, West had created this painting. Again it proved to be popular. When West exhibited it in his studio, within just over a month it was seen by 30,000 members of the public. Again it was an idealisation of the subject. Although West took considerable trouble about the accuracy of details in his painting, basing the portraits on over 50 survivors of the battle, he produced, as he admitted himself, a picture "of what might have been, not of the circumstances as they happened". West created two more paintings with Nelson as the subject, The Death of Lord Nelson in the Cockpit of the Ship "Victory" and The Immortality of Nelson, both of which are in the National Maritime Museum. Other artists produced works depicting the same event. One of these was Arthur William Devis who painted The Death of Nelson, 21 October 1805, now also in the National Maritime Museum. Another was The Death of Nelson by Daniel Maclise, a large wall painting in the Royal Gallery of the Palace of Westminster. The finished study for this work is owned by the Walker Art Gallery in Liverpool, Merseyside, England, having been bought by the gallery in 1892. West's painting is in oil on canvas and measures 182.5 centimetres by 247.5 centimetres . It was presented to the Walker Art Gallery by Bristow H. Hughes.</field>
+<field name="label">The Death of Nelson (West painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/01/Death_of_Nelson.jpg</field>
+<field name="comment">The Death of Nelson is a painting by the American artist Benjamin West dated 1806. In 1770, West painted The Death of General Wolfe. This was not an accurate representation of the event, but rather an idealisation, and it included people who were not present at the event. Nevertheless it became very popular, and West painted at least five copies.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Death_of_Nelson.jpg/200px-Death_of_Nelson.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Benjamin_West</field>
+<field name="city">http://dbpedia.org/resource/Liverpool</field>
+<field name="height">182.5</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Walker_Art_Gallery</field>
+<field name="title">The Death of Nelson</field>
+<field name="width">247.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Death_of_Nelson_(West_painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Death_of_Nelson_(West_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Death_of_Nelson_(West_painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Death_of_Nelson_(West_painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7729444</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Death_of_Nelson_(West_painting)</field>
+</doc>
+</add>

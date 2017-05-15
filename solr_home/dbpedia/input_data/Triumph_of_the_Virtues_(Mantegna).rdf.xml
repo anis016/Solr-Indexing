@@ -1,0 +1,87 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trionfo_della_Virtù</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumph_of_the_Virtues_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Triumf_cnoty</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumph_of_the_Virtues_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Minerva_Chases_the_Vices_from_the_Garden_of_Virtue_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Triumph_of_the_Virtues_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Triumph_of_the_Virtues</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Minerve_chassant_les_Vices_du_jardin_de_la_Vertu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumph_of_the_Virtues_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Triumph_of_the_Virtues_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2413789</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Triumf_cnoty</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rrxb_</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trionfo_della_Virtù</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Triumph_of_the_Virtues_(Mantegna)</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumph_of_the_Virtues_(Mantegna)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Minerve_chassant_les_Vices_du_jardin_de_la_Vertu</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Trec'hlid_ar_Vertuzioù</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Louvre</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1502_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Andrea_Mantegna</field>
+<field name="abstract">The Triumph of the Virtues (also known as Minerva Expelling the Vices from the Garden of Virtue) is a painting by the Italian Renaissance painter Andrea Mantegna, executed in 1502. It is housed in the Musée du Louvre of Paris. The triumph was the second picture painted by Mantegna for Isabella d'Este's studiolo (cabinet), after the Parnassus of 1497. It portrays a marsh enclosed by a tall fence, ruled over by the Vices, portrayed as hideous figures and identified by scrolls in a typically medieval way. Idleness is chased by Minerva, who is also rescuing Diana, goddess of chastity, from being raped by a Centaur, symbol of concupiscence. Next to Minerva is a tree with human features. High in the sky are the three primary moral virtues required to perfect the appetitive powers: Justice, Temperance and Fortitude.</field>
+<field name="label">Triumph of the Virtues (Mantegna)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c6/Mantegna-minerva-garden-virtue.jpg</field>
+<field name="comment">The Triumph of the Virtues (also known as Minerva Expelling the Vices from the Garden of Virtue) is a painting by the Italian Renaissance painter Andrea Mantegna, executed in 1502. It is housed in the Musée du Louvre of Paris. The triumph was the second picture painted by Mantegna for Isabella d'Este's studiolo (cabinet), after the Parnassus of 1497.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Mantegna-minerva-garden-virtue.jpg/200px-Mantegna-minerva-garden-virtue.jpg</field>
+<field name="link_external">http://mini-site.louvre.fr/mantegna/acc/xmlen/section_8_0.html</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=981</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">160</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Triumph of the Virtues</field>
+<field name="type">Tempera on canvas</field>
+<field name="width">192</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Triumph_of_the_Virtues_(Mantegna)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Triumph_of_the_Virtues_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Triumph_of_the_Virtues_(Mantegna)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Triumph_of_the_Virtues_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2413789</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumph_of_the_Virtues_(Mantegna)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Trec'hlid_ar_Vertuzioù</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Triumph_of_the_Virtues_(Mantegna)</field>
+</doc>
+</add>

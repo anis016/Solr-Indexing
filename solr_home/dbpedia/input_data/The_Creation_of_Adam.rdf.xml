@@ -1,0 +1,270 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Creation</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Création_d'Adam_(Michel-Ange)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/アダムの創造</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Adəmin_yaradılışı</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระเจ้าสร้างอาดัม_(มีเกลันเจโล)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Création_d'Adam_(Michel-Ange)</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/De_schepping_van_Adam</field>
+<field name="sameAs">http://ko.dbpedia.org/resource/아담의_창조</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Adams_skabelse</field>
+<field name="sameAs">http://pa.dbpedia.org/resource/ਆਦਮ_ਦੀ_ਸਿਰਜਨਾ</field>
+<field name="sameAs">http://war.dbpedia.org/resource/An_Pagkahimo_kan_Adan</field>
+<field name="sameAs">http://he.dbpedia.org/resource/בריאת_האדם_(מיכלאנג'לו)</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/آفرینش_آدم</field>
+<field name="sameAs">http://sv.dbpedia.org/resource/Adams_skapelse</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Creazione_di_Adamo</field>
+<field name="sameAs">http://ar.dbpedia.org/resource/خلق_آدم_(ميكيلانجيلو)</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Сотворение_Адама</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/アダムの創造</field>
+<field name="sameAs">http://ta.dbpedia.org/resource/ஆதாமின்_உருவாக்கம்</field>
+<field name="sameAs">http://hr.dbpedia.org/resource/Stvaranje_Adama</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02k1j0</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Die_Erschaffung_Adams</field>
+<field name="sameAs">http://simple.dbpedia.org/resource/The_Creation_of_Adam</field>
+<field name="sameAs">http://be.dbpedia.org/resource/Стварэнне_Адама</field>
+<field name="sameAs">http://gl.dbpedia.org/resource/A_creación_do_home</field>
+<field name="sameAs">http://fi.dbpedia.org/resource/Aatamin_luominen</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Adem'in_Yaratılışı</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_creación_de_Adán_(Capilla_Sixtina)</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/A_Criação_de_Adão</field>
+<field name="sameAs">http://vi.dbpedia.org/resource/Chúa_tạo_ra_Adam</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q500242</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Creation_of_Adam</field>
+<field name="sameAs">http://af.dbpedia.org/resource/Skepping_van_Adam</field>
+<field name="sameAs">http://eu.dbpedia.org/resource/Adamen_sorrera</field>
+<field name="sameAs">http://ka.dbpedia.org/resource/ადამის_შექმნა</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Adomo_sutvėrimas_(Mikelandželas)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Fresco_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sistine_Chapel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Adam_and_Eve</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Michelangelo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1512_paintings</field>
+<field name="abstract">The Creation of Adam is arguably the most famous section of Michelangelo's fresco Sistine Chapel ceiling painted circa 1511–1512. It is traditionally thought to illustrate the Biblical creation narrative from the Book of Genesis in which God breathes life into Adam, the first man. Chronologically the fourth in the series of panels depicting episodes from Genesis on the Sistine ceiling, it was among the last to be completed. It is the most well-known of the Sistine Chapel fresco panels, and its fame as a piece of art is rivaled only by the Mona Lisa by Leonardo da Vinci. The image of the near-touching hands of God and Adam has become one of the single most iconic images of humanity and has been reproduced in countless imitations and parodies. Along with Leonardo da Vinci's The Last Supper, The Creation of Adam and the other Sistine Chapel panels are the most replicated religious paintings of all time.</field>
+<field name="label">The Creation of Adam</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b4/Michelangelo_-_Creation_of_Adam.jpg</field>
+<field name="comment">The Creation of Adam is arguably the most famous section of Michelangelo's fresco Sistine Chapel ceiling painted circa 1511–1512. It is traditionally thought to illustrate the Biblical creation narrative from the Book of Genesis in which God breathes life into Adam, the first man. Chronologically the fourth in the series of panels depicting episodes from Genesis on the Sistine ceiling, it was among the last to be completed.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Michelangelo_-_Creation_of_Adam.jpg/200px-Michelangelo_-_Creation_of_Adam.jpg</field>
+<field name="link_external">http://www.michelangelomodels.com</field>
+<field name="artist"/>
+<field name="height">480.1</field>
+<field name="image"/>
+<field name="title">The Creation of Adam</field>
+<field name="type">fresco</field>
+<field name="width">230.1</field>
+<field name="year">c. 1512</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Creation_of_Adam</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Die_Erschaffung_Adams</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Creation_of_Adam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Michelangelo_adam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/A_Criação_de_Adão</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Creation_of_Adam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_creación_de_Adán_(Capilla_Sixtina)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Creazione_di_Adamo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://ko.dbpedia.org/resource/아담의_창조</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Сотворение_Адама</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://eu.dbpedia.org/resource/Adamen_sorrera</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/De_schepping_van_Adam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://af.dbpedia.org/resource/Skepping_van_Adam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://ar.dbpedia.org/resource/خلق_آدم_(ميكيلانجيلو)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Adəmin_yaradılışı</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://be.dbpedia.org/resource/Стварэнне_Адама</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Adams_skabelse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/آفرینش_آدم</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://fi.dbpedia.org/resource/Aatamin_luominen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://gl.dbpedia.org/resource/A_creación_do_home</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/בריאת_האדם_(מיכלאנג'לו)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://hr.dbpedia.org/resource/Stvaranje_Adama</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://ka.dbpedia.org/resource/ადამის_შექმნა</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Adomo_sutvėrimas_(Mikelandželas)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://simple.dbpedia.org/resource/The_Creation_of_Adam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://sv.dbpedia.org/resource/Adams_skapelse</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://ta.dbpedia.org/resource/ஆதாமின்_உருவாக்கம்</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระเจ้าสร้างอาดัม_(มีเกลันเจโล)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Adem'in_Yaratılışı</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://vi.dbpedia.org/resource/Chúa_tạo_ra_Adam</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://war.dbpedia.org/resource/An_Pagkahimo_kan_Adan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://pa.dbpedia.org/resource/ਆਦਮ_ਦੀ_ਸਿਰਜਨਾ</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q500242</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Creation_of_Adam</field>
+</doc>
+</add>

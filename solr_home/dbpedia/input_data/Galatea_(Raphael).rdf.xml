@@ -1,0 +1,125 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Galatea_(Raphael)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Triomphe_de_Galatée_(Raphaël)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Nimfa_Galatea</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trionfo_di_Galatea</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2344368</field>
+<field name="sameAs">http://lt.dbpedia.org/resource/Galatėjos_triumfas</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_triunfo_de_Galatea_(Rafael)</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+<field name="sameAs">http://sr.dbpedia.org/resource/Галатејин_тријумф</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Триумф_Галатеи_(фреска_Рафаэля)</field>
+<field name="sameAs">http://az.dbpedia.org/resource/Qalateyanın_triumfu_(Rafael)</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Ο_Θρίαμβος_της_Γαλάτειας_(Ραφαήλ)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08d3lz</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Nude_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Raphael</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1512_paintings</field>
+<field name="abstract">The Triumph of Galatea is a fresco masterpiece completed in 1512 by the Italian painter Raphael for the Villa Farnesina in Rome. The Farnesina was built for the Sienese banker Agostino Chigi, one of the richest men of that age. The Farnese family later acquired and renamed the villa, smaller than the more ostentatious palazzo at the other side of the Tiber. The fresco is a mythological scene of a series embellishing the open gallery of the building, a series never completed which was inspired to the "Stanze per la giostra" of the poet Angelo Poliziano. In Greek mythology, the beautiful Nereid Galatea had fallen in love with the peasant shepherd Acis. Her consort, one-eyed giant Polyphemus, after chancing upon the two lovers together, lobbed an enormous pillar and killed Acis. Raphael did not paint any of the main events of the story. He chose the scene of the nymph's apotheosis (Stanze, I, 118-119). Galatea appears surrounded by other sea creatures whose forms are somewhat inspired by Michelangelo, whereas the bright colors and decoration are supposed to be inspired by ancient Roman painting. At the left, a Triton (partly man, partly fish) abducts a sea nymph; behind them, another Triton uses a shell as a trumpet. Galatea rides a shell-chariot drawn by two dolphins. While some have seen in the model for Galatea the image of the courtesan, Imperia, Agostino Chigi's lover, Raphael's near-contemporary, the artist and art biographer Giorgio Vasari, wrote that Raphael did not mean for Galatea to resemble any one human person, but to represent ideal beauty. Her gaze is directed upward to heaven, reflecting Platonic love.</field>
+<field name="label">Galatea (Raphael)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/61/Raphael_Galatea.jpg</field>
+<field name="comment">The Triumph of Galatea is a fresco masterpiece completed in 1512 by the Italian painter Raphael for the Villa Farnesina in Rome. The Farnesina was built for the Sienese banker Agostino Chigi, one of the richest men of that age. The Farnese family later acquired and renamed the villa, smaller than the more ostentatious palazzo at the other side of the Tiber.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Raphael_Galatea.jpg/200px-Raphael_Galatea.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Raphael</field>
+<field name="city">http://dbpedia.org/resource/Rome</field>
+<field name="height">295</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Villa_Farnesina</field>
+<field name="title">The Triumph of Galatea</field>
+<field name="width">224</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Galatea_(Raphael)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Ο_Θρίαμβος_της_Γαλάτειας_(Ραφαήλ)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Triomphe_de_Galatée_(Raphaël)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Nimfa_Galatea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Galatea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trionfo_di_Galatea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_triunfo_de_Galatea_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Triumph_of_Galatea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Триумф_Галатеи_(фреска_Рафаэля)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Galatea_(Raphael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Triumph_Of_Galatea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Triumph_of_Galatea</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2344368</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://az.dbpedia.org/resource/Qalateyanın_triumfu_(Rafael)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://lt.dbpedia.org/resource/Galatėjos_triumfas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+<doc>
+<field name="uri">http://sr.dbpedia.org/resource/Галатејин_тријумф</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Galatea_(Raphael)</field>
+</doc>
+</add>

@@ -1,0 +1,54 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Nostalgia_of_the_Infinite</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3798257</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Nostalgia_of_the_Infinite</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08cy2m</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nostalgia_of_the_Infinite</field>
+<field name="sameAs">http://es.dbpedia.org/resource/La_Nostalgia_de_lo_Infinito</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1910s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Giorgio_de_Chirico</field>
+<field name="abstract">The Nostalgia of the Infinite is a painting by the Italian metaphysical painter Giorgio de Chirico. The subject of the painting is a large tower. The scene is struck by low, angular evening light. In the foreground below the tower are two small shadowy figures resembling those in future works by Salvador Dalí. This painting is the most famous example of the tower theme which appears in several of de Chirico’s works. Although the painting is dated 1911, this date is generally held in question. It has been speculated by the Museum of Modern Art in New York that it was created from 1912 to 1913 while the Annenberg School for Communication suggests 1913-14. According to art historian, Robert Hughes, the painting draws inspiration from one of the spectacular architectural landmarks of Turin, the Mole Antonelliana. This painting, amongst other works by Giorgio de Chirico, influenced the painting by Fumito Ueda for the front cover of the video game Ico used in the Japanese and European versions of the game.</field>
+<field name="label">The Nostalgia of the Infinite</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/69/TheNostalgiaoftheInfinite.jpg</field>
+<field name="comment">The Nostalgia of the Infinite is a painting by the Italian metaphysical painter Giorgio de Chirico. The subject of the painting is a large tower. The scene is struck by low, angular evening light. In the foreground below the tower are two small shadowy figures resembling those in future works by Salvador Dalí. This painting is the most famous example of the tower theme which appears in several of de Chirico’s works. Although the painting is dated 1911, this date is generally held in question.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/69/TheNostalgiaoftheInfinite.jpg/200px-TheNostalgiaoftheInfinite.jpg</field>
+<field name="link_external">http://www.moma.org/collection/provenance/provenance_object.php?object_id=78738</field>
+<field name="artist">http://dbpedia.org/resource/Giorgio_de_Chirico</field>
+<field name="city">http://dbpedia.org/resource/New_York_City</field>
+<field name="height">135.2</field>
+<field name="image"/>
+<field name="imageSize">264</field>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Modern_Art</field>
+<field name="title">The Nostalgia of the Infinite</field>
+<field name="width">64.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Nostalgia_of_the_Infinite</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Nostalgia_of_the_Infinite</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Nostalgia_of_the_Infinite</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Nostalgia_of_the_Infinite</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Nostalgia_of_the_Infinite</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/La_Nostalgia_de_lo_Infinito</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nostalgia_of_the_Infinite</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3798257</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Nostalgia_of_the_Infinite</field>
+</doc>
+</add>

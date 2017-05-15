@@ -1,0 +1,79 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Sol_ardiente_de_junio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Flaming_June</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Flaming_June</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Flaming_June</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Flaming_June</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://zh.dbpedia.org/resource/燃燒的六月</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.078f1j</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q846213</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Flaming_June</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Пылающий_июнь</field>
+<field name="sameAs">http://hu.dbpedia.org/resource/Lángoló_június</field>
+<field name="sameAs">http://dbpedia.org/resource/Flaming_June</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Палаючий_червень</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Sol_ardiente_de_junio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Pre-Raphaelite_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1895_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Frederic_Leighton</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="abstract">Flaming June is a painting by Sir Frederic Leighton, produced in 1895. Painted with oil paints on a 47" x 47" square canvas, it is widely considered to be Leighton's magnum opus, showing his classicist nature. It is thought that the woman portrayed alludes to the figures of sleeping nymphs and naiads the Greeks often sculpted. The (toxic) Oleander branch in the top right, symbolises the fragile link between sleep and death. The actress Dorothy Dene and Mary Lloyd, who was depicted in paintings by various Pre-Raphaelite artists, have been variously credited with modeling for the work. Flaming June was auctioned in the 1960s, during a period of time known to be difficult for selling Victorian era paintings, where it failed to sell for its low reserve price of $140 USD (the equivalent of $840 in contemporary prices). Afterward, it was promptly purchased by the Ponce Museum of Art in Puerto Rico where it currently resides (see the following account).</field>
+<field name="label">Flaming June</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/68/Flaming_June,_by_Fredrick_Lord_Leighton_(1830-1896).jpg</field>
+<field name="comment">Flaming June is a painting by Sir Frederic Leighton, produced in 1895. Painted with oil paints on a 47" x 47" square canvas, it is widely considered to be Leighton's magnum opus, showing his classicist nature. It is thought that the woman portrayed alludes to the figures of sleeping nymphs and naiads the Greeks often sculpted. The (toxic) Oleander branch in the top right, symbolises the fragile link between sleep and death.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/68/Flaming_June,_by_Fredrick_Lord_Leighton_(1830-1896).jpg/200px-Flaming_June,_by_Fredrick_Lord_Leighton_(1830-1896).jpg</field>
+<field name="link_external">http://www.frederic-leighton.org</field>
+<field name="link_external">http://www.fredericleightonart.com/</field>
+<field name="artist">http://dbpedia.org/resource/Frederic_Leighton,_1st_Baron_Leighton</field>
+<field name="city">http://dbpedia.org/resource/Puerto_Rico</field>
+<field name="city">http://dbpedia.org/resource/Ponce,_Puerto_Rico</field>
+<field name="image"/>
+<field name="imageSize">230</field>
+<field name="museum">http://dbpedia.org/resource/Museo_de_Arte_de_Ponce</field>
+<field name="title">Flaming June</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Flaming_June</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Flaming_June</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Пылающий_июнь</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Flaming_June</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q846213</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Flaming_June</field>
+</doc>
+<doc>
+<field name="uri">http://zh.dbpedia.org/resource/燃燒的六月</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Flaming_June</field>
+</doc>
+<doc>
+<field name="uri">http://hu.dbpedia.org/resource/Lángoló_június</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Flaming_June</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Палаючий_червень</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Flaming_June</field>
+</doc>
+</add>

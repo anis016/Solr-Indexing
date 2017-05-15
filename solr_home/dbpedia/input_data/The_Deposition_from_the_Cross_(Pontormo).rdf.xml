@@ -1,0 +1,92 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Pontormo</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/The_Deposition_from_the_Cross_(Pontormo)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Deposizione_(Pontormo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_from_the_Cross_(Pontormo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Deposition_from_the_Cross_(Pontormo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_Descendimiento_de_la_cruz_(Pontormo)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Deposition_from_the_Cross_(Pontormo)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_from_the_Cross_(Pontormo)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.088lkd</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Deposizione_(Pontormo)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3705703</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pontormo</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1528_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Deposition_from_the_Cross</field>
+<field name="abstract">The Deposition from the Cross is an altarpiece of the Deposition of Christ by the Italian Renaissance painter Jacopo Pontormo, completed in 1528. It is broadly considered to be the artist's surviving masterpiece. Painted in oil on wood, The Deposition is located above the altar of the Capponi Chapel of the church of Santa Felicita in Florence.</field>
+<field name="label">The Deposition from the Cross (Pontormo)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/58/Jacopo_Pontormo_-_Kreuzabnahme_Christi.jpg</field>
+<field name="comment">The Deposition from the Cross is an altarpiece of the Deposition of Christ by the Italian Renaissance painter Jacopo Pontormo, completed in 1528. It is broadly considered to be the artist's surviving masterpiece. Painted in oil on wood, The Deposition is located above the altar of the Capponi Chapel of the church of Santa Felicita in Florence.</field>
+<field name="name"/>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/58/Jacopo_Pontormo_-_Kreuzabnahme_Christi.jpg/200px-Jacopo_Pontormo_-_Kreuzabnahme_Christi.jpg</field>
+<field name="link_external">http://smarthistory.khanacademy.org/pontormo-entombment.html</field>
+<field name="link_external">http://www.metmuseum.org/toah/hd/zino/hd_zino.htm</field>
+<field name="link_external">http://www.findarticles.com/p/articles/mi_m0422/is_2_84/ai_88098563</field>
+<field name="link_external">http://renaissance.mrugala.net/Pontormo%20(par%20Fontaine%20S.)/Pontormo%20-%20La%20Visitation.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">313</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Deposizione</field>
+<field name="type">Oil on wood</field>
+<field name="width">192</field>
+<field name="width">210</field>
+<field name="year">circa 1525&amp;ndash;1528</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Deposition_from_the_Cross_(Pontormo)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Deposition_from_the_Cross_(Pontormo)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Deposition_from_the_Cross_(Pontormo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Deposition_from_the_Cross_(Pontormo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Entombment_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_Descendimiento_de_la_cruz_(Pontormo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_from_the_Cross_(Pontormo)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Deposition_from_the_Cross_(Pontormo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Entombment_(Pontormo)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3705703</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Deposition_from_the_Cross_(Pontormo)</field>
+</doc>
+</add>

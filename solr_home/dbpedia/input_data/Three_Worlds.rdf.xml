@@ -1,0 +1,29 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Three_Worlds</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Worlds</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7797930</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Three_Worlds</field>
+<field name="label">Three Worlds</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Three_Worlds</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Three_Worlds</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Three_Worlds</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Three_Worlds_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7797930</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Three_Worlds</field>
+</doc>
+</add>

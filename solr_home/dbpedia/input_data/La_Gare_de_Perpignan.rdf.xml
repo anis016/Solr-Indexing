@@ -1,0 +1,46 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Gare_de_Perpignan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Gare_de_Perpignan</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/La_Gare_de_Perpignan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3209358</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Gare_de_Perpignan</field>
+<field name="sameAs">http://yago-knowledge.org/resource/La_Gare_de_Perpignan</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Gare_de_Perpignan</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.06_wp94</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1965_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Salvador_Dal%C3%AD</field>
+<field name="abstract">La Gare de Perpignan (Perpignan Train Station) is a 1965 large-scale oil on canvas painting by the Spanish surrealist Salvador Dalí, on display in the Museum Ludwig in Cologne. It is considered one of the representative works of surrealism.</field>
+<field name="label">La Gare de Perpignan</field>
+<field name="comment">La Gare de Perpignan (Perpignan Train Station) is a 1965 large-scale oil on canvas painting by the Spanish surrealist Salvador Dalí, on display in the Museum Ludwig in Cologne. It is considered one of the representative works of surrealism.</field>
+<field name="name"/>
+<field name="artist">http://dbpedia.org/resource/Salvador_Dal%C3%AD</field>
+<field name="city">http://dbpedia.org/resource/Cologne</field>
+<field name="height">296</field>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Museum_Ludwig</field>
+<field name="title">La Gare de Perpignan</field>
+<field name="width">406</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/La_Gare_de_Perpignan</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/La_Gare_de_Perpignan</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/La_Gare_de_Perpignan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/La_Gare_de_Perpignan</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3209358</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/La_Gare_de_Perpignan</field>
+</doc>
+</add>

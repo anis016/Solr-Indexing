@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Feast_of_Saint_Nicholas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02ql7zg</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Het_Sint_Nicolaasfeest</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_of_Saint_Nicholas</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Aziz_Nicholas_Yortusu</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q764831</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Feriae_Sancti_Nicolai_(Steen)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Dzień_św._Mikołaja</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Feast_of_Saint_Nicholas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1660s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Jan_Steen</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Rijksmuseum_Amsterdam</field>
+<field name="abstract">The Feast of Saint Nicholas, is a painting by Dutch master Jan Steen, which can now be found in the Rijksmuseum in Amsterdam. It measures 82 x 70.5 cm. The picture, painted in the chaotic Jan Steen "style," depicts a family at home on December 5, the night celebrated in the Netherlands as the Feast of Saint Nicholas, or Sinterklaas. The focal point of the painting is the youngest daughter of the family, a golden-child, painted, in fact, in a golden smock and showing golden locks. She has behaved all year, and Saint Nicholas has rewarded her by stuffing her shoe with a doll and other treats, which she carries in her bucket. She is in stark contrast to her elder brother, standing to her right, who is sobbing, while another brother looks on, laughing. Apparently, the elder brother has been naughty, and his shoe, held up by an elder sister behind him, was left empty. Still there is hope for the sobbing boy. Hidden in the background, almost obscured by the draperies, his grandmother seems to beckon to him—perhaps she is hiding a gift for him too, behind the heavy curtains. While the mother attempts to coax the golden girl to show her the gifts she received, the father, seated in the center of the painting, seems to smile as he remembers his own childhood on this festive night. Further to the right a child can be seen holding a baby and pointing up the chimney, while a younger child looks on in amazement, as he has probably just been told that this was Sinterklaas' method of gaining entry to the house.</field>
+<field name="label">The Feast of Saint Nicholas</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/c/c5/Jan_Steen.Het_Sint_Nicolaasfeest.jpg</field>
+<field name="comment">The Feast of Saint Nicholas, is a painting by Dutch master Jan Steen, which can now be found in the Rijksmuseum in Amsterdam. It measures 82 x 70.5 cm. The picture, painted in the chaotic Jan Steen "style," depicts a family at home on December 5, the night celebrated in the Netherlands as the Feast of Saint Nicholas, or Sinterklaas. The focal point of the painting is the youngest daughter of the family, a golden-child, painted, in fact, in a golden smock and showing golden locks.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Jan_Steen.Het_Sint_Nicolaasfeest.jpg/200px-Jan_Steen.Het_Sint_Nicolaasfeest.jpg</field>
+<field name="link_external">http://rijksmuseum.nl/collectie/zoeken/asset.jsp?id=SK-A-385&amp;lang=en</field>
+<field name="artist">http://dbpedia.org/resource/Jan_Steen</field>
+<field name="city">http://dbpedia.org/resource/Amsterdam</field>
+<field name="height">82</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Rijksmuseum</field>
+<field name="title">The Feast of Saint Nicholas</field>
+<field name="width">70.5</field>
+<field name="year">c. 1665–1668</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Feast_of_Saint_Nicholas</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Feast_of_Saint_Nicholas</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Dzień_św._Mikołaja</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_of_Saint_Nicholas</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Feast_of_Saint_Nicholas</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Feast_of_Saint_Nicholas</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Het_Sint_Nicolaasfeest</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_of_Saint_Nicholas</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q764831</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_of_Saint_Nicholas</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Feriae_Sancti_Nicolai_(Steen)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_of_Saint_Nicholas</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Aziz_Nicholas_Yortusu</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Feast_of_Saint_Nicholas</field>
+</doc>
+</add>

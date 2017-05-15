@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Armada_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Armada_Portrait</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Armada_Portrait</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4792503</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03d23c4</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_of_the_British_Royal_Family</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1588_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Renaissance_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_of_monarchs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:16th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Elizabeth_I_of_England</field>
+<field name="abstract">The Armada Portrait of Elizabeth I of England is the name of any of three surviving versions of an allegorical panel painting depicting the Tudor queen surrounded by symbols of imperial majesty against a backdrop representing the defeat of the Spanish Armada in 1588.</field>
+<field name="label">Armada Portrait</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7b/Elizabeth_I_(Armada_Portrait).jpg</field>
+<field name="comment">The Armada Portrait of Elizabeth I of England is the name of any of three surviving versions of an allegorical panel painting depicting the Tudor queen surrounded by symbols of imperial majesty against a backdrop representing the defeat of the Spanish Armada in 1588.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Elizabeth_I_(Armada_Portrait).jpg/200px-Elizabeth_I_(Armada_Portrait).jpg</field>
+<field name="artist">http://dbpedia.org/resource/George_Gower</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Woburn_Abbey</field>
+<field name="title">The Armada Portrait</field>
+<field name="type">Oil on oak panel</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Armada_Portrait</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Armada_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Elizabeth_I:_The_Armada_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Armada_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Armada_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4792503</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Armada_Portrait</field>
+</doc>
+</add>

@@ -1,0 +1,44 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Derby_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Derby_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j27xmc</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Derby_Day</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Derby_Day</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7729766</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William_Powell_Frith</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1858_paintings</field>
+<field name="abstract">The Derby Day is a large oil painting showing a panoramic view of the Epsom Derby, painted by William Powell Frith over 15 months from 1856 to 1858. It has been described by Christie's as Frith's "undisputed masterpiece" and also "arguably the definitive example of Victorian modern-life genre".</field>
+<field name="label">The Derby Day</field>
+<field name="comment">The Derby Day is a large oil painting showing a panoramic view of the Epsom Derby, painted by William Powell Frith over 15 months from 1856 to 1858. It has been described by Christie's as Frith's "undisputed masterpiece" and also "arguably the definitive example of Victorian modern-life genre".</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?cgroupid=-1&amp;workid=4672&amp;searchid=false&amp;roomid=false&amp;tabview=text&amp;texttype=9</field>
+<field name="link_external">http://www.manchestergalleries.org/the-collections/search-the-collection/display.php?irn=197</field>
+<field name="link_external">http://www.christies.com/LotFinder/lot_details.aspx?from=searchresults&amp;intObjectID=5521063</field>
+<field name="link_external">http://www.guardian.co.uk/artanddesign/2011/jun/11/dj-taylor-william-powell-frith</field>
+<field name="link_external">http://www.bbc.co.uk/news/entertainment-arts-16216133</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?workid=4672</field>
+<field name="link_external">http://books.google.co.uk/books?id=FyZVFPz6yO4C&amp;pg=PA123</field>
+<field name="link_external">http://books.google.co.uk/books?id=V8IPhEUcc3YC&amp;pg=PA59</field>
+<field name="link_external">http://books.google.co.uk/books?id=ztkHAAAAQAAJ&amp;pg=PA12</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Derby_Day</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Derby_Day</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Derby_Day</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Derby_Day</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7729766</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Derby_Day</field>
+</doc>
+</add>

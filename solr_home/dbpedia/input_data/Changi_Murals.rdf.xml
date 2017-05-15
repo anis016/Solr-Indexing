@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Changi_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Changi_Murals</field>
+<field name="sameAs">http://dbpedia.org/resource/Changi_Murals</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02r5t5m</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5071999</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Murals</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1943_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_rule_in_Singapore</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Visitor_attractions_in_Singapore</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:History_of_Singapore</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Changi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="abstract">The Changi Murals are a set of five paintings of biblical theme painted by Stanley Warren, a British bombardier and prisoner-of-war (POW) interned at the Changi Prison, during the Japanese occupation of Singapore in World War II (WWII). His murals were completed under difficult conditions of sickness, limited materials and hardships. With a message of universal love and forgiveness, they helped to uplift the spirits of the POWs and sick when they sought refuge in the prison chapel. After the war, the walls of the chapel were distempered over, hiding the murals from view. They were forgotten until its rediscovery in 1958. Due to their historical significance, an international search was conducted to locate the original painter in helping to restore the damaged and faded murals. Stanley was eventually found in 1959 and, after much persuasion, agreed to assist in the restoration project. He made three trips to Singapore between 1963 to 1988 to restore his former paintings. Due to Stanley's advanced age, only four of the original murals were fully restored. In the 1990s, the former site of the murals was gazetted as a Heritage Site by the National Heritage Board of Singapore.</field>
+<field name="label">Changi Murals</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7d/Stanley_Warren_Nativity.jpg</field>
+<field name="comment">The Changi Murals are a set of five paintings of biblical theme painted by Stanley Warren, a British bombardier and prisoner-of-war (POW) interned at the Changi Prison, during the Japanese occupation of Singapore in World War II (WWII). His murals were completed under difficult conditions of sickness, limited materials and hardships. With a message of universal love and forgiveness, they helped to uplift the spirits of the POWs and sick when they sought refuge in the prison chapel.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Stanley_Warren_Nativity.jpg/200px-Stanley_Warren_Nativity.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Changi_Murals</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Changi_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Changi_Murals</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Changi_Murals</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5071999</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Changi_Murals</field>
+</doc>
+</add>

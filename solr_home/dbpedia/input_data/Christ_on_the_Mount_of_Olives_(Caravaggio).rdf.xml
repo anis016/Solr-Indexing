@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_on_the_Mount_of_Olives</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Cristo_en_el_Monte_de_los_Olivos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_on_the_Mount_of_Olives_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Cristo_sul_Monte_degli_Ulivi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_on_the_Mount_of_Olives_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Christ_on_the_Mount_of_Olives_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Christ_on_the_Mount_of_Olives_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Christ_on_the_Mount_of_Olives_(Caravaggio)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Cristo_en_el_Monte_de_los_Olivos</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Christ_on_the_Mount_of_Olives_(Caravaggio)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Cristo_sul_Monte_degli_Ulivi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.09bxqp</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_on_the_Mount_of_Olives_(Caravaggio)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q976354</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caravaggio</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1600s_paintings</field>
+<field name="abstract">Christ on the Mount of Olives (1604-1606) was a painting by Michelangelo Merisi da Caravaggio, formerly in the Kaiser Friedrich Museum painting gallery, Berlin, but destroyed in 1945. The painting's authenticity has been disputed, but it is well attested in the collection of Marchese Vincenzo Giustiniani and his brother Cardinal Benedetto Giustiniani, its dimensions being virtually identical with those of a Caravaggio of the same subject listed in the Giustiniani inventory. In addition the model for St Peter (the reclining figure) appears identical with the two St Jeromes from Caravaggio's Roman period, Saint Jerome in Meditation and Saint Jerome, both around 1605-1606. The subject is the episode related in the Gospel of Matthew (Matthew 26), when Jesus and his disciples went up to the Mount of Olives outside Jerusalem on the night when Christ was arrested; Jesus goes apart to pray, and returns to find the disciples sleeping. He awakens Peter with the rebuke, "What, would none of you stay awake with me one hour? Stay awake, and pray that you may be spared the test, for the spirit is willing, but the flesh is weak. " Judas then arrives with the Roman soldiers, and Christ's pointing finger seems to indicate their approach. The other two figures are St John (centre) and St James. Christ on the Mount of Olives forms part of a group of works on orthodox Christian subjects painted for Cardinal Benedetto, and including The Crowning with Thorns (Vienna), The Incredulity of Saint Thomas, and paintings of Saint Jerome, St Augustine and Mary Magdalene, now lost. At the same time as these works were being produced, Caravaggio was busy with Amor Victorious for the Cardinal's brother, the banker Vincenzo.</field>
+<field name="label">Christ on the Mount of Olives (Caravaggio)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/38/Michelangelo_Merisi_da_Caravaggio_-_Christ_in_the_Garden_-_Colourised_by_Mikey_Angels.jpg</field>
+<field name="comment">Christ on the Mount of Olives (1604-1606) was a painting by Michelangelo Merisi da Caravaggio, formerly in the Kaiser Friedrich Museum painting gallery, Berlin, but destroyed in 1945. The painting's authenticity has been disputed, but it is well attested in the collection of Marchese Vincenzo Giustiniani and his brother Cardinal Benedetto Giustiniani, its dimensions being virtually identical with those of a Caravaggio of the same subject listed in the Giustiniani inventory.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Michelangelo_Merisi_da_Caravaggio_-_Christ_in_the_Garden_-_Colourised_by_Mikey_Angels.jpg/200px-Michelangelo_Merisi_da_Caravaggio_-_Christ_in_the_Garden_-_Colourised_by_Mikey_Angels.jpg</field>
+<field name="artist"/>
+<field name="height">154</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Christ on the Mount of Olives</field>
+<field name="type">Oil on canvas</field>
+<field name="width">222</field>
+<field name="year">c. 1605</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Christ_on_the_Mount_of_Olives_(Caravaggio)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Christ_on_the_Mount_of_Olives_(Caravaggio)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q976354</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Christ_on_the_Mount_of_Olives_(Caravaggio)</field>
+</doc>
+</add>

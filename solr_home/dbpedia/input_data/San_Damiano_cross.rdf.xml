@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Damiano_cross</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Crocifisso_di_San_Damiano</field>
+<field name="sameAs">http://yago-knowledge.org/resource/San_Damiano_cross</field>
+<field name="sameAs">http://ta.dbpedia.org/resource/புனித_தமியானோ_சிலுவை</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Damiano_cross</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Krzyż_z_San_Damiano</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2348017</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Croix_de_Saint-Damien</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0d_1mf</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:12th-century_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Franciscan_spirituality</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Individual_crosses_and_crucifixes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Crucifixion_of_Jesus_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The San Damiano Cross is the large Romanesque rood cross that St. Francis of Assisi was praying before when he received the commission from the Lord to rebuild the Church. The original cross hangs in the Basilica of Saint Clare (Basilica di Santa Chiara) in Assisi, Italy. Franciscans cherish this cross as the symbol of their mission from God. The cross is of a type sometimes called an icon cross because besides the main figure it contains images of other saints and people related to the incident of Christ's crucifixion. The tradition of such crosses began in the Eastern Church and probably reached Italy via Serbia and Croatia.</field>
+<field name="label">San Damiano cross</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/3/31/Kruis_san_damiano.gif</field>
+<field name="comment">The San Damiano Cross is the large Romanesque rood cross that St. Francis of Assisi was praying before when he received the commission from the Lord to rebuild the Church. The original cross hangs in the Basilica of Saint Clare (Basilica di Santa Chiara) in Assisi, Italy. Franciscans cherish this cross as the symbol of their mission from God.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/3/31/Kruis_san_damiano.gif/200px-Kruis_san_damiano.gif</field>
+<field name="link_external">http://www.fspa.org/index.php</field>
+<field name="link_external">http://www.franciscanfriarstor.com/archive/stfrancis/stf_san_damiano_cross.htm</field>
+<field name="link_external">http://www.umbria.org/assisi/assisieng/ChSChiaraintr.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/San_Damiano_cross</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/San_Damiano_cross</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Croix_de_Saint-Damien</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Damiano_cross</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Crocifisso_di_San_Damiano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Damiano_cross</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Krzyż_z_San_Damiano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Damiano_cross</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Damiano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/San_Damiano_cross</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/San_Damiano_cross</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_damiano_cross</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2348017</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Damiano_cross</field>
+</doc>
+<doc>
+<field name="uri">http://ta.dbpedia.org/resource/புனித_தமியானோ_சிலுவை</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Damiano_cross</field>
+</doc>
+</add>

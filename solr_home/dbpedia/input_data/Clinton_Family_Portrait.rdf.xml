@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Clinton_Family_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Clinton_Family_Portrait</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h1c2pg</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Clinton_Family_Portrait</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5134111</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1995_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:20th-century_portraits</field>
+<field name="abstract">Clinton Family Portrait is an oil painting on canvas by American artist Larry D. Alexander from Dermott, Arkansas. It was created in 1995 and given as a gift to then U.S. President Bill Clinton who is also a native of Arkansas. It is a unique painting in that Alexander has done very few known oil paintings. The portrait is a unique blend of cartoon likeness and realism.</field>
+<field name="label">Clinton Family Portrait</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a1/The_Artwork_of_Larry_D._Alexander_016.jpg</field>
+<field name="comment">Clinton Family Portrait is an oil painting on canvas by American artist Larry D. Alexander from Dermott, Arkansas. It was created in 1995 and given as a gift to then U.S. President Bill Clinton who is also a native of Arkansas. It is a unique painting in that Alexander has done very few known oil paintings. The portrait is a unique blend of cartoon likeness and realism.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/The_Artwork_of_Larry_D._Alexander_016.jpg/200px-The_Artwork_of_Larry_D._Alexander_016.jpg</field>
+<field name="link_external">http://www.thelarrydalexander.com/LARRYDALEXANDER/</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Clinton_Family_Portrait</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Clinton_Family_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Clinton_Family_Portrait</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Clinton_Family_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Larry_D._Alexander</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/Clinton_Family_Portrait</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5134111</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Clinton_Family_Portrait</field>
+</doc>
+</add>

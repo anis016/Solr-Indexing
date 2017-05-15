@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Elephant_Celebes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Elephant_Celebes</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elephant_Celebes</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Celebes</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1052784</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/L'Éléphant_de_Célèbes</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0df80p</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Celebes_(Max_Ernst)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Animals_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Tate</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Max_Ernst</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1921_paintings</field>
+<field name="abstract">The Elephant Celebes (or Celebes) is a 1921 painting by the German Dadaist and surrealist Max Ernst. It is among the most famous of Ernst's early surrealist works and "undoubtedly the first masterpiece of Surrealist painting in the De Chirico tradition. " It combines the vivid, dreamlike atmosphere of Surrealism with the collage aspects of Dada.</field>
+<field name="label">The Elephant Celebes</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/2b/The_Elephant_Celebes.jpg</field>
+<field name="comment">The Elephant Celebes (or Celebes) is a 1921 painting by the German Dadaist and surrealist Max Ernst. It is among the most famous of Ernst's early surrealist works and "undoubtedly the first masterpiece of Surrealist painting in the De Chirico tradition. " It combines the vivid, dreamlike atmosphere of Surrealism with the collage aspects of Dada.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/2b/The_Elephant_Celebes.jpg/200px-The_Elephant_Celebes.jpg</field>
+<field name="link_external">http://www.tate.org.uk/servlet/ViewWork?cgroupid=999999961&amp;workid=4136&amp;searchid=8397</field>
+<field name="artist">http://dbpedia.org/resource/Max_Ernst</field>
+<field name="city"/>
+<field name="height">125.4</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Tate</field>
+<field name="title">The Elephant Celebes</field>
+<field name="width">107.9</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Elephant_Celebes</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Elephant_Celebes</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Celebes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Celebes_(Max_Ernst)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elephant_Celebes</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Elephant_Celebes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Elephant_Celebes</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/L'Éléphant_de_Célèbes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elephant_Celebes</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Celebes</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elephant_Celebes</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1052784</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Elephant_Celebes</field>
+</doc>
+</add>

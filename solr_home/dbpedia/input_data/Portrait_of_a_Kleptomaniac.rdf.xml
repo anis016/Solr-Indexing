@@ -1,0 +1,75 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_Kleptomaniac</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Kleptomaniac</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_cleptómano</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Portret_van_een_kleptomaan</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_a_Kleptomaniac</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Monomane_du_vol</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2459266</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Bir_Kleptomanın_Portresi</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rwlyq</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Th%C3%A9odore_G%C3%A9ricault</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1822_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_of_Fine_Arts,_Ghent</field>
+<field name="abstract">Portrait of a Kleptomaniac or Portrait of an Insane Person is a 1822 oil painting by Théodore Géricault. It is part of series of ten portraits made for the psychiatrist Étienne-Jean Georget and is currently kept in the Museum of Fine Arts, Ghent, Belgium.</field>
+<field name="label">Portrait of a Kleptomaniac</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/16/Théodore_Géricault_-_L'Aliéné.jpg</field>
+<field name="comment">Portrait of a Kleptomaniac or Portrait of an Insane Person is a 1822 oil painting by Théodore Géricault. It is part of series of ten portraits made for the psychiatrist Étienne-Jean Georget and is currently kept in the Museum of Fine Arts, Ghent, Belgium.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/16/Théodore_Géricault_-_L'Aliéné.jpg/200px-Théodore_Géricault_-_L'Aliéné.jpg</field>
+<field name="link_external">http://www.mskgent.be/html/index.php?page=305</field>
+<field name="artist"/>
+<field name="height">61.2</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts,_Ghent</field>
+<field name="title">Portrait of a Kleptomaniac</field>
+<field name="type">Oil on panel</field>
+<field name="width">50.2</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_a_Kleptomaniac</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_a_Kleptomaniac</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_cleptómano</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Kleptomaniac</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Monomane_du_vol</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Kleptomaniac</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_a_Kleptomaniac</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_a_Kleptomaniac</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_a_kleptomaniac</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Portret_van_een_kleptomaan</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Kleptomaniac</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2459266</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Kleptomaniac</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Bir_Kleptomanın_Portresi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_a_Kleptomaniac</field>
+</doc>
+</add>

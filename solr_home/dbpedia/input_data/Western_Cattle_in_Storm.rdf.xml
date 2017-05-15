@@ -1,0 +1,45 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Western_Cattle_in_Storm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0drz4yk</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Western_Cattle_in_Storm</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7987698</field>
+<field name="sameAs">http://dbpedia.org/resource/Western_Cattle_in_Storm</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_in_Scotland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Agriculture_in_Scotland</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Postage_stamps_of_the_United_States</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Trans-Mississippi_Exposition</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Scottish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Commemorative_Stamps</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Cattle_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1887_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1898_introductions</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1898_in_the_United_States</field>
+<field name="abstract">Western Cattle in Storm is a $1 stamp issued by the U.S. Postal Office as part of the 1898 Trans-Mississippi Issue. Western Cattle in Storm is one of nine commemorative postage stamps in the series, which marked the 1898 Trans-Mississippi Exposition held in Omaha, Nebraska. While the entire Trans-Mississippi Issue set has been praised for its quality, the $1 stamp, also called the Black Bull, stands out from the rest. The breed of cattle used in the issue were meant to represent the ruggedness of the American West, but actually derive from the Highlands of Scotland. That’s because the design replicated a John MacWhirter painting depicting cattle in a winter storm in central Scotland. This painting was copied, without the permission of the owner, Lord Blythswood, by an American cattle company as a trademark of sorts. “MacWhirter, however, was a Scot, and his painting, entitled The Vanguard, was soon discovered to have been a depiction of Scottish cattle in a storm in Scotland,” according to a company called Chicago Stamps. ”It was actually painted in a small farmhouse near the Scottish highland town of Calendar. The scene did not depict an event west of the Mississippi, but it might have been, and few really cared about this detail, for cattle were an important part of the western U.S. economy. ” This image caught the attention of the Post Office Department and Raymond Ostrander Smith, the staff designer of the Bureau of Engraving and Printing at the time, and it was adopted for the $1 design. Little did the designer know that the scene depicted was in Scotland, not the Western U.S. , as was supposed. A full apology was later issued to the owner of the painting.</field>
+<field name="label">Western Cattle in Storm</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/af/Stamp_US_1898_1dollar_Trans-Miss.jpg</field>
+<field name="comment">Western Cattle in Storm is a $1 stamp issued by the U.S. Postal Office as part of the 1898 Trans-Mississippi Issue. Western Cattle in Storm is one of nine commemorative postage stamps in the series, which marked the 1898 Trans-Mississippi Exposition held in Omaha, Nebraska. While the entire Trans-Mississippi Issue set has been praised for its quality, the $1 stamp, also called the Black Bull, stands out from the rest.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Stamp_US_1898_1dollar_Trans-Miss.jpg/200px-Stamp_US_1898_1dollar_Trans-Miss.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Western_Cattle_in_Storm</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Western_Cattle_in_Storm</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Western_Cattle_in_Storm</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Western_Cattle_in_Storm</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Vanguard_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7987698</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Western_Cattle_in_Storm</field>
+</doc>
+</add>

@@ -1,0 +1,65 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Montini_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q798814</field>
+<field name="sameAs">http://dbpedia.org/resource/Montini_Altarpiece</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Montini_Altarpiece</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h53htb</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Retable_Montini</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Pala_Montini</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Galleria_nazionale_di_Parma</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Cima_da_Conegliano</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500s_paintings</field>
+<field name="abstract">The Montini Altarpiece is an oil on canvas painting by the Italian Renaissance artist Cima da Conegliano, dating from around 1506-1507 and housed in the Galleria Nazionale of Parma, Italy. The work adopts the same scheme of several altarpieces by Giovanni Bellini, such as the San Giobbe Altarpiece. It was originally executed for the Parma Cathedral. It shows the Virgin Mary on a high throne in a mosaic-decorated apse, while placing her hand on the heads of kneeling ‪Saints Cosmas and Damian‬ ‪ . St. John the Baptist is portrayed on the right. On the right, the Child is blessing two female saints (perhaps St. Catherine of Alexandria and Mary Magdalene) and St. John the Evangelist. Typical of Bellini works in the musician angel at the feet of the throne, in the centre foreground.</field>
+<field name="label">Montini Altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d6/Cima_da_conegliano,_madonna_in_trono_con_santi,_parma.jpg</field>
+<field name="comment">The Montini Altarpiece is an oil on canvas painting by the Italian Renaissance artist Cima da Conegliano, dating from around 1506-1507 and housed in the Galleria Nazionale of Parma, Italy. The work adopts the same scheme of several altarpieces by Giovanni Bellini, such as the San Giobbe Altarpiece. It was originally executed for the Parma Cathedral.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Cima_da_conegliano,_madonna_in_trono_con_santi,_parma.jpg/200px-Cima_da_conegliano,_madonna_in_trono_con_santi,_parma.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Cima_da_Conegliano</field>
+<field name="image"/>
+<field name="imageSize">340</field>
+<field name="museum">http://dbpedia.org/resource/Parma</field>
+<field name="museum">http://dbpedia.org/resource/Galleria_nazionale_di_Parma</field>
+<field name="title">Montini Altarpiece</field>
+<field name="year">c. 1506-1507</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Montini_Altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Montini_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Montini_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Montini_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Enthroned_with_the_Child_(Cima_da_Conegliano)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_Montini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Retable_Montini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Montini_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Pala_Montini</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Montini_Altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q798814</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Montini_Altarpiece</field>
+</doc>
+</add>

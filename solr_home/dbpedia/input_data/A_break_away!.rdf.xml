@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/A_break_away!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/A_break_away!</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_break_away!</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4660884</field>
+<field name="sameAs">http://yago-knowledge.org/resource/A_break_away!</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0ds90tr</field>
+<field name="sameAs">http://dbpedia.org/resource/A_break_away!</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1891_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Riverina</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Tom_Roberts</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Horses_in_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Sheep</field>
+<field name="abstract">A break away! is an 1891 painting by Australian artist Tom Roberts. The painting depicts a mob of thirsty sheep stampeding towards a dam. A drover on horseback is attempting to turn the mob before they drown or crush each other in their desire to drink. The painting, an "icon of Australian art", is part of a series of works by Roberts that "captures what was an emerging spirit of national identity. " Roberts painted the work at Corowa. The painting depicts a time of drought, with little grass and the soil kicked up as dust. The work itself is a reflection on the pioneering days of the pastoral industry, which were coming to an end by the 1890s. The painting is now part of the collection of the Art Gallery of South Australia. It was included in Quintessence Editions Ltd. 's 2007 book 1001 Paintings You Must See Before You Die.</field>
+<field name="label">A break away!</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/f/f5/Tom_Roberts_-_A_Break_Away_1891.jpg</field>
+<field name="comment">A break away! is an 1891 painting by Australian artist Tom Roberts. The painting depicts a mob of thirsty sheep stampeding towards a dam. A drover on horseback is attempting to turn the mob before they drown or crush each other in their desire to drink. The painting, an "icon of Australian art", is part of a series of works by Roberts that "captures what was an emerging spirit of national identity. " Roberts painted the work at Corowa.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Tom_Roberts_-_A_Break_Away_1891.jpg/200px-Tom_Roberts_-_A_Break_Away_1891.jpg</field>
+<field name="link_external">http://www.artgallery.sa.gov.au/agsa/home/Collection/detail.jsp?ecatKey=3137</field>
+<field name="artist">http://dbpedia.org/resource/Tom_Roberts</field>
+<field name="city">http://dbpedia.org/resource/Adelaide</field>
+<field name="height">137.3</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Art_Gallery_of_South_Australia</field>
+<field name="title">A break away!</field>
+<field name="type">oil on canvas</field>
+<field name="width">167.8</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/A_break_away!</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/A_break_away!</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/A_break_away</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4660884</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/A_break_away!</field>
+</doc>
+</add>

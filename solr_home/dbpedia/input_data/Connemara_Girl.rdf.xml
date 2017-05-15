@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Connemara_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5161764</field>
+<field name="sameAs">http://dbpedia.org/resource/Connemara_Girl</field>
+<field name="sameAs">http://da.dbpedia.org/resource/Pige_fra_Connemara</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03cpjsh</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Connemara_Girl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Irish_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:House_of_Burke</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1865_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_National_Gallery_of_Ireland</field>
+<field name="abstract">Connemara Girl is an 1865 painting by the Irish artist Augustus Nicholas Burke (July 28, 1838 – 1891). One of the most identifiable paintings in Ireland, it depicts a young, barefoot goat-herder girl carrying a bundle near the shore. It is one of many paintings Burke created of daily life around his native Connemara. It hangs in the National Gallery of Ireland and is one of the more popular paintings despite its simple subject matter.</field>
+<field name="label">Connemara Girl</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9d/Connemara_Girl.jpg</field>
+<field name="comment">Connemara Girl is an 1865 painting by the Irish artist Augustus Nicholas Burke (July 28, 1838 – 1891). One of the most identifiable paintings in Ireland, it depicts a young, barefoot goat-herder girl carrying a bundle near the shore. It is one of many paintings Burke created of daily life around his native Connemara. It hangs in the National Gallery of Ireland and is one of the more popular paintings despite its simple subject matter.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Connemara_Girl.jpg/200px-Connemara_Girl.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Connemara_Girl</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Connemara_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Connemara_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Connemara_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5161764</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Connemara_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://da.dbpedia.org/resource/Pige_fra_Connemara</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Connemara_Girl</field>
+</doc>
+</add>

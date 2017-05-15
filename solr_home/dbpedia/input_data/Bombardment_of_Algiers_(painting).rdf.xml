@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Bombardment_of_Algiers_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bombardment_of_Algiers_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03h4rlc</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q4940500</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Bombardment_of_Algiers_(painting)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:British_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820_paintings</field>
+<field name="abstract">Bombardment of Algiers is one of a number of oil-on-canvas paintings by British artist Thomas Luny depicting the heavy bombardment of the harbour of Algiers by a fleet of Anglo-Dutch ships under the command of Admiral Lord Exmouth, and the ensuing destruction. The exact date of the paintings creation is not known, but it is signed and dated to 1820 by Luny, four years after the events depicted.</field>
+<field name="label">Bombardment of Algiers (painting)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1e/Sm_Bombardment_of_Algiers,_August_1816-Luny.jpg</field>
+<field name="comment">Bombardment of Algiers is one of a number of oil-on-canvas paintings by British artist Thomas Luny depicting the heavy bombardment of the harbour of Algiers by a fleet of Anglo-Dutch ships under the command of Admiral Lord Exmouth, and the ensuing destruction. The exact date of the paintings creation is not known, but it is signed and dated to 1820 by Luny, four years after the events depicted.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Sm_Bombardment_of_Algiers,_August_1816-Luny.jpg/200px-Sm_Bombardment_of_Algiers,_August_1816-Luny.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Thomas_Luny</field>
+<field name="height">122</field>
+<field name="image"/>
+<field name="title">Bombardment of Algiers</field>
+<field name="type">Oil-on-canvas</field>
+<field name="width">183</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Bombardment_of_Algiers_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Bombardment_of_Algiers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Bombardment_of_Algiers_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Bombardment_of_Algiers_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q4940500</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Bombardment_of_Algiers_(painting)</field>
+</doc>
+</add>

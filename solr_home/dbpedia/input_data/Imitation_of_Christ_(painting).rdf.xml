@@ -1,0 +1,30 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Imitation_of_Christ_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Imitation_of_Christ_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Imitation_of_Christ_(painting)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Imitation_of_Christ_(painting)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Imitation_of_Christ_(painting)</field>
+<field name="sameAs">http://dbpedia.org/resource/Imitation_of_Christ_(painting)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bdwsl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Australian_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="abstract">The Imitation of Christ is a controversial painting depicting a gay Jesus painted by prominent Tasmanian artist Shaun McGowan. The painting has sparked much controversy, and has prompted a few of Tasmania’s MP’s to declare that the painting should not be allowed to be displayed publicly.</field>
+<field name="label">Imitation of Christ (painting)</field>
+<field name="comment">The Imitation of Christ is a controversial painting depicting a gay Jesus painted by prominent Tasmanian artist Shaun McGowan. The painting has sparked much controversy, and has prompted a few of Tasmania’s MP’s to declare that the painting should not be allowed to be displayed publicly.</field>
+<field name="link_external">http://www.abc.net.au</field>
+<field name="link_external">http://www.abc.net.au/worldtoday/content/2006/s1565242.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Imitation_of_Christ_(painting)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Imitation_of_Christ_(painting)</field>
+</doc>
+</add>

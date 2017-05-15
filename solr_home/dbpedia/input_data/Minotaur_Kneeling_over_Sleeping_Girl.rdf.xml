@@ -1,0 +1,31 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Minotaur_Kneeling_over_Sleeping_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Minotaur_Kneeling_over_Sleeping_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Minotaur_Kneeling_over_Sleeping_Girl</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q6869376</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Minotaur_Kneeling_over_Sleeping_Girl</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.047qy9r</field>
+<field name="sameAs">http://dbpedia.org/resource/Minotaur_Kneeling_over_Sleeping_Girl</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pablo_Picasso</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1933_paintings</field>
+<field name="abstract">Minotaur Kneeling over Sleeping Girl is a 1933 etching by Pablo Picasso remarked as the first example in line among several works to be realized through the remaining part of the decade by the painter where he used the theme of the legendary Minoan creature Minotaur recurrently.</field>
+<field name="label">Minotaur Kneeling over Sleeping Girl</field>
+<field name="comment">Minotaur Kneeling over Sleeping Girl is a 1933 etching by Pablo Picasso remarked as the first example in line among several works to be realized through the remaining part of the decade by the painter where he used the theme of the legendary Minoan creature Minotaur recurrently.</field>
+<field name="link_external">http://www.martinries.com/article1972-73PP.htm</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Minotaur_Kneeling_over_Sleeping_Girl</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Minotaur_Kneeling_over_Sleeping_Girl</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q6869376</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Minotaur_Kneeling_over_Sleeping_Girl</field>
+</doc>
+</add>

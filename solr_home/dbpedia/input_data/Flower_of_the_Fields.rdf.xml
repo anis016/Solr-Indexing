@@ -1,0 +1,52 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Flower_of_the_Fields</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Flower_of_the_Fields</field>
+<field name="sameAs">http://dbpedia.org/resource/Flower_of_the_Fields</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bh9dgr</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5462237</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Louis_Janmot</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Museum_of_Fine_Arts_of_Lyon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1845_paintings</field>
+<field name="abstract">Flower of the Fields is an 1845 painting on wood by Lyon artist Louis Janmot. It was acquired in 1893 by the Musée des Beaux-Arts de Lyon where it has been conserved. The painting shows a young woman who is sitting in the nature, surrounded with flowers and butterflies. She has two flower bouquets in her hands: one laid down on her knees, composed of buttercups, daisies and cornflowers, the other one held vertically is composed of poppies. In the background, the landscape shows a verdant plains and the mountains of the Bugey region. The sky is blue, with some white clouds near the mountains, and indicates that the scene probably takes place in the late afternoon. Each flower, as well as the woman's face, are painted with an extremely accuracy, the colors used are sweet and some melancholy emanates from the scene. The look of the young woman seems to contain a hint of seriousness. The painting was notably exhibited at the Paris Salon in 1845 and at the Exposition Universelle (1855), also in Paris, among other exhibitions. It was restored in 1974. Larousse Encyclopedia describes this work as "well-balanced". However, it is unclear if the painting is the portrait of a woman known by Janmot, but the clothes she wears do not comply with her time, but recall the portraits of the Italian Renaissance. This may be a painting of flowers, as this type of art was very popular in Lyon in the 19th century. But perhaps the young woman is she the goddess Flora and is a thought about the transience of time.</field>
+<field name="label">Flower of the Fields</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/9f/Flower_of_fields-Louis_Janmot-MBA_Lyon_B502-IMG_0466.jpg</field>
+<field name="comment">Flower of the Fields is an 1845 painting on wood by Lyon artist Louis Janmot. It was acquired in 1893 by the Musée des Beaux-Arts de Lyon where it has been conserved. The painting shows a young woman who is sitting in the nature, surrounded with flowers and butterflies. She has two flower bouquets in her hands: one laid down on her knees, composed of buttercups, daisies and cornflowers, the other one held vertically is composed of poppies.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flower_of_fields-Louis_Janmot-MBA_Lyon_B502-IMG_0466.jpg/200px-Flower_of_fields-Louis_Janmot-MBA_Lyon_B502-IMG_0466.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Louis_Janmot</field>
+<field name="city"/>
+<field name="height">103</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Museum_of_Fine_Arts_of_Lyon</field>
+<field name="title">Flower of the Fields</field>
+<field name="type">Oil on wood</field>
+<field name="width">83</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Flower_of_the_Fields</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Flower_of_the_Fields</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Flower_of_the_Fields</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Flower_of_the_Fields</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fleur_des_champs</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Flowers_of_the_Fields</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5462237</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Flower_of_the_Fields</field>
+</doc>
+</add>

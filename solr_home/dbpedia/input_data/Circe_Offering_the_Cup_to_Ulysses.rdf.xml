@@ -1,0 +1,66 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Circe_Offering_the_Cup_to_Ulysses</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Η_Κίρκη_προσφέρει_το_ποτήρι_στον_Οδυσσέα</field>
+<field name="sameAs">http://dbpedia.org/resource/Circe_Offering_the_Cup_to_Ulysses</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Circe_calycem_offerens</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q39537</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02qdbx5</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Circe_Offering_the_Cup_to_Ulysses</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Greek_myths</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_William_Waterhouse</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1891_paintings</field>
+<field name="abstract">Circe Offering the Cup to Ulysses is an oil painting in the Pre-Raphaelite style by John William Waterhouse that was created in 1891. The painting depicts a scene from Greek mythology, the sorceress Circe offering Odysseus a cup containing a potion with which she seeks to bring him under her spell as she has his crew.</field>
+<field name="label">Circe Offering the Cup to Ulysses</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/d9/Circe_Offering_the_Cup_to_Odysseus.jpg</field>
+<field name="comment">Circe Offering the Cup to Ulysses is an oil painting in the Pre-Raphaelite style by John William Waterhouse that was created in 1891. The painting depicts a scene from Greek mythology, the sorceress Circe offering Odysseus a cup containing a potion with which she seeks to bring him under her spell as she has his crew.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/Circe_Offering_the_Cup_to_Odysseus.jpg/200px-Circe_Offering_the_Cup_to_Odysseus.jpg</field>
+<field name="artist">http://dbpedia.org/resource/John_William_Waterhouse</field>
+<field name="city">http://dbpedia.org/resource/Oldham</field>
+<field name="height">149</field>
+<field name="image"/>
+<field name="imageSize">250</field>
+<field name="museum">http://dbpedia.org/resource/Gallery_Oldham</field>
+<field name="title">Circe Offering the Cup to Ulysses</field>
+<field name="width">92</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Circe_Offering_the_Cup_to_Ulysses</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Circe_Offering_the_Cup_to_Ulysses</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Circe_Offering_the_Cup_to_Ulysses</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Circe_Offering_the_Cup_to_Ulysses</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Circe_offering_the_cup_to_ulysses</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Circe_Offering_the_Cup_to_Odysseus</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Η_Κίρκη_προσφέρει_το_ποτήρι_στον_Οδυσσέα</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Circe_Offering_the_Cup_to_Ulysses</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q39537</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Circe_Offering_the_Cup_to_Ulysses</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Circe_calycem_offerens</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Circe_Offering_the_Cup_to_Ulysses</field>
+</doc>
+</add>

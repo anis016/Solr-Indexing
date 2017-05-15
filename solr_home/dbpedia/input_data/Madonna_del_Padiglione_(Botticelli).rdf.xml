@@ -1,0 +1,77 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_Padiglione_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_del_Padiglione</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Padiglione_(Botticelli)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_del_pabellón</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02rhv9t</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_du_pavillon</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_del_Padiglione_(Botticelli)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1114856</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1493_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_Madonnas</field>
+<field name="abstract">The Madonna and Child with Three Angels (also known as Madonna del Padiglione) is a painting by the Italian Renaissance master Sandro Botticelli, executed in 1493. It is housed in the Pinacoteca Ambrosiana of Milan. The Virgin Mary is portrayed while giving her breast to the Child, the latter being supported by an angel. The Italian name derives from the rich baldachin over the scene.</field>
+<field name="label">Madonna del Padiglione (Botticelli)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/7/7c/Sandro_Botticelli_059.jpg</field>
+<field name="comment">The Madonna and Child with Three Angels (also known as Madonna del Padiglione) is a painting by the Italian Renaissance master Sandro Botticelli, executed in 1493. It is housed in the Pinacoteca Ambrosiana of Milan. The Virgin Mary is portrayed while giving her breast to the Child, the latter being supported by an angel. The Italian name derives from the rich baldachin over the scene.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Sandro_Botticelli_059.jpg/200px-Sandro_Botticelli_059.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Sandro_Botticelli</field>
+<field name="city">http://dbpedia.org/resource/Milan</field>
+<field name="height">65</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Biblioteca_Ambrosiana</field>
+<field name="title">Madonna and Child with Three Angels</field>
+<field name="type">Tempera on panel</field>
+<field name="width">65</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_del_Padiglione_(Botticelli)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_del_Padiglione_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_du_pavillon</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Padiglione_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_del_Padiglione_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_del_Padiglione_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_del_pabellón</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Padiglione_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_del_Padiglione</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Padiglione_(Botticelli)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_and_Child_with_Three_Angels</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_and_Child_with_Three_Angels_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_del_padiglione</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1114856</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_del_Padiglione_(Botticelli)</field>
+</doc>
+</add>

@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hampton_Court_Beauties</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5646181</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Hampton_Court_Beauties</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.03h37wn</field>
+<field name="sameAs">http://dbpedia.org/resource/Hampton_Court_Beauties</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1690s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Hampton_Court_Palace</field>
+<field name="abstract">The Hampton Court Beauties are a series of portraits by Sir Godfrey Kneller, commissioned by Queen Mary II of England depicting the most glamorous ladies from the court of William III. They adorn the state rooms of King William III at Hampton Court Palace. Hampton Court also houses the so-called Windsor Beauties by Sir Peter Lely, depicting the most beautiful ladies of the court of King Charles II of England, a generation before. The Hampton Court Beauties are of a plainer, less erotic style reflecting the change in opinion towards women towards the latter half of the seventeenth century.</field>
+<field name="label">Hampton Court Beauties</field>
+<field name="comment">The Hampton Court Beauties are a series of portraits by Sir Godfrey Kneller, commissioned by Queen Mary II of England depicting the most glamorous ladies from the court of William III. They adorn the state rooms of King William III at Hampton Court Palace. Hampton Court also houses the so-called Windsor Beauties by Sir Peter Lely, depicting the most beautiful ladies of the court of King Charles II of England, a generation before.</field>
+<field name="link_external">http://www.guardian.co.uk/culture/2012/mar/07/hampton-court-portraits-stuart-women</field>
+<field name="link_external">http://www.hrp.org.uk/HamptonCourtPalace/HCbeauties.aspx</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Hampton_Court_Beauties</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Hampton_Court_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Hampton_Court_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Hampton_Court_Beauties</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Hampton_Court_Beauties</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5646181</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Hampton_Court_Beauties</field>
+</doc>
+</add>

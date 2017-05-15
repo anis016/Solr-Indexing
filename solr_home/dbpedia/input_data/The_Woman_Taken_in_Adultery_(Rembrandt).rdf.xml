@@ -1,0 +1,39 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Woman_Taken_in_Adultery_(Rembrandt)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Woman_Taken_in_Adultery_(Rembrandt)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04y9nhv</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7775500</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Woman_Taken_in_Adultery_(Rembrandt)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_with_biblical_themes</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Rembrandt</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1644_works</field>
+<field name="abstract">The Woman Taken in Adultery is a painting of 1644 by Rembrandt, bought by the National Gallery, London in 1824, as one of their foundation batch of paintings. It is in oil on oak, and 83.8 x 65.4 cm. Rembrandt shows the episode of Jesus and the woman taken in adultery from the Gospel of Saint John. In this scene, a few Jews, mainly Scribes and Pharisees, tried to catch Jesus condoning disobedience to the Jewish Law, knowing that Jesus pitied wrong-doers. To do this, they produced a woman who had been caught taking part in adultery. Then, they said "Teacher, this woman has been caught in the act of adultery. Now in the law Moses commanded us to stone such. What do you say about her?". Jesus replied, "He that is without sin among you, let him first cast a stone at her" Rembrandt made Jesus appear taller than the other figures and more brightly lit. In contrast, the Jews are "in the dark" and appear lower. Symbolically, Jesus's height represents his moral superiority over those who attempted to trick him.</field>
+<field name="label">The Woman Taken in Adultery (Rembrandt)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/df/The_Womman_Taken_in_Adultery.JPG</field>
+<field name="comment">The Woman Taken in Adultery is a painting of 1644 by Rembrandt, bought by the National Gallery, London in 1824, as one of their foundation batch of paintings. It is in oil on oak, and 83.8 x 65.4 cm. Rembrandt shows the episode of Jesus and the woman taken in adultery from the Gospel of Saint John. In this scene, a few Jews, mainly Scribes and Pharisees, tried to catch Jesus condoning disobedience to the Jewish Law, knowing that Jesus pitied wrong-doers.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/df/The_Womman_Taken_in_Adultery.JPG/200px-The_Womman_Taken_in_Adultery.JPG</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Woman_Taken_in_Adultery_(Rembrandt)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Woman_Taken_in_Adultery_(Rembrandt)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Woman_Taken_in_Adultery_(Rembrandt)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Woman_Taken_in_Adultery_(Rembrandt)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Woman_Taken_in_Adultery</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7775500</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Woman_Taken_in_Adultery_(Rembrandt)</field>
+</doc>
+</add>

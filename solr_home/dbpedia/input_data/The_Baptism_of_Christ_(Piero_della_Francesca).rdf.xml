@@ -1,0 +1,105 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Piero_della_Francesca</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="influenced">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Battesimo_di_Cristo_(Piero_della_Francesca)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2632688</field>
+<field name="sameAs">http://bg.dbpedia.org/resource/Кръщение_Христово_(Пиеро_дела_Франческа)</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/El_Baptisme_de_Crist_(Piero_della_Francesca)</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Baptême_du_Christ_(Piero_della_Francesca)</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Chrzest_Chrystusa_(obraz_Piera_della_Francesca)</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_bautismo_de_Cristo_(Piero_della_Francesca)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/พระเยซูรับศีลจุ่ม_(เปียโร_เดลลา_ฟรานเชสกา)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02vl193</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Piero_della_Francesca</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1440s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_depicting_Jesus</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery,_London</field>
+<field name="abstract">The Baptism of Christ is a painting by the Italian Renaissance master Piero della Francesca, finished around 1448-1450. It is housed in the National Gallery, London. The panel was commissioned presumably some time about 1440 by the Camaldolese Monastery of Sansepolcro in Tuscany, originally part of a triptych. Its dating to Piero della Francesca's early career is evidenced by the strong relationship with the "light painting" of his master, Domenico Veneziano. It portrays Christ being baptised by John, his head surmounted by a dove representing the Holy Spirit. Christ, John's hand, the bird and the bowl form an axis which divides the painting in two symmetrical parts. A second division is created by the tree on the left, which instead divides it according to the golden ratio. The three angels on the left wear different clothes and, in a break from traditional iconography, are not supporting Christ's garments, but are holding each other's hands, in a sort of way. This could be an allusion to the contemporary Council of Florence (1431-45), whose goal was the unification of the Western and Eastern Churches. The Camaldolese monk and theologian, St. Ambrose Traversari (+1439), who had been Prior General of the Camaladolese congregation, had been a strong supporter of the union. Such symbolism is also suggested by the presence, behind the neophyte on the right, of figures dressed in an oriental fashion. Piero della Francesca was renowned in his times as an authority on perspective and geometry: his attention to the theme is shown by John's arm and leg, which form two angles of the same size.</field>
+<field name="label">The Baptism of Christ (Piero della Francesca)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/1c/Piero,_battesimo_di_cristo_04.jpg</field>
+<field name="comment">The Baptism of Christ is a painting by the Italian Renaissance master Piero della Francesca, finished around 1448-1450. It is housed in the National Gallery, London. The panel was commissioned presumably some time about 1440 by the Camaldolese Monastery of Sansepolcro in Tuscany, originally part of a triptych. Its dating to Piero della Francesca's early career is evidenced by the strong relationship with the "light painting" of his master, Domenico Veneziano.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Piero,_battesimo_di_cristo_04.jpg/200px-Piero,_battesimo_di_cristo_04.jpg</field>
+<field name="link_external">http://www.artonline.it/opera.asp?IDOpera=491</field>
+<field name="artist">http://dbpedia.org/resource/Piero_della_Francesca</field>
+<field name="city">http://dbpedia.org/resource/London</field>
+<field name="height">168</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Baptism of Christ</field>
+<field name="type">Tempera on panel</field>
+<field name="width">116</field>
+<field name="year">c. 1448-1450</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Baptism_of_Christ_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Battesimo_di_Cristo_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_bautismo_de_Cristo_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Baptême_du_Christ_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Chrzest_Chrystusa_(obraz_Piera_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2632688</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+<doc>
+<field name="uri">http://bg.dbpedia.org/resource/Кръщение_Христово_(Пиеро_дела_Франческа)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/El_Baptisme_de_Crist_(Piero_della_Francesca)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/พระเยซูรับศีลจุ่ม_(เปียโร_เดลลา_ฟรานเชสกา)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Baptism_of_Christ_(Piero_della_Francesca)</field>
+</doc>
+</add>

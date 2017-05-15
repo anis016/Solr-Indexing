@@ -1,0 +1,99 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_мадам_Икс</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Madame_X</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Madame_X_(tableau)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Madame_X</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madame_X</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Virginie_Am%C3%A9lie_Avegno_Gautreau</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Madame_X</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Портрет_мадам_X</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2664039</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Madame_X</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Madame_X</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.02x9xx</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Retrato_de_Madame_X</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_мадам_Икс</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Madame_X_(tableau)</field>
+<field name="sameAs">http://th.dbpedia.org/resource/ภาพเหมือนของมาดามเอ็กซ์</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:19th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Metropolitan_Museum_of_Art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1884_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_John_Singer_Sargent</field>
+<field name="abstract">Madame X or Portrait of Madame X is the informal title of a portrait painting by John Singer Sargent of a young socialite named Virginie Amélie Avegno Gautreau, wife of Pierre Gautreau. The model was an American expatriate who married a French banker, and became notorious in Parisian high society for her beauty and rumored infidelities. She wore lavender powder and prided herself on her appearance. Madame X was painted not as a commission, but at the request of Sargent. It is a study in opposition. Sargent shows a woman posing in a black satin dress with jeweled straps, a dress that reveals and hides at the same time. The portrait is characterized by the pale flesh tone of the subject contrasted against a dark colored dress and background. For Sargent, the scandal resulting from the painting's controversial reception at the Paris Salon of 1884 amounted to the failure of a strategy to build a long-term career as a portrait painter in France, though it may have helped him establish a successful career in Britain and America.</field>
+<field name="label">Portrait of Madame X</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/18/Sargent_MadameX.jpeg</field>
+<field name="comment">Madame X or Portrait of Madame X is the informal title of a portrait painting by John Singer Sargent of a young socialite named Virginie Amélie Avegno Gautreau, wife of Pierre Gautreau. The model was an American expatriate who married a French banker, and became notorious in Parisian high society for her beauty and rumored infidelities. She wore lavender powder and prided herself on her appearance. Madame X was painted not as a commission, but at the request of Sargent.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sargent_MadameX.jpeg/200px-Sargent_MadameX.jpeg</field>
+<field name="link_external">http://www.artble.com/artists/john_singer_sargent/paintings/madame_x</field>
+<field name="link_external">http://www.jssgallery.org/Paintings/Madame_X.htm</field>
+<field name="link_external">http://www.jssgallery.org/Other_Artists/Gustave_Courtois/Madame_Gauthereau.htm</field>
+<field name="link_external">http://www.metmuseum.org/works_of_art/collection_database/american_paintings_and_sculpture/madame_x_madame_pierre_gautreau/objectView.aspx?&amp;OID=20012492&amp;collID=2&amp;vw=0</field>
+<field name="link_external">http://www.lynetteabel.org/Art.html</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Madame_X</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Madame_X</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Retrato_de_Madame_X</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Madame_X</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Madame_X</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Madame_X</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madame_Pierre_Gautreau</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madame_Pierre_Guatreau</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_madame_x</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2664039</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Madame_X</field>
+</doc>
+<doc>
+<field name="uri">http://th.dbpedia.org/resource/ภาพเหมือนของมาดามเอ็กซ์</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Madame_X</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Портрет_мадам_X</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Madame_X</field>
+</doc>
+</add>

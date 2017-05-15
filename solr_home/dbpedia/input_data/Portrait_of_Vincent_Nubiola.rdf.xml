@@ -1,0 +1,90 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://cs.dbpedia.org/resource/Portrét_Vicençe_Nubioly</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Portrait_Nubiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_Vicenç_Nubiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Портрет_Винсента_Нубиолы</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Vincent_Nubiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://cs.dbpedia.org/resource/Portrét_Vicençe_Nubioly</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Portrait_Nubiola</field>
+<field name="sameAs">http://ja.dbpedia.org/resource/V・ヌビオラの肖像</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Vincent_Nubiola</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_Vicenç_Nubiola</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q674682</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_Vicenç_Nubiola</field>
+<field name="sameAs">http://ca.dbpedia.org/resource/Retrat_de_Vicenç_Nubiola</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Портрет_Винсента_Нубиолы</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h63jqz</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1917_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Joan_Mir%C3%B3</field>
+<field name="abstract">Portrait of Vincent Nubiola is an oil painting by Spanish Catalan artist Joan Miró. Painted in 1917 when Miró was 24 years old, a year before his first exhibition, the portrait is now considered a masterpiece from a period when he experimented with both Cubism and Fauvism. It is also said by some art critics to show the influence of Van Gogh. Acquired for a time by Picasso, the painting is now in the permanent collection of the Folkwang Museum in Essen (Germany).</field>
+<field name="label">Portrait of Vincent Nubiola</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ef/Vincent_Nubiola_Miro.jpg</field>
+<field name="comment">Portrait of Vincent Nubiola is an oil painting by Spanish Catalan artist Joan Miró. Painted in 1917 when Miró was 24 years old, a year before his first exhibition, the portrait is now considered a masterpiece from a period when he experimented with both Cubism and Fauvism. It is also said by some art critics to show the influence of Van Gogh. Acquired for a time by Picasso, the painting is now in the permanent collection of the Folkwang Museum in Essen (Germany).</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Vincent_Nubiola_Miro.jpg/200px-Vincent_Nubiola_Miro.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Joan_Mir%C3%B3</field>
+<field name="city"/>
+<field name="height">104</field>
+<field name="image"/>
+<field name="imageSize">240</field>
+<field name="museum">http://dbpedia.org/resource/Museum_Folkwang</field>
+<field name="title">Portrait of Vincent Nubiola</field>
+<field name="width">113</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Vincent_Nubiola</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Vincent_Nubiola</field>
+</doc>
+<doc>
+<field name="uri">http://ja.dbpedia.org/resource/V・ヌビオラの肖像</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_Vicenç_Nubiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+</doc>
+<doc>
+<field name="uri">http://ca.dbpedia.org/resource/Retrat_de_Vicenç_Nubiola</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q674682</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Vincent_Nubiola</field>
+</doc>
+</add>

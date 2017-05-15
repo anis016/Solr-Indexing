@@ -1,0 +1,71 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Martyrdom_of_the_Ten_Thousand_(D%C3%BCrer)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Martyrdom_of_the_Ten_Thousand</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Martyrdom_of_the_Ten_Thousand</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_martirio_de_los_diez_mil_cristianos</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q664038</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvvc8b</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Marter_der_zehntausend_Christen</field>
+<field name="sameAs">http://dbpedia.org/resource/Martyrdom_of_the_Ten_Thousand</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Martirio_dei_Diecimila</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Kunsthistorisches_Museum</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1508_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Self-portraits</field>
+<field name="abstract">The Martyrdom of the Ten Thousand is an oil painting by Albrecht Dürer, dating to 1508 and now at the Kunsthistorisches Museum of Vienna, Austria. It is signed on a cartouche which hangs from the artist's self-portrait in the center, saying Iste fatiebat Ano Domini 1508 Albertus Dürer Aleman.</field>
+<field name="label">Martyrdom of the Ten Thousand</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/af/Albrecht_Dürer_066.jpg</field>
+<field name="comment">The Martyrdom of the Ten Thousand is an oil painting by Albrecht Dürer, dating to 1508 and now at the Kunsthistorisches Museum of Vienna, Austria. It is signed on a cartouche which hangs from the artist's self-portrait in the center, saying Iste fatiebat Ano Domini 1508 Albertus Dürer Aleman.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Albrecht_Dürer_066.jpg/200px-Albrecht_Dürer_066.jpg</field>
+<field name="link_external">http://bilddatenbank.khm.at/viewArtefact?id=614</field>
+<field name="artist">http://dbpedia.org/resource/Albrecht_D%C3%BCrer</field>
+<field name="city"/>
+<field name="height">99</field>
+<field name="image"/>
+<field name="imageSize">320</field>
+<field name="museum">http://dbpedia.org/resource/Kunsthistorisches_Museum</field>
+<field name="title">Martyrdom of the Ten Thousand</field>
+<field name="type">Oil on panel transferred to canvas</field>
+<field name="width">87</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Martyrdom_of_the_Ten_Thousand</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Martyrdom_of_the_Ten_Thousand</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Marter_der_zehntausend_Christen</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Martyrdom_of_the_Ten_Thousand</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_martirio_de_los_diez_mil_cristianos</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Martyrdom_of_the_Ten_Thousand</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Martirio_dei_Diecimila</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Martyrdom_of_the_Ten_Thousand</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Martyrdom_of_the_Ten_Thousand</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Martyrdom_of_the_Ten_Thousand</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q664038</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Martyrdom_of_the_Ten_Thousand</field>
+</doc>
+</add>

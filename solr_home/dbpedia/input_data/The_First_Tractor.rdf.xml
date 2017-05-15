@@ -1,0 +1,47 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Der_erste_Traktor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Tractor</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_First_Tractor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1198566</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Der_erste_Traktor</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Tractor</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.049fz6</field>
+<field name="sameAs">http://es.dbpedia.org/resource/El_primer_tractor</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_First_Tractor</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Soviet_art</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Socialist_realism</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="abstract">The First Tractor is the name of several Socialist realist paintings and other works of art that portray the beginning of collectivisation in the USSR. The subject of the work of art is typically a Fordson tractor, the first agricultural tractor imported and then manufactured in the Soviet Union. The depicted tractor acted as a symbol of the advantages of agricultural mechanisation and collectivisation. Because tractorisation was state policy in the Soviet Union, the paintings had an agitation function. The followng authors produced works under the title, The First Tractor. Vladimir Krikhatsky (Владимир Гаврилович Крихатский), painting Ivan Mikhailin (Иван Алексеевич Михайлин), painting Vladimir Yelchaninov (Владимир Васильевич Ельчанинов), painting Boris Goller (Борис Голлер), play Lyudmila Kostina (Людмила Николаевна Костина), painting Victor Tsigal (Виктор Ефимович Цигаль), painting Valentin Chekmasov (Валентин Чекмасов), painting Maksim Pavlov (Максим Максимович Павлов), bone carving Tamara Abakeliya (Тамара Григорьевна Абакелия), painting Related to The First Tractor depictions was the fashion of inventing new names for newborns by means of abbreviations, such as "Vladlen" for Vladimir Lenin, "Vilor" for Vladimir Ilyich Lenin — Organizer of Revolution. In this way, the following name was created (whether seriously or not): "Dazdrapertrak", Даздрапертрак (Да здравствует первый трактор!, Long live the First Tractor!).</field>
+<field name="label">The First Tractor</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/8/85/Wladimir_Gawriilowitsch_Krikhatzkij_-_The_First_Tractor.jpg</field>
+<field name="comment">The First Tractor is the name of several Socialist realist paintings and other works of art that portray the beginning of collectivisation in the USSR. The subject of the work of art is typically a Fordson tractor, the first agricultural tractor imported and then manufactured in the Soviet Union. The depicted tractor acted as a symbol of the advantages of agricultural mechanisation and collectivisation.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Wladimir_Gawriilowitsch_Krikhatzkij_-_The_First_Tractor.jpg/200px-Wladimir_Gawriilowitsch_Krikhatzkij_-_The_First_Tractor.jpg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_First_Tractor</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_First_Tractor</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/El_primer_tractor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Tractor</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_First_Tractor</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_First_Tractor</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1198566</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_First_Tractor</field>
+</doc>
+</add>

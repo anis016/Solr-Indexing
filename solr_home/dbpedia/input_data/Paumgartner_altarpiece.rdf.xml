@@ -1,0 +1,82 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Алтарь_Паумгартнеров</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paumgartner_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Paumgartner_Altar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paumgartner_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retablo_Paumgartner</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paumgartner_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Altare_Paumgartner</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paumgartner_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Ołtarz_Paumgartnerów</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paumgartner_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paumgartner_altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0j24tfr</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Ołtarz_Paumgartnerów</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Paumgartner_altarpiece</field>
+<field name="sameAs">http://dbpedia.org/resource/Paumgartner_altarpiece</field>
+<field name="sameAs">http://uk.dbpedia.org/resource/Вівтар_Паумгартнерів</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Paumgartner_Altar</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Алтарь_Паумгартнеров</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Altare_Paumgartner</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q571122</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retablo_Paumgartner</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1500_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_and_prints_by_Albrecht_D%C3%BCrer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collection_of_the_Alte_Pinakothek</field>
+<field name="abstract">The Paumgartner altarpiece (c. 1500) is an early tryptich painting by Albrecht Dürer, commissioned by the Paumgartner family of Nuremberg. The central panel depicts a nativity scene, while the wings depict Saint George (left) and Saint Eustace (right). The saint's faces are donor portraits of the brothers Stephan and Lukas Paumgartner, respectively. Other members of the Paumgartner family are depicted as small figures in the center panel. In 1616 the painting was bought by Maximilian I, Elector of Bavaria and taken to Munich. There it was altered to suit 17th century tastes. This entailed adding helmets, horses, and landscape backgrounds to the portraits of the saints and painting over the small donor figures in the center panel. These embellishments were removed by restorators in 1903. On 20 April 1988, the Paumgartner altarpiece was one of three paintings at the Alte Pinakothek that were attacked with concentrated sulphuric acid by the serial art vandal Hans-Joachim Bohlmann. It alone suffered at least $12 million worth of damage. After 21 years of restoration, it was returned to display in 2010.</field>
+<field name="label">Paumgartner altarpiece</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b9/Albrecht_Dürer_067.jpg</field>
+<field name="comment">The Paumgartner altarpiece (c. 1500) is an early tryptich painting by Albrecht Dürer, commissioned by the Paumgartner family of Nuremberg. The central panel depicts a nativity scene, while the wings depict Saint George (left) and Saint Eustace (right). The saint's faces are donor portraits of the brothers Stephan and Lukas Paumgartner, respectively. Other members of the Paumgartner family are depicted as small figures in the center panel.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Albrecht_Dürer_067.jpg/200px-Albrecht_Dürer_067.jpg</field>
+<field name="link_external">http://www.wga.hu/html_m/d/durer/1/03/3paumg.html</field>
+<field name="link_external">http://www.pinakothek.de/en/albrecht-duerer/paumgartner-altar</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Paumgartner_altarpiece</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Paumgartner_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Paumgartner_altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Paumgartner_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Paumgartner_Altar</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://uk.dbpedia.org/resource/Вівтар_Паумгартнерів</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paumgartner_altarpiece</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q571122</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Paumgartner_altarpiece</field>
+</doc>
+</add>

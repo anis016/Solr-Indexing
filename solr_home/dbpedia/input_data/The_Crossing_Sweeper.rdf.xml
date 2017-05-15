@@ -1,0 +1,38 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crossing_Sweeper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7728190</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Crossing_Sweeper</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crossing_Sweeper</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bh9b71</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:English_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_William_Powell_Frith</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1858_paintings</field>
+<field name="abstract">For the occupation upon which this painting was based, see crossing sweeper. The Crossing Sweeper is an 1858 painting by William Powell Frith which has been described as breaking "new ground in its description of the collision of wealth and poverty on a London street."</field>
+<field name="label">The Crossing Sweeper</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a3/TheCrossingSweeper.jpg</field>
+<field name="comment">For the occupation upon which this painting was based, see crossing sweeper. The Crossing Sweeper is an 1858 painting by William Powell Frith which has been described as breaking "new ground in its description of the collision of wealth and poverty on a London street."</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a3/TheCrossingSweeper.jpg/200px-TheCrossingSweeper.jpg</field>
+<field name="artist">http://dbpedia.org/resource/William_Powell_Frith</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="title">The Crossing Sweeper</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Crossing_Sweeper</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Crossing_Sweeper</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Crossing_Sweeper</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Crossing_Sweeper</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7728190</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crossing_Sweeper</field>
+</doc>
+</add>

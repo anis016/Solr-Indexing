@@ -1,0 +1,48 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Listening_Room</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Listening_Room</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Listening_Room</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Listening_Room</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Listening_Room</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04f2k4j</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7747550</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1952_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Ren%C3%A9_Magritte</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1958_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Surrealist_paintings</field>
+<field name="abstract">The Listening Room (La Chambre d'Écoute, 1952) is an oil on canvas painting by the Belgian surrealist René Magritte which is currently part of the Menil Collection in Houston, Texas. A later version of the painting (also of the same name) was made in 1958 and is held in a private collection. Both paintings feature identical (or near-identical) green apples, but place them in different rooms. In the 1952 version, the room has wood flooring and a glass window with white trim. In the 1958 version, this is replaced by a gray brick room with an arched open-air window. The painting highlights a number of themes common in Magritte's work. Other paintings to prominently feature an apple include The Son of Man (1964), where the apple obscures the face of bowler-hatted man, and This is not an Apple (1964), where an apple is accompanied by the caption "Ceci n'est pas une pomme" ("This is not an apple"). It is also one of many paintings to play with the concept of scale by juxtaposing objects normally of different sizes. In Elective Affinities (1933) an egg is pictured filling a birdcage, in The Tomb of the Wrestlers (1961) a red rose fills a room and in Personal Values (1951–52) common household objects such as a comb, a glass and a bar of soap dwarf the usual furniture in a bedroom. The 1958 reproduction of the painting was used for the album cover of Beck-Ola by The Jeff Beck Group.</field>
+<field name="label">The Listening Room</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/1/10/The_Listening_Room.gif</field>
+<field name="comment">The Listening Room (La Chambre d'Écoute, 1952) is an oil on canvas painting by the Belgian surrealist René Magritte which is currently part of the Menil Collection in Houston, Texas. A later version of the painting (also of the same name) was made in 1958 and is held in a private collection. Both paintings feature identical (or near-identical) green apples, but place them in different rooms. In the 1952 version, the room has wood flooring and a glass window with white trim.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/1/10/The_Listening_Room.gif/200px-The_Listening_Room.gif</field>
+<field name="artist">http://dbpedia.org/resource/Ren%C3%A9_Magritte</field>
+<field name="city">http://dbpedia.org/resource/Houston</field>
+<field name="height">45</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Menil_Collection</field>
+<field name="title">The Listening Room</field>
+<field name="width">54.7</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Listening_Room</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Listening_Room</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Le_Chambre_D'Ecoute</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7747550</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Listening_Room</field>
+</doc>
+</add>

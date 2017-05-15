@@ -1,0 +1,94 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Virgen_de_las_arpías</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Madonna_delle_Arpie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+</doc>
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Harpyienmadonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Virgen_de_las_arpías</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Harpyienmadonna</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Madone_des_Harpies</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0bxyh0</field>
+<field name="sameAs">http://pl.dbpedia.org/resource/Madonna_z_harpiami</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q1235695</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Madonna_delle_Arpie</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Madonna_delle_Arpie</field>
+<field name="sameAs">http://la.dbpedia.org/resource/Virgo_Harpyiarum</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Madonna_of_the_Harpies</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1517_paintings</field>
+<field name="abstract">Madonna of the Harpies is a 1517 painting by Andrea del Sarto, considered his major contribution to High Renaissance art. It is a depiction of the Virgin Mary and child on a pedestal, flanked by angels and two saints. Originally completed in 1517 for the convent of San Francesco dei Macci, the altarpiece now resides in the Uffizi. The figures have a Leonardo-like aura, with a pyramid shaped composition. The main character in the Kürk Mantolu Madonna (Madonna With A Fur Coat), a novel written by Turkish writer Sabahattin Ali, is a depiction of the Virgin Mary in Madonna of the Harpies.</field>
+<field name="label">Madonna of the Harpies</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/5/54/Andrea_del_Sarto_-_Madonna_of_the_Harpies_-_WGA00369.jpg</field>
+<field name="comment">Madonna of the Harpies is a 1517 painting by Andrea del Sarto, considered his major contribution to High Renaissance art. It is a depiction of the Virgin Mary and child on a pedestal, flanked by angels and two saints. Originally completed in 1517 for the convent of San Francesco dei Macci, the altarpiece now resides in the Uffizi. The figures have a Leonardo-like aura, with a pyramid shaped composition.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/5/54/Andrea_del_Sarto_-_Madonna_of_the_Harpies_-_WGA00369.jpg/200px-Andrea_del_Sarto_-_Madonna_of_the_Harpies_-_WGA00369.jpg</field>
+<field name="artist"/>
+<field name="height">208</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Madonna delle Arpie</field>
+<field name="type">oil on wood</field>
+<field name="width">178</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Madonna_of_the_Harpies</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Madonna_of_the_Harpies</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Madonna_of_the_Harpies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Madone_des_Harpies</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+</doc>
+<doc>
+<field name="uri">http://pl.dbpedia.org/resource/Madonna_z_harpiami</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Madonna_delle_Arpie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q1235695</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+</doc>
+<doc>
+<field name="uri">http://la.dbpedia.org/resource/Virgo_Harpyiarum</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Madonna_delle_Arpie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Madonna_of_the_Harpies</field>
+</doc>
+</add>

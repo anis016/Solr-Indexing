@@ -1,0 +1,79 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_di_san_Pietro_martire</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Pietro_Martire_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Pietro_Martire_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://pt.dbpedia.org/resource/Tríptico_de_São_Pedro_Mártir</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Triptyque_de_saint_Pierre_martyr</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_di_san_Pietro_martire</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3539582</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gvtym5</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Pietro_Martire_Triptych</field>
+<field name="sameAs">http://yago-knowledge.org/resource/San_Pietro_Martire_Triptych</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1420s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_of_the_Madonna_and_Child</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Fra_Angelico</field>
+<field name="abstract">The St. Peter of Verona Triptych is a painting by the Italian early Renaissance master Fra Angelico, executed around 1428-1429. It is housed in the National Museum of San Marco, Florence, central Italy.</field>
+<field name="label">San Pietro Martire Triptych</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/6/60/Angelico,_pala_di_san_pier_maggiore,_1425_ca..jpg</field>
+<field name="comment">The St. Peter of Verona Triptych is a painting by the Italian early Renaissance master Fra Angelico, executed around 1428-1429. It is housed in the National Museum of San Marco, Florence, central Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Angelico,_pala_di_san_pier_maggiore,_1425_ca..jpg/200px-Angelico,_pala_di_san_pier_maggiore,_1425_ca..jpg</field>
+<field name="artist">http://dbpedia.org/resource/Fra_Angelico</field>
+<field name="city"/>
+<field name="height">137</field>
+<field name="image"/>
+<field name="imageSize">350</field>
+<field name="museum">http://dbpedia.org/resource/San_Marco_National_Museum</field>
+<field name="title">St. Peter of Verona Triptych</field>
+<field name="width">168</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/San_Pietro_Martire_Triptych</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/San_Pietro_Martire_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/San_Pietro_Martire_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Peter_of_Verona_Altarpiece</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/St._Peter_of_Verona_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/San_Pietro_Martire_Triptych</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/San_Pietro_Martire_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://pt.dbpedia.org/resource/Tríptico_de_São_Pedro_Mártir</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Pietro_Martire_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Triptyque_de_saint_Pierre_martyr</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Pietro_Martire_Triptych</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3539582</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/San_Pietro_Martire_Triptych</field>
+</doc>
+</add>

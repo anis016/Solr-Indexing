@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portraits_at_the_Stock_Exchange</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portraits_at_the_Stock_Exchange</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/At_the_Stock_Exchange</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portraits,_At_the_Stock_Exchange</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portraits_at_the_Stock_Exchange</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portraits_at_the_Stock_Exchange</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937379</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portraits_at_the_Stock_Exchange</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.07hfq0</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratti_alla_Borsa</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Edgar_Degas</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_Mus%C3%A9e_d'Orsay</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1879_paintings</field>
+<field name="abstract">Portraits at the Stock Exchange (also known as At the Bourse) is a painting by French artist Edgar Degas. Completed circa 1879, this painting is interpreted as an anti-Semitic depiction of Jews in Paris, due especially to the exaggerated features and postures of the subjects. In Europe during the late 19th century there were fears of a financial conspiracy, in which Jewish financiers were thought to manipulate business for their gain. In fact, Degas's anti-Semitism may have been fueled by the bankruptcy of his own family's banking business, leaving Degas with some degree of resentment toward banking and those who symbolized it. Portraits, At the Stock Exchange also falls under the Impressionism movement of painting. Evidence for this can be seen in the painting's quick, somewhat abstract brushstrokes. The psychological perspective of the painting is one of detachment, a common viewpoint in Impressionist paintings. This painting currently resides in the Musée d'Orsay in Paris.</field>
+<field name="label">Portraits at the Stock Exchange</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/d/da/At_The_Stock_Exchange.jpg</field>
+<field name="comment">Portraits at the Stock Exchange (also known as At the Bourse) is a painting by French artist Edgar Degas. Completed circa 1879, this painting is interpreted as an anti-Semitic depiction of Jews in Paris, due especially to the exaggerated features and postures of the subjects. In Europe during the late 19th century there were fears of a financial conspiracy, in which Jewish financiers were thought to manipulate business for their gain.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/d/da/At_The_Stock_Exchange.jpg/200px-At_The_Stock_Exchange.jpg</field>
+<field name="link_external">http://libmma.contentdm.oclc.org/cdm/compoundobject/collection/p15324coll10/id/60673/rec/6</field>
+<field name="artist">http://dbpedia.org/resource/Edgar_Degas</field>
+<field name="city">http://dbpedia.org/resource/Paris</field>
+<field name="height">100</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Mus%C3%A9e_d'Orsay</field>
+<field name="title">At the Stock Exchange</field>
+<field name="width">82</field>
+<field name="year">c. 1879</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portraits_at_the_Stock_Exchange</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portraits_at_the_Stock_Exchange</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratti_alla_Borsa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portraits_at_the_Stock_Exchange</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937379</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portraits_at_the_Stock_Exchange</field>
+</doc>
+</add>

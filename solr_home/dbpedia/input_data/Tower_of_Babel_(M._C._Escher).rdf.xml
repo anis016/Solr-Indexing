@@ -1,0 +1,59 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tower_of_Babel_(disambiguation)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Tower_of_Babel_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.026tvmz</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Tower_of_Babel_(M._C._Escher)</field>
+<field name="sameAs">http://he.dbpedia.org/resource/מגדל_בבל_(אשר)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2899725</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Вавилонская_башня_(Эшер)</field>
+<field name="sameAs">http://dbpedia.org/resource/Tower_of_Babel_(M._C._Escher)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1928_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Tower_of_Babel</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Works_by_M._C._Escher</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Woodcuts</field>
+<field name="abstract">Tower of Babel is a 1928 woodcut by M. C. Escher. It depicts the Babylonians attempting to build a tower to reach God, a story that is recounted in Genesis 11:9. God frustrated their attempts by creating a confusion of languages so the builders could no longer understand each other and the work halted. Although Escher dismissed his works before 1935 as of little or no value as they were "for the most part merely practice exercises", some of them, including the Tower of Babel, chart the development of his interest in perspective and unusual viewpoints that would become the hallmarks of his later, more famous, work. In contrast to many other depictions of the biblical story, such as those by Pieter Brueghel the Elder and Gustave Doré (The Confusion of Tongues), Escher depicts the tower as a geometrical structure and places the viewpoint above the tower. This allows him to exercise his skill with perspective, but he also chose to centre the picture around the top of the tower as the focus for the climax of the action. He later commented: Some of the builders are white and others black. The work is at a standstill because they are no longer able to understand one another. Seeing as the climax of the drama takes place at the summit of the tower which is under construction, the building has been shown from above as though from a bird's eye view</field>
+<field name="label">Tower of Babel (M. C. Escher)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/4/4f/Babel-escher.jpg</field>
+<field name="comment">Tower of Babel is a 1928 woodcut by M. C. Escher. It depicts the Babylonians attempting to build a tower to reach God, a story that is recounted in Genesis 11:9. God frustrated their attempts by creating a confusion of languages so the builders could no longer understand each other and the work halted.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Babel-escher.jpg/200px-Babel-escher.jpg</field>
+<field name="artist"/>
+<field name="height">62.1</field>
+<field name="image"/>
+<field name="title">Tower of Babel</field>
+<field name="width">38.6</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Tower_of_Babel_(M._C._Escher)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Tower_of_Babel_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Tower_of_Babel_(M._C._Escher)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Tower_of_Babel_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Вавилонская_башня_(Эшер)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tower_of_Babel_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2899725</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tower_of_Babel_(M._C._Escher)</field>
+</doc>
+<doc>
+<field name="uri">http://he.dbpedia.org/resource/מגדל_בבל_(אשר)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Tower_of_Babel_(M._C._Escher)</field>
+</doc>
+</add>

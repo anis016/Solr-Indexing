@@ -1,0 +1,41 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Surfing_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q7646122</field>
+<field name="sameAs">http://dbpedia.org/resource/Surfing_Madonna</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Surfing_Madonna</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gwyy0y</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Mosaics</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Public_art_in_the_United_States</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Encinitas,_California</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:2011_paintings</field>
+<field name="abstract">The Surfing Madonna is a 10 by 10 foot (3 by 3 m) mosaic of the Virgen de Guadalupe created by artist Mark Patterson. It was covertly installed in Encinitas, California.</field>
+<field name="label">Surfing Madonna</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a6/Surfing-madonna.jpg</field>
+<field name="comment">The Surfing Madonna is a 10 by 10 foot (3 by 3 m) mosaic of the Virgen de Guadalupe created by artist Mark Patterson. It was covertly installed in Encinitas, California.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Surfing-madonna.jpg/200px-Surfing-madonna.jpg</field>
+<field name="link_external">http://media.bakersfieldnow.com/images/110607_surfing_madonna.jpg</field>
+<field name="width">300</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Surfing_Madonna</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Surfing_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Surfing_nun</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Surfing_Madonna</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Surfing_Madonna</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q7646122</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Surfing_Madonna</field>
+</doc>
+</add>

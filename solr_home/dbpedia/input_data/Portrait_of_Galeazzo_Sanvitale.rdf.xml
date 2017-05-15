@@ -1,0 +1,61 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Gian_Galeazzo_Sanvitale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Galeazzo_Sanvitale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0h54765</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Galeazzo_Sanvitale</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Galeazzo_Sanvitale</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Galeazzo_Sanvitale</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q3937542</field>
+<field name="sameAs">http://fa.dbpedia.org/resource/پرتره_گالئاتزو_سان_ویتاله</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Parmigianino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1524_paintings</field>
+<field name="abstract">Portrait of Galeazzo Sanvitale (1524) is a painting of the condottiero Gian Galeazzo Sanvitale by the Italian late Renaissance artist Parmigianino. It is housed in the National Museum of Capodimonte, Naples, Italy.</field>
+<field name="label">Portrait of Galeazzo Sanvitale</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/b/b2/Parmigianino_024.jpg</field>
+<field name="comment">Portrait of Galeazzo Sanvitale (1524) is a painting of the condottiero Gian Galeazzo Sanvitale by the Italian late Renaissance artist Parmigianino. It is housed in the National Museum of Capodimonte, Naples, Italy.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Parmigianino_024.jpg/200px-Parmigianino_024.jpg</field>
+<field name="link_external">http://museodicapodimonte.campaniabeniculturali.it/itinerari-tematici/galleria-di-immagini/OA900074</field>
+<field name="artist"/>
+<field name="height">109</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Galeazzo Sanvitale</field>
+<field name="type">Oil on canvas</field>
+<field name="width">81</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Galeazzo_Sanvitale</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Galeazzo_Sanvitale</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Galeazzo_Sanvitale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Galeazzo_Sanvitale</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Galeazzo_Sanvitale</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Galeazzo_Sanvitale</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q3937542</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Galeazzo_Sanvitale</field>
+</doc>
+<doc>
+<field name="uri">http://fa.dbpedia.org/resource/پرتره_گالئاتزو_سان_ویتاله</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Galeazzo_Sanvitale</field>
+</doc>
+</add>

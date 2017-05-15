@@ -1,0 +1,43 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Fragment_of_a_Crucifixion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Fragment_of_a_Crucifixion</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.05q8b8k</field>
+<field name="sameAs">http://dbpedia.org/resource/Fragment_of_a_Crucifixion</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q5477689</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1950_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Modern_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Francis_Bacon</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Irish_paintings</field>
+<field name="abstract">Fragment of a Crucifixion is a 1950 painting by Irish-born artist Francis Bacon (1909–1992) and one of his many works based on iconography of the Crucifixion of Jesus. Its two distressed figures are at the end of a bloody struggle, with one positioned at the point of kill. The dying animal's scream forms the centerpiece of the work. Although the painting's title contains religious connotations, Bacon was a devout atheist, and there is no hope divinity in the work. Instead, it is intended to represent what he saw as the hopelessness of the human condition. A muscular male dog stoops on a horizontal beam that forms part of a T-shaped structure intended to both signify Christ's cross and indicate a beam hanging over a door. An apparently female chimera is trapped within this frame, and is powerless in the course of being mutilated by the dog. Blood pours from the canine's mouth onto the head and body of his prey, who is rendered as owl-like but with human facial characteristics. Characteristic of Bacon's work, the painting draws its influence from a wide variety of sources, including the scream of the nurse in Sergei Eisenstein's 1925 silent film "The Battleship Potemkin", photographs of Adolf Eichmann, and many depictions of the biblical crucifixion and lowering from the Cross.</field>
+<field name="label">Fragment of a Crucifixion</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/2/29/Fragment_of_a_Crucifixion.jpg</field>
+<field name="comment">Fragment of a Crucifixion is a 1950 painting by Irish-born artist Francis Bacon (1909–1992) and one of his many works based on iconography of the Crucifixion of Jesus. Its two distressed figures are at the end of a bloody struggle, with one positioned at the point of kill. The dying animal's scream forms the centerpiece of the work. Although the painting's title contains religious connotations, Bacon was a devout atheist, and there is no hope divinity in the work.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Fragment_of_a_Crucifixion.jpg/200px-Fragment_of_a_Crucifixion.jpg</field>
+<field name="link_external">http://www.law.umkc.edu/faculty/projects/ftrials/jesus/crucifixion.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Francis_Bacon_(artist)</field>
+<field name="height">140</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Fragment of a Crucifixion</field>
+<field name="type">Oil and cotton wool on canvas</field>
+<field name="width">108.5</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Fragment_of_a_Crucifixion</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Fragment_of_a_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Fragment_of_a_Crucifixion</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Fragment_of_a_Crucifixion</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q5477689</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Fragment_of_a_Crucifixion</field>
+</doc>
+</add>

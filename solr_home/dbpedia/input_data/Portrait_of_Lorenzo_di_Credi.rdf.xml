@@ -1,0 +1,60 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Lorenzo_di_Credi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lorenzo_di_Credi</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_Lorenzo_di_Credi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lorenzo_di_Credi</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Lorenzo_di_Credi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Lorenzo_di_Credi</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Lorenzo_di_Credi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0gx00wz</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_Lorenzo_di_Credi</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Lorenzo_di_Credi</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lorenzo_di_Credi</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q931933</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Lorenzo_di_Credi</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Pietro_Perugino</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1480s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Portraits_by_Italian_artists</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Collections_of_the_National_Gallery_of_Art</field>
+<field name="abstract">The Portrait of Lorenzo di Credi is a painting by the Italian Renaissance artist Perugino, dating to around 1504 and housed in the National Gallery of Art, Washington, DC, United States.</field>
+<field name="label">Portrait of Lorenzo di Credi</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/a/a7/Lorenzo_di_Credi_by_Perugino.jpg</field>
+<field name="comment">The Portrait of Lorenzo di Credi is a painting by the Italian Renaissance artist Perugino, dating to around 1504 and housed in the National Gallery of Art, Washington, DC, United States.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Lorenzo_di_Credi_by_Perugino.jpg/200px-Lorenzo_di_Credi_by_Perugino.jpg</field>
+<field name="link_external">http://www.nga.gov/fcgi-bin/tinfo_f?object=1177</field>
+<field name="artist">http://dbpedia.org/resource/Pietro_Perugino</field>
+<field name="city"/>
+<field name="height">44</field>
+<field name="image"/>
+<field name="imageSize">230</field>
+<field name="museum">http://dbpedia.org/resource/National_Gallery_of_Art</field>
+<field name="title">Portrait of Lorenzo di Credi</field>
+<field name="type">Tempera on wood transferred to canvas</field>
+<field name="width">30.5</field>
+<field name="year">c. 1488</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Lorenzo_di_Credi</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Lorenzo_di_Credi</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q931933</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Lorenzo_di_Credi</field>
+</doc>
+</add>

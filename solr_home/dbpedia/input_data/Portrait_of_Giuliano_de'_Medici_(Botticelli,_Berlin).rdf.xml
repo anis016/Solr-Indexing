@@ -1,0 +1,76 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://yago-knowledge.org/resource/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Ritratto_di_Giuliano_de'_Medici_(Botticelli_Berlino)</field>
+<field name="sameAs">http://br.dbpedia.org/resource/Poltred_Giuliano_de'_Medici_(Botticelli_Berlin)</field>
+<field name="sameAs">http://es.dbpedia.org/resource/Retrato_de_Juliano_de_Médici_(Botticelli,_Berlín)</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2272723</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.08nf04</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Portrait_de_Julien_de_Médicis_(Berlin)</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1478_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:15th-century_portraits</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_in_the_Gem%C3%A4ldegalerie,_Berlin</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Botticelli_portraits</field>
+<field name="abstract">The Portrait of Giuliano de' Medici is a painting of Giuliano de' Medici (1453-1478) by the Italian Renaissance painter Sandro Botticelli, probably painted soon before Giuliano was assassinated in the Pazzi Conspiracy in 1478. It belongs to the Berlin State Museums, and is in the Gemäldegalerie, Berlin. It is believed to be the earliest of a number of versions by Botticelli and his workshop.</field>
+<field name="label">Portrait of Giuliano de' Medici (Botticelli, Berlin)</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/e/ea/Sandro_Botticelli_067.jpg</field>
+<field name="comment">The Portrait of Giuliano de' Medici is a painting of Giuliano de' Medici (1453-1478) by the Italian Renaissance painter Sandro Botticelli, probably painted soon before Giuliano was assassinated in the Pazzi Conspiracy in 1478. It belongs to the Berlin State Museums, and is in the Gemäldegalerie, Berlin. It is believed to be the earliest of a number of versions by Botticelli and his workshop.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Sandro_Botticelli_067.jpg/200px-Sandro_Botticelli_067.jpg</field>
+<field name="artist"/>
+<field name="city"/>
+<field name="height">54</field>
+<field name="image"/>
+<field name="museum"/>
+<field name="title">Portrait of Giuliano de' Medici</field>
+<field name="type">Panel</field>
+<field name="width">36</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Ritratto_di_Giuliano_de'_Medici_(Botticelli_Berlino)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://es.dbpedia.org/resource/Retrato_de_Juliano_de_Médici_(Botticelli,_Berlín)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Portrait_de_Julien_de_Médicis_(Berlin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/Portrait_of_Giuliano_de'_Medici_of_Berlin_(Botticelli)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2272723</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+</doc>
+<doc>
+<field name="uri">http://br.dbpedia.org/resource/Poltred_Giuliano_de'_Medici_(Botticelli_Berlin)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/Portrait_of_Giuliano_de'_Medici_(Botticelli,_Berlin)</field>
+</doc>
+</add>

@@ -1,0 +1,92 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://de.dbpedia.org/resource/Das_Eismeer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+</doc>
+<doc>
+<field name="uri">http://el.dbpedia.org/resource/Θάλασσα_από_πάγο</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Il_mare_di_ghiaccio</field>
+<field name="sameAs">http://eo.dbpedia.org/resource/La_Maro_de_Glacio</field>
+<field name="sameAs">http://el.dbpedia.org/resource/Θάλασσα_από_πάγο</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/La_Mer_de_glaces</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q194137</field>
+<field name="sameAs">http://de.dbpedia.org/resource/Das_Eismeer</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.04zvpjv</field>
+<field name="sameAs">http://tr.dbpedia.org/resource/Buz_Denizi</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Sea_of_Ice</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Das_Eismeer</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Caspar_David_Friedrich</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:1820s_paintings</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Maritime_paintings</field>
+<field name="abstract">The Sea of Ice, also called The Wreck of Hope (German: Die gescheiterte Hoffnung) is an oil painting of 1823–1824 by the German Romantic artist Caspar David Friedrich.</field>
+<field name="label">The Sea of Ice</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/9/96/Caspar_David_Friedrich_006.jpg</field>
+<field name="comment">The Sea of Ice, also called The Wreck of Hope (German: Die gescheiterte Hoffnung) is an oil painting of 1823–1824 by the German Romantic artist Caspar David Friedrich.</field>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/9/96/Caspar_David_Friedrich_006.jpg/200px-Caspar_David_Friedrich_006.jpg</field>
+<field name="artist">http://dbpedia.org/resource/Caspar_David_Friedrich</field>
+<field name="city">http://dbpedia.org/resource/Hamburg</field>
+<field name="image"/>
+<field name="imageSize">300</field>
+<field name="museum">http://dbpedia.org/resource/Kunsthalle_Hamburg</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Sea_of_Ice</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Sea_of_Ice</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/La_Mer_de_glaces</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Sea_of_Ice</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Wreck_of_Hope</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+</doc>
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Il_mare_di_ghiaccio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Das_Eismeer</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q194137</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+</doc>
+<doc>
+<field name="uri">http://eo.dbpedia.org/resource/La_Maro_de_Glacio</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+</doc>
+<doc>
+<field name="uri">http://tr.dbpedia.org/resource/Buz_Denizi</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Sea_of_Ice</field>
+</doc>
+</add>

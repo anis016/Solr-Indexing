@@ -1,0 +1,72 @@
+<add xmlns:dc="http://purl.org/dc/elements/1.1/" overwrite="true">
+<doc>
+<field name="uri">http://it.dbpedia.org/resource/Trittico_della_martire_crocifissa</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crucifixion_of_St_Julia</field>
+</doc>
+<doc>
+<field name="uri">http://dbpedia.org/resource/The_Crucifixion_of_St_Julia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://ru.dbpedia.org/resource/Распятая_мученица_(триптих_Босха)</field>
+<field name="sameAs">http://rdf.freebase.com/ns/m.0261gx8</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crucifixion_of_St_Julia</field>
+<field name="sameAs">http://fr.dbpedia.org/resource/Le_Martyr_de_sainte_Julie</field>
+<field name="sameAs">http://nl.dbpedia.org/resource/Drieluik_van_de_gekruisigde_martelares</field>
+<field name="sameAs">http://it.dbpedia.org/resource/Trittico_della_martire_crocifissa</field>
+<field name="sameAs">http://yago-knowledge.org/resource/The_Crucifixion_of_St_Julia</field>
+<field name="sameAs">http://www.wikidata.org/entity/Q2390224</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_by_Hieronymus_Bosch</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Christian_art_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Paintings_about_death</field>
+<field name="subject" update="add">http://dbpedia.org/resource/Category:Triptychs</field>
+<field name="abstract">The Crucifixion of St Julia is an early triptych by the Dutch painter Hieronymus Bosch. Like many of Bosch paintings, the date of this work is unknown. The painting is oil on panel and measures 104 × 119 cm. It currently resides at the Palazzo Ducale in Venice, Italy. It depicts the crucifixion of the martyr Saint Julia of Corsica. The left wing is known as St. Anthony in Meditation and the right Two Slave-Dealers.</field>
+<field name="label">The Crucifixion of St Julia</field>
+<field name="depiction">http://upload.wikimedia.org/wikipedia/commons/0/0c/BoschTheCrucifixionOfStJulia.jpg</field>
+<field name="comment">The Crucifixion of St Julia is an early triptych by the Dutch painter Hieronymus Bosch. Like many of Bosch paintings, the date of this work is unknown. The painting is oil on panel and measures 104 × 119 cm. It currently resides at the Palazzo Ducale in Venice, Italy. It depicts the crucifixion of the martyr Saint Julia of Corsica. The left wing is known as St. Anthony in Meditation and the right Two Slave-Dealers.</field>
+<field name="name"/>
+<field name="thumbnail">http://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/BoschTheCrucifixionOfStJulia.jpg/200px-BoschTheCrucifixionOfStJulia.jpg</field>
+<field name="link_external">http://www.wga.hu/html/b/bosch/6venice/st_julia.html</field>
+<field name="artist">http://dbpedia.org/resource/Hieronymus_Bosch</field>
+<field name="city">http://dbpedia.org/resource/Venice</field>
+<field name="height">104</field>
+<field name="image"/>
+<field name="museum">http://dbpedia.org/resource/Doge's_Palace,_Venice</field>
+<field name="title">The Crucifixion of St. Julia</field>
+<field name="width">119</field>
+<field name="year">unknown date</field>
+<field name="isPrimaryTopicOf">http://en.wikipedia.org/wiki/The_Crucifixion_of_St_Julia</field>
+<field name="photo-collection">http://wifo5-03.informatik.uni-mannheim.de/flickrwrappr/photos/The_Crucifixion_of_St_Julia</field>
+</doc>
+<doc>
+<field name="uri">http://fr.dbpedia.org/resource/Le_Martyr_de_sainte_Julie</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crucifixion_of_St_Julia</field>
+</doc>
+<doc>
+<field name="uri">http://en.wikipedia.org/wiki/The_Crucifixion_of_St_Julia</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="primaryTopic">http://dbpedia.org/resource/The_Crucifixion_of_St_Julia</field>
+</doc>
+<doc>
+<field name="uri">http://ru.dbpedia.org/resource/Распятая_мученица_(триптих_Босха)</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crucifixion_of_St_Julia</field>
+</doc>
+<doc>
+<field name="uri">http://wikidata.dbpedia.org/resource/Q2390224</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crucifixion_of_St_Julia</field>
+</doc>
+<doc>
+<field name="uri">http://nl.dbpedia.org/resource/Drieluik_van_de_gekruisigde_martelares</field>
+<field name="entity_type">paintings</field>
+<field name="timestamp">NOW</field>
+<field name="sameAs">http://dbpedia.org/resource/The_Crucifixion_of_St_Julia</field>
+</doc>
+</add>
