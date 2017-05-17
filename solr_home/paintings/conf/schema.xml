@@ -5,6 +5,12 @@
 		<fieldType name="string" class="solr.StrField" />
 		<fieldType name='long' class="solr.TrieLongField" />
 
+		<!-- positionIncrementGap is used for phrase query of multi-value fields e.g. doc1 has two titles. 
+   			 title1: ab cd 
+   			 title2: xy zz 
+   			 if your positionIncrementGap is 0, then the position of the 4 terms are 0,1,2,3.  if you search phrase "cd xy", it will hit.
+   			 But you may think it should not match so you can adjust positionIncrementGap to a larger one. e.g. 100.
+   			 Then the positions now are 0,1,100,101. the phrase query will not match it. -->		
 		<fieldType name='text_general' class='solr.TextField' positionIncrementGap='100'>
 			<analyzer>
 				<!-- "MappingCharFilterFactory" -> Normalizes all the accented characters. It's important to provide

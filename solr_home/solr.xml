@@ -4,5 +4,7 @@
 		<core default="true" instanceDir="simple" name="simple"/>
 		<core default="false" instanceDir="pdfs" name="pdfs"/>
 		<core default="false" instanceDir="paintings" name="paintings"/>
+		<core default="false" instanceDir="cities" name="cities"/>
+		<core default="false" instanceDir="geo-location" name="geo-location"/>
 	</cores>
 </solr>

@@ -1,21 +1,21 @@
 1. Cleaning index:
 
-curl 'http://localhost:8983/solr/dbpedia/update?commit=true' -H 'Content-Type: application/json' -d '{"delete": {"query": "*:*"}}'
+curl 'http://localhost:8983/solr/paintings/update?commit=true' -H 'Content-Type: application/json' -d '{"delete": {"query": "*:*"}}'
 
 2. Add data:
 
-curl 'http://localhost:8983/solr/dbpedia/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://en.wikipedia.org/wiki/Mona_Lisa... hey hey hey", "title": "Mona Lisa 1", "museum": "unknown became known", "id": "11" }]'
+curl 'http://localhost:8983/solr/paintings/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://en.wikipedia.org/wiki/Mona_Lisa... hey hey hey", "title": "Mona Lisa 1", "museum": "unknown became known", "id": "11" }]'
 
-curl 'http://localhost:8983/solr/dbpedia/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://en.wikipedia.org/wiki/Mona_Lisa... adding literal 44444", "title": "Mona Lisa adding literal 44444", "museum": "unknown became known adding literal 44444"}]'
+curl 'http://localhost:8983/solr/paintings/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://en.wikipedia.org/wiki/Mona_Lisa... adding literal 44444", "title": "Mona Lisa adding literal 44444", "museum": "unknown became known adding literal 44444"}]'
 
-curl 'http://localhost:8983/solr/dbpedia/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://en.wikipedia.org/wiki/Mona_Lisa", "title": {"set": "Mona Lisa"}, "revision": {"inc": 1}, "museum": {"set": "Update Museum"}}]'
+curl 'http://localhost:8983/solr/paintings/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://en.wikipedia.org/wiki/Mona_Lisa", "title": {"set": "Mona Lisa"}, "revision": {"inc": 1}, "museum": {"set": "Update Museum"}}]'
 
-curl 'http://localhost:8983/solr/dbpedia/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://en.wikipedia.org/wiki/Mona_Lisa", "title": {"set": "Mona Lisa"}, "revision": {"inc": 1}, "museum": {"set": "Update Museum"}, "document_id": "some_id"}]'
+curl 'http://localhost:8983/solr/paintings/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://en.wikipedia.org/wiki/Mona_Lisa", "title": {"set": "Mona Lisa"}, "revision": {"inc": 1}, "museum": {"set": "Update Museum"}, "document_id": "some_id"}]'
 
-curl 'http://localhost:8983/solr/dbpedia/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://dbpedia.org/resource/Mona_Lisa", "title": "Mona Lisa", "artist": "http://dbpedia.org/resource/Leonardo_Da_Vinci", "revision": {"inc": 1}, "museum": "http://dbpedia.org/resource/Louvre"}]'
+curl 'http://localhost:8983/solr/paintings/update?commit=true&wt=json' -H 'Content-Type: application/json' -d '[{"uri": "http://paintings.org/resource/Mona_Lisa", "title": "Mona Lisa", "artist": "http://paintings.org/resource/Leonardo_Da_Vinci", "revision": {"inc": 1}, "museum": "http://paintings.org/resource/Louvre"}]'
 
-Post the DBPedia input_data (located in ~/apache/solr-4.10.3/solr-app/solr_home/dbpedia/input_data/)
+Post the paintings input_data (located in ~/apache/solr-4.10.3/solr-app/solr_home/paintings/input_data/)
 
-java -Durl=http://localhost:8983/solr/dbpedia/update -Dcommit=yes -jar post.jar ~/apache/solr-4.10.3/solr-app/solr_home/dbpedia/input_data/*.xml
+java -Durl=http://localhost:8983/solr/paintings/update -Dcommit=yes -jar post.jar ~/apache/solr-4.10.3/solr-app/solr_home/paintings/input_data/*.xml
 
 searching in web-panel q:"artist:lionardo~0.5" permits us to search for a misspelled name, which is a typical case when searching for a name in a  foreign language.
