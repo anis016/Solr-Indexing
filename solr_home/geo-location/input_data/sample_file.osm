@@ -1,0 +1,80 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<osm version="0.6" generator="Osmosis 0.45">
+  <bounds minlon="10.54725" minlat="50.92887" maxlon="13.21268" maxlat="53.05660" origin="osmconvert 0.8.5"/>
+  <node id="25581848" version="2" timestamp="2012-10-29T09:00:22Z" uid="290680" user="wheelmap_visitor" changeset="13670330" lat="51.3479674" lon="12.2081292">
+    <tag k="name" v="Zur Holländischen Mühle"/>
+    <tag k="amenity" v="restaurant"/>
+    <tag k="created_by" v="JOSM"/>
+    <tag k="wheelchair" v="limited"/>
+  </node>
+  <node id="26317727" version="3" timestamp="2015-02-19T17:11:45Z" uid="496201" user="Nakaner" changeset="28960567" lat="51.803898" lon="12.2367379"/>
+  <node id="26317728" version="3" timestamp="2015-02-19T17:11:45Z" uid="496201" user="Nakaner" changeset="28960567" lat="51.8041358" lon="12.2361939"/>
+  <node id="26317730" version="2" timestamp="2011-07-20T19:44:38Z" uid="45902" user="M_H" changeset="8781563" lat="51.8031062" lon="12.2363851"/>
+  <node id="26344293" version="3" timestamp="2014-01-09T21:05:30Z" uid="42537" user="XBear" changeset="19907812" lat="51.8329347" lon="12.24497"/>
+  <node id="26345256" version="5" timestamp="2015-02-15T21:28:09Z" uid="2060724" user="Sedumjo" changeset="28873294" lat="51.7140823" lon="12.3981037"/>
+  <node id="26354358" version="1" timestamp="2007-03-04T22:10:48Z" uid="5774" user="kurx" changeset="229198" lat="51.7979824" lon="12.2401853">
+    <tag k="name" v="ARAL"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="26354370" version="2" timestamp="2013-03-19T16:23:46Z" uid="496201" user="Nakaner" changeset="15421964" lat="51.794375" lon="12.241009">
+    <tag k="name" v="JET"/>
+    <tag k="brand" v="JET"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="smoking" v="no"/>
+    <tag k="fuel:e10" v="yes"/>
+    <tag k="operator" v="Daniela Hein"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="opening_hours" v="Mo-Fr 04:30-22:30; Sa 06:00-22:30; Su 07:00-22:30"/>
+    <tag k="fuel:octane_95" v="yes"/>
+  </node>
+  <node id="26355625" version="2" timestamp="2010-12-20T15:53:39Z" uid="101570" user="andy-de" changeset="6717198" lat="51.8171363" lon="12.2173665"/>
+  <node id="26355626" version="3" timestamp="2009-07-09T17:17:57Z" uid="2680" user="xylome" changeset="1781992" lat="51.8171118" lon="12.2164271"/>
+  <node id="26355627" version="3" timestamp="2009-07-09T17:17:57Z" uid="2680" user="xylome" changeset="1781992" lat="51.8164873" lon="12.2164062"/>
+  <node id="26355628" version="4" timestamp="2010-12-20T15:53:40Z" uid="101570" user="andy-de" changeset="6717198" lat="51.8164746" lon="12.2171592"/>
+  <node id="26355629" version="4" timestamp="2010-12-20T15:53:38Z" uid="101570" user="andy-de" changeset="6717198" lat="51.8156369" lon="12.2171714"/>
+  <node id="26518598" version="3" timestamp="2011-04-09T08:47:37Z" uid="42537" user="XBear" changeset="7811062" lat="51.8324908" lon="12.2500529"/>
+  <node id="26518599" version="3" timestamp="2011-04-09T08:47:36Z" uid="42537" user="XBear" changeset="7811062" lat="51.8333754" lon="12.251057"/>
+  <node id="26518600" version="3" timestamp="2013-12-06T10:36:54Z" uid="125264" user="Spitzbart" changeset="19303803" lat="51.8332873" lon="12.2502789"/>
+  <node id="26519425" version="1" timestamp="2007-03-13T21:53:08Z" uid="5448" user="ecki" changeset="235447" lat="51.8194794" lon="12.3009665">
+    <tag k="amenity" v="parking"/>
+    <tag k="created_by" v="JOSM"/>
+  </node>
+  <node id="26632930" version="15" timestamp="2016-02-17T15:14:23Z" uid="3618014" user="phideta" changeset="37268808" lat="51.8161128" lon="12.1978431">
+    <tag k="name" v="Städtisches Klinikum Dessau"/>
+    <tag k="layer" v="2"/>
+    <tag k="amenity" v="hospital"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="toilets:wheelchair" v="yes"/>
+  </node>
+  <node id="26633498" version="8" timestamp="2014-10-15T12:12:21Z" uid="244289" user="Win32netsky" changeset="26093515" lat="51.8261673" lon="12.2151404">
+    <tag k="fax" v="+49 (0)340 517102"/>
+    <tag k="name" v="ARAL"/>
+    <tag k="brand" v="Aral"/>
+    <tag k="phone" v="+49 (0)340 517101"/>
+    <tag k="amenity" v="fuel"/>
+    <tag k="fuel:diesel" v="yes"/>
+    <tag k="fuel:number" v="0287374102"/>
+    <tag k="opening_hours" v="24/7"/>
+    <tag k="fuel:octane_95" v="yes"/>
+    <tag k="fuel:octane_98" v="yes"/>
+    <tag k="fuel:GTL_diesel" v="yes"/>
+    <tag k="fuel:octane_100" v="yes"/>
+  </node>
+  <node id="30149372" version="2" timestamp="2016-01-23T11:58:35Z" uid="51324" user="OPerivar" changeset="36756623" lat="53.0202332" lon="11.5294473"/>
+  <node id="30149373" version="2" timestamp="2016-01-23T11:58:35Z" uid="51324" user="OPerivar" changeset="36756623" lat="53.0200971" lon="11.5296531"/>
+  <node id="30149374" version="2" timestamp="2016-01-23T11:58:35Z" uid="51324" user="OPerivar" changeset="36756623" lat="53.0198128" lon="11.5297879"/>
+  <node id="30173399" version="4" timestamp="2014-07-13T21:00:43Z" uid="321840" user="Natura" changeset="24128471" lat="51.6148669" lon="12.3301485"/>
+  <node id="30173401" version="5" timestamp="2016-01-01T21:10:24Z" uid="2496254" user="Rini1" changeset="36306271" lat="51.6144305" lon="12.3305566"/>
+  <node id="31209743" version="7" timestamp="2015-04-20T20:03:36Z" uid="497849" user="pyram" changeset="30363215" lat="51.8385245" lon="12.2482679"/>
+  <node id="31209984" version="11" timestamp="2017-03-01T19:51:27Z" uid="483732" user="simsidii" changeset="46503169" lat="51.8336899" lon="12.2453463">
+    <tag k="addr:city" v="Dessau-Roßlau"/>
+    <tag k="addr:postcode" v="06844"/>
+    <tag k="addr:street" v="Am Alten Theater"/>
+    <tag k="amenity" v="parking"/>
+    <tag k="name" v="Rathaus-Center"/>
+    <tag k="parking" v="underground"/>
+    <tag k="wheelchair" v="yes"/>
+    <tag k="wheelchair:description" v="Tiefgarage nutzen ! Parkscheine werden am Servicepunkt frei geschaltet gegen Vorlage des Behindertenausweis"/>
+  </node>
+</osm>

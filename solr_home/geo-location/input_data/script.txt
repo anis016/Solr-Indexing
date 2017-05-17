@@ -1,0 +1,14 @@
+osmosis/bin/osmosis -v 5 \
+--read-xml file=sachsen-anhalt-latest.osm.bz2 \
+--tf reject-relations \
+--tf accept-nodes amenity=* \
+--tf reject-ways \
+outPipe.0=POI \
+\
+--read-xml file=sachsen-anhalt-latest.osm.bz2 \
+--tf reject-relations \
+--tf accept-ways amenity=* \
+--used-node outPipe.0=area \
+\
+--merge inPipe.0=POI inPipe.1=area \
+--write-xml file=sachsen-anhalt-latest.osm

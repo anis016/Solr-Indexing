@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<schema name="cities" version="1.1">
+
+	<types>
+		<fieldType name="string" class="solr.StrField" />
+		<fieldType name="long" class="solr.TrieLongField" />
+		<fieldType name="location" class="solr.LatLonType" subFieldSuffix="_lat_lon" />
+		<fieldType name="text" class="solr.TextField" positionIncrementGap="100">
+			<analyzer>
+				<charFilter class='solr.MappingCharFilterFactory' mapping='mapping-ISOLatin1Accent.txt' />
+				<tokenizer class='solr.StandardTokenizerFactory' />
+				<filter class='solr.LowerCaseFilterFactory' />
+			</analyzer>
+		</fieldType>
+	</types>
+
+	<fields>
+		<field name="id" type="long" required="true" />
+		<field name="city" type="text" required="true" indexed="true" stored="true" />
+		<dynamicField name="*" type="string" multiValued="false" indexed="true" stored="true" />
+		<dynamicField name="*_coordinates" type="location" indexed="true" stored="true" />
+	</fields>
+
+	<uniqueKey>id</uniqueKey>
+
+</schema>
